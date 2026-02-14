@@ -1,0 +1,3689 @@
+#AREADATA
+Name Balifor~
+Builders Kiri~
+Continent (null)~
+Sector 0
+VNUMs 10201 10500
+Credits Kiri-Jolith~
+Security 9
+End
+
+
+
+#MOBILES
+#10201
+fat bloated rat~
+a bloated rat~
+A fat and bloated rat scurries about.
+~
+~
+rabbit~
+AG 0 0 0
+5 5 8d2+46 5d10+85 1d5+6 bite
+6 6 6 8
+FH 0 0 0
+stand stand none 5
+AGV ABCDEFHJKQUV S unknown 0
+#10202
+shady figure bookie~
+a shady bookie~
+A cloaked figure stands here, counting money.
+~
+~
+human~
+AB 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 punch
+-4 -4 -4 1
+0 0 0 0
+stand stand male 320
+AHMV ABCDEFGHIJK M unknown 0
+#10203
+balifor city guard~
+a Balifor guard~
+A Balifor city guard stands here, scanning for trouble.
+~
+~
+human~
+AG 0 200 0
+38 38 57d12+346 38d10+85 10d3+17 none
+-8 -8 -8 0
+QTU 0 Q 0
+stand stand male 410
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#10201
+no name~
+.~
+.~
+steel~
+trash IKYa 0 AE
+0 0 0 0 0
+40 4 100000 P
+#0
+
+
+
+#ROOMS
+#10240
+Wave Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10316
+D2
+~
+~
+0 0 10239
+D3
+~
+~
+0 0 10317
+S
+#10241
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10208
+D2
+~
+~
+0 0 10242
+S
+#10242
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10241
+D2
+~
+~
+0 0 10243
+S
+#10243
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10242
+D2
+~
+~
+0 0 10244
+S
+#10244
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10243
+D2
+~
+~
+0 0 10245
+D3
+~
+~
+0 0 10280
+S
+#10245
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10244
+D2
+~
+~
+0 0 10246
+S
+#10246
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10245
+D2
+~
+~
+0 0 10247
+S
+#10247
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10246
+D2
+~
+~
+0 0 10248
+S
+#10248
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10247
+D2
+~
+~
+0 0 10249
+S
+#10249
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10248
+D2
+~
+~
+0 0 10250
+S
+#10250
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10249
+D1
+~
+~
+0 0 10251
+S
+#10251
+Wave Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10252
+D3
+~
+~
+0 0 10250
+S
+#10252
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10251
+D1
+~
+~
+0 0 10253
+S
+#10253
+Wave Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10254
+D3
+~
+~
+0 0 10252
+S
+#10254
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10253
+D1
+~
+~
+0 0 10255
+S
+#10255
+Wave Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10256
+D3
+~
+~
+0 0 10254
+S
+#10256
+End of Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10255
+D1
+~
+~
+0 0 10257
+S
+#10257
+A Circular Enclave~
+~
+0 0 0
+D1
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10256
+S
+#10258
+A Raised Marble Dais~
+~
+0 0 0
+D0
+~
+~
+0 0 10257
+S
+#10259
+A Circular Enclave~
+~
+0 0 0
+D0
+~
+~
+0 0 10260
+D3
+~
+~
+0 0 10257
+S
+#10260
+Scud Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10261
+D2
+~
+~
+0 0 10259
+S
+#10261
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10262
+D3
+~
+~
+0 0 10260
+S
+#10262
+Scud Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10263
+D2
+~
+~
+0 0 10261
+S
+#10263
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10264
+D1
+~
+~
+0 0 10403
+D3
+~
+~
+0 0 10262
+S
+#10264
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10265
+D2
+~
+~
+0 0 10263
+S
+#10265
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10266
+D2
+~
+~
+0 0 10264
+S
+#10266
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10267
+D2
+~
+~
+0 0 10265
+S
+#10267
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10268
+D2
+~
+~
+0 0 10266
+S
+#10268
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10395
+D2
+~
+~
+0 0 10267
+S
+#10269
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10270
+D2
+~
+~
+0 0 10268
+S
+#10270
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10271
+D2
+~
+~
+0 0 10269
+S
+#10271
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10272
+D2
+~
+~
+0 0 10270
+S
+#10272
+Scud Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10271
+D3
+~
+~
+0 0 10273
+S
+#10273
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10274
+D1
+~
+~
+0 0 10272
+S
+#10274
+Scud Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10215
+D2
+~
+~
+0 0 10273
+S
+#10275
+Ptarus Street~
+Leading to the docks in the north, Ptarus Street continues on northwards
+and southwards.  The street surface is constructed of granite cobblestones,
+each polished by the passage of feet to reflect the light.  Gutters are
+carved into the street on either side for the collection of both rainwater
+and blood.  
+~
+0 0 0
+D0
+~
+~
+0 0 10205
+D2
+~
+~
+0 0 10276
+S
+#10276
+Ptarus Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10275
+D2
+~
+~
+0 0 10277
+S
+#10277
+Ptarus Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10276
+D1
+~
+~
+0 0 10278
+S
+#10278
+Ptarus Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10279
+D3
+~
+~
+0 0 10277
+S
+#10279
+Ptarus Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10278
+D1
+~
+~
+0 0 10280
+D2
+~
+~
+0 0 10459
+S
+#10280
+Ptarus Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10244
+D3
+~
+~
+0 0 10279
+S
+#10281
+A Darkened Alley~
+The bright orange paint of the portion of the alley adjoining the street
+gives way to a sooty dull black with splashes of dried blood.  The gravel
+here also exhibits signs of violence, with fragments of bone mixed into the
+black crushed shale.  The alley seems to be one of the best places for
+dueling, and vandals have taken advantage of this to paint a white ring on
+the gravel in the middle of the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 10211
+D2
+~
+~
+0 0 10282
+S
+#10282
+A Darkened Alley~
+Several white rings have been painted on the gravel for the use of
+dueling.  Blood stains and bone fragments attest to both the cruelty of the
+guards towards prisoners and the violence of dueling.  A couple of small
+booths have been constructed to either side of the street for onlookers to
+place bets, or the winner to pawn the loser's equipment.  
+~
+0 0 1
+D0
+~
+~
+0 0 10281
+D2
+~
+~
+0 0 10283
+S
+#10283
+An Entry Hall~
+The designers of the barracks and jail complex employed a novel idea; the
+use of an entry hall to conserve heat in the winter.  Several signs
+depicting wanted persons line the walls of the entry hall.  Again, the signs
+are in the guard code, and indecipherable to the general public save for the
+picture.  A thick, bearskin rug lies on the floor to give the impression of
+a cozy rather than harsh environment.  
+~
+0 0 0
+D0
+~
+~
+0 0 10282
+D1
+~
+~
+0 0 10284
+D3
+~
+~
+0 0 10285
+S
+#10284
+Beginning of a Narrow Jail Corridor~
+~
+0 0 0
+D2
+~
+~
+0 0 10291
+D3
+~
+~
+0 0 10283
+S
+#10285
+Beginning of a Small Corridor~
+A door lies to the south, where the corridor continues to the guards quarters.
+There is a small post here, intended to both prevent outsiders from entering 
+the barracks and to serve as a recruitment office.  Posters of wanted criminals
+line the walls, and a smell much like aged pine is in the air.  The exterior 
+of the barracks might be stone, but the interior is constructed completely of
+pine, a testament to the devotion of the city to its soldiery.
+~
+0 4 0
+D1
+~
+~
+0 0 10283
+D2
+~
+~
+0 0 10286
+S
+#10286
+A Small Corridor~
+Doors line the walls, each decorated in a different fashion according to the 
+individual style of the soldiers who live inside.  There are no locks on any of
+the doors:  an improvement to aid in case of fire.  The corridor itself looks 
+worn, and in some places, the pine paneling creaks loudly when stepped upon.
+Candles in racks line the walls, to light the place for the night shift.  The 
+ceiling is constructed of bleached plaster to reflect whatever light is cast 
+upon it.
+~
+0 0 0
+D0
+~
+~
+0 0 10285
+D1
+~
+~
+0 0 10301
+D2
+~
+~
+0 0 10287
+D3
+~
+~
+0 0 10311
+S
+#10287
+A Small Corridor~
+The pine paneling in this section of the coridor is stained a murky grey from 
+the constant burning of incense somewhere in the area.  Creaky spots on the 
+floor abound, but the soft aroma of incense drowns out most worries. One 
+wonders if some sort drug is contained within the incense.  There are rooms
+to the east and west of here.  The corridor continues on south, and another 
+door can be seen at the end of the corridor.
+~
+0 0 0
+D0
+~
+~
+0 0 10286
+D1
+~
+~
+0 0 10302
+D2
+~
+~
+0 0 10288
+D3
+~
+~
+0 0 10312
+S
+#10288
+A Small COrridor~
+The aroma of slowly aging pine prevades the corridor.  To either side of
+the corridor, smaller doors indicate the soldier's rooms.  The corridor
+itself is decorated in the style of the guards, with bright orange livery
+and gold trim.  The floor is covered in a similarly decorated rug, providing
+a sense of warmth to the corridor.  Candles line the walls, lighting the way
+for the night shift.  
+~
+0 0 0
+D0
+~
+~
+0 0 10287
+D1
+~
+~
+0 0 10303
+D2
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10313
+S
+#10289
+A Small Corridor~
+The pine floor here has aged quite a bit, almost to the point that it
+creaks when stepped upon.  Small doors to either side of the corridor
+indicate private guard rooms.  The name of each guard staying in a room is
+written on the door in large block lettering, so that it may easily be seen
+through ale-altered eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 10288
+D1
+~
+~
+0 0 10304
+D2
+~
+~
+0 0 10290
+D3
+~
+~
+0 0 10324
+S
+#10290
+A Small Corridor~
+The pine paneling in this section of the coridor is stained a murky grey
+from the constant burning of incense in the area.  Creaky spots on the floor
+abound, but the soft aroma of incense drowns out most worries.  One wonders
+if some sort drug is contained within the incense.  There are rooms to the
+east and west, however the corridor dead ends and continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 10289
+D1
+~
+~
+0 0 10305
+D3
+~
+~
+0 0 10315
+S
+#10291
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10284
+D1
+~
+~
+0 0 10306
+D2
+~
+~
+0 0 10292
+D3
+~
+~
+0 0 10296
+S
+#10292
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10291
+D1
+~
+~
+0 0 10307
+D2
+~
+~
+0 0 10293
+D3
+~
+~
+0 0 10297
+S
+#10293
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10292
+D1
+~
+~
+0 0 10308
+D2
+~
+~
+0 0 10294
+D3
+~
+~
+0 0 10298
+S
+#10294
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10293
+D1
+~
+~
+0 0 10309
+D2
+~
+~
+0 0 10295
+D3
+~
+~
+0 0 10299
+S
+#10295
+~
+~
+0 0 1
+D0
+~
+~
+0 0 10294
+D1
+~
+~
+0 0 10310
+D3
+~
+~
+0 0 10300
+S
+#10296
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10291
+S
+#10297
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10292
+S
+#10298
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10293
+S
+#10299
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10294
+S
+#10300
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10295
+S
+#10301
+A Guards Room~
+The room is disorderly, with bits of clothing and armor scattered about. 
+Tacked to the wall is a notice from the Field Marshall that the soldiers will 
+be executed as examples if this amount of uncleanliness continues.  The 
+soldiers have taken the notice and used it for a dartboard.  On the far wall,
+a sword with crusted blood hangs from a peg.  Bits of flesh still cling to the 
+blade, causing an unsavory odor.
+ 
+~
+0 0 0
+D3
+~
+~
+0 0 10286
+S
+#10302
+A Guards Room~
+A brisk light quality seems to be the theme of this room.  The air seems
+to shimmer in the light, as if a thousand fireflies were continually flying
+about in the room.  Standard bunks line the walls, the bedding the same
+cheery colour as the air.  A target is mounted on the wall, and the blades
+of several knives are imbedded in it.  Thrown so hard as to break the
+handle, the blades of the knives have rusted over, yielding little sure grip
+for which to remove them.  
+~
+0 0 0
+D3
+~
+~
+0 0 10287
+S
+#10303
+A Guards Room~
+Apparently, all six of the soldiers living in this room share a devotion to a
+single spirit, perhaps an ancestor of some sort.  There is a statue near the 
+far wall depicting the spirit in gleaming silver.  Incense and sweet woods burn
+around it, filling the room with a ponderous odor of devotion.  A jug of wine 
+rests near one of the bunks, with a seal stamped on it permitting it into the 
+barracks for religious reasons.
+~
+0 0 0
+D3
+~
+~
+0 0 10288
+S
+#10304
+A Guards Room~
+The room is plain, unlike most of the others.  The guards here obviously
+did not care enough to spend their hard-earned money to decorate their room.
+The interior wood of the room is splintery and fragmented, indicating hasty
+repairs after possibly a drunken fight.  A fire pit is located in one
+corner, with a hole in the ceiling for smoke to escape.  
+~
+0 0 0
+D3
+~
+~
+0 0 10289
+S
+#10305
+A Guards Room~
+This is the room where the mortuary attendants are housed.  As the morgue
+is just across the hall, every attendant is heavily trained in combat
+against necromancers and the undead.  Far too often in the past, a
+necromancer has slipped into the morgue and animated several corpses to
+serve his or her own purposes.  
+~
+0 0 0
+D3
+~
+~
+0 0 10290
+S
+#10306
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10291
+S
+#10307
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10292
+S
+#10308
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10293
+S
+#10309
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10294
+S
+#10310
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10295
+S
+#10311
+A Guards Room~
+The occupants of this room use it for training, judging by the disrepair of 
+the bunks.  There are deep sword gouges in the bunks, and a fair amount of 
+dried blood scattered about.  By the door there is a jar of blood, taken from 
+dying enemies.  The soldiers cut off the ring finger of the right hand from 
+each fallen opponent and squeeze it dry into the jar.  Once the jar is full, 
+the soldiers mix it into a barrel of wine and host a party.
+~
+0 0 0
+D1
+~
+~
+0 0 10286
+S
+#10312
+A Guards Room~
+The room is made out to be a forest.  A carpet of pine needles covers the 
+planks of the floor and the single window is obscured by a potted tree of some 
+sort.  The soldiers living here must assuredly be from some rural province. 
+Remnants of bunks can be seen, however they have been stripped away plank
+by plank to create exercise bars and weird contraptions designed for building 
+muscle.
+~
+0 0 0
+D1
+~
+~
+0 0 10287
+S
+#10313
+A Guards Room~
+This room follows a spit-and-polish format.  All items in the room are kept 
+clean to the point of a bright gleam.  Weaponry is secured in precise and 
+ordered racks with each guardsmans name engraved on his or her individual 
+piece.  A gilded sword is the centerpiece of the room, drawing the attenion to 
+the far wall and the portraits of the soldiers loved ones.  The six soldiers 
+living here have taken an oath to care for the fallen ones family.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 10288
+S
+#10314
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10325
+D2
+~
+~
+0 0 10323
+S
+#10315
+The Morgue.~
+The room appears to be inhabited by corpses.  The dead of the city guard
+are kept here, in bunks modified to contain a pickling solution for the
+corpses.  The room is used for invistigations of the natural or unnatural
+death or a guard member or citizen.  The solution emits an acrid odor, as it
+is partially acidic to prevent decay.  
+~
+0 0 11
+D1
+~
+~
+0 0 10290
+S
+#10316
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10240
+S
+#10317
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10240
+S
+#10318
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10239
+S
+#10319
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10237
+S
+#10320
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10321
+D3
+~
+~
+0 0 10237
+S
+#10321
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10322
+D2
+~
+~
+0 0 10458
+D3
+~
+~
+0 0 10320
+S
+#10322
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10323
+D3
+~
+~
+0 0 10321
+S
+#10323
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10314
+D3
+~
+~
+0 0 10322
+S
+#10324
+A Guards Room~
+The room houses six guardsmen, and apparently the tastes of all follow
+foreign battles.  The walls, or whatever is left of them after the bunks are
+stacked, are painted to appear as one huge battle.  The soldiers apparently
+hired a local artist off of their wages to decorate the room.  Looking at
+the ceiling, there are two crossed swords covered by a shield where the sun
+is located.  The bunks are worked into the painting, appearing as extentions
+of the main picture.  
+~
+0 0 0
+D1
+~
+~
+0 0 10289
+S
+#10325
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10314
+S
+#10326
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10327
+D2
+~
+~
+0 0 10348
+D3
+~
+~
+0 0 10325
+S
+#10327
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10328
+S
+#10328
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10329
+D1
+~
+~
+0 0 10327
+S
+#10329
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10330
+D2
+~
+~
+0 0 10328
+S
+#10330
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10331
+D2
+~
+~
+0 0 10329
+S
+#10331
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10342
+D2
+~
+~
+0 0 10332
+D3
+~
+~
+0 0 10330
+S
+#10332
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10331
+D1
+~
+~
+0 0 10333
+S
+#10333
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10334
+D3
+~
+~
+0 0 10332
+S
+#10334
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10333
+D2
+~
+~
+0 0 10335
+S
+#10335
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10334
+D1
+~
+~
+0 0 10336
+S
+#10336
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10337
+D2
+~
+~
+0 0 10344
+D3
+~
+~
+0 0 10335
+S
+#10337
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10338
+D2
+~
+~
+0 0 10336
+S
+#10338
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10339
+D1
+~
+~
+0 0 10366
+D2
+~
+~
+0 0 10337
+S
+#10339
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10340
+D2
+~
+~
+0 0 10338
+S
+#10340
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10339
+D3
+~
+~
+0 0 10341
+S
+#10341
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10340
+D3
+~
+~
+0 0 10342
+S
+#10342
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10341
+D2
+~
+~
+0 0 10331
+S
+#10344
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10336
+D2
+~
+~
+0 0 10345
+S
+#10345
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10344
+D3
+~
+~
+0 0 10346
+S
+#10346
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10345
+D3
+~
+~
+0 0 10347
+S
+#10347
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10348
+D1
+~
+~
+0 0 10346
+S
+#10348
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10326
+D2
+~
+~
+0 0 10347
+D3
+~
+~
+0 0 10349
+S
+#10349
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10348
+S
+#10351
+Zahz Pier~
+To the west, Zahz Pier connects with Main Pier.  Zahz Pier is currently
+rented by the minotaur ships Gar'ath and Bak'ala.  The dock itself is
+cluttered with line and provisions waiting to be loaded onto one of the two
+ships.  There appear to be jagged cuts in the surface of the dock, and from
+one of them a broken sword blade juts out, signifying the violent nature of
+the minotaur crews.  
+~
+0 0 1
+D1
+~
+~
+0 0 10352
+D3
+~
+~
+0 0 10234
+S
+#10352
+Zahz Pier~
+To the south lies the boarding ramp for the vessel Gar'ath.  Although
+smaller than the Bak'ala, the Gar'ath does hold the reputation for being the
+swifter of the two ships.  There is constant competition between the two,
+even though the crews of both belong to the same clan.  Overhead, a
+triangular green standard displays a silver crescent.  
+~
+0 0 1
+D1
+~
+~
+0 0 10353
+D2
+~
+~
+0 0 10364
+D3
+~
+~
+0 0 10351
+S
+#10353
+Zahz Pier~
+Zahz Pier ends here, connecting to a boarding ramp that leads to the
+Frigate Bak'ala to the east.  This section of Zahz Pier, maintained by the
+crew of the Bak'ala is in excellent condition, with none of the gaping holes
+or dangerous sections present on the Main pier.  The Bak'ala's crew has good
+reason to be concerned, as minotaurs weigh a great deal more than humans.  
+~
+0 0 1
+D1
+~
+~
+0 0 10354
+D3
+~
+~
+0 0 10352
+S
+#10354
+A Boarding Ramp~
+As the Frigate is much larger than any of the other vessels docked here,
+it requires much deeper water.  In order to reach this depth without making
+the pier itself unstable, a sort of supported extended boarding ramp has
+been designed.  The ramp itself gradually rises to the level of the main
+deck of the ship, with supports attached to the ship and the dock.  
+~
+0 0 0
+D1
+~
+~
+0 0 10361
+D3
+~
+~
+0 0 10353
+S
+#10355
+Kril Pier~
+Kril Pier appears to be in good repair, compliments of the captain of the
+Swordfish.  The Swordfish has rented the pier indefinitely, and the captain
+has seen fit to clean the mounds of garbage that plague the other sections
+of dock.  The crates have also been moved to the edges of the dock,
+providing a heavy barrier to prevent sailors from slipping to their deaths. 
+~
+0 0 0
+D1
+~
+~
+0 0 10356
+D3
+~
+~
+0 0 10231
+S
+#10356
+Kril Pier~
+The boarding ramp for the Swordfish lies to the north.  Being a smallish
+ship, the Swordfish does not use all of the rented dock space.  So the
+captain has rented the very tip of the pier to a small fishing boat, thats
+mast is visible to the east.  Crates of provisions are neatly scattered
+about, testament to the captain's commitment to order.  
+~
+0 0 1
+D0
+~
+~
+0 0 10359
+D1
+~
+~
+0 0 10357
+D3
+~
+~
+0 0 10355
+S
+#10357
+Kril Pier~
+The boarding ramp to the fishing boat Edge lies to the east.  The
+fisherman apparently shares the captain of the Swordfish's views on order,
+as evident by the neat clutter of fishing gear and provisions.  Being only a
+small boat, the Edge requires very few provisions, and is at sea only a few
+days out of the week.  
+~
+0 0 1
+D1
+~
+~
+0 0 10358
+D3
+~
+~
+0 0 10356
+S
+#10358
+Aboard the Edge~
+The Edge is a smallish boat, and there is little room to maneuver about. 
+The captain has repaired a new fishing net, which is strung over the side of
+the Edge to dry out.  Several lobster crates rest in a corner, waiting to be
+employed.  The sail is folded neatly to the aft of the vessel, and displays
+the colors of a ship of Balifor.  
+~
+0 0 0
+D3
+~
+~
+0 0 10357
+S
+#10359
+Aboard the Swordfish~
+~
+0 0 0
+D1
+~
+~
+0 0 10360
+D2
+~
+~
+0 0 10356
+D5
+~
+~
+0 0 10407
+S
+#10360
+Aboard the Swordfish~
+~
+0 0 0
+D3
+~
+~
+0 0 10359
+S
+#10361
+Aboard the Frigate Bak'ala~
+The frigate seems to be in admirable shape.  Here and there, there are
+polished spots on the deck that indicate heavy weapons placements.  Near the
+aft of the ship, the captain's quarters may be seen.  The entire ship
+appears strong, and battle ready should the need arise.  Flying from the
+mast to the south is the ensign of the captain of the ship, a silver
+crescent on a rich green backdrop.  The flag itself shows signs of battle,
+with a portion of the lower half burned completely away.  
+~
+0 0 0
+D2
+~
+~
+0 0 10362
+D3
+~
+~
+0 0 10354
+S
+#10362
+The Frigate Bak'ala~
+Nailed to the main mast is a single platinum coin, depicting a raised silver
+crescent, and the crew assignments for the day.  The writing, is, however in
+the code used by the crew and is utterly indecipherable to anyone not
+familliar with its intricacies.  To the north is the boarding ramp, whereas to
+the south, the captain's quarters are accessible through a small door.
+~
+0 0 0
+D0
+~
+~
+0 0 10361
+D2
+~
+~
+0 0 10363
+S
+#10363
+The Frigate Bak'ala~
+The captains quarters also serve as a command center for the ship.  Being
+a vessel of war, it is often called upon to coordinate and lead an attack. 
+The minotaurs that man the vessel apparently do not have that much of a
+decorative edge.  The table at the center of the room is clearly for
+functionality, with no engravings whatsoever.  
+~
+0 0 0
+D0
+~
+~
+0 0 10362
+S
+#10364
+Aboard the Minotaur Ship Gar'ath~
+~
+0 0 0
+D0
+~
+~
+0 0 10352
+D1
+~
+~
+0 0 10365
+D5
+~
+~
+0 0 10405
+S
+#10365
+Aboard the Gar'ath~
+~
+0 0 0
+D3
+~
+~
+0 0 10364
+S
+#10366
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10367
+D3
+~
+~
+0 0 10338
+S
+#10367
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10368
+D3
+~
+~
+0 0 10366
+S
+#10368
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10367
+D1
+~
+~
+0 0 10369
+S
+#10369
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10370
+D3
+~
+~
+0 0 10368
+S
+#10370
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10369
+D2
+~
+~
+0 0 10371
+S
+#10371
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10370
+D2
+~
+~
+0 0 10372
+S
+#10372
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10371
+D1
+~
+~
+0 0 10373
+S
+#10373
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10375
+D3
+~
+~
+0 0 10372
+S
+#10374
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10373
+S
+#10375
+Kril Street~
+~
+0 0 1
+D0
+~
+~
+0 0 10373
+D1
+~
+~
+0 0 10379
+D3
+~
+~
+0 0 10376
+S
+#10376
+Intersection of Kril and Tortoise Streets~
+~
+0 0 1
+D1
+~
+~
+0 0 10375
+D2
+~
+~
+0 0 10388
+D3
+~
+~
+0 0 10377
+S
+#10377
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10376
+D3
+~
+~
+0 0 10378
+S
+#10378
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10377
+D3
+~
+~
+0 0 10217
+S
+#10379
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10380
+D3
+~
+~
+0 0 10375
+S
+#10380
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10381
+D3
+~
+~
+0 0 10379
+S
+#10381
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10382
+D3
+~
+~
+0 0 10380
+S
+#10382
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10383
+D3
+~
+~
+0 0 10381
+S
+#10383
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10384
+D3
+~
+~
+0 0 10382
+S
+#10384
+~
+~
+0 0 1
+D1
+~
+~
+0 0 10385
+D3
+~
+~
+0 0 10383
+S
+#10385
+~
+~
+0 0 1
+D0
+~
+~
+0 0 10387
+D1
+~
+~
+0 0 10386
+D3
+~
+~
+0 0 10384
+S
+#10386
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10385
+S
+#10387
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10385
+S
+#10388
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10376
+D2
+~
+~
+0 0 10389
+S
+#10389
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10388
+D1
+~
+~
+0 0 10460
+D2
+~
+~
+0 0 10390
+S
+#10390
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10389
+D3
+~
+~
+0 0 10391
+S
+#10391
+Tortoise Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10390
+D2
+~
+~
+0 0 10392
+S
+#10392
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10391
+D2
+~
+~
+0 0 10393
+S
+#10393
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10392
+D3
+~
+~
+0 0 10394
+S
+#10394
+Tortoise Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10393
+D2
+~
+~
+0 0 10395
+S
+#10395
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10394
+D2
+~
+~
+0 0 10396
+D3
+~
+~
+0 0 10268
+S
+#10396
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10395
+D1
+~
+~
+0 0 10397
+S
+#10397
+Tortoise Street~
+~
+0 0 0
+D2
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10396
+S
+#10398
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10397
+D1
+~
+~
+0 0 10399
+D2
+~
+~
+0 0 10400
+S
+#10399
+{CThe Brew{x~
+~
+0 2098176 0
+D3
+~
+~
+0 0 10398
+S
+#10400
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10401
+S
+#10401
+Tortoise Street~
+~
+0 0 0
+D1
+~
+~
+0 0 10400
+D2
+~
+~
+0 0 10402
+S
+#10402
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10401
+D2
+~
+~
+0 0 10403
+S
+#10403
+Tortoise Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10402
+D2
+~
+~
+0 0 10421
+D3
+~
+~
+0 0 10263
+S
+#10405
+Cargo Hold of the Gar'ath~
+~
+0 0 0
+D1
+~
+~
+0 0 10406
+D4
+~
+~
+0 0 10364
+S
+#10406
+Cargo Hold of the Garath~
+~
+0 0 0
+D3
+~
+~
+0 0 10405
+S
+#10407
+Cargo Hold of the Swordfish~
+~
+0 0 0
+D1
+~
+~
+0 0 10408
+D4
+~
+~
+0 0 10359
+S
+#10408
+Cargo Hold of the Swordfish~
+~
+0 0 0
+D3
+~
+~
+0 0 10407
+S
+#10421
+Temple {xof {RZeboim{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10403
+D2
+~
+~
+0 0 10422
+S
+#10422
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10421
+D1
+~
+~
+0 0 10423
+D2
+~
+~
+0 0 10453
+S
+#10423
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10424
+D3
+~
+~
+0 0 10422
+S
+#10424
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10425
+D3
+~
+~
+0 0 10423
+S
+#10425
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10424
+D1
+~
+~
+0 0 10426
+S
+#10426
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10427
+D3
+~
+~
+0 0 10425
+S
+#10427
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10426
+D1
+~
+~
+0 0 10428
+S
+#10428
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10429
+D3
+~
+~
+0 0 10427
+S
+#10429
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10428
+D2
+~
+~
+0 0 10430
+S
+#10430
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10429
+D2
+~
+~
+0 0 10431
+S
+#10431
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10430
+D2
+~
+~
+0 0 10432
+S
+#10432
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10431
+D3
+~
+~
+0 0 10433
+S
+#10433
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10432
+D2
+~
+~
+0 0 10434
+S
+#10434
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10433
+D3
+~
+~
+0 0 10435
+S
+#10435
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10434
+D3
+~
+~
+0 0 10436
+S
+#10436
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10435
+D3
+~
+~
+0 0 10437
+S
+#10437
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10438
+D1
+~
+~
+0 0 10436
+S
+#10438
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10437
+D3
+~
+~
+0 0 10439
+S
+#10439
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10440
+D1
+~
+~
+0 0 10438
+D3
+~
+~
+0 0 10455
+S
+#10440
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10439
+D3
+~
+~
+0 0 10441
+S
+#10441
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10442
+D1
+~
+~
+0 0 10440
+S
+#10442
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10443
+D2
+~
+~
+0 0 10441
+S
+#10443
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10444
+D2
+~
+~
+0 0 10442
+S
+#10444
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10445
+D3
+~
+~
+0 0 10443
+S
+#10445
+Walk of the {RDead{x~
+~
+0 0 0
+D1
+~
+~
+0 0 10446
+D2
+~
+~
+0 0 10444
+S
+#10446
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10453
+D1
+~
+~
+0 0 10447
+D3
+~
+~
+0 0 10445
+S
+#10447
+Walk of the {RDead{x~
+~
+0 0 0
+D2
+~
+~
+0 0 10448
+D3
+~
+~
+0 0 10446
+S
+#10448
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10447
+D2
+~
+~
+0 0 10449
+S
+#10449
+Crypt {xof {RZeboim~
+~
+0 0 11
+D0
+~
+~
+0 0 10448
+D1
+~
+~
+0 0 10450
+D2
+~
+~
+0 0 10451
+S
+#10450
+Crypt {xof {RZeboim~
+~
+0 0 11
+D2
+~
+~
+0 0 10452
+D3
+~
+~
+0 0 10449
+S
+#10451
+Crypt {xof {RZeboim~
+~
+0 0 11
+D0
+~
+~
+0 0 10449
+D1
+~
+~
+0 0 10452
+S
+#10452
+Crypt {xof {RZeboim~
+~
+0 0 11
+D0
+~
+~
+0 0 10450
+D3
+~
+~
+0 0 10451
+S
+#10453
+Walk of the {RDead{x~
+~
+0 0 0
+D0
+~
+~
+0 0 10422
+D2
+~
+~
+0 0 10446
+S
+#10454
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10439
+D2
+~
+~
+0 0 10456
+S
+#10455
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10439
+D2
+~
+~
+0 0 10457
+S
+#10456
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10454
+S
+#10457
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10455
+S
+#10458
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10321
+S
+#10459
+A Quaint Little Shop~
+~
+0 0 0
+D0
+~
+~
+0 0 10279
+S
+#10460
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10389
+S
+#10201
+Verdant Plaines~
+~
+0 0 2
+D1
+~
+~
+0 0 10202
+S
+#10202
+Verdant Plaines~
+~
+0 0 2
+D1
+~
+~
+0 0 10203
+D3
+~
+~
+0 0 10201
+S
+#10203
+Outside the Western Gate of Balifor~
+Overhead tower massive iron gates.  For the most part, they seem in good 
+condition, albeit with a burn scar or two from a past siege. The gates
+themselves lead to a tunnel that leads slightly beneath the massive walls,
+carved into the bedrock itself.  The road is cobbled in a granite-type rock
+that sheds a sandy substance with time and wear.  The sand has filled the gaps
+between the cobblestones to create an almost flawless pavement.
+~
+0 0 1
+D1
+~
+~
+0 0 10204
+D3
+~
+~
+0 0 10202
+S
+#10204
+Inside the Gates~
+Sloping upwards at a gentle angle, the tunnel leads beneath the city walls of
+Balifor.  A finely cobbled road underfoot shows signs of heavy usage, with 
+chips and names carved in antiquity dotting the stones.  Wheel ruts have been 
+cut into the stone by the constant passage of people and goods through the 
+thriving and prosperous port.
+~
+0 4 1
+D1
+~
+~
+0 0 10205
+D3
+~
+~
+0 0 10203
+S
+#10205
+Intersection of Kril and Ptarus Streets~
+To the north and south lie Ptarus Street, which seems to be a rather
+shady venue of travel.  Several potholes dot the cobbled streets, cracked
+and fragmented stones indicating use of ball and chain weaponry in fighting.
+Gutters trim the edges of the streets, to channel the blood from the
+ever-constant brawls to some unknown place in the heart of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 10218
+D1
+~
+~
+0 0 10206
+D2
+~
+~
+0 0 10275
+D3
+~
+~
+0 0 10204
+S
+#10206
+Kril Street~
+Kril Street appears well kept, as it is the only straight path through
+the city.  It seems to be in good repair, with relatively few potholes
+visible.  The populace has placed several immense iron urns about, for the
+collection of mangled limbs resulting from the constant fighting in the
+city.  
+~
+0 0 1
+D1
+~
+~
+0 0 10207
+D3
+~
+~
+0 0 10205
+S
+#10207
+Kril Street~
+Worn cobblestones indicate dense traffic along Kril Street.  The air is
+filled with the cries of vendors distributing goods.  The stands erected
+here change by the hour, as merchants pack up and leave and newly arrived
+merchants take their place.  Splats of perishable goods dot the street,
+giving rise to a sickly sweet aroma of decaying fruit.  
+~
+0 0 1
+D1
+~
+~
+0 0 10208
+D3
+~
+~
+0 0 10206
+S
+#10208
+Intersection of Kril and Wave Streets~
+A wide circle indicates the intersection of Kril and Wave Streets. 
+People mill about, conducting business.  Booths are set up along the edges
+of the circle, and a series of oval rings cut into the pavement of the
+street gives the impression from above of a complex structure.  The sounds
+and smells of the market are about, and even a bit of decay is detectable
+from the dock area.  
+~
+0 0 1
+D0
+~
+~
+0 0 10235
+D1
+~
+~
+0 0 10209
+D2
+~
+~
+0 0 10241
+D3
+~
+~
+0 0 10207
+S
+#10209
+Kril Street~
+Kril Street continues east and west.  Gutters to either side of the
+street collect both rainwater and blood from the frequent fights that tend
+to break out.  There are several poles on either side of the street that are
+topped with a single oil lamp to light the street during the night hours,
+and the head of a political enemy, as a reminder that the true power in the
+city is the city guard.  
+~
+0 0 1
+D1
+~
+~
+0 0 10210
+D3
+~
+~
+0 0 10208
+S
+#10210
+Kril Street~
+Light posts topped with oil lamps and the severed heads of political
+enemies are evenly spaced on either side of the street.  The oil lamps are
+taken down in the event of an attack on the city, or a street brawl so as to
+lessen the risk of oil spillage and fire.  In some cases, however the lamps
+have not been removed in time, as evidenced by burn markings on the street. 
+~
+0 0 1
+D1
+~
+~
+0 0 10211
+D3
+~
+~
+0 0 10209
+S
+#10211
+Kril Street~
+A darkened alleyway leads off the main street to the guard's barracks. 
+Several pennants of orange and gold mark the alleyway as belonging to the
+city guard.  As opposed to the cobbled surface of Kril Street, the lane
+appears to be paved in a finely crushed shale.  The orange paint on the
+exterior of the buildings reflects a warm glow onto the dark gravel.  
+~
+0 0 1
+D1
+~
+~
+0 0 10212
+D2
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10210
+S
+#10212
+Kril Street~
+Kril Street continues on east and west.  The cobblestones surfacing this
+part of the street appear to be worn by the passage of time.  One wonders if
+this were once part of the original settlement that was Balifor.  On several
+cobblestones, names are scratched into the side, possibly from the first
+ancient workers that build the inner city.  
+~
+0 0 1
+D1
+~
+~
+0 0 10213
+D3
+~
+~
+0 0 10211
+S
+#10213
+Kril Street~
+The arcitecture of this section of the city reminds one of times past. 
+Some of the buildings look to be of dwarvish origin, and several display
+long-forgotten names of dwarven craftsmen.  There are boots lining the
+streets, and the air is filled with the sounds of hawkers and merchants
+trying to make a living in a tough world.  
+~
+0 0 1
+D1
+~
+~
+0 0 10214
+D3
+~
+~
+0 0 10212
+S
+#10214
+Kril Street~
+To the east, an intersection is visible through the masses.  Several
+merchants have chosen to set up shop near this intersection, and the booths
+extend through the area here.  There are ruts that have been cut into the
+cobblestones here from the constant passage of wagons with goods for the
+market.  
+~
+0 0 1
+D1
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10213
+S
+#10215
+Intersection of Kril and Scud Streets~
+A large circular intersection is here, where Kril and Scud streets cross
+paths.  As with the Wave Street intersection, merchants have set up booths
+along the perimeter of the circle.  The ruts cut by wagon wheels into the
+cobbled surface of the street also follow an oval pattern, complimenting the
+circular nature of the intersection.  
+~
+0 0 1
+D1
+~
+~
+0 0 10216
+D2
+~
+~
+0 0 10274
+D3
+~
+~
+0 0 10214
+S
+#10216
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10217
+D3
+~
+~
+0 0 10215
+S
+#10217
+Kril Street~
+~
+0 0 1
+D1
+~
+~
+0 0 10378
+D3
+~
+~
+0 0 10216
+S
+#10218
+Ptarus Street~
+Large signs indicate that this northerly route leads to the civilian
+docks.  The military docks are strictly off-limits to anyone, including most
+of the city guard.  The people here travel heavily cloaked, as if the
+sunlight might possibly burn them.  Or perhaps it is the glares that they
+send to outsiders that are burning.  
+~
+0 0 1
+D0
+~
+~
+0 0 10219
+D2
+~
+~
+0 0 10205
+S
+#10219
+Ptarus Street~
+This appears to be a portion of the more unsavory districts in Balifor. 
+Every so often, a shrill scream or hoarse shouting pierces the air.  Signs
+are about, advertising prices for various "businesses", and directing one
+northward, towards the docks.  The smell of decaying flesh, both human and
+otherwise layers the area like a wet blanket.  
+~
+0 0 1
+D0
+~
+~
+0 0 10220
+D2
+~
+~
+0 0 10218
+S
+#10220
+Ptarus Street~
+The street fills with the moans and cries of people doing business, and
+the screams of people doing business on other, less willing people.  No sign
+of any city guard activity is present.  It is almost as if the civialian
+docks were a city apart from Balifor.  Here and there, the symbol of a
+silver crescent on a dark green background are visible, indicating the
+social power structure of this part of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 10221
+D2
+~
+~
+0 0 10219
+S
+#10221
+Ptarus Street~
+Ptarus Streed continues on to the north and south.  There is a continious
+stream of blood flowing in the gutters on either side of the street. 
+Curiously, some of the blood is not the familliar crimson liquid, but a
+sticky and oily sickening colour of yellow.  A thin haze perpetually hangs
+over the area, possibly from the presence of a large body of water so close
+by.  
+~
+0 0 1
+D0
+~
+~
+0 0 10222
+D2
+~
+~
+0 0 10220
+S
+#10222
+Ptarus Street~
+A thin acrid haze covers the area, tasting of bitter bile.  Hacked bits
+of flesh dot the street, some rotting with age, and some still ozzing blood
+from being cut from their respective owners.  Distant calls are audible, and
+they seem to be coming from the docks to the north.  Back to the south lies
+Kril Street and the Western Gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 10223
+D2
+~
+~
+0 0 10221
+S
+#10223
+Ptarus Street~
+Ptarus Street curves gently here, onto structural reinforcements that
+solidify the ground near the docks.  The ground itself radiates heat, and
+the sickly acrid haze that lies over the area.  The cobbletones here are
+treacherous, providing little stable foothold for those that choose to walk.
+The smells of decaying seafood are everywhere, and in some places, scales
+and bits of flesh seem to cling to everything.  
+~
+0 0 1
+D1
+~
+~
+0 0 10224
+D2
+~
+~
+0 0 10222
+S
+#10224
+Ptarus Street~
+This section of the road is raised slightly, due to the presence of
+structural supports that keep the road stable.  Resembling a bridge, with
+the area and buildings around it raised similarly, the street is paved in
+sodden wooden planks, that seem to have aged so much that they are as hard
+as iron.  The sound of feet upon them makes a dull thudding sound, much like
+a dagger being thrown into an unsuspecting back.  
+~
+0 0 1
+D0
+~
+~
+0 0 10225
+D3
+~
+~
+0 0 10223
+S
+#10225
+Ptarus Street~
+The sounds of the pier to the northeast make it almost impossible to
+concentrate on the treacherous task of walking upon the ever-slippery plank
+paving of the street.  To one side, a portion of the street has collapsed,
+and jagged splinters of wood pose, judging by the screams of agony, a viable
+threat to the unprotected foot.  
+~
+0 0 1
+D1
+~
+~
+0 0 10226
+D2
+~
+~
+0 0 10224
+S
+#10226
+Approaching Main Pier~
+The plank pavement of the street finally gives way to the even more
+unstable planking of the pier.  The effect is as a quilt, with different
+planks of various ages and strengths tediously holding together to hold up
+the pier.  Apparently, because of the rather unsavory activity of the area,
+the city will not rebuild the pier, thus it is up to the ship captains to
+secure their own landing area.  
+~
+0 0 1
+D0
+~
+~
+0 0 10227
+D3
+~
+~
+0 0 10225
+S
+#10227
+Before Main Pier~
+There is a general bustle about, as crewmen prepare ships for travel. 
+Here and there, boxes are strewn about, providing a living space for the
+huge rat population.  The smell of decaying ocean matter is everywhere, and
+looking about, one can see that it is emanating from piles of seawead dumped
+on the docks.  
+~
+0 4 1
+D1
+~
+~
+0 0 10228
+D2
+~
+~
+0 0 10226
+S
+#10228
+Main Pier~
+There are several dead and bloated rats about, almost as if the water
+were poison.  The stench of decay is everywhere, making this part of the
+dock almost unbearable to pass through.  The dock itself is cracked and in a
+state of disrepair.  Gaping holes are everywhere, some with bloody and
+jagged edges, as if a person or animal had fallen through and was ripped to
+pieces by the splinters.  
+~
+0 0 1
+D1
+~
+~
+0 0 10229
+D3
+~
+~
+0 0 10227
+S
+#10229
+Main Pier~
+Main Pier extends off of the partial sand bar and to several ships docked
+to the north.  Although in a state of disrepair, Main Pier appears to still
+be the main venue of travel to the ships.  People mill about, avoiding the
+holes in the planking, in some cases even jumping across a collapsed section
+of dock.  
+~
+0 0 1
+D0
+~
+~
+0 0 10230
+D3
+~
+~
+0 0 10228
+S
+#10230
+Main Pier~
+This section of pier appears to lead towards several smaller cross piers
+to the north.  Also to the north, the masts of several ships are clearly
+visible.  The smell of decaying ocean matter is everywhere, as are various
+dead ocean critters.  The corpses are frequently used for target practice by
+bowmen.  
+~
+0 0 1
+D0
+~
+~
+0 0 10231
+D2
+~
+~
+0 0 10229
+S
+#10231
+Main Pier~
+The dock here is wider than any of the sections before.  Signs indicate
+that the smaller Kril Pier is to the east, and Main Pier continues on
+northwards and southwards.  Several heavy crates form a crude narrow
+entrance to the pier.  Further signs indicate that this section of the pier
+is currently rented by the crew of the Swordfish.  
+~
+0 0 1
+D0
+~
+~
+0 0 10232
+D1
+~
+~
+0 0 10355
+D2
+~
+~
+0 0 10230
+S
+#10232
+Main Pier~
+Main Pier continues to the north and south.  Close by to the south, Kril
+Pier can be seen.  The smell of the ocean is everywhere, as is the smell of
+the decay of various ocean flora and fauna.  Railings are located on either
+side of the dock to prevent anyone from slipping to their deaths in the
+water below.  The irony is that the gaping holes in the dock have not been
+repaired and provide a greater danger than the perilous edge of the dock.  
+~
+0 0 1
+D0
+~
+~
+0 0 10233
+D2
+~
+~
+0 0 10231
+S
+#10233
+Main Pier~
+To the north, Zahz Pier and the masts of the minotaur vessels Gar'ath and
+Bak'ala are visible.  The dock is in moderate repair, with a couple planks
+missing, but as a whole intact.  Railings are located on either side to
+prevent any unfortunate accidents.  
+~
+0 0 1
+D0
+~
+~
+0 0 10234
+D2
+~
+~
+0 0 10232
+S
+#10234
+Main Pier~
+This is the end of Main Pier.  The only sailors about are of the minotaur
+race, connected either with the Bak'ala, or the Gar'ath.  Because of the
+much heavier physical nature of the Minotaur race, the dock here is in good
+repair, and connects with Zahz pier to the east.  The mounds of garbage and
+decaying ocean matter have also been cleaned, making the stench of decay
+much less noticable.  
+~
+0 0 1
+D1
+~
+~
+0 0 10351
+D2
+~
+~
+0 0 10233
+S
+#10235
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10236
+D2
+~
+~
+0 0 10208
+S
+#10236
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10237
+D2
+~
+~
+0 0 10235
+S
+#10237
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10238
+D1
+~
+~
+0 0 10320
+D2
+~
+~
+0 0 10236
+D3
+~
+~
+0 0 10319
+S
+#10238
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10239
+D2
+~
+~
+0 0 10237
+S
+#10239
+Wave Street~
+~
+0 0 0
+D0
+~
+~
+0 0 10240
+D2
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10318
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 10202 2 10282 1
+M 0 10203 6 10301 1
+M 0 10203 6 10302 1
+M 0 10203 6 10303 1
+M 0 10203 6 10304 1
+M 0 10203 6 10311 1
+M 0 10203 6 10312 1
+M 0 10203 6 10313 1
+M 0 10203 6 10324 1
+M 0 10203 6 10207 1
+M 0 10203 6 10209 1
+M 0 10201 100 10230 1
+M 0 10201 2 10231 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

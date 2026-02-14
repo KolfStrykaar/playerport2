@@ -1,0 +1,2454 @@
+#PLAYER
+Name Halig~
+Surname Lamkin~
+MaskedIp ~
+Lokprot off~
+Email pedro.alexandre.f.reis@gmail.com~
+Id   1058786677
+LogO 1422600272
+Vers 10
+Act  CDGHQT
+Desc You see a gaunt and skeletal humanoid with withered flesh stretched right
+
+across horribly visible bones, covered by the rotting, rich robes of a
+
+mighty wizard long dead. His eyes have long ago been lost to decay, and
+
+you see only bright pinpoints of {rcrimson{x light burning on his empty
+
+sockets. On his black leather sash you can see two small {Ddark{x pouchs
+
+where he keeps the potions, scrolls and some magic relics. When you look
+
+to his dark and cripy hands you fell a strange feeling around your body,
+
+feeling that if he touch you, you will feel the {WTouch of Death{x. In his
+
+left hand he carries a bright and strange {WGoat Skull{x, like the one
+
+that the {DLord of Death{x holds on his hand. Around it you see a strange
+
+mist, that shimmers with a strange light, causing pain to everyone that
+
+follows the path of Good. In his right hand he holds a bone sickle with
+
+the symbol of the {DLord of Death{x engraved on it. It seems to be
+
+constantly trying to hit you, to consume you from the inside. You fell
+
+unconfortable when you look at it. Hanged by its neck you can see a
+
+strange pendant. If you look more closely, you can see that the symbol
+
+engraved on it is the {DSymbol of Chemosh{x. He speaks with an harsh
+
+voice, and when you are listening to him you can fell your mind twisting
+
+and you loose some of your sense. Be extremely carefull on the way you
+
+talk to him and be aware. {rDeath is coming for you{x.
+
+~
+Prom {R%h/%H {B%m/%M {g%v/%V {x%B {W%e {D%a {r>{x ~
+Race half-elf~
+Org 11
+Religion 2
+Sex  1
+Cla  12
+Hmtown 0
+Levl 101
+recall_point 3005
+Levscale 30
+Xptolev  1286650
+Sec  0
+Plyd 4601063
+Not  1420281656 1401021136 0 1413678946 1298827134
+Scro 78
+Room 14009
+HMV  2368 2523 2082 2242 856 856
+Steel 16545
+Gold 1838
+Bank 105000
+Exp  17450200
+AfBy DFJO
+Deaths 74
+FlagTot 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Prac 10
+Save  -718
+Alig  -1000
+Ethos 2
+Hit   67
+Dam   58
+ACs -417 -432 -418 -383
+Wimp  150
+Yield  75
+Attr 22 28 23 16 22 23
+AMod 19 4 5 21 11 5
+Pass HaPX/0Ema40rM~
+Titl  - The Elder of the {DUndead{x~
+Pretit Master{x~
+Pnts 8
+TSex 1
+LLev 1070
+HMVP 1383 1417 706
+Cnd  0 65 60 0
+QuestPnts 178
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt ({DRotten Halig{x)~
+Alias say pmote speaks with an harsh voice making your mind twist,{D~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'cancellation'
+Sk 100 'cause serious'
+Sk 100 'charm person'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'farsight'
+Sk 100 'flamestrike'
+Sk 100 'levitate'
+Sk 100 'orb of containment'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'haste'
+Sk 100 'life transfer'
+Sk 100 'mind shatter'
+Sk 100 'heat metal'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'pass door'
+Sk 100 'aid'
+Sk 100 'protection evil'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'flesh to stone'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'flaming shield'
+Sk 100 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 100 'traject'
+Sk 100 'mount'
+Sk 70 'animate corpse'
+Sk 100 'break enchantment'
+Sk 100 'sympathy'
+Sk 100 'cantrip'
+Sk 70 'unholy armor'
+Sk 100 'feeblemind'
+Sk 100 'binding'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'battle tactics'
+Sk 100 'knock'
+Sk 100 'flame rune'
+Sk 100 'frost rune'
+Sk 100 'shocking rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 75 'recall'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 100 'seal door'
+Sk 100 'unseal door'
+Sk 100 'attunement'
+Sk 100 'glamour'
+Sk 100 'jab'
+Sk 100 'detect presence'
+Sk 100 'sleepless curse'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 100 'taunt'
+Sk 100 'fumble'
+Sk 100 'empowerment'
+Sk 100 'garble'
+Sk 70 'intensify death'
+Sk 100 'shallow breath'
+Sk 100 'chaos flux'
+Sk 100 'gravity flux'
+Sk 100 'torment'
+Sk 100 'trance'
+Sk 100 'waterlungs'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 100 'eyerub'
+Sk 100 'instruct'
+Sk 100 'enlarge'
+Sk 100 'shrink'
+Sk 100 'lock'
+Sk 11 'mark of origin'
+End
+
+#O
+Vnum 1673
+Nest 0
+Name cloth cape~
+ShD  a {Dblack{x cloth cape~
+Desc A black cloth cape lies here.~
+ExtF 786432
+Cond 94
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ebony ring~
+ShD  an {Debony{x ring~
+Desc A magical ebony ring lies here.~
+Cond 79
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+Val  1000 5 0 300 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Halig's blood~
+Desc A jar of Halig's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 168 0 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Ranald's blood~
+Desc A jar of Ranald's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  198 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Quelthos's blood~
+Desc A jar of Quelthos's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  198 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Koran's blood~
+Desc A jar of Koran's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  99 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Shinn's blood~
+Desc A jar of Shinn's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  85 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Marinilasa's blood~
+Desc A jar of Marinilasa's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Mandie's blood~
+Desc A jar of Mandie's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Strikus's blood~
+Desc A jar of Strikus's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Beren's blood~
+Desc A jar of Beren's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Gelgis's blood~
+Desc A jar of Gelgis's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  196 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Ivan's blood~
+Desc A jar of Ivan's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Mazvil's blood~
+Desc A jar of Mazvil's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Gurdok's blood~
+Desc A jar of Gurdok's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Rihivan's blood~
+Desc A jar of Rihivan's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  196 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Fenix's blood~
+Desc A jar of Fenix's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Kulox's blood~
+Desc A jar of Kulox's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the guardian of the arena's blood~
+Desc A jar of the guardian of the arena's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Tuor's blood~
+Desc A jar of Tuor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Delshawen's blood~
+Desc A jar of Delshawen's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 0
+Val  122 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Schlor's blood~
+Desc A jar of Schlor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Vilae's blood~
+Desc A jar of Vilae's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the {Wsperm {Cwhale{x's blood~
+Desc A jar of the {Wsperm {Cwhale{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a minotaur necromancer's blood~
+Desc A jar of a minotaur necromancer's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Black Dragon's blood~
+Desc A jar of a Black Dragon's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Crysania's blood~
+Desc A jar of Crysania's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the Executioner's blood~
+Desc A jar of the Executioner's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Silvanoshei's blood~
+Desc A jar of Silvanoshei's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Name goat skull tattoo~
+ShD  ({yTattoed{x) a {WGoat{x's {DSkull{x~
+Desc A goat's skull tattoo lies here.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1233
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name onyx ring~
+ShD  an {Donyx{x ring~
+Desc A magical onyx ring lies here.~
+Cond 90
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name wrist bones~
+ShD  {DWrist {WBones{x~
+Desc a pair of wrist bones were left here.~
+ExtF 17039617
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name wrist bones~
+ShD  {DWrist {WBones{x~
+Desc a pair of wrist bones were left here.~
+ExtF 17039617
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 16304
+Nest 0
+Name robe pocket~
+ShD  a {Drobe{x pocket~
+Desc A pocket ripped from a set of robes lies here.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5700
+Nest 1
+Name bone ankle guard~
+ShD  a {Wbone{x ankle guard~
+Desc a bone ankle guard lies here.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 91
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 3005
+Nest 1
+Name sickle~
+ShD  a {Wbone{x sickle, "{DDeath{x's Will"~
+Desc A sickle blessed by Chemosh himself lies here.~
+ExtF 2576
+Cond 94
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82029
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Val  70 10 4 157 0
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name bone ankle guard~
+ShD  a {Wbone{x ankle guard~
+Desc a bone ankle guard lies here.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 3093
+Nest 1
+Name sensate eye~
+ShD  ({cAncient{x) Sensate Eye~
+Desc A wooden staff lies here, with the symbol of an eye.~
+ExtF 17039370
+Cond 85
+Wear -1
+Cost 900
+Val  10 9 15 37 4425
+End
+
+#O
+Vnum 12267
+Nest 1
+Name staff wind~
+ShD  ({cGhostly{x) Wind Staff~
+Desc A staff with drawings lies here.~
+ExtF 72
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33354
+End
+
+#O
+Vnum 2979
+Nest 1
+Name curved red staff wandil en meiva~
+ShD  a curved {rred staff{x, "{RWandil en Meiva{x"~
+Desc A curved red staff lies here with an inscription in Elven: "Staff of Balance."~
+ExtF 1572864
+Cond 94
+Wear -1
+Cost 0
+Val  10 9 13 26 221
+End
+
+#O
+Vnum 1869
+Nest 1
+ShD  the sliced off nose of Hiddukel~
+Desc The sliced off nose of Hiddukel lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3720
+Nest 1
+Name rifle~
+ShD  M16A2 Rifle~
+Desc A M16A2 Rifle sits here, locked and loaded.~
+ExtF 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 5435
+Nest 1
+Name claw gauntlets~
+ShD  {DClawed{x Gauntlets~
+Desc A pair of gauntlets with razored steel talons lie here.~
+ExtF 16777579
+Cond 98
+Wear -1
+Cost 5650
+Val  0 10 14 5 201
+End
+
+#O
+Vnum 12221
+Nest 1
+Name mind stealer mindstealer~
+ShD  ({cAncient{x) {WMindstealer{x~
+Desc Some sort of staff is lying here. It likely belongs to a very powerful mage.~
+ExtF 8
+Cond 75
+Wear -1
+Cost 4830
+Val  0 10 13 37 73
+End
+
+#O
+Vnum 3005
+Nest 1
+Name sickle~
+ShD  a {Wbone{x sickle, "{DDeath{x's Will"~
+Desc A sickle blessed by Chemosh himself lies here.~
+ExtF 2576
+Cond 94
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82029
+End
+
+#O
+Vnum 3005
+Nest 1
+Name sickle~
+ShD  a {Wbone{x sickle, "{DDeath{x's Will"~
+Desc A sickle blessed by Chemosh himself lies here.~
+ExtF 2576
+Cond 94
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82029
+End
+
+#O
+Vnum 19006
+Nest 1
+Cond 100
+Wear -1
+Cost 1200000
+End
+
+#O
+Vnum 500
+Nest 1
+ExtF 17039370
+Cond 100
+Wear -1
+Cost 500
+Val  10 9 15 37 65610
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 1
+Name sickle~
+ShD  a {Wbone{x sickle, "{DDeath{x's Will"~
+Desc A sickle blessed by Chemosh himself lies here.~
+ExtF 2576
+Cond 66
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82029
+End
+
+#O
+Vnum 5833
+Nest 1
+Name Red Robes Conclave rotten~
+ShD  ({yRotten{x) {RRed Robes {xof the {DConclave{x~
+Desc A decaying looking red robe is lying here.~
+ExtF 262144
+Cond 97
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 16100
+Nest 1
+Name bottle blood~
+ShD  a Bottle of {rBlood{x~
+Desc A bottle of blood lies here.~
+Cond 100
+Wear -1
+Cost 8000
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name potion bag~
+ShD  ({yRotting{x) a {Dpotion{x bag~
+Desc A rotting potion bag lies here.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 15193
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15193
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15193
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  2 600 35108 8 7
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  60
+Cost 100
+Val  30 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll paralysis~
+ShD  a scroll of paralysis~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 155 -1 -1 0
+Spell 1 'paralysis'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll paralysis~
+ShD  a scroll of paralysis~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 155 -1 -1 0
+Spell 1 'paralysis'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll paralysis~
+ShD  a scroll of paralysis~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 155 -1 -1 0
+Spell 1 'paralysis'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll paralysis~
+ShD  a scroll of paralysis~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 155 -1 -1 0
+Spell 1 'paralysis'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll cloak of evil~
+ShD  a scroll of cloak of evil~
+Cond 100
+Wear -1
+Lev  65
+Cost 100
+Val  32 393 -1 -1 0
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 0
+Val  33 -1 147 0 0
+Spell 2 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 14910
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure light'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  47
+Cost 0
+Val  47 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  47
+Cost 0
+Val  47 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  47
+Cost 0
+Val  47 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2555
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2555
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of {xA Skeleton Guard's blood~
+Desc A jar of {xA Skeleton Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a jailor's blood~
+Desc A jar of a jailor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the jailor's blood~
+Desc A jar of the jailor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 9592
+Nest 0
+Name dark mist~
+ShD  a {Ddark{x mist~
+Desc A strange dark mist fills the air around.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Name touch death gloves~
+ShD  the {DTouch{x of {WDeath{x~
+Desc A pair of gloves tainted with death's touch lie here.~
+ExtF 262152
+WeaF 129
+Cond 64
+Wear 12
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name onyx necklace medallion bone~
+ShD  An {Donyx necklace{x with a {Wbone skull{x medallion~
+Desc A bone skull medallion hanging from an onyx chain lies here.~
+ExtF 786440
+Cond 88
+Wear 4
+Cost 13000
+Val  25 24 26 24 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name black leather sash~
+ShD  a {Dblack{x leather sash~
+Desc A simple black leather sash lies here.~
+ExtF 262144
+Cond 94
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9426
+Nest 0
+Name heavy rotting black robes~
+ShD  ({yRotting{x) heavy {Dblack{x robes~
+Desc A set of rotting, heavy looking black robes lie here.~
+ExtF 262144
+Cond 76
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name bone ankle guard~
+ShD  a {Wbone{x ankle guard~
+Desc You see an ankle guard made of bones stuck in the ground.~
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name bone ankle guard~
+ShD  a {Wbone{x ankle guard~
+Desc You see an ankle guard made of bones stuck in the ground.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16457
+Nest 0
+Name light staff~
+ShD  a {DLight{x on top of the staff~
+Desc If you look more closely you can see that this is a part of Halig's Staff.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name aura darkness~
+ShD  an aura of {Ddarkness{x~
+Desc A strange aura fills the air.~
+ExtF 262144
+Cond 94
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name black leather boots~
+ShD  {Dblack{x leather boots~
+Desc A air of black leather boots lie here.~
+ExtF 262144
+Cond 92
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 97
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   1 101  -1   9  19          0
+Affc 'enchant weapon'   0 101  -1   9  18          0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 96
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   0 101  -1   9  18          0
+Affc 'enchant weapon'   1 101  -1   9  19          0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 96
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   1 101  -1   9  19          0
+Affc 'enchant weapon'   0 101  -1   9  18          0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 97
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   0 101  -1   9  18          0
+Affc 'enchant weapon'   1 101  -1   9  19          0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 97
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   1 101  -1   9  19          0
+Affc 'enchant weapon'   0 101  -1   9  18          0
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 1
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+ExtF 524288
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19002
+Nest 1
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+ExtF 524288
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19002
+Nest 1
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+ExtF 524288
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19002
+Nest 1
+Name ivy arm guard~
+ShD  an {givy{x arm guard~
+Desc An arm guard made of entranced ivy, was left here.~
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+Name sceptre undead~
+ShD  {rFearful{x Sceptre of the {DUndead{x~
+Desc A Sceptre shimmering a dark and strange aura is stuck in the dirt.~
+ExtF 16777539
+Cond 96
+Wear -1
+Cost 0
+Val  0 12 11 18 84041
+Affc 'enchant weapon'   1 101  -1   9  19          0
+Affc 'enchant weapon'   0 101  -1   9  18          0
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 91
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name pair hollow eyes~
+ShD  a pair of {Dhollow{x eyes~
+Desc Halig's eyes (???) lie here.~
+ExtF 262144
+Cond 79
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 5617
+Nest 0
+Name black pants~
+ShD  {DBlack Pants{x~
+Desc Some black pants lie here.~
+Cond 40
+Wear 8
+Cost 15
+End
+
+#O
+Vnum 9868
+Enchanted
+Nest 0
+Name black hood~
+ShD  a {Dblack{x hood~
+Desc A black hood lies here.~
+ExtF 65
+Cond 100
+Wear 6
+Cost 90000
+Affc 'reserved'   1  80  -1  -4  20          0
+Affc 'reserved'   1  80  -1   2   5          0
+Affc 'reserved'   1  80  -1   2   4          0
+Affc 'reserved'   0  80  -1   0   0         32
+Affc 'reserved'   0  80  -1   0   0          8
+Affc 'detect invis'   0 110  -1   0  26          8
+Affc 'detect hidden'   0 110  -1   0  26          0
+Affc 'detect hidden'   0 110  -1   0  26         32
+End
+
+#O
+Vnum 19002
+Nest 0
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+Cond 94
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 1213
+Nest 0
+Name Dragon trident~
+ShD  {BDr{Rag{Go{Dn'{Ws{x Trident~
+Desc A trident infused if various powers and with the shaft adorned with dragon's coiling around it, is here pierced on the ground.~
+ExtF 17056074
+Wt   1
+Cond 100
+Wear 20
+Lev  121
+Cost 500
+Val  2 10 16 19 294168
+End
+
+#END

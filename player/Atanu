@@ -1,0 +1,493 @@
+#PLAYER
+Name Atanu~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1382878069
+LogO 1386109009
+Vers 10
+Act  CDGQTe
+Desc Before you stands a 6 feet tall draconian, he has dull yellow eyes, gray
+teeth and the scales are bronze coloured. He his gliding and his wings
+looks massive. He wears a silver helmet and his torso is covered by a
+leather breastplate, he also wears armbands made of leather. In his waist
+you can see a large hammer.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e %B %a{r>{x ~
+Race draconian~
+Sex  1
+Cla  1
+Hmtown 0
+Levl 36
+recall_point 3001
+Levscale 30
+Xptolev  5572
+Sec  0
+Plyd 214781
+Not  0 0 0 0 0
+Scro 22
+Room 1944
+HMV  59 632 56 834 72 319
+Steel 1391
+Gold 40
+Bank 0
+Exp  168328
+AfBy Oc
+AfBy2 D
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3014656
+Comm NO
+Pos  8
+Prac 43
+Trai 1
+Save  -4
+Alig  -1000
+Ethos 0
+Hit   15
+Dam   9
+ACs 66 67 55 104
+Attr 16 10 21 17 11 10
+AMod 1 13 17 7 13 0
+Pass AtaN2fYtaVE42~
+Titl  the Patriarch~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 51
+HMVP 557 774 319
+Cnd  0 46 22 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 94 'blindness'
+Sk 100 'calm'
+Sk 97 'cancellation'
+Sk 63 'cause critical'
+Sk 92 'cause light'
+Sk 77 'cause serious'
+Sk 100 'create food'
+Sk 99 'create spring'
+Sk 95 'cure blindness'
+Sk 94 'cure critical'
+Sk 96 'cure disease'
+Sk 95 'cure light'
+Sk 96 'cure poison'
+Sk 92 'cure serious'
+Sk 93 'curse'
+Sk 70 'demonfire'
+Sk 97 'detect evil'
+Sk 95 'detect good'
+Sk 99 'detect invis'
+Sk 97 'detect poison'
+Sk 86 'dispel evil'
+Sk 95 'dispel good'
+Sk 96 'dispel magic'
+Sk 91 'earthquake'
+Sk 1 'energy drain'
+Sk 93 'fireproof'
+Sk 73 'flamestrike'
+Sk 1 'orb of containment'
+Sk 72 'harm'
+Sk 98 'heal'
+Sk 92 'life transfer'
+Sk 76 'holy word'
+Sk 98 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 92 'plague'
+Sk 99 'protection evil'
+Sk 66 'ray of truth'
+Sk 100 'refresh'
+Sk 95 'remove curse'
+Sk 98 'sanctuary'
+Sk 1 'teleport'
+Sk 10 'word of recall'
+Sk 1 'flail'
+Sk 95 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 100 'glide'
+Sk 1 'silence'
+Sk 3 'traject'
+Sk 91 'mount'
+Sk 1 'remove paralysis'
+Sk 95 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 100 'sate'
+Sk 100 'invigorate'
+Sk 95 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 100 'quench'
+Sk 96 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'frenzy'   0  33   0  30  17          0
+Affc 'frenzy'   0  35   0   6  19          0
+Affc 'frenzy'   0  35   0   6  18          0
+Affc 'bless'   0  27  13  -4  25          0
+Affc 'bless'   0  26  13   4  18          0
+End
+
+#O
+Vnum 3775
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 13302
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 13302
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16176
+Nest 0
+Cond 81
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16364
+Nest 0
+Cond 100
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 76 0 0 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3711
+Nest 1
+Cond 97
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 919
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 17419
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 17419
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#PET
+Vnum 3076
+Name warhorse~
+LogO 1386109009
+Desc Muscles ripple throughout his legs and chest.  A large black saddle has
+been strapped on his back for easy riding.  His mane and fur are a deep
+black color, with a few white spots on his behind.  
+A neck tag says 'I belong to Atanu'.
+~
+Sex  1
+HMV  335 335 198 198 100 100
+AfBy SZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -30 -30 -30 0
+Attr 23 22 22 24 22 22
+AMod 0 0 0 0 0 0
+End
+#END

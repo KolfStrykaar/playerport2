@@ -1,0 +1,8454 @@
+#AREADATA
+Name Urione~
+Builders Zeboim~
+Continent None~
+Controlby 0~
+Faction 0~
+Sector 15
+VNUMs 9500 9799
+Credits Zeboim~
+Security 9
+End
+
+
+
+#MOBILES
+#9500
+priestess urione~
+the Priestess of Urione~
+A Priestess of Urione stands here, tending to those in need.
+~
+One of many priestess' of Urione stands here, aiding those in dire need
+of healing.  A soft voice echoes in your mind: {G'{wPlease, type {WHEAL{w to
+see a list of services I have to offer.  Once you have chosen what you want
+please type "{Wheal <keyword>{x" and I shall do what I can to help you. 
+{G'{x 
+~
+dargonesti~
+ABa HJVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+CEF ABCD 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9501
+viktornlo trainer~
+the trainer {GViktornlo{x~
+Viktornlo awaits the next pupil who will ask for tips on training.
+~
+This blue skinned elf awaits those who ask for aid to further extend
+their training.  Though he seems rude and intrusive, there is little doubt
+that he just wants to help those who come to him.  Though he is rude and
+intrusive.  
+~
+dargonesti~
+ABJTb JVb -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9502
+kraden banker~
+{GKraden{x the banker~
+The banker {GKraden{x stands awaiting all those who wish to deposit or withdraw.
+~
+Kraden the banker stands here.  He awaits all those that want to deposit
+their wares.  His darting yellow eyes, scan for anyone that might be a
+valuable customer.  
+~
+dargonesti~
+ABTde JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9503
+questmaster dargonesti~
+the {GQuest{BMaster{x of Urione~
+The QuestMaster of Urione stands here, waiting for the next willing person.
+~
+Before you stands the QuestMaster of Urione.  Awaiting anyone who is
+willing to take on one of his many quests that he hands it.  Be it for an
+object, or to kill those who have done wrong, no quest should be questioned.
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9504
+furtix slave keeper~
+{GFurtix{x the slave keeper~
+Furtix, a mangled elf, is the slave keeper of Urione.
+~
+This battered and magled elf recieved much of his aliments from the
+slaves he keeps.  Wanting to escape from their enslavement they attempt to
+batter the elf.  None leave with their lives.  Yet this elf enjoys his work,
+and will not give it up until death takes him.  
+~
+dargonesti~
+ABT JVb -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9505
+granire shopkeeper~
+{GGranire{x the magic shopkeeper~
+The magic shopkeeper, Granire, shouting her various wares for sale.
+~
+A somewhat small elf, by elf standards, Grainre loves magic.  She uses
+her vast knowledge to create potions and magical items for those who are in
+need of a little boost.  Oddly enough, by shouting what she has, she
+recieves quite a bit of customers.
+~
+dargonesti~
+ABT JVb 1000 0
+120 100 150d33+1821 100d10+85 28d3+38 slap
+-37 -37 -37 -16
+0 ABCD 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9506
+proutelous armour shopkeeper~
+{GProutelous{x the armour~
+Proutelous the armor, shouts what's for sale, while holding up his latest masterpiece.
+~
+An older elf, that has seen the many battle of war and have seen many of
+his kinsman die.  He has decided to devote himself to making armor that will
+better aid those in combat.  
+~
+dargonesti~
+ABT JVb -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9507
+xioxn weaponsmith shopkeeper~
+{GXioxn{x the weaponsmith~
+Xioxn the weaponsmith, shouts what's for sale, while holding up his latest find.
+~
+Because precious metals are hard to come by in the deep waters, this
+particular elf sells what he has by finding it.  Sunken ships are the best
+place to find, because land dwellers almost always have weapons.  
+~
+dargonesti~
+ABT JVb -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9508
+karina general food shopkeeper~
+{GKarina{x the general food shopkeeper~
+Karina the shopkeeper for general foods, shouts the latest catch of the day.
+~
+Karina stands by piles and piles of fish.  Out of all the shopkeepers in
+the market place, her buisness is the one that is booming.  While her
+husband and children catch the fish, she is at the market everyday selling
+them.  
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9509
+dugias general shopkeeper~
+{GDugias{x the general supplies shopkeeper~
+Dugias, the shoppkeeper for general supplies, stands next to his cart.
+~
+A very tall elf, with violet eyes stands here.  He does not shout to call
+what he has.  What he has for sale doesn't change that much.  He makes a
+decent living doing what he does, and is in no way unhappy with his choice. 
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9510
+vieza music shopkeeper~
+{GVieza{x the music shopkeeper~
+Vieza sits in a chair next to her cart, awaiting her next insturment sale.
+~
+Vieza is a deep blue skinned elf.  Her green hair flows effortlessly down
+her back, while her vibrant green eyes look calm and relaxed.  Selling her
+many instruments made of things from the sea, she waits paitently for her
+next sale.  
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9511
+corinada shopkeeper~
+{GCorinada{x the shopkeeper~
+Corinada stands next to her cart, selling ediable animal parts.
+~
+Corinada has an odd profession.  She finds certain animals and then
+grinds of their body parts, or skeletal structure.  By doing this, some
+animals have been known to aid those for many causes.  
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9512
+ranger guildsman~
+the rangers guildsman~
+The guildsmans for the rangers stands here, awaiting the next to help.
+~
+Though sea elves cannot by anymeans use a bow and arrow in the water,
+they have adapted it as a sort of game.  And for the game, even those who
+choose to learn the game, still must learn the basics, so no one will get
+hurt.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9513
+battlemage guildsman~
+the battlemage guildsman~
+The guildsmans for the battlemage stands here, to help the next.
+~
+The battlemage guilds man is very wise and knows what to do to train the
+next mighty battlemage.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9514
+cleric guildsman~
+the cleric guildsman~
+The guildsmans for the cleric stands here, deep in prayer.
+~
+The cleric guildsman is very wise and knows what to do to train the next
+cleric.  Always deep in prayer, he hardly notices anyone that comes in.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9515
+necromancer guildsman~
+the necromancer guildsman~
+The guildsmans for the necromancer fidles with a dead frog, making it come to life.
+~
+The necromancer guildsman is always in the mood to try out spells on a
+victim.  Don't give him a reason to try it out on you.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9516
+enchanter guildsman~
+the enchanter guildsman~
+The guildsmans for the enchanter, stands over a sword, which explodes into little pieces.
+~
+The enchanter guildsman looks as though they have had their share of cuts
+from shattering objects.  Enchaters be careful, it could be fatal.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9517
+thief guildsman~
+the thief guildsman~
+The guildsman for the thieves of the world, stands in the shadows, watching for people.
+~
+The thief guildsman hardly ever wants to be seen.  He stands in the
+shadows awaiting the next person to train his special art.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9518
+warrior guildsman~
+the warrior guildsman~
+The guildsman for the warriors watches the door with a smile on his face.
+~
+The warrior guildsman is a muscular elf, with many scars all over his
+body.  His long hair is pulled back into a loose ponytail behind him.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9519
+assassin guildsman~
+the assassin guildsman~
+The guildsman for the assassins throws a dagger right at your feet just as you enter.
+~
+The assassin guildsman specializes in stealth and trickery.  It would not
+matter if you crossed this elf or not, for if a contract was on your life,
+he would kill you without caring.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9520
+spellfilcher guildsman~
+the spellfilcher guildsman~
+The guildsman for the spellfilcher stands in the corner, waiting for the next pupil.
+~
+The spellfilcher guildsman specializes in no one task.  Dabbling in a
+little bit of everything, they can make a great friend or foe.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9521
+bard guildsman~
+the bard guildsman~
+The guildsman for the bard strums away at a cello.
+~
+The bard guildsman loves a good tale, or even a good song.  Lovers of art
+and mostly good hearted, the bard is not an expert in any field.  The wide
+range of skills and abilites they know, allow them to adapt to places
+quickly.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9522
+knight guildsman~
+the knight guildsman~
+The guildsman for the knight, stands tall and proud, waiting for the next noble soul.
+~
+The knight guildsman is a strict and very well disiplined man.  His
+strength surpasses any ordinary man, and his weapon knowledge is somewhat
+vast.  Be it for good or evil, and knight is a worthy advisary.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9523
+conjuror guildsman~
+the conjuror guildsman~
+The guildsman for the conjuror whispers a spell and summons a mighty dead warrior.
+~
+The conjuror guildsman loves nothing more than to draw powerful magic
+from any plane, and summon at will.  Conjurors are the most bold ans
+spectacular of all the mages.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9524
+illusionist guildsman~
+the illusionist guildsman~
+The guildsman for the illusionist casts a spell of illusion just as you enter the room.
+~
+The illusionist guildsman are one of the most under rated of all mages. 
+Being able to break ones soul or mind is a great power.  Only the most
+cunning and creative are able to study the are of illusions.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9525
+barbarian guildsman~
+the barbarian guildsman~
+The barbarian guildsman stands tall and almost naked.
+~
+The barbarian guildsman here in Urione, is out of place.  Being captured
+while aboard a ship that sank to the sea, the elves were intrigued, and
+forced him to train all those who were interested in their art.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9526
+blacksmith guildsman~
+the blacksmith guildsman~
+The blacksmith guildsman stands here, awaiting his next pupil.
+~
+The blacksmith guildsman here in Urione, is out of place, just like the
+barbarian.  Being captured while aboard a ship that sank to the sea, the
+elves were intrigued by the metal they have come to rely on for their
+weapons from shipwreks.  This is hard to learn due to the fact there is no
+fire here, only magical, which does not do the same thing.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9527
+druid guildsman~
+the druid guildsman~
+The druid guildsman looks uncomfortable standing in a room, where there is no signs of nature.
+~
+The druid guildsman longs to be outside, away from cities, towns, and
+villages.  Feeling out of place having to train indoors, this druid is never
+in a good mood.  
+~
+dargonesti~
+ABK JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9528
+slave kender~
+a kender slave~
+A happy-go-lucky kender slave, watches the ground for anything interesting.
+~
+A very thin kender stands before you.  Staring at everything shiney that
+comes across it's eyes.  
+~
+kender~
+AI 0 1000 0
+5 5 8d2+46 5d10+85 1d5+6 punch
+6 6 6 8
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#9529
+slave half elf~
+a half-elf slave~
+A half-elf slave stands here, looking very unhappy and extremely thin.
+~
+A half-elf stands here, looking unhappy, and thin.  It's obvious that he
+is a slave that has been sold to a master.  
+~
+half-elf~
+AI J 1000 0
+10 10 15d3+92 10d10+85 2d5+8 punch
+4 4 4 6
+0 0 B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#9530
+slave human~
+a human slave~
+A human slave looks up an anyone that will give him the time of day.
+~
+A human slave looks pathetic as he stands there nearly naked.  His hair
+is thin and oily, and his face looks like a grizzly bear.  
+~
+human~
+AI 0 1000 0
+20 20 30d6+183 20d10+85 5d4+11 punch
+0 0 0 4
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#9531
+burgoth blacksmith~
+{GBurgoth{x the blacksmith~
+Burgoth the blacksmith, is selling materials for smithing.
+~
+An extremely tall elf with yellow eyes stands before you.  He wears a
+simple gray leather vest, and a short kilt.  He sells materials for the
+aspiring blacksmith.  
+~
+dargonesti~
+ABT JVb 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#9532
+sea anemone~
+a {Bsea{x anemone~
+A sea anemone moves slowly across the ground, looking for water.
+~
+A small sea anemone slugs along on the ground, looking for some sea water
+and rock to cling to.  How it got here is a small mystery.  
+~
+unique~
+ACGH bc 0 0
+1 1 2d2+10 1d10+85 1d2+5 suction
+8 8 8 9
+0 R 0 0
+stand stand none 20
+Qb FN S unknown 0
+#9533
+large starfish~
+a {ylarge{x starfish~
+A large starfish moves slowly across the ground, looking for food and water.
+~
+This large starfish is about three feet by three feet.  It's large arms
+moving it's body across the ground and a boring speed for those with legs.  
+~
+unique~
+AGH bc 0 0
+6 6 9d2+55 6d10+85 1d6+7 bite
+6 6 6 7
+0 R 0 0
+stand stand none 120
+Q BCFN L unknown 0
+#9534
+little dargonesti girl~
+a little {Gdargonesti{x girl~
+A little dargonesti girl, runs around laughing and playing with a bunch of seashells.
+~
+A little dargonesti girl, is happy and laughing.  Her blue skin glistens
+in the light of the orbs, and her green ringlet hair bounces with glee.  
+~
+dargonesti~
+AGH Jb 1000 0
+11 11 17d3+101 11d10+85 3d3+8 slap
+4 4 4 6
+0 0 B 0
+stand stand female 220
+AHMV ABCDEFGHIJK M unknown 0
+#9535
+little dargonesti boy~
+a {Glittle{x dargonesti boy~
+A little dargonesti boy, is running around in circles and chasing anything that moves.
+~
+The little dargonesti boy is running around in circles chasing anyone and
+anything that gets in his way.  Many of the elders find this amusing, and
+choose not to stop him.  
+~
+dargonesti~
+AGH Jb 1000 0
+16 16 24d5+146 16d10+85 4d4+10 punch
+1 1 1 5
+0 0 B 0
+stand stand male 320
+AHMV ABCDEFGHIJK M unknown 0
+#9536
+nun urione~
+a {Wnun{x of Urione~
+A nun of Urione walks around giving advise, and sharing her wisdom to others.
+~
+A nun of Urione, walks around the city doing her rounds to help those who
+are in need of someone to talk to or confide in.  She will do what she can
+to help out.  
+~
+dargonesti~
+AGQ Jb 1000 0
+21 21 32d7+192 21d10+85 6d3+12 slap
+0 0 0 4
+0 0 B 0
+stand stand female 420
+AHMV ABCDEFGHIJK M unknown 0
+#9537
+priest urione~
+a {wpriest{x of Urione~
+A priest of Urione takes his rounds in stride, telling all those to visit the temples.
+~
+A priest of Urione, walks around the city doing his priest duties around
+the city.  Telling all he meets to go to the temple and pray for their Queen
+and god.  
+~
+dargonesti~
+AGQ Jb -1000 0
+26 26 39d8+237 26d10+85 7d3+13 punch
+-2 -2 -2 2
+0 0 B 0
+stand stand male 520
+AHMV ABCDEFGHIJK M unknown 0
+#9538
+urione city guard~
+a {BUrione{x city guard~
+A Urione city guard walks around slowly, looking for trouble.
+~
+A city guard of Urione walks around looking for anything out of the
+ordinary.  He stands tall and proud, ready and willing to give his life for
+his city.  
+~
+dargonesti~
+AGT Jb 1000 0
+31 31 47d10+283 31d10+85 8d3+15 none
+-5 -5 -5 1
+KN 0 B 0
+stand stand male 1550
+AHMV ABCDEFGHIJK M unknown 0
+#9539
+quoowahb warrior~
+a {RQuoowahb{x warrior~
+A Quoowhab warrior takes large strides, letting his presence be known.
+~
+The Quoowhab warrior is a special class of sea-elf.  They have the
+ability to turn into dolphins.  Allowing them to soar through the water at
+great speeds for war or for just fun.  
+~
+dargonesti~
+ABT Jb 1000 0
+61 61 92d20+1111 61d10+85 17d3+25 punch
+-19 -19 -19 -6
+FIK 0 B 0
+stand stand male 3050
+AHMV ABCDEFGHIJK M unknown 0
+#9540
+large shark~
+a {rlarge{x shark~
+A large shark moves swims here in search of its next meal.
+~
+This large shark is one of the greatest predators of the sea.  Its
+massive size, and great stealth makes it easy for it to get almost anything
+it wants for their next meal.  
+~
+unique~
+AFG OVbc -1000 0
+81 81 122d27+1475 81d10+85 23d3+32 bite
+-29 -29 -29 -12
+CDFKM R 0 0
+stand stand none 1620
+b ADEFKO L unknown 0
+#9541
+executioner~
+the {Rex{rec{Du{wt{Di{ron{Rer{x~
+The executioner walks around slowly, not doing much to exert much strength.
+~
+The executioner of Urione is an abormally large elf.  Almost fat and
+extremely tall.  His supreme strength makes him of the Queens favorite aids.
+~
+dargonesti~
+ABT JOb -1000 0
+101 101 152d33+1839 101d10+85 28d3+38 none
+-38 -38 -38 -17
+CEFK 0 B 0
+stand stand male 5050
+AHMV ABCDEFGHIJK M unknown 0
+#9542
+high commander~
+the {Bhigh {Gcommander{x~
+The high commander stands here, guarding the throne for the Queen.
+~
+The high commander stands next to the throne of the Queen, guarding it,
+and fighting all who may come to near it.  He is a proud man, and will give
+warning, but if you die, he will not care.  
+~
+dargonesti~
+ABT JOVb -1000 0
+111 111 167d37+3031 111d10+85 31d3+42 punch
+-43 -43 -43 -19
+CEFIKN 0 B 0
+stand stand male 5550
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#9500
+shell water fountain~
+a {wshell{x water fountain~
+A shell water fountain has been erected here.~
+shell~
+fountain A 0 P
+-1 -1 'water' 0 0
+1 0 0 P
+E
+shell~
+A large water fountain has been erected here.  It's been made out of
+hundreds and hundreds of shells that scatter the sea floor.  It's filled
+with fresh water that flows naturally from a crack in the floor of the sea. 
+~
+E
+fountain~
+A large water fountain has been erected here.  It's been made out of
+hundreds and hundreds of shells that scatter the sea floor.  It's filled
+with fresh water that flows naturally from a crack in the floor of the sea. 
+~
+#9501
+kelp woven basket~
+a woven kelp basket~
+A woven kelp basket sits ready to receive donated items.~
+plant~
+container A 0 P
+0 0 0 100000 0
+1 0 0 P
+#9502
+altar~
+the altar of Habbakuk~
+An altar dedicated to {bHabbakuk{x has been erected here.~
+stone~
+trash 0 0 P
+0 0 0 0 0
+1 0 0 P
+#9503
+altar zeb~
+the altar of Zeboim~
+An altar has been erected here in honor of {gZeboim{x.~
+stone~
+trash 0 0 P
+0 0 0 0 0
+1 0 0 P
+#9504
+stone spout~
+a {wsea horse{x stone spout~
+A protruding sea horse stone spout flows water into a basin here.~
+stone~
+fountain 0 0 P
+-1 -1 'salt water' 0 0
+0 0 0 P
+E
+spout~
+Too numerous to be drinking fountains.  The stone spouts serve another
+purpose.  Dargonesti must keep the gills behind their ears wet, or they will
+dry out.  
+~
+#9505
+stone spout squid~
+a {wsquid{x stone spout~
+A protruding squid stone spout flows water into a basin here.~
+stone~
+fountain 0 0 P
+-1 -1 'salt water' 0 0
+0 0 0 P
+E
+spout~
+Too numerous to be drinking fountains.  The stone spouts serve another
+purpose.  Dargonesti must keep the gills behind their ears wet, or they will
+dry out.  
+~
+#9506
+white phial~
+a {Wwhite{x phial~
+A white phial has been discarded on the ground here.~
+glass~
+potion GS 0 AO
+12 'cure critical' 'reserved' 'reserved' 'reserved'
+6 1 1200 P
+#9507
+red phial~
+a {Rred{x phial~
+A red phial rolls around in a circle quite fast.~
+glass~
+potion GS 0 AO
+18 'haste' 'reserved' 'reserved' 'reserved'
+9 1 1800 P
+#9508
+blue phial~
+a {Cblue{x phial~
+A blue phial is on the ground, emitting a glowing light.~
+glass~
+potion GS 0 AO
+24 'sanctuary' 'reserved' 'reserved' 'reserved'
+12 1 2400 P
+#9509
+dried kelp wand~
+a dried {Gkelp{x wand~
+A dried kelp wand has been discarded on the ground here.~
+plant~
+wand GS 0 AO
+10 3 3 'giant strength' 0
+5 1 1000 P
+#9510
+kelp scroll~
+a {Gkelp{x scroll~
+A scroll made of kelp lies on the ground, looking brand new.~
+plant~
+scroll GS 0 AO
+14 'cause light' 'reserved' 'reserved' 'reserved'
+7 1 1400 P
+#9511
+coral staff~
+a {wcoral{x staff~
+A coral staff has been discarded on the ground here.~
+coral~
+staff GS 0 AO
+22 6 6 'word of recall' 0
+11 3 1400 P
+#9512
+ground clam shell~
+a ground clamshell~
+A ground-up clamshell gives off an iridescent light.~
+shell~
+pill GS 0 AO
+10 'luck' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#9513
+ground anchovy~
+a ground anchovy~
+A ground-up anchovy lies in a small pool of oil.~
+blood~
+pill GS 0 AO
+10 'attunement' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#9514
+ground shark fins~
+a ground shark fin~
+Some ground-up shark fins have been discarded here.~
+blood~
+pill GS 0 AO
+10 'waterlungs' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#9515
+ground jelly fish~
+a ground jellyfish~
+A ground-up jellyfish lies here on the ground - Eew!~
+flesh~
+pill GS 0 AO
+10 'cure blindness' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#9516
+sea shell harp~
+a seashell {Yharp{x~
+A delicate harp made of seashell has been tossed here on the ground.~
+shell~
+instrument GS 0 AO
+0 0 0 0 0
+1 4 200 P
+#9517
+sea shell violin~
+a seashell {yviolin{x~
+A delicate violin made of seashell has been left here on the ground.~
+shell~
+instrument GS 0 AO
+0 0 0 0 0
+5 4 1000 P
+#9518
+sea shell viola~
+a seashell {rviola{x~
+A delicate viola made of seashell has been left here on the ground.~
+shell~
+instrument GS 0 AO
+0 0 0 0 0
+10 4 2000 P
+#9519
+conch shell~
+a large {mconch{x shell~
+A large spiraled conch shell lies here on the ground.~
+shell~
+instrument GS 0 AO
+0 0 0 0 0
+20 4 4000 P
+#9520
+small anvil~
+a small anvil~
+A small anvil sits here on the ground, waiting to be used.~
+iron~
+anvil 0 0 AO
+0 0 0 0 0
+1 10 200 P
+#9521
+blacksmith smith hammer~
+a blacksmith's hammer~
+A blacksmiths hammer is on the ground, looking very worn and in need of repair.~
+iron~
+bhammer Y 0 AO
+0 0 0 0 0
+1 3 200 W
+#9522
+tool kit~
+a small tool kit~
+A small tool kit is on the ground, slightly open and spilling it's contents.~
+leather~
+tool_kit 0 0 AO
+0 0 0 0 0
+1 2 200 P
+#9523
+leather beaded headress~
+a beaded leather headdress~
+A beaded leather headdress lies here on the ground.~
+leather~
+armor S 0 AE
+AB AC C 0 0
+10 2 835 P
+#9524
+coral anklet~
+a coral anklet~
+A coral anklet rests on the ground in a fragile state.~
+coral~
+armor S 0 AT
+B B B 0 0
+5 1 535 P
+#9525
+sharkskin gloves~
+a pair of sharkskin gloves~
+A pair of sharkskin gloves lie here, discarded.~
+leather~
+armor S 0 AH
+AB AC C A 0
+10 1 635 P
+#9526
+tortoise shell shoulder guards~
+some {gtortoise shell{x shoulder guards~
+A pair of tortoise shells fashioned into shoulder plates lie here on the ground.~
+shell~
+armor S 0 AS
+AC AB C 0 0
+10 3 835 P
+#9527
+insulated leather padding~
+some insulated leather paddidng~
+Some insulated leather padding has been discarded here into a pile.~
+leather~
+armor S 0 AD
+AB AC C 0 0
+10 4 935 P
+A
+24 -1
+#9528
+dried kelp belt~
+a dried kelp belt~
+A dried kelp belt has been thrown on the ground here.~
+plant~
+armor S 0 AL
+0 B A A 0
+5 1 235 P
+#9529
+giant turtle shell~
+a giant turtle shell~
+A giant turtle shell is on the ground, massive in size.~
+shell~
+armor SY 0 AJ
+AC AB C A 0
+10 6 735 P
+#9530
+dwarven helm~
+({gTarnished{x) a dwarven helm~
+A tarnished dwarven helm lies here, salvaged from a shipwreck.~
+copper~
+armor 0 0 AE
+AB B D 0 0
+15 3 2500 P
+#9531
+gold anklet~
+a {Ygold{x anklet~
+A gold anklet is on the ground here, looking valuable.~
+gold~
+armor 0 0 AT
+B B B 0 0
+15 1 3000 P
+#9532
+soft leather gloves~
+a pair of soft leather gloves~
+A pair of soft leather gloves are on the ground here.~
+soft leather~
+armor S 0 AH
+AB AC C 0 0
+15 2 2100 P
+#9533
+shark skin shoulder pads~
+a pair of sharkskin shoulder pads~
+A pair of sharkskin shoulder pads lie here, discarded.~
+leather~
+armor S 0 AS
+B C BC A 0
+15 3 2500 P
+#9534
+insulated leather tunic~
+an insulated leather tunic~
+An insulated leather tunic lies in a pile.~
+leather~
+armor S 0 AD
+C BC AC 0 0
+15 6 3000 P
+A
+24 -1
+#9535
+hardened kelp belt~
+a hardened kelp belt~
+A hardened kelp belt is on the ground, thrown aside.~
+plant~
+armor S 0 AL
+A AB B A 0
+15 1 2000 P
+#9536
+ergothian shield~
+an ergothian shield~
+A salvaged ergothian shield, rests on the ground here.~
+iron~
+armor 0 0 AJ
+C B ABC 0 0
+15 7 3000 P
+#9537
+coral sword~
+a coral sword~
+A coral sword has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+sword 3 3 slash 0
+5 2 825 P
+#9538
+coral dagger~
+a coral dagger~
+A coral dagger has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+dagger 3 3 pierce 0
+5 1 825 P
+#9539
+coral spear~
+a coral spear~
+A coral spear has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+spear 2 6 stab 0
+7 3 825 P
+#9540
+coral mace~
+a coral mace~
+A coral mace has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+mace 3 3 smash 0
+5 3 825 P
+#9541
+coral axe~
+a coral axe~
+A coral axe has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+axe 3 3 chop 0
+5 3 825 P
+#9542
+coral flail~
+a coral flail~
+A coral flail has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+flail 3 3 tail 0
+5 3 825 P
+#9543
+leather whip~
+a leather whip~
+A leather whip has been dropped on the ground here.~
+leather~
+weapon S 0 AN
+whip 3 3 whip D
+5 2 825 P
+#9544
+coral polearm~
+a coral polearm~
+A coral polearm has been dropped on the ground here.~
+coral~
+weapon S 0 AN
+polearm 3 3 thrust 0
+5 4 825 P
+#9545
+driftwood bow~
+a driftwood bow~
+A bow fashioned out of driftwood has been carelessly dropped here.~
+wood~
+weapon S 0 AN
+bow 3 3 pierce 0
+5 2 825 P
+#9546
+volcanic staff~
+a volcanic staff~
+A volcanic staff rests on the ground here, spinning slightly.~
+magnetite~
+weapon SY 0 AN
+staff 3 3 thwack 0
+5 4 825 P
+#9547
+sailors cutlass~
+a sailors cutlass~
+A sailors cutlass has been carelessly left on the ground here.~
+steel~
+weapon 0 0 AN
+sword 2 10 slash 0
+15 3 2525 P
+A
+18 3
+A
+19 1
+#9548
+steel dagger~
+a steel dagger~
+A steel dagger has been dropped on the ground here.~
+steel~
+weapon 0 0 AN
+dagger 2 10 slice 0
+15 2 2525 P
+A
+18 3
+#9549
+ergothian spear~
+an ergothian spear~
+An ergothian spear has been dropped on the ground here.~
+iron~
+weapon 0 0 AN
+spear 2 10 thrust 0
+15 4 2525 P
+A
+18 1
+A
+19 2
+#9550
+solamnic mace~
+a solamnic mace~
+A solamnic mace has been dropped on the ground here.~
+iron~
+weapon 0 0 AN
+mace 2 10 crush 0
+15 5 2525 P
+A
+19 3
+A
+18 1
+#9551
+steel battleaxe~
+a steel battleaxe~
+A steel battleaxe has been dropped on the ground here.~
+steel~
+weapon 0 0 AN
+axe 2 10 cleave 0
+15 5 2525 P
+A
+19 2
+#9552
+shark skin whip~
+a sharkskin whip~
+A sharkskin whip has been dropped here on the ground.~
+leather~
+weapon S 0 AN
+whip 2 10 sting 0
+15 3 2525 P
+A
+19 3
+#9553
+ash bow~
+an ashwood bow~
+A rare ash bow has been dropped on the ground here.~
+ash~
+weapon S 0 AN
+bow 2 10 thwack 0
+15 3 2525 P
+A
+18 3
+#9554
+quarry stone staff~
+a quarry stone staff~
+A quarry stone staff has been laid carelessly on the ground.~
+stone~
+weapon SY 0 AN
+staff 2 10 smash 0
+15 4 2525 P
+A
+19 1
+#9555
+elven flail~
+an elven flail~
+An elven flail has been laid carelessly on the ground.~
+iron~
+weapon 0 0 AN
+flail 2 10 pound 0
+15 4 2525 P
+A
+18 3
+#9556
+heavy polearm~
+a heavy polearm~
+A heavy polearm has been laid carelessly on the ground.~
+iron~
+weapon 0 0 AN
+flail 2 10 thrust 0
+15 6 2525 P
+#9557
+sardine~
+a raw sardine~
+A raw sardine is on the ground here.~
+flesh~
+food S 0 A
+AC 0 0 0 0
+1 1 10 P
+#9558
+mackerel~
+a raw mackerel~
+A raw mackerel lies here on the ground.~
+flesh~
+food S 0 A
+BD 0 0 0 0
+5 1 20 P
+#9559
+cod~
+a raw cod~
+A raw cod is on the ground here.~
+flesh~
+food S 0 A
+ABCD 0 0 0 0
+10 1 30 P
+#9560
+tuna~
+a raw tuna~
+A raw tuna is on the ground here.~
+flesh~
+food S 0 A
+CE 0 0 0 0
+15 1 40 P
+#9561
+quiver~
+a quiver~
+A quiver is on the ground here.~
+leather~
+quiver S 0 AK
+50 3 3 0 0
+5 4 150 P
+#9562
+dargon glow stone~
+a Dargonesti glowstone~
+A small glowing orb lies here on the ground.~
+glass~
+light AS 0 A
+0 0 ADG 0 0
+5 1 50 P
+#9563
+nose ring~
+a nose ring~
+A nose ring is on the ground here.~
+steel~
+armor 0 0 AU
+0 A 0 B 0
+5 0 75 P
+#9564
+leather beaded sandals~
+a pair of beaded leather sandals~
+A pair of beaded leather sandals sits here on the ground.~
+leather~
+armor S 0 AG
+B C AB 0 0
+5 1 75 P
+#9565
+kelp basket~
+a kelp basket~
+A kelp basket sits here on the ground.~
+plant~
+container S 0 A
+75 0 0 50 80
+5 1 100 P
+#9566
+coral chunk~
+a chunk of coral~
+A chunk of coral floats just above the ground here.~
+coral~
+treasure GS 0 AQ
+0 0 0 0 0
+5 0 100 P
+A
+3 1
+#9567
+sharkskin water pouch~
+a sharkskin water pouch~
+A sharkskin water pouch lies here on the ground.~
+leather~
+drink S 0 A
+12 12 'water' 0 0
+5 2 75 P
+#9568
+coral ring~
+a coral ring~
+A coral ring is on the ground, looking quite fragile.~
+coral~
+jewelry S 0 AB
+0 0 0 0 0
+31 1 310 P
+A
+2 1
+#9569
+urione cityguard cloak mauve~
+a Urione cityguard cloak~
+A mauve cloak is in a heaping mess on the ground.~
+silk~
+armor S 0 AC
+ABC ABC ABC AB 0
+31 1 310 P
+#9570
+tortoise shell breast plate~
+a {gtortoise shell{x breastplate~
+A breastplate fashioned from a large tortoise shell lies here.~
+shell~
+armor S 0 AD
+BD BC ACD AB 0
+31 6 500 P
+#9571
+sharkskin kilt~
+a sharkskin kilt~
+A well-tailored kilt made from sharkskin lies here on the ground.~
+leather~
+armor S 0 AF
+ABC AD D C 0
+31 2 350 P
+#9572
+silver arm bands~
+a pair of {Wsilver{x arm bands~
+A pair of silver arm bands lie discarded on the ground.~
+silver~
+armor AS 0 AI
+C AC AC AB 0
+31 1 500 P
+#9573
+tortoise shell shield~
+a {gtortoise shell{x shield~
+A large tortoise shell shield lies on the ground, forgotten.~
+shell~
+armor S 0 AJ
+AD ABC D AB 0
+31 4 310 P
+#9574
+old helmet~
+an old helmet~
+An old helmet is on the ground here.~
+copper~
+armor 0 0 AE
+C AC AC AB 0
+31 3 310 P
+#9575
+sharkskin bracer~
+a sharkskin bracer~
+A sharkskin bracer lies here on the ground, looking very worn.~
+leather~
+armor S 0 AM
+BC C ABC AB 0
+31 2 360 P
+#9576
+urione guard sword~
+a Urione guard's sword~
+The sword of a Urione guard lies here on the ground.~
+quartz~
+weapon S 0 AN
+sword 3 12 slash 0
+31 3 400 P
+#9577
+urione guard dagger~
+a Urione guard's dagger~
+The dagger of a Urione guard is stuck in the ground.~
+quartz~
+weapon S 0 AN
+dagger 5 6 stab 0
+31 1 400 P
+#9578
+urione guard spear~
+a Urione guard spear~
+A Urione guard spear has been dropped here.~
+quartz~
+weapon S 0 AN
+spear 5 7 thrust 0
+31 3 400 P
+#9579
+urione guard mace~
+a Urione guard mace~
+A Urione guard mace lies in a hole in the ground here.~
+quartz~
+weapon S 0 AN
+mace 3 12 pound 0
+31 5 400 P
+#9580
+urione guard axe~
+a Urione guard axe~
+A Urione guard axe shines in what light is around it.~
+quartz~
+weapon S 0 AN
+axe 5 7 chop 0
+31 4 400 P
+#9581
+urione guard flail~
+a Urione guard flail~
+A Urione guard flail has been discarded on the ground here.~
+quartz~
+weapon S 0 AN
+flail 5 7 pound 0
+31 4 400 P
+#9582
+urione guard whip~
+a Urione guard whip~
+A Urione guard whip lies in a heap of leather on the ground.~
+bone~
+weapon S 0 AN
+whip 4 8 whip D
+31 2 400 P
+#9583
+urione guard polearm~
+a Urione guard polearm~
+A Urione guard polearm is on the ground here.~
+quartz~
+weapon S 0 AN
+polearm 5 8 thrust 0
+31 4 400 P
+#9584
+urione guard staff~
+a Urione guard staff~
+A Urione guard staff has been tossed aside here.~
+quartz~
+weapon S 0 AN
+staff 3 12 thwack 0
+31 3 400 P
+#9585
+beaded ring~
+a beaded ring~
+A beaded ring lays on the ground here.~
+pearl~
+jewelry S 0 AB
+0 0 0 0 0
+11 1 40 P
+#9586
+toy mace~
+a {Rtoy{x mace~
+A toy mace is on the ground, giving off a poping noise every now and then.~
+bone~
+weapon S 0 AN
+mace 2 10 smash G
+11 3 50 P
+A
+18 3
+A
+19 3
+#9587
+blue silk cloak~
+a {Bblue{x silk cloak~
+A blue cloak has been tossed on the ground here.~
+silk~
+armor S 0 AC
+C C C 0 0
+16 1 80 P
+#9588
+kelp arm guard~
+a {Gkelp{x arm guard~
+A kelp arm guard rests on the ground, undisturbed.~
+plant~
+armor S 0 AI
+AC AC AC A 0
+21 1 100 P
+#9589
+knee length kilt~
+a knee length kilt~
+A knee length kilt, quite fragile looking, is on the ground.~
+plant~
+armor GSY 0 AF
+BC ABC BC B 0
+26 2 130 P
+A
+5 1
+A
+2 1
+#9590
+throne~
+a large throne~
+A large throne sits in the middle of the room.~
+marble~
+furniture 0 0 P
+A DFGHIJ BEHK AC BD
+1 0 0 P
+#9591
+gray leather vest~
+a gray leather vest~
+A gray leather vest is on the ground in a pile.~
+leather~
+armor S 0 AD
+CD BCD ACD AD A
+61 2 1500 P
+A
+3 1
+A
+1 1
+A
+24 -2
+#9592
+volcanic hunk rock~
+({rVolcanic{x) a hunk of rock~
+A hunk of volcanic rock floats effortlessly, just above the ground.~
+magnetite~
+trash GSY 0 AQ
+0 0 0 0 0
+120 5 0 P
+A
+4 1
+A
+5 1
+A
+3 2
+A
+12 50
+A
+13 50
+#9593
+grotesque statue~
+a large grotesque statue~
+A large grotesque statue has been placed in front of an altar.~
+marble~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+#9594
+white coral altar~
+a white coral altar~
+An altar made of white coral stands before you.~
+coral~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+#9595
+green kelp~
+{xsome {Ggreen{x kelp~
+A pile of green kelp seems to shimmer in a pool of water, appearing to lead somewhere...~
+plant~
+portal TYa 0 AD
+0 0 A GIJL 0
+124 0 0 P
+#9596
+green kelp~
+{xsome {Ggreen{x kelp~
+A pile of green kelp seems to shimmer in a pool of water, appearing to lead somewhere...~
+plant~
+portal TYa 0 AL
+0 0 A ACEJKN 0
+124 0 0 P
+#9597
+magical bubble~
+a {Rbubble{x~
+A magical bubble floats just above the ground here.~
+air~
+container TYa 0 AQ
+500 0 0 1000 100
+124 0 0 P
+#0
+
+
+
+#ROOMS
+#9500
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead, awaiting the
+opportunity to snag the next thing that will sate their hunger.  
+~
+0 16777220 15
+D1
+~
+~
+0 0 9758
+D2
+~
+~
+0 0 9501
+D3
+~
+~
+0 0 3933
+M 5 H 5
+S
+#9501
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9500
+D1
+~
+~
+0 0 9540
+D2
+~
+~
+0 0 9502
+D3
+~
+~
+0 0 9789
+S
+#9502
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9501
+D1
+~
+~
+0 0 9541
+D2
+~
+~
+0 0 9503
+D3
+~
+~
+0 0 9788
+S
+#9503
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9502
+D2
+~
+~
+0 0 9504
+D3
+~
+~
+0 0 9787
+S
+#9504
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9503
+D1
+~
+~
+0 0 9543
+D2
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9786
+S
+#9505
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9504
+D2
+~
+~
+0 0 9506
+D3
+~
+~
+0 0 9785
+S
+#9506
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat they also give off toxic
+fumes that could be deadly if one has not adapted to it.  Crustaceans and
+small fish swim eagerly around, picking off the dying and the young.  A pack
+of barracuda swim overhead eyeing the situation.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9505
+D1
+~
+~
+0 0 9545
+D2
+~
+~
+0 0 9507
+D3
+~
+~
+0 0 9784
+S
+#9507
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9506
+D2
+~
+~
+0 0 9508
+D3
+~
+~
+0 0 9783
+S
+#9508
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9507
+D1
+~
+~
+0 0 9547
+D2
+~
+~
+0 0 9509
+D3
+~
+~
+0 0 9782
+S
+#9509
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9508
+D2
+~
+~
+0 0 9510
+D3
+~
+~
+0 0 9781
+S
+#9510
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9509
+D1
+~
+~
+0 0 9549
+D2
+~
+~
+0 0 9511
+D3
+~
+~
+0 0 9780
+S
+#9511
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 9510
+D1
+~
+~
+0 0 9512
+D2
+~
+~
+0 0 9778
+D3
+~
+~
+0 0 9779
+S
+#9512
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9549
+D1
+~
+~
+0 0 9513
+D2
+~
+~
+0 0 9777
+D3
+~
+~
+0 0 9511
+S
+#9513
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9514
+D2
+~
+~
+0 0 9776
+D3
+~
+~
+0 0 9512
+S
+#9514
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9551
+D1
+~
+~
+0 0 9515
+D2
+~
+~
+0 0 9775
+D3
+~
+~
+0 0 9513
+S
+#9515
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9516
+D2
+~
+~
+0 0 9774
+D3
+~
+~
+0 0 9514
+S
+#9516
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9553
+D1
+~
+~
+0 0 9517
+D2
+~
+~
+0 0 9773
+D3
+~
+~
+0 0 9515
+S
+#9517
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9518
+D2
+~
+~
+0 0 9772
+D3
+~
+~
+0 0 9516
+S
+#9518
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9555
+D1
+~
+~
+0 0 9519
+D2
+~
+~
+0 0 9771
+D3
+~
+~
+0 0 9517
+S
+#9519
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9520
+D2
+~
+~
+0 0 9770
+D3
+~
+~
+0 0 9518
+S
+#9520
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9557
+D1
+~
+~
+0 0 9521
+D2
+~
+~
+0 0 9769
+D3
+~
+~
+0 0 9519
+S
+#9521
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9522
+D1
+~
+~
+0 0 9757
+D2
+~
+~
+0 0 9768
+D3
+~
+~
+0 0 9520
+S
+#9522
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9799
+D2
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9557
+S
+#9523
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9524
+D1
+~
+~
+0 0 9798
+D2
+~
+~
+0 0 9522
+S
+#9524
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9525
+D1
+~
+~
+0 0 9797
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9559
+S
+#9525
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9526
+D1
+~
+~
+0 0 9796
+D2
+~
+~
+0 0 9524
+S
+#9526
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9527
+D1
+~
+~
+0 0 9795
+D2
+~
+~
+0 0 9525
+D3
+~
+~
+0 0 9561
+S
+#9527
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9528
+D1
+~
+~
+0 0 9794
+D2
+~
+~
+0 0 9526
+S
+#9528
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9529
+D1
+~
+~
+0 0 9793
+D2
+~
+~
+0 0 9527
+D3
+~
+~
+0 0 9563
+S
+#9529
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9530
+D1
+~
+~
+0 0 9792
+D2
+~
+~
+0 0 9528
+S
+#9530
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9531
+D1
+~
+~
+0 0 9791
+D2
+~
+~
+0 0 9529
+D3
+~
+~
+0 0 9565
+S
+#9531
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9767
+D1
+~
+~
+0 0 9790
+D2
+~
+~
+0 0 9530
+D3
+~
+~
+0 0 9532
+S
+#9532
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9766
+D1
+~
+~
+0 0 9531
+D2
+~
+~
+0 0 9565
+D3
+~
+~
+0 0 9533
+S
+#9533
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9765
+D1
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9534
+S
+#9534
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9764
+D1
+~
+~
+0 0 9533
+D2
+~
+~
+0 0 9567
+D3
+~
+~
+0 0 9535
+S
+#9535
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9763
+D1
+~
+~
+0 0 9534
+D3
+~
+~
+0 0 9536
+S
+#9536
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9762
+D1
+~
+~
+0 0 9535
+D2
+~
+~
+0 0 9569
+D3
+~
+~
+0 0 9537
+S
+#9537
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9761
+D1
+~
+~
+0 0 9536
+D3
+~
+~
+0 0 9538
+S
+#9538
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9760
+D1
+~
+~
+0 0 9537
+D2
+~
+~
+0 0 9571
+D3
+~
+~
+0 0 9539
+S
+#9539
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9759
+D1
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9540
+S
+#9540
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9758
+D1
+~
+~
+0 0 9539
+D2
+~
+~
+0 0 9541
+D3
+~
+~
+0 0 9501
+S
+#9541
+{cEntrance to Urione{x~
+The lowest level of the spiral city appears to have many entrances.  A
+number of glowing pumpkin-sized globes can be seen, attached at intervals to
+the overhead stonework.  A closer examination of the walls show that the
+pink granite is very thick; as it must be, to support such a huge structure.
+Attempting to peer up to the top would only make one dizzy.  
+~
+0 12 1
+D0
+~
+~
+0 0 9540
+D1
+~
+~
+0 0 9572
+D2
+~
+~
+0 0 9542
+D3
+~
+~
+0 0 9502
+D4
+~
+~
+0 0 9573
+S
+#9542
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.  
+~
+0 12 1
+D0
+~
+~
+0 0 9541
+D2
+~
+~
+0 0 9543
+S
+#9543
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots seem to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.  
+~
+0 12 1
+D0
+~
+~
+0 0 9542
+D2
+~
+~
+0 0 9544
+D3
+~
+~
+0 0 9504
+S
+#9544
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9543
+D2
+~
+~
+0 0 9545
+S
+#9545
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9544
+D2
+~
+~
+0 0 9546
+D3
+~
+~
+0 0 9506
+S
+#9546
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9545
+D2
+~
+~
+0 0 9547
+S
+#9547
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9546
+D2
+~
+~
+0 0 9548
+D3
+~
+~
+0 0 9508
+S
+#9548
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9547
+D2
+~
+~
+0 0 9549
+S
+#9549
+{cEntrance to Urione{x~
+The lowest level of the spiral city appears to have many entrances.  A
+number of glowing pumpkin-sized globes can be seen, attached at intervals to
+the overhead stonework.  A closer examination of the walls show that the
+pink granite is very thick; as it must be, to support such a huge structure.
+Attempting to peer up to the top would only make one dizzy.
+~
+0 12 1
+D0
+~
+~
+0 0 9548
+D1
+~
+~
+0 0 9550
+D2
+~
+~
+0 0 9512
+D3
+~
+~
+0 0 9510
+D4
+~
+~
+0 0 9581
+S
+#9550
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9551
+D3
+~
+~
+0 0 9549
+S
+#9551
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9552
+D2
+~
+~
+0 0 9514
+D3
+~
+~
+0 0 9550
+S
+#9552
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9553
+D3
+~
+~
+0 0 9551
+S
+#9553
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9554
+D2
+~
+~
+0 0 9516
+D3
+~
+~
+0 0 9552
+S
+#9554
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9555
+D3
+~
+~
+0 0 9553
+S
+#9555
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9556
+D2
+~
+~
+0 0 9518
+D3
+~
+~
+0 0 9554
+S
+#9556
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9557
+D3
+~
+~
+0 0 9555
+S
+#9557
+{cEntrance to Urione{x~
+The lowest level of the spiral city appears to have many entrances.  A
+number of glowing pumpkin-sized globes can be seen, attached at intervals to
+the overhead stonework.  A closer examination of the walls show that the
+pink granite is very thick; as it must be, to support such a huge structure.
+Attempting to peer up to the top would only make one dizzy.
+~
+0 12 1
+D0
+~
+~
+0 0 9558
+D1
+~
+~
+0 0 9522
+D2
+~
+~
+0 0 9520
+D3
+~
+~
+0 0 9556
+D4
+~
+~
+0 0 9589
+S
+#9558
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9559
+D2
+~
+~
+0 0 9557
+S
+#9559
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9560
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9558
+S
+#9560
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9561
+D2
+~
+~
+0 0 9559
+S
+#9561
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9562
+D1
+~
+~
+0 0 9526
+D2
+~
+~
+0 0 9560
+S
+#9562
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9563
+D2
+~
+~
+0 0 9561
+S
+#9563
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9564
+D1
+~
+~
+0 0 9528
+D2
+~
+~
+0 0 9562
+S
+#9564
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9565
+D2
+~
+~
+0 0 9563
+S
+#9565
+{cEntrance to Urione{x~
+The lowest level of the spiral city appears to have many entrances.  A
+number of glowing pumpkin-sized globes can be seen, attached at intervals to
+the overhead stonework.  A closer examination of the walls show that the
+pink granite is very thick; as it must be, to support such a huge structure.
+Attempting to peer up to the top would only make one dizzy.
+~
+0 12 1
+D0
+~
+~
+0 0 9532
+D1
+~
+~
+0 0 9530
+D2
+~
+~
+0 0 9564
+D3
+~
+~
+0 0 9566
+D4
+~
+~
+0 0 9597
+S
+#9566
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9565
+D3
+~
+~
+0 0 9567
+S
+#9567
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9534
+D1
+~
+~
+0 0 9566
+D3
+~
+~
+0 0 9568
+S
+#9568
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9567
+D3
+~
+~
+0 0 9569
+S
+#9569
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9536
+D1
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9570
+S
+#9570
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9569
+D3
+~
+~
+0 0 9571
+S
+#9571
+{cEntrance to Urione{x~
+The pink granite walls of Urione are very thick, and very strong. 
+Designed to support the many floors of the spiraling structure, it would
+take an act of extreme proportions to make this structure falter.  A few
+huge dark spots can be seen hovering about the surrounding dark water.  The
+spots semm to resemble massive underwater mountains, though it's hard to
+tell for certain.  One can only imagine what it is like to live under the
+water, unless of course you are a sea-elf.
+~
+0 12 1
+D0
+~
+~
+0 0 9538
+D1
+~
+~
+0 0 9570
+D3
+~
+~
+0 0 9572
+S
+#9572
+{cEntrance to Urione{x~
+Appearances can be deceiving, in the fact that this large structure that
+rises from the seafloor is actually very sturdy.  This structure is made of
+pink granite, the lowest level being the thickest part of the spiraled city.
+Peering in either direction could prove to be a dizzying sight as it looks
+that it may go on forever.  Then again, looking back out into the sea proves
+to be even more complicated, unless of course, you should be a sea-elf.
+~
+0 12 1
+D1
+~
+~
+0 0 9571
+D3
+~
+~
+0 0 9541
+S
+#9573
+{cOuter Walkway - Market{x~
+Thick granite walls appear to sparkle in the unnatural light given off by
+the orbs of light on the walls.  Small droplets of water have formed on the
+thick granite from the difference in temperature, giving the sparkle to the
+walls.  A few baskets of clutter seem to have made their way into the outer
+rim of the market, which shows just how much is for sale in such a private
+community.  
+~
+0 8 1
+D1
+~
+~
+0 0 9604
+D2
+~
+~
+0 0 9574
+D5
+~
+~
+0 0 9541
+S
+#9574
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9573
+D2
+~
+~
+0 0 9575
+S
+#9575
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.  
+~
+0 8 15
+D0
+~
+~
+0 0 9574
+D1
+~
+~
+0 0 9637
+D2
+~
+~
+0 0 9576
+S
+#9576
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9575
+D2
+~
+~
+0 0 9577
+S
+#9577
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 15
+D0
+~
+~
+0 0 9576
+D1
+~
+~
+0 0 9630
+D2
+~
+~
+0 0 9578
+S
+#9578
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 15
+D0
+~
+~
+0 0 9577
+D2
+~
+~
+0 0 9579
+S
+#9579
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 15
+D0
+~
+~
+0 0 9578
+D1
+~
+~
+0 0 9629
+D2
+~
+~
+0 0 9580
+S
+#9580
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 15
+D0
+~
+~
+0 0 9579
+D2
+~
+~
+0 0 9581
+S
+#9581
+{cOuter Walkway - Market{x~
+Thick granite walls appear to sparkle in the unnatural light given off by
+the orbs of light on the walls.  Small droplets of water have formed on the
+thick granite from the difference in temperature, giving the sparkle to the
+walls.  A few baskets of clutter seem to have made their way into the outer
+rim of the market, which shows just how much is for sale in such a private
+community.  
+~
+0 8 15
+D0
+~
+~
+0 0 9580
+D1
+~
+~
+0 0 9582
+D5
+~
+~
+0 0 9549
+S
+#9582
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 15
+D1
+~
+~
+0 0 9583
+D3
+~
+~
+0 0 9581
+S
+#9583
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 15
+D0
+~
+~
+0 0 9611
+D1
+~
+~
+0 0 9584
+D3
+~
+~
+0 0 9582
+S
+#9584
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9585
+D3
+~
+~
+0 0 9583
+S
+#9585
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D0
+~
+~
+0 0 9612
+D1
+~
+~
+0 0 9586
+D3
+~
+~
+0 0 9584
+S
+#9586
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9587
+D3
+~
+~
+0 0 9585
+S
+#9587
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D0
+~
+~
+0 0 9625
+D1
+~
+~
+0 0 9588
+D3
+~
+~
+0 0 9586
+S
+#9588
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9589
+D3
+~
+~
+0 0 9587
+S
+#9589
+{cOuter Walkway - Market{x~
+Thick granite walls appear to sparkle in the unnatural light given off by
+the orbs of light on the walls.  Small droplets of water have formed on the
+thick granite from the difference in temperature, giving the sparkle to the
+walls.  A few baskets of clutter seem to have made their way into the outer
+rim of the market, which shows just how much is for sale in such a private
+community.  
+~
+0 8 1
+D0
+~
+~
+0 0 9590
+D3
+~
+~
+0 0 9588
+D5
+~
+~
+0 0 9557
+S
+#9590
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9591
+D2
+~
+~
+0 0 9589
+S
+#9591
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D0
+~
+~
+0 0 9592
+D2
+~
+~
+0 0 9590
+D3
+~
+~
+0 0 9626
+S
+#9592
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9593
+D2
+~
+~
+0 0 9591
+S
+#9593
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D0
+~
+~
+0 0 9594
+D2
+~
+~
+0 0 9592
+D3
+~
+~
+0 0 9633
+S
+#9594
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9595
+D2
+~
+~
+0 0 9593
+S
+#9595
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D0
+~
+~
+0 0 9596
+D2
+~
+~
+0 0 9594
+D3
+~
+~
+0 0 9634
+S
+#9596
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D0
+~
+~
+0 0 9597
+D2
+~
+~
+0 0 9595
+S
+#9597
+{cOuter Walkway - Market{x~
+Thick granite walls appear to sparkle in the unnatural light given off by
+the orbs of light on the walls.  Small droplets of water have formed on the
+thick granite from the difference in temperature, giving the sparkle to the
+walls.  A few baskets of clutter seem to have made their way into the outer
+rim of the market, which shows just how much is for sale in such a private
+community.  
+~
+0 8 1
+D2
+~
+~
+0 0 9596
+D3
+~
+~
+0 0 9598
+D5
+~
+~
+0 0 9565
+S
+#9598
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9597
+D3
+~
+~
+0 0 9599
+S
+#9599
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D1
+~
+~
+0 0 9598
+D2
+~
+~
+0 0 9619
+D3
+~
+~
+0 0 9600
+S
+#9600
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9599
+D3
+~
+~
+0 0 9601
+S
+#9601
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D1
+~
+~
+0 0 9600
+D2
+~
+~
+0 0 9618
+D3
+~
+~
+0 0 9602
+S
+#9602
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9601
+D3
+~
+~
+0 0 9603
+S
+#9603
+{cOuter Walkway - Market{x~
+A glance down one of the walkways that isn't blocked with merchandise
+shows the massive size of this market.  Vendor after vendor lines the
+walkways with food, weapons, and even magic objects for sale.  Maybe a quick
+walk through would help to see what is being sold, and then where to head;
+though this task could prove challenging with the lack of elbow room around
+you.
+~
+0 8 1
+D1
+~
+~
+0 0 9602
+D2
+~
+~
+0 0 9605
+D3
+~
+~
+0 0 9604
+S
+#9604
+{cOuter Walkway - Market{x~
+The shear loudness of the large open room is quite extraordinary.  Guards
+calmly walk around, while what appear to be the citizens of Urione, chat
+feverishly while looking at the piles of wares.  A few sea-elves walk past
+and it is made quite clear that this must be a market.  While this point is
+made clear, the point of the stone spouts that are protruding from the wall
+aren't as obvious.  Maybe a closer examination of them would make their
+purpose clear?
+~
+0 8 1
+D1
+~
+~
+0 0 9603
+D3
+~
+~
+0 0 9573
+S
+#9605
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.  
+~
+0 8 1
+D0
+~
+~
+0 0 9603
+D2
+~
+~
+0 0 9606
+S
+#9606
+{CMagical Concoctions{x~
+One of the larger and more up kept carts in the market place is Magical
+Concoctions.  Rows upon rows of magical phials, scrolls, and wands line the
+many shelves of the cart.  Just along side in extra large kelp woven baskets
+are staves made of coral.  There always seems to be a crowd around the cart.
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|   {yTo see what is forsale please type list     {Y|{x
+{Y|                                               |{x
+{Y|       {yOnce you have made your choice          {Y|{x
+{Y|                                               |{x
+{Y|            {yType 'buy (itemname)               {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9605
+D1
+~
+~
+0 0 9636
+D2
+~
+~
+0 0 9607
+D3
+~
+~
+0 0 9637
+S
+#9607
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9606
+D2
+~
+~
+0 0 9608
+S
+#9608
+{CBlacksmiths Cart{x~
+Most sea-elves are not quite sure where this cart fits in with their
+market place.  A very tall and handsome looking sea-elf stands behind his
+massive cart.  A number of anvils are just in front of the massive cart,
+while hammers and tool kits are scattered about the large shelves.  
+
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|      {yKEEP ALL HANDS OFF THE MERCHANDISE       {Y|{x
+{Y|                                               |{x
+{Y|    {yIF THERE IS SOMETHING YOU WANT TO BUY      {Y|{x
+{Y|                                               |{x
+{Y|               {yJUST TYPE 'LIST'                {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9607
+D1
+~
+~
+0 0 9631
+D2
+~
+~
+0 0 9609
+D3
+~
+~
+0 0 9630
+S
+#9609
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9608
+D2
+~
+~
+0 0 9610
+S
+#9610
+{CPestle & Mortar{x~
+A small hand cart is angled here at the four way intersection.  A number
+of small pills are on top of the cart.  The vendor stands tall and quiet as
+sea-elves pour over the selection.  Though the selection may not be much,
+the work behind the objects is tiring and extremely hard to do.  
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|   {yTo see what is forsale please type list     {Y|{x
+{Y|                                               |{x
+{Y|       {yOnce you have made your choice          {Y|{x
+{Y|                                               |{x
+{Y|            {yType 'buy (itemname)               {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9609
+D1
+~
+~
+0 0 9628
+D2
+~
+~
+0 0 9611
+D3
+~
+~
+0 0 9629
+S
+#9611
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9610
+D2
+~
+~
+0 0 9583
+S
+#9612
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9613
+D2
+~
+~
+0 0 9585
+S
+#9613
+{CGlorious Sounds{x~
+A small cart rests back away from the path of the busy sea-elves, and a
+somewhat small sea-elf sits on a chair right next to it.  The cart seems to
+be well taken care of, being decorated with various shells and highly
+polished beads.  A few odd looking instruments can be seen, resting on soft
+cloth, so they will not be damaged.  
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|   {yTo see what is forsale please type list     {Y|{x
+{Y|                                               |{x
+{Y|       {yOnce you have made your choice          {Y|{x
+{Y|                                               |{x
+{Y|            {yType 'buy (itemname)               {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9614
+D1
+~
+~
+0 0 9627
+D2
+~
+~
+0 0 9612
+D3
+~
+~
+0 0 9628
+S
+#9614
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9615
+D2
+~
+~
+0 0 9613
+S
+#9615
+{CA Large Stairway{x~
+A large spiral stairway begins here.  Looking at the staircase, it seems
+as though the stairway continues to the very top, however far that may be. 
+The hustle and bustle of the market does not crowd the massive staircase. 
+Accustomed to the traffic, the citizens keep their distance; allowing
+unimpeded passage to those who need to journey to a different level.  
+~
+0 8 1
+D0
+~
+~
+0 0 9616
+D1
+~
+~
+0 0 9632
+D2
+~
+~
+0 0 9614
+D3
+~
+~
+0 0 9631
+D4
+~
+~
+0 0 9638
+D5
+~
+~
+0 0 9749
+S
+#9616
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9617
+D2
+~
+~
+0 0 9615
+S
+#9617
+{CThe Armorer's Cart{x~
+A damaged cart, and an old sea-elf and armor are scattered about as far
+as the shops area is allowed, this can be only one place, The Armorer's
+Cart.  Belts, shields, gloves, shoulder guards, many different things from
+many different places.  Some salvaged some made, all sold at Proutelous'
+cart, at prices that are fair for an underwater world.  
+ 
+A small {Rsign {whangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|      {yKEEP ALL HANDS OFF THE MERCHANDISE       {Y|{x
+{Y|                                               |{x
+{Y|    {yIF THERE IS SOMETHING YOU WANT TO BUY      {Y|{x
+{Y|                                               |{x
+{Y|               {yJUST TYPE 'LIST'                {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9618
+D1
+~
+~
+0 0 9635
+D2
+~
+~
+0 0 9616
+D3
+~
+~
+0 0 9636
+S
+#9618
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9601
+D2
+~
+~
+0 0 9617
+S
+#9619
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9599
+D2
+~
+~
+0 0 9620
+S
+#9620
+{CThe Fighting Stance{x~
+The Fighting Stance is Urione's weapon shop.  Coral, steel, and leather
+just to name a few of the materials of the weapons that are for sale.  Most
+of the weapons for sale have been found or salvaged from ship wreaks. 
+Xioxn, the weapon master, spends most of his time looking for a new find to
+sell in his shop.  
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|      {yKEEP ALL HANDS OFF THE MERCHANDISE       {Y|{x
+{Y|                                               |{x
+{Y|    {yIF THERE IS SOMETHING YOU WANT TO BUY      {Y|{x
+{Y|                                               |{x
+{Y|               {yJUST TYPE 'LIST'                {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9619
+D1
+~
+~
+0 0 9634
+D2
+~
+~
+0 0 9621
+D3
+~
+~
+0 0 9635
+S
+#9621
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9620
+D2
+~
+~
+0 0 9622
+S
+#9622
+{CFreshest Catch{x~
+A smell of wet dead fish surrounds this vendor, since there is no cart. 
+It is a first come first serve basis, meaning that the sea-elves pick out
+the size and type of fish they want.  Baskets are piled high with many
+different kinds of fish, for those who are unsure of what to get, Karina
+offers her best catch of the day, all you have to do is simply ask her.  
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|   {yTo see what is forsale please type list     {Y|{x
+{Y|                                               |{x
+{Y|       {yOnce you have made your choice          {Y|{x
+{Y|                                               |{x
+{Y|            {yType 'buy (itemname)               {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9621
+D1
+~
+~
+0 0 9633
+D2
+~
+~
+0 0 9623
+D3
+~
+~
+0 0 9632
+S
+#9623
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9622
+D2
+~
+~
+0 0 9624
+S
+#9624
+{CA Thing for Everyone{x~
+A large cart blocks the view of what is piled behind it.  Upon closer
+examination of the cart, it appears to be a general store of sorts. 
+Baskets, glowstones, water pouches, just to name a few, can be bought here. 
+Though there may not be a lot of items for sale here, everything appears to
+be something that is needed for life under the sea.  
+ 
+A small {Rsign{w hangs on the cart.{x
+~
+0 8 1
+E
+sign~
+{m*{x
+{Y_________________________________________________{x
+{Y|                                               |{x
+{Y|                                               |{x
+{Y|      {yKEEP ALL HANDS OFF THE MERCHANDISE       {Y|{x
+{Y|                                               |{x
+{Y|    {yIF THERE IS SOMETHING YOU WANT TO BUY      {Y|{x
+{Y|                                               |{x
+{Y|               {yJUST TYPE 'LIST'                {Y|{x
+{Y|                                               |{x
+{Y|_______________________________________________|{x
+~
+D0
+~
+~
+0 0 9623
+D1
+~
+~
+0 0 9626
+D2
+~
+~
+0 0 9625
+D3
+~
+~
+0 0 9627
+S
+#9625
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D0
+~
+~
+0 0 9624
+D2
+~
+~
+0 0 9587
+S
+#9626
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9591
+D3
+~
+~
+0 0 9624
+S
+#9627
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9624
+D3
+~
+~
+0 0 9613
+S
+#9628
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9613
+D3
+~
+~
+0 0 9610
+S
+#9629
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9610
+D3
+~
+~
+0 0 9579
+S
+#9630
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9608
+D3
+~
+~
+0 0 9577
+S
+#9631
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9615
+D3
+~
+~
+0 0 9608
+S
+#9632
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9622
+D3
+~
+~
+0 0 9615
+S
+#9633
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9593
+D3
+~
+~
+0 0 9622
+S
+#9634
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9595
+D3
+~
+~
+0 0 9620
+S
+#9635
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9620
+D3
+~
+~
+0 0 9617
+S
+#9636
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9617
+D3
+~
+~
+0 0 9606
+S
+#9637
+{CBustling Market Place{x~
+Piles and piles of woven kelp baskets line the walkways.  Carts holding
+all sorts of wares - from seashell necklaces to even the rarest of objects,
+a wooden bow.  The loudness of the market is deafening.  Vendors shout their
+latest finds or catches of the day, while only a few seem uninterested in
+shouting, rather waiting for the right people to come to their spot.
+~
+0 8 1
+D1
+~
+~
+0 0 9606
+D3
+~
+~
+0 0 9575
+S
+#9638
+{cMassive Spiral Staircase{x~
+This lustrous marble path winds tightly around an enormous pillar of pink
+granite the forms the central support of the city's outer shell.  The broad
+sweeping of the ramp makes it easy to maneuver through the stairway.  Going
+around, some levels are filled with air and contain what appears to be
+houses and a few more small shops, while other floors are walled off by
+panes of quartz, these obvious entries into the ocean.  
+~
+0 8 1
+D3
+~
+~
+0 0 9639
+D5
+~
+~
+0 0 9615
+S
+#9639
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D1
+~
+~
+0 0 9638
+D2
+~
+~
+0 0 9640
+S
+#9640
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D0
+~
+~
+0 0 9639
+D1
+~
+~
+0 0 9641
+D2
+~
+~
+0 0 9706
+D3
+~
+~
+0 0 9704
+S
+#9641
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D1
+~
+~
+0 0 9642
+D3
+~
+~
+0 0 9640
+S
+#9642
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D0
+~
+~
+0 0 9643
+D1
+~
+~
+0 0 9710
+D2
+~
+~
+0 0 9708
+D3
+~
+~
+0 0 9641
+S
+#9643
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D0
+~
+~
+0 0 9644
+D2
+~
+~
+0 0 9642
+S
+#9644
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D0
+~
+~
+0 0 9714
+D1
+~
+~
+0 0 9712
+D2
+~
+~
+0 0 9643
+D3
+~
+~
+0 0 9645
+S
+#9645
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.
+~
+0 8 1
+D1
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9646
+S
+#9646
+{cMassive Spiral Staircase{x~
+The start of the huge marble staircase leading to the top of the city
+begins on the guild level of the city.  Just above the market place, it is a
+prime location for any guild to be, since to leave the city one will have to
+go through the market place.  What a better way to pick up a few more items
+just before leaving.  All around the staircase looks the same.  Small carved
+figures and an occasional magical wall that allows the sea outside to be
+seen in its pure state.  
+~
+0 8 1
+D0
+~
+~
+0 0 9716
+D1
+~
+~
+0 0 9645
+D3
+~
+~
+0 0 9702
+D4
+~
+~
+0 0 9647
+S
+#9647
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9747
+D2
+~
+~
+0 0 9648
+D3
+~
+~
+0 0 9733
+D5
+~
+~
+0 0 9646
+S
+#9648
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9647
+D2
+~
+~
+0 0 9649
+S
+#9649
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9648
+D1
+~
+~
+0 0 9650
+D2
+~
+~
+0 0 9737
+D3
+~
+~
+0 0 9735
+S
+#9650
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D1
+~
+~
+0 0 9651
+D3
+~
+~
+0 0 9649
+S
+#9651
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9652
+D1
+~
+~
+0 0 9741
+D2
+~
+~
+0 0 9739
+D3
+~
+~
+0 0 9650
+S
+#9652
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9653
+D2
+~
+~
+0 0 9651
+S
+#9653
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D0
+~
+~
+0 0 9745
+D1
+~
+~
+0 0 9743
+D2
+~
+~
+0 0 9652
+D3
+~
+~
+0 0 9654
+S
+#9654
+{cMassive Spiral Staircase{x~
+This level appears to be a sea garden.  Trout and tuna surge from wall to
+wall, while there are pens filled with crabs.  A few dolphins seem to be
+harvesting, or taking care to this sea garden.  Going around, some levels
+are filled with air and contain what appears to be houses and a few more
+small shops, while other floors are walled off by panes of quartz, these
+obvious entries into the ocean 
+~
+0 8 1
+D1
+~
+~
+0 0 9653
+D2
+~
+~
+0 0 9754
+D4
+~
+~
+0 0 9655
+S
+#9655
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D2
+~
+~
+0 0 9755
+D3
+~
+~
+0 0 9656
+D5
+~
+~
+0 0 9654
+S
+#9656
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D1
+~
+~
+0 0 9655
+D2
+~
+~
+0 0 9657
+S
+#9657
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D0
+~
+~
+0 0 9656
+D2
+~
+~
+0 0 9658
+S
+#9658
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D0
+~
+~
+0 0 9657
+D1
+~
+~
+0 0 9659
+S
+#9659
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D1
+~
+~
+0 0 9660
+D3
+~
+~
+0 0 9658
+S
+#9660
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D0
+~
+~
+0 0 9661
+D3
+~
+~
+0 0 9659
+S
+#9661
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D0
+~
+~
+0 0 9662
+D2
+~
+~
+0 0 9660
+S
+#9662
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D2
+~
+~
+0 0 9661
+D4
+~
+~
+0 0 9663
+S
+#9663
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D3
+~
+~
+0 0 9664
+D5
+~
+~
+0 0 9662
+S
+#9664
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D1
+~
+~
+0 0 9663
+D3
+~
+~
+0 0 9665
+S
+#9665
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D1
+~
+~
+0 0 9664
+D2
+~
+~
+0 0 9666
+S
+#9666
+{cMassive Spiral Staircase{x~
+A lustrous marble path is wound tightly around an enormous pink granite
+pillar, the central support of the city's outer shell.  The broad sweeping
+of the ramp makes it easy to maneuver through the stairway.  The spiral of
+the staircase has stayed the same, but it is obvious that the very top of
+the city is near.  The walls are very close to the stairway now, almost
+giving off a slow and suffocating feeling.
+~
+0 8 1
+D0
+~
+~
+0 0 9665
+D2
+~
+~
+0 0 9667
+S
+#9667
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D0
+~
+~
+0 0 9666
+D1
+~
+~
+0 0 9668
+S
+#9668
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D1
+~
+~
+0 0 9669
+D3
+~
+~
+0 0 9667
+S
+#9669
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D0
+~
+~
+0 0 9670
+D3
+~
+~
+0 0 9668
+S
+#9670
+{cMassive Spiral Staircase{x~
+A lustrous marble path is wound tightly around an enormous pink granite
+pillar, the central support of the city's outer shell.  The broad sweeping
+of the ramp makes it easy to maneuver through the stairway.  The spiral of
+the staircase has stayed the same, but it is obvious that the very top of
+the city is near.  The walls are very close to the stairway now, almost
+giving off a slow and suffocating feeling.
+~
+0 8 1
+D2
+~
+~
+0 0 9669
+D3
+~
+~
+1 0 9756
+D4
+~
+~
+0 0 9671
+S
+#9671
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway.  Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside.  The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell.  The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.  
+~
+0 8 1
+D0
+~
+~
+0 0 9672
+D5
+~
+~
+0 0 9670
+S
+#9672
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D2
+~
+~
+0 0 9671
+D3
+~
+~
+0 0 9673
+S
+#9673
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D1
+~
+~
+0 0 9672
+D3
+~
+~
+0 0 9674
+S
+#9674
+{cMassive Spiral Staircase{x~
+A few sections of the wall seem to have been magically altered along this
+stairway. Fish and dolphins can be seen swimming around the walls, and what
+appears to be sea-elves cleaning just outside. The marble path is wound
+tightly around an enormous pink granite pillar, the central support of the
+city's outer shell. The spiral of the staircase has stayed the same, but it
+is obvious that the very top of the city is near.
+~
+0 8 1
+D1
+~
+~
+0 0 9673
+D2
+~
+~
+0 0 9675
+S
+#9675
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here.  A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved.  The details are very intricate and amazing to say the least.  Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art.  The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway.  The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near.  The walls have moved very close to the stairway
+now, giving off a closed feeling.  
+~
+0 8 1
+D0
+~
+~
+0 0 9674
+D2
+~
+~
+0 0 9676
+S
+#9676
+{cMassive Spiral Staircase{x~
+A lustrous marble path is wound tightly around an enormous pink granite
+pillar, the central support of the city's outer shell.  The broad sweeping
+of the ramp makes it easy to maneuver through the stairway.  The spiral of
+the staircase has stayed the same, but it is obvious that the very top of
+the city is near.  The walls are very close to the stairway now, almost
+giving off a slow and suffocating feeling.
+~
+0 8 1
+D0
+~
+~
+0 0 9675
+D1
+~
+~
+0 0 9677
+S
+#9677
+{cMassive Spiral Staircase{x~
+A few sea animals have been carved into the pillar here. A small squid,
+a fish, even a mermaid are just a few of the many things that have been
+carved. The details are very intricate and amazing to say the least. Just
+a glance at them, one could tell that whoever took the time to carve these
+creatures into the pillar, had a gift and love of art. The broad sweeping
+of the ramp makes it easy to maneuver through the beautiful stairway. The
+spiral of the staircase has stayed the same, but it is obvious that the very
+top of the city is near. The walls have moved very close to the stairway
+now, giving off a closed feeling.
+~
+0 8 1
+D1
+~
+~
+0 0 9678
+D3
+~
+~
+0 0 9676
+S
+#9678
+{cMassive Spiral Staircase{x~
+Besides the carved figures into the pillar, not much else can be seen. 
+None of the walls have been magically altered, so there is nothing but pink
+stone to look at now. The floors are highly polished and one can only
+imagine if the floor got moisture on it and someone ran up these stairs. 
+The spiral of the staircase has stayed the same, through out the long trek,
+and now a smell of seawater is in the air.
+~
+0 8 1
+D3
+~
+~
+0 0 9677
+D4
+~
+~
+0 0 9679
+S
+#9679
+{cTightly Enclosed Spiral Staircase{x~
+The marble path no longer runs in a spiral, and now it is much narrower. 
+The top of the city is almost near.  A strong smell of incense and sea water
+fills the air, leaving behind an odd odor that is neither pleasant nor bad. 
+Large statues of fish, mermaids, and squid line the walkway.  
+~
+0 8 1
+D0
+~
+~
+0 0 9680
+D5
+~
+~
+0 0 9678
+S
+#9680
+{cTightly Enclosed Spiral Staircase{x~
+The marble path no longer runs in a spiral, and now it is much narrower. 
+The top of the city is almost near.  A strong smell of incense and sea water
+fills the air, leaving behind an odd odor that is neither pleasant nor bad. 
+Large statues of fish, mermaids, and squid line the walkway.  
+~
+0 8 1
+D2
+~
+~
+0 0 9679
+D3
+~
+~
+0 0 9681
+S
+#9681
+{cTightly Enclosed Spiral Staircase{x~
+The marble path no longer runs in a spiral, and now it is much narrower. 
+The top of the city is almost near.  A strong smell of incense and sea water
+fills the air, leaving behind an odd odor that is neither pleasant nor bad. 
+Large statues of fish, mermaids, and squid line the walkway.  
+~
+0 8 1
+D1
+~
+~
+0 0 9680
+D4
+~
+~
+0 0 9682
+S
+#9682
+{CA Plaza{x~
+Two brilliant temples stand to either side of this vast open plaza,
+heavily guarded, and apparently not open to the public.  An enormous statue,
+easily thirty feet wide and about half as high, stands in the center of the
+room.  The statue itself portrays a creature shaped like an upside down
+bowl, with myriad tentacles hanging from its underside.  In front of the
+grotesque statue is an altar of white coral.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9683
+D1
+~
+~
+0 0 9689
+D2
+~
+~
+0 0 9687
+D3
+~
+~
+0 0 9685
+D5
+~
+~
+0 0 9681
+S
+#9683
+{CA Plaza{x~
+On either side of the vast open plaza, stands two brilliant temples,
+heavily guarded, it appears they are not open to the public.  An enormous
+statue, easily thirty feet wide and about half as high, stands in the center
+of the room.  The statue itself portrays a creature shaped like an upside
+down bowl, with myriad tentacles hanging from it's underside.  In front the
+grotesque statue is an alter of white coral.
+~
+0 16777224 1
+D1
+~
+~
+0 0 9690
+D2
+~
+~
+0 0 9682
+D3
+~
+~
+0 0 9684
+S
+#9684
+{CA Plaza{x~
+A quiet corner of the plaza appears to be the home to nothing.  There is
+no dust on the floor, nor are there any statues, plants, or art.  This plaza
+is a holy place, and does not need to be filled with clutter, which might in
+some way shape or form, get damaged at some point in time.  A small stairway
+leads above.  
+~
+0 16777224 1
+D1
+~
+~
+0 0 9683
+D2
+~
+~
+0 0 9685
+D4
+~
+~
+0 0 9691
+S
+#9685
+{CA Plaza{x~
+On either side of the vast open plaza, stands two brilliant temples,
+heavily guarded, it appears they are not open to the public.  An enormous
+statue, easily thirty feet wide and about half as high, stands in the center
+of the room.  The statue itself portrays a creature shaped like an upside
+down bowl, with myriad tentacles hanging from it's underside.  In front the
+grotesque statue is an alter of white coral.
+~
+0 16777224 1
+D0
+~
+~
+0 0 9684
+D1
+~
+~
+0 0 9682
+D2
+~
+~
+0 0 9686
+S
+#9686
+{CA Plaza{x~
+A quiet corner of the plaza appears to be the home to nothing.  There is
+no dust on the floor, nor are there any statues, plants, or art.  This plaza
+is a holy place, and does not need to be filled with clutter, which might in
+some way shape or form, get damaged at some point in time.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9685
+D1
+~
+~
+0 0 9687
+S
+#9687
+{CA Plaza{x~
+On either side of the vast open plaza, stands two brilliant temples,
+heavily guarded, it appears they are not open to the public.  An enormous
+statue, easily thirty feet wide and about half as high, stands in the center
+of the room.  The statue itself portrays a creature shaped like an upside
+down bowl, with myriad tentacles hanging from it's underside.  In front the
+grotesque statue is an alter of white coral.
+~
+0 16777224 1
+D0
+~
+~
+0 0 9682
+D1
+~
+~
+0 0 9688
+D3
+~
+~
+0 0 9686
+S
+#9688
+{CA Plaza{x~
+A quiet corner of the plaza appears to be the home to nothing.  There is
+no dust on the floor, nor are there any statues, plants, or art.  This plaza
+is a holy place, and does not need to be filled with clutter, which might in
+some way shape or form, get damaged at some point in time.  A small stairway
+leads above.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9689
+D3
+~
+~
+0 0 9687
+D4
+~
+~
+0 0 9692
+S
+#9689
+{CA Plaza{x~
+On either side of the vast open plaza, stands two brilliant temples,
+heavily guarded, it appears they are not open to the public.  An enormous
+statue, easily thirty feet wide and about half as high, stands in the center
+of the room.  The statue itself portrays a creature shaped like an upside
+down bowl, with myriad tentacles hanging from it's underside.  In front the
+grotesque statue is an alter of white coral.
+~
+0 16777224 1
+D0
+~
+~
+0 0 9690
+D2
+~
+~
+0 0 9688
+D3
+~
+~
+0 0 9682
+S
+#9690
+{CA Plaza{x~
+A quiet corner of the plaza appears to be the home to nothing.  There is
+no dust on the floor, nor are there any statues, plants, or art.  This plaza
+is a holy place, and does not need to be filled with clutter, which might in
+some way shape or form, get damaged at some point in time.  
+~
+0 16777224 1
+D2
+~
+~
+0 0 9689
+D3
+~
+~
+0 0 9683
+S
+#9691
+{CA Small Stairway{x~
+A greenish light from the domed ceiling fills the room.  The odd color
+comes from the filtering affect of many fathoms of seawater, the sun's rays
+barely penetrated to this depth.  A strong smell of sweet and sour fills the
+small stairway.  
+~
+0 16777224 1
+D2
+~
+~
+0 0 9695
+D5
+~
+~
+0 0 9684
+S
+#9692
+{CA Small Stairway{x~
+A greenish light from the domed ceiling fills the room.  The odd color
+comes from the filtering affect of many fathoms of seawater, the sun's rays
+barely penetrated to this depth.  A strong smell of sweet and sour fills the
+small stairway.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9693
+D5
+~
+~
+0 0 9688
+S
+#9693
+{cLarge Entryway{x~
+A large room opens up from the small stairway, spilling greenish light
+all around.  The halls are still and quiet, not even a drop of water can be
+heard hitting the smooth quartz floor.  Along the walls there are the
+familiar pumpkin sized orbs that seem to be through out this sea-elf city,
+and a strong smell of sweet of sour permeates through this area.  
+~
+0 16777224 1
+D2
+~
+~
+0 0 9692
+D3
+~
+~
+0 0 9694
+S
+#9694
+{cThrone Room{x~
+The throne room is lit by shifting greenish light, much like that from
+the other entryway.  A large marble throne rests in the middle of the room,
+quite obvious the ruler is a woman due to its smaller size and delicate
+work.  There are guard rooms on either side of the throne room, and it's
+quite obvious that if the signal is given the guards will come running out
+to aid.  
+~
+0 16777228 1
+D0
+~
+~
+0 0 9698
+D1
+~
+~
+0 0 9693
+D2
+~
+~
+0 0 9699
+D3
+~
+~
+0 0 9695
+D4
+~
+~
+1 0 9700
+S
+#9695
+{cLarge Entryway{x~
+A large room opens up from the small stairway, spilling greenish light
+all around.  The halls are still and quiet, not even a drop of water can be
+heard hitting the smooth quartz floor.  Along the walls there are the
+familiar pumpkin sized orbs that seem to be through out this sea-elf city,
+and a strong smell of sweet of sour permeates through this area.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9691
+D1
+~
+~
+0 0 9694
+S
+#9696
+{CThe Slave Shop{x~
+A cage is set in the back of the room, and appears to be full of people. 
+A few groans and mutters can be heard, coming from the cage.  A quick glance
+to the cage shows three distinctive races: a human, a half-elf, and a kender
+of all things.  The kender is trying to talk to his other captives, and it's
+quite obvious they want nothing to do with him.  
+~
+0 16781320 1
+D4
+~
+~
+1 0 9749
+S
+#9697
+{RPet Storage Room{x~
+Abandon, abscond, beat it, blow, break away, cast off, clear out, come
+away, cut out, decamp, defect, desert, disappear, ditch, elope, embark,
+emigrate, escape, exit, flee, flit, fly, forsake, go, go away, go forth,
+head out, issue, migrate, move, move out, part, pull out, push off, quit,
+relinquish, remove oneself, retire, ride off, run along, sally, say goodbye,
+scram, set out, slip out, split, start, step down, take leave, take off,
+vacate, vamoose, vanish, walk out, withdraw.  In other words, get your ass
+out of here.  
+~
+0 19439628 1
+S
+#9698
+{cGuard Waiting Area{x~
+A small room compared to the rest of the city, this room's only purpose
+is for guards to the Queen.  The only light that to the rooms comes from the
+pumpkin sized light orbs that are attached to the walls.  There is no
+furniture or anything on the walls.  The guards here stand quite and still,
+awaiting a signal to come to the Queens aid.  
+~
+0 16777224 1
+D2
+~
+~
+0 0 9694
+S
+#9699
+{cGuard Waiting Area{x~
+A small room compared to the rest of the city, this room's only purpose
+is for guards to the Queen.  The only light that to the rooms comes from the
+pumpkin sized light orbs that are attached to the walls.  There is no
+furniture or anything on the walls.  The guards here stand quite and still,
+awaiting a signal to come to the Queens aid.  
+~
+0 16777224 1
+D0
+~
+~
+0 0 9694
+S
+#9700
+{MThe Personal Quarters of the Queen{x~
+The personal quarters of the Queen is a great vast room with a large
+clear domed ceiling.  A large bed is in the middle of the room, on one side
+there is a table with a pitcher of fresh water and basin.  On the other side
+of the room is an elaborate dresser.  On top of it there is a fishbone comb,
+and on the chair just in front of it, there is a flowing ankle length robe. 
+~
+0 16777224 1
+D5
+~
+~
+1 0 9694
+S
+#9701
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9726
+D1
+~
+~
+0 0 9716
+D2
+~
+~
+0 0 9702
+D3
+~
+~
+0 0 9725
+S
+#9702
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9701
+D1
+~
+~
+0 0 9646
+D2
+~
+~
+0 0 9703
+D3
+~
+~
+0 0 9724
+S
+#9703
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.  
+~
+0 8 1
+D0
+~
+~
+0 0 9702
+D2
+~
+~
+0 0 9704
+S
+#9704
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.  
+~
+0 8 1
+D0
+~
+~
+0 0 9703
+D1
+~
+~
+0 0 9640
+D2
+~
+~
+0 0 9705
+D3
+~
+~
+0 0 9723
+S
+#9705
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9704
+D1
+~
+~
+0 0 9706
+D2
+~
+~
+0 0 9732
+D3
+~
+~
+0 0 9731
+S
+#9706
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9640
+D1
+~
+~
+0 0 9707
+D2
+~
+~
+0 0 9722
+D3
+~
+~
+0 0 9705
+S
+#9707
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D1
+~
+~
+0 0 9708
+D3
+~
+~
+0 0 9706
+S
+#9708
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9642
+D1
+~
+~
+0 0 9709
+D2
+~
+~
+0 0 9721
+D3
+~
+~
+0 0 9707
+S
+#9709
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9710
+D1
+~
+~
+0 0 9729
+D2
+~
+~
+0 0 9730
+D3
+~
+~
+0 0 9708
+S
+#9710
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9711
+D1
+~
+~
+0 0 9720
+D2
+~
+~
+0 0 9709
+D3
+~
+~
+0 0 9642
+S
+#9711
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9712
+D2
+~
+~
+0 0 9710
+S
+#9712
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 12 1
+D0
+~
+~
+0 0 9713
+D1
+~
+~
+0 0 9719
+D2
+~
+~
+0 0 9711
+D3
+~
+~
+0 0 9644
+S
+#9713
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 1032 1
+D0
+~
+~
+0 0 9727
+D1
+~
+~
+0 0 9728
+D2
+~
+~
+0 0 9712
+D3
+~
+~
+0 0 9714
+S
+#9714
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9718
+D1
+~
+~
+0 0 9713
+D2
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9715
+S
+#9715
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D1
+~
+~
+0 0 9714
+D3
+~
+~
+0 0 9716
+S
+#9716
+{cHallway of the Guild{x~
+The thick pink granite walls glow from the light orbs on the walls.  It
+is very quiet on this level of the spiraling city of Urione.  Every now and
+then a sea-elf can be seen entering a room, and then leaving a short time
+later.  They all seem to know exactly where to go, and enter with ease.
+~
+0 8 1
+D0
+~
+~
+0 0 9717
+D1
+~
+~
+0 0 9715
+D2
+~
+~
+0 0 9646
+D3
+~
+~
+0 0 9701
+S
+#9717
+{CBattlemage Guild Hall{x~
+Many shelves line the walls in this particular guild room.  Potions,
+herbs, and even dead animals are what are on the shelves.  The room is lit
+by a few dim glowing orbs of light, and a guildmaster is sitting in a chair
+by a desk cluttered with scrolls and books.  
+~
+0 1036 1
+D2
+~
+~
+0 0 9716
+S
+#9718
+{CCleric Guild Hall{x~
+An almost empty room opens up.  Lit by one orb, suspended by some magical
+force, in the middle of the room is the only means of light.  A small alter
+is just below the orb of light, where the guildsman is deep in prayer. 
+Everything one might need to know must be asked to this guildsman.  
+~
+0 1036 1
+D2
+~
+~
+0 0 9714
+S
+#9719
+{CThief Guild Hall{x~
+The sudden darkness of this room makes ones eyes hard to adjust in time. 
+A figure lurking in the corner gives a slight stifle of a laugh.  Once the
+darkness gets lighter, a few dummies are seen around the room, pockets
+filled with trinkets and money.  The guildsman just waits patiently for
+someone to come.  
+~
+0 1032 1
+D3
+~
+~
+0 0 9712
+S
+#9720
+{CWarrior Guild Hall{x~
+A room hardly filled by furniture, but the walls are cluttered with
+weapons and armor.  Swords of all different sizes, mixed with daggers,
+bracers, and even boots.  A guildsman stands in the middle of the room with
+a smile on his face, awaiting the next pupil that should enter his room.  
+~
+0 1036 1
+D3
+~
+~
+0 0 9710
+S
+#9721
+{CBard Guild Hall{x~
+Score of music line the floor, along with instruments that have shattered
+or have been broken.  A guildsman stands over a desk, working hard on what
+appears to be a new song.  Just when he is ready to start playing, he grabs
+the music and drops it as he notices someone is in the room.  
+~
+0 1036 1
+D0
+~
+~
+0 0 9708
+S
+#9722
+{CKnight Guild Hall{x~
+A small room compared to the vastness of the rest of the city, this guild
+hall servers just one purpose, and that is to help those of the knight along
+in the learning.  A few soft glowing light orbs, and a large bookshelf
+filled with books made out of dried kelp line the walls.  A guildsman
+dressed in full armor stands as still as stone, awaiting the next proud
+knight in training to enter.  
+~
+0 1036 1
+D0
+~
+~
+0 0 9706
+S
+#9723
+{CBarbarian Guild Hall{x~
+A completely empty room all except a fire in the middle of the room, a
+rug made of kelp, a tent and the guildsman.  Unlike the rest of the rooms
+that seem to look comfortable, this person looks disgusted.  A true
+barbarian in an underwater city is an odd sight indeed.  It is quite obvious
+that he is here against his will.  
+~
+0 1036 1
+D1
+~
+~
+0 0 9704
+S
+#9724
+{CBlacksmith Guild Hall{x~
+Anvils of different sizes and hammers of lengths and weights line the
+walls.  A guildsman pounds away at a sword that has been nicked in many
+places, obviously a repair is happening.  Just as he dips the sword into a
+magical fire, a smile appears on his face.  A pupil has arrived to learn.  
+~
+0 1036 1
+D1
+~
+~
+0 0 9702
+S
+#9725
+{CDruid Guild Hall{x~
+An empty room all except the light hanging from the ceiling is all that
+is in this room.  There is no furniture, no books, no desks, not even a rug
+on the floor.  Just a guildsman looking highly uncomfortable standing inside
+such a room.  A quick nod and the guildsman walks over to the next pupil who
+enters his guild room.  
+~
+0 1036 1
+D1
+~
+~
+0 0 9701
+S
+#9726
+{CRanger Guild Hall{x~
+Arrows and bows have been mounted on the wall, while on a small bookcase
+in the corner of the room, there are books on Rangers.  A few orbs are on
+the wall, along with a few targets made from dried kelp, that show a perfect
+bull's-eye.  A guildsman stands in the room awaiting the next pupil that
+comes to him for aid.  
+~
+0 1036 1
+D2
+~
+~
+0 0 9701
+S
+#9727
+{CNecromancer Guild Hall{x~
+Piles and piles of bones are on the floor in huge piles, and appear to
+have been charred by magical means.  The walls are filled with bookcases
+filled with books, scrolls, and a few jars filled with human body parts.  A
+guildsman stands by a desk fiddling with a dead frog.  
+~
+0 1036 1
+D2
+~
+~
+0 0 9713
+S
+#9728
+{CEnchanter Guild Hall{x~
+Fragments of metal, paper, and glass appear to have embedded themselves
+into the walls of the guild.  A few weapons are on the walls glowing with a
+bright aura, while others are in piles on the floor, either shattered, or
+broken in half.  A few scroll fragments are scattered about, apparently
+charred from a powerful spell.  
+~
+0 12 1
+D3
+~
+~
+0 0 9713
+S
+#9729
+{CAssassin Guild Hall{x~
+A large dark room with many different pieces of furniture thrown about,
+unarranged.  At first glance there appears to be no one in here, but then a
+dagger flies out of the darkness and embeds itself into the floor.  Out of
+the darkness emerges the guildsman, with a sly smile on his face, knowing
+that he could kill anyone that comes through those doors.  
+~
+0 1036 1
+D3
+~
+~
+0 0 9709
+S
+#9730
+{CSpellfilcher Guild Hall{x~
+A little bit of everything seems to have made it's way into this room. 
+Books on every kind of class there is, potions, herbs, bones, weapons,
+everything.  In a slightly dark corner there is a chair where the guildsman
+is standing.  It is hard to see what he holds in his hands, but it appears
+to be scroll, and the painting next to him is on fire.  
+~
+0 1036 1
+D0
+~
+~
+0 0 9709
+S
+#9731
+{CIllusionist Guild Hall{x~
+Walls of gold a ceiling of silver, piles and piles of steel, gems, and
+armor line the walls, and in the middle of it all is a great green orb.  All
+of a sudden the walls start shed their color, and the ceiling looks like it
+starts to drip it's silver, but it hits nothing.  Once the horror of
+everything melting is gone, a mage stands where the green orb was, grinning
+with glee.  
+~
+0 1036 1
+D1
+~
+~
+0 0 9705
+S
+#9732
+{CConjuror Guild Hall{x~
+An odd collection of items are in piles around the rooms.  Books,
+scrolls, weapons, and even bones are strewed about.  A mage stands in the
+middle of the room muttering a spell, when out of nowhere a corpse appears. 
+Disgusted, a mighty fire wall engulfs the corpse, and he starts muttering
+again.  
+~
+0 1036 1
+D0
+~
+~
+0 0 9705
+S
+#9733
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 16777224 15
+D0
+~
+~
+0 0 9748
+D1
+~
+~
+0 0 9647
+D2
+~
+~
+0 0 9734
+S
+#9734
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9733
+D2
+~
+~
+0 0 9735
+S
+#9735
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9734
+D1
+~
+~
+0 0 9649
+D2
+~
+~
+0 0 9736
+S
+#9736
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9735
+D1
+~
+~
+0 0 9737
+S
+#9737
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9649
+D1
+~
+~
+0 0 9738
+D3
+~
+~
+0 0 9736
+S
+#9738
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D1
+~
+~
+0 0 9739
+D3
+~
+~
+0 0 9737
+S
+#9739
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9651
+D1
+~
+~
+0 0 9740
+D3
+~
+~
+0 0 9738
+S
+#9740
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9741
+D3
+~
+~
+0 0 9739
+S
+#9741
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9742
+D2
+~
+~
+0 0 9740
+D3
+~
+~
+0 0 9651
+S
+#9742
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9743
+D2
+~
+~
+0 0 9741
+S
+#9743
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D0
+~
+~
+0 0 9744
+D2
+~
+~
+0 0 9742
+D3
+~
+~
+0 0 9653
+S
+#9744
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D2
+~
+~
+0 0 9743
+D3
+~
+~
+0 0 9745
+S
+#9745
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D1
+~
+~
+0 0 9744
+D2
+~
+~
+0 0 9653
+D3
+~
+~
+0 0 9746
+S
+#9746
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D1
+~
+~
+0 0 9745
+D3
+~
+~
+0 0 9747
+S
+#9747
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D1
+~
+~
+0 0 9746
+D2
+~
+~
+0 0 9647
+D3
+~
+~
+0 0 9748
+S
+#9748
+{cA Sea Garden{x~
+Dolphins swim through these passageways, though perhaps they are the
+sea-elves in dolphin form.  There are what appears to be gardens of waving
+sea plants, schools of trout and tuna that surge from wall to wall with
+restless energy of the wild sea, and pens teeming with crabs.  It seems that
+the dolphins tend to the sea garden, and the fish that live in here as well.
+~
+0 8 1
+D1
+~
+~
+0 0 9747
+D2
+~
+~
+0 0 9733
+S
+#9749
+{cThe Sanctuary{x~
+Here in the center of a large disk made of marble, there is a fresh water
+fountain.  In all directions there are large rooms.  It's obvious this is a
+private place for the city of Urione.  To the north lies the healers temple,
+where anyone may go to heal.  To the east is the questmaster, a place where
+anyone deemed worthy may enter for a task.  To the west is the trainer,
+aiding all those who wish to become more wise, and to the south the
+depository, where the sea-elves deposit their valuables.  Just below, in a
+closed of section is the slave shop, where anyone in need of help, can buy
+just the right type of slave for the job.  
+~
+0 16778252 1
+D0
+~
+~
+0 0 9750
+D1
+~
+~
+0 0 9752
+D2
+~
+~
+0 0 9753
+D3
+~
+~
+0 0 9751
+D4
+~
+~
+0 0 9615
+D5
+~
+~
+1 0 9696
+S
+#9750
+{CTemple of the Healer{x~
+A large room off the center of the marble disk lays the healer.  The
+priestess of Urione awaits anyone who might need to be healed of an aliment
+or just need a refresh.  A kelp woven basket rests in the back of the room. 
+Used as a donation pit, anyone may use what they want from it, as long as
+they are worthy enough to do so.  
+~
+0 25166860 15
+D2
+~
+~
+0 0 9749
+S
+#9751
+{CWaiting Area of the Trainer{x~
+A slightly smaller room than the healer and questmaster room, the
+trainers room is adorned with many shelves off what appear to be books made
+out of dried kelp.  The trainer will aid anyone who comes to him, mostly for
+knowledge, he can help even the thickest of skulls become more intelligent,
+but only as high as their brain will allow.  
+~
+0 16778252 1
+D1
+~
+~
+0 0 9749
+S
+#9752
+{CWaiting Area of the QuestMaster{x~
+A large room off the center of the marble disk stands the questmaster. 
+Large pumpkin sized light orbs fill the room with a soft glowing light.  The
+questmaster, only gives quests to those only deemed worthy of such praise. 
+If a quest is desired the questmaster will give out a quest that one should
+be able to complete.  
+~
+0 16778252 1
+D3
+~
+~
+0 0 9749
+S
+#9753
+{CThe Depository of Urione{x~
+The largest of all three rooms, the depository of Urione is defiantly
+grand.  Highly polished walls are built in with what appears to drawers. 
+Only a single person mans this large place it appears.  He waits eagerly for
+anyone to come in and either deposit or withdraw.  
+~
+0 17826828 1
+D0
+~
+~
+0 0 9749
+S
+#9754
+{CTemple of Habbakuk{x~
+Stillness seems to have settled in this temple.  The air is filled with a
+strong aroma of the sweet & sour incense that the sea-elves burn.  There is
+no priestess in this temple, only an alter that appears to be a phoenix
+engulfed in blue flames.  Upon looking up, the ceiling seems to stretch
+forever, and small light orbs form the constellation of the blue phoenix.  
+~
+0 25166860 32
+D0
+~
+~
+0 0 9654
+S
+#9755
+{CTemple of Zeboim{x~
+An eerie darkness appears to have settled into this temple, while the
+quietness can make even the strong shiver.  The air in here is pungent with
+strong smell of seawater and incense.  The only thing in this room is an
+alter that bares a large dragon turtle, one of the might rulers of the sea. 
+While taking the shear size of this temple, the gigantic ceiling seems to be
+lit by stars, in which the constellation of the dragon turtle is shown.  
+~
+0 25166860 43
+D0
+~
+~
+0 0 9655
+S
+#9756
+{CA Small Room{x~
+A small room that doesn't appear to be used for anything, not even
+storage.  The floors are well kept and there is a single mirror on the wall.
+Though quite intriguing, this room has an uneasy feeling about it, and seems
+to be kept clean and closed for a reason.  It might be best to just leave it
+as is.  
+~
+0 16778252 1
+D1
+~
+~
+1 0 9670
+S
+#9757
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9799
+D3
+~
+~
+0 0 9521
+S
+#9758
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9759
+D2
+~
+~
+0 0 9540
+D3
+~
+~
+0 0 9500
+S
+#9759
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9760
+D2
+~
+~
+0 0 9539
+D3
+~
+~
+0 0 9758
+S
+#9760
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9761
+D2
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9759
+S
+#9761
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9762
+D2
+~
+~
+0 0 9537
+D3
+~
+~
+0 0 9760
+S
+#9762
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9763
+D2
+~
+~
+0 0 9536
+D3
+~
+~
+0 0 9761
+S
+#9763
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9764
+D2
+~
+~
+0 0 9535
+D3
+~
+~
+0 0 9762
+S
+#9764
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9765
+D2
+~
+~
+0 0 9534
+D3
+~
+~
+0 0 9763
+S
+#9765
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9766
+D2
+~
+~
+0 0 9533
+D3
+~
+~
+0 0 9764
+S
+#9766
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D1
+~
+~
+0 0 9767
+D2
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9765
+S
+#9767
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D1
+~
+~
+0 0 3900
+D2
+~
+~
+0 0 9531
+D3
+~
+~
+0 0 9766
+S
+#9768
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9769
+S
+#9769
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9520
+D1
+~
+~
+0 0 9768
+D3
+~
+~
+0 0 9770
+S
+#9770
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9519
+D1
+~
+~
+0 0 9769
+D3
+~
+~
+0 0 9771
+S
+#9771
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9518
+D1
+~
+~
+0 0 9770
+D3
+~
+~
+0 0 9772
+S
+#9772
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9517
+D1
+~
+~
+0 0 9771
+D3
+~
+~
+0 0 9773
+S
+#9773
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9516
+D1
+~
+~
+0 0 9772
+D3
+~
+~
+0 0 9774
+S
+#9774
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9515
+D1
+~
+~
+0 0 9773
+D3
+~
+~
+0 0 9775
+S
+#9775
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9514
+D1
+~
+~
+0 0 9774
+D3
+~
+~
+0 0 9776
+S
+#9776
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9513
+D1
+~
+~
+0 0 9775
+D3
+~
+~
+0 0 9777
+S
+#9777
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9512
+D1
+~
+~
+0 0 9776
+D3
+~
+~
+0 0 9778
+S
+#9778
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9511
+D1
+~
+~
+0 0 9777
+D3
+~
+~
+0 0 16450
+S
+#9779
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9780
+D1
+~
+~
+0 0 9511
+D2
+~
+~
+0 0 16450
+D3
+~
+~
+0 0 16452
+S
+#9780
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9781
+D1
+~
+~
+0 0 9510
+D2
+~
+~
+0 0 9779
+D3
+~
+~
+0 0 16453
+S
+#9781
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9782
+D1
+~
+~
+0 0 9509
+D2
+~
+~
+0 0 9780
+D3
+~
+~
+0 0 16454
+S
+#9782
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9783
+D1
+~
+~
+0 0 9508
+D2
+~
+~
+0 0 9781
+D3
+~
+~
+0 0 16455
+S
+#9783
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9784
+D1
+~
+~
+0 0 9507
+D2
+~
+~
+0 0 9782
+D3
+~
+~
+0 0 16456
+S
+#9784
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9785
+D1
+~
+~
+0 0 9506
+D2
+~
+~
+0 0 9783
+D3
+~
+~
+0 0 16457
+S
+#9785
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9786
+D1
+~
+~
+0 0 9505
+D2
+~
+~
+0 0 9784
+D3
+~
+~
+0 0 17064
+S
+#9786
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9787
+D1
+~
+~
+0 0 9504
+D2
+~
+~
+0 0 9785
+S
+#9787
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9788
+D1
+~
+~
+0 0 9503
+D2
+~
+~
+0 0 9786
+S
+#9788
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9789
+D1
+~
+~
+0 0 9502
+D2
+~
+~
+0 0 9787
+S
+#9789
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 3933
+D1
+~
+~
+0 0 9501
+D2
+~
+~
+0 0 9788
+S
+#9790
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 3900
+D2
+~
+~
+0 0 9791
+D3
+~
+~
+0 0 9531
+S
+#9791
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9790
+D2
+~
+~
+0 0 9792
+D3
+~
+~
+0 0 9530
+S
+#9792
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9791
+D2
+~
+~
+0 0 9793
+D3
+~
+~
+0 0 9529
+S
+#9793
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9792
+D2
+~
+~
+0 0 9794
+D3
+~
+~
+0 0 9528
+S
+#9794
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9793
+D2
+~
+~
+0 0 9795
+D3
+~
+~
+0 0 9527
+S
+#9795
+{BDark Waters{x~
+An eerie silence seems to haunt the water.  Nothing is stirring, no fish
+can be seen, and nothing in the sand seems to be moving.  All of a sudden a
+dolphin whizzes past and many clicks and whistles can be heard.  Large
+schools of fish congregate by the coral and anemones to have their feed.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9794
+D1
+~
+~
+0 0 17177
+D2
+~
+~
+0 0 9796
+D3
+~
+~
+0 0 9526
+S
+#9796
+{BDark Waters{x~
+The water is dark, yet unbelievably clear.  Large coral formations can be
+seen all around, while small schools of fish swim in tight formations to
+help ward off predators.  The sea floor is littered with large shells and
+small sand dollars.  A few large sharks swim overhead awaiting the
+opportunity to snag the next thing that will sate their hunger.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9795
+D2
+~
+~
+0 0 9797
+D3
+~
+~
+0 0 9525
+S
+#9797
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9796
+D2
+~
+~
+0 0 9798
+D3
+~
+~
+0 0 9524
+S
+#9798
+{BDark Waters{x~
+The water is slightly illuminated by the city of Urione.  Glowing globes
+within the city give off a great deal of light, even from a distance.  The
+only sense of direction comes from seeing the city.  Many have suffocated
+and/or drowned from simple indecision, as they tried to find their bearings
+in the murky depths.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9797
+D2
+~
+~
+0 0 9799
+D3
+~
+~
+0 0 9523
+S
+#9799
+{BDark Waters{x~
+A fish whips past, along with it a cool rush of water.  The floor of the
+sea is very soft and comforting to those who miss the love of land.  Though
+nothing can beat the warmth of the sun or the feel of fresh air, the sea
+holds many wonders for those who dwell within its deepest fathoms.
+~
+0 16777217 15
+D0
+~
+~
+0 0 9798
+D2
+~
+~
+0 0 9757
+D3
+~
+~
+0 0 9522
+S
+#0
+
+
+
+#SPECIALS
+M 9500 spec_cast_adept
+M 9503 spec_questmaster
+M 9536 spec_cast_cleric
+M 9537 spec_cast_cleric
+M 9538 spec_guard
+M 9541 spec_executioner
+S
+
+
+
+#RESETS
+D 0 9670 3 1
+D 0 9694 4 1
+D 0 9696 4 1
+D 0 9700 5 1
+D 0 9749 5 1
+D 0 9756 1 1
+M 0 9540 10 9501 1
+M 0 9540 10 9506 1
+M 0 9540 10 9511 1
+M 0 9532 10 9514 1
+M 0 9532 10 9518 1
+M 0 9540 10 9521 1
+M 0 9540 10 9526 1
+M 0 9540 10 9531 1
+M 0 9532 10 9534 1
+M 0 9532 10 9538 1
+M 0 9538 10 9547 1
+E 0 9582 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9538 10 9555 1
+E 0 9576 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9538 10 9563 1
+E 0 9584 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9538 10 9571 1
+E 0 9583 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9538 10 9573 1
+E 0 9578 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+O 0 9505 0 9574
+M 0 9535 10 9575 1
+O 0 9504 0 9577
+M 0 9535 10 9579 1
+G 0 9587 0
+O 0 9505 0 9580
+M 0 9538 10 9581 1
+E 0 9581 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+O 0 9504 0 9582
+M 0 9533 10 9583 1
+O 0 9505 0 9585
+M 0 9532 10 9586 1
+O 0 9504 0 9588
+M 0 9538 10 9589 1
+E 0 9580 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+O 0 9505 0 9590
+M 0 9535 10 9591 1
+O 0 9504 0 9593
+M 0 9535 10 9595 1
+G 0 9587 0
+O 0 9505 0 9596
+M 0 9538 10 9597 1
+E 0 9579 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+O 0 9504 0 9598
+M 0 9533 10 9599 1
+O 0 9505 0 9601
+M 0 9532 10 9602 1
+O 0 9504 0 9604
+M 0 9505 1 9606 1
+G 0 9511 0
+G 0 9510 0
+G 0 9509 0
+G 0 9508 0
+G 0 9507 0
+G 0 9506 0
+M 0 9531 1 9608 1
+G 0 9522 0
+G 0 9521 0
+G 0 9520 0
+M 0 9511 1 9610 1
+G 0 9515 0
+G 0 9514 0
+G 0 9513 0
+G 0 9512 0
+M 0 9534 10 9612 1
+G 0 9585 0
+M 0 9510 1 9613 1
+G 0 9519 0
+G 0 9518 0
+G 0 9517 0
+G 0 9516 0
+M 0 9539 10 9614 1
+M 0 9539 10 9616 1
+M 0 9506 1 9617 1
+G 0 9536 0
+G 0 9535 0
+G 0 9534 0
+G 0 9533 0
+G 0 9532 0
+G 0 9531 0
+G 0 9530 0
+G 0 9529 0
+G 0 9527 0
+G 0 9526 0
+G 0 9525 0
+G 0 9523 0
+G 0 9528 0
+G 0 9524 0
+M 0 9534 10 9618 1
+G 0 9585 0
+M 0 9507 1 9620 1
+G 0 9554 0
+G 0 9553 0
+G 0 9556 0
+G 0 9552 0
+G 0 9555 0
+G 0 9551 0
+G 0 9550 0
+G 0 9549 0
+G 0 9548 0
+G 0 9547 0
+G 0 9539 0
+G 0 9546 0
+G 0 9545 0
+G 0 9544 0
+G 0 9543 0
+G 0 9542 0
+G 0 9541 0
+G 0 9540 0
+G 0 9538 0
+G 0 9537 0
+M 0 9508 1 9622 1
+G 0 9560 0
+G 0 9559 0
+G 0 9558 0
+G 0 9557 0
+M 0 9509 1 9624 1
+G 0 9567 0
+G 0 9566 0
+G 0 9565 0
+G 0 9564 0
+G 0 9563 0
+G 0 9562 0
+G 0 9561 0
+M 0 9534 10 9630 1
+M 0 9539 10 9631 1
+M 0 9539 10 9632 1
+M 0 9534 10 9633 1
+M 0 9533 10 9638 1
+M 0 9538 10 9640 1
+E 0 9577 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9535 10 9642 1
+M 0 9538 10 9644 1
+E 0 9576 0 20
+E 0 9575 0 18
+E 0 9574 0 6
+E 0 9573 0 15
+E 0 9572 0 13
+E 0 9571 0 8
+E 0 9570 0 5
+E 0 9569 0 3
+E 0 9568 0 1
+M 0 9535 10 9646 1
+E 0 9586 0 20
+M 0 9534 10 9648 1
+M 0 9534 10 9650 1
+G 0 9585 0
+M 0 9534 10 9652 1
+M 0 9535 10 9654 1
+M 0 9534 10 9655 1
+M 0 9534 10 9657 1
+M 0 9535 10 9659 1
+M 0 9534 10 9661 1
+M 0 9536 10 9663 1
+G 0 9588 0
+M 0 9535 10 9664 1
+M 0 9537 10 9665 1
+M 0 9533 10 9666 1
+M 0 9537 10 9667 1
+E 0 9589 0 8
+M 0 9535 10 9668 1
+M 0 9536 10 9670 1
+M 0 9536 10 9672 1
+G 0 9588 0
+M 0 9537 10 9674 1
+E 0 9589 0 8
+M 0 9533 10 9675 1
+M 0 9536 10 9676 1
+G 0 9588 0
+M 0 9537 10 9678 1
+E 0 9589 0 8
+O 0 9594 0 9682
+O 0 9593 0 9682
+M 0 9539 10 9683 1
+G 0 9591 0
+M 0 9537 10 9684 1
+M 0 9539 10 9685 1
+G 0 9591 0
+M 0 9536 10 9686 1
+M 0 9539 10 9687 1
+G 0 9591 0
+M 0 9537 10 9688 1
+M 0 9539 10 9689 1
+G 0 9591 0
+M 0 9536 10 9690 1
+M 0 9537 10 9691 1
+M 0 9537 10 9692 1
+M 0 9536 10 9693 1
+M 0 9542 1 9694 1
+G 0 9592 0
+O 0 9590 0 9694
+M 0 9536 10 9695 1
+M 0 9504 1 9696 1
+M 0 9528 1 9697 1
+M 0 9529 1 9697 1
+M 0 9530 1 9697 1
+M 0 9539 10 9698 1
+M 0 9539 10 9699 1
+M 0 9536 10 9701 1
+G 0 9588 0
+M 0 9537 10 9705 1
+M 0 9536 10 9709 1
+G 0 9588 0
+M 0 9537 10 9713 1
+M 0 9513 1 9717 1
+M 0 9514 1 9718 1
+M 0 9517 1 9719 1
+M 0 9518 1 9720 1
+M 0 9521 1 9721 1
+M 0 9522 1 9722 1
+M 0 9525 1 9723 1
+M 0 9526 1 9724 1
+M 0 9527 1 9725 1
+M 0 9512 1 9726 1
+M 0 9515 1 9727 1
+M 0 9516 1 9728 1
+M 0 9519 1 9729 1
+M 0 9520 1 9730 1
+M 0 9524 1 9731 1
+M 0 9523 1 9732 1
+M 0 9533 10 9733 1
+M 0 9533 10 9735 1
+M 0 9532 10 9737 1
+M 0 9532 10 9739 1
+M 0 9533 10 9741 1
+M 0 9533 10 9743 1
+M 0 9532 10 9745 1
+M 0 9532 10 9747 1
+O 0 9500 0 9749
+M 0 9541 1 9749 1
+M 0 9500 1 9750 1
+O 0 9501 0 9750
+M 0 9501 1 9751 1
+M 0 9503 1 9752 1
+M 0 9502 1 9753 1
+O 0 9502 0 9754
+O 0 9503 0 9755
+M 0 9540 10 9762 1
+M 0 9540 10 9773 1
+M 0 9540 10 9784 1
+M 0 9540 10 9795 1
+M 0 9533 10 9798 1
+S
+
+
+
+#SHOPS
+9505 2 3 10 26 4 100 50 0 23
+9506 9 0 0 0 0 100 50 0 23
+9507 5 39 40 0 0 100 50 0 23
+9508 0 19 0 0 0 100 50 0 23
+9509 1 12 15 17 36 100 50 0 23
+9510 37 0 0 0 0 100 50 0 23
+9511 26 0 0 0 0 100 50 0 23
+9531 41 42 43 44 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

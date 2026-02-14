@@ -1,0 +1,2112 @@
+#AREADATA
+Name Silvanesti~
+Builders Majere~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 10101 10200
+Credits Majere~
+Security 9
+End
+
+
+
+#MOBILES
+#10101
+Silvanesti Turtlemaster~
+a Silvanesti turtlemaster~
+The Silvanesti turtlemaster is here, directing a giant sea turtle who is pulling a barge.
+~
+This Silvanesti male commands the turtles who ferry those who have
+clearance to the town of Silvanost.  
+~
+silvanesti~
+AB JZ 0 0
+30 10 10d10+600 30d10+100 6d6+15 punch
+-7 -7 -7 -4
+0 AB 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M GREET 10101 100~
+M GIVE 10103 silvanesti turtle barge pass~
+M SPEECH 10102 yes~
+#10102
+outcast half-elf half-elven half elf elven~
+a half-elven outcast~
+A half-elven is sitting here in the chair, looking up at you.
+~
+This male half-elf appears to be an outcast of the Silvanesti society. 
+You can't do much other than feel pity for this poor soul.  
+~
+half-elf~
+AB J 600 0
+20 2 5d10+500 20d10+100 5d5+20 punch
+-3 -3 -3 -3
+0 0 B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 10104 100~
+#10103
+hermit~
+a hermit~
+A hermit is here, skipping rocks at the ocean shore.
+~
+You see an old Kagonesti elf.  His facial features is wrinkled and shows
+the sign of wisdom.  He notices you standing there, looking at him.  He only
+smiles and goes back to skipping rocks.  He must be someone who prefers a
+solitary lifestyle.  
+~
+kagonesti~
+AB J 400 0
+40 4 10d10+2000 40d10+100 5d11+35 punch
+-10 -10 -10 -10
+FS 0 BI Z
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#10104
+fawn~
+a fawn~
+You come across a fawn gracefully moving through the forest.
+~
+Brown fur fully covers the animal, except for its soft unprotected belly,
+which is covered with white fur.  The deer glances up and looks around with
+sharp jerky movements.  Not noticing you, it goes back to moving through the
+forest.  
+~
+cat~
+AG 0 500 0
+15 2 5d10+375 15d10+100 5d5+15 charge
+-1 -1 -1 -1
+FH 0 0 0
+stand stand female 0
+AGV ACDEFJKQ M unknown 0
+F aff Z
+F par HUV
+#10105
+majestic buck~
+a majestic buck~
+A majestic buck stands here glancing around at its surroundings.
+~
+This magnificent creature is the essence of nobility.  It stands tall and
+proud in the forest, with its artistic antlers.  It is looking about for
+predators before it resumes its dinner of grass.  
+~
+cat~
+AB 0 500 0
+17 2 5d10+425 17d10+100 5d5+17 pierce
+-2 -2 -2 -2
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQW L unknown 0
+F aff Z
+F par HUV
+#10106
+wild rabbit~
+a wild rabbit~
+A small wild rabbit bounds through the woods in a hurry to somewhere.
+~
+This small grey rabbit doesn't waste time looking around and bounds
+through the woods hoping to reach home safely.  
+~
+rabbit~
+AG 0 200 0
+6 1 4d2+60 6d10+100 2d3+6 bite
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJK T unknown 0
+#0
+
+
+
+#OBJECTS
+#10101
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#10102
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#10103
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#10104
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+40 50 100 P
+#10105
+silvanesti turtle barge pass~
+a Silvanesti barge pass~
+A pass allowing one to take the barge from Silvanesti Woods to Silvanost lies here.~
+paper~
+trash SY 0 A
+0 0 0 0 0
+0 1 0 P
+#10106
+small moss bed~
+a small moss bed~
+A small moss bed lies in the corner of the room.~
+plant~
+furniture S 0 A
+A CEFGHI EHK BD BD
+0 25 0 P
+#10107
+small wooden desk~
+a small wooden desk~
+A small wooden desk sits in one corner of the room. A lantern rests on top of it.~
+wood~
+container S 0 P
+50 ACD 10108 20 100
+0 300 0 P
+#10108
+small wooden key~
+a small wooden key~
+A small wooden key lies here, it must be good for something.~
+wood~
+key S 0 A
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#10101
+Woods of Silvanesti~
+The ground here is littered carelessly with tall thick trees providing
+their shelter to the many creatures wandering about.  The sunlight has to
+fight its way through a leafy canopy to reach the buggy area near the
+ground.  
+~
+0 4 3
+D2
+~
+~
+0 0 10102
+D3
+~
+~
+0 0 10197
+S
+#10102
+Woods of Silvanesti~
+The ground here is littered carelessly with tall thick trees providing
+their shelter to the many creatures wandering about.  The sunlight has to
+fight its way through a leafy canopy to reach the buggy area near the
+ground.  
+~
+0 4 3
+D0
+~
+~
+0 0 10101
+D2
+~
+~
+0 0 10103
+S
+#10103
+Woods of Silvanesti~
+The ground here is littered carelessly with tall thick trees providing
+their shelter to the many creatures wandering about.  The sunlight has to
+fight its way through a leafy canopy to reach the buggy area near the
+ground. You hear the roar of a river close by.
+~
+0 0 3
+D0
+~
+~
+0 0 10102
+D3
+~
+~
+0 0 10104
+S
+#10104
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  
+~
+0 0 3
+D1
+~
+~
+0 0 10103
+D2
+~
+~
+0 0 10105
+S
+#10105
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10104
+D2
+~
+~
+0 0 10106
+S
+#10106
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10105
+D1
+~
+~
+0 0 10107
+S
+#10107
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D1
+~
+~
+0 0 10108
+D3
+~
+~
+0 0 10106
+S
+#10108
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.  
+~
+0 0 3
+D2
+~
+~
+0 0 10109
+D3
+~
+~
+0 0 10107
+S
+#10109
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10108
+D2
+~
+~
+0 0 10110
+S
+#10110
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.  
+~
+0 0 3
+D0
+~
+~
+0 0 10109
+D3
+~
+~
+0 0 10111
+S
+#10111
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D1
+~
+~
+0 0 10110
+D2
+~
+~
+0 0 10112
+S
+#10112
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10111
+D2
+~
+~
+0 0 10113
+S
+#10113
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10112
+D2
+~
+~
+0 0 10114
+S
+#10114
+A split in the Than-Thalas River~
+The Than-Thalas River splits to the east and the west here.  You stand at
+the bank of the river.  The scattered trees run right up to the bank of the
+river.  The sunlight beams down on the river bouncing almost blinding rays
+in every direction.  To the south, you see a wooden dock which probably
+allows access to Silvanost.  
+~
+0 0 3
+D0
+~
+~
+0 0 10113
+D1
+~
+~
+0 0 10142
+D2
+~
+~
+0 0 10145
+D3
+~
+~
+0 0 10115
+S
+#10115
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10114
+D3
+~
+~
+0 0 10116
+S
+#10116
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10115
+D2
+~
+~
+0 0 10117
+S
+#10117
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10116
+D3
+~
+~
+0 0 10118
+S
+#10118
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10117
+D2
+~
+~
+0 0 10119
+S
+#10119
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10118
+D3
+~
+~
+0 0 10120
+S
+#10120
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10119
+D2
+~
+~
+0 0 10121
+S
+#10121
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  Across the river, you see the shores of Silvanost. 
+To the east is a wooden dock that allows access to the city.  To the west is
+a path through the woods.  
+~
+0 0 3
+D0
+~
+~
+0 0 10120
+D1
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 10122
+D3
+~
+~
+0 0 10186
+S
+#10122
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10121
+D1
+~
+~
+0 0 10123
+S
+#10123
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D2
+~
+~
+0 0 10124
+D3
+~
+~
+0 0 10122
+S
+#10124
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10123
+D1
+~
+~
+0 0 10125
+S
+#10125
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D2
+~
+~
+0 0 10126
+D3
+~
+~
+0 0 10124
+S
+#10126
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10125
+D1
+~
+~
+0 0 10127
+S
+#10127
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10128
+D3
+~
+~
+0 0 10126
+S
+#10128
+A split in the Than-Thalas River~
+The Than-Thalas River splits to the east and the west here.  You stand at
+the bank of the river.  The scattered trees run right up to the bank of the
+river.  The sunlight beams down on the river bouncing almost blinding rays
+in every direction.  To the north, you see a wooden dock which probably
+allows access to Silvanost.  
+~
+0 0 3
+D0
+~
+~
+0 0 10143
+D1
+~
+~
+0 0 10129
+D2
+~
+~
+0 0 10167
+D3
+~
+~
+0 0 10127
+S
+#10129
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10130
+D3
+~
+~
+0 0 10128
+S
+#10130
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  Across the river, you see the shores of Silvanost. 
+~
+0 0 3
+D0
+~
+~
+0 0 10131
+D3
+~
+~
+0 0 10129
+S
+#10131
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10132
+D2
+~
+~
+0 0 10130
+S
+#10132
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10133
+D3
+~
+~
+0 0 10131
+S
+#10133
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10134
+D2
+~
+~
+0 0 10132
+S
+#10134
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10135
+D3
+~
+~
+0 0 10133
+S
+#10135
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  Across the river, you see the shores of Silvanost. 
+To the west is a wooden dock that allows access to the city.  To the east is
+a small footpath.  
+~
+0 0 3
+D0
+~
+~
+0 0 10137
+D1
+~
+~
+0 0 10146
+D2
+~
+~
+0 0 10134
+D3
+~
+~
+0 0 10136
+S
+#10136
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry
+travelers to Silvanost, the capital of the Silvanesti.  However, they must
+have the proper clearance if they wish to enter.  To get proper clearance,
+one must first find a barge pass located somewhere here in the forest.  Once
+the pass is obtained, then one must come back and GIVE the pass to the
+turtlemaster.  
+~
+0 1024 3
+D1
+~
+~
+0 0 10135
+S
+#10137
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D2
+~
+~
+0 0 10135
+D3
+~
+~
+0 0 10138
+S
+#10138
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10139
+D1
+~
+~
+0 0 10137
+S
+#10139
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  Across the river, you see the shores of Silvanost. 
+A small pathway leads off to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 10166
+D2
+~
+~
+0 0 10138
+D3
+~
+~
+0 0 10140
+S
+#10140
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D0
+~
+~
+0 0 10141
+D1
+~
+~
+0 0 10139
+S
+#10141
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D2
+~
+~
+0 0 10140
+D3
+~
+~
+0 0 10142
+S
+#10142
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction. Across the river, you see the shores of Silvanost.
+~
+0 0 3
+D1
+~
+~
+0 0 10141
+D3
+~
+~
+0 0 10114
+S
+#10143
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry
+travelers to Silvanost, the capital of the Silvanesti.  However, they must
+have the proper clearance if they wish to enter.  
+~
+0 1024 3
+D0
+~
+~
+0 0 17501
+D2
+~
+~
+0 0 10128
+S
+#10144
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry
+travelers to Silvanost, the capital of the Silvanesti.  However, they must
+have the proper clearance if they wish to enter.  
+~
+0 1024 3
+D3
+~
+~
+0 0 10121
+S
+#10145
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry
+travelers to Silvanost, the capital of the Silvanesti.  However, they must
+have the proper clearance if they wish to enter.  
+~
+0 1024 3
+D0
+~
+~
+0 0 10114
+S
+#10146
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10147
+D3
+~
+~
+0 0 10135
+S
+#10147
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.  
+~
+0 0 3
+D2
+~
+~
+0 0 10148
+D3
+~
+~
+0 0 10146
+S
+#10148
+A bend in the path~
+You follow the small beaten footpath around a bend. The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.  
+~
+0 0 3
+D0
+~
+~
+0 0 10147
+D1
+~
+~
+0 0 10149
+S
+#10149
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10150
+D3
+~
+~
+0 0 10148
+S
+#10150
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10151
+D3
+~
+~
+0 0 10149
+S
+#10151
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.  The thick woods to the
+south part just enough to let you slip through if you wish.  
+~
+0 0 3
+D0
+~
+~
+0 0 10152
+D2
+~
+~
+0 0 10185
+D3
+~
+~
+0 0 10150
+S
+#10152
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10153
+D2
+~
+~
+0 0 10151
+S
+#10153
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10154
+D3
+~
+~
+0 0 10152
+S
+#10154
+The woods thin a bit~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above.  The
+woods thin a bit and you spot a clearing to the north.  A well used dirt
+path leads to the south, where sounds of soft music can be heard floating
+gently on the breeze.  
+~
+0 0 3
+D0
+~
+~
+0 0 10156
+D1
+~
+~
+0 0 10155
+D2
+~
+~
+0 0 10200
+D3
+~
+~
+0 0 10153
+S
+#10155
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  
+~
+0 0 3
+D1
+~
+~
+0 0 10158
+D3
+~
+~
+0 0 10154
+S
+#10156
+The clearing before a hut~
+You step out from the thick woods and into a small clearing.  The trees
+surround you and the clearing.  The bright sun shines down on your face
+providing great warmth.  The warmth feels good after wandering through the
+cold forest.  You spot a small hut just to the north.  It appears in
+shambles and half-broken down.  
+~
+0 4 3
+D0
+~
+~
+1 0 10157
+D2
+~
+~
+0 0 10154
+S
+#10157
+Inside the small hut~
+The small hut is falling apart on the inside as well as the outside.  A
+few wooden bowls lay on the floor, collecting water from the leaky roof.  A
+makeshift bed of leaves and moss covers the floor on the west side of the
+room.  A half-elf sits in a chair in front of a desk, writing away.  He
+looks up as he notices your presence in the room.  
+~
+0 8 0
+D2
+~
+~
+1 0 10156
+S
+#10158
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D0
+~
+~
+0 0 10159
+D3
+~
+~
+0 0 10155
+S
+#10159
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.
+~
+0 0 3
+D0
+~
+~
+0 0 10160
+D2
+~
+~
+0 0 10158
+S
+#10160
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D2
+~
+~
+0 0 10159
+D3
+~
+~
+0 0 10161
+S
+#10161
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D0
+~
+~
+0 0 10162
+D1
+~
+~
+0 0 10160
+S
+#10162
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D2
+~
+~
+0 0 10161
+D3
+~
+~
+0 0 10163
+S
+#10163
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10162
+D3
+~
+~
+0 0 10164
+S
+#10164
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10163
+D2
+~
+~
+0 0 10165
+S
+#10165
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D0
+~
+~
+0 0 10164
+D3
+~
+~
+0 0 10166
+S
+#10166
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10165
+D3
+~
+~
+0 0 10139
+S
+#10167
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10128
+D2
+~
+~
+0 0 10168
+S
+#10168
+A bend in the River~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10167
+D1
+~
+~
+0 0 10169
+S
+#10169
+A bend in the River~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D2
+~
+~
+0 0 10170
+D3
+~
+~
+0 0 10168
+S
+#10170
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10169
+D1
+~
+~
+0 0 10171
+S
+#10171
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D1
+~
+~
+0 0 10172
+D3
+~
+~
+0 0 10170
+S
+#10172
+A bend in the river~
+The Than-Thalas River takes a sharp turn here.  You stand at the bank of
+the river.  The scattered trees run right up to the bank of the river.  The
+sunlight beams down on the river bouncing almost blinding rays in every
+direction.
+~
+0 0 3
+D2
+~
+~
+0 0 10173
+D3
+~
+~
+0 0 10171
+S
+#10173
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10172
+D2
+~
+~
+0 0 10174
+S
+#10174
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10173
+D2
+~
+~
+0 0 10175
+S
+#10175
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10174
+D2
+~
+~
+0 0 10176
+S
+#10176
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  To the east the thick woods part just a bit so you
+can slip through.  
+~
+0 0 3
+D0
+~
+~
+0 0 10175
+D1
+~
+~
+0 0 10182
+D2
+~
+~
+0 0 10177
+S
+#10177
+Along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.
+~
+0 0 3
+D0
+~
+~
+0 0 10176
+D2
+~
+~
+0 0 10178
+S
+#10178
+The thin woods along the bank of the Than-Thalas River~
+The Than-Thalas River roars through this once placid forest.  You stand
+at the bank of the river.  The scattered trees run right up to the bank of
+the river.  The sunlight beams down on the river bouncing almost blinding
+rays in every direction.  The woods seem to thin out here and you catch
+glimpse of sea between the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 10177
+D2
+~
+~
+0 0 10179
+S
+#10179
+The mouth of the Than-Thalas River~
+The woods end abruptly and the Than-Thalas River spills into the Southern
+Courrain Sea.  A small beach begins where the woods left off.  The sand is
+soft and warm and you have an itching feeling to take off your boots and go
+barefoot.  This would be a great place for a small seaside port you think to
+yourself as you scan the beach.  It is then that you notice a large tower
+erected to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 10178
+D1
+~
+~
+0 0 10180
+D3
+~
+~
+0 0 10181
+S
+#10180
+On the beach of the Southern Courrain Sea~
+The sun reflects brightly off the waves rolling onto the beach.  The sand
+is soft and warm and you have an itching feeling to take off your boots and
+go barefoot.  This would be a great place for a small seaside port you think
+to yourself as you scan the beach.  You see a tower off to the east.  
+~
+0 0 10
+D2
+~
+~
+0 0 10194
+D3
+~
+~
+0 0 10179
+S
+#10181
+On the edge of the Southern Courrain Sea~
+The sun reflects brightly off the waves rolling onto the beach.  The sand
+is soft and warm and you have an itching feeling to take off your boots and
+go barefoot.  This would be a great place for a small seaside port you think
+to yourself as you scan the beach.
+~
+0 0 10
+D1
+~
+~
+0 0 10179
+D2
+~
+~
+0 0 10195
+S
+#10182
+Through the thick woods~
+You stumble through the packed trees, stepping over logs and ducking
+under branches.  A thick green moss covers most of the tree trunks and
+fallen logs.  Small holes in the canopy above allows small beams of light to
+hit the forest floor with a godly appearance.  The woods seem to whisper to
+you as you walk through them.  You hear the roar of a river not too far off.
+~
+0 0 3
+D1
+~
+~
+0 0 10183
+D3
+~
+~
+0 0 10176
+S
+#10183
+Through the thick woods~
+You stumble through the packed trees, stepping over logs and ducking
+under branches.  A thick green moss covers most of the tree trunks and
+fallen logs.  Small holes in the canopy above allows small beams of light to
+hit the forest floor with a godly appearance.  The woods seem to whisper to
+you as you walk through them.
+~
+0 0 3
+D0
+~
+~
+0 0 10184
+D3
+~
+~
+0 0 10182
+S
+#10184
+Through the thick woods~
+You stumble through the packed trees, stepping over logs and ducking
+under branches.  A thick green moss covers most of the tree trunks and
+fallen logs.  Small holes in the canopy above allows small beams of light to
+hit the forest floor with a godly appearance.  The woods seem to whisper to
+you as you walk through them.  You see a small hut to the east, its door
+closed.  
+~
+0 0 3
+D0
+~
+~
+0 0 10185
+D1
+~
+~
+1 0 10192
+D2
+~
+~
+0 0 10183
+S
+#10185
+Through the thick woods~
+You stumble through the packed trees, stepping over logs and ducking
+under branches.  A thick green moss covers most of the tree trunks and
+fallen logs.  Small holes in the canopy above allows small beams of light to
+hit the forest floor with a godly appearance.  The woods seem to whisper to
+you as you walk through them.  
+~
+0 0 3
+D0
+~
+~
+0 0 10151
+D2
+~
+~
+0 0 10184
+S
+#10186
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10121
+D3
+~
+~
+0 0 10187
+S
+#10187
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10186
+D2
+~
+~
+0 0 10188
+S
+#10188
+A bend in the path~
+You follow the small beaten footpath around a bend.  The trees rise up
+from the forest floor and provide a thick canopy high above your head
+offering protection from the glaring sun.  Narrow streams of light break
+through small holes in the foliage above.  Ferns brush against your legs,
+tickling them, as you walk along the small footpath.
+~
+0 0 3
+D0
+~
+~
+0 0 10187
+D3
+~
+~
+0 0 10189
+S
+#10189
+A path through the Silvanesti Woods~
+Moving through the forest, the serene demeanor of it all fills you with a
+sense of calmness.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Narrow streams of light break through small holes in the foliage above. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.
+~
+0 0 3
+D1
+~
+~
+0 0 10188
+D3
+~
+~
+0 0 10190
+S
+#10190
+The beginning of a path through the Silvanesti Woods~
+The thin woods here split to mark the beginning of a path through the
+Silvanesti forest.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  The blaring heat of the Plains of Dust to the west can be felt
+only slightly.  
+~
+0 0 3
+D1
+~
+~
+0 0 10189
+D3
+~
+~
+0 0 10191
+S
+#10191
+The beginning of the Silvanesti Woods~
+The thin woods here split to mark the beginning of a path through the
+Silvanesti forest.  The trees rise up from the forest floor and provide a
+thick canopy high above your head offering protection from the glaring sun. 
+Ferns brush against your legs, tickling them, as you walk along the small
+footpath.  The blaring heat of the Plains of Dust to the west can be felt
+only slightly.  
+~
+0 0 3
+D1
+~
+~
+0 0 10190
+D3
+~
+~
+0 0 11883
+S
+#10192
+The Hermit's Hut~
+The inside of the small hut is very humble.  It consists of a single room
+with only a few belongings scattered on the floor.  A small bed of moss is
+in one corner of the room while a small desk lies in the other corner.  
+~
+0 8 0
+D3
+~
+~
+1 0 10184
+S
+#10193
+Unused~
+~
+0 2138116 0
+S
+#10194
+On the beach of the Southern Courrain Sea~
+The sun reflects brightly off the waves rolling onto the beach.  The sand
+is soft and warm and you have an itching feeling to take off your boots and
+go barefoot.  This would be a great place for a small seaside port you think
+to yourself as you scan the beach.
+~
+0 0 10
+D0
+~
+~
+0 0 10180
+D2
+~
+~
+0 0 4119
+S
+#10195
+On the beach of the Southern Courrain Sea~
+The sun reflects brightly off the waves rolling onto the beach.  The sand
+is soft and warm and you have an itching feeling to take off your boots and
+go barefoot.  This would be a great place for a small seaside port you think
+to yourself as you scan the beach.
+~
+0 0 10
+D0
+~
+~
+0 0 10181
+S
+#10196
+Before the Tower of Eli~
+*UNDER CONSTRUCTION*
+ 
+west to 10180
+~
+0 2678796 0
+S
+#10197
+Woods of Silvanesti~
+The ground here is littered carelessly with tall thick trees providing
+their shelter to the many creatures wandering about.  The sunlight has to
+fight its way through a leafy canopy to reach the buggy area near the
+ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 10101
+D3
+~
+~
+0 0 10198
+S
+#10198
+Woods of Silvanesti~
+The ground here is littered carelessly with tall thick trees providing
+their shelter to the many creatures wandering about.  The sunlight has to
+fight its way through a leafy canopy to reach the buggy area near the
+ground.
+~
+0 0 0
+D1
+~
+~
+0 0 10197
+D3
+~
+~
+0 0 10199
+S
+#10199
+The thin woods of the Silvanesti Forest~
+The woods of the Silvanesti forest in this part are very thin.  Few
+creatures inhabit this part.  Most creatures prefer the plains where they
+can graze, or they prefer the shelter of the forest.  This portion of the
+forest connects the two different lifestyles.  To the west are the plains of
+Blode.  To the east lays the inner forests of Silvanesti.  
+~
+0 0 0
+D1
+~
+~
+0 0 10198
+S
+#10200
+A Woodland Shrine to Branchala~
+This tiny clearing has been tended carefully; the surrounding foliage
+well kept and free from debris.  A large cairn made of stone and bits of
+antler sits in the center next to a reflection pool where woodland creatures
+come to drink.  A feeling of calm permeates the area, and sounds of delicate
+music can be heard - seeming to emanate from a silver flute magically
+embedded into the stone of the cairn.  Now and again, visiting elves and
+even a few kender may be seen relaxing near the pond, practicing upon
+various instruments and singing praises to the Bard king, Branchala.  
+~
+0 8388608 35
+D0
+~
+~
+0 0 10154
+S
+#0
+
+
+
+#SPECIALS
+M 10104 spec_rloader
+S
+
+
+
+#RESETS
+D 0 10156 0 1
+D 0 10157 2 1
+D 0 10184 1 1
+D 0 10192 3 1
+M 0 10104 1 10101 1
+M 0 10106 1 10101 1
+M 0 10105 1 10103 1
+M 0 10106 1 10107 1
+M 0 10106 1 10110 1
+M 0 10105 1 10118 1
+M 0 10105 1 10122 1
+M 0 10104 1 10122 1
+M 0 10106 1 10128 1
+M 0 10106 1 10134 1
+M 0 10101 4 10136 1
+M 0 10101 4 10144 1
+M 0 10101 4 10145 1
+M 0 10104 1 10147 1
+M 0 10105 1 10150 1
+M 0 10104 1 10150 1
+M 0 10104 3 10153 1
+M 0 10104 3 10155 1
+M 0 10102 1 10157 1
+M 0 10106 4 10158 1
+M 0 10106 4 10162 1
+M 0 10106 4 10165 1
+M 0 10106 4 10175 1
+M 0 10104 3 10184 1
+M 0 10106 1 10184 1
+M 0 10106 4 10185 1
+O 0 10106 0 10192
+O 0 10107 0 10192
+P 0 10105 1 10107 1
+M 0 10103 1 10195 1
+G 0 10108 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10101
+if race $n silvanesti
+say Would you like to go to Silvanost?
+else
+say You must give me a clearance pass to go to Silvanost.
+endif
+~
+#10102
+if race $n silvanesti
+MOB ECHOAT $n You and your group climb into the barge from the dock and the sea turtle heads towards the docks in Silvanost.
+MOB ECHOAROUND $n $n's group climbs into the barge. The sea turtle swims towards the docks in Silvanost, pulling the barge behind it.
+else
+say You need to give me a clearance pass first.
+endif
+if room $i == 10136
+and race $n silvanesti
+MOB GTRANSFER $n 17534
+MOB TRANSFER $n 17534
+endif
+if room $i == 10143
+and race $n silvanesti
+MOB GTRANSFER $n 17501
+MOB TRANSFER $n 17501
+endif
+if room $i == 10145
+and race $n silvanesti
+MOB GTRANSFER $n 17525
+MOB TRANSFER $n 17525
+endif
+if room $i == 10144
+and race $n silvanesti
+MOB GTRANSFER $n 17544
+MOB TRANSFER $n 17544
+endif
+~
+#10103
+MOB JUNK barge
+MOB ECHOAT $n You climb into the barge from the dock and the sea turtle heads towards the docks in Silvanost.
+MOB ECHOAROUND $n $n climbs into the barge. The sea turtle swims towards the docks in Silvanost, pulling the barge behind it.
+if room $i == 10136
+MOB TRANSFER $n 17534
+endif
+if room $i == 10143
+MOB TRANSFER $n 17501
+endif
+if room $i == 10145
+MOB TRANSFER $n 17525
+endif
+if room $i == 10144
+MOB TRANSFER $n 17544
+endif
+~
+#10104
+if race $n silvanesti
+say Get out of my sight. It's bad enough having to live in solitude, but even worse to be reminded of why.
+else
+say So the Silvanesti keep you out of their capitol as well, eh? I know the feeling. I've been living out here all my life.
+endif
+~
+#10105
+MOB ECHOAT $n You and your group climb into the barge from the dock and the sea turtle heads towards the docks at the edge of the forest.
+MOB ECHOAROUND $n $n's group climbs into the barge. The sea turtle swims towards the docks at the edge of the forest, pulling the barge behind it.
+if room $i == 17534
+MOB GTRANSFER $n 10136
+MOB TRANSFER $n 10136
+endif
+if room $i == 17501
+MOB GTRANSFER $n 10143
+MOB TRANSFER $n 10143
+endif
+if room $i == 17525
+MOB GTRANSFER $n 10145
+MOB TRANSFER $n 10145
+endif
+if room $i == 17544
+MOB GTRANSFER $n 10144
+MOB TRANSFER $n 10144
+endif
+~
+#10106
+say Would you like to leave Silvanost?
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

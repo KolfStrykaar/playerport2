@@ -1,0 +1,687 @@
+#PLAYER
+Name DurTenHai~
+Surname Maginodel~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1390810163
+LogO 1392625371
+Vers 10
+Act  CDEFGHQTe
+Desc A gaunt looking adventurer stands before you, wielding a spear in one
+hand and the mystic arts of elven magic in the other.  Evidence of the
+hardships that this tortured soul has lived through is apparent by the
+hideous scars that cover his body.  The cold gaze that his traveler bears
+feels like it pierces one's very soul, as if those pale eyes of his could
+see your darkest secrets.  This adventurer did not choose his path by
+choice, but it is by necessity that this half-elf became a warrior mage.  
+ 
+ 
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  1
+Cla  0
+Hmtown 2
+Levl 17
+recall_point 2659
+Levscale 30
+Xptolev  1228
+Sec  0
+Plyd 67306
+Not  0 0 0 0 0
+Scro 22
+Room 3050
+HMV  304 304 235 235 196 196
+Steel 467
+Gold 18749
+Bank 0
+Exp  34022
+AfBy JT
+Deaths 5
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4194304
+Comm NOQ
+Pos  5
+Prac 10
+Save  -1
+Alig  -71
+Ethos 2
+Hit   2
+Dam   2
+ACs 33 19 26 76
+Attr 13 20 20 15 13 16
+AMod 5 5 5 6 5 0
+Pass DuNvH5U5RJzLI~
+Titl  the Initiate of the Void~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 17
+HMVP 254 215 196
+Cnd  0 64 64 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 88 'armor'
+Sk 100 'burning hands'
+Sk 91 'chill touch'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'enchant weapon'
+Sk 1 'fireball'
+Sk 82 'levitate'
+Sk 1 'orb of containment'
+Sk 1 'giant strength'
+Sk 1 'infravision'
+Sk 78 'invisibility'
+Sk 1 'know alignment'
+Sk 91 'magic missile'
+Sk 100 'shocking grasp'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'dagger'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 77 'shield block'
+Sk 95 'spear'
+Sk 40 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 86 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 75 'kick'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'mount'
+Sk 1 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'blade barrier'
+Sk 1 'flyingswords'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'battlestaff'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'knock'
+Sk 76 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'lore'
+Sk 79 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'mounted combat'
+Sk 1 'sweep attack'
+Sk 36 'surge'
+Sk 75 'endure'
+Sk 1 'evade'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'endure disease'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'shrink'
+Sk 1 'clear thoughts'
+Sk 1 'lock'
+Sk 1 'battletide'
+Affc 'bless'   0  14  12  -1  25          0
+Affc 'bless'   0  13  12   1  18          0
+Affc 'armor'   0  16  13 -20  17          0
+Affc 'levitate'   0  13   7   0   0     524288
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 5774
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5750
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5753
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 96
+Wear 21
+Cost 1140
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 97
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 97
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 100
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 9
+Cost 150
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 90
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 5662
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 5662
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3138
+Nest 1
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 5749
+Nest 0
+Cond 94
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 5799
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 5663
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Val  100 52 0 0 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 311
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 304
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+Val  0 0 1 0 0
+End
+
+#O
+Vnum 5743
+Nest 0
+Cond 100
+Wear 0
+Cost 100
+Val  0 0 97 0 0
+End
+
+#O
+Vnum 5742
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+Val  10 1 0 10 100
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'heal'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 680
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 749
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 489
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 783
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 434
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 360
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 741
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 8307
+Nest 0
+Cond 100
+Wear -1
+Time 310
+Cost 690
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 14907
+Nest 0
+Cond 99
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5751
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Spell 3 'fireball'
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 5756
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5745
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#END

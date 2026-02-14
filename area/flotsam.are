@@ -1,0 +1,4073 @@
+#AREADATA
+Name Flotsam~
+Builders Habbakuk~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 14400 14699
+Credits Habbakuk~
+Security 9
+End
+
+
+
+#MOBILES
+#14401
+knight takh~
+a Knight of Takhisis~
+A Knight of Takhisis is here awaiting orders.
+~
+This knight has dedicated his life to the dark queen.
+~
+human~
+AGT J -700 0
+30 30 61d10+304 30d10+85 10d3+20 slash
+-10 -10 -10 -4
+0 0 Q JS
+stand stand male 234
+AHMV ABCDEFGHIJK M unknown 0
+#14410
+city guard flotsam~
+a Flotsam City Guard~
+A Flotsam City Guard stands here letting trouble happen.
+~
+This ugly draconian is not much or a guard, yet he seems like a good
+warrior.  
+~
+draconian~
+AGT Oc -400 0
+40 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+CKMR P EM 0
+stand stand male 123
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+#14416
+Flotsam city guard~
+a City Guard~
+A giant Flotsam city guard stands here blocking your way!
+~
+He is big...very big...best not to piss him off.
+~
+human~
+ABT H 0 0
+100 100 201d33+2021 100d10+85 33d3+55 crush
+-57 -57 -57 -37
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 14416 50~
+M RANDOM 14415 100~
+#14420
+citizen flotsam~
+a Flotsam citizen~
+A Flotsam citizen stands here looking out for trouble. 
+~
+This pretty lady seems to know the city all too well.  She looks weary of
+outsiders, believing all they will bring is trouble.  
+~
+human~
+AG H 100 0
+30 30 61d10+304 30d10+85 10d3+20 slap
+-10 -10 -10 -4
+FKN 0 0 0
+stand stand female 2345
+AHMV ABCDEFGHIJK M unknown 0
+#14428
+hired mercenary merc~
+a hired mercenary~
+A hired mercenary stands here looking for someone...
+~
+This ox like warrior seems to be in prime condition.  Best not to get on
+his bad side...  
+~
+human~
+AFGT 0 -100 0
+45 40 81d13+405 40d10+85 13d3+25 slash
+-17 -17 -17 -9
+EO 0 0 0
+stand stand male 3523
+AHMV ABCDEFGHIJK M unknown 0
+#14455
+drunk sailor~
+a drunk sailor~
+({yDrunk{X) A sailor staggers by here.
+~
+This sorry excuse for sailor, or a human, looks for a pretty penny to
+satisfy his thirst.  
+~
+human~
+AG 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 punch
+-13 -13 -13 -6
+CD 0 0 0
+stand stand male 234
+AHMV ABCDEFGHIJK M unknown 0
+#14456
+city flotsam guard~
+a Flotsam City Guard~
+A Flotsam city guard is keeping watch over the street here.
+~
+This human guard seems to be a corrupt law enforcer.
+~
+human~
+AGT 0 -200 0
+40 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+F 0 0 0
+stand stand male 2314
+AHMV ABCDEFGHIJK M unknown 0
+#14459
+merchant fat~
+a fat merchant~
+A fat merchant stands here counting his money.
+~
+He is a really, REALLY fat goblin merchant.  Nevertheless, ladies, he is extremely
+wealthy.  
+~
+goblin~
+AG J -50 0
+40 40 60d13+365 40d10+85 11d3+18 stab
+-9 -9 -9 -1
+O 0 Q C
+stand stand male 34000
+AHMV ABCDEFGHIJK M unknown 0
+#14468
+citizen flotsam~
+a Flotsam citizen~
+A Flotsam citizen walks by here. 
+~
+This middle age man seems to be about his daily business.  
+~
+human~
+AG H 50 0
+35 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+0 0 0 0
+stand stand male 325
+AHMV ABCDEFGHIJK M unknown 0
+#14485
+kender clever~
+a clever kender~
+A clever kender is here borrowing objects from people.
+~
+This female kender likes to borrow stuff.  Can she borrow your money pouch?
+~
+kender~
+ACGH 0 100 0
+30 30 61d10+304 30d10+85 10d3+20 slap
+-10 -10 -10 -4
+0 0 0 L
+stand stand female 235
+AHMV ABCDEFGHIJK S unknown 0
+#14491
+thief hidden~
+a hidden thief~
+A hidden thief stares at your pockets!
+~
+This male ogre is ready to strip you clean of all your gold and steel 
+~
+ogre~
+ABFS Q -300 0
+45 45 91d15+455 45d10+85 15d3+27 pierce
+-21 -21 -21 -11
+0 0 HI K
+stand stand male 2141
+AHMV ABCDEFGHIJK L unknown 0
+#14492
+minotaur thug~
+a minotaur thug~
+A minotaur thug is waiting for his next victim.
+~
+This thug of a minotaur looks like he means trouble.  
+~
+minotaur~
+ABFT D -230 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+0 0 HI K
+stand stand male 2332
+AHMV ABCDEFGHIJK L unknown 0
+#14497
+Juli~
+Juli the elf mage~
+Juli the elf mage stands here selling her brews.
+~
+This beautiful elven mage stands here in skimpy robes.  Magic ether seems to surround her entire body.
+~
+elf~
+ABR HJ 500 0
+150 150 301d50+4546 150d10+85 50d3+80 magic
+-91 -91 -91 -60
+0 AB B Z
+stand stand female 2353
+AHMV ABCDEFGHIJK M unknown 0
+#14498
+Gringor ~
+Gringor~
+Gringor the blacksmith stands here with his weapons ready for sale.
+~
+This big blacksmith looks like he knows how to handle his tools.  
+~
+half-elf~
+ABT HJ 350 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+O AB B 0
+stand stand male 325
+AHMV ABCDEFGHIJK M unknown 0
+#14499
+old sailor~
+an old sailor~
+An old {csailor{X stands here ready to sell you the latest catch.
+~
+This old man seems to know his fish!  
+~
+human~
+ABT H 300 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 AB 0 0
+stand stand male 12341
+AHMV ABCDEFGHIJK M unknown 0
+#14509
+minotaur cleric ~
+a {Dminotaur{x cleric~
+A {Dminotaur{x cleric stand here ready to heal you for a price!
+~
+This large minotaur has clerical abilities.
+~
+minotaur~
+ABa H -50 0
+150 150 301d50+4546 150d10+85 50d3+80 divine
+-91 -91 -91 -60
+0 AB HI K
+stand stand male 3252
+AHMV ABCDEFGHIJK L unknown 0
+#14510
+merchant ~
+a merchant~
+A merchant stands here looking over his goods.
+~
+This fat merchant has a lot of interesting stuff.  
+~
+human~
+AB H -50 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+O AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#14523
+old fisherman man~
+an old fisherman~
+An old fisherman is here casting out to sea. 
+~
+This old fisherman seems to know how to really catch some fish.  
+~
+half-elf~
+ABT J 100 0
+45 40 81d13+405 40d10+85 13d3+25 thwack
+-17 -17 -17 -9
+K 0 B 0
+stand stand male 3151
+AHMV ABCDEFGHIJK M unknown 0
+#14530
+sailor young~
+a young sailor~
+A young sailor is here carrying some heavy rope.
+~
+This young sailor already seems to have the 'sea spirit' with him. 
+Although, he does smell a little fishy.  
+~
+human~
+AG 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 whip
+-13 -13 -13 -6
+EFKN 0 0 0
+stand stand male 321
+AHMV ABCDEFGHIJK M unknown 0
+#14533
+red mage~
+a {rred-robed{x mage~
+A {rred-robed{x mage stands here contemplating her skills.
+~
+She is a good-looking woman... too bad her robes cover her most interesting features.
+~
+half-elf~
+AGR JU 0 0
+40 40 81d13+405 40d10+85 13d3+25 magic
+-17 -17 -17 -9
+F 0 B 0
+stand stand female 3254
+AHMV ABCDEFGHIJK M unknown 0
+#14535
+rock gate guard~
+the Rock Gate guard~
+The Rock Gate guard is willing to let you in for a small "gift".
+~
+He's big and tough, but it looks like he would fold for a steel coin.  
+~
+human~
+ABT 0 -500 0
+50 50 101d16+506 50d10+85 16d3+30 slice
+-24 -24 -24 -14
+EFK AB 0 0
+stand stand male 2345
+AHMV ABCDEFGHIJK M unknown 0
+M EXALL 14535 0~
+M BRIBE 14534 100~
+#14545
+old sailor~
+an old {cSailor{x ~
+An old sailor is here waiting to take your order.
+~
+He's old and a sailor, what more do you want to know?  
+~
+human~
+ABT H 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 AB 0 0
+stand stand male 1234
+AHMV ABCDEFGHIJK M unknown 0
+#14546
+worm bait~
+a {Yworm{x~
+A small worm is on the lookout for some nice dirt here.
+~
+This worm may look small, but just remember, it sacrifices its life so
+that the fisherman can catch his prey.  
+~
+centipede~
+AHI Zabcd 0 0
+5 10 21d3+102 10d10+85 3d3+10 none
+2 2 2 4
+0 0 FI E
+stand stand none 0
+ABGO AK T unknown 0
+F par C
+#14549
+Rangor~
+Rangor~
+Rangor the Blacksmith is here making weapons to sell.
+~
+This very tall and powerful man loves to make weapons.
+~
+half-elf~
+ABT HJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 crush
+-91 -91 -91 -60
+0 AB B 0
+stand stand male 2352
+AHMV ABCDEFGHIJK M unknown 0
+#14550
+miss gwen~
+Miss Gwen~
+Miss Gwen is here looking after her "daughters".
+~
+This old, yet still in good shape, lady is the owner of this fine massage
+parlor.  If you need anything, just ask her.  
+~
+human~
+ABV DFH 30 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 3214
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 14550 100~
+M EXALL 14401 2~
+M SPEECH 14402 yes~
+M BRIBE 14403 10000~
+M DELAY 14400 100~
+#14551
+missy harlot~
+{MMissy{x the harlot~
+{MMissy{x the harlot is here to serve you!
+~
+This beautiful blond half-elf is around 20 years old with the best blue
+eyes many have ever seen.  One look at her and you fold to your most basic
+animal instincts.  
+~
+half-elf~
+ABD DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD B 0
+sit sit female 0
+AHMV ABCDEFGHIJK M unknown 0
+M RANDOM 14551 100~
+#14552
+sailor~
+a sailor~
+A sailor is here washing the deck.
+~
+This small sailor seems to like the work he’s doing.  Not much of a
+fighter one would think, but remember he knows how to handle that mop.  
+~
+human~
+AB 0 -20 0
+35 35 71d11+354 35d10+85 11d3+22 slice
+-13 -13 -13 -6
+EFK 0 0 0
+stand stand male 32
+AHMV ABCDEFGHIJK M unknown 0
+#14553
+captain phoenix~
+Captain of the Phoenix~
+The Captain of the Phoenix is standing here watching over his crew.
+~
+This old and ruthless pirate knows how to sail the seven seas.
+~
+human~
+ABT 0 -250 0
+50 50 101d16+506 50d10+85 16d3+30 punch
+-24 -24 -24 -14
+0 0 0 0
+stand stand male 2314
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 14552 75~
+M DELAY 14553 100~
+#0
+
+
+
+#OBJECTS
+#14410
+heavy short sword~
+({DSteel{x) a heavy shortsword~
+A heavy steel shortsword lies here in the dust.~
+steel~
+weapon E 0 ANc
+sword 2 22 slash 0
+40 5 1232 P
+#14428
+stained mercenary sword~
+({RBlood{x-{RStained{x) a mercenary's sword~
+A blood stained mercenary's sword lies here unused.~
+steel~
+weapon C 0 ANY
+sword 4 12 slash D
+45 6 3253 P
+#14438
+axe iron~
+an {Diron{x axe~
+An iron axe lies in the dust here awaiting a master.~
+iron~
+weapon 0 0 ANc
+axe 4 4 cleave 0
+14 6 450 P
+#14439
+mace battle~
+a battle mace~
+A battle mace sits here awaiting battle. ~
+iron~
+weapon 0 0 ANc
+mace 4 4 smash 0
+14 7 510 P
+#14474
+public fountain~
+a public fountain~
+({DDirty{x) A fountain is here for use by the public.~
+stone~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#14491
+dark dagger~
+({WSharp{x) the {Ddark{x dagger~
+A long and dark dagger sits here in the dust.~
+obsidian~
+weapon S 0 ANc
+dagger 5 9 stab D
+44 1 2455 P
+#14497
+murky brew~
+a {mmurky{x brew~
+A murky brew sits here glowing!~
+glass~
+potion AGS 0 AO
+35 'levitate' 'pass door' 'reserved' 'reserved'
+35 1 3400 P
+#14498
+forged long sword~
+({WForged{x) a longsword~
+A forged longsword sits here unused.~
+steel~
+weapon B 0 ANZ
+sword 4 8 slash 0
+30 6 4560 P
+#14499
+sea bass~
+({GFresh{x) Sea Bass~
+A slimy fish sits here ready to be eaten.~
+flesh~
+food S 0 A
+AC 0 0 0 0
+0 0 45 P
+#14506
+sea shell seashell~
+({YExtremely-Powerful{x) Seashell~
+A worn seashell lies here in the sand.~
+shell~
+warp_stone BGSY 0 AO
+0 0 0 0 0
+90 1 120000 P
+#14510
+statue white elephant~
+({WStatue{x) a white elephant~
+A statue of an elephant sits here.~
+ivory~
+trash GS 0 AO
+0 0 0 0 0
+16 3 350 P
+A
+19 3
+A
+18 4
+#14523
+pile fish~
+a pile of {Bfish{x~
+A pile of {Bfish{x that the old man caught lies here.~
+flesh~
+food S 0 A
+AC 0 0 0 0
+0 2 0 P
+#14545
+life vest~
+({cBuoyant{x) a life vest~
+A buoyant life vest sits here.~
+canvas~
+armor S 0 AK
+AC AC AC A 0
+20 2 4500 P
+F
+A 0 0 b
+#14548
+board~
+a {yboard{x~
+A board has been left on the floor here.~
+pine~
+weapon S 0 ANc
+exotic 2 3 beating 0
+2 2 0 P
+#14549
+long slim forged dagger~
+a forged dagger~
+A long and slim forged dagger lies in the dust here.~
+steel~
+weapon 0 0 ANX
+dagger 4 4 stab 0
+14 1 360 P
+#14550
+sexy leather bra~
+({rSexy{x) {DLeather Bra{x~
+A sexy leather bra sits here awaiting a woman.~
+soft leather~
+armor S 0 ADc
+0 B A 0 0
+1 0 0 P
+#14551
+sexy leather thong~
+({rSexy{x) {DLeather Thong{x~
+A sexy leather thong awaits a woman here.~
+soft leather~
+armor S 0 ALc
+0 B A 0 0
+0 0 0 P
+#14553
+pirate cutlass sword~
+a pirate's cutlass~
+A long curved weapon lies here in the sand.~
+steel~
+weapon 0 0 ANY
+sword 2 28 slash D
+50 5 232 P
+#0
+
+
+
+#ROOMS
+#14400
+{DThe North Gate of Flotsam{x ~
+This is one of the three, ten foot, clay walled gates that lead into and
+out of the city of Flotsam.  Yet, just like Flotsam, the gate is crumbling
+and in need of repair.  Guards block the way as travelers, of all races, try
+to either exit or enter the city.  On further inspection, this seems to be a
+routine that both the traveler and guard dislike a great deal.  People here,
+in general, are dirty and covered in rags, which can especially be seen with
+the children that get in the way of the many strangers that leave and enter
+the city, causing the oblivious parent worry.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14401
+S
+#14401
+{DGate Road{x~
+This is the main road connecting the north and south gates of Flotsam. 
+This wretched town was well named, for it lies upon the shores of the Blood
+Sea of Istar like the wreckage of a broken vessel tossed upon the rocks. 
+The dregs of most of the races of Krynn populate it.  Now, as a result of
+being occupied, draconians, goblins, and mercenaries now walk the filthy
+cobblestones.  This part of Gate road runs through Lower city: the shanty
+part of the town.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14400
+D2
+~
+~
+0 0 14402
+S
+#14402
+{DGate Road{x~
+Sailors and traders wander the streets here, while their ships are
+berthed, in search of beer, food, and entertainment.  Merchants also saunter
+by here, laughing as they head to one of the local pubs.  The cobblestone
+road is unkempt, almost to the point where it looks to be an earthly path. 
+Wooden structures and shacks line the street here, although there appears to
+be more homeless men and women sitting in the squalor than the amount of
+dilapidated buildings.  One can catch a glimpse of the bloody colored harbor
+to the east in the distance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14401
+D2
+~
+~
+0 0 14403
+S
+#14403
+{DAn Intersection on Gate Road{X~
+Wooden shanties, that line the cobble-stoned road, keep the locals in
+filth and grime.  Most of the people who walk the streets are city guards,
+draconian guards and mercenaries hired as guards.  There seems to be no
+friendly faces in this port city that looks to be a shipwreck itself.  An
+unsavory smell of trash and foul language lingers the area about you. 
+Above, in the salt scented air flies a few seagulls, which seem to drift the
+lush ocean breeze; the only thing that keeps this place smelly better than a
+goblin.  This also happens to be the intersection of Gate road and Sea
+Breeze avenue.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14402
+D2
+~
+~
+0 0 14404
+D3
+~
+~
+0 0 14417
+S
+#14404
+{DGate Road{x~
+This is the main road connecting the north and south gates of Flotsam. 
+This wretched town was well named, for it lies upon the shores of the Blood
+Sea of Istar like the wreckage of a broken vessel tossed upon the rocks. 
+The dregs of most of the races of Krynn populate it.  Now, as a result of
+being occupied, draconians, goblins, and mercenaries now walk the filthy
+cobblestones.  This part of Gate road runs through Lower city: the shanty
+part of the town.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14403
+D2
+~
+~
+0 0 14405
+S
+#14405
+{DGate Road{x~
+Sailors and traders wander the streets here, while their ships are
+berthed, in search of beer, food, and entertainment.  Merchants also saunter
+by here, laughing as they head to one of the local pubs.  The cobblestone
+road is unkempt, almost to the point where it looks to be an earthly path. 
+Wooden structures and shacks line the street here, although there appears to
+be more homeless men and women sitting in the squalor than the amount of
+dilapidated buildings.  One can catch a glimpse of the bloody colored harbor
+to the east in the distance.  This also happens to be the intersection of
+Gate road and North Market street.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14404
+D1
+~
+~
+0 0 14505
+D2
+~
+~
+0 0 14406
+S
+#14406
+{DGate Road{x~
+Wooden shanties, that line the cobble-stoned road, keep the locals in
+filth and grime.  Most of the people who walk the streets are city guards,
+draconian guards and mercenaries hired as guards.  There seems to be no
+friendly faces in this port city that looks to be a shipwreck itself.  An
+unsavory smell of trash and foul language lingers the area about you. 
+Above, in the salt scented air flies a few seagulls, which seem to drift the
+lush ocean breeze; the only thing that keeps this place smelly better than a
+goblin.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14405
+D2
+~
+~
+0 0 14407
+S
+#14407
+{DGate Road{x~
+This is the main road connecting the north and south gates of Flotsam. 
+This wretched town was well named, for it lies upon the shores of the Blood
+Sea of Istar like the wreckage of a broken vessel tossed upon the rocks. 
+The dregs of most of the races of Krynn populate it.  Now, as a result of
+being occupied, draconians, goblins, and mercenaries now walk the filthy
+cobblestones.  This part of Gate road runs through Lower city: the shanty
+part of the town.  
+
+~
+0 262144 1
+D0
+~
+~
+0 0 14406
+D2
+~
+~
+0 0 14408
+S
+#14408
+{DGate Road{x~
+Sailors and traders wander the streets here, while their ships are
+berthed, in search of beer, food, and entertainment.  Merchants also saunter
+by here, laughing as they head to one of the local pubs.  The cobblestone
+road is unkempt, almost to the point where it looks to be an earthly path. 
+Wooden structures and shacks line the street here, although there appears to
+be more homeless men and women sitting in the squalor than the amount of
+dilapidated buildings.  One can catch a glimpse of the bloody colored harbor
+to the east in the distance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14407
+D2
+~
+~
+0 0 14409
+S
+#14409
+{DAn Intersection on Gate Road{X~
+Wooden shanties, that line the cobble-stoned road, keep the locals in
+filth and grime.  Most of the people who walk the streets are city guards,
+draconian guards and mercenaries hired as guards.  There seems to be no
+friendly faces in this port city that looks to be a shipwreck itself.  An
+unsavory smell of trash and foul language lingers the area about you. 
+Above, in the salt scented air flies a few seagulls, which seem to drift the
+lush ocean breeze; the only thing that keeps this place smelly better than a
+goblin.  This also happens to be the intersection between Lower City road
+and Gate road.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14408
+D2
+~
+~
+0 0 14410
+D3
+~
+~
+0 0 14433
+S
+#14410
+{DGate Road{x~
+This is the main road connecting the north and south gates of Flotsam. 
+This wretched town was well named, for it lies upon the shores of the Blood
+Sea of Istar like the wreckage of a broken vessel tossed upon the rocks. 
+The dregs of most of the races of Krynn populate it.  Now, as a result of
+being occupied, draconians, goblins, and mercenaries now walk the filthy
+cobblestones.  This part of Gate road runs through Lower city: the shanty
+part of the town.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14409
+D2
+~
+~
+0 0 14411
+S
+#14411
+{DGate Road{x~
+Sailors and traders wander the streets here, while their ships are
+berthed, in search of beer, food, and entertainment.  Merchants also saunter
+by here, laughing as they head to one of the local pubs.  The cobblestone
+road is unkempt, almost to the point where it looks to be an earthly path. 
+Wooden structures and shacks line the street here, although there appears to
+be more homeless men and women sitting in the squalor than the amount of
+dilapidated buildings.  One can catch a glimpse of the bloody colored harbor
+to the east in the distance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14410
+D2
+~
+~
+0 0 14412
+S
+#14412
+{DAn Intersection on Gate Road{X~
+Wooden shanties, that line the cobble-stoned road, keep the locals in
+filth and grime.  Most of the people who walk the streets are city guards,
+draconian guards and mercenaries hired as guards.  There seems to be no
+friendly faces in this port city that looks to be a shipwreck itself.  An
+unsavory smell of trash and foul language lingers the area about you. 
+Above, in the salt scented air flies a few seagulls, which seem to drift the
+lush ocean breeze; the only thing that keeps this place smelly better than a
+goblin.  This also happens to be the intersection between Seafarer drive and
+Gate road.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14411
+D2
+~
+~
+0 0 14413
+D3
+~
+~
+0 0 14448
+S
+#14413
+{DGate Road{x~
+This is the main road connecting the north and south gates of Flotsam. 
+This wretched town was well named, for it lies upon the shores of the Blood
+Sea of Istar like the wreckage of a broken vessel tossed upon the rocks. 
+The dregs of most of the races of Krynn populate it.  Now, as a result of
+being occupied, draconians, goblins, and mercenaries now walk the filthy
+cobblestones.  This part of Gate road runs through Lower city: the shanty
+part of the town.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14412
+D2
+~
+~
+0 0 14414
+S
+#14414
+{DGate Road{x~
+Sailors and traders wander the streets here, while their ships are
+berthed, in search of beer, food, and entertainment.  Merchants also saunter
+by here, laughing as they head to one of the local pubs.  The cobblestone
+road is unkempt, almost to the point where it looks to be an earthly path. 
+Wooden structures and shacks line the street here, although there appears to
+be more homeless men and women sitting in the squalor than the amount of
+dilapidated buildings.  One can catch a glimpse of the bloody colored harbor
+to the east in the distance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14413
+D1
+~
+~
+0 0 14453
+D2
+~
+~
+0 0 14415
+S
+#14415
+{DGate Road{x~
+Wooden shanties, that line the cobble-stoned road, keep the locals in
+filth and grime.  Most of the people who walk the streets are city guards,
+draconian guards and mercenaries hired as guards.  There seems to be no
+friendly faces in this port city that looks to be a shipwreck itself.  An
+unsavory smell of trash and foul language lingers the area about you. 
+Above, in the salt scented air flies a few seagulls, which seem to drift the
+lush ocean breeze; the only thing that keeps this place smelly better than a
+goblin.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14414
+D2
+~
+~
+0 0 14416
+S
+#14416
+{DSouthwest Gate of Flotsam{x~
+This is one of the three, ten foot, clay walled gates that lead into and
+out of the city of Flotsam.  Yet, just like Flotsam, the gate is crumbling
+and in need of repair.  Guards block the way as travelers of all races, try
+to either exit or enter the city.  On further inspection, this seems to be a
+routine that both the traveler and guard dislike a great deal.  People here,
+in general, are dirty and covered in rags, which can especially be seen with
+the children that get in the way of the many strangers that leave and enter
+the city, causing the oblivious parent worry.  To the south, lies the
+Verdant Plaines.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14415
+D2
+~
+~
+0 0 8781
+S
+#14417
+{DSea Breeze Avenue{x~
+This is a particularly small street, offering little protection from the
+harsh ocean wind, hence where its name originated.  This part of town
+doesn't seem to look so bad, mainly the farmers, who work outside the city
+walls are situated here for convenience.  The bloody glister of the blood
+sea can be seen reflecting off the sails of the numerous sea-faring vessels,
+heading in and out past the breakwaters, to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14403
+D3
+~
+~
+0 0 14418
+S
+#14418
+{DSea Breeze Avenue{x~
+The street here is remarkably cleaner than most of the main ones
+throughout Flotsam.  Perhaps this is due to the more merchant class people
+who subsist here.  Sea Breeze avenue is filled with domesticated animals
+running around with undomesticated children according to there parents. 
+This seems to be a rather nicer part of Lower City, yet in the alleyways
+between ancient wooden houses, there is a darkness that not even the animals
+dare enter into.  When the breeze picks up again, the soft rolling sound of
+the ocean can be heard faintly.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14417
+D3
+~
+~
+0 0 14419
+S
+#14419
+{DSea Breeze Avenue{x~
+This is a particularly small street, offering little protection from the
+harsh ocean wind, hence where its name originated.  This part of town
+doesn't seem to look so bad, mainly the farmers, who work outside the city
+walls are situated here for convenience.  The bloody glister of the blood
+sea can be seen reflecting off the sails of the numerous sea-faring vessels,
+heading in and out past the breakwaters, to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14418
+D3
+~
+~
+0 0 14420
+S
+#14420
+{DSea Breeze Avenue{x~
+The street here is remarkably cleaner than most of the main ones
+throughout Flotsam.  Perhaps this is due to the more merchant class people
+who subsist here.  Sea Breeze avenue is filled with domesticated animals
+running around with undomesticated children according to there parents. 
+This seems to be a rather nicer part of Lower City, yet in the alleyways
+between ancient wooden houses, there is a darkness that not even the animals
+dare enter into.  When the breeze picks up again, the soft rolling sound of
+the ocean can be heard faintly.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14419
+D3
+~
+~
+0 0 14421
+S
+#14421
+{DSea Breeze Avenue{x~
+This is a particularly small street, offering little protection from the
+harsh ocean wind, hence where its name originated.  This part of town
+doesn't seem to look so bad, mainly the farmers, who work outside the city
+walls are situated here for convenience.  The bloody glister of the blood
+sea can be seen reflecting off the sails of the numerous sea-faring vessels,
+heading in and out past the breakwaters, to the east.  To the south, is a
+cobbled road that leads into the heart of middle city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14420
+D2
+~
+~
+0 0 14424
+D3
+~
+~
+0 0 14422
+S
+#14422
+{DSea Breeze Avenue{x~
+The street here is remarkably cleaner than most of the main ones
+throughout Flotsam.  Perhaps this is due to the more merchant class people
+who subsist here.  Sea Breeze avenue is filled with domesticated animals
+running around with undomesticated children according to there parents. 
+This seems to be a rather nicer part of Lower City, yet in the alleyways
+between ancient wooden houses, there is a darkness that not even the animals
+dare enter into.  When the breeze picks up again, the soft rolling sound of
+the ocean can be heard faintly.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14421
+D3
+~
+~
+0 0 14423
+S
+#14423
+{DSea Breeze Avenue{x~
+This is a particularly small street, offering little protection from the
+harsh ocean wind, hence where its name originated.  This part of town
+doesn't seem to look so bad, mainly the farmers, who work outside the city
+walls are situated here for convenience.  The bloody glister of the blood
+sea can be seen reflecting off the sails of the numerous sea-faring vessels,
+heading in and out past the breakwaters, to the east.  The only exit is east
+because this appears to be the end of Sea Breeze avenue.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14422
+S
+#14424
+{DLower City Road{x~
+This appears to be the main thoroughfare of Lower City.  People eye you
+warily, whether out of curiosity or to prepare for a mobbing is not
+certain.  The dark alleyways, that line the space between wooden shanties,
+provide for and eerie ambiance.  Men stand in these shadows where generally
+the only things found there are rats, drunks, and dead bodies.  Yet, on the
+contrary, the middle of the road is filled with sailors, citizens, and
+mercenaries going their own separate ways; one most likely being a bar.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14421
+D2
+~
+~
+0 0 14425
+S
+#14425
+{DLower City Road{x~
+This part of the road stinks of death and decay as beggars eye the rotten
+food on the side of the road as steel.  This horrid scene of beggars and
+squalor appear to be natural things to the locals who can walk by without
+even giving one of these vagabonds a glance or thought.  Although the
+forlorn pleas for help are as loud as the cataclysm itself.  The smell
+momentarily goes away as a verdant sea gust blows by.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14424
+D2
+~
+~
+0 0 14426
+S
+#14426
+{DLower City Road{x~
+This part of the road stinks of death and decay as beggars eye the rotten
+food on the side of the road as steel.  This horrid scene of beggars and
+squalor appear to be natural things to the locals who can walk by without
+even giving one of these vagabonds a glance or thought.  Although the
+forlorn pleas for help are as loud as the cataclysm itself.  The smell
+momentarily goes away as a verdant sea gust blows by.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14425
+D2
+~
+~
+0 0 14427
+S
+#14427
+{DLower City Road{x~
+Shops of all sorts silhouette against the wooden shanties some call home.
+Trash, of any sort, is simply left on the side of the cobbled road here,
+bestowing the area with an un-tantalizing aroma.  A few drunks and drifters
+are just out of sight within the dark and ominous alleyways that seem to
+appear from nowhere.  The uproar of laugher and violence can be heard all
+around as sailors get to many shots of the local specialty under their
+belts.  A little road that travels along side the crumbling clay walls of
+Flotsam is to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14426
+D1
+~
+~
+0 0 14428
+D3
+~
+~
+0 0 14434
+S
+#14428
+{DLower City Road{x~
+This appears to be the main thoroughfare of Lower City.  People eye you
+warily, whether out of curiosity or to prepare for a mobbing is not certain.
+The dark alleyways, that line the space between wooden shanties, provide for
+and eerie ambiance.  Men stand in these shadows where generally the only
+things found there are rats, drunks, and dead bodies.  Yet, on the contrary,
+the middle of the road is filled with sailors, citizens, and mercenaries
+going their own separate ways; one most likely being a bar.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14429
+D3
+~
+~
+0 0 14427
+S
+#14429
+{DLower City Road{x~
+This part of the road stinks of death and decay as beggars eye the rotten
+food on the side of the road as steel.  This horrid scene of beggars and
+squalor appear to be natural things to the locals who can walk by without
+even giving one of these vagabonds a glance or thought.  Although the
+forlorn pleas for help are as loud as the cataclysm itself.  The smell
+momentarily goes away as a verdant sea gust blows by.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14430
+D2
+~
+~
+0 0 14550
+D3
+~
+~
+0 0 14428
+S
+#14430
+{DLower City Road{x~
+Shops of all sorts silhouette against the wooden shanties some call home.
+Trash, of any sort, is simply left on the side of the cobbled road here,
+bestowing the area with an un-tantalizing aroma.  A few drunks and drifters
+are just out of sight within the dark and ominous alleyways that seem to
+appear from nowhere.  The uproar of laugher and violence can be heard all
+around as sailors get to many shots of the local specialty under their
+belts.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14431
+D3
+~
+~
+0 0 14429
+S
+#14431
+{DLower City Road{x~
+This appears to be the main thoroughfare of Lower City.  People eye you
+warily, whether out of curiosity or to prepare for a mobbing is not certain.
+The dark alleyways, that line the space between wooden shanties, provide for
+and eerie ambiance.  Men stand in these shadows where generally the only
+things found there are rats, drunks, and dead bodies.  Yet, on the contrary,
+the middle of the road is filled with sailors, citizens, and mercenaries
+going their own separate ways; one most likely being a bar.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14430
+D2
+~
+~
+0 0 14432
+S
+#14432
+{DLower City Road{x~
+This part of the road stinks of death and decay as beggars eye the rotten
+food on the side of the road as steel.  This horrid scene of beggars and
+squalor appear to be natural things to the locals who can walk by without
+even giving one of these vagabonds a glance or thought.  Although the
+forlorn pleas for help are as loud as the cataclysm itself.  The smell
+momentarily goes away as a verdant sea gust blows by.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14431
+D1
+~
+~
+0 0 14433
+S
+#14433
+{DLower City Road{x~
+Shops of all sorts silhouette against the wooden shanties some call home.
+Trash, of any sort, is simply left on the side of the cobbled road here,
+bestowing the area with an un-tantalizing aroma.  A few drunks and drifters
+are just out of sight within the dark and ominous alleyways that seem to
+appear from nowhere.  The uproar of laugher and violence can be heard all
+around as sailors get to many shots of the local specialty under their
+belts.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14409
+D3
+~
+~
+0 0 14432
+S
+#14434
+{DWest Wall Road{x~
+This road leads along western clay wall of the city.  There is not much
+to see here; just a few wooden shanties scattered about, and a ten-foot wall
+that now lays crumbling like most of the city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14427
+D3
+~
+~
+0 0 14435
+S
+#14435
+{DWest Wall Road{x~
+The walls the run along the west part of the city give off a dried-up
+clay smell here as it lies degenerating.  A few merchants briskly walk by
+here, presumably on their way to the market towards the middle part of the
+city along the harbor.  The dirt road here is surrounded by tall grass,
+because there are no structures obstructing its growth.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14434
+D3
+~
+~
+0 0 14436
+S
+#14436
+{DWest Wall Road{x~
+The filthy side road here is encircled by tall grass here, because there
+are no edifices impeding its growth.  A few wooden shanties and farmers
+permeate the area about you; as well as an unpleasant odor of mixed smells. 
+~
+0 262144 1
+D1
+~
+~
+0 0 14435
+D2
+~
+~
+0 0 14437
+S
+#14437
+{DWest Wall Road{x~
+This road leads along western clay wall of the city.  There is not much
+to see here; just a few wooden shanties scattered about, and a ten-foot wall
+that now lays crumbling like most of the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14436
+D2
+~
+~
+0 0 14438
+S
+#14438
+{DWest Wall Road{x~
+The wall that runs along the west part of the city gives off an odor of
+dried-up clay as it stands here degenerating.  A few merchants briskly walk
+by here, presumably on their way to the market towards the middle part of
+the city along the harbor.  The dirt road here is surrounded by tall grass,
+because there are no structures obstructing its growth.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14437
+D2
+~
+~
+0 0 14439
+D3
+~
+~
+0 0 14549
+S
+#14439
+{DWest Wall Road{x~
+The filthy side road here is encircled by tall grass here, because there
+are no edifices impeding its growth.  A few wooden shanties and farmers
+permeate the area about you; as well as an unpleasant odor of mixed smells. 
+~
+0 262144 1
+D0
+~
+~
+0 0 14438
+D2
+~
+~
+0 0 14440
+S
+#14440
+{DWest Wall Road{x~
+This road leads along western clay wall of the city.  There is not much
+to see here; just a few wooden shanties scattered about, and a ten-foot wall
+that now lies crumbling like most of the city.  To the south, there appears
+to be an intersection of some sort.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14439
+D2
+~
+~
+0 0 14441
+S
+#14441
+{DSeafarer Drive{x~
+Seafarer drive is the main residential area in Lower City.  Sailors,
+merchants, thieves, thatches, vagabonds, and drunks usually inhabit it in
+one way or the other.  The houses on this street are two stories with round
+windows and barn-shaped roofs.  Some of the houses even have wooden dinghies
+leaning up against the side of them, with the names of their respective
+ships carved into the aft part of the craft.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14440
+D1
+~
+~
+0 0 14442
+S
+#14442
+{DSeafarer Drive{x~
+Being the residential part of Lower City, Seafarer drive is home to some
+of the most scrupulous people that inhabit the lands of Krynn.  Looking
+around, one can see human sailors, goblin mercenaries, and even a few kender
+travelers, though the kender seem to cause tension in the street as the
+merchants carefully put their hands over their money pouches.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14443
+D2
+~
+~
+0 0 14548
+D3
+~
+~
+0 0 14441
+S
+#14443
+{DSeafarer Drive{x~
+This appears to be the main thoroughfare of the residential district in
+Lower City.  The middle of the road is filled with sailors, citizens, and
+mercenaries going their own separate ways; one most likely being a bar.  The
+abodes on this street are two stories high, with circular windows and
+hangar-shaped roofs.  There is also a distinct smell of salted fish in the
+air, but the were it emanating from is not certain.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14444
+D3
+~
+~
+0 0 14442
+S
+#14444
+{DAn Intersection{x~
+This appears to be the intersection of Seafarer Drive and a small lane. 
+In the middle of the road, there is a small fountain inscribed with the
+symbol of some god long forgotten about.  The traveler may go in any
+cardinal direction here as he, or she, wishes.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14449
+D1
+~
+~
+0 0 14445
+D2
+~
+~
+0 0 14451
+D3
+~
+~
+0 0 14443
+S
+#14445
+{DSeafarer Drive{x~
+Being the residential part of Lower City, Seafarer drive is home to some
+of the most scrupulous people that inhabit the lands of Krynn.  Looking
+around, one can see human sailors, goblin mercenaries, and even a few kender
+travelers, though the kender seem to cause tension in the street as the
+merchants carefully put their hands over their money pouches.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14446
+D3
+~
+~
+0 0 14444
+S
+#14446
+{DSeafarer Drive{x~
+Seafarer drive is the main residential area in Lower City.  Sailors,
+merchants, thieves, thatches, vagabonds, and drunks usually inhabit it in
+one way or the other.  The houses on this street are two stories with round
+windows and barn-shaped roofs.  Some of the houses even have wooden dinghies
+leaning up against the side of them, with the names of their respective
+ships carved into the aft part of the craft.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14447
+D3
+~
+~
+0 0 14445
+S
+#14447
+{DSeafarer Drive{x~
+This appears to be the main thoroughfare of the residential district in
+Lower City.  The middle of the road is filled with sailors, citizens, and
+mercenaries going their own separate ways; one most likely being a bar.  The
+abodes on this street are two stories high, with circular windows and
+hangar-shaped roofs.  There is also a distinct smell of salted fish in the
+air, but the were it emanating from is not certain.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14448
+D3
+~
+~
+0 0 14446
+S
+#14448
+{DSeafarer Drive{x~
+Seafarer drive is the main residential area in Lower City.  Sailors,
+merchants, thieves, thatches, vagabonds, and drunks usually inhabit it in
+one way or the other.  The houses on this street are two stories with round
+windows and barn-shaped roofs.  Some of the houses even have wooden dinghies
+leaning up against the side of them, with the names of their respective
+ships carved into the aft part of the craft.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14412
+D3
+~
+~
+0 0 14447
+S
+#14449
+{DGarden Lane{x~
+This is a very diminutive road that leads in between houses to get to the
+tiny park at the center of Lower City.  The area is poorly lit due to the
+colonial style residences looming above blocking out any form of light.  A
+couple of shady characters dressed in long cloaks lean up against the side
+of a dwelling, eyeing you at your presence.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14450
+D2
+~
+~
+0 0 14444
+S
+#14450
+{gA Garden{x~
+This small, yet beautiful, park is filled with lofty trees, eclectic
+bushes and small ponds.  It appears to be the only place that one might
+enjoy outdoors in Flotsam.  The fresh sea air whisks by here, cleansing the
+area of the squalid odor that Flotsam seems to be infected by.  A few birds and
+animals can be seen on the prowl here as well.  The flora and fauna here
+are remarkably taken care of; it's the one of the only areas that the
+citizens of Flotsam seem to care about.  
+~
+0 0 0
+D2
+~
+~
+0 0 14449
+S
+#14451
+{DGarden Lane{x~
+This is the only lane, which runs through Lower City, allowing visitors
+and citizens to visit the sole park in all of Flotsam.  The cobblestone
+beneath your feet seems to be preserved because few ever journeyed to the
+garden itself.  The lane leads both north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14444
+D2
+~
+~
+0 0 14452
+S
+#14452
+{DGarden Lane{x~
+This is a very diminutive road that leads in between houses to get to the
+tiny park at the center of Lower City.  The area is poorly lit due to the
+colonial style residences looming above blocking out any form of light.  A
+couple of shady characters dressed in long cloaks lean up against the side
+of a dwelling, eyeing you at your presence.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14451
+S
+#14453
+{DMain Street{x~
+This cobblestone road acts as the main passage throughout the entire
+Wharf District of Flotsam.  Sailors and traders wander the streets here,
+while their ships are berthed, in search of beer, food, and entertainment. 
+Merchants also saunter by here, laughing as they head to one of the local
+pubs.  In the distance, ships of all sizes, be it a dinghy or a galleon, can
+be seen in the harbor.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14454
+D3
+~
+~
+0 0 14414
+S
+#14454
+{DMain Street{x~
+This part of the street is festooned with shops of all sorts.  On closer
+inspection, the shops are just a place for sailors to sell their imported
+treasures and assorted fishes; and this seems to be the main cause of the
+horrible fish odor that lingers here.  A few travelers are here trying to
+find the best deal for their money.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14455
+D3
+~
+~
+0 0 14453
+S
+#14455
+{DMain Street{x~
+Most of the people who walk the streets here are city guards, draconian
+guards and mercenaries hired as guards.  There seems to be no friendly
+faces in this port city that looks to be a shipwreck itself.  The only
+calming sight is the harbor in the distance, providing the traveler with a
+cool sea breeze once in a while.  A few carts are wandering down the streets
+here with the new batch of produce loaded off some of the taller schooners
+docked at Flotsam .  
+~
+0 262144 1
+D1
+~
+~
+0 0 14456
+D3
+~
+~
+0 0 14454
+S
+#14456
+{DMain Street{x~
+Main Street appears to be the largest street in the city, providing easy
+access between the southeast and southwest gates.  Once a thriving port
+city, it was over run by crime and squalor when the draconian armies marched
+into it.  Most of the shops along the road here are closed and shut down.
+only the local bars seem to thrive off of the thirst of the armies.  This is
+also the intersection of Main Street and Market Street.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14494
+D1
+~
+~
+0 0 14457
+D2
+~
+~
+0 0 14469
+D3
+~
+~
+0 0 14455
+S
+#14457
+{DMain Street{x~
+This appears to be the main thoroughfare of the Wharf District.  People
+eye you warily, whether out of curiosity, or preparing for a mobbing
+is not certain.  The dark alleyways, that line the space between wooden
+shops, provide for and eerie ambiance.  The middle of the road is filled
+with sailors, citizens, and mercenaries going their own separate ways; one
+most likely being a bar.  A strong ocean breeze picks up as you walk by,
+causing the dirt between the cobbles to kick up.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14458
+D3
+~
+~
+0 0 14456
+S
+#14458
+{DMain Street{x~
+This cobblestone road acts as the main passage throughout the entire
+Wharf District of Flotsam.  Sailors and traders wander the streets here,
+while their ships are berthed, in search of beer, food, and entertainment. 
+Merchants also saunter by here, laughing as they head to one of the local
+pubs.  In the distance, ships of all sizes, be it a dinghy or a galleon, can
+be seen in the harbor.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14459
+D3
+~
+~
+0 0 14457
+S
+#14459
+{DMain Street{x~
+This part of the street is festooned with shops of all sorts.  On closer
+inspection, the shops are just a place for sailors to sell their imported
+treasures and assorted fishes; and this seems to be the main cause of the
+horrible fish odor that lingers here.  A few travelers are here trying to
+find the best deal for their money.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14460
+D3
+~
+~
+0 0 14458
+S
+#14460
+{DMain Street{x~
+Most of the people who walk the streets here are city guards, draconian
+guards and mercenaries hired as guards.  There seems to be no friendly
+faces in this port city that looks to be a shipwreck itself.  The only
+calming sight is the harbor in the distance, providing the traveler with a
+cool sea breeze once in a while.  A few carts are wandering down the streets
+here with the new batch of produce loaded off some of the taller schooners
+docked at Flotsam .  
+~
+0 262144 1
+D1
+~
+~
+0 0 14461
+D2
+~
+~
+0 0 14545
+D3
+~
+~
+0 0 14459
+S
+#14461
+{DMain Street{x~
+Main Street appears to be the largest street in the city, providing easy
+access between the southeast and southwest gates.  Once a thriving port
+city, it was over run by crime and squalor when the draconian armies marched
+into it.  Most of the shops along the road here are closed and shut down.
+Only the local bars seem to thrive off of the thirst of the armies.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14462
+D3
+~
+~
+0 0 14460
+S
+#14462
+{DMain Street{x~
+This appears to be the main thoroughfare of the Wharf District.  People
+eye you warily; whether out of curiosity, or preparing for a mobbing
+is not certain.  The dark alleyways, that line the space between wooden
+shops, provide for and eerie ambiance.  The middle of the road is filled
+with sailors, citizens, and mercenaries going their own separate ways; one
+most likely being a bar.  A strong ocean breeze picks up as you walk by,
+causing the dirt between the cobbles to kick up.  A dark alleyway opens up
+to the south from here.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14463
+D2
+~
+~
+0 0 14491
+D3
+~
+~
+0 0 14461
+S
+#14463
+{DMain Street{x~
+This cobblestone road acts as the main passage throughout the entire
+Wharf District of Flotsam.  Sailors and traders wander the streets here,
+while their ships are berthed, in search of beer, food, and entertainment. 
+Merchants also saunter by here, laughing as they head to one of the local
+pubs.  In the distance, ships of all sizes, be it a dinghy or a galleon, can
+be seen in the harbor.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14464
+D3
+~
+~
+0 0 14462
+S
+#14464
+{DMain Street{x~
+This part of the street is festooned with shops of all sorts.  On closer
+inspection, the shops are just a place for sailors to sell their imported
+treasures and assorted fishes; and this seems to be the main cause of the
+horrible fish odor that lingers here.  A few travelers are here trying to
+find the best deal for their money.  A small lane jots off to the north from
+this point in the street as well.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14530
+D1
+~
+~
+0 0 14465
+D3
+~
+~
+0 0 14463
+S
+#14465
+{DMain Street{x~
+Most of the people who walk the streets here are city guards, draconian
+guards and mercenaries hired as guards.  There seems to be no friendly
+faces in this port city that looks to be a shipwreck itself.  The only
+calming sight is the harbor in the distance, providing the traveler with a
+cool sea breeze once in a while.  A few carts are wandering down the streets
+here with the new batch of produce loaded off some of the taller schooners
+docked at Flotsam .  
+~
+0 262144 1
+D1
+~
+~
+0 0 14466
+D3
+~
+~
+0 0 14464
+S
+#14466
+{DMain Street{x~
+Main Street appears to be the largest street in the city, providing easy
+access between the southeast and southwest gates.  Once a thriving port
+city, it was over run by crime and squalor when the draconian armies marched
+into it.  Most of the shops along the road here are closed and shut down.
+Only the local bars seem to thrive off of the thirst of the armies.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14467
+D3
+~
+~
+0 0 14465
+S
+#14467
+{DMain Street{x~
+This appears to be the main thoroughfare of the Wharf District.  People
+eye you warily; whether out of curiosity, or preparing for a mobbing
+is not certain.  The dark alleyways, that line the space between wooden
+shops, provide for and eerie ambiance.  The middle of the road is filled
+with sailors, citizens, and mercenaries going their own separate ways; one
+most likely being a bar.  A strong ocean breeze picks up as you walk by,
+causing the dirt between the cobbles to kick up.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14531
+D1
+~
+~
+0 0 14468
+D3
+~
+~
+0 0 14466
+S
+#14468
+{DMain Street{x~
+This cobblestone road acts as the main passage throughout the entire
+Wharf District of Flotsam.  Sailors and traders wander the streets here,
+while their ships are berthed, in search of beer, food, and entertainment. 
+Merchants also saunter by here, laughing as they head to one of the local
+pubs.  In the distance, ships of all sizes, be it a dinghy or a galleon, can
+be seen in the harbor.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14490
+D3
+~
+~
+0 0 14467
+S
+#14469
+{DSouth Market Street{x~
+This is a continuation of North Market Street that leads trough the lower
+half of the Wharf District of Flotsam.  There is a mix of taverns,
+dwellings, drunks, and warehouses along this partly cobbled road.  In the
+vicinity of one of the shops, there is a distinct aroma: one of rotten fish
+and ash.  Flotsam's Harbor can hardly be seen trough all the dilapidated
+structures.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14456
+D2
+~
+~
+0 0 14470
+S
+#14470
+{DSouth Market Street{x~
+Surprisingly, there is no one strolling down this part of the street,
+which creates an ominous mood all about.  An unsavory smell of trash and
+foul language lingers in the area about you.  Above, in the salt scented
+air, flies a few seagulls, which seem to drift in the lush ocean breeze; the
+only thing that keeps this place smelly better than a goblin.  To the side,
+shadowy alleyways run behind the buildings creating series of dark
+passageways to all the shops in the district.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14469
+D1
+~
+~
+0 0 14547
+D2
+~
+~
+0 0 14471
+S
+#14471
+{DSouth Market Street{x~
+The cobblestone beneath your feet is stained with time and occasionally a
+little blood.  Although this will disappear when the rain comes and washes
+it away; similar to how the people disappear when the guards get irritated. 
+~
+0 262144 1
+D0
+~
+~
+0 0 14470
+D2
+~
+~
+0 0 14472
+S
+#14472
+{DSouth Market Street{x~
+The cobblestone road here in Wharf District is disheveled, almost to the
+point where it looks to be an earthly path.  Wooden structures and shacks
+line the street here, although there appears to be more homeless men and
+women sitting in the squalor than the amount of dilapidated buildings. 
+Sailors and traders wander the streets here, while their ships are berthed,
+in search of beer, food, and entertainment.  One can catch a glimpse of the
+bloody colored harbor, where lofty ships are docked, to the north in the
+distance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14471
+D1
+~
+~
+0 0 14473
+S
+#14473
+{DSouth Market Street{x~
+South Market Street travels along the southern clay wall of Flotsam.  It
+is one of the two boulevards that run through the Wharf District; the other,
+being Main Street, runs parallel to this one along the harbor.  There is
+nothing here except a horde of decrepit lodgings and a horde of ruthless
+city guards.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14474
+D3
+~
+~
+0 0 14472
+S
+#14474
+{DSouth Market Street{x~
+This is a continuation of North Market Street that leads trough the lower
+half of the Wharf District of Flotsam.  There is a mix of taverns,
+dwellings, drunks, and warehouses along this partly cobbled road.  In the
+vicinity of one of the shops, there is a distinct aroma: one of rotten fish
+and ash.  Flotsam's Harbor can hardly be seen trough all the dilapidated
+structures.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14475
+D3
+~
+~
+0 0 14473
+S
+#14475
+{DSouth Market Street{x~
+Surprisingly, there is no one strolling down this part of the street,
+which creates an ominous mood all about.  An unsavory smell of trash and
+foul language lingers in the area about you.  Above, in the salt scented
+air, flies a few seagulls, which seem to drift in the lush ocean breeze; the
+only thing that keeps this place smelly better than a goblin.  To the side,
+shadowy alleyways run behind the buildings creating series of dark
+passageways to all the shops in the district.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14476
+D3
+~
+~
+0 0 14474
+S
+#14476
+{DSouth Market Street{x~
+The cobblestone beneath your feet is stained with time and occasionally a
+little blood.  Although this will disappear when the rain comes and washes
+it away; similar to how the people disappear when the guards get irritated. 
+~
+0 262144 1
+D1
+~
+~
+0 0 14477
+D3
+~
+~
+0 0 14475
+S
+#14477
+{DSouth Market Street{x~
+The cobblestone road here in Wharf District is disheveled, almost to the
+point where it looks to be an earthly path.  Wooden structures and shacks
+line the street here, although there appears to be more homeless men and
+women sitting in the squalor than the amount of dilapidated buildings. 
+Sailors and traders wander the streets here, while their ships are berthed,
+in search of beer, food, and entertainment.  One can catch a glimpse of the
+bloody colored harbor, where lofty ships are docked, to the north in the
+distance.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14478
+D3
+~
+~
+0 0 14476
+S
+#14478
+{DSouth Market Street{x~
+South Market Street travels along the southern clay wall of Flotsam.  It
+is one of the two boulevards that run through the Wharf District; the other,
+being Main Street, runs parallel to this one along the harbor.  There is
+nothing here except a horde of decrepit lodgings and a horde of ruthless
+city guards.  To the north, there is a large and dark alleyway.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14493
+D1
+~
+~
+0 0 14479
+D3
+~
+~
+0 0 14477
+S
+#14479
+{DSouth Market Street{x~
+This is a continuation of North Market Street that leads trough the lower
+half of the Wharf District of Flotsam.  There is a mix of taverns,
+dwellings, drunks, and warehouses along this partly cobbled road.  In the
+vicinity of one of the shops, there is a distinct aroma: one of rotten fish
+and ash.  Flotsam's Harbor can hardly be seen trough all the dilapidated
+structures.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14480
+D3
+~
+~
+0 0 14478
+S
+#14480
+{DSouth Market Street{x~
+Surprisingly, there is no one strolling down this part of the street,
+which creates an ominous mood all about.  An unsavory smell of trash and
+foul language lingers in the area about you.  Above, in the salt scented
+air, flies a few seagulls, which seem to drift in the lush ocean breeze; the
+only thing that keeps this place smelly better than a goblin.  To the side,
+shadowy alleyways run behind the buildings creating series of dark
+passageways to all the shops in the district.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14481
+D3
+~
+~
+0 0 14479
+S
+#14481
+{DSouth Market Street{x~
+The cobblestone beneath your feet is stained with time and occasionally a
+little blood.  Although this will disappear when the rain comes and washes
+it away; similar to how the people disappear when the guards get irritated. 
+~
+0 262144 1
+D1
+~
+~
+0 0 14482
+D3
+~
+~
+0 0 14480
+S
+#14482
+{DSouth Market Street{x~
+The cobblestone road here in Wharf District is disheveled, almost to the
+point where it looks to be an earthly path.  Wooden structures and shacks
+line the street here, although there appears to be more homeless men and
+women sitting in the squalor than the amount of dilapidated buildings. 
+Sailors and traders wander the streets here, while their ships are berthed,
+in search of beer, food, and entertainment.  One can catch a glimpse of the
+bloody colored harbor, where lofty ships are docked, to the north in the
+distance.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14483
+D3
+~
+~
+0 0 14481
+S
+#14483
+{DSouth Market Street{x~
+South Market Street travels along the southern clay wall of Flotsam.  It
+is one of the two boulevards that run through the Wharf District; the other,
+being Main Street, runs parallel to this one along the harbor.  There is
+nothing here except a horde of decrepit lodgings and a horde of ruthless
+city guards.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14484
+D3
+~
+~
+0 0 14482
+S
+#14484
+{DSouth Market Street{x~
+This is a continuation of North Market Street that leads trough the lower
+half of the Wharf District of Flotsam.  There is a mix of taverns,
+dwellings, drunks, and warehouses along this partly cobbled road.  In the
+vicinity of one of the shops, there is a distinct aroma: one of rotten fish
+and ash.  Flotsam's Harbor can hardly be seen trough all the dilapidated
+structures.  To the west, Market Street ends by intersecting Harbor Lane.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14485
+D3
+~
+~
+0 0 14483
+S
+#14485
+{DHarbor Lane{x~
+This small, yet sufficient, dirt road connects is one of the only few
+roads that connects the harbor and the outside world.  A few sailors and
+travelers walk the street here, but not many.  This is more of the quiet
+side of Flotsam, all the signs of city life dwell in lower city and the
+market place.  To the west, there appears to be a large cobbled road.  
+~
+0 0 1
+D0
+~
+~
+0 0 14488
+D2
+~
+~
+0 0 14486
+D3
+~
+~
+0 0 14484
+S
+#14486
+{DHarbor Lane{x~
+This small, yet sufficient, dirt road connects is one of the only few
+roads that connects the harbor and the outside world.  A few sailors and
+travelers walk the street here, but not many.  This is more of the quiet
+side of Flotsam, all the signs of city life dwell in lower city and the
+market place.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14485
+D2
+~
+~
+0 0 14487
+S
+#14487
+{DSouth-east Gate of Flotsam{x~
+This is one of the three, ten foot, clay walled gates that lead into and
+out of the city of Flotsam.  Yet, just like Flotsam, the gate is crumbling
+and in need of repair.  Guards block the way as travelers of all races, try
+to either exit or enter the city.  On further inspection, this seems to be a
+routine that both the traveler and guard dislike a great deal.  People here,
+in general, are dirty and covered in rags, which can especially be seen with
+the children that get in the way of the many strangers that leave and enter
+the city, causing the oblivious parent worry.  
+~
+0 0 0
+D0
+~
+~
+0 0 14486
+S
+#14488
+{DHarbor Lane{x~
+This small, yet sufficient, dirt road connects is one of the only few
+roads that connects the harbor and the outside world.  A few sailors and
+travelers walk the street here, but not many.  This is more of the quiet
+side of Flotsam, all the signs of city life dwell in lower city and the
+market place.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14489
+D2
+~
+~
+0 0 14485
+S
+#14489
+{DHarbor Lane{x~
+This small, yet sufficient, dirt road connects is one of the only few
+roads that connects the harbor and the outside world.  A few sailors and
+travelers walk the street here, but not many.  This is more of the quiet
+side of Flotsam, all the signs of city life dwell in lower city and the
+market place.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14490
+D2
+~
+~
+0 0 14488
+S
+#14490
+{DHarbor Lane{x~
+Harbor lane either ends here or begins here depending on how you look at
+it (and which way you are traveling).  To the north, one can see Headland,
+or the peninsula of the city that juts out into the harbor.  To the south,
+there appears to be more housing and a large gate in the crumbling wall. 
+The only exits are north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14468
+D2
+~
+~
+0 0 14489
+S
+#14491
+{DA Dark Alley{X~
+Darkness surrounds almost everything in this dark and dismal alley. 
+Sounds of muffled screams and dangling blades can be heard through the
+passage.  The faint outline of people can be seen farther in, yet they could
+just be shadows as well.  
+~
+0 0 0
+D0
+~
+~
+0 0 14462
+D2
+~
+~
+0 0 14492
+S
+#14492
+{DA Dark Alley{X~
+Only the darkness of the void can compete with this part of the old
+alleyway.  Even darker, shadows move all around your position, creating an
+evil omnipresence all around.  It would be BEST to keep on moving along,
+because who knows what evil lurks in those gloomy shadows.  
+~
+0 0 0
+D0
+~
+~
+0 0 14491
+D2
+~
+~
+0 0 14493
+S
+#14493
+{DA Dark Alley{X~
+Darkness surrounds almost everything in this dark and dismal alley. 
+Sounds of muffled screams and dangling blades can be heard through the
+passage.  The faint outline of people can be seen farther in, yet they could
+just be shadows as well.  
+~
+0 0 0
+D0
+~
+~
+0 0 14492
+D2
+~
+~
+0 0 14478
+S
+#14494
+{DNorth Market Street{x~
+North Market Street is the main route to the enormous market place in the
+center of Flotsam.  Oceans of merchants, traders, and outlawed kender take
+to this street every morning either to stumble upon a good deal or to sell
+something at an outrageous price.  The harbor, with its blood-colored
+waters, can be seen to the east from here, providing the traveler with
+insight of just how large this port city is.  On estimate, it's twice as
+large as Palanthas.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14495
+D2
+~
+~
+0 0 14456
+S
+#14495
+{DNorth Market Street{x~
+The sounds of the marketplace close by, chime out.  The perpetual
+bustling of people moving from shop to shop slowly becomes louder. 
+Merchants and sailors stagger through the streets here while looking for a
+meal and a good drink.  The wealthier merchants can be seen accusing
+"innocent" kender of stealing their money pouches and trinkets - how rude! 
+They appear to only be borrowing the items 
+~
+0 262144 1
+D0
+~
+~
+0 0 14496
+D2
+~
+~
+0 0 14494
+S
+#14496
+{DNorth Market Street{x~
+The cobblestone street here in the center of the town is on its last
+legs, almost to the point where it looks to be a dusty path.  Timbered
+structures and huts line the street here, making the area into a sort of
+residential area.  Sailors and traders wander the streets here, while their
+ships are berthed, in search of beer, food, and entertainment.  One can
+catch a glimpse of the bloody colored harbor, where lofty ships are docked,
+to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14497
+D2
+~
+~
+0 0 14495
+S
+#14497
+{DThe Market Place{x~
+The market place here is filled with merchants upon merchants either
+trying to swindle you or trying to stay ahead of the competition.  Mainly
+citizens and sailors roam the streets, but occasionally a few kender as
+well, which often cause alarm among the purveyors and patrons.  The harbor
+can be seen from the east here with its ruby-red waters.  
+~
+0 0 1
+D0
+~
+~
+0 0 14498
+D1
+~
+~
+0 0 14507
+D2
+~
+~
+0 0 14496
+D3
+~
+~
+0 0 14506
+S
+#14498
+{DThe Market Place{x~
+This part of the market is a little less noisy than the rest, probably on
+the account that it is filled with shady merchants dealing with weapons and
+arcane objects.  Crates upon crates lie scattered about, as if they were
+just unloaded off a ship and its contents waiting to be exchanged for gold
+and steel.  
+~
+0 0 1
+D0
+~
+~
+0 0 14499
+D1
+~
+~
+0 0 14510
+D2
+~
+~
+0 0 14497
+D3
+~
+~
+0 0 14509
+S
+#14499
+{DThe Market Place{x~
+The hustle and bustle of traders and shoppers continues on all day until
+the last customer leaves, which could be never.  The sounds of laughter,
+bartering and singing fill the air.  Large crowds of people from all over
+Krynn, have come here to the great city of Flotsam.  Although the market is
+in the open air, one can smell the strong scent of fish all around.
+However, this is very typical of a port city.  
+~
+0 0 1
+D0
+~
+~
+0 0 14500
+D1
+~
+~
+0 0 14513
+D2
+~
+~
+0 0 14498
+D3
+~
+~
+0 0 14512
+S
+#14500
+{DNorth Market Street{x~
+Billowing sails can be seen entering the port to the east while ocean
+waves can be heard pounding the shores beneath a wooden boardwalk.  The
+salty scent of the sea fills the air and adds to the stench of the city. 
+The road continues further on to the market place where imports of all kinds
+can be purchased.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14501
+D2
+~
+~
+0 0 14499
+S
+#14501
+{DNorth Market Street{x~
+North Market Street is the main route to the enormous market place in the
+center of Flotsam.  Oceans of merchants, traders, and outlawed kender take
+to this street every morning either to stumble upon a good deal or to sell
+something at an outrageous price.  The harbor, with its blood-colored
+waters, can be seen to the east from here, providing the traveler with
+insight of just how large this port city is.  On estimate, it's twice as
+large as Palanthas.  To the east, there is a small sandy path leading to the
+edge of the harbor.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14502
+D1
+~
+~
+0 0 14515
+D2
+~
+~
+0 0 14500
+S
+#14502
+{DNorth Market Street{x~
+The sounds of the marketplace close by, chime out.  The perpetual
+bustling of people moving from shop to shop slowly becomes louder. 
+Merchants and sailors stagger through the streets here while looking for a
+meal and a good drink.  The wealthier merchants can be seen accusing
+"innocent" kender of stealing their money pouches and trinkets - how rude! 
+They appear to only be borrowing the items 
+~
+0 262144 1
+D2
+~
+~
+0 0 14501
+D3
+~
+~
+0 0 14503
+S
+#14503
+{DNorth Market Street{x~
+The cobblestone street here in the center of the town is on its last
+legs, almost to the point where it looks to be a dusty path.  Timbered
+structures and huts line the street here, making the area into a sort of
+residential area.  Sailors and traders wander the streets here, while their
+ships are berthed, in search of beer, food, and entertainment.  One can
+catch a glimpse of the bloody colored harbor, where lofty ships are docked,
+to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14502
+D3
+~
+~
+0 0 14504
+S
+#14504
+{DNorth Market Street{x~
+Billowing sails can be seen entering the port to the east while ocean
+waves can be heard pounding the shores beneath a wooden boardwalk.  The
+salty scent of the sea fills the air and adds to the stench of the city. 
+The road continues further on to the market place where imports of all kinds
+can be purchased.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14503
+D3
+~
+~
+0 0 14505
+S
+#14505
+{DNorth Market Street{x~
+North Market Street is the main route to the enormous market place in the
+center of Flotsam.  Oceans of merchants, traders, and outlawed kender take
+to this street every morning either to stumble upon a good deal or to sell
+something at an outrageous price.  The harbor, with its blood-colored
+waters, can be seen to the east from here, providing the traveler with
+insight of just how large this port city is.  On estimate, it's twice as
+large as Palanthas.  
+~
+0 0 0
+D1
+~
+~
+0 0 14504
+D3
+~
+~
+0 0 14405
+S
+#14506
+{DThe Market Place{x~
+This part of the market is a little less noisy than the rest, probably on
+the account that it is filled with shady merchants dealing with weapons and
+arcane objects.  Crates upon crates lie scattered about, as if they were
+just unloaded off a ship and its contents waiting to be exchanged for gold
+and steel.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14509
+D1
+~
+~
+0 0 14497
+S
+#14507
+{DThe Market Place{x~
+The hustle and bustle of traders and shoppers continues on all day until
+the last customer leaves, which could be never.  The sounds of laughter,
+bartering and singing fill the air.  Large crowds of people from all over
+Krynn, have come here to the great city of Flotsam.  Although the market is
+in the open air, one can smell the strong scent of fish all around.
+However, this is very typical of a port city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14510
+D1
+~
+~
+0 0 14508
+D3
+~
+~
+0 0 14497
+S
+#14508
+{DThe Market Place{x~
+Venders and shoppers surround you, as business continues on all hours of
+the day.  Here amongst the bustling crowd of traders, citizens, kender and
+just ordinary shoppers, you find yourself amidst the center of the market in
+Flotsam.  The loud sounds of people of all races making offers on purchases
+ranging from food to furniture, is almost too overwhelming to comprehend
+what is being shouted.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14511
+D3
+~
+~
+0 0 14507
+S
+#14509
+{DThe Market Place{x~
+The market place here is filled with merchants upon merchants either
+trying to swindle you or trying to stay ahead of the competition.  Mainly
+citizens and sailors roam the streets, but occasionally a few kender as
+well, which often cause alarm among the purveyors and patrons.  The harbor
+can be seen from the east here with its ruby-red waters.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14512
+D1
+~
+~
+0 0 14498
+D2
+~
+~
+0 0 14506
+S
+#14510
+{DThe Market Place{x~
+The hustle and bustle of traders and shoppers continues on all day until
+the last customer leaves, which could be never.  The sounds of laughter,
+bartering and singing fill the air.  Large crowds of people from all over
+Krynn, have come here to the great city of Flotsam.  Although the market is
+in the open air, one can smell the strong scent of fish all around.
+However, this is very typical of a port city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14513
+D1
+~
+~
+0 0 14511
+D2
+~
+~
+0 0 14507
+D3
+~
+~
+0 0 14498
+S
+#14511
+{DThe Market Place{x~
+Venders and shoppers surround you, as business continues on all hours of
+the day.  Here amongst the bustling crowd of traders, citizens, kender and
+just ordinary shoppers, you find yourself amidst the center of the market in
+Flotsam.  The loud sounds of people of all races making offers on purchases
+ranging from food to furniture, is almost too overwhelming to comprehend
+what is being shouted.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14514
+D2
+~
+~
+0 0 14508
+D3
+~
+~
+0 0 14510
+S
+#14512
+{DThe Market Place{x~
+Venders and shoppers surround you, as business continues on all hours of
+the day.  Here amongst the bustling crowd of traders, citizens, kender and
+just ordinary shoppers, you find yourself amidst the center of the market in
+Flotsam.  The loud sounds of people of all races making offers on purchases
+ranging from food to furniture, is almost too overwhelming to comprehend
+what is being shouted.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14499
+D2
+~
+~
+0 0 14509
+S
+#14513
+{DThe Market Place{x~
+This part of the market is a little less noisy than the rest, probably on
+the account that it is filled with shady merchants dealing with weapons and
+arcane objects.  Crates upon crates lie scattered about, as if they were
+just unloaded off a ship and its contents waiting to be exchanged for gold
+and steel.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14514
+D2
+~
+~
+0 0 14510
+D3
+~
+~
+0 0 14499
+S
+#14514
+{DThe Market Place{x~
+The market place here is filled with merchants upon merchants either
+trying to swindle you or trying to stay ahead of the competition.  Mainly
+citizens and sailors roam the streets, but occasionally a few kender as
+well, which often cause alarm among the purveyors and patrons.  The harbor
+can be seen from the east here with its ruby-red waters.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14511
+D3
+~
+~
+0 0 14513
+S
+#14515
+{DBeach Lane{x~
+This is one of the only roads in Flotsam that allows direct access to the
+harbor and its blood-like waters.  A strong and salty breeze gusts by here,
+chilling the air as it rolls on.  This sight of tall galleons and undersized
+schooners decorates the docks that jot off of the boardwalk along the
+seashore.  
+~
+0 0 0
+D1
+~
+~
+0 0 14516
+D3
+~
+~
+0 0 14501
+S
+#14516
+{DBeach Lane{x~
+There is nothing particularly special about this sandy lane that leads to
+the harbor.  To the west, it leads to the market place, and to the east, it
+leads to the beach.  
+~
+0 0 0
+D1
+~
+~
+0 0 14517
+D3
+~
+~
+0 0 14515
+S
+#14517
+{DBeach Lane{x~
+This is one of the only roads in Flotsam that allows direct access to the
+harbor and its blood-like waters.  A strong and salty breeze gusts by here,
+chilling the air as it rolls on.  This sight of tall galleons and undersized
+schooners decorates the docks that jot off of the boardwalk along the
+seashore.  To the east, the boardwalk begins.  
+~
+0 0 0
+D1
+~
+~
+0 0 14518
+D3
+~
+~
+0 0 14516
+S
+#14518
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 14556
+D2
+~
+~
+0 0 14519
+D3
+~
+~
+0 0 14517
+S
+#14519
+{DThe Boardwalk{x~
+The oceans surf can be heard rolling in below as if the cataclysm
+happened all over again.  A strong, and not to mention salty, sea breeze
+blows by as well.  Looking far to the east, across the harbor, the peninsula
+with the late Fewmaster Toede's mansion, along the rocky cliffs, can be
+seen as well.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14518
+D2
+~
+~
+0 0 14520
+S
+#14520
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 14519
+D1
+~
+~
+0 0 14521
+S
+#14521
+{DThe Boardwalk{x~
+The oceans surf can be heard rolling in below as if the cataclysm
+happened all over again.  A strong, and not to mention salty, sea breeze
+blows by as well.  Looking far to the east, across the harbor, the peninsula
+with the late Fewmaster Toede's mansion, along the rocky cliffs, can be
+seen as well.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14522
+D3
+~
+~
+0 0 14520
+S
+#14522
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 14521
+D1
+~
+~
+0 0 14523
+S
+#14523
+{DThe Boardwalk{x~
+The oceans surf can be heard rolling in below as if the cataclysm
+happened all over again.  A strong, and not to mention salty, sea breeze
+blows by as well.  Looking far to the east, across the harbor, the peninsula
+with the late Fewmaster Toede's mansion, along the rocky cliffs, can be
+seen as well.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14524
+D3
+~
+~
+0 0 14522
+S
+#14524
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 14523
+D1
+~
+~
+0 0 14525
+S
+#14525
+{DThe Boardwalk{x~
+The oceans surf can be heard rolling in below as if the cataclysm
+happened all over again.  A strong, and not to mention salty, sea breeze
+blows by as well.  Looking far to the east, across the harbor, the peninsula
+with the late Fewmaster Toede's mansion, along the rocky cliffs, can be
+seen as well.  
+~
+0 262144 1
+D2
+~
+~
+0 0 14526
+D3
+~
+~
+0 0 14524
+S
+#14526
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 0
+D0
+~
+~
+0 0 14525
+D1
+~
+~
+0 0 14527
+S
+#14527
+{DThe Boardwalk{x~
+The oceans surf can be heard rolling in below as if the cataclysm
+happened all over again.  A strong, and not to mention salty, sea breeze
+blows by as well.  Looking far to the east, across the harbor, the peninsula
+with the late Fewmaster Toede's mansion, along the rocky cliffs, can be
+seen as well.  
+~
+0 262144 1
+D1
+~
+~
+0 0 14528
+D2
+~
+~
+0 0 14529
+D3
+~
+~
+0 0 14526
+S
+#14528
+{DThe Boardwalk{x~
+You are standing upon one of the oldest structures in all of Flotsam: the
+old and worn wooden boardwalk.  The boardwalk encircles the entire beach
+along the harbor.  The strong waves can be heard crashing below against the
+darkness of the sandy beach.  
+~
+0 0 1
+D0
+~
+~
+0 0 14552
+D3
+~
+~
+0 0 14527
+S
+#14529
+{DThe Wharf{x ~
+Sailors are here carrying their gear either from the many schooners
+docked nearby, or the crude boathouses that adorn the wharf and the
+boardwalk.  The sound of gulls can be heard flying overhead in the nippy sea
+breeze.  Looking straight ahead, the many docks and berths can be seen at
+the waters edge.  To the east stands a weathered wooden shack.  
+~
+0 0 0
+D0
+~
+~
+0 0 14527
+D1
+~
+~
+0 0 14572
+D2
+~
+~
+0 0 14530
+S
+#14530
+{DThe Wharf{x ~
+This is where the bay meets the old wooden docks of Flotsam.  Peering
+through the planks beneath your feet, the gentle sound of water rushing in
+and out can be heard.  Though rather faint, the soft, but deadly, gurgling
+sound can be heard as well emanating from the darkness below.  
+~
+0 0 0
+D0
+~
+~
+0 0 14529
+D2
+~
+~
+0 0 14464
+S
+#14531
+{DHeadland Way{x~
+This small dirt road leads straight to the mansion on the peninsula of
+the harbor called "Headland".  Not to far off in the distance, a large rock
+wall, with some guards along side it, guards the peninsula from outsiders.  
+~
+0 0 1
+D0
+~
+~
+0 0 14532
+D2
+~
+~
+0 0 14467
+S
+#14532
+{DHeadland Way{x~
+The dirt path gradually elevates the further one goes north, all the way
+to the large mansion of the late Fewmaster Toede.  Another building, yet
+smaller, is to the side of the mansion with a large golden dome, a
+particularly weird sight for the scumbag town of Flotsam.  
+~
+0 0 1
+D0
+~
+~
+0 0 14533
+D2
+~
+~
+0 0 14531
+S
+#14533
+{DHeadland Way{x~
+This small dirt road leads straight to the mansion on the peninsula of
+the harbor called "Headland".  Not to far off in the distance, a large rock
+wall, with some guards along side it, guards the peninsula from outsiders.  
+~
+0 0 1
+D1
+~
+~
+0 0 14534
+D2
+~
+~
+0 0 14532
+S
+#14534
+{DHeadland Way{x~
+The dirt path gradually elevates the further one goes north, all the way
+to the large mansion of the late Fewmaster Toede.  Another building, yet
+smaller, is to the side of the mansion with a large golden dome, a
+particularly weird sight for the scumbag town of Flotsam.  
+~
+0 0 1
+D1
+~
+~
+0 0 14535
+D3
+~
+~
+0 0 14533
+S
+#14535
+{DThe Rock Gate{x~
+This large and crumbling wall stands here protecting the peninsula from
+the beggars, drunks, sailors, and assassins of Flotsam.  Guards are
+stationed all around and eye your presence here.  It would be best to leave
+this place at once before the guards get suspicious.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14536
+D3
+~
+~
+0 0 14534
+S
+#14536
+{DHeadland Way{x~
+This small dirt road leads straight to the mansion on the peninsula of
+the harbor called "Headland".  Not to far off in the distance, a large rock
+wall, with some guards along side it, guards the peninsula from outsiders.  
+~
+0 0 1
+D1
+~
+~
+0 0 14537
+D2
+~
+~
+0 0 14535
+S
+#14537
+{DHeadland Way{x~
+The dirt path gradually elevates the further one goes north, all the way
+to the large mansion of the late Fewmaster Toede.  Another building, yet
+smaller, is to the side of the mansion with a large golden dome, a
+particularly weird sight for the scumbag town of Flotsam.  
+~
+0 0 1
+D0
+~
+~
+0 0 14538
+D3
+~
+~
+0 0 14536
+S
+#14538
+{DHeadland Way{x~
+This small dirt road leads straight to the mansion on the peninsula of
+the harbor called "Headland".  Not to far off in the distance, a large rock
+wall, with some guards along side it, guards the peninsula from outsiders.  
+~
+0 0 1
+D1
+~
+~
+0 0 14539
+D2
+~
+~
+0 0 14537
+S
+#14539
+{DHeadland Way{x~
+The dirt path gradually elevates the further one goes north, all the way
+to the large mansion of the late Fewmaster Toede.  Another building, yet
+smaller, is to the side of the mansion with a large golden dome, a
+particularly weird sight for the scumbag town of Flotsam.  
+~
+0 0 1
+D1
+~
+~
+0 0 14540
+D3
+~
+~
+0 0 14538
+S
+#14540
+{DHeadland Way{x~
+This small dirt road leads straight to the mansion on the peninsula of
+the harbor called "Headland".  Not to far off in the distance, a large rock
+wall, with some guards along side it, guards the peninsula from outsiders.  
+~
+0 0 1
+D1
+~
+~
+0 0 14541
+D3
+~
+~
+0 0 14539
+S
+#14541
+{DHeadland{X~
+This is the main part of Headland.  To either side, there are rocky cliffs
+with the blood red water not too far below.  Looking across the harbor, the
+board walk and market place among the ships can be made out as well.  
+~
+0 0 1
+D0
+~
+~
+0 0 14542
+D3
+~
+~
+0 0 14540
+S
+#14542
+{DHeadland{X~
+This is just like any other spot on the barren peninsula, except for the
+large mansion to the east, which overlooks the Blood Sea.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14543
+D2
+~
+~
+0 0 14541
+S
+#14543
+{DHeadland{X~
+This is the main part of Headland.  To either side, there are rocky cliffs
+with the blood red water not too far below.  Looking across the harbor, the
+board walk and market place among the ships can be made out as well.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14544
+D1
+~
+~
+0 0 14554
+D2
+~
+~
+0 0 14542
+S
+#14544
+{DOverlook of the Blood Sea{x~
+From this spot, the whole city of Flotsam and the Blood Sea can be seen. 
+Starting below your feet, a large breakwater begins with a single beacon all
+the way at the end.  Ships, boats, and vessels pass in and out of the harbor
+every couple of minutes, which helps the economy of Flotsam expand.  Looking
+to the north west, far into the horizon, dark skies just sit there looming,
+as if to scare the sailors exiting the calm and peaceful harbor.  
+~
+0 0 0
+D2
+~
+~
+0 0 14543
+S
+#14545
+{DThe Bait Shop{x~
+This old warehouse holds many of the objects necessary for a successful
+voyage at sea.  There is also a hint of fish in the air, probably left
+behind by the fishers who shop here.  
+~
+0 4096 0
+D0
+~
+~
+0 0 14460
+S
+#14546
+{DLAIR OF THE WORMS!!!!{X~
+This is where the worms live.
+~
+0 1028 0
+S
+#14547
+{DThe Jetties{x~
+This small inn houses many sorts of strangers from all over krynn.  The
+place looks like the most up-kept inn in all of Flotsam.  Even though it
+looks like a good place to spend the night, one shouldn't let his or her
+guard down.  
+~
+0 1024 0
+D3
+~
+~
+0 0 14470
+S
+#14548
+{DAn abandoned house{x~
+There is literally nothing left to this little house.  Its boards have
+been striped from its walls for use in some other house in Flotsam.  
+~
+0 0 0
+D0
+~
+~
+0 0 14442
+S
+#14549
+{DRangor's Blacksmith Shop{x~
+Hundreds of swords, axes, maces, daggers, and etc are piled high against
+the wall in this little blacksmith shop.  The forge is still burning hot red
+in the back, causing the air to become thick and dark.  
+~
+0 0 0
+D1
+~
+~
+0 0 14438
+S
+#14550
+Miss Gwen's Massage Parlor~
+This finely decorated house serves only the best for the men of Flotsam. 
+Walking around, there are at least twelve ladies making a living the only
+way they know how.  Screams of names, pets, and other foul language can be
+heard coming from the south.  This looks like a nice place to spend some
+time in on a cold night...  
+~
+0 8 1
+D0
+~
+~
+0 0 14429
+D2
+~
+~
+0 0 14551
+S
+#14551
+{DA Dark Bedroom{x~
+This bedroom is very dark for some odd purpose.  From what’s visible, like
+the bed, this place seems a lot dirtier then in the foyer.
+
+DO NOT use ANY commands in this room! This room is fully automated, and
+will transfer you out automatically! So, just sit back, and enjoy it!
+~
+0 2097676 0
+D0
+~
+~
+0 0 14550
+S
+#14552
+{DOn a wooden dock{x~
+This seems to be an old and plain wooden dock.  To the north is a large
+vessel of some kind.  Everything to the east, west, and down is water.  
+~
+0 0 0
+D0
+~
+~
+0 0 14553
+D2
+~
+~
+0 0 14528
+S
+#14553
+{DAboard the {WPhoenix{x~
+The phoenix is one of the most notorious vessels in the sailing world of
+Krynn.  Her crew has raided and pillaged countless islands and cities by the
+see.  This vessel has seen more gold than a 100 dragons combined.  Her crew
+is ruthless, and her captain even more so...  
+~
+0 0 1
+D2
+~
+~
+0 0 14552
+S
+#14554
+{DThe Mansion{x~
+This large and elegant mansion was the home of the late Fewmaster Toede. 
+Now it serves as the home of the Mayor of Flotsam, who apparently seems to
+be out on some sort of business.  The walls are beautifully decorated with
+tapestries and other forms of art.  It is rumored that there is also a large
+vault with vast amounts of money somewhere in the building.  
+~
+0 0 0
+D3
+~
+~
+0 0 14543
+S
+#14555
+{DIn the Blood Bay Harbor{x~
+Blood colored water surrounds everywhere you look!  The waves keep
+crashing and there seems to be no hope of escape!  
+~
+0 5 7
+S
+#14556
+{DOn a Dock{X~
+A few small boats and skiffs are tied to this part of the old and creaky
+dock.  To the south is the infamous board walk of Flotsam; one that spans
+the entire length of the harbor.  To the east, the dock continues out into
+the calm harbor of blood-stained water.  
+~
+0 0 1
+D1
+~
+~
+0 0 14557
+D2
+~
+~
+0 0 14518
+S
+#14557
+{DOn a Dock{X~
+This part of the dock is devoid of any boats.  The blood colored water
+can be heard lapping below the wooden planks here, and can been seen to the
+north, south, and east from this very spot.  The dock continues out into the
+bay to the east, while going west leads back to land.  
+~
+0 0 1
+D1
+~
+~
+0 0 14558
+D3
+~
+~
+0 0 14556
+S
+#14558
+{DThe End of a Dock{x~
+The dock ends suddenly here.  All around this spot is the softly lapping
+waters of the Blood Bay Harbor.  To the west, the dock seems to head back to
+the hive of scum and villainy known as Flotsam.  Right below this spot on
+the dock is a ladder leading down into the harbor.  
+~
+0 0 1
+D3
+~
+~
+0 0 14557
+D5
+~
+~
+0 0 14559
+S
+#14559
+{BBelow a Dock in Flotsam{x~
+Right above this very spot looks to be the most dismal dock in all of
+Flotsam.  Luckily, it seems to be pretty sturdy.  To the east, there appears
+to be an endless ocean of blood-colored waters.  A small ladder to the side
+leads up onto this dock.  
+~
+0 0 6
+D1
+~
+~
+0 0 14560
+D4
+~
+~
+0 0 14558
+S
+#14560
+{BIn the Blood Bay Harbor{X~
+The calm waters of the Blood Bay Harbor, in Flotsam, surround you on all
+sides.  The soft lapping of the tiny waves can be heard all around.  Ships,
+schooners, skiffs, galleons, and dinghy's sail here and there in this large
+harbor.  One should be on alert here as well, so as to not get hit by some
+of the larger watercraft whizzing by this spot.  
+~
+0 0 6
+D1
+~
+~
+0 0 14561
+D3
+~
+~
+0 0 14559
+S
+#14561
+{BIn the Blood Bay Harbor{X~
+The calm waters of the Blood Bay Harbor, in Flotsam, surround you on all
+sides.  The soft lapping of the tiny waves can be heard all around.  Ships,
+schooners, skiffs, galleons, and dinghy's sail here and there in this large
+harbor.  One should be on alert here as well, so as to not get hit by some
+of the larger watercraft whizzing by this spot.  
+~
+0 0 6
+D1
+~
+~
+0 0 14562
+D3
+~
+~
+0 0 14560
+S
+#14562
+{BIn the Blood Bay Harbor{X~
+The calm waters of the Blood Bay Harbor, in Flotsam, surround you on all
+sides.  The soft lapping of the tiny waves can be heard all around.  Ships,
+schooners, skiffs, galleons, and dinghy's sail here and there in this large
+harbor.  One should be on alert here as well, so as to not get hit by some
+of the larger watercraft whizzing by this spot.  
+~
+0 0 6
+D2
+~
+~
+0 0 14563
+D3
+~
+~
+0 0 14561
+S
+#14563
+{BEntrance to the Blood Bay Harbor{x~
+This is the entrance to the Blood Bay Harbor of Flotsam.  The cliffs of
+the Headlund part of the city looms far above.  Going east leads into the
+ill-tempered Blood Sea of Istar.  To the east are the calm waters of
+Flotsam's main harbor.  
+~
+0 0 6
+D0
+~
+~
+0 0 14562
+D1
+~
+~
+0 0 14564
+S
+#14564
+{BOn the Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D1
+~
+~
+0 0 14565
+D3
+~
+~
+0 0 14563
+S
+#14565
+{BOn The Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D0
+~
+~
+0 0 14566
+D3
+~
+~
+0 0 14564
+S
+#14566
+{BOn the Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D0
+~
+~
+0 0 14567
+D2
+~
+~
+0 0 14565
+S
+#14567
+{BOn the Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D1
+~
+~
+0 0 14568
+D2
+~
+~
+0 0 14566
+S
+#14568
+{BOn the Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D0
+~
+~
+0 0 14569
+D3
+~
+~
+0 0 14567
+S
+#14569
+{BOn the Blood Sea{X~
+Fiercely beating waves, twisting currents and hurricane like winds is
+all one can make out right now from this murky spot as you continue on the
+Blood Sea of Istar.  Ships can be seen on the horizon, trying to steer clear
+of this part of the sea for some odd reason.  Perhaps their captains fear
+the giant maelstrom at the center of this accursed sea.  
+~
+0 0 6
+D0
+~
+~
+0 0 14570
+D2
+~
+~
+0 0 14568
+S
+#14570
+{BOn the Blood Sea{X~
+This part of the sea is right on the edge of the great maelstrom, which
+is to the north.  Fiercely beating waves, twisting currents, and hurricane
+like winds is all one can make out right now from this murky spot as you
+continue on the Blood Sea of Istar.  Ships can be seen on the horizon,
+trying to steer clear of this part of the sea for some odd reason.  Perhaps
+their captains fear the giant maelstrom at the center of this accursed sea. 
+~
+0 0 6
+D0
+~
+~
+0 0 14571
+D2
+~
+~
+0 0 14569
+S
+#14571
+{BTHE MAELSTROM!!!{X~
+The current is so strong here that it is actually pulling you down. 
+Giant Waves crash overhead while darkness starts to set in the sky high
+above.  There is no use in struggling...  There is only one way now: down. 
+Down into the deep red waters of the Blood Sea.  
+~
+0 0 6
+D5
+~
+~
+0 0 5931
+S
+#14572
+{DA Sailor’s Shrine to Zeboim{x~
+This wooden shanty sits near the docks, inviting sailors to receive the
+blessings of the sea goddess Zeboim before their voyage.  A crude altar has
+been erected here; made of driftwood and crowned with the shell of a large
+sea turtle.  Trinkets of shells, coral, and other artifacts of the sea lie
+scattered around the altar as offerings.  Here, sailors of all races come to
+worship the storm goddess, and pray for safe passage across the Blood Sea.  
+~
+0 8388616 43
+D3
+~
+~
+0 0 14529
+S
+#0
+
+
+
+#SPECIALS
+M 14410 spec_rloader
+M 14428 spec_rloader
+S
+
+
+
+#RESETS
+M 0 14401 3 14401 3
+M 0 14410 9 14410 1
+E 0 14410 0 20
+M 0 14416 1 14416 1
+M 0 14420 3 14420 3
+M 0 14428 1 14428 5
+E 0 14428 0 20
+M 0 14455 5 14455 5
+M 0 14456 2 14456 2
+M 0 14459 2 14459 2
+M 0 14468 4 14468 4
+O 0 14474 0 14474
+M 0 14485 3 14485 3
+M 0 14491 1 14491 1
+E 0 14491 0 20
+M 0 14492 1 14492 1
+M 0 14497 1 14497 1
+G 0 14497 0
+G 0 14506 0
+M 0 14498 1 14498 1
+G 0 14498 0
+M 0 14499 1 14499 1
+G 0 14499 0
+M 0 14509 1 14509 1
+M 0 14510 1 14510 1
+G 0 14510 0
+M 0 14523 1 14523 1
+O 0 14523 0 14523
+M 0 14530 2 14530 2
+M 0 14533 2 14533 2
+M 0 14535 1 14535 1
+M 0 14545 1 14545 1
+O 0 14545 0 14545
+M 0 14546 1 14546 1
+O 0 14548 0 14548
+M 0 14549 1 14549 1
+G 0 14549 0
+G 0 14438 0
+G 0 14439 0
+M 0 14550 1 14550 1
+G 0 14550 0
+G 0 14551 0
+M 0 14551 1 14551 1
+M 0 14553 1 14553 1
+E 0 14553 0 20
+M 0 14552 2 14553 2
+S
+
+
+
+#SHOPS
+14497 0 0 0 0 0 100 100 0 23
+14498 0 0 0 0 0 100 100 0 23
+14499 0 0 0 0 0 100 100 0 23
+14510 0 0 0 0 0 100 100 0 23
+14545 0 0 0 0 0 100 100 0 23
+14549 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#14400
+if hastarget $i
+if sex $q == 2
+say Lets get you started with a job $q 
+drop all
+MOB FORCE $q remove all
+MOB FORCE $q get all
+MOB FORCE $q wear bra
+MOB FORCE $q wear thong
+MOB ECHOAROUND $q {cMiss Gwen puts $q to work!{x
+MOB ECHOAT $q {cMiss Gwen puts you to work!{x 
+MOB FORGET
+MOB OLOAD 14550
+MOB OLOAD 14551 
+endif
+endif
+end
+~
+#14401
+say You haven't paid yet $n!
+~
+#14402
+~
+#14403
+if sex $n == 1
+MOB ECHOAT $n {cMiss Gwen takes you to the bedroom.{x
+MOB ECHOAROUND $n {cMiss Gwen takes $n to the bedroom.{x
+MOB TRANSFER $n 14551
+MOB AT missy MOB ECHOAT missy new_customer
+else 
+say Thanks for the donation!
+endif
+end
+~
+#14415
+if hastarget $i
+mob echo {Y$I finishes the inspection.{x
+say Ok, you’re free to carry on about your business.
+mob forget
+endif
+~
+#14416
+say I have to inspect what you're carrying. It will only take a minute.
+mob remember $n
+mob force $n remove all
+mob echoaround $n {YA Flotsam Guard makes $n remove all of $s armor.{x
+mob force $n drop all 
+pause 50
+if isnpc $n
+if ischarm $n
+else
+mob emote mumbles to himself 'Let’s have some fun...'
+mob kill $n
+endif
+endif
+~
+#14534
+MOB transfer $n 14536
+~
+#14535
+mob transfer $n 14535
+say You're not allowed in there... except if you had, let’s say, 100 gold on you...
+wink
+~
+#14550
+if isnpc $n
+MOB push $n north
+endif
+if sex $n == 1
+say All services here are 10000 gold, and that’s payable to me.
+endif
+if sex $n == 2
+say You’re in the wrong building honey, unless you’re looking for a job?
+MOB REMEMBER $n
+MOB DELAY 5
+endif
+end
+~
+#14551
+mob remember $r
+if isnpc $q
+break
+else
+MOB AT 14550 MOB ECHO {cYou hear a girl scream $q's name through the soft walls!{X
+
+emote puts $q on the bed!
+pause 4
+emote rips off your clothes!
+pause 4
+MOB FORCE $q remove all
+pause 4
+emote undresses!
+pause 4
+say Say my name $q, say my name!
+pause 4
+MOB FORCE $q say MISSSSSSSSYYYYY!!!!!
+pause 4
+emote rubs your body up and down.
+pause 6
+emote slaps you on the ass!
+pause 5
+MOB ECHOAT $q You mount $I.
+pause 8
+emote rides you like a pony!
+pause 7
+emote takes out her whip....
+pause 4
+emote Whips you!
+MOB DAMAGE $q 10 10
+pause 7
+emote does some more dirty things with you until you pass out....
+pause 10
+Say Was that as good for you as it was for me?
+MOB TRANSFER $q 14550
+MOB FORCE $q look
+MOB AT $q MOB ECHO $q nonchalantly walks out of the bedroom.
+endif
+~
+#14552
+say Get off my boat mate, or else I’ll make you walk the plank... 
+MOB REMEMBER $n
+MOB DELAY 3
+~
+#14553
+if hastarget $i
+say I warned you!
+MOB ECHOAT $q {cThe Captain makes you walk the plank!{x
+MOB ECHOAROUND $q {cThe Captain makes $q walk the plank!{x
+MOB TRANSFER $q 14555
+MOB FORGET
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

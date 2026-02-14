@@ -1,0 +1,5707 @@
+#AREADATA
+Name The Garnet Mountains~
+Builders Hiddukel~
+Continent Solamnia~
+Controlby 1~
+Faction 100~
+Sector 0
+VNUMs 1800 1999
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#1803
+small humming bird~
+a small humming bird~
+Perched upon a tree branch, stands a small humming bird.
+~
+As you look at this small red bird, she notices your presence and starts
+to break into a singsong.  After finishing her song, she resumes cleaning
+her feathers.  
+~
+song bird~
+AG T 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+DEFH 0 DEJ CKT
+stand stand female 50
+AGW ACDEFHKP T unknown 0
+M GRALL 1803 65~
+#1804
+deformed shopkeeper~
+a deformed shopkeeper~
+A deformed man with a foul smell stands here waiting to sell you a few things.
+~
+Standing here looking quite dumbfounded, stands a man whose arms, face and
+legs all seem to be deformed in some way or another.  However, aside from
+looking handicapped, he still looks light he has a fight or two left in him.
+Looking at him sternly, you think twice and instead, check to see what he
+has to sell.  
+~
+human~
+ABGY NVa 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+EF ABDQ E K
+stand stand male 100
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1804 100~
+#1806
+well dressed thief~
+a well-dressed thief~
+A well-dressed thief stands here, eyeballing your money pouch.
+~
+A well-dressed thief gives you a toothless grin.  He's only wrapped in
+simple clothes, yet the shiny dagger which he intends to plunge in your back
+doesn't look so inviting.  He's an ugly fellow, and smells quite horrid.... 
+Must be some kind of goblin 
+~
+hobgoblin~
+ABFGS FJPQV 0 0
+55 55 111d18+1111 55d10+85 18d3+32 stab
+-27 -27 -27 -16
+DEFHJKU ELQ LQ T
+stand stand male 1200
+AHMV ABCDEFGHIJKY M unknown 0
+#1815
+enslaved demon~
+an enslaved demon~
+An enslaved demon rests his sunken, hollow eyes upon you.
+~
+I am the gatekeeper.  Feel my Wrath!  
+~
+orc~
+ABCO DFHJVa -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+CEFGHIJKR ABCDLQ J S
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res Q
+M SPEECH 1815 my shackles enslave me for life!~
+M ACT 1816 morgion says ~
+#1816
+well cloaked thief~
+a well-cloaked thief~
+A well-cloaked thief stands here, keeping a watchful eye over the Hall.
+~
+A dark cloak covers most of this thief's body.  A hood slightly pulled
+over his head, leaves just enough opening to see his face.  A scarred face
+and dark toned skin, gives him away as being one who's clashed with the law
+more than once.  His narrow eyes reveal only a slight hint of color, that of
+a green emerald.  Clasped to his belt, with his hand over the hilt, is an
+extremely interesting looking dagger.  
+~
+human~
+ABN DFV 0 0
+90 90 135d30+1639 90d10+85 25d3+35 stab
+-33 -33 -33 -14
+FNU AB D 0
+stand stand male 2300
+AHMV ABCDEFGHIJK M unknown 1
+#1825
+ancient guardian dragon~
+an ancient guardian dragon~
+An ancient guardian dragon of the future stares you down with it's black eyes...
+~
+Here, standing proud, is an enormous Dragon trying to keep you away from
+Hiddukel's altar.  His scales look to be made of black gold, a color which
+could have been created by non other than the demonic beasts who reside in
+Hell.  Large, black sunken eyes stare directly at you, as if they can see
+right through.  You take another step closer, then decide to make your move.
+~
+dragon~
+AB DFHJTV 0 0
+85 85 171d28+1717 85d10+85 28d3+47 grep
+-48 -48 -48 -30
+ACDEHKMT AN BEH FI
+stand stand male 13000
+ACHZ ACDEFGHIJKPQUVX H unknown 0
+#1826
+priestess hiddy~
+a Priestess of Hiddukel~
+A Priestess of Hiddukel stands here, showing off her beauty.
+~
+Looking uninterested in anything or anyone but Hiddukel himself, a young
+woman stands here adorned in Gold colored robes.  Her long blonde hair
+rests gently over her chest, in a seductive manner.  Blue eyes, partially
+pointed ears, and dark tanned skin give her away to be of human and elven
+nature.  She has been blessed with riches, jewelry and other odd valuables. 
+~
+half-elf~
+AB DFHJVac -1000 0
+100 100 201d33+2021 100d10+85 33d3+70 wrath
+-57 -57 -57 -37
+DEFH AEQ B KN
+stand stand female 3000
+AHMV ABCDEFGHIJK M unknown 0
+#1832
+kobold~
+a kobold~
+A kobold squats here, plaing a game of rocks with his friends.
+~
+He obviously does not like you looking at him; it messes up his
+concentration on his game.  
+~
+kobold~
+ABC FJVZc -50 1
+70 70 141d23+1415 70d10+85 23d3+40 smash
+-37 -37 -37 -22
+CDEFHKRU IQ L C
+stand stand none 12000
+ABHMV ABCDEFGHIJKQ S unknown 0
+M GRALL 1832 100~
+#1848
+large bear~
+a large bear~
+A large bear tries to take a bite out of your hide.
+~
+This ferocious beast does not like the fact that you stumbled upon his
+cave.  His claws and teeth look razor sharp, sharp enough to give you a
+clean shave, or a clean, cut throat.  The smell of rotten garbage emits from
+his dirty fur hide....  And now, he wants to make you his next meal.  
+~
+bear~
+ABCF a -150 0
+48 48 97d16+485 48d10+85 16d3+29 chomp
+-23 -23 -23 -13
+ACDFO O EI 0
+stand stand male 0
+AGV ABCDEFHJKUV L unknown 0
+F off E
+#1854
+large leopard~
+a large leopard~
+A large leopard stands here feeding off of its last victim.
+~
+Here, you see some sort of mountain leopard eating the remains of it's
+last victim.  It has a beautiful {Yyellow coat{x, with black spots all
+around her body.  As you continue to stare in awe, she looks up at you and
+grins, showing a mouth full of razor sharp teeth.  
+~
+cat~
+ABCG DFJVZa 0 0
+90 90 181d30+1819 90d10+85 30d3+50 claw
+-51 -51 -51 -32
+FHR ABI 0 C
+stand stand female 4560
+ABGV ACDEFHJKQUV M unknown 0
+#1872
+white snowflake~
+a {Wwhite{x snowflake~
+A white snowflake blows by your face harsly...
+~
+This little creature doesn't seem to like you, or anyone for that
+matter.  It looks just like a larger version of a snowflake, although this
+one doesn't seem to melt on your tongue like normal snowflakes do.  
+~
+bat~
+AFG TZ -50 0
+60 60 121d20+1213 60d10+85 20d3+35 frbite
+-30 -30 -30 -18
+CDEFGH GIJ B S
+stand stand none 1345
+AGV ACDEFHJKP T unknown 0
+#1884
+ice demon~
+an ice demon~
+An ice demon stands here, keeping himself well concealed in the icy road.
+~
+This massive demon stands about eight feet tall, with a muscular build
+and a gruesome smile.  At first, it seems rather hard to make him out, due
+to his superb hiding skills in ice.  Getting closer to him, you can already
+feel how much colder he really is, compared to the road you travel.  
+~
+human~
+ACG DFHVa -750 0
+55 55 111d18+1111 55d10+85 18d3+32 frbite
+-27 -27 -27 -16
+DEFHNU GI J H
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1895
+ice dragon~
+an {Wice {Cdragon{x~
+A large, fearsome looking ice dragon stands here, prepared for anything.
+~
+Taking one look at this fearsome looking dragon, brings you back to when
+you were a child; listening to elders talk of hideous creatures that follow
+the dark paths.  This dragon stands at least a good 70 to 80 paces high,
+weighing too much to even guess.  Glimmering white scales cover every inch
+of his skin.  Small icicles dangle off his whiskers.  You think twice as you
+peer down and notice the razor sharp claws, covered in blood.  
+~
+dragon~
+ABRT DFJOTVac -1000 0
+110 80 161d26+1617 80d10+85 26d3+45 claw
+-44 -44 -44 -28
+ACDEFMO AIM BG H
+stand stand none 4500
+AHZc ACDEFJKPQUVX G unknown 0
+F res EH
+F vul FI
+F par H
+#1904
+maiden slave~
+a maiden slave~
+A maiden slave stands here, waiting to take your order.
+~
+Almost completely naked, what little she does wear is made of gold silk. 
+She looks breathtakingly beautiful, with her full lips, makeup and
+fairly large, perky breasts.  In her shackled hands, she holds a tray with a
+few items, ready to sell to you.  
+~
+kagonesti~
+ABCG DFJWZ -1000 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+T ACDLQ I 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1904 100~
+#1910
+mirror image~
+a mirror image of yourself~
+A mirror image of yourself stands here, waiting to aid you in your training.
+~
+Why, don't you feel sheepish looking at yourself!  
+~
+human~
+ABCJKb DFZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCDK 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1910 100~
+#1911
+female slave~
+a female slave~
+A female slave stands here, sharing the pain.
+~
+Looking at this Kagonesti, you can tell she wants to get back to her
+beloved wilderness so bad, she looks almost as though she'd be willing to do
+anything for you to help her escape.  
+~
+kagonesti~
+ABGO JKYa 0 0
+45 45 91d15+455 45d10+85 15d3+27 slap
+-21 -21 -21 -11
+EFHK QX I P
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#1915
+the executioner~
+the Executioner~
+The Executioner stands here, waiting for you to make one wrong move.
+~
+Looking at this massive minotaur is quite impressive to anyone.  His
+bulky, strong arms are swollen in muscle, with veins protruding the skin,
+begging to be released.  As with all minotaur, his torso has a nice dark
+tan and he wreaks of dead animal and rotten blood.  
+~
+minotaur~
+ABGT DFJa -1000 0
+150 150 225d50+4096 150d10+85 42d3+55 cleave
+-61 -61 -61 -30
+DKT BEFGHM CHI K
+stand stand male 50000
+AHMV ABCDEFGHIJK L unknown 0
+M GRALL 1915 100~
+#1916
+male slave~
+a male slave~
+A male slave stands here in anguish.
+~
+You look deep into the eyes of a Silvanesti elf.  He looks very ill,
+possibly contagious.  
+~
+silvanesti~
+ABGO AJKX 1000 0
+50 50 101d16+506 50d10+85 16d3+30 beating
+-24 -24 -24 -14
+CFNR HQ B MP
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1919
+chained maiden~
+a chained maiden~
+A beautiful maiden, has been changed to the walls.
+~
+Here stands a beautiful woman, chained to the walls with just enough
+length of chain to serve you.  Her pointy ears and slender body give away
+her elven background.  She wears almost nothing at all, and smiles at you
+every time she catches you giving her a quick glance.  
+~
+kagonesti~
+AB DFJVZ -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+T CDLNQ I 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1919 100~
+#1924
+tax collector~
+the tax collector~
+A tax collector stands here wanting your gold, now!
+~
+Here, stands a troll, waiting for you to give him all your gold.  
+~
+troll~
+ABde DFHJZc 0 0
+110 110 221d36+3334 110d10+85 36d3+60 smash
+-64 -64 -64 -41
+D ABCDELOPQ BE HK
+stand stand male 20000
+ABHMV ABCDEFGHIJKUV L unknown 0
+M GREET 1924 100~
+#1926
+priestess hiddy~
+a Priestess of Hiddukel~
+A Priestess of Hiddukel stands here waiting to please you.
+~
+Blonde hair cascades down this Priestesses back, while her daring blue
+eyes give you a gold stare.  Her lips look luscious and kissable, drawing in
+more attention to her delicate facial features.  
+~
+human~
+ABa DFH 0 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#1927
+wandering bandit~
+a wandering bandit~
+A wandering bandit stands here waiting for easy pickings.
+~
+He's quite small, yet fearsome looking in his black garbs.  A small mask,
+with two eye holes cut out, wraps around his face and is tied behind his
+head.  He appears to be hiding, somewhat, but not very well.  Perhaps he's
+just waiting for the right moment to strike any travellers unaware of his
+presence.  
+~
+human~
+AGS FPQVZ -450 0
+90 65 131d21+1313 65d10+85 21d3+37 stab
+-34 -34 -34 -20
+BCDEFHJKNU LQ P Z
+stand stand male 2300
+AHMV ABCDEFGHIJK M unknown 0
+#1930
+injured man~
+an injured man~
+An injured man with blood seeping from many cuts rests up against the wagon.
+~
+Looking at all the blood flowing freely from his open gashes brings up
+the past image of a stuck pig.  He doesn't look like he's going to make it
+much longer, hell it even looks as if the steel armor plate he wears about
+his body is the only thing keeping him held together in one piece.  
+~
+human~
+ABS CDFHad -450 0
+75 75 151d25+1515 75d10+85 25d3+42 punch
+-41 -41 -41 -25
+BCDET AB HK Q
+stand stand male 3600
+AHMV ABCDEFGHIJK M unknown 0
+#1931
+thief~
+a thief~
+A thief lies in waiting.
+~
+He wants your gold.
+~
+human~
+ABS DFPQVa 0 0
+40 40 81d13+405 40d10+85 13d3+25 beating
+-17 -17 -17 -9
+DEHU AB P D
+stand stand male 3000
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1930 100~
+#1943
+shepherd~
+a shepherd~
+A shepherd sits here, taking a break from the long hike.
+~
+Here sits a very tired looking shepherd.  His clothes are dirty and torn.
+You notice that he sits here among a group of other shepherds, but where's
+his flock of sheep?  Although tired, you notice that he keeps alert; waiting
+for something to happen as if there were hungry wolves wandering around
+devouring all his sheep.  
+~
+human~
+ABCGT DFVZ 750 0
+40 40 81d13+405 40d10+85 13d3+25 pound
+-17 -17 -17 -9
+CDEHJKQU IL C Q
+sit stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#1945
+black sheep~
+a black sheep~
+A black sheep stands here, munching on some grass.
+~
+There isn't anything really special to look at.  He's covered in black
+fur and doesn't seem interested in anything but eating.  
+~
+fido~
+AB JVZ 0 0
+40 40 81d13+405 40d10+85 13d3+25 chomp
+-17 -17 -17 -9
+CHR I P C
+stand stand male 124
+ABGV ACDEFHJKQV M unknown 0
+F off F
+#1971
+dwarven miner~
+a Dwarven miner~
+A Dwarven miner stands here, picking at the walls for valuable ore.
+~
+A small but stout Dwarven miner.
+~
+dwarf~
+ABC JVZa 0 0
+70 70 141d23+1415 70d10+85 23d3+40 crush
+-37 -37 -37 -22
+DFJU AI CLQ R
+stand stand male 2004
+AHMV ABCDEFGHIJK S unknown 0
+#1972
+dwarven guard~
+a Dwarven guard~
+A Dwarven guard stands here, ready to protect the foreman if needed.
+~
+He seems to be giving you a devilish grin, knowing that he shall put his
+life before his Foreman.  He also, is a lot cleaner than most of the other
+dwarves and he is dressed more as a warrior or a knight of some sort, than
+he is like a miner.  As you continue to stare, he clutches his war hammer
+even more tightly than before.  
+~
+dwarf~
+AB DFHJNVZa 1000 0
+90 90 181d30+1819 90d10+85 30d3+50 crush
+-51 -51 -51 -32
+ACDIJNRU EM ABCLQ JR
+stand stand male 25000
+AHMV ABCDEFGHIJK S unknown 0
+#1973
+dwarven gladiator~
+a Dwarven gladiator~
+A Dwarven gladiator awaits his turn to fight in the arena.
+~
+He's a stout, tough little bugger.  Muscles ripple throughout his body
+as he flexes for you because he catches you taking a peek at him.  He's clad
+in armor and clenches his mace a wee bit more tightly, expecting to do
+battle, now that your here.  
+~
+dwarf~
+AB HJVZa 500 0
+100 100 201d33+2021 100d10+85 33d3+55 crush
+-57 -57 -57 -37
+CDEFHIJKORU AEI CLQ JR
+stand stand none 7500
+AHMV ABCDEFGHIJK S unknown 0
+#1974
+dwarven cook~
+a Dwarven cook~
+A Dwarven cook stands here impatiently waiting for you to make up your mind.
+~
+He's a stout little guy, but even so, he looks quite mean and nasty. 
+Every area of exposed skin shows ripples of muscle, strong enough to choke a
+bull with ease.  He smells like he hasn't had a decent shower in months and
+the apron which is tied around his neck looks as though it hasn't been
+washed in years, with all it's stains of food.  
+~
+dwarf~
+AB DFHJVZa 0 0
+100 100 201d33+2021 100d10+85 33d3+55 beating
+-57 -57 -57 -37
+CDEFHIKRT ABCHIN LQ JR
+stand stand male 7670
+AHMV ABCDEFGHIJK S unknown 0
+M GRALL 1974 100~
+#1976
+dwarven foreman~
+a Dwarven foreman~
+A Dwarven foreman delegates all the authority among the miners down here.
+~
+Sitting in his chair, this dwarf seems to be running the show.  He
+writing frantically, filling out a stack of paperwork.  Muscles ripple and
+are well toned He has an ugly look to him, yet at least he seems to be the
+cleanest of all the other Dwarves.  Noticing you staring at him, he drops
+his pen and looks up.  It seems that you’re really getting on his nerves for
+his face is starting to get redder, and his jaw line is flexing, as if he's
+biting down hard.  
+~
+dwarf~
+ABG DFHJNVZa 500 0
+120 120 241d40+3637 120d10+85 40d3+65 crush
+-71 -71 -71 -46
+ACDEFHIJKNRT AEIT CLQ R
+stand stand male 100000
+AHMV ABCDEFGHIJK S unknown 0
+#1977
+straw dummy~
+a straw dummy~
+A straw dummy stands here, waiting to take everything you got.
+~
+STRAW------ALL YOU SEE IS STRAW---- 
+~
+doll~
+ABC AKR 0 0
+1 1 3d2+11 1d10+85 1d2+5 none
+8 8 8 8
+0 ACDEFGHILMNPQRT JS 0
+sleep sleep none 0
+EJMc ABCGHK M unknown 0
+F res E
+F vul GHJKO
+#1978
+antitheft dummy~
+an anti-theft dummy~
+An anti-theft dummy sits in the middle of the room.
+~
+A straw filled dummy, perfect to practice skills on.
+~
+doll~
+ABC AKRSWYd 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CDILMNPQR ES 0
+sleep sleep none 1000
+EJMc ABCGHK M unknown 0
+F vul GHJKO
+#0
+
+
+
+#OBJECTS
+#1800
+demon tattoo~
+a tattoo of a demon~
+A tattoo of a hideous creature sits here, waiting to be branded on.~
+ink~
+tattoo AGJMPSUYZ 0 AR
+0 0 0 0 0
+75 0 12000 P
+A
+19 1
+A
+12 35
+A
+4 1
+A
+5 1
+#1801
+bottle blood potion~
+a bottle of {Rblood{x~
+A bottle of {Rblood{x churns before your eyes.~
+glass~
+potion GSU 0 AO
+40 'poison' 'teleport' 'dispel good' 'reserved'
+0 1 8921 P
+#1802
+healing potion purple~
+a healing potion~
+A potion of {mpurple{x liquid bubbles over its beakers' flange, right before your eyes.~
+glass~
+potion NS 0 AO
+25 'heal' 'armor' 'reserved' 'reserved'
+45 2 5000 P
+#1803
+wooden sign~
+a wooden sign~
+A wooden sign lays on the ground here.~
+wood~
+treasure O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+“Check out the little shop of horrors.  It may be your last chance to
+spend your gold” 
+~
+#1804
+vial ghost potion blue~
+a potion of ghosts~
+A round vial of a bubbling {Bblue{x liquid foams before you.~
+glass~
+potion GNS 0 AO
+45 'heal' 'pass door' '' ''
+45 1 3000 P
+#1805
+large archers bow~
+an archer's bow~
+A large archer's bow lies here.~
+cedar~
+weapon S 0 AN
+bow 5 5 pierce 0
+10 6 0 P
+#1806
+wooden sign~
+a wooden sign~
+A wooden sign lays on the ground here.~
+wood~
+treasure O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+_________________________________________________________________________
+|                                                                       |
+|               The sign has some words etched in Blood:                |
+|                                                                       |
+|    “Continue forth brave traveler, but travel with cauti...."       |
+|                                                                       |
+|         The rest of the writing seems to be all distorted...         |
+|                                                                       |
+|_______________________________________________________________________|
+~
+#1807
+replica raistlin staff~
+({yReplica{x) Raistlin's staff~
+A well-crafted replica of Raistlin Majere's staff lies here.~
+ironwood~
+staff GPSV 0 AO
+35 10 3 'call lightning' 0
+40 1 5000 P
+#1808
+wooden arrow~
+an arrow~
+A wooden arrow is here.~
+wood~
+arrow Sc 0 AO
+0 1 4 0 0
+0 0 0 P
+#1809
+quiver~
+a quiver~
+A quiver made to hold many arrows, lies here.~
+leather~
+quiver S 0 AK
+20 5 10 0 0
+15 2 0 P
+#1810
+tattoo bloody scythe~
+a tattoo of a {Rbloody scythe{x~
+A tattoo with a bloody scythe design rests on the ground.~
+ink~
+tattoo GMPSUYZ 0 AR
+0 0 0 0 0
+35 1 0 P
+A
+12 10
+A
+13 15
+A
+2 2
+A
+19 1
+A
+18 1
+#1811
+potion poison~
+a potion of poison~
+A potion of poison lies here.~
+glass~
+potion S 0 AO
+100 'poison' 'reserved' 'reserved' 'reserved'
+100 0 0 P
+#1812
+hidd staff golden ancient~
+(Golden)(Ancient) the Staff of Hiddukel~
+A large staff, once thought to be Hiddukel's, hovers before you.~
+gold~
+weapon ABGINSY 0 AN
+dagger 10 50 divine CKMPRS
+122 2 100000 P
+#1813
+empty jar~
+a jar~
+An empty jar lies here.~
+glass~
+drink S 0 AO
+0 0 'blood' 0 0
+0 1 50 P
+#1814
+dim cold blue light~
+a dim cold light~
+A dim {Bblue{x light glows here.~
+magical fire~
+light S 0 AO
+0 0 CEFGHI 0 0
+0 1 0 P
+O GET 1814 100~
+#1815
+seaweed piece~
+a piece of seaweed~
+A piece of seaweed is floating here in the water.~
+plant~
+pill G 0 AO
+30 'waterlungs' 'reserved' 'reserved' 'reserved'
+20 1 20 P
+#1816
+thieves guardian dagger~
+a Thieves guardian dagger~
+A large, sharp dagger glimmers on the ground.~
+steel~
+weapon BHPY 0 AN
+dagger 8 16 stab DH
+95 2 800 P
+#1817
+guardian cloak thieves~
+a guardian cloak of the Thieves~
+A long flowing green cloak lies here on the ground.~
+cloth~
+armor PSY 0 AK
+AC AC AC A 0
+95 2 800 P
+A
+2 3
+A
+3 1
+#1818
+shimmering white light~
+a shimmering {Wwhite{x light~
+A shimmering {Wwhite{x light burns into the ground here.~
+magical fire~
+light AGS 0 AO
+0 0 CDFI 0 0
+35 1 0 P
+A
+25 -4
+#1819
+large wooden sign~
+a large wooden sign~
+A large wooden sign with a picture on it is posted here.~
+wood~
+treasure 0 0 P
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+{x
+ 
+                                  ,;;;;;;,
+                                ,;;;'""`;;\
+                              ,;;;/  .'`',;\
+                            ,;;;;/   |    \|_
+                           /;;;;;    \    / .\
+                         ,;;;;;;|     '.  \/_/
+                        /;;;;;;;|       \
+             _,.---._  /;;;;;;;;|        ;   _.---.,_
+           .;;/      `.;;;;;;;;;|         ;'      \;;,
+         .;;;/         `;;;;;;;;;.._    .'         \;;;.
+        /;;;;|          _;-"`       `"-;_          |;;;;\
+       |;;;;;|.---.   .'  __.-"```"-.__  '.   .---.|;;;;;|
+       |;;;;;|     `\/  .'/__\     /__\'.  \/`     |;;;;;|
+       |;;;;;|       |_/ //  \\   //  \\ \_|       |;;;;;|
+       |;;;;;|       |/ |/    || ||    \| \|       |;;;;;|
+        \;;;;|    __ || _  .-.\| |/.-.  _ || __    |;;;;/
+         \jgs|   / _\|/ = /_o_\   /_o_\ = \|/_ \   |;;;/
+          \;;/   |`.-     `   `   `   `     -.`|   \;;/
+         _|;'    \ |    _     _   _     _    | /    ';|_
+        / .\      \\_  ( '--'(     )'--' )  _//      /. \
+        \/_/       \_/|  /_   |   |   _\  |\_/       \_\/
+                      | /|\\  \   /  //|\ |
+                      |  | \'._'-'_.'/ |  |
+                      |  ;  '-.```.-'  ;  |
+                      |   \    ```    /   |
+    __                ;    '.-"""""-.'    ;                __
+   /\ \_         __..--\     `-----'     /--..__         _/ /\
+   \_'/\`''---''`..;;;;.'.__,       ,__.',;;;;..`''---''`/\'_/
+        '-.__'';;;;;;;;;;;,,'._   _.',,;;;;;;;;;;;''__.-'
+             ``''--; ;;;;;;;;..`"`..;;;;;;;; ;--''``   _
+        .-.       /,;;;;;;;';;;;;;;;;';;;;;;;,\    _.-' `\
+      .'  /_     /,;;;;;;'/| ;;;;;;; |\';;;;;;,\  `\     '-'|
+     /      )   /,;;;;;',' | ;;;;;;; | ',';;;;;,\   \   .'-./
+     `'-..-'   /,;;;;','   | ;;;;;;; |   ',';;;;,\   `"`
+              | ;;;','     | ;;;;;;; |  ,  ', ;;;'|
+             _\__.-'  .-.  ; ;;;;;;; ;  |'-. '-.__/_
+            / .\     (   )  \';;;;;'/   |   |    /. \
+            \/_/   (`     `) \';;;'/    '-._|    \_\/
+                    '-/ \-'   '._.'         `
+                      """      /.`\
+                               \|_/
+~
+#1820
+thick over growth plants~
+a thick overgrowth of plants~
+A thick overgrowth of plants sprout up from the ground here.~
+plant~
+trash GSTYa 0 0
+0 0 0 0 0
+0 0 0 P
+#1821
+boulder moss covered~
+a moss covered boulder~
+A large {Gmoss{x covered boulder sits here.~
+unknown~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+E
+boulder~
+A few names have been scratched into the huge boulder:
+ 
+White, gray, and black; may the birds sing the balance forever. - Anav
+ 
+Light will always shine brighter in the darkness. - Shinn
+~
+#1822
+log large~
+a large log~
+A large wooden log has fallen, allowing a place to sit.~
+wood~
+furniture 0 0 P
+AD EGIJOP BEHN 0 0
+21 0 0 P
+#1825
+crystal key~
+a crystal key~
+A crystal key lies here, shimmering in the presence of light.~
+crystal~
+room_key FSUY 0 ACO
+0 0 0 0 0
+60 2 0 P
+#1826
+golden key~
+a golden key~
+A golden key lies here.~
+gold~
+key JY 0 AO
+0 0 0 0 0
+60 1 0 P
+#1827
+hidd golden treasure chest~
+hiddukel's treasure chest~
+A {Ygolden{x treasure chest marked with the symbol of Hiddukel sits here.~
+gold~
+container GNY 0 P
+19999999 ABCD 1826 1000 199999
+60 19999 0 P
+#1832
+red moon rock~
+({RRed{x) a moon rock~
+A red moon rock magically floats here in the air.~
+stone~
+warp_stone AJKSY 0 AQ
+0 0 0 0 0
+50 0 7345 P
+A
+1 1
+A
+12 20
+A
+2 1
+#1833
+berry red plump~
+a red berry~
+A plump red berry glistens with just a touch of moisture.~
+plant~
+food S 0 AO
+0 0 0 0 0
+19 1 10 P
+#1834
+druid staff~
+a druid staff~
+A sturdy, oaken staff lies on the ground.~
+oak~
+weapon GS 0 AN
+staff 0 0 pound FU
+20 4 200 P
+#1835
+magical pill~
+a pill~
+A magical pill lies here.~
+magic~
+pill AGS 0 AO
+20 'reserved' 'reserved' 'reserved' 'reserved'
+20 2 0 P
+#1836
+battlestaff oak~
+a battlestaff~
+A sturdy oak staff, with detailed runes carved into it, lies here.~
+oak~
+weapon GS 0 AN
+exotic 0 0 beating FT
+55 5 200 P
+A
+2 1
+A
+1 1
+#1845
+potion death~
+a potion of death~
+A potion filled with a black liquid lies here.~
+unknown~
+potion 0 0 AO
+0 'word of recall' 'reserved' 'reserved' 'reserved'
+50 0 0 P
+#1850
+potion teleport~
+a teleport potion~
+A teleport potion lies here.~
+glass~
+potion S 0 AO
+10 'teleport' 'reserved' 'reserved' 'reserved'
+10 1 0 P
+#1854
+black spotted leopard skin~
+a {Dblack{x-spotted leopard skin~
+The skin hide of a leopard lies here, smelling of dead animal.~
+leopard fur~
+armor AIJSY 0 AKY
+ACE ABCE BCE AE 0
+80 5 75000 P
+A
+2 5
+A
+1 2
+A
+13 10
+#1855
+coin hiddukel golden~
+(Corruption)(Ancient) Hiddukel's Golden Coin~
+(no description)~
+unknown~
+trash 0 0 AOPc
+0 0 0 0 0
+0 0 0 P
+#1856
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1857
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1858
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1859
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1860
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1863
+eye eyeball~
+the eyeball of %s~
+The eyeball of %s rolls around on the floor.~
+flesh~
+food 0 0 A
+A 0 0 0 0
+0 1 0 W
+#1864
+spilt pool blood~
+a pool of blood~
+A pool of spilt blood lies here.~
+blood~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 D
+#1865
+face~
+the ripped off face of %s~
+The ripped off face of %s lies on the floor.~
+flesh~
+food 0 0 AO
+B 0 0 0 0
+0 1 0 D
+#1866
+windpipe~
+the torn-out windpipe of %s~
+The torn-out windpipe of %s lies broken on the floor.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1867
+cracked head~
+the cracked-open head of %s~
+The cracked-open head of %s lies on the floor.~
+flesh~
+trash 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#1868
+sliced ear~
+the sliced off ear of %s~
+The sliced off ear of %s lies on the floor.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 0 0 P
+#1869
+sliced nose~
+the sliced off nose of %s~
+The sliced off nose of %s lies on the floor.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1870
+tooth~
+the knocked-out tooth of %s~
+The knocked-out tooth of %s lies on the floor.~
+bone~
+trash 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#1871
+tongue~
+the torn-out tongue of %s~
+The torn-out tongue of %s lies on the floor.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1872
+severed hand~
+the severed hand of %s~
+The severed hand of %s lies on the ground.~
+flesh~
+trash 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#1873
+severed foot~
+the severed foot of %s~
+The severed foot of %s lies on the floor.~
+flesh~
+trash 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#1874
+severed thumb~
+the severed thumb of %s~
+The severed thumb of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1875
+index finger severed~
+the severed index finger of %s~
+The severed index finger of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1876
+severed middle finger~
+the severed middle finger of %s~
+The severed middle finger of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1877
+severed ring finger~
+the severed ring finger of %s~
+The severed ring finger of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1878
+little severed finger~
+the severed little finger of %s~
+The severed little finger of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1879
+toe severed~
+the severed toe of %s~
+The severed toe of %s lies on the ground.~
+flesh~
+food 0 0 AO
+A 0 0 0 0
+0 1 0 P
+#1880
+garlic bulb~
+a {ygarlic{x bulb~
+A fresh {ygarlic{x bulb lies here.~
+plant~
+pill S 0 AO
+15 'sympathy' 'cure disease' 'reserved' 'reserved'
+20 2 0 P
+#1881
+ghost root~
+a ghostroot~
+A ghostroot lies here in the soil.~
+plant~
+pill 0 0 AO
+15 'levitate' 'pass door' 'reserved' 'reserved'
+20 2 0 P
+#1882
+mint leaf~
+a {gmint{x leaf~
+A {gmint{x leaf lies here on the ground.~
+plant~
+pill S 0 AO
+10 'refresh' 'cure light' 'reserved' 'reserved'
+15 1 0 P
+#1883
+tateesha nut~
+a tateesha nut~
+A tateesha nut lies here on the ground.~
+plant~
+pill S 0 AO
+15 'enlightenment' 'reserved' 'reserved' 'reserved'
+15 2 0 P
+#1884
+suaeysit mushroom~
+a suaeysit mushroom~
+A suaeysit mushroom lies here.~
+plant~
+pill S 0 AO
+15 'frenzy' 'reserved' 'reserved' 'reserved'
+18 2 0 P
+E
+suaeysit~
+A dark black mushroom with greyish markings along the undersides, this
+fungus grows in shadowed forests in cool to cold climes.  Suaeysit mushrooms
+can be eaten directly or dried and ground into tinctures or otherwise
+prepared.  However, they are highly addictive, and care must be taken when
+preparing and prescribing dosages.  
+~
+#1885
+fungaboru mushroom~
+a fungaboru mushroom~
+A fungaboru mushroom lies here on the ground.~
+plant~
+pill S 0 AO
+15 'repulsion' 'plague' 'reserved' 'reserved'
+18 1 0 P
+#1886
+fresh acorn~
+a fresh acorn~
+A fresh acorn lies here.~
+plant~
+trash 0 0 AO
+0 0 0 0 0
+0 5 0 P
+#1887
+zulsendra mushroom~
+a zulsendra mushroom~
+A zulsendra mushroom lies here.~
+plant~
+pill S 0 AO
+15 'haste' 'reserved' 'reserved' 'reserved'
+20 0 0 P
+#1888
+winclamit berry~
+a winclamit berry~
+A winclamit berry lies here.~
+plant~
+pill S 0 AO
+18 'cure critical' 'reserved' 'reserved' 'reserved'
+20 2 0 P
+#1889
+yavethalion fruit~
+a yavethalion fruit~
+Some yavethalion fruit lies here on the ground.~
+plant~
+pill S 0 AO
+20 'cure serious' 'calm' 'reserved' 'reserved'
+20 1 0 P
+#1890
+stonewort sprout~
+a sprout of stonewort~
+A sprout of stonewort lies here on the ground.~
+plant~
+pill S 0 AO
+15 'flesh to stone' 'reserved' 'reserved' 'reserved'
+18 1 0 P
+#1891
+woodsorrel flower~
+a woodsorrel flower~
+A woodsorrel desert flower lies here.~
+plant~
+pill S 0 AO
+23 'ice shield' 'reserved' 'reserved' 'reserved'
+25 2 0 P
+E
+woodsorrel~
+This is a small plant with leaves in three parts, like a shamrock.  The
+flowers are bell shaped and are white with a dash of blue.  The leaves must
+be crushed and dried for two weeks before use.  
+~
+#1892
+iceroot~
+an iceroot~
+An iceroot lies here.~
+plant~
+pill S 0 AO
+25 'flaming shield' 'reserved' 'reserved' 'reserved'
+25 1 0 P
+#1893
+goldbloom flower~
+a {Ygoldbloom{x flower~
+A {Ygoldbloom{x flower lies here on the ground.~
+plant~
+pill A 0 AO
+25 'glitterdust' 'invisibility' 'reserved' 'reserved'
+25 2 0 P
+#1894
+trail blood~
+a trail of {rblood{x~
+A trail of {rblood{x.~
+blood~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1895
+ancient ice dragon plate~
+({mAncient{x) plate of the {Wice {Cdragon{x~
+A suit of plate mail fashioned from dragon hide sits here, giving off a slight chill.~
+dragon skin~
+armor ASY 0 ADc
+ABE E DE ACD C
+80 12 4500000 P
+A
+1 2
+A
+23 -14
+A
+19 2
+A
+18 2
+A
+13 10
+A
+12 40
+#1896
+translucent bell~
+a translucent bell~
+A small translucent bell lies here.~
+magic~
+trap G 0 0
+'alarm'
+1 0 0 P
+#1897
+fire seed acorn~
+a fireseed~
+A fireseed acorn burns here.~
+plant~
+trap G 0 AO
+'fireseed'
+1 0 0 P
+#1898
+golden demon fountain~
+a {Ygolden{x fountain~
+A {Ygolden{x fountain in the shape of a demon, shoots out a stream of water.~
+gold~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#1899
+stained executioner block wooden~
+({rStained{x) the Executioner's block~
+A large {ywooden{x block lies here, stained with {rblood{x.~
+ironwood~
+treasure EGJSY 0 AO
+0 0 0 0 0
+80 2 0 P
+A
+14 100
+A
+4 2
+A
+1 2
+#1900
+potion delight~
+a potion of delight~
+A {Bblue{x potion fizzles before you.~
+glass~
+potion GSU 0 AO
+30 'invisibility' '' 'sanctuary' ''
+30 1 2100 P
+#1901
+potion fire~
+a potion of fire~
+A potion seems to burn into the ground.~
+glass~
+potion S 0 AO
+30 'frenzy' 'heat metal' 'shield' 'reserved'
+30 1 6500 P
+#1902
+potion recreation~
+a potion of recreation~
+A potion of the earth sits here unused.~
+glass~
+potion GS 0 AO
+30 'create spring' 'create rose' 'create food' 'reserved'
+30 1 5600 P
+#1904
+potion refreshment~
+a potion of refreshment~
+A potion seems to bubble before you.~
+glass~
+potion GSU 0 AO
+30 'heal' 'cure blindness' 'refresh' 'reserved'
+30 1 4500 P
+#1906
+cob web~
+a cob web~
+A large, dusty cobweb clings to the shadows in a corner of the room.~
+silk~
+portal GO 0 0
+0 0 E 0 0
+0 0 0 P
+#1911
+executioner hood~
+the {DExecutioner's{x hood~
+A large hood with a purple aura surrounding it lies here in a pool of blood.~
+velvet~
+armor EGIJSY 0 AEZ
+DF DF DF DF 0
+110 1 750000 P
+A
+12 25
+A
+3 1
+A
+19 1
+A
+18 1
+A
+17 -10
+#1913
+axe destruction~
+({mAncient{x) the Axe of Destruction~
+A bloody axe quivers in the air before your eyes.~
+steel~
+weapon ABEGJLY 0 AN
+axe 12 13 cleave DF
+115 14 0 P
+A
+13 50
+A
+12 15
+A
+1 1
+#1914
+trophy bag~
+a trophy bag~
+A well-crafted trophy bag lies here.~
+cloth~
+container S 0 AO
+100 0 0 100 0
+0 0 0 P
+#1915
+skull key~
+a skull shaped key~
+A key in the shape of a skull lies before your feet.~
+bone~
+room_key JQY 0 AO
+0 0 0 0 0
+1 1 0 P
+#1916
+death belt~
+the {Rbelt{x of {Ddeath{x~
+A belt covered in blood lies here.~
+leather~
+armor EIJSY 0 ALZ
+DF DF DF DF 0
+110 2 750000 P
+A
+13 25
+A
+19 5
+A
+1 2
+A
+2 2
+#1917
+puddle small water~
+a small puddle of water~
+A small puddle of water has formed here from the rain.~
+unknown~
+fountain 0 0 P
+2 2 'water' 0 0
+0 0 0 P
+#1919
+grapes~
+a bunch of grapes~
+A bunch of grapes rots away.~
+plant~
+food PS 0 AO
+BC BD 0 0 0
+30 1 1200 P
+#1920
+tenderloin steak~
+a tenderloin steak~
+A delicious meaty steak lies before you, going to waste.~
+flesh~
+food PS 0 AO
+AE CD 0 0 0
+35 1 4500 P
+#1921
+hidd surprise dinner~
+Hiddukel's surprise~
+A superb dinner lies waiting to be eaten.~
+unknown~
+food PS 0 AO
+BEF B 0 A 0
+0 1 500 P
+#1926
+treasure chest donation~
+({YGolden{x) a donation chest~
+A treasure chest for fellow members to rummage through sits here.~
+gold~
+container O 0 0
+10000 0 0 10000 0
+0 1000 0 P
+#1929
+blood stained breast plate~
+a {Rblood{x-{Rstained{x breastplate~
+A breastplate stained with {Rblood{x lies before you.~
+steel~
+armor BGIJY 0 ADY
+ACE CE CE ABCD C
+55 20 4500 P
+A
+19 3
+A
+18 3
+A
+1 1
+A
+20 -10
+A
+13 15
+#1930
+horse wagon~
+a horse wagon~
+A horse wagon lies on its side, smashed up against some large rocks.~
+wood~
+container O 0 0
+10000 0 0 10000 10000
+0 0 0 R
+#1931
+bag coins warrant~
+a bag of gold coins~
+A bag of gold coins catches your greedy eyes.~
+gold~
+treasure 0 0 A
+0 0 0 0 0
+1 10 10000 P
+#1943
+campfire~
+({RGlowing{x) a campfire~
+({RGlowing{x) A campfire burns here giving off heat.~
+energy~
+furniture G 0 P
+CFG ABCDIJKN ADJ BD BD
+30 0 0 P
+#1945
+small pond~
+a small pond~
+A small pond springs forth from the ground.~
+soil~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#1950
+small wooden sign~
+a small wooden sign~
+A small wooden sign has been posted here.~
+wood~
+trash OY 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+___________________________________________________
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                 " KEEP OUT "                    |
+|                                                 |
+|                                                 |
+|_________________________________________________|
+~
+#1951
+sapphire dagger~
+a {Bsapphire{x-hilted dagger~
+A dagger with a sapphire protruding from the hilt beckons your name...~
+steel~
+weapon BFGIY 0 AN
+dagger 7 10 stab D
+70 3 75000 P
+A
+13 10
+A
+2 2
+#1952
+thieves mask~
+a Thieves mask~
+A mask with two eyeholes cut out lies unused.~
+silk~
+armor GIJSY 0 AUY
+CD ACD BD ABD 0
+72 0 0 P
+A
+4 2
+A
+3 1
+#1953
+pool blood~
+a pool of {rblood{x~
+A pool of {rblood{x churns and swirls before your eyes.~
+blood~
+portal O 0 0
+0 0 0 ABCEIJK 0
+0 0 0 P
+#1964
+mining pick~
+a mining pick~
+A sharp pick, used to dig out ore lies here.~
+iron~
+weapon Y 0 AN
+mace 7 10 pierce D
+50 6 8600 P
+#1970
+gladiator vest~
+a gladiators vest~
+A vest, worn by most gladiators rests on the ground.~
+banded leather~
+armor ASY 0 ADX
+BCE ABCE ABCE E 0
+60 7 4500 P
+A
+1 2
+A
+2 1
+A
+18 1
+A
+19 1
+#1971
+dwarven hammer~
+a Dwarven hammer~
+A large hammer, used by dwarves throughout the world, lies before you.~
+steel~
+weapon BY 0 AN
+mace 8 18 crush 0
+60 7 46000 P
+A
+13 15
+A
+18 5
+A
+19 5
+#1972
+barbecued rat~
+a barbecued rat~
+A barbecued rat lies here stinking up the place.~
+flesh~
+food S 0 AO
+BEF BC 0 0 0
+35 1 2000 P
+#1973
+dwarven titanium mace~
+a Dwarven mace~
+A well-designed mace, forged out of titanium lies here humming.~
+titanium~
+weapon BIKY 0 AN
+mace 5 19 crush 0
+60 6 76000 P
+A
+19 4
+A
+18 4
+#1974
+bowl dwarven slop~
+a bowl of Dwarven slop~
+A bowl of some Dwarven slop gives off an unpleasant odor.~
+clay~
+food SY 0 AO
+CFG B 0 0 0
+20 1 500 P
+#1976
+mace annihilation~
+the {cMace{x of {WAnnihilation{x~
+A mace of sheer power and perfection, emanates a blinding {WAura{x.~
+adamantite~
+weapon ABGIKY 0 AN
+mace 16 10 blast FG
+115 12 100000 P
+A
+13 40
+A
+18 10
+A
+19 10
+#1977
+dark shadow~
+a dark {Dshadow{x~
+A dark {Dshadow{x brings curiosity to your mind.~
+air~
+portal O 0 0
+0 K A BCEFGIJK 0
+0 0 0 P
+#1978
+golden whip~
+a golden whip~
+A golden whip is on the ground here.~
+gold~
+trash CNSYZ 0 AP
+0 0 0 0 0
+0 3 0 P
+#1979
+vial small ogre blood ogre's ogres~
+a small vial of ogre's blood~
+A small vial of Ogre's blood lies here on the ground.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1980
+small vial human blood~
+a small vial of human blood~
+A small vial of blood lies here on the ground.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1981
+vial blood elven~
+a small vial of elven blood~
+A small vial of elven blood lies here.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1982
+small vial dwarven blood~
+a small vial of dwarven blood~
+A small vial of dwarven blood lies here on the ground.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1983
+blood vial kender small~
+a small vial of kender blood~
+A small vial of kender blood lies here on the ground.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1984
+small vial dragon dragon's blood~
+a small vial of dragon blood~
+A small vial of dragon's blood lies here on the ground.~
+unknown~
+drink 0 0 AO
+10 10 'blood' 0 0
+20 1 0 P
+#1985
+tasty roast rabbit~
+a roasted rabbit~
+A delicious and tasty roasted rabbit lies here.~
+unknown~
+food 0 0 AO
+D 0 0 0 0
+20 1 25 P
+#1986
+turkey whole seasoned roast~
+a seasoned roast turkey~
+A seasoned roast turkey lies here.~
+unknown~
+food 0 0 AO
+BD 0 0 0 0
+20 2 30 P
+#1987
+lettuce head~
+a head of lettuce~
+A green head of lettuce lies here.~
+unknown~
+food 0 0 AO
+B 0 0 0 0
+20 1 4 P
+#1988
+leg lamb~
+a cooked and seasoned leg of lamb~
+A cooked and seasoned leg of lamb lies here.~
+unknown~
+food 0 0 AO
+AC 0 0 0 0
+20 1 15 P
+#1989
+delicious red apple~
+a delicious red apple~
+A delicious red apple lies here.~
+unknown~
+food 0 0 AO
+B 0 0 0 0
+20 1 5 P
+#1990
+handful almonds roasted~
+a handful of roasted almonds~
+A handful of roasted almonds are piled here on the ground.~
+unknown~
+food 0 0 AO
+AB 0 0 0 0
+20 1 10 P
+#0
+
+
+
+#ROOMS
+#1800
+A Well-Traveled Road~
+The natural light from the sky and the unnatural light from the city of
+Solanthus disappears to the south.  To the north, the city of Solanthus
+looms into view, its large buildings reaching higher than the city walls.  
+~
+0 0 3
+D0
+~
+~
+0 0 5601
+D2
+~
+~
+0 0 1801
+S
+#1801
+A Well-Traveled Road~
+The trees only start to thicken as you continue on down this path.  The
+sights and sounds of children laughing and shopkeepers making deals with
+travelers now start to fade.  Continuing south leads even deeper into the
+forest, further and further away from the city of Solanthus.  
+~
+0 1033 3
+E
+obj~
+~
+D0
+~
+~
+0 0 1800
+D2
+~
+~
+0 0 1802
+D3
+~
+~
+6 1825 1982
+R EXALL 1801 3~
+S
+#1802
+A Well-Traveled Road~
+Deeper and deeper into the forest you go.  Youre not sure, but you think
+you can make out the outline of a towering mountain to the south.  The trees
+are too thick to make out anything else.  Wildflowers and thick weeds also
+grow along the sides of the road, beckoning you to stay a while and admire
+its beauty.  
+~
+0 1 3
+D0
+~
+~
+0 0 1801
+D2
+~
+~
+0 0 1803
+S
+#1803
+A Well-Traveled Road~
+The trees start to span out a little more, giving you a better look at
+what lies up ahead.  You can now definitely see a Mountain to the south of
+you.  Going south, poses a rocky climb, and to the north, soft grass and
+thick trees give you a sense of a more comfortable walk.  You notice
+something in the thick weeds on the side of the road.  Covered in moss and
+vines, lies a wooden sign with some writing etched on it.  
+~
+0 1 3
+D0
+~
+~
+0 0 1802
+D2
+~
+~
+0 0 1805
+D3
+~
+~
+0 0 1804
+S
+#1804
+The Little Shop of Horrors~
+Cobwebs, dust and the faint smell of death and decay overwhelm your
+senses as you step foot into this little store.  Right before you is a large
+desk, with a sign which reads "Little Shop of Horrors", posted on the wall. 
+A partially deformed man stands patiently behind the desk, waiting for you
+to buy something from him.  Well, are you?  
+~
+0 12 0
+D1
+~
+~
+0 0 1803
+S
+#1805
+Beginning of the Garnet Mountains~
+Very few trees grow here, but in their place you start to notice an
+abundance of boulders and thorny brush.  Perhaps a good place for an ambush.
+Starting your climb up the rigorous path poses to be a little
+breathtaking...  Literally.  Maybe you'd better head back north to the
+safety of the city, or does great adventure lie waiting up ahead in the
+cold, dark mountains...  Beckoning you to continue south.  
+~
+0 1 5
+D0
+~
+~
+0 0 1803
+D2
+~
+~
+0 0 1806
+S
+#1806
+Beginning of the Garnet Mountains~
+Looking around, you notice that you can either go south, back in the
+direction of Solanthus, or you can start your climb up the steep mountains. 
+Over in the brush on the side of the road, you notice a sign.  It looks as
+though it was just recently written on, for a red substance seems to be
+dripping off the bottom edge.  You step closer towards the sign to get a
+better look.  
+~
+0 1 5
+D0
+~
+~
+0 0 1805
+D4
+~
+~
+0 0 1807
+S
+#1807
+Up in the Mountains~
+It's not too late to turn around and head back to the city.  However,
+continuing up the mountains could bring adventure.  Rocks, tall weeds and a
+few trees surround this path.  Looking south, you notice the path goes on
+and going down will lead back to the city of Solanthus.  
+~
+0 0 5
+D2
+~
+~
+0 0 1808
+D5
+~
+~
+0 0 1806
+M 100 H 80
+S
+#1808
+Up in the Mountains~
+Further up the mountains you go.  Trees seem to thin out and taking its
+place, large boulders lie everywhere.  The path seems to be well traveled,
+for there doesn't seem to be any weeds covering it up at all.  Looking
+around, you may travel north, south or up.  Either way poses to be a good
+exercise.  
+~
+0 1 5
+D0
+~
+~
+0 0 1807
+D2
+~
+~
+0 0 1841
+D4
+~
+~
+0 0 1809
+S
+#1809
+Up in the Mountains~
+Standing on a dirt trail, you peer down and notice a trail which leads to
+the base of the mountains and looking east you notice that the trail
+continues on to the face of this lush place.  Tall trees and wild grass
+surround you, as well as a few daisies which kind of brings the true meaning
+of "nature" to your mind.  
+~
+0 1 5
+D1
+~
+~
+0 0 1810
+D5
+~
+~
+0 0 1808
+S
+#1810
+Up the Face of the Mountains~
+Down the face of the mountains, you realize that youre standing in some
+mud.  Looking at the wild grass growing on the sides of the path, it almost
+looks as if it had just rained.  There seems to be a little hole off to the
+side which seems to have collected some of the precipitation, but after
+taking a closer look, you decide that it would be best not to take a drink
+let alone even wash your muddy boots off; for fear that they might melt
+right off your feet.  
+~
+0 1 5
+D1
+~
+~
+0 0 1811
+D3
+~
+~
+0 0 1809
+S
+#1811
+Up the Face of the Mountains~
+The ground here seems to be dry, almost unnaturally dry, as if the suns
+deadly rays have been cooking this area for too long.  Even the grass and
+leaves dangling off of the trees have a brown tint to it, as if water is
+scarce in these parts.  Better check your canteens to make sure you brought
+enough.  
+~
+0 1 5
+D1
+~
+~
+0 0 1812
+D3
+~
+~
+0 0 1810
+S
+#1812
+Up the Face of the Mountains~
+You stand upon a trail deep into the face of the mountains.  Your only
+two ways of direction seem to be east and west, but as far as which way goes
+where, it's too hard to tell.  Looking around you can see birds soaring
+freely, hopping from tree limb to tree limb, as well as a few other small
+animals.  The fresh smell of the outdoors fills your lungs as you take a
+deep breath and sigh at what you see around you.  
+~
+0 1 5
+D1
+~
+~
+0 0 1813
+D3
+~
+~
+0 0 1811
+S
+#1813
+Up in the Mountains~
+You come up to a split in the path, where there seems to be a trail
+leading south.  A small pile of brush seems to be half-assed covering it up.
+Going through it seems like an easy task at hand, but then again going east
+or west, the road seems a even more easier to travel upon with no debris
+scattered about.  
+~
+0 1 5
+D1
+~
+~
+0 0 1836
+D2
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1812
+S
+#1814
+Going Deep in the Mountains~
+You seem to be surrounded by thick brush as you push onward.  The
+slithering of snakes can be heard near by making you wonder if continuing
+south is such a good idea, or would heading back north be wiser.  Either
+way, you figure you'd better not stand around for too long for fear that you
+just might get tangled up in the heavy bushes, giving any kind of poisonous
+creature the opportunity to take an advantage of the situation, making you
+its prey.  
+~
+0 1 5
+D0
+~
+~
+0 0 1813
+D2
+~
+~
+0 0 1815
+S
+#1815
+Deep in the Mountains~
+Deep in the Mountains you area small path leads to the west, however, you
+could swear you see the outline of some kind of rock door to your south. 
+Only one way to check to see if your senile or not.  Also to your south, you
+notice how there isn't any plant life which surrounds, what you think to be
+door.  Looking more closely, nothing seems to be growing closer than five
+feet away from thrum, what could be behind there which would make it that
+way?  
+~
+0 1 5
+D0
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1828
+S
+#1816
+{RBefore a Secret Tunnel{x~
+You've picked your way into this secret little tunnel.  The ground seems
+to be very smooth compared to the rugged trails out on the mountain range. 
+A slight, nasty odor comes to your senses as you stand here.  Going up
+further into the tunnel appears to be the only walk able path to choose. 
+However, the pool of blood looks a little suspicious, as if it's beckoning
+you to enter it.  
+~
+0 9 20
+D4
+~
+~
+0 0 1817
+S
+#1817
+{RUp in a Secret Tunnel{x~
+Foul smells and thick humid air, fills your nostrils as you travel
+through this secret little tunnel.  Going up promises to open up into a
+larger area, while going down, will only prove to get smaller.  Not seeing
+much else that could possibly strike your interest, continuing on in either
+direction would only seem to be logical.  
+~
+0 9 20
+D4
+~
+~
+0 0 1818
+D5
+~
+~
+0 0 1816
+S
+#1818
+{RTop of a Secret Tunnel{x~
+Standing at the top of the secret tunnel, youre still baffled as to where
+that foul smell of death is coming from.  Its either coming from down in the
+tunnel or south.  Black walls surround you in this fairly large cave.  If it
+weren't for your light, you'd probably get lost, stumble over a rock and hit
+your head.  
+~
+0 9 20
+D2
+~
+~
+0 0 1819
+D5
+~
+~
+0 0 1817
+S
+#1819
+{RBefore a Temple{x~
+Standing on solid sturdy ground, to your south stands a large set of
+golden doors.  The doors seem to be set in rock in this dark, damp tunnel. 
+Looking to your left, there is a sign, posted on the side of the wall.  P
+erhaps the sign will give you a better understanding as to what lies behind
+these two enormous doors which stand closed in front of you.  You could
+however, go back north and go down the putrid smelling tunnel, back into the
+fresh air, which seems to be the only good thing these mountains have had to
+offer so far.  
+~
+0 12 20
+D0
+~
+~
+0 0 1818
+D2
+~
+~
+1 0 1820
+S
+#1820
+{RInside Temple of Hiddukel{x~
+You stand inside of Hiddukels Temple.  Looking around, you see the entire
+place seems to be made out of gold, black gold that is.  To the south, there
+is a set of tall obsidian doors, with a gold plated head of Hiddukel in the
+center of it.  Its locked, and there doesn't seem to be a key lying about
+anywhere.  You could go east or west down the long hallways, but what is it
+that lies behind these doors?  
+~
+0 8 20
+D0
+~
+a~
+1 0 1819
+D1
+~
+~
+0 0 1822
+D2
+~
+~
+1 0 1823
+D3
+~
+~
+0 0 1821
+S
+#1821
+{RDown the Western Wing{x~
+Going down this hall, candles illuminate the gold, lustrous walls. 
+Paintings of odd looking creatures and beautiful women of all races line the
+walls.  There are so many, to look at them all probably would take
+centuries.  Some of the paintings look old, others fairly new.  Looking
+around once more, you can see that the pictures seem to continue down the
+halls to your west.  Looking east, will just bring you to another section in
+the hall.  
+~
+0 8 20
+D1
+~
+~
+0 0 1820
+D3
+~
+~
+0 0 1912
+S
+#1822
+{RDown the Eastern Wing{x~
+You find yourself down in the eastern wing of this mighty temple.  Walls
+made of gold surround you giving you a greedy feeling inside.  Looking down,
+you realize that youre standing on a carpet, which seems to also be made of
+gold, with silver stitching and embroidering.  Pictures of women and slaves
+line the walls, each one next to a torch, giving you a clearer image of what
+you're looking at.  The carpet continues on east and stops going west here. 
+~
+0 8 20
+D1
+~
+~
+0 0 1897
+D3
+~
+~
+0 0 1820
+S
+#1823
+{RHallway to the Altar{x~
+On the other side of the tall, obsidian doors you stand in a hallway
+which leads to Hiddukels Altar.  The walls in this hallway seem to emit more
+of a golden glow, as they too are made of from the black gold, a rich and
+rare ore.  
+~
+0 8 20
+D0
+~
+~
+1 0 1820
+D2
+~
+~
+0 0 1824
+S
+#1824
+{RHallway to the Altar{x~
+Again, the walls are made of the same black gold which you seem to see
+everywhere you go in this greedy place.  To the south of you, you see
+another set of tall doors.  These seem to be a little blacker and also seem
+to be giving off a little heat.  Something must be behind those doors,
+waiting for anyone to come through.  
+~
+0 8 20
+D0
+~
+~
+0 0 1823
+D2
+~
+~
+0 0 1825
+S
+#1825
+{RAncient Room before Temple Altar{x~
+Gold walls, obsidian doors to the north, and now a set of Crystal doors
+to your south.  Definitely Hiddukels temple, with his taste for such luxury
+and expensive tastes.  However, the set of doors to the south pose to be a
+little harder to get through than the others.  
+~
+0 2105353 20
+D0
+~
+~
+0 0 1824
+D2
+A large set of Crystal doors are waiting to be opened for you to peer at
+what’s inside.  
+~
+~
+2 1825 1826
+S
+#1826
+{RAt the Temple Altar{x~
+You stand inside Hiddukels Temple.  An altar devoted to him stands here,
+with a beautiful woman standing next to it, trying her best to seduce you
+into the world of Corruption and Greed.  The room emits an eerie glow, as
+your light shines off walls made of black gold.  To your east, you barely
+notice the outline of another door.  Going north will take you back the way
+from which you came.  In the center of the room stands a large circular
+dais, made from pure gold, resting on top of a platinum frame.  
+~
+0 8388616 27
+E
+altar~
+Before you stands a large circular dias, made of pure gold, standing atop
+of a platinum frame.  The frame itself is solid, with a semi-circle at the
+top to hold the dias in place.  Upon the frame, in the center of it, is a
+picture representing the face of Hiddukel, the mask of Comedy and Tragedy,
+one half of the face is smiling, the other is frowning.  The circular dias
+itself, made of pure gold, gleams brightly with lustre as the light from lit
+torches reflect off of it's golden surface.  Upon closer examination, there
+appears to be some writing etched in the center of the dias.  
+ 
+'For those who seek out greed and misfortune, one only needs to say the words -'
+ 
+{x                I shall betray my brothers in your name!
+ 
+~
+E
+frame~
+Before you stands a large circular dias, made of pure gold, standing atop
+of a platinum frame.  The frame itself is solid, with a semi-circle at the
+top to hold the dias in place.  Upon the frame, in the center of it, is a
+picture representing the face of Hiddukel, the mask of Comedy and Tragedy,
+one half of the face is smiling, the other is frowning.  The circular dias
+itself, made of pure gold, gleams brightly with lustre as the light from lit
+torches reflect off of it's golden surface.  Upon closer examination, there
+appears to be some writing etched in the center of the dias.
+{x
+'For those who seek out greed and misfortune, one only needs to say the words -'
+{x
+{x                  I shall betray my brothers in your name!
+~
+E
+dias~
+Before you stands a large circular dias, made of pure gold, standing atop
+of a platinum frame.  The frame itself is solid, with a semi-circle at the
+top to hold the dias in place.  Upon the frame, in the center of it, is a
+picture representing the face of Hiddukel, the mask of Comedy and Tragedy,
+one half of the face is smiling, the other is frowning.  The circular dias
+itself, made of pure gold, gleams brightly with lustre as the light from lit
+torches reflect off of it's golden surface.  Upon closer examination, there
+appears to be some writing etched in the center of the dias.
+{x
+'For those who seek out greed and misfortune, one only needs to say the words -'
+{x
+{x                  I shall betray my brothers in your name!
+~
+D0
+~
+~
+2 0 1825
+D1
+~
+~
+1 0 1827
+S
+#1827
+{RHiddukels Secret Treasure Room{x~
+So this is why it was so hard to get here...  Sitting here is Hiddukels
+own treasure chest.  This room seems to glow, almost blinding, and a lot
+more than the others, but also has a very putrid smell.  It also looks as if
+he really must love himself, for many small shrines and portrait paintings
+of him clutter the room.  
+~
+0 2629644 20
+D3
+~
+~
+1 0 1826
+S
+#1828
+Deep in the Mountains~
+A few scattered trees and red colored rocks surround you as you have
+traveled deeper into the mountains.  Peering to your west, you can make out
+a small cliff with something or someone moving about.  The trees block out
+too much of the skies light to be able to tell from back here.  Going east
+will take you to that odd smelling place, which brings much confusion to the
+nostrils.  
+~
+0 1 5
+D1
+~
+~
+0 0 1815
+D3
+~
+~
+0 0 1829
+S
+#1829
+Before a Small Cliff~
+You stand before a small cliff deep in the mountains.  Looking up, you
+can see a few small rocks tumbling down, headed in your direction of impact.
+The rocks which form the cliff seem to be of a reddish color with a slight
+goldish swirl.  As you ponder as to which direction to take, you look down
+and see a small pile of rocks at your feet.  Almost looks like some sort of
+game, played only by Kobolds.  
+~
+0 1 5
+D0
+~
+~
+0 0 1830
+D1
+~
+~
+0 0 1828
+D4
+~
+~
+0 0 1831
+S
+#1830
+A Narrow Path~
+You find yourself walking down a narrow path, in between some fairly
+large trees and a small rocky cliff.  Careful not to get in the path of any
+falling rocks that may come tumbling down at any given moment, you start to
+walk more closely along the side of the path in which the trees line down
+on.  
+~
+0 1 5
+D0
+~
+~
+0 0 1835
+D2
+~
+~
+0 0 1829
+S
+#1831
+Up on a Small Cliff~
+Here you find yourself standing on top of this small, yet high up cliff. 
+You cringe at just the thought of slipping and falling down, for even a
+small fall could prove to be fatal.  
+~
+0 1 5
+D0
+~
+~
+0 0 1832
+D5
+~
+~
+0 0 1829
+S
+#1832
+Up on a Small Cliff~
+You come up to about the center of this cliff and take a look around. 
+Not much can be seen through the thick darkness which seems to have over run
+these mountains.  However, you can make out a small pile of rocks, a game
+played by Kobolds perhaps, or just an old fire pit left by wandering
+travelers.  
+~
+0 1 5
+D0
+~
+~
+0 0 1833
+D2
+~
+~
+0 0 1831
+S
+#1833
+Up on a Small Cliff~
+You stand perched upon a large boulder, as you find yourself at the top
+of a small cliff.  Looking down, you see a trail which leads to the bottom
+of this red rock.  However, you notice another little trail leading south,
+continuing on to another section of these rocky cliffs.  
+~
+0 1 5
+D2
+~
+~
+0 0 1832
+D5
+~
+~
+0 0 1834
+S
+#1834
+Before a Small Cliff~
+Here you find yourself standing before a small cliff.  Looking around, a
+small pile of rocks can be seen scattered about the ground.  They don't look
+like your average rocks, rather more smooth in texture, as if used for some
+sort of purpose, a Game perhaps.  Looking up, you see a short, but tiring
+climb up the small cliff.  
+~
+0 1 5
+D2
+~
+~
+0 0 1835
+D4
+~
+~
+0 0 1833
+S
+#1835
+A Narrow Path~
+You find yourself walking down a small trail in between some fairly large
+trees and a small cliff.  Careful not to get in the path of any falling
+rocks that may come tumbling down at any given moment, you start to walk
+more closely along the side which the trees line next to the path.  
+~
+0 1 5
+D0
+~
+~
+0 0 1834
+D2
+~
+~
+0 0 1830
+S
+#1836
+Up in the Mountains~
+Your vision gets a little cloudy as you seem to have stumbled upon a
+section in the road which is covered by a light fog.  It doesn't seem to be
+of a "natural" state, but rather that of the magical kind.  Perhaps a spell
+or a curse has been cast upon it.  Then again, after what you've seen so far
+in these mountains, you'd better not stop to think about it too much, for
+weirdness seems to follow you everywhere you go.  That or youre following
+it.  
+~
+0 1 5
+D1
+~
+~
+0 0 1837
+D3
+~
+~
+0 0 1813
+S
+#1837
+Up in the Mountains~
+Looking up in a tree, you can here the sound of two birds chirping very
+loudly and aggressively as if they are having a serious little quarrel. 
+Aside from the two arguing birds, nothing else really seems to strike your
+interest and you decide it would be best to continue on.  
+~
+0 1 5
+D1
+~
+~
+0 0 1838
+D3
+~
+~
+0 0 1836
+S
+#1838
+Up in the Mountains~
+Up in the mountains you find yourself looking around, as if waiting for
+the unexpected to come jump right out at you.  As you stop and listen
+closely, you think you can a very distant growl of a panther, but what kind
+of idiot would want to stop and go investigate to prove him or herself right
+or wrong.  You can barely make out a bend in the trail if you head east. 
+Scouting down the path to your west brings dissatisfaction, as your vision
+can't seem to focus in quite clearly down that way.  
+~
+0 1 5
+D1
+~
+~
+0 0 1839
+D3
+~
+~
+0 0 1837
+S
+#1839
+Around a Bend~
+You have come to a bend in the path which you travel.  Going south will
+bring you around to the eastern side of the mountains and going west will
+bring you to the front side.  This part of the area seems to be a little
+less green, as the tall trees and overgrown weeds no longer dominate the
+sides of the road.  
+~
+0 1 5
+D2
+~
+~
+0 0 1840
+D3
+~
+~
+0 0 1838
+S
+#1840
+On the Eastern Side of the Mountains~
+You have now reached the eastern side of the, fairly large, Garnet
+Mountains.  It looks in no way, a whole lot different than the rest of the
+mountains, except maybe a few less trees.  However, now instead of the tall
+trees, there seems to be an increase in the amount of sharp rocks and large
+boulders lying about.  
+~
+0 1 5
+D0
+~
+~
+0 0 1839
+D2
+~
+~
+0 0 1927
+S
+#1841
+Up in the Mountains~
+A few trees, some large boulders and some tall grass growing on the sides
+of the path is about all you see.  Not much else to look at, you might as
+well continue on with your journey, whether it be up or down the mountains. 
+~
+0 1 5
+D0
+~
+~
+0 0 1808
+D2
+~
+~
+0 0 1842
+S
+#1842
+Up in the Mountains~
+Coming up to what looks like a dead end, going north or climbing up the
+small rock cliff which blocks your way from going any further north, seems
+to be your only two options.  Trying to climb over the boulders to go west
+would only bring your death and wouldn't make much of any sense.  Then going
+east, well, there is no possible way to climb up those rocks.  
+~
+0 1 5
+D0
+~
+~
+0 0 1841
+D4
+~
+~
+0 0 1843
+S
+#1843
+Up in the Mountains~
+Standing up on top of a small rocky cliff, the air seems to be getting
+thinner or thicker depending on which way youre traveling.  You could travel
+down the little cliff, or go west and try your adventurous ambition. 
+Looking down however, you start to notice that the path has a few weeds
+sprouting out from the center of it.  
+~
+0 1 5
+D3
+~
+~
+0 0 1844
+D5
+~
+~
+0 0 1842
+S
+#1844
+A Path Through the Mountains~
+A few rocks and some tall weeds in the middle of the path is about all
+you can make out, being that even though there are few trees, they still
+block out any light from the skies, which probably would make travel a
+little easier.  
+~
+0 1 5
+D1
+~
+~
+0 0 1843
+D3
+~
+~
+0 0 1845
+S
+#1845
+A Path on the Mountainside~
+Standing at an odd intersection in the mountains, you notice a smooth
+rocky path leading down.  What could be hibernating down there?  Going up
+the, fairly non-well traveled path also seems a little strange, for there
+actually seems to be some kind of light poking through the trees.  Of course
+whether it is light from the sun, or light from the moons, you have yet to
+tell.  Then going east, shows to lead to a better traveled trail, for there
+seems to be less weeds protruding from the middle of the path, unlike where
+you stand now, where they seem to grasp at your feet.  
+~
+0 1 5
+D1
+~
+~
+0 0 1844
+D4
+~
+~
+0 0 1849
+D5
+~
+~
+0 0 1846
+S
+#1846
+Down the Side of the Mountains~
+Down on the smooth rock path you stand.  The path seems to have been made
+by something of an animal type.  Youre not sure, but you could swear there's
+large paw prints still imbedded in the now hardened mud, on the sides of the
+path.  Theyve gone through so much weathering, it's hard to tell; after all
+they could just be nothing.  Then again, up in any mountain range, you never
+can be well prepared for what lies around each and every corner.  
+~
+0 1 5
+D0
+~
+~
+0 0 1847
+D4
+~
+~
+0 0 1845
+S
+#1847
+Before a Small Cave~
+Directly to the west, lies a small opening which seems to lead into a
+fairly large, possibly enormous cave.  Now you know for sure that the paw
+prints in the mud south of here are in fact, animal in nature.  Going west
+could only prove your curiosity and thoughts either right or wrong.  Then
+again, leaving south seems to be a better, more warming gut feeling.  
+~
+0 1 5
+D2
+~
+~
+0 0 1846
+D3
+~
+~
+0 0 1848
+S
+#1848
+A Bear Cave~
+You have entered a small cave.  Judging by the small bed of hay, and the
+large amount of bones scattered about the area, this cave is probably still
+being used by someone or something.  The scent of blood and dead animal fill
+your nostrils, making you feel a bit queasy.  Perhaps it would be best to
+turn around and leave this foul smelling cave to its occupants.  
+~
+0 1 0
+D1
+~
+~
+0 0 1847
+S
+#1849
+Up the Steep Slope~
+Up in the deep terrain of the Mountains, you notice that some sort of
+light peeks through the trees, as if here the trees aren't powerful enough
+to block it entirely out.  The source of the light is still too hard to make
+out.  For all you know, being that most of this mountain seems to be dark,
+it could be night 'round the clock, and you'd never be able to tell the
+difference.  Going in either direction still proves to be just as dark and
+even darker going down.  
+~
+0 1 5
+D2
+~
+~
+0 0 1850
+D5
+~
+~
+0 0 1845
+S
+#1850
+Along the Mountain's Trail~
+Continuing along a trail through the mountains, your ears are perked by
+the strange noises of wild animals rummaging through the bushes and trees. 
+Birds soar back and forth between trees, as well as bats.  Tall trees still
+loom over you blocking out any light which tries to penetrate through,
+making it very difficult to get a clear visual of your surroundings.  
+~
+0 1 5
+D0
+~
+~
+0 0 1849
+D2
+~
+~
+0 0 1851
+S
+#1851
+Along the Mountain's Trail~
+You come up to an intersection in the trail.  A small path leads off to
+the west to an area too hard to make out.  The main path goes on to the
+north and south.  More tall trees surround you, as well as a few thorny
+bushes and some wild flowers.  
+~
+0 1 5
+D0
+~
+~
+0 0 1850
+D2
+~
+~
+0 0 1853
+D3
+~
+~
+0 0 1852
+S
+#1852
+Near the Cliff's Edge~
+Wandering along the mountain's trails, you happen to notice that youre
+pretty close to the ledge of a very high cliff.  As you step closer, you can
+start to feel the ground beneath you start to give way.  Getting a firm foot
+placement, you feel pretty confident in continuing on.  
+~
+0 1 5
+D1
+~
+~
+0 0 1851
+D3
+~
+~
+0 0 1854
+S
+#1853
+Along the Mountain's Trail~
+A few bushes with sharp, skin piercing thorns seem to grow all about you
+as you continue forth.  Little insects scurry about, trying to stay clear of
+your path as you walk by.  Just the thought of bats flying near your head is
+enough to boggle your mind, let alone having to see them actually do it. 
+Perhaps it would be best to continue on your way, rather then take the
+chance of being hit in the head by one of those venomous creatures.  
+~
+0 1 5
+D0
+~
+~
+0 0 1851
+D2
+~
+~
+0 0 1856
+S
+#1854
+Along a Cliff's Edge~
+Now youre standing directly on the ledge, being able to look down and see
+the bottom.  You move your foot just slightly and watch as a few pebbles
+break loose and tumble down the cliff.  Looking down more closely, you
+notice that there seems to be some kind of hole in the side of the cliff.  A
+secret cave perhaps?  Only one way to find out be brave enough to climb
+down.  
+~
+0 524289 5
+D1
+~
+~
+0 0 1852
+S
+#1855
+Caught in a Landslide~
+D
+ D
+  D
+  D
+  O
+   O
+    O
+    O
+     W
+      W
+       W
+      W
+       N
+      N
+       N
+        N
+    _________
+the side of the mountains you go!
+ 
+it seems fun at first, but as you hit bottom and look up
+realizing that you have no idea where the hell you've landed,
+All thoughts of laughter and enjoyment quickly disperse
+from your head.
+----> Maybe you ought to be more careful next time <-----
+~
+0 2646021 5
+S
+#1856
+Along the Mountain's Trail~
+More bats, birds and any other kind of creature known to man, seems to
+cross your path, as you walk by.  Stopping to take a break here would
+probably only give them all the opportunity to stop and snack on your living
+flesh.  Maybe there will be another opportunity further down the road.  
+~
+0 1 5
+D0
+~
+~
+0 0 1853
+D2
+~
+~
+0 0 1857
+S
+#1857
+Beginning of the Trail of Tears~
+You have come to the beginning and end of the Trail of Tears.  Why it was
+named that, you're unclear, but perhaps if you went up it you'd find out. 
+It seems to be a little quieter than normal, bats not winging your head as
+you walk by like they normally do.  Looking up, you can see a very steep
+climb.  Just looking up and thinking about climbing it almost seems painful.
+~
+0 1 5
+D0
+~
+~
+0 0 1856
+D4
+~
+~
+0 0 1858
+M 50 H 50
+S
+#1858
+On the Trail of Tears~
+Looking down, the darkness seems to cover the mountain road, like a
+plague.  Looking up you can start to make out the sky.  The trees are bent,
+to slope upward with the rocky, cliff like path.  From up above, fresh air
+seeps down and into your lungs.  However, if you go up, you can feel the air
+starting to get really cold, and fast.  
+~
+0 1 5
+D4
+~
+~
+0 0 1859
+D5
+~
+~
+0 0 1857
+M 50 H 50
+S
+#1859
+On the Trail of Tears~
+Judging by your excellent skills with nature, you'd guess to be mid-way
+up the Trail of Tears.  The air seems to have a slight chilling breeze to it
+and slight amounts of snow can be seen here and there throughout the bushes
+and trees.  
+~
+0 1 5
+D4
+~
+~
+0 0 1860
+D5
+~
+~
+0 0 1858
+M 50 H 50
+S
+#1860
+On the Trail of Tears~
+You stand near the top of this horrid trail.  The air is seemingly very
+cold and quite a bit of snow lies about the road.  Careful, if you don't
+watch your step carefully, you could slip and fall turning yourself into a
+mortal sled.  Although the air is cold, something doesn't smell right.  You
+can't place your finger on it, but it almost smells something like a Kobold
+or Mimic of some sort.  
+~
+0 4 5
+D4
+~
+~
+0 0 1861
+D5
+~
+~
+0 0 1859
+M 50 H 50
+S
+#1861
+End of the Trail of Tears~
+You stand at the top of the Trail of Tears.  The air is quite numbing,
+making it a little difficult to breath.  Snow covers the entire ground, not
+leaving one square inch of open ground.  The tree's limbs hang low by the
+weight of the snow and as you start walking, you realize that it's at least
+three feet deep.  
+~
+0 4 5
+D1
+~
+~
+0 0 1862
+D2
+~
+~
+0 0 1880
+D5
+~
+~
+0 0 1860
+M 50 H 50
+S
+#1862
+On a Snowy Path~
+Youre trudging through three feet of snow.  Warm places come to mind, as
+you seem to be having one hell of a time trying to make it through this
+white stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1863
+D3
+~
+~
+0 0 1861
+M 50 H 50
+S
+#1863
+On a Snowy Path~
+Youre trudging through three feet of snow!  Warm places come to mind, as
+you seem to be having one hell of a time trying to make it through this
+white stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1864
+D3
+~
+~
+0 0 1862
+M 50 H 50
+S
+#1864
+On a Snowy Path~
+Youre trudging through three feet of snow!  Warm places come to mind, as
+you are having one hell of a time trying to make it through this white
+stuff, before frostbite sets in and claims 'victor' over your hands and
+feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1865
+D3
+~
+~
+0 0 1863
+M 50 H 50
+S
+#1865
+On a Snowy Path~
+You are trudging through three feet on snow!  Warm places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1866
+D3
+~
+~
+0 0 1864
+M 50 H 50
+S
+#1866
+On a Snowy Path~
+You are trudging through three feet of snow!  Warm places come to mind as
+you seem to be having one hell of a time trying to make it through this
+white stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1867
+D3
+~
+~
+0 0 1865
+M 50 H 50
+S
+#1867
+A Bend in the Snowy Path~
+You've come up to a corner in this ridiculous, snowy path.  Careful not
+to go to fast, or else you might slip, fall and break your neck.  As you
+continue around, the snow seems to blow down on you a little harder, making
+it very difficult to see which direction youre traveling in.  
+~
+0 0 5
+D2
+~
+~
+0 0 1868
+D3
+~
+~
+0 0 1866
+M 50 H 50
+S
+#1868
+On a Snowy Path~
+Youre trudging through three feet of snow!  Warm places come to mind, as
+you are having one hell of a time trying to make it through this white
+fluffy stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D0
+~
+~
+0 0 1867
+D2
+~
+~
+0 0 1869
+M 50 H 50
+S
+#1869
+On a Snowy Path~
+You find yourself standing in three feet of cold, fluffy snow.  Any
+tracks that may have been left by the last thing to walk through here, have
+been blown away and filled in with snow.  Youre not completely aware of your
+surroundings, but the one thing your sure about is, that you want to get out
+of this cold, before your body becomes over taken with frostbite.  
+~
+0 0 5
+D0
+~
+~
+0 0 1868
+D2
+~
+~
+0 0 1870
+M 50 H 50
+S
+#1870
+On a Snowy Path~
+You still find yourself in three feet of snow.  It seems to continue on
+north and south, but as you look up for a brief moment, you can barely make
+out another trail, a trail made of something even more dangerous than this
+snow ---- Ice!  
+~
+0 4 5
+D0
+~
+~
+0 0 1869
+D2
+~
+~
+0 0 1871
+D4
+~
+~
+0 0 1888
+M 50 H 50
+S
+#1871
+On a Snowy Path~
+You're trudging through three feet of snow!  Warm places come to mind, as
+you seem to be having on hell of a time trying to make it through this white
+fluffy stuff, before frostbite sets in and claims 'victor' over your hands
+and feet.  
+~
+0 0 5
+D0
+~
+~
+0 0 1870
+D2
+~
+~
+0 0 1872
+M 50 H 50
+S
+#1872
+A Bend in the Snowy Path~
+You've come up to a bend in this trail of deep snow.  The wind blasts
+your face giving you a numbing feeling.  About the only thing you can
+possibly think of doing right now, is to continue on your way and get out of
+this craziness.  
+~
+0 0 5
+D0
+~
+~
+0 0 1871
+D3
+~
+~
+0 0 1873
+M 50 H 50
+S
+#1873
+On a Snowy Path~
+You are trudging through three feet of snow!  Warm places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white fluffy stuff, before frostbite sets in and claims 'victor' over your
+hands and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1872
+D3
+~
+~
+0 0 1874
+M 50 H 50
+S
+#1874
+On a Snowy Path~
+You are trudging through three feet of snow!  Warm places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white fluffy stuff, before frostbite sets in and claims 'victor' over your
+hands and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1873
+D3
+~
+~
+0 0 1875
+M 50 H 50
+S
+#1875
+On a Snowy Path~
+You are trudging through three feet of snow!  Warm places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white fluffy stuff, before frostbite sets in and claims 'victor' over your
+hands and feet.  
+~
+0 0 5
+D1
+~
+~
+0 0 1874
+D3
+~
+~
+0 0 1876
+M 50 H 50
+S
+#1876
+On a Snowy Path~
+Here you find yourself still walking through this deep, cold snow.  The
+numbing affects it has inflicted upon you are starting to take its toll.  If
+youre not careful as to watching your step, you just might slip and fall
+down the mountain, tumbling to your premature death.  
+~
+0 4 5
+D1
+~
+~
+0 0 1875
+D2
+~
+~
+0 0 1855
+D3
+~
+~
+0 0 1877
+M 50 H 50
+S
+#1877
+A bend in the Snowy Path~
+Coming to a corner in this blinding white path, you start to make the
+outlines of something moving up ahead of you.  Youre not sure if it's
+actually something to worry about, or if it's just you, losing your mind due
+to the cold affects the snow and wind seems to be having on you.  
+~
+0 0 5
+D0
+~
+~
+0 0 1878
+D1
+~
+~
+0 0 1876
+M 50 H 50
+S
+#1878
+On a Snowy Path~
+Youre trudging through three feet of snow!  Warmer places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white fluffy stuff, before frostbite sets in and claims 'victor' over your
+hands and feet.  
+~
+0 0 5
+D0
+~
+~
+0 0 1879
+D2
+~
+~
+0 0 1877
+M 50 H 50
+S
+#1879
+On a Snowy Path~
+You're standing in three feet of snow!  Looking all around you, a small
+icy trail seems to go up, even closer to the mountains peak.  You could
+either take your chances and risk breaking your neck hiking up the icy path,
+or continue about your way in the not so comfortable snow.  
+~
+0 4 5
+D0
+~
+~
+0 0 1880
+D2
+~
+~
+0 0 1878
+D4
+~
+~
+0 0 1881
+M 50 H 50
+S
+#1880
+On a Snowy Path~
+You are trudging through three feet of snow!  Warmer places come to mind,
+as you seem to be having one hell of a time trying to make it through this
+white fluffy stuff, before frostbite sets in and claims 'victor' over your
+hands and feet.  
+~
+0 0 5
+D0
+~
+~
+0 0 1861
+D2
+~
+~
+0 0 1879
+M 50 H 50
+S
+#1881
+Up an Icy Trail~
+You find yourself at the top of an icy trail.  Looking down, you can see
+the vicious snowy path.  Up here, you seem to be able to focus in your eyes
+a little better, with the wind and flying debris being considerably less
+than what it was down there.  However, although you may be able to see more
+clearly, your ability to walk with good footing just went out the door.  
+~
+0 0 5
+D0
+~
+~
+0 0 1882
+D2
+~
+~
+0 0 1892
+D5
+~
+~
+0 0 1879
+M 40 H 40
+S
+#1882
+On a Trail of Ice~
+You find yourself not walking, but more like skating down this icy trail.
+It's completely solid as if youre walking down a frozen river.  If you're
+not too careful, you could wind up losing your footing entirely and cause
+some serious damage to yourself.  
+~
+0 0 5
+D0
+~
+~
+0 0 1883
+D2
+~
+~
+0 0 1881
+M 40 H 40
+S
+#1883
+Around the Icy Trail~
+Sliding around a corner you go, as you try to keep yourself from falling
+down on your ass.  You feel that you have no choice but to continue on, else
+if you stop you just might not be able to get yourself moving again.  
+~
+0 0 5
+D1
+~
+~
+0 0 1884
+D2
+~
+~
+0 0 1882
+M 40 H 40
+S
+#1884
+On an Icy Trail~
+You find yourself not walking, but rather skating down this icy trail. 
+It's completely solid in form, as if walking down a frozen river.  If you're
+not too careful, you could lose your footing completely, causing serious
+bodily damage.  Looking upward as you skate on by, you can make out yet
+another little path which leads further up this mountains peak.  
+~
+0 0 5
+D1
+~
+~
+0 0 1885
+D3
+~
+~
+0 0 1883
+D4
+~
+~
+0 0 1893
+M 40 H 40
+S
+#1885
+On an Icy Trail~
+You find yourself not walking, but more like skating down this icy trail.
+It's completely solid in form, as if walking down a frozen river.  If youre
+not too careful about how and where you step, you could wind up falling down
+on your bum, causing serious damage to yourself.  
+~
+0 0 5
+D1
+~
+~
+0 0 1886
+D3
+~
+~
+0 0 1884
+M 40 H 40
+S
+#1886
+Around the Icy Trail~
+Here you find yourself slipping and sliding around another little icy
+corner.  As if things couldn't get any worse, you look down and spot a few
+animal tracks heading off in all directions.  Who or what it is is too hard
+to make out, however you know if you happen to run into it, it won't be
+pretty.  
+~
+0 0 5
+D2
+~
+~
+0 0 1887
+D3
+~
+~
+0 0 1885
+M 40 H 40
+S
+#1887
+On an Icy Trail~
+You find yourself slipping and sliding down this icy trail.  Completely
+solid in form, you feel like your walking down a frozen river and if youre
+not too careful about your footing, you could easily slip and fall,
+injuring, possibly maiming yourself.  
+~
+0 0 5
+D0
+~
+~
+0 0 1886
+D2
+~
+~
+0 0 1888
+M 40 H 40
+S
+#1888
+Up on an Icy Trail~
+Here you stand, at the top of this icy trail.  Looking down you can see
+the vicious snowy path, blowing snow and cold air into it's victim's way. 
+Although your vision up here is much clearer than it was down there, it's a
+lot harder to get a good stable footing in this turf.  You can either
+continue down this frozen path, or go back down to the, not-so-nice winds of
+the snowy trail.  
+~
+0 0 5
+D0
+~
+~
+0 0 1887
+D2
+~
+~
+0 0 1889
+D5
+~
+~
+0 0 1870
+M 40 H 40
+S
+#1889
+Around the Icy Trail~
+Careful!  You don't want to go whipping around this corner too fast; else
+you might slip, fall and break your neck, or even worse.  You try to dig in
+your heels to get a better grip in the icy ground, but seem to only lose
+your footing, barely recovering from disaster.  
+~
+0 0 5
+D0
+~
+~
+0 0 1888
+D3
+~
+~
+0 0 1890
+M 40 H 40
+S
+#1890
+On an Icy Trail~
+You find yourself not walking, but rather skating down this icy trail. 
+It's completely solid in form, as if walking down a frozen river.  If youre
+not too careful, you could easily lose your footing, slip and fall, causing
+serious damage to yourself.  
+~
+0 0 5
+D1
+~
+~
+0 0 1889
+D3
+~
+~
+0 0 1891
+M 40 H 40
+S
+#1891
+On an Icy Trail~
+Zooming down this icy trail you go!  A slight cold breeze whips by your
+face as you continue on.  Looking around, you can make out a small trail
+going up the mountains peak.  Also quite visible, are some animal tracks,
+but not like the kind youre used to seeing.  These stand out quite
+different, and make you wonder what else lurks up here with you.  Better
+keep an eye out.  
+~
+0 0 5
+D1
+~
+~
+0 0 1890
+D3
+~
+~
+0 0 1892
+D4
+~
+~
+0 0 1896
+M 40 H 40
+S
+#1892
+Around the Icy Trail~
+You come around an icy corner, quick and in a hurry, only instead of
+going around with ease as you thought you'd be able to, you start to lose
+your footing and immediately try to slow down without falling on your
+behind.  The ground is solid, but proves to be a pain in the ass when it
+comes to walking.  Even trying to dig in with clawed boots seems to be
+useless.  
+~
+0 0 5
+D0
+~
+~
+0 0 1881
+D1
+~
+~
+0 0 1891
+M 40 H 40
+S
+#1893
+Near the Top~
+You find yourself standing very close to the top of this Mountain's
+seemingly unreachable peak.  A small little hike more and you'll be there. 
+However, what awaits you at the top kind of boggles your mind.  The only
+thing you hope for is that it won't be a waste of time and energy. 
+Hopefully, there will be something waiting to do battle with you. 
+Excitement jolts through your body, and the anticipation seems to eat you up
+as you stand here pondering.  
+~
+0 4 5
+D2
+~
+~
+0 0 1894
+D5
+~
+~
+0 0 1884
+M 30 H 30
+S
+#1894
+Near the Top~
+You're almost to the top.  Only a few moments more and you'll have
+reached the top of the Garnet Mountains.  The cold is almost unbearable as
+you get closer and closer.  Looking up, you see the distance left to
+completing your journey up here; however you also can make out something
+moving.  Youre too far away to get a good, clear look, but you can tell
+there definitely is something up there.  Perhaps, you should go up and take
+a gander; after all, coming all this way only to head back down would be
+cowardly.  
+~
+0 0 5
+D0
+~
+~
+0 0 1893
+D2
+~
+~
+0 0 1896
+D4
+~
+~
+0 0 1895
+M 30 H 30
+S
+#1895
+Top of Garnets Peak~
+The chilling wind stings your face with its rigid cold air, as you have
+taken your last step through the, now, deep snow to make it up Garnet's
+Peak.  Trying to catch your breath from the long hike and thin air, you stop
+to take a look around.  Looking north, the city of Solanthus looks like a
+small model.  Looking to your east, you can make out the outline of another
+city.  Could it be the city of Lemish?  Turning around you can make out
+another city.  Must be the fabled city of Kaolyn you've always heard about
+since you were a child.  Looking around close by, it looks as if the snow
+itself is moving.  Is it just your imagination, or is there something up
+here with you?  
+~
+0 8192 5
+D5
+~
+~
+0 0 1894
+M 20 H 20
+S
+#1896
+Near the Top~
+You find yourself standing very close to the top of the mountain's
+seemingly unreachable, peak.  A small hike more and you'll be there. 
+However, what awaits you at the top, kind of boggles your mind.  The only
+thing you hope for is that it won't be a waste of time and energy. 
+Hopefully there will be something waiting to do battle with you when you
+reach the top.  Excitement jolts through your body, as the anticipation
+seems to eat you up as you stand here pondering.  
+~
+0 4 5
+D0
+~
+~
+0 0 1894
+D5
+~
+~
+0 0 1891
+M 30 H 30
+S
+#1897
+{RDown the Eastern Wing{x~
+Continuing down the eastern wing, more paintings of beautiful, nude women
+chained up as slaves, line the walls.  The torches beam brightly, lightening
+up the hallway like the sun's rays reflecting off of a sea's water.  The
+scent of gold fills your nostrils making you feel a little greedy.  On the
+golden carpet, a large picture of a playing card is stitched in Silver.  It
+is a picture of the Joker.  
+~
+0 8 20
+D1
+~
+~
+0 0 1898
+D3
+~
+~
+0 0 1822
+S
+#1898
+{RDown the Eastern Wing{x~
+Here, you find yourself at a split in the hall.  Screams can be heard
+very clear, as they seam to echo in your ears with its intense, ear piercing
+sound.  The sounds seem to be coming south of you, sounds of both men and
+women in excruciating pain.  A fairly large painting depicting a world in
+chaos, hangs on the wall.  Getting a closer look, it almost looks like the
+world is that of Krynn.  However, age seems to have taken its toll on the
+canvas and the paint seems to be a little blurry.  
+~
+0 8 20
+D1
+~
+~
+0 0 1900
+D2
+~
+~
+0 0 1899
+D3
+~
+~
+0 0 1897
+S
+#1899
+{RBefore a Slave Pit{x~
+A large metal door with small bars serving as a window lies directly
+south of you.  The screams from which you had previously heard, can be heard
+even more clear and louder.  What it is thats screaming is still unknown and
+what is making them scream for their lives like that, is still unknown to
+you at this time also.  Perhaps if you had a key to unlock the cell, you
+could find out first hand as to what it is making such an unnatural scream. 
+~
+0 8 20
+D0
+~
+~
+0 0 1898
+D2
+~
+~
+4 1915 1911
+S
+#1900
+{RDown the Eastern Wing{x~
+Continuing on down the eastern wing, you stop to take a look up the
+walls.  Still giving off a bright luster, there's something else about them
+that you just can't place your finger on.  Perhaps it would be best to
+practice up your sneaking skills and keep walking before something bad or
+unexpected happens.  Before you leave, you notice that on some of the
+paintings, which depict people, the eyes on them seem to follow your every
+footstep, never losing sight of you.  
+~
+0 8 20
+D1
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 1898
+S
+#1901
+{RDown the Eastern Wing{x~
+You look up to see something which shocks every nerve in your body,
+making you feel numb from head to toe.  It appears to be a personal portrait
+of you.  Could you be all that special to have such an honor?  Its already
+an honor to walk among the most elite band of marauders, let alone to have
+paintings of you on the wall.  Hrm, you ponder, perhaps it's just all some
+sort of illusion, a trick brought on by your master just to get a good
+laugh.  
+~
+0 8 20
+D1
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1900
+S
+#1902
+{RDown the Eastern Wing{x~
+You come up to a split in the hallway in which every direction seems to
+lead into a seemingly new world.  Looking south, the hall of tricks leads
+into a new dimension.  Looking east and west, the eastern wing will continue
+to take through the rest of this temple.  A scent of perfume, roses and sex
+seem to invade your senses as you stand here pondering your next move. 
+Quite a weird place, with so many different noises, smells and sights.  A
+fountain made of gold spurts out water, enough to quench even the thirstiest
+of Dragons.  
+~
+0 8 20
+D1
+~
+~
+0 0 1904
+D2
+~
+~
+0 0 1903
+D3
+~
+~
+0 0 1901
+S
+#1903
+{RHall of Tricks{x~
+You stand at the beginning of a tricky hall.  To the north you see where
+the eastern wing splits, leading down to here.  To the south, you notice
+this weird hallway continues on.  Ghostly voices of laughter can be heard
+echoing down this hall, causing the hair on the back of your neck to stand
+straight up.  Pictures of slaves, thieves and chaotic thoughts, line the
+walls as you continue your walk.  
+~
+0 8 20
+D0
+~
+~
+0 0 1902
+D2
+~
+~
+0 0 1907
+S
+#1904
+{RDown the Eastern Wing{x~
+You come around to a corner, in which you may continue on going north or
+west.  The ceiling here seems to tower up a lot higher than most of the
+other rooms in this temple that you've been to.  Perhaps there's some sort
+of guard tower way up there.  
+~
+0 8 20
+D0
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1902
+S
+#1905
+{RHallway of Lies{x~
+A feeling of betrayal enters your body, leaving you shaken and feeling
+cold.  As if some sort of demon passed through your body and left, you start
+to feel warm again, especially since now youre being treated to the smell of
+food.  A slight clanging sound can be heard coming from the north and to
+your south lays the very tall corner.  
+~
+0 8 20
+D0
+~
+~
+0 0 1906
+D2
+~
+~
+0 0 1904
+S
+#1906
+{RThe Room of Betrayal{x~
+You find yourself standing in a room filled with shadows, cobwebs, dust
+and everything else that points to an abandoned, empty room.  You could have
+sworn up and down that the smell of food that had been invading your senses
+came from in here.  However, as you stand here pondering, no detection of
+food can be picked up at all.  As a matter of fact, you feel more like
+sneezing than eating.  You feel...  Betrayed.  
+~
+0 8 20
+E
+tele~
+You find yourself getting sucked out of reality!
+~
+D2
+~
+~
+0 0 1905
+S
+#1907
+{RHall of Tricks{x~
+Paintings of playing cards line the hall; paintings of the King, Queen,
+Jack and most importantly, the Joker.  The distinct sound of laughter and
+screams of pain seem to be coming from the south; either that or your
+imagination is playing a trick on you, for the sounds seem to be coming from
+within the walls themselves.  
+~
+0 8 20
+D0
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1908
+S
+#1908
+{RHall of Tricks{x~
+You seem to be standing in a hallway which seems to giggle at you. 
+Listening more closely, you definitely can make out laughter, however, where
+it's coming from seems to boggle your mind more than anything.  Laughter
+echoes throughout the hall even louder as you continue on.  
+~
+0 8 20
+D0
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1909
+S
+#1909
+{RHall of Tricks{x~
+You come to a corner in this hall of tricks.  Screams of tortured victims
+can be heard off in the east.  Torches illuminate all around you, reflecting
+off the chained shackles which hang off the walls.  A smaller, yet still
+made of gold, carpet stretches on north.  
+~
+0 8 20
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+0 0 1910
+S
+#1910
+{RA Room of Torture{x~
+You find yourself in a torture room, where those who wish to practice up
+on their skills, may do so.  Chains line the walls, as well as a few locked
+doors.  Perhaps it wouldn't be a bad idea to train your skills, else you
+become on of the skeletons at the end of those shackles.  
+~
+0 8 20
+D0
+~
+~
+3 0 1977
+D1
+~
+~
+3 0 1978
+D2
+~
+~
+4 0 1979
+D3
+~
+~
+0 0 1909
+S
+#1911
+{RA Slave Pit{x~
+This cell doesn't seem to show any luster to it at all.  As a matter of
+fact, it looks as if a fireball has struck the place, with its charred walls
+and sulfuric smell.  The only light that gets in here naturally is the light
+which shines through the metal bars on the cell door window.  Shackles line
+across the walls with skeleton corpses still hanging from them.  
+~
+0 2105345 20
+D0
+~
+~
+4 0 1899
+S
+#1912
+{RDown the Western Wing{x~
+Candles illuminate the walls, letting you get a good look at the pictures
+which hang from these walls.  Looking closely at a few of the paintings, you
+notice one thing that they all have in common.  Theyre all signed by
+Hiddukel himself.  Taking a quick observation of your surroundings, you also
+notice a pleasant aroma lingering in the air, reminding you of a flower
+garden.  
+~
+0 8 20
+D1
+~
+~
+0 0 1821
+D3
+~
+~
+0 0 1913
+S
+#1913
+{RDown the Western Wing{x~
+Screams can be heard from the south as you stop to observe your
+surroundings.  Whether they're female or male you cannot tell, but you are
+sure that whatever it is thats making them must be in some extreme pain. 
+Not too many paintings hang in this section of the hallway, at least not as
+many as the others.  Perhaps it has something to do with what lies south of
+here.  Of course there's only one way to find out, either that or you can
+ignore what you hear and continue on west or east down the lustrous
+hallways.  
+~
+0 8 20
+D1
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1914
+S
+#1914
+{RDown the Western Wing{x~
+Small cries for help can be heard ringing ever so lightly throughout the
+long, lustrous hallway.  Looking down, you see a plush golden carpet which
+seems to stretch endlessly down the hallway to the west.  On the carpet
+itself, are little pictures of daggers, embroidered randomly in red and
+black stitching, giving it a classy touch?  
+~
+0 8 20
+D1
+~
+~
+0 0 1913
+D3
+~
+~
+0 0 1917
+S
+#1915
+{RBefore a Slave Pit{x~
+A large metal door with small bars serving as a window lies directly
+south of you.  The screams from which you had previously heard, can be heard
+even more clear and louder.  What it is youre still unsure of and what's
+making them scream like that is still unknown to at this time also.  Perhaps
+if you had a key to unlock the cell, you could find out first hand as to
+what it is making such an unnatural scream.  
+~
+0 8 20
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+4 1915 1916
+S
+#1916
+{RA Slave Pit{x~
+This cell does not glow anything at all.  As a matter of fact, it looks
+as if a fireball has struck the place, with its charred walls and sulfuric
+smell.  The only light that gets in here is the light which shines through
+the metal bars on the cell door window.  Shackles are lined across the
+walls, with skeleton corpses still hanging from them.  
+~
+0 9 20
+D0
+~
+~
+4 0 1915
+S
+#1917
+{RDown the Western Wing{x~
+The carpet of daggers carries on down the hall, as well as the odd
+paintings hanging upon the walls.  Down here it seems to be somewhat quiet. 
+Only the ruffled sounds of rats can now be heard.  
+~
+0 8 20
+D1
+~
+~
+0 0 1914
+D3
+~
+~
+0 0 1918
+S
+#1918
+{RDown the Western Wing{x~
+You arrive at a split in the hallway.  The hall which you travel lead
+east and west, yet there is another separate hall which leads south.  The
+distinct sound of gold coins being shuffled through can be heard coming from
+down the greedy hall.  Careful not to step on one of the embroidered daggers
+in the carpet, for fear that it may be a trap, you continue forth.  Before
+you leave, you notice a golden fountain, spewing out water, lies here.  
+~
+0 8 20
+D1
+~
+~
+0 0 1917
+D2
+~
+~
+0 0 1920
+D3
+~
+~
+0 0 1919
+S
+#1919
+{RDown the Western Wing{x~
+You have come around to a corner in this vast, golden hallway.  The
+ceiling seems to stretch up to the heavens, as if it's some sort of guard
+tower, looking out for any unwanted trespassers.  High up above, you can
+make out what looks to be gargoyles, perched upon ledges watching over all
+who walk these halls.  
+~
+0 8 20
+D0
+~
+~
+0 0 1925
+D1
+~
+~
+0 0 1918
+S
+#1920
+{RThe Hall of Greed{x~
+The torches which line these walls either seem to be brighter, or the
+luster of the gold has become more intense, for you'd be a monkeys uncle if
+you were wrong when you said it's almost blinding in here.  Paintings of
+dragons sleeping in their treasure rooms, line the walls giving you the
+sense of someone's greed.  
+~
+0 8 20
+D0
+~
+~
+0 0 1918
+D2
+~
+~
+0 0 1921
+S
+#1921
+{RThe Hall of Greed{x~
+Greedy acts seem to seep into your bones, as you feel like going out and
+robbing the rich blind.  You can't help but feel like youre being watched,
+and immediately try to hide amongst any shadow that will serve as
+protection.  The problem is you can't seem to even find enough shadow to
+cover an ant with all the torches in the hall illuminating the bright,
+golden walls.  Failing at hiding, you feel it would be best to just hurry up
+and get out of this, hair raising hallway.  
+~
+0 8 20
+D0
+~
+~
+0 0 1920
+D2
+~
+~
+0 0 1922
+S
+#1922
+{RThe Hall of Greed{x~
+Golden walls with pictures of --- piles of gold?  Are set upon the walls.
+As you take a closer look, you can reconfirm that yes, indeed they are
+paintings of just piles among piles of gold.  Who in they're right mind,
+would hang such things?  Perhaps going south will bring you to that answer. 
+~
+0 8 20
+D0
+~
+~
+0 0 1921
+D2
+~
+~
+0 0 1923
+S
+#1923
+{RThe Hall of Greed{x~
+Your sense of greed almost becomes a scent now, as you walk down to the
+end of this hallway.  No paintings and only a few candles illuminate this
+part of the temple, giving you a better sight of the perfections and hard
+work put into just the wall structures alone.  Peering to your west, you
+have the distinct feeling that you best leave your gold elsewhere, in a
+safer place.  Looking north, you see the hallway which brought you down this
+lane of power and greed.  
+~
+0 8 20
+D0
+~
+~
+0 0 1922
+D3
+~
+~
+0 0 1924
+S
+#1924
+{RThe Tax Room{x~
+Here, is a little run down room.  It too has golden walls like the rest
+of this place however, it looks a little rugged, as if it hasn't been kept
+up or even cleaned for that matter.  Theres a small desk in the back of the
+room, with a man sitting on a chair stretched out behind it.  All around him
+there's piles upon piles of gold coins, none of which you can take, only add
+to.  
+~
+0 1049608 20
+D1
+~
+~
+0 0 1923
+S
+#1925
+{RHallway of Damned Spirits{x~
+Spirits of lost demons fly around very noticeably.  They seem to fly in
+and out of your body, checking up to make sure your not someone who you may
+continue, but try not to bring unwanted travelers here, else they will
+become Hiddukel's personal slave.  As so will you for betraying your master.
+~
+0 8 20
+D0
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1919
+S
+#1926
+{RAt the Altar of Donations{x~
+You are standing in a room which is here for the sole purpose of
+donations.  You may donate anything you have, whether it be armor, weapons,
+maps, or just good ol' information that may help your fellow brothers. 
+Remember, anything that may help your brother's in advancing in their
+training or studies should be donated and not hoarded up by the greedy.  All
+donations go to a good cause and will not go to waste or unnoticed.  
+~
+0 1032 20
+D2
+~
+~
+0 0 1925
+M 120 H 120
+S
+#1927
+On the Side of the Mountains~
+Small brush and large, sharp rocks look blurry as you whisk by them
+traveling down this mountain road.  The faint sounds of birds chirping and
+other wild creatures playing around in the bushes further up the mountains
+fill your ears delightfully.  You may continue with your adventure by either
+heading north or south of here, however the impossible steep climb up or
+down, prevent you from trying to go east or west.  
+~
+0 1 5
+D0
+~
+~
+0 0 1840
+D2
+~
+~
+0 0 1928
+S
+#1928
+A Rocky Bend in the Path~
+Another corner in the mountains, yet this one seems to hold an abundance
+of sharp rocks lining the sides of the road.  Watch out though, not being
+careful enough could land you over the side and down the mountains, plunging
+to your death.  
+~
+0 1 5
+D0
+~
+~
+0 0 1927
+D1
+~
+~
+0 0 1929
+S
+#1929
+A Rocky Path~
+Down a rocky path you go.  Not much for vegetation grows here, only sharp
+rocks seem to guild you further down the road.  Looking east, you see
+something in the distance, perhaps someone in trouble.  Then looking west,
+you see more sharp rocks curving around a corner.  
+~
+0 1 5
+D1
+~
+~
+0 0 1930
+D3
+~
+~
+0 0 1928
+S
+#1930
+A Rocky Bend in the Path~
+Coming up to a tight corner in the road, covered with large, sharp rocks,
+you can see some poor fellow lost control of his wagon and smashed it up
+against some rocks.  Perhaps you should look inside to see if there are any
+survivors.  Maybe someone's bleeding to death and can't call for help.  Or
+you could shrug and take off like the one-way bastard you are and let them
+perish in the wreckage.  
+~
+0 1 5
+D0
+~
+~
+0 0 1931
+D3
+~
+~
+0 0 1929
+M 50 H 50
+S
+#1931
+A Clear Cut Corner~
+You come up to a corner which has been cleared of all its obstructions in
+the road.  A little tree frog hops across the road, trying to stay clear of
+your path.  Looking down you can see many little bugs skittering about, all
+seeming to have a place or home to go to.  The sounds of birds chirping can
+be heard as you continue on.  
+~
+0 1 5
+D1
+~
+~
+0 0 1932
+D2
+~
+~
+0 0 1930
+S
+#1932
+A Clear Cut Corner~
+Coming up to yet another corner, you can relax a little as you see that
+it's a clear, smooth shot going around.  A slight wind blows the leaves
+dangling from the trees, giving it a rainbow affect.  Taking a breath of the
+clean, fresh mountain air as you continue on your way, you stumble over a
+rock.  Hey now, where'd that come from?  
+~
+0 1 5
+D2
+~
+~
+0 0 1933
+D3
+~
+~
+0 0 1931
+S
+#1933
+A Well-Traveled Trail~
+Headed down a well made trail you go, taking only a small glance around
+to observe your surroundings.  Small gusts of wind channels through the
+trees' leaves and small animals scurry about looking for food.  The path
+continues on north and south.  
+~
+0 1 5
+D0
+~
+~
+0 0 1932
+D2
+~
+~
+0 0 1934
+S
+#1934
+A Well Rounded Bend~
+This corner seems to go around at a nice, smooth bend.  Any speed could
+probably be taken, within reason, and total loss of control would probably
+not be a factor.  The only thing that may prove to be a little painful are
+the tall trees which grow fairly close, almost right next to the road.  
+~
+0 1 5
+D0
+~
+~
+0 0 1933
+D1
+~
+~
+0 0 1935
+S
+#1935
+A Well-Traveled Trail~
+You continue traveling down this well made trail.  As you stop to take a
+look around, the sight of birds flying back and forth from tree to tree can
+be seen.  In the tall grass on the sides of the road, you can see wild roses
+growing among a few other beautiful flowers.  Trees grow well spaced apart
+from each other, although they still tower way up above.  
+~
+0 1 5
+D1
+~
+~
+0 0 1936
+D3
+~
+~
+0 0 1934
+S
+#1936
+A Well-Traveled Trail~
+Looking east you can see a wide corner coming up.  Perhaps you better
+slow down this time, after all you wouldn't want to end up as vulture pie
+just because you were too ignorant to watch where you were going.  Looking
+west, the trail seems to continue on straight for a little while giving you
+the opportunity to take an advantage of the situation.  
+~
+0 1 5
+D1
+~
+~
+0 0 1937
+D3
+~
+~
+0 0 1935
+S
+#1937
+A Wide Corner~
+You come up to a wide corner, bending around at a sharp, almost
+frightening angle, which even though it may be wide, if someone were to come
+flying around the corner in a horse drawn carriage, or one of those Gnome
+vehicle inventions, they'd easily loose their ground and go tumbling down
+the mountain side to their death.  
+~
+0 1 5
+D2
+~
+~
+0 0 1938
+D3
+~
+~
+0 0 1936
+S
+#1938
+A Well-Traveled Trail~
+A wide path to your north and a split in the trail to your south.  Either
+way, caution should be taken just in case.  Looking into the brush, you can
+make out the faint image of a small little stream.  Where it heads to can
+not be told.  Not much else different from what you have already been
+seeing, grows around here, continuing on would only seem rational.  
+~
+0 1 5
+D0
+~
+~
+0 0 1937
+D2
+~
+~
+0 0 1939
+S
+#1939
+A Split in the Path~
+You come up to a t-intersection, where leading south will bring you down
+a narrow trail, looking west you can see that a path has been cleared and
+purposely widened and going north will bring you down a well traveled trail.
+To your east, you can get a good look down the rugged and steep mountain. 
+With so many obstacles, it's next to impossible to see the bottom.  
+~
+0 1 5
+D0
+~
+~
+0 0 1938
+D2
+~
+~
+0 0 1947
+D3
+~
+~
+0 0 1940
+S
+#1940
+Down a Wide Path~
+Heading west off the beaten path, you notice that it starts to widen up
+and continues to do so the further you go.  It almost looks as if it had
+been initially widened to lead a herd of animals down here.  Brush has been
+cleared and laid down on the sides of the trail making it a little less
+harsh to travel upon.  
+~
+0 1 5
+D1
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1941
+S
+#1941
+Down a Wide Path~
+The brush and tall grass growing on the sides of this path have also been
+either cleared or beaten down into the ground, making it easier to walk on. 
+Looking west, you can start to make out some sort of light, but from way
+back here it's too hard to tell.  The sounds of men chatting and laughing
+loudly can be heard.  Perhaps there is some sort of normalcy way up here in
+the mountains, but then again, it could be a trap.  
+~
+0 1 5
+D1
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1942
+S
+#1942
+Near a Shepherd's Campsite~
+You can smell a faint odor of burning wood and roasted rabbit.  The
+pleasant smell seems to be coming from the west of you and gets stronger the
+further you head in that direction.  The path leading to there also seems to
+be a lot wider than most you've traveled already and judging by the multiple
+tracks in the ground, you'd think there was a heard of animals that passed
+through this way.  
+~
+0 0 5
+D1
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1943
+S
+#1943
+A Shepherd's Campsite~
+The smell of burning wood fills the air from the somewhat large burning
+campfire.  A handful of shepherds sit around taking a long needed rest from
+their hike.  A large wooden log appears to have been pulled up the mountain
+for people to rest upon, while a huge moss covered boulder add's a
+decorative and pleasant feeling to the area.  There is plenty of room around
+the fire for all to sit, while the log only holds a handful of people.  
+~
+0 0 5
+D0
+~
+~
+0 0 1944
+D1
+~
+~
+0 0 1942
+D2
+~
+~
+0 0 1946
+D3
+~
+~
+0 0 1945
+M 400 H 400
+S
+#1944
+In the Bushes~
+You stand here in some thick bushes.  It smells like urine and other
+toxic waste you'd rather not think about.  It seems that this is the place
+where the shepherds come to take care of business.  Not seeing anything else
+of interest, it'd be best to turn around and leave before you slip and fall
+in the nasty smelling muck.  
+~
+0 0 5
+D2
+~
+~
+0 0 1943
+S
+#1945
+A Small Clearing~
+You stand in a small patch of grass in the mountains, with a few sheep
+munching on its green delights.  A few wild flowers grow here and there,
+giving it that Garden of Eden" look.  Looking around a little more, you
+notice a nice little pond from which you could quench you thirst or, perhaps
+even catch a quick bath in.  
+~
+0 0 5
+D1
+~
+~
+0 0 1943
+S
+#1946
+A Small Clearing~
+You seem to have stumbled across a small clearing.  A few bushes surround
+you, with a small resting spot cleared in the center.  It looks as if this
+might be a good place to catch some sleep, as you yawn and realize you've
+been awake for a very long time and the long hike up these mountains is
+starting to take its toll.  
+~
+0 0 5
+D0
+~
+~
+0 0 1943
+S
+#1947
+On a Distant Path~
+You find yourself down a distant path somewhere in the mountains.  As you
+look further on down south, you can see that the path seems to get narrow. 
+Looking back north you can see a split in the path.  
+~
+0 1 5
+D0
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1948
+S
+#1948
+On a Distant Path~
+Youre standing on a path, seemingly distant from any other path in these
+mountains.  The sounds of birds chirping and small animals searching for
+food in the bushes start to fade out if you go south and get louder if you
+head north.  This trail seems a bit too narrow for someone of your size, but
+rather a good size for a deer or a boar to walk on.  
+~
+0 1 5
+D0
+~
+~
+0 0 1947
+D2
+~
+~
+0 0 1949
+S
+#1949
+A Tight Corner in the Path~
+You come up to a tight corner in the path seemingly impassable due to the
+thick brush surrounding you.  Thorns nick your ankles and legs, giving you
+small, but noticeable scratches.  Looking down the mountain to your south,
+you can barely make out the outline of another city.  Could it be Lemish, or
+just an illusion brought on by the exhaustion of fighting through these
+thick thorny bushes?  
+~
+0 1 5
+D0
+~
+~
+0 0 1948
+D3
+~
+~
+0 0 1950
+S
+#1950
+A Constricting Trail~
+Thick as Reorx's beard, the small brush and weeds are almost too close to
+your body for comfort.  Not being able to look down that easily, it's hard
+to tell what's slithering across your feet.  Looking east, you notice that
+there's a bend in this torturous path.  Looking west it seems to only get
+worse.  Looking into the thick bushes more closely, you also notice a small
+sign, and what looks like to be a small cave entrance behind them.  
+~
+0 5 5
+D0
+~
+~
+0 0 1960
+D1
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1951
+S
+#1951
+A Constricting Trail~
+Thorns dig their sharp points into your arms and legs, giving you small
+but noticeable cuts.  Hopefully they won't turn into scars, giving veteran
+soldiers the opportunity to poke fun at you because you got your ass kicked
+by some bushes.  Perhaps you'd better just keep going and try not to dwell
+on the pain.  
+~
+0 5 5
+D1
+~
+~
+0 0 1950
+D3
+~
+~
+0 0 1952
+M 50 H 50
+S
+#1952
+A Constricting Trail~
+Trying to fight your way through this thick, thorny brush is like trying
+to fight your way through a group of beggars, easy but very annoying and a
+waste of energy.  Looking west you can breathe a sigh of relief as you can
+make out a bend, perhaps leading out of this hell.  Looking east, the thick
+brush seems to grow endlessly.  
+~
+0 5 5
+D1
+~
+~
+0 0 1951
+D3
+~
+~
+0 0 1953
+M 50 H 50
+S
+#1953
+A Tight Turn~
+Think quickly, you've come up too fast on a tight turn in the path and if
+you don't slow down, you just may impale yourself on some thorns.  Thorns
+which seem to grow by the numbers in these parts.  About the only odd thing
+is there are neither roses nor any rose buds for that matter growing at the
+ends of the brush.  Weird, because you were always taught that where there's
+thorns, there's roses.  
+~
+0 5 5
+D1
+~
+~
+0 0 1952
+D2
+~
+~
+0 0 1954
+M 50 H 50
+S
+#1954
+A Constricting Path~
+As if breathing wasn't hard enough up in these mountains, it even gets
+harder with all these damned thorny bushes closing in on you as you keep
+walking, almost like a boa constrictor does to its prey.  
+~
+0 5 5
+D0
+~
+~
+0 0 1953
+D2
+~
+~
+0 0 1955
+M 50 H 50
+S
+#1955
+A Constricting Path~
+More and more thorny bushes surround you.  Walking doesn't seem to make
+it any easier, nor does stopping for that matter.  It would be best just to
+continue on in hopes that there's and end to this hellish ride.  Obviously
+your the only one dumb enough to walk through here, for if you stop and
+stand still, you can't hear anything else except the beating of your heart
+and the air going in and out of your lungs.  Better keep going, and quickly.
+~
+0 1 5
+D0
+~
+~
+0 0 1954
+D2
+~
+~
+0 0 1956
+M 50 H 50
+S
+#1956
+A Very Tight Bend~
+You've come up to yet another tight bend; although this time you could
+probably go around it as fast as you want without having to worry about
+falling over and tumbling down the side of the mountain to your death.  The
+thorny bushes that line the sides of the road would probably break your
+descent first.  You can continue on west or head back north.  
+~
+0 1 5
+D0
+~
+~
+0 0 1955
+D3
+~
+~
+0 0 1957
+M 50 H 50
+S
+#1957
+A Very Constricting Trail~
+Standing on a very constrictive trail, you can make out a few deer tracks
+in the ground.  Where exactly they end, you cannot tell due to the thick
+amounts of debris in your way.  Towering trees, tall grass and thorny bushes
+seem to close in on you as you continue to walk.  
+~
+0 1 5
+D1
+~
+~
+0 0 1956
+D3
+~
+~
+0 0 1958
+M 50 H 50
+S
+#1958
+On a Deer Trail~
+You peer down through the smog like brush and see deer tracks running
+along the trail.  They seem to be heading in a western direction, but none
+seem to head back east.  Perhaps something had frightened them and never
+scared them back this way.  
+~
+0 1 5
+D1
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1959
+M 50 H 50
+S
+#1959
+Along a Steep Deer Trail~
+Beyond the thick, thorny brush which covers the entrance, you find
+yourself standing in a damp, dark cave.  It looks as though this cave has
+every intention of being used for mining.  Old mining picks, with their
+half-rotted handles, lie carelessly on the ground.  You look further on, and
+see that the cave goes in deeper.  A few muffled voices can be heard coming
+from deep within.  
+~
+0 1 5
+D1
+~
+~
+0 0 1958
+D4
+~
+~
+0 0 1869
+M 50 H 50
+S
+#1960
+A small cave entrance~
+Beyond the thick, thorny brush which covers the entrance, you find
+yourself standing in a damp, dark cave.  It looks as though this cave has
+every intention of being used for mining.  Old mining picks, with their
+half-rotted handles, lie carelessly on the ground.  You look further on, and
+see that the cave goes in deeper.  A few muffled voices can be heard coming
+from deep within.  
+~
+0 9 0
+D0
+~
+~
+0 0 1961
+D2
+~
+~
+0 0 1950
+S
+#1961
+Top of a Long Shaft~
+You find yourself standing at the top of what looks to be, a long and
+deep shaft.  A few torches line the walls, emanating barely enough light to
+see where youre going, but too dark to make out your surroundings clearly. 
+As much as you can tell, the shaft goes almost straight down, a make-shift
+ladder seeming to be the only means of traveling down and a heavily
+cluttered way back out to the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 1960
+D5
+~
+~
+0 0 1962
+S
+#1962
+Down a Mine Shaft~
+On a makeshift ladder you go.  Going up or down this seems to be the only
+way, making you feel the need to say a little prayer to your god that it
+won't crumble beneath your feet.  The small flames which dance on the
+torches flicker in the breeze you create, as you continue on.  
+~
+0 9 0
+D4
+~
+~
+0 0 1961
+D5
+~
+~
+0 0 1963
+S
+#1963
+Down a Mine Shaft~
+You continue on your warpath, watching your step as so you do not slip
+and fall down to the bottom.  Muffled voices from below are almost clear
+enough to make out enunciation in the words, but not quite enough to fully
+understand.  As you look around, you can see a few more rotting mining tools
+left lying about.  Looking more closely, they almost appear to be Dwarven in
+make, with their small handles and finely crafted metals.  
+~
+0 9 0
+D4
+~
+~
+0 0 1962
+D5
+~
+~
+0 0 1964
+S
+#1964
+At the Bottom of a Mine Shaft~
+You find yourself at the bottom of a mineshaft, with a ladder leaning up
+against a wall, leading up.  All around you, you see equipment used solely
+for the purpose of mining ore.  The walls on both sides of you, obviously
+been picked at and drained of its rich minerals, for all thats left is a few
+metal ores poking out here and there.  Although very small and probably
+worthless, these metal ores still reflect the dim light of the torches,
+brightening up the room considerably.  
+~
+0 9 0
+D0
+~
+~
+0 0 1965
+D4
+~
+~
+0 0 1963
+S
+#1965
+Down in a Dwarven Mine~
+You've come up to an intersection in these mines from which you may head
+in any direction.  Looking around, you realize how well these tunnels have
+been dug, for the walls and ceiling isn't all half-assed with sharp pieces
+of jagged rocks sticking out everywhere.  Instead, the walls are smooth to
+the touch, almost like a pearl.  And it looks like someone put some time and
+effort into it, as if the walls were some part of a well thought out
+creation.  
+~
+0 8 0
+D0
+~
+~
+0 0 1968
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1964
+D3
+~
+~
+0 0 1966
+S
+#1966
+A Dwarven Barracks~
+You find yourself in a room filled with beds and small desks.  The beds
+only seem to be 4 feet long, and the dressers appear to be too short for
+anyone taller than over 4'5.  Resting upon the desk tops are a bunch of
+little wooden knickknacks, crafted by hand with expertise and full detail. 
+The beds appear to be empty; perhaps you could squeeze into one and take a
+short nap.  Maybe not.  
+~
+0 9 0
+D1
+~
+~
+0 0 1965
+S
+#1967
+A Mining Site~
+Small pieces of metal ore protrude from the walls, reflecting off the
+light which emits from the hanging torches.  It looks as though this part of
+the mine has yet to be completely drained of its minerals.  A small wooden
+wheelbarrow sits here before you, heaping with shiny rocks that look like
+they're ready to be taken away and transformed into something useful.  
+~
+0 8 0
+D3
+~
+~
+0 0 1965
+S
+#1968
+Deep in a Mine~
+Youre walking down, deep in the mines tunnels.  Torches flicker their
+demonic fires, flickering off the smooth textured walls, giving it an eerie
+effect.  Continuing on north will lead you even deeper into the mines, and
+leaving south, will bring you out.  
+~
+0 8 0
+D0
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1965
+S
+#1969
+Deep in a Mine~
+You find yourself deeper and deeper into these Dwarven mines.  A few
+torches attached to the walls, reflect their dim light making it a little
+easier to see, but not enough to get a good look at your surroundings.  A
+few mining tools can be fairly seen, scattered about the ground carelessly,
+but other than that, everything seems to be in a neat fashion.  
+~
+0 9 0
+D0
+~
+~
+0 0 1970
+D2
+~
+~
+0 0 1968
+S
+#1970
+Deep in a Mine~
+You find yourself walking around deep in these Dwarven mines.  A few
+torches line up and down the walls, reflecting their dim light making it a
+little easier to see where youre going, but not enough to get a real good
+look at your surroundings.  A few mining tools can be fairly seen, scattered
+about carelessly but, other than that, everything else seems to be in a neat
+fashion.  
+~
+0 9 0
+D0
+~
+~
+0 0 1971
+D2
+~
+~
+0 0 1969
+S
+#1971
+Deep in a Mine~
+You find yourself walking deep in these Dwarven mines.  A few torches
+line the walls, reflecting their dim light and making it a little easier to
+see where you're going, but not enough to get a good look at your
+surroundings.  A few mining tools can be seen scattered about carelessly but
+other than that, everything else seems to be in a neat fashion.  
+~
+0 8 0
+D0
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1970
+S
+#1972
+Deep in a Mine~
+You have stumbled upon an intersection of these Dwarven mines.  The scent
+of a barbecue coming from over east fills your nostrils delightfully.  Over
+west, the sounds of metal clanking against metal perk up your ears, making
+you wonder what might be going on over yonder.  Looking north, you see an
+open door, with a sign hanging on it with some small writing etched in.  
+~
+0 8 0
+E
+sign~
+_______________________________________________
+| @                                         @ |
+|                                             |
+|                                             |
+|       Pick up yer blasted pay chicks on     |
+|       Ferday.   Else, keep yer blasted      |
+|       stuby fingrs out of heer an git back  |
+|       to wurk. Dem damn roks aint gonnas    |
+|       pik 'em selves ya know.               |
+|                                             |
+| @                                        @  |
+|_____________________________________________|
+~
+D0
+~
+~
+0 0 1975
+D1
+~
+~
+0 0 1974
+D2
+~
+~
+0 0 1971
+D3
+~
+~
+0 0 1973
+S
+#1973
+A Dwarven Battle Arena~
+You seem to have come across a small arena, barely big enough for two
+Dwarves.  Its pretty shabby in make for a Dwarves standards, but decent
+enough for you to want to jump in and try it out.  It looks like fun, and
+good practice for your sword arm and magical hands to get in some practice. 
+Then again, these Dwarves seem to be fighting viciously with no remorse. 
+Perhaps it would be wise to either head out, or just sit and watch.  
+~
+0 8 0
+D1
+~
+~
+0 0 1972
+S
+#1974
+A Dwarven Mess Hall~
+You seem to be standing in a mess hall.  Tables are lined up neatly in
+rows, with feeding trays and forks all placed out in an orderly fashion.  A
+few Dwarves sit off in a back corner, stuffing their pudgy little faces and
+carrying on in a deep conversation, not even acknowledging your presence. 
+Perhaps it'd behoove of you to grab yourself a tray and get something to eat
+also.  
+~
+0 8 0
+D3
+~
+~
+0 0 1972
+S
+#1975
+A Crowded Lobby~
+You've entered a lobby, which seems to be heavily crowded, almost too
+crowded for you to move around much.  Good thing it isn't Kender which fill
+this room, else you'd probably walk out naked by the time you got to the
+other side.  Looking around, you can't seem to find an open seat and looking
+north, you see a small desk with a little bell on it and a small sign that
+reads "Foreman's Office" on it.  
+~
+0 8 0
+D0
+~
+~
+0 0 1976
+D2
+~
+~
+0 0 1972
+S
+#1976
+The Foreman's Office~
+Alas, you've made your way into the foreman's office alive.  He looks
+very busy, and pretty pissed at the fact that youre standing here
+distracting him from his work.  Standing next to him writing down notes on a
+piece of paper, is some sort of scribe, or perhaps a personal guard of the
+Foreman who's just jotting down their plans.  Perhaps it would be best to
+leave quietly, before you REALLY piss them off.  
+~
+0 8 0
+D2
+~
+~
+0 0 1975
+S
+#1977
+{RThieves Training Room {W#1{x~
+Welcome to training!  This room is used for training purposes only.  In
+the middle of the room sits a straw dummy.  Practice your backstabbing and
+weapons on it, thats what it's there for.  After you feel confident enough
+in your weapons skills, step into the shadows and you shall return to the
+beginning.  
+~
+0 8200 20
+D0
+~
+~
+0 0 1980
+D2
+~
+~
+3 0 1910
+S
+#1978
+{RThieves Training Room {W#2{x~
+Here you find yourself in the second room of training.  There is an
+anti-theft dummy in the middle.  Practice your stealing skill by trying to
+steal the whip from its inventory.  Once you feel youre finished, go ahead
+and step in to the shadows.  
+~
+0 8 20
+D3
+~
+~
+3 0 1910
+S
+#1979
+{RA Closet of Surprises{x~
+Youre standing in a small tight closet.  The walls are as smooth as glass
+and have no shelves on them.  A small lamp hangs overhead swaying slightly
+from an unknown breeze or movement.  There appears to be nothing special or
+surprising about this closet.  
+~
+0 8 20
+D0
+~
+~
+4 0 1910
+S
+#1980
+{RA Room of Comfort{x~
+This is a comforting room.  A soft glow seems to come from overhead
+though the source cannot be seen.  A few small plush chairs are scattered
+about the room, while a small table sits near the middle of the room.  A
+swirling shadow hangs near a wall.  Wonder what it could be...  
+~
+0 8 20
+D2
+~
+~
+0 0 1977
+S
+#1982
+Kougyoku's Study~
+Tapestries line the walls of the spacious study, intricate designs woven
+into their rich fabrics, they dance against the wall as a slight breeze
+drifts through the room.  Sentinel-like bookcases stand guard between the
+tapestries, each shelf covered in a wide selection of tomes; a multitude of
+texts gathered from about Krynn.  Set before the bookcases is a large desk,
+an open book upon the dark, wooden surface, a single candle burning before
+it.  The ceiling rises upward, hidden within the depths of shadow, their
+true height unknown.  Elven-crafted furniture rests about the room, a few
+comfortable chairs rest before a large fireplace, the light of the flames
+embracing them with warmth.  Beneath an imposing, circular window stands a
+large bed, draped with silks of dark colors, they glisten in the light cast
+by the dancing flames of the torches that are set throughtout the marble
+walls.  The marble flooring is of the best dwarven craftsmanship, decorated
+with the intricate geometric design of dwarven stoneworkers.  It stretches
+about a large glistening star-diamond set into the center, engraved with the
+name Kougyoku Gentou.  
+~
+0 525832 0
+D1
+~
+~
+6 1816 1801
+R GREET 1982 100~
+R EXALL 1983 1~
+S
+#0
+
+
+
+#SPECIALS
+M 1816 spec_orgguard
+M 1826 spec_cast_judge
+M 1832 spec_rloader
+M 1895 spec_breath_frost
+M 1904 spec_janitor
+M 1915 spec_executioner
+M 1926 spec_cast_adept
+M 1927 spec_thief
+M 1943 spec_cast_judge
+M 1972 spec_executioner
+S
+
+
+
+#RESETS
+D 0 1801 3 2
+D 0 1819 2 1
+D 0 1820 0 1
+D 0 1820 2 1
+D 0 1823 0 1
+D 0 1825 2 2
+D 0 1826 0 2
+D 0 1826 1 2
+D 0 1827 3 2
+D 0 1899 2 2
+D 0 1910 0 2
+D 0 1910 1 2
+D 0 1910 2 2
+D 0 1911 0 2
+D 0 1915 2 2
+D 0 1916 0 2
+D 0 1977 2 2
+D 0 1978 3 2
+D 0 1979 0 2
+D 0 1982 1 2
+O 0 1803 0 1803
+M 0 1803 1 1803 1
+O 0 1803 0 1803
+O 0 1803 0 1803
+M 0 1804 1 1804 1
+G 0 1804 0
+G 0 1802 0
+G 0 1807 0
+O 0 1806 0 1806
+M 0 1806 1 1806 1
+O 0 1806 0 1806
+M 0 1927 10 1813 1
+E 0 1951 0 20
+E 0 1952 0 6
+M 0 1815 1 1815 1
+O 0 1953 0 1816
+O 0 1819 0 1819
+M 0 1816 8 1820 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1825 1 1825 1
+E 0 1825 0 3
+M 0 1826 1 1826 1
+E 0 1826 0 21
+M 0 1816 8 1826 1
+E 0 1816 0 20
+E 0 1817 0 16
+O 0 1827 0 1827
+M 0 1832 7 1829 1
+G 0 1832 0
+M 0 1832 3 1832 3
+G 0 1832 0
+M 0 1832 7 1832 1
+G 0 1832 0
+M 0 1832 7 1834 2
+G 0 1832 0
+M 0 1848 1 1848 1
+M 0 1927 1 1849 1
+E 0 1951 0 20
+E 0 1952 0 6
+M 0 1854 1 1854 1
+E 0 1854 0 16
+M 0 1872 6 1865 1
+M 0 1872 6 1868 1
+M 0 1872 6 1870 1
+M 0 1872 6 1872 1
+M 0 1872 6 1874 1
+M 0 1872 6 1876 1
+M 0 1872 1 1879 1
+M 0 1927 1 1879 1
+E 0 1951 0 20
+E 0 1952 0 6
+M 0 1884 2 1884 2
+M 0 1895 1 1895 1
+E 0 1895 0 5
+M 0 1816 8 1898 1
+E 0 1816 0 20
+E 0 1817 0 16
+O 0 1898 0 1902
+M 0 1816 8 1902 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1904 1 1904 1
+G 0 1904 0
+G 0 1900 0
+G 0 1901 0
+G 0 1902 0
+O 0 1906 0 1906
+M 0 1910 1 1909 1
+M 0 1911 3 1911 3
+M 0 1916 3 1911 3
+M 0 1816 8 1913 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1915 1 1915 1
+G 0 1915 0
+E 0 1916 0 17
+E 0 1911 0 6
+E 0 1899 0 21
+E 0 1913 0 20
+M 0 1911 3 1916 3
+M 0 1916 3 1916 3
+O 0 1898 0 1918
+M 0 1816 8 1918 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1919 1 1919 1
+G 0 1919 0
+G 0 1920 0
+G 0 1921 0
+M 0 1924 1 1924 1
+M 0 1816 8 1924 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1926 1 1926 1
+O 0 1926 0 1926
+M 0 1816 8 1926 1
+E 0 1816 0 20
+E 0 1817 0 16
+M 0 1931 2 1929 1
+O 0 1930 0 1930
+P 0 1931 0 1930 1
+M 0 1930 1 1930 1
+E 0 1929 0 5
+M 0 1931 2 1931 1
+M 0 1927 10 1937 1
+E 0 1951 0 20
+E 0 1952 0 6
+M 0 1943 6 1943 6
+O 0 1943 0 1943
+M 0 1945 4 1945 4
+O 0 1945 0 1945
+O 0 1822 0 1946
+O 0 1950 0 1950
+O 0 1950 0 1950
+O 0 1950 0 1950
+M 0 1927 1 1956 1
+E 0 1951 0 20
+E 0 1952 0 6
+M 0 1971 4 1964 1
+E 0 1964 0 20
+M 0 1971 3 1967 3
+E 0 1964 0 20
+M 0 1971 2 1969 2
+E 0 1964 0 20
+M 0 1971 1 1971 1
+E 0 1964 0 20
+M 0 1973 2 1973 2
+E 0 1973 0 20
+E 0 1970 0 5
+M 0 1974 1 1974 1
+G 0 1974 0
+G 0 1972 0
+M 0 1976 1 1976 1
+E 0 1976 0 20
+M 0 1972 1 1976 1
+E 0 1971 0 20
+M 0 1977 1 1977 1
+M 0 1978 1 1978 1
+G 0 1978 0
+O 0 1977 0 1978
+O 0 1977 0 1980
+S
+
+
+
+#SHOPS
+1804 0 0 0 0 0 100 100 0 23
+1904 0 0 0 0 10 110 110 0 23
+1919 0 0 0 0 19 110 110 0 23
+1974 0 0 0 0 19 150 150 0 23
+0
+
+
+
+#MOBPROGS
+#1803
+if isimmort $n
+cower
+break
+else
+if level $n <= 101
+emote starts to sing, 'When you wish.....upon a star......'
+emote sings, 'Makes no difference.....who you are......'
+endif
+endif
+~
+#1804
+if isimmort $n
+bow $n
+say Good day $n, how can I be of service?
+break
+else
+if level $n > 15
+say Greetings $n, please, spend as much as you want.
+break
+else
+if level $n <= 15
+say Excuse me kid, but I think you're too young to buy anything here. Get out.
+mob echoat $n The shopkeeper pushes you out the door.
+mob echoaround $n $n has been pushed out of the room.
+mob transfer $n 1803
+endif
+endif
+endif
+~
+#1815
+if org $n 'thieves'
+nod $n
+say Greetings master thief $n
+say You have riddled me good, and now you may pass as you should.
+mob echoat $n The Enslaved Demon utters a few magical words.
+mob echoat $n You feel a burst of energy rush through your body and disappear.
+mob echoaround $n $N disappears in a cloud of gold dust.
+mob transfer $n 1820
+emote grins evilly and rests his undead eyes back upon you.
+else
+MOB REMEMBER $n
+MOB CALL 1816
+endif
+~
+#1816
+if hastarget $i
+knee $q
+say Access denied $q, leave before you hurt yourself!
+MOB FORGET
+else
+say Access denied! leave before you hurt yourself!
+endif
+~
+#1825
+if name $n Hiddukel
+say Welcome Master $n
+break
+else
+if name $n Laden
+say Welcome Home Master $n
+break
+else
+if name $n Dekyos
+say Nice to see you again $n
+break
+else
+if name $n Dragos
+say You are safe here $n
+break
+else
+say You have no business being here $n
+say Hence you shall DIE foul beast!!!
+mob kill $n
+endif
+endif
+endif
+endif
+endif
+~
+#1832
+if isgood $n
+  say Eureeka!  You after me pretty stone, aren't ya?
+cower
+break
+endif
+~
+#1854
+if level $n > 34
+mob echoat $n The Mountain Leopard knocks you down the cliff.
+mob echoaround $n $n has been knocked off the cliff's edge.
+mob transfer $n 1855
+endif
+~
+#1904
+if isimmort $n
+emote falls to her knees, bows her head down and awaits your orders.
+break
+else
+if level $n <= 101
+say Hi there................I'm Heather
+flutter $n
+say How can I be of service to you master $n?
+endif
+endif
+~
+#1910
+if isimmort $n
+bow
+break
+else
+if level $n <= 101
+say I am here to train you, young $n
+say Please, do not be afraid.
+smile
+endif
+endif
+~
+#1915
+if isimmort $n
+bow $n
+break
+else
+say Are you ready to meet your maker?
+emote clutches his axe tightly.
+endif
+endif
+~
+#1919
+if isimmort $n
+emote falls to her knees, bows her head and awaits your wrath.
+break
+else
+if level $n <= 101
+bow $n
+say What pleasures can I bring to you today, Master $n?
+endif
+endif
+~
+#1924
+if isimmort $n
+bow $n
+break
+else
+if level $n <= 15
+say Give me your gold!
+break
+   else
+laugh $n
+endif
+~
+#1930
+if carries $n 1931
+      mob kill $n
+   else
+      say Nope, you aren't carrying it.
+endif
+~
+#1931
+if carries $n death
+  mob kill $n
+else
+  emote sharpens a wicked dagger.
+endif
+~
+#1974
+if isimmort $n
+
+
+bow $n
+say Me not worthy, master $n
+break
+else
+if level $n <= 101
+say Hury up, git yer grub an sit yer ass down 'n eat!
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#1814
+obj echoat $n You feel a chilling sensation run through your body.
+~
+#1836
+if class $n == battlemage
+obj echoat $n The staff begins to vibrate in your hands.
+else
+obj echoat $n The staff burns the flesh on your hands!
+obj damage $n 10 30
+obj purge $i
+endif
+~
+#0
+
+#ROOMPROGS
+#1801
+if isimmort $n
+ROOM GTRANSFER $n 1982
+BREAK
+endif
+if name $n kougyoku
+ROOM GTRANSFER $n 1982
+BREAK
+endif
+if name $n allyria
+ROOM GTRANSFER $n 1982
+BREAK
+endif
+ROOM ECHOAT $n That room is private right now.
+~
+#1982
+if isimmort $n
+BREAK
+endif
+if name $n kougyoku
+BREAK
+endif
+if name $n allyria
+BREAK
+endif
+ROOM ECHOAT $n {rA powerful magical force expels you from the room.{X{/
+ROOM ECHOAROUND $n {rA powerful magical force expels $n from the room.{X
+ROOM TRANSFER $n 1801
+~
+#1983
+ROOM GTRANSFER $n 1801
+~
+#0
+
+#$

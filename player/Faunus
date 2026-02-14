@@ -1,0 +1,764 @@
+#PLAYER
+Name Faunus~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1380726292
+LogO 1388256949
+Vers 10
+Act  CDGQTe
+Desc Here before you stands a muscular, medium tall figure. He has a long black
+hair and the dark brown skin is covered with designs made with clay and
+paints.
+His clothes seem to be made with leather and he is wearing silver bracers.
+He seems to be holding a wood staff and carries a dagger at his waist. At
+his side there is a big grey wolf...
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e %B %a{r>{x ~
+Race kagonesti~
+Sex  1
+Cla  7
+Hmtown 0
+Levl 52
+recall_point 3001
+Levscale 30
+Xptolev  57683
+Sec  0
+Plyd 389596
+Not  1388019326 1382804331 0 1380154978 1298827134
+Scro 22
+Room 3354
+HMV  1054 1099 615 762 423 423
+Steel 12732
+Gold 489799
+Bank 165700
+Exp  795267
+AfBy Jb
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 786432
+Comm NO
+Pos  8
+Prac 292
+Trai 9
+Save  -3
+Alig  1000
+Ethos 0
+Hit   19
+Dam   28
+ACs -99 -95 -127 -52
+Wimp  110
+Attr 13 11 21 15 21 16
+AMod 6 11 16 12 12 2
+Pass FaHwEcuBDRt.2~
+Titl  the Speaker of the Wilderness~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 106
+HMVP 889 632 423
+Cnd  0 12 40 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'create rose'
+Sk 89 'fireproof'
+Sk 1 'orb of containment'
+Sk 1 'life transfer'
+Sk 90 'storm of vengeance'
+Sk 97 'teleport'
+Sk 97 'dagger'
+Sk 11 'shield block'
+Sk 100 'spear'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 74 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 8 'hand to hand'
+Sk 100 'kick'
+Sk 98 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'sharpen'
+Sk 1 'deathgrip'
+Sk 20 'mount'
+Sk 92 'badberry'
+Sk 100 'goodberry'
+Sk 100 'breath of nature'
+Sk 90 'druidstaff'
+Sk 100 'earthmeld'
+Sk 100 'windspirit'
+Sk 100 'stonespirit'
+Sk 92 'summon insects'
+Sk 85 'natures embrace'
+Sk 84 'natures warmth'
+Sk 1 'pillify'
+Sk 11 'herbal discern'
+Sk 93 'bark skin'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'drow tongue'
+Sk 100 'kagonesti tongue'
+Sk 94 'lore'
+Sk 74 'pick lock'
+Sk 100 'sneak'
+Sk 10 'scrolls'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'pass without trace'
+Sk 90 'purify'
+Sk 1 'jab'
+Sk 41 'sweep attack'
+Sk 88 'vermin plague'
+Sk 69 'vortex'
+Sk 66 'detect presence'
+Sk 67 'scout'
+Sk 89 'sticks to snakes'
+Sk 1 'quiet movement'
+Sk 80 'surge'
+Sk 1 'endure'
+Sk 86 'sparkshot'
+Sk 1 'sunray'
+Sk 1 'trance'
+Sk 92 'waterlungs'
+Sk 88 'fireseed'
+Sk 1 'immolation'
+Sk 96 'pine needles'
+Sk 85 'staff'
+Sk 1 'eyerub'
+Sk 1 'wrath of nature'
+Sk 100 'instruct'
+Sk 1 'call of the wild'
+Sk 1 'tame'
+Sk 1 'entangle'
+Sk 1 'plant growth'
+Sk 1 'treeform'
+Sk 1 'quicksand'
+Sk 1 'windtalk'
+Sk 1 'wilderness lore'
+Sk 1 'beastspite'
+Affc 'bark skin' -16409  49   9 -46  17          0
+Affc 'stonespirit'   0  50  30   3   5          0
+Affc 'windspirit'   0  48  30   3   2          0
+Affc 'waterlungs'   0  41  23   0   0  134217728
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16104
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'wraithform'
+Spell 2 'high explosive'
+End
+
+#O
+Vnum 914
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 17405
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3810
+Nest 1
+Cond 94
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3810
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 97
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 901
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 11706
+Nest 0
+Cond 100
+Wear -1
+Cost 190
+Val  25 5 4 95 0
+Spell 3 'word of recall'
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 1890
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 16102
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 9830
+Nest 0
+Cond 90
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 13301
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 73
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 17709
+Nest 0
+Cond 89
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3007
+Nest 0
+Cond 100
+Wear -1
+Cost 3800
+End
+
+#O
+Vnum 3369
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 252 0 0 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 17407
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 15195
+Nest 1
+Name potion halloweeny bubbling aqua~
+ShD  a {YHa{yll{Dow{yee{Yny{x potion~
+Desc A bubbling potion lies here.~
+Cond 100
+Wear -1
+Lev  53
+Cost 149
+Val  26 340 -1 -1 -1
+Spell 1 'quench'
+ExDe potion halloweeny~ This potion bubbles constantly. Could there be a treat inside? Or a trick?!
+~
+End
+
+#O
+Vnum 10967
+Nest 0
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear 7
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 12008
+Nest 0
+Cond 100
+Wear -1
+Cost 3545
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  57 5 0 0 0
+End
+
+#O
+Vnum 14428
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 79
+Wear 20
+Cost 10000
+Val  3 10 10 28 72
+End
+
+#END

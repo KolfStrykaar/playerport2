@@ -1,0 +1,5458 @@
+#AREADATA
+Name The Plains of Dust~
+Builders Habbakuk~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 11700 11900
+Credits Habbakuk~
+Security 9
+End
+
+
+
+#MOBILES
+#11700
+storm dust~
+a Dust Storm~
+A dust storm hits you suddenly, better take shelter.
+~
+The wind picks up and blows great piles of sand into your face cutting
+through your clothing and skin.  
+~
+unique~
+ABFGT QTV -400 0
+85 85 171d28+1717 85d10+85 28d3+47 blast
+-48 -48 -48 -30
+ADFHK B DH J
+stand stand none 2300
+K 0 L unknown 0
+M GREET 11750 50~
+#11701
+barbarian plains~
+a Plains Barbarian~
+A plains barbarian is here hunting for food.
+~
+He wears soft buckskin pants and a feather headdress.  His face is
+painted in various symbols and colors, the mark of a warrior.  He carries a
+long bow and quiver of arrows on his back and a bone handled dagger at his
+side.  
+~
+human~
+ACGT FP 500 0
+30 30 61d10+304 30d10+85 10d3+20 slash
+-10 -10 -10 -4
+BEFU 0 B 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#11702
+griffin~
+a Griffin~
+A large beast, with the body of a lion and beak of a hawk, flies overhead.
+~
+The beast has the long talons of an eagle and the massive muscles of a
+lion.  His wings spread out well over fifteen feet and his sharp beak is
+able to tear the flesh from most living creatures on Krynn.  
+~
+wyvern~
+ADGT BDFT 300 0
+90 90 181d30+1819 90d10+85 30d3+50 claw
+-51 -51 -51 -32
+CFHU 0 B S
+stand stand male 3000
+AG ACDEFHJKQVX L unknown 0
+F imm L
+F for BZ
+#11703
+centaur~
+a Centaur~
+A Centaur gallops speedily through the plains heading back to the forest.
+~
+He has the upper body of a man and the body of a horse.  Over his torso
+he wears a sword belt and long silver sword.  A Steel helm crowns his head
+and a quiver of arrows and short bow are strung across his back.  
+~
+human~
+ACGT FV 300 0
+50 50 101d16+506 50d10+85 16d3+30 charge
+-24 -24 -24 -14
+EFHIKU 0 BD C
+stand stand male 1200
+AHMV ABCDEFGHIJK L unknown 0
+#11704
+snake~
+a snake~
+A small snake lays on a sandstone keeping himself warm.
+~
+Ring of {rred{x, {yyellow{x, and {d{Dblack{x{x, flow down the snakes body
+from head to tail.  His sharp fangs once sunk into skin inject his deadly
+venom into his unlucky victim.  
+~
+lizard~
+ABT MV -30 0
+14 14 29d4+142 14d10+85 4d3+12 bite
+0 0 0 2
+FGH L 0 I
+stand stand male 300
+AGXc ACDEFHKQV S unknown 0
+F res L
+#11705
+coyote~
+A Coyote~
+A coyote mother stands here protecting her pups.
+~
+Her grey fur is matted in spots but her lean figure and sharp teeth make
+her look very dangerous.  Her pale blue eyes stare at you as she draws her
+lips back exposing her large sharp teeth.  
+~
+fox~
+ABCFT Za 0 0
+34 34 69d11+344 34d10+85 11d3+22 bite
+-13 -13 -13 -6
+FHR 0 0 0
+stand stand female 1200
+AGV ACDEFHJKQV M unknown 0
+#11706
+pup~
+A pup~
+A coyote pup stands behind his mother.
+~
+His bushy gray fur stands all over his back.  His lips are drawn back in
+a ferocious grin.  He looks ready to fight to the death to protect his
+mother and siblings.  
+~
+fox~
+ABFT Z 0 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+FHR 0 0 0
+stand stand male 900
+AGV ACDEFHJKQV S unknown 0
+#11714
+dust storm~
+a {YDust Storm{X~
+The winds pick up as a horrible {Ydust storm{x approaches!
+~
+The wind picks up and blows great piles of sand into your face cutting
+through your clothing and skin.  
+~
+unique~
+ACGW T -200 0
+85 85 171d28+1717 85d10+85 28d3+47 blast
+-48 -48 -48 -30
+GH B A J
+stand stand none 0
+K 0 G unknown 0
+M GREET 11714 50~
+#11716
+desert coyote~
+A desert coyote~
+A desert coyote searches for a meal here.
+~
+This dog-like looking animal stands here howling for no particular reason
+at all.  
+~
+fox~
+A Za 0 0
+34 34 69d11+344 34d10+85 11d3+22 bite
+-13 -13 -13 -6
+FH 0 0 0
+stand stand none 700
+AGV ACDEFHJKQV M unknown 0
+#11771
+dust storm~
+a {YDust Storm{X~
+The winds pick up as a giant {Ydust storm{X approaches!{x
+~
+The wind picks up and blows great piles of sand into your face cutting
+through your clothing and skin.  
+~
+unique~
+ACGW T -200 0
+85 85 171d28+1717 85d10+85 28d3+47 blast
+-48 -48 -48 -30
+GH B AB J
+stand stand none 0
+K 0 G unknown 0
+M GREET 11750 50~
+#11774
+dune lizard~
+A {yDune{x Lizard~
+A Dune Lizard slithers by here.
+~
+This scaly creature is an aggressive one at heart.  His sharp teeth and
+scales turn any coyote away...  
+~
+lizard~
+AFHW V -50 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+FM 0 L I
+stand stand none 0
+AGXc ACDEFHKQV S unknown 0
+#11779
+desert hog~
+A desert hog~
+A little desert hog wanders the plains here.
+~
+This short and fat pig looks very hungry as he stares at YOU!!!  
+~
+pig~
+AHW V 0 0
+23 23 47d7+233 23d10+85 7d3+16 bite
+-5 -5 -5 -1
+CFR 0 0 0
+stand stand male 12
+AGV ACDEFHJK S unknown 0
+M GREET 11779 75~
+#11782
+desert hog~
+A desert hog~
+A desert hog wanders about here looking for food.
+~
+This short and fat pig looks very hungry as he stares at YOU!!!  
+~
+pig~
+AHW V 0 0
+23 23 47d7+233 23d10+85 7d3+16 bite
+-5 -5 -5 -1
+CFR 0 0 0
+stand stand male 12
+AGV ACDEFHJK S unknown 0
+#11783
+desert wolf ~
+A desert wolf~
+A desert wolf is here howling.
+~
+This looks like a fierce fighting type of wolf, capable of tearing small
+animals into pieces with its sharp fangs.  
+~
+wolf~
+AFW VZ -150 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+HKM 0 0 0
+stand stand male 22
+AGV ACDEFJKQV M unknown 0
+F off F
+#11786
+dune lizard~
+A {yDune{x Lizard~
+A Dune lizard stares into the vastness of the desert here.
+~
+This Dune Lizard doesn't take notice to anything that’s around him.  He
+just stares straight into the vastness of the desert.  
+~
+lizard~
+AFHW V -50 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+FM 0 L I
+stand stand none 0
+AGXc ACDEFHKQV S unknown 0
+#11792
+desert wolf ~
+A desert wolf~
+A desert wolf is here howling.
+~
+This looks like a fierce fighting type of wolf, capable of tearing small
+animals into pieces with its sharp fangs.  
+~
+wolf~
+AFW VZ -150 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+HKM 0 0 0
+stand stand male 22
+AGV ACDEFJKQV M unknown 0
+F off F
+#11795
+Desert Worm~
+A giant desert Worm~
+A giant desert worm emerges from the ground and attacks!!!
+~
+Standing at about 40 feet long, this giant desert worm of the dunes has
+sharp scales acting as armor all over his body, His sharp fangs also show
+when he screeches...  
+~
+unique~
+ADFW c -300 0
+40 40 81d13+405 40d10+85 13d3+25 crush
+-17 -17 -17 -9
+CMO 0 AB I
+stand stand none 4500
+R ADEFKLQX G unknown 0
+#11803
+desert hog~
+A desert hog~
+A desert hog wanders about here looking for food.
+~
+This short and fat pig looks very hungry as he stares at YOU!!!  
+~
+pig~
+AHW V 0 0
+23 23 47d7+233 23d10+85 7d3+16 bite
+-5 -5 -5 -1
+CFR 0 0 0
+stand stand male 12
+AGV ACDEFHJK S unknown 0
+#11829
+desert wolf ~
+A desert wolf~
+A desert wolf is here howling.
+~
+This looks like a fierce fighting type of wolf, capable of tearing small
+animals into pieces with its sharp fangs.  
+~
+wolf~
+AFW VZ -150 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+HKM 0 0 0
+stand stand male 22
+AGV ACDEFJKQV M unknown 0
+F off F
+#11853
+underground dweller~
+An underground dweller ~
+An underground dweller stands here minding her own business.
+~
+This short female dweller looks like all the other dwellers in the city: short and thin. 
+~
+dwarf~
+A J 0 0
+28 28 57d9+283 28d10+85 9d3+19 none
+-9 -9 -9 -3
+FK 0 LQ R
+stand stand female 533
+AHMV ABCDEFGHIJK S unknown 0
+#11854
+underground dweller~
+An underground dweller~
+An underground dweller casually walks by here.
+~
+This just appears to be one of the small city dwellers that live in total
+darkness year round.  His cloths are plain, yet tailored nicely.  
+~
+dwarf~
+A J 0 0
+28 28 57d9+283 28d10+85 9d3+19 punch
+-9 -9 -9 -3
+FK 0 LQ R
+stand stand male 234
+AHMV ABCDEFGHIJK S unknown 0
+#11855
+forger~
+The forger~
+The forger stands by his anvil here working.
+~
+For a small man, this forger seems to be rippling with muscles.  His
+clothes all have a black stains, as well as his face.  He must be a hard
+worker.  
+~
+dwarf~
+AB J 350 0
+30 30 61d10+304 30d10+85 10d3+20 crush
+-10 -10 -10 -4
+CIOR 0 LQ R
+stand stand male 1000
+AHMV ABCDEFGHIJK S unknown 0
+#11856
+underground dweller~
+An underground dweller~
+An underground dweller scuttles about her business here.
+~
+This short female dweller looks like all the other dwellers in the city:
+short and thin.  
+~
+dwarf~
+A J 0 0
+28 28 57d9+283 28d10+85 9d3+19 slap
+-9 -9 -9 -3
+FK 0 LQ R
+stand stand female 324
+AHMV ABCDEFGHIJK S unknown 0
+#11857
+old dweller~
+An old dweller~
+An old dweller is here looking over his artifacts.
+~
+This old, yet agile, man seems to be in tuned with the magic realm.  His
+clothes look tattered, but his smile is as sharp as ever.  
+~
+dwarf~
+ABa HJ 500 0
+150 150 301d50+4546 150d10+85 50d3+80 magic
+-91 -91 -91 -60
+0 AB LQ R
+stand stand male 3224
+AHMV ABCDEFGHIJK S unknown 0
+M GREET 11857 100~
+M BRIBE 11858 10000~
+#11858
+fruit vendor~
+A fruit vendor~
+A fruit vendor stands here with the juicy imports.
+~
+This young and beautiful dwarf looking woman is ready to sell you any
+produce you want.  
+~
+dwarf~
+AB HJ 250 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 AB LQ R
+stand stand female 345
+AHMV ABCDEFGHIJK S unknown 0
+#11859
+underground dweller~
+An underground dweller~
+An underground dweller wanders about here.
+~
+This just appears to be one of the small city dwellers that live in total
+darkness year round.  His cloths are plain, yet tailored nicely.  
+~
+dwarf~
+A J 0 0
+28 28 57d9+283 28d10+85 9d3+19 punch
+-9 -9 -9 -3
+FK 0 LQ R
+stand stand male 544
+AHMV ABCDEFGHIJK S unknown 0
+#11874
+desert wolf ~
+a desert wolf~
+A desert wolf is here howling.
+~
+This looks like a fierce fighting type of wolf, capable of tearing small
+animals into pieces with its sharp fangs.  
+~
+wolf~
+AFW VZ 0 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+HKM 0 0 0
+stand stand male 22
+AGV ACDEFJKQV M unknown 0
+F off F
+#11876
+Dune lizard~
+A {yDune{x Lizard~
+A Dune Lizard slithers by here.
+~
+This scaly creature is an aggressive one at heart.  His sharp teeth and
+scales turn any coyote away...  
+~
+lizard~
+AFHW V -50 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+FM 0 L I
+stand stand none 0
+AGXc ACDEFHKQV S unknown 0
+#11877
+desert coyote~
+A desert coyote~
+A desert coyote howls at you!
+~
+This dog-like looking animal stands here howling for no particular reason
+at all.  
+~
+fox~
+A Za 0 0
+34 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FH 0 0 0
+stand stand male 1300
+AGV ACDEFHJKQV M unknown 0
+#11878
+wanderer desert~
+A desert wanderer~
+A desert wanderer stands here looking for herbs to sell.
+~
+This desert wander seems to be collecting herbs to sell.  He's wearing
+clothing that’s been out of date ten years ago and looks tired from travel.  
+~
+human~
+ABC H 10 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 AB 0 0
+stand stand male 4543
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 11878 100~
+#11879
+dune lizard~
+A {yDune{x Lizard~
+A Dune Lizard slithers by here.
+~
+This scaly creature is an aggressive one at heart.  His sharp teeth and
+scales turn any coyote away...  
+~
+lizard~
+AFHW V -50 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+FM 0 L I
+stand stand male 0
+AGXc ACDEFHKQV S unknown 0
+#11880
+desert hog~
+A desert hog~
+A desert hog wanders about here looking for food.
+~
+This short and fat pig looks very hungry as he stares at YOU!!!  
+~
+pig~
+AHW V 0 0
+23 23 47d7+233 23d10+85 7d3+16 bite
+-5 -5 -5 -1
+CFR 0 0 0
+stand stand male 12
+AGV ACDEFHJK S unknown 0
+#11882
+desert hog~
+A desert hog~
+A desert hog wanders about here looking for food.
+~
+This short and fat pig looks very hungry as he stares at YOU!!!  
+~
+pig~
+AHW V 0 0
+23 23 47d7+233 23d10+85 7d3+16 bite
+-5 -5 -5 -1
+CFR 0 0 0
+stand stand none 12
+AGV ACDEFHJK S unknown 0
+#0
+
+
+
+#OBJECTS
+#11700
+cloak dust~
+a cloak of {ydust{x~
+A pile of dust lies on the floor.~
+soil~
+armor GSTY 0 ACc
+CD CD CD BD 0
+55 1 0 P
+A
+13 50
+A
+19 4
+A
+17 -20
+#11701
+simple dagger~
+a simple dagger~
+A simple dagger lies in the dust.~
+stone~
+weapon SY 0 ANX
+dagger 7 7 stab 0
+49 1 490 P
+#11702
+pond~
+a pond~
+A small pond with {WCrystal{X clear water rests here.~
+unknown~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#11703
+human skeleton~
+a Human Skeleton~
+A Human Skeleton sits here exposed to the elements.~
+bone~
+container 0 0 P
+10 0 0 10 0
+4 0 0 P
+E
+skeleton~
+The jaws of the skull hang open as if he was trying to drink from his
+waterskin, which is still held in the bony fingers.  Some hard leather armor
+covers his ribs, though now full of holes and brittle, it appears to be the
+armor of a plainsman.  
+~
+#11704
+waterskin leather~
+a leather waterskin~
+A water skin with fringes, favored by the plainsmen, lies here forgotten.~
+soft leather~
+drink S 0 AO
+20 0 'water' 0 0
+4 4 200 P
+#11705
+deep hole~
+a deep hole~
+A deep hole has been dug into the sand here.~
+sand~
+container 0 0 P
+10 0 0 20 0
+0 0 0 P
+E
+hole~
+This hole was dug as a shelter from one of the dust storms that plague
+the plains.  As can be told by the marks of hands feet and claws working
+their way up the sides of the hole.  
+~
+#11706
+shepherd flute~
+a shepherd's flute~
+A shepherds flute lies here forgotten.~
+wood~
+wand GS 0 AOc
+25 5 5 'word of recall' 0
+25 9 190 P
+E
+flute~
+"Find the music find the magic" 
+~
+#11707
+slab stone flat rock~
+a large slab of sandstone~
+A flat piece of rock lays on the sandy ground.~
+sandstone~
+furniture 0 0 P
+C FHIJKL EHK BEF BEF
+0 0 0 P
+E
+rock~
+A large slab of sandstone blends in perfectly with the rest of the sand here.  The only way to notice it is to stand directly on it.
+~
+#11854
+dried fruit rations~
+({MAssorted{X) Dried fruit rations~
+A pile of dried fruit lays on the ground here.~
+plant~
+food S 0 AO
+CFG BD 0 0 0
+1 1 112 P
+#11855
+hammer mace~
+a {DHammer{x~
+A hammer rests here upon the ground.~
+iron~
+weapon Y 0 ANc
+mace 3 8 smash 0
+20 4 1120 P
+A
+18 1
+A
+19 1
+#11857
+small sand stone~
+a small {ysand{x stone~
+A dull looking stone sits in the dirt here.~
+sandstone~
+warp_stone BGSYa 0 AQ
+0 0 0 0 0
+50 1 12500 P
+#11858
+juicy pear~
+({GJuicy{x) A pear~
+A nice juicy pear seems to be left on the ground here.~
+plant~
+food S 0 A
+CE AB 0 0 0
+1 0 51 P
+#11859
+small stream~
+a small stream~
+A small underground {Bstream{x flows by here providing water to the city.~
+unknown~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#11867
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11878
+aguave roots~
+({yDried{x) {Caguave{x roots~
+A pile of cacti roots lay here upon the floor.~
+plant~
+pill GS 0 AO
+30 'haste' 'giant strength' 'refresh' 'reserved'
+24 1 5100 P
+#11879
+water hide~
+a water hide~
+A leather water hide has been left behind here.~
+leather~
+drink S 0 AO
+3 3 'water' 0 0
+1 1 430 P
+#11886
+boulder~
+a large boulder~
+A large boulder sits here, blotting out the light.~
+stone~
+wetstone GS 0 0
+0 0 0 0 0
+0 0 0 P
+#11888
+broken stone column~
+a broken stone column~
+A broken stone column stands here blocking your way.~
+stone~
+warp_stone G 0 0
+0 0 0 0 0
+0 10000 10000 P
+#11889
+dried fountain~
+a dried-up fountain~
+A dried-up fountain sits here eroded by time and the elements. ~
+sandstone~
+fountain GO 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+O GREET 11889 50~
+#11891
+altar ancient~
+an ancient altar~
+An ancient altar stands here in the light.~
+stone~
+container IO 0 0
+1000 0 0 30 2
+0 0 0 P
+#11892
+small blue rock~
+a small {Bblue{X rock~
+A rock lies in the dust here.~
+turquoise~
+stone GS 0 AQ
+0 0 0 0 0
+1 1 121 P
+A
+12 20
+A
+4 1
+#11893
+rock column~
+a giant rock column~
+A giant rock column stands here blocking your way.~
+sandstone~
+warp_stone GO 0 0
+0 0 0 0 0
+0 10000 10000 P
+#11899
+staff desert~
+the Staff of the {YDesert{X~
+A staff made of sand lies here on the floor.~
+sand~
+staff GSY 0 AOc
+30 5 5 'wind wall' 0
+25 2 9850 P
+#11900
+bread loaf~
+a loaf of bread~
+A loaf of bread sits here uneaten.~
+unknown~
+food S 0 AO
+BEF D 0 0 0
+1 1 85 P
+#0
+
+
+
+#ROOMS
+#11700
+Plains of Dust~
+The wind drives the sand into the sides of a small wooded hill here at
+the edge of the plains.  The wind is so strong and the dust so thick that
+vision here is very limited.  
+~
+0 0 10
+D2
+~
+~
+0 0 11701
+S
+#11701
+Plains of Dust~
+The harsh winds have created a natural gully here.  The sides of the
+gully now protect the travelers through the plains from the wind and blowing
+sand.  The gully continues to the south or one can leave here and climb to
+the east or west.  
+~
+0 0 10
+D0
+~
+~
+0 0 11700
+D1
+~
+~
+0 0 11898
+D2
+~
+~
+0 0 11817
+D3
+~
+~
+0 0 11702
+S
+#11702
+Plains of Dust~
+A small sand dune stands here blocking off further vision to the south. 
+Standing atop the dune, a small trail of smoke can be seen coming from the
+south, inside a small circle of trees.  
+~
+0 0 10
+D1
+~
+~
+0 0 11701
+D2
+~
+~
+0 0 11816
+D3
+~
+~
+0 0 11703
+S
+#11703
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D1
+~
+~
+0 0 11702
+D2
+~
+~
+0 0 11799
+D3
+~
+~
+0 0 11704
+S
+#11704
+Plains of Dust~
+The wind drives the sand into dunes throughout the plains causing the
+landscape to constantly change.  Where once a trail may have lead one
+through the plains now there is only the sun and stars to be used as a
+guide through the plains.  
+~
+0 0 10
+D0
+~
+~
+0 0 11728
+D1
+~
+~
+0 0 11703
+D2
+~
+~
+0 0 11798
+D3
+~
+~
+0 0 11705
+S
+#11705
+Plains of Dust~
+The wind drives the sand into dunes throughout the plains causing the
+landscape to constantly change.  Where once a trail may have lead one
+through the plains now there is only the sun and stars to be used as a
+guide through the plains.  
+~
+0 0 10
+D0
+~
+~
+0 0 11729
+D1
+~
+~
+0 0 11704
+D2
+~
+~
+0 0 11779
+D3
+~
+~
+0 0 11706
+S
+#11706
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D1
+~
+~
+0 0 11705
+D2
+~
+~
+0 0 11778
+D3
+~
+~
+0 0 11707
+S
+#11707
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D1
+~
+~
+0 0 11706
+D2
+~
+~
+0 0 11765
+D3
+~
+~
+0 0 11708
+S
+#11708
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11710
+D1
+~
+~
+0 0 11707
+D2
+~
+~
+0 0 11764
+D3
+~
+~
+0 0 11709
+S
+#11709
+{GPlains of Dust{x~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 0
+D1
+~
+~
+0 0 11708
+D2
+~
+~
+0 0 11751
+S
+#11710
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond this is the rocky
+foothills of some sort of mountainous range.  The way seems impassable, so
+its best just to turn back into the dreaded wasteland of the dunes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11730
+D2
+~
+~
+0 0 11708
+D3
+~
+~
+0 0 11711
+S
+#11711
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+impossible for even the most experienced climbers.  The plains stretch in
+all directions for as far as the eye can see.  
+~
+0 0 10
+D1
+~
+~
+0 0 11710
+D3
+~
+~
+0 0 11712
+S
+#11712
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+impossible for even the most experienced climbers.  The plains stretch in
+all directions for as far as the eye can see.  
+~
+0 0 10
+D1
+~
+~
+0 0 11711
+D2
+~
+~
+0 0 11713
+S
+#11713
+Plains of Dust~
+This seems to be a little passageway between two of the giant dunes north
+and south of here.  Sandstone juts out from the dunes, reminding the
+traveler of the mountains not too far off in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11712
+D2
+~
+~
+0 0 11714
+S
+#11714
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11713
+D1
+~
+~
+0 0 11749
+D2
+~
+~
+0 0 11715
+S
+#11715
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond this is the rocky
+foothills of some sort of mountainous range.  The way seems impassable, so
+its best just to turn back into the dreaded wasteland of the dunes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11714
+D1
+~
+~
+0 0 11748
+D2
+~
+~
+0 0 11716
+S
+#11716
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond this is the rocky
+foothills of some sort of mountainous range.  The way seems impassable, so
+its best just to turn back into the dreaded wasteland of the dunes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11715
+D1
+~
+~
+0 0 11747
+D2
+~
+~
+0 0 11719
+D3
+~
+~
+0 0 11717
+S
+#11717
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet, creating small dirt storms all around.  The faint noise
+of a animal life can be heard in the distance.  
+~
+0 0 10
+D1
+~
+~
+0 0 11716
+D2
+~
+~
+0 0 11718
+S
+#11718
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet, creating small dirt storms all around.  The faint noise
+of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11717
+D1
+~
+~
+0 0 11719
+S
+#11719
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond this is the rocky
+foothills of some sort of mountainous range.  The way seems impassable, so
+its best just to turn back into the dreaded wasteland of the dunes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11716
+D1
+~
+~
+0 0 11746
+D2
+~
+~
+0 0 11720
+D3
+~
+~
+0 0 11718
+S
+#11720
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11719
+D1
+~
+~
+0 0 11745
+D2
+~
+~
+0 0 11721
+S
+#11721
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond this is the rocky
+foothills of some sort of mountainous range.  The way seems impassable, so
+its best just to turn back into the dreaded wasteland of the dunes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11720
+D1
+~
+~
+0 0 11744
+D3
+~
+~
+0 0 11722
+S
+#11722
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D1
+~
+~
+0 0 11721
+D2
+~
+~
+0 0 11725
+D3
+~
+~
+0 0 11723
+S
+#11723
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D1
+~
+~
+0 0 11722
+D2
+~
+~
+0 0 11724
+S
+#11724
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11723
+D1
+~
+~
+0 0 11725
+S
+#11725
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11722
+D1
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11724
+S
+#11726
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 0
+D1
+~
+~
+0 0 11727
+D3
+~
+~
+0 0 11725
+S
+#11727
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 0
+D0
+~
+~
+0 0 11744
+D1
+~
+~
+0 0 11757
+D3
+~
+~
+0 0 11726
+S
+#11728
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D2
+~
+~
+0 0 11704
+D3
+~
+~
+0 0 11729
+S
+#11729
+Plains of Dust~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D1
+~
+~
+0 0 11728
+D2
+~
+~
+0 0 11705
+S
+#11730
+Plains of Dust~
+Two small sage brush plants grow here near a large sandstone rock.  The
+plains are filled with such plants and rocks.  To the south the Plains turn
+in all directions only the mountains to the north can be used as a visible
+landmark.  
+~
+0 0 10
+D0
+~
+~
+0 0 11731
+D2
+~
+~
+0 0 11710
+S
+#11731
+Plains of Dust~
+A large flat stone lies open to the suns warm rays.  The stone is warm to
+the touch offering a comfortable bed with which to lay and rest on after a
+long days travel.  The plains stretch out to the south and a large hole in
+the sand appears to the west.  
+~
+0 0 5
+D2
+~
+~
+0 0 11730
+D3
+~
+~
+0 0 11732
+S
+#11732
+Plains of Dust~
+A large hole has been dug out of the sand here.  Whether by magic or
+mortal means cannot be told.  Something glimmers in the bottom of the deep
+hole making more than kender a bit curious.  
+~
+0 0 5
+D1
+~
+~
+0 0 11731
+D3
+~
+~
+0 0 11733
+S
+#11733
+Plains of Dust~
+The sand shifts here as though a recent wind storm has blown through
+changing the direction in which the sand lays.  To the north a faint growl
+can be heard, must be getting a little to close to some beasts home.  The
+plains continue to the east.  
+~
+0 0 10
+D0
+~
+~
+0 0 11734
+D1
+~
+~
+0 0 11732
+S
+#11734
+Plains of Dust~
+A coyote has dug a den in a nearby hill.  She peers out through the hole
+in the sand and lets out a low furious growl.  Her pups fall in behind her
+seeking the protection of their mother.  To the south the plains stretch out
+to the horizon and a path leads to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 11735
+D2
+~
+~
+0 0 11733
+S
+#11735
+Plains of Dust~
+A small line in the sand twists it way to the north.  It appears to be
+the markings of a small snake.  A large sand hill can be seen further to the
+north and what appear to be trees lies beyond it.  More of the fine sand
+lies to the west.  
+~
+0 0 10
+D0
+~
+~
+0 0 11736
+D2
+~
+~
+0 0 11851
+D3
+~
+~
+0 0 11734
+S
+#11736
+{GPlains of Dust{x~
+A small snake slithers over onto a large sand stone, soaking in the heat
+absorbed into the rock during the day.  Hoof prints lead on to the east of
+here towards a large sand hill.  To the north, the southern entrance to
+Thorbardin lies near.  
+~
+0 0 5
+D0
+~
+~
+0 0 10790
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11735
+S
+#11737
+Plains of Dust~
+A large mound of sand stands in front of you.  Large hoof prints travel
+around the outer edges of the mound, as if whoever came through here didn't
+want to disturb it.  The hoof prints travel to the south further inside this
+secluded area.  
+~
+0 0 5
+D2
+~
+~
+0 0 11738
+D3
+~
+~
+0 0 11736
+S
+#11738
+Plains of Dust~
+Hoof prints can be clearly seen in the sand here.  They lead east toward a
+small forested area close to the Kharolis mountains.  To the north more sand
+hills and harsh sunlight await the next adventurer.  
+~
+0 0 5
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11739
+S
+#11739
+Plains of Dust~
+A small dirt path lies to the west, entering a forested area.  Very few
+trees remain yet standing in the plains, it is a place of refuge for most
+traveling through here.  To the south more sand and hills offer little
+comfort for the weary traveler.  
+~
+0 0 5
+D2
+~
+~
+0 0 11740
+D3
+~
+~
+0 0 11738
+S
+#11740
+Woodland Path~
+The trail leads off the east deeper into the woodland.  The wind from the
+plains is blocked by the thick woods.  To the north harsh winds and blowing
+sand sweeps across the plains.  
+~
+0 0 5
+D0
+~
+~
+0 0 11739
+D1
+~
+~
+0 0 11741
+S
+#11741
+Woodland Path~
+Trees stand on all sides of the path gently swaying in the breeze.  To
+the north the trees thin out a bit and a small pond can be seen in the
+distance.  It looks like a safe place to make camp.  
+~
+0 0 5
+D0
+~
+~
+0 0 11742
+D3
+~
+~
+0 0 11740
+S
+#11742
+A small clearing~
+The trees thin out here revealing a small pond that seems to be a
+favorite location for travelers to make camp, as it offers protection from
+the harsh winds of the plains.  The trail leads north to the pond, and south
+through a small wooded area.  
+~
+0 0 5
+D0
+~
+~
+0 0 11743
+D2
+~
+~
+0 0 11741
+S
+#11743
+Camp~
+There is a small lake here surrounded by small fir trees.  Many campfires
+sit all around the lake, some old some fairly new.  A small trail leads to
+the south out of the protection of the mountains.  
+~
+0 0 5
+D2
+~
+~
+0 0 11742
+S
+#11744
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11745
+D1
+~
+~
+0 0 11756
+D2
+~
+~
+0 0 11727
+D3
+~
+~
+0 0 11721
+S
+#11745
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11746
+D1
+~
+~
+0 0 11755
+D2
+~
+~
+0 0 11744
+D3
+~
+~
+0 0 11720
+S
+#11746
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11747
+D1
+~
+~
+0 0 11754
+D2
+~
+~
+0 0 11745
+D3
+~
+~
+0 0 11719
+S
+#11747
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11748
+D1
+~
+~
+0 0 11753
+D2
+~
+~
+0 0 11746
+D3
+~
+~
+0 0 11716
+S
+#11748
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11749
+D1
+~
+~
+0 0 11752
+D2
+~
+~
+0 0 11747
+D3
+~
+~
+0 0 11715
+S
+#11749
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11750
+D1
+~
+~
+0 0 11751
+D2
+~
+~
+0 0 11748
+D3
+~
+~
+0 0 11714
+S
+#11750
+Dust Storm~
+LOST!  The winds and dust come at you with violent speed.  Every thing is
+a blur...  Its so dark here since the wall of wind and dirt won't allow any
+of the light to pass.  The best way to go is the one you came from.  
+~
+0 0 10
+D2
+~
+~
+0 0 11749
+S
+#11751
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11709
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11752
+D3
+~
+~
+0 0 11749
+S
+#11752
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11751
+D1
+~
+~
+0 0 11763
+D2
+~
+~
+0 0 11753
+D3
+~
+~
+0 0 11748
+S
+#11753
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11752
+D1
+~
+~
+0 0 11762
+D2
+~
+~
+0 0 11754
+D3
+~
+~
+0 0 11747
+S
+#11754
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11753
+D1
+~
+~
+0 0 11759
+D2
+~
+~
+0 0 11755
+D3
+~
+~
+0 0 11746
+S
+#11755
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11754
+D1
+~
+~
+0 0 11760
+D2
+~
+~
+0 0 11756
+D3
+~
+~
+0 0 11745
+S
+#11756
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11755
+D1
+~
+~
+0 0 11761
+D2
+~
+~
+0 0 11757
+D3
+~
+~
+0 0 11744
+S
+#11757
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11756
+D1
+~
+~
+0 0 11758
+D3
+~
+~
+0 0 11727
+S
+#11758
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11759
+D1
+~
+~
+0 0 11771
+D3
+~
+~
+0 0 11757
+S
+#11759
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11760
+D1
+~
+~
+0 0 11770
+D2
+~
+~
+0 0 11758
+D3
+~
+~
+0 0 11754
+S
+#11760
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11761
+D1
+~
+~
+0 0 11769
+D2
+~
+~
+0 0 11759
+D3
+~
+~
+0 0 11755
+S
+#11761
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11762
+D1
+~
+~
+0 0 11768
+D2
+~
+~
+0 0 11760
+D3
+~
+~
+0 0 11756
+S
+#11762
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11763
+D1
+~
+~
+0 0 11767
+D2
+~
+~
+0 0 11761
+D3
+~
+~
+0 0 11753
+S
+#11763
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11764
+D1
+~
+~
+0 0 11766
+D2
+~
+~
+0 0 11762
+D3
+~
+~
+0 0 11752
+S
+#11764
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11708
+D1
+~
+~
+0 0 11765
+D2
+~
+~
+0 0 11763
+D3
+~
+~
+0 0 11751
+S
+#11765
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11707
+D1
+~
+~
+0 0 11778
+D2
+~
+~
+0 0 11766
+D3
+~
+~
+0 0 11764
+S
+#11766
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11765
+D1
+~
+~
+0 0 11777
+D2
+~
+~
+0 0 11767
+D3
+~
+~
+0 0 11763
+S
+#11767
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+leaving room for rocks of any size to be set all about as well.  The dunes
+seem to go on forever, making even the strongest of men, and women, grow
+weary of this place.  When the dust filled wind stops blowing, the echoes of
+life fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11766
+D1
+~
+~
+0 0 11776
+D2
+~
+~
+0 0 11768
+D3
+~
+~
+0 0 11762
+S
+#11768
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11767
+D1
+~
+~
+0 0 11775
+D2
+~
+~
+0 0 11769
+D3
+~
+~
+0 0 11761
+S
+#11769
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11768
+D1
+~
+~
+0 0 11774
+D2
+~
+~
+0 0 11770
+D3
+~
+~
+0 0 11760
+S
+#11770
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11769
+D1
+~
+~
+0 0 11773
+D2
+~
+~
+0 0 11771
+D3
+~
+~
+0 0 11759
+S
+#11771
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11770
+D1
+~
+~
+0 0 11772
+D3
+~
+~
+0 0 11758
+S
+#11772
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11773
+D1
+~
+~
+0 0 11785
+D3
+~
+~
+0 0 11771
+S
+#11773
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11774
+D1
+~
+~
+0 0 11784
+D2
+~
+~
+0 0 11772
+D3
+~
+~
+0 0 11770
+S
+#11774
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11775
+D1
+~
+~
+0 0 11783
+D2
+~
+~
+0 0 11773
+D3
+~
+~
+0 0 11769
+S
+#11775
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11776
+D1
+~
+~
+0 0 11782
+D2
+~
+~
+0 0 11774
+D3
+~
+~
+0 0 11768
+S
+#11776
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11777
+D1
+~
+~
+0 0 11781
+D2
+~
+~
+0 0 11775
+D3
+~
+~
+0 0 11767
+S
+#11777
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11778
+D1
+~
+~
+0 0 11780
+D2
+~
+~
+0 0 11776
+D3
+~
+~
+0 0 11766
+S
+#11778
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11706
+D1
+~
+~
+0 0 11779
+D2
+~
+~
+0 0 11777
+D3
+~
+~
+0 0 11765
+S
+#11779
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11705
+D1
+~
+~
+0 0 11798
+D2
+~
+~
+0 0 11780
+D3
+~
+~
+0 0 11778
+S
+#11780
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11779
+D1
+~
+~
+0 0 11797
+D2
+~
+~
+0 0 11781
+D3
+~
+~
+0 0 11777
+S
+#11781
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11780
+D1
+~
+~
+0 0 11796
+D2
+~
+~
+0 0 11782
+D3
+~
+~
+0 0 11776
+S
+#11782
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11781
+D1
+~
+~
+0 0 11795
+D2
+~
+~
+0 0 11783
+D3
+~
+~
+0 0 11775
+S
+#11783
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11782
+D1
+~
+~
+0 0 11794
+D2
+~
+~
+0 0 11784
+D3
+~
+~
+0 0 11774
+S
+#11784
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11783
+D1
+~
+~
+0 0 11793
+D2
+~
+~
+0 0 11785
+D3
+~
+~
+0 0 11773
+S
+#11785
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11784
+D1
+~
+~
+0 0 11792
+D2
+~
+~
+0 0 11786
+D3
+~
+~
+0 0 11772
+S
+#11786
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11785
+D1
+~
+~
+0 0 11791
+D2
+~
+~
+0 0 11787
+S
+#11787
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11786
+D1
+~
+~
+0 0 11790
+D2
+~
+~
+0 0 11788
+S
+#11788
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11787
+D1
+~
+~
+0 0 11789
+S
+#11789
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11790
+D1
+~
+~
+0 0 11807
+D3
+~
+~
+0 0 11788
+S
+#11790
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11791
+D1
+~
+~
+0 0 11806
+D2
+~
+~
+0 0 11789
+D3
+~
+~
+0 0 11787
+S
+#11791
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11792
+D1
+~
+~
+0 0 11897
+D2
+~
+~
+0 0 11790
+D3
+~
+~
+0 0 11786
+S
+#11792
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11793
+D1
+~
+~
+0 0 11805
+D2
+~
+~
+0 0 11791
+D3
+~
+~
+0 0 11785
+S
+#11793
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11794
+D1
+~
+~
+0 0 11804
+D2
+~
+~
+0 0 11792
+D3
+~
+~
+0 0 11784
+S
+#11794
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11795
+D1
+~
+~
+0 0 11803
+D2
+~
+~
+0 0 11793
+D3
+~
+~
+0 0 11783
+S
+#11795
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11796
+D1
+~
+~
+0 0 11802
+D2
+~
+~
+0 0 11794
+D3
+~
+~
+0 0 11782
+S
+#11796
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11797
+D1
+~
+~
+0 0 11801
+D2
+~
+~
+0 0 11795
+D3
+~
+~
+0 0 11781
+S
+#11797
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11798
+D1
+~
+~
+0 0 11800
+D2
+~
+~
+0 0 11796
+D3
+~
+~
+0 0 11780
+S
+#11798
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11704
+D1
+~
+~
+0 0 11799
+D2
+~
+~
+0 0 11797
+D3
+~
+~
+0 0 11779
+S
+#11799
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11703
+D1
+~
+~
+0 0 11816
+D2
+~
+~
+0 0 11800
+D3
+~
+~
+0 0 11798
+S
+#11800
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11799
+D1
+~
+~
+0 0 11815
+D2
+~
+~
+0 0 11801
+D3
+~
+~
+0 0 11797
+S
+#11801
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11800
+D1
+~
+~
+0 0 11814
+D2
+~
+~
+0 0 11802
+D3
+~
+~
+0 0 11796
+S
+#11802
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11801
+D1
+~
+~
+0 0 11813
+D2
+~
+~
+0 0 11803
+D3
+~
+~
+0 0 11795
+S
+#11803
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11802
+D1
+~
+~
+0 0 11812
+D2
+~
+~
+0 0 11804
+D3
+~
+~
+0 0 11794
+S
+#11804
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+leaving room for rocks of any size to be set all about as well.  The dunes
+seem to go on forever, making even the strongest of men, and women, grow
+weary of this place.  When the dust filled wind stops blowing, the echoes of
+life fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11803
+D1
+~
+~
+0 0 11811
+D2
+~
+~
+0 0 11805
+D3
+~
+~
+0 0 11793
+S
+#11805
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11804
+D1
+~
+~
+0 0 11810
+D2
+~
+~
+0 0 11897
+D3
+~
+~
+0 0 11792
+S
+#11806
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11897
+D1
+~
+~
+0 0 11808
+D2
+~
+~
+0 0 11807
+D3
+~
+~
+0 0 11790
+S
+#11807
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  The dunes in this area seem to settle down into a nice shallow
+gulley.  Unfortunately, the strong breeze blows the sand from the top of the
+dunes down upon you, making it impossible for one to see the way.  Only the
+sound of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11806
+D3
+~
+~
+0 0 11789
+S
+#11808
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11809
+D1
+~
+~
+0 0 11825
+D3
+~
+~
+0 0 11806
+S
+#11809
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11810
+D1
+~
+~
+0 0 11824
+D2
+~
+~
+0 0 11808
+D3
+~
+~
+0 0 11897
+S
+#11810
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11811
+D1
+~
+~
+0 0 11823
+D2
+~
+~
+0 0 11809
+D3
+~
+~
+0 0 11805
+S
+#11811
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11812
+D1
+~
+~
+0 0 11822
+D2
+~
+~
+0 0 11810
+D3
+~
+~
+0 0 11804
+S
+#11812
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11813
+D1
+~
+~
+0 0 11821
+D2
+~
+~
+0 0 11811
+D3
+~
+~
+0 0 11803
+S
+#11813
+Oasis~
+Stepping into the center of the circle of trees, you notice a group of
+plainsmen camped near a pond.  The crystal clear water offers relief from a
+long hard journey through the plains.  And a refreshing break from the long
+hard journey through the plains.  
+~
+0 0 10
+D0
+~
+~
+0 0 11814
+D1
+~
+~
+0 0 11820
+D2
+~
+~
+0 0 11812
+D3
+~
+~
+0 0 11802
+S
+#11814
+{GPlains of Dust{x~
+The branches of the trees spread a comforting canopy over a small trail
+leading to the south.  Voices in a different language can be heard to the
+south as well as the splashing of water.  A small campfire has been built
+next to the small pond of water, and a plainsman can be seen squatted down
+next to it.  The Plains begin again to the north, south, and east.  To the
+west is a thick mud.  The sand swirls as a gust of wind blows harshly across
+the plains, then settles back to a small breeze.  A small patch of withered
+brush forms around a large outlet of sandstone.  In any direction, sand
+dominates the landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11815
+D1
+~
+~
+0 0 11819
+D2
+~
+~
+0 0 11813
+D3
+~
+~
+0 0 11801
+S
+#11815
+Plains of Dust~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  The green leaves of trees can be seen to
+the south, and a small trail of smoke can be seen coming from inside the
+circle.  
+~
+0 0 10
+D0
+~
+~
+0 0 11816
+D1
+~
+~
+0 0 11818
+D2
+~
+~
+0 0 11814
+D3
+~
+~
+0 0 11800
+S
+#11816
+Plains of Dust~
+A human skeleton lies in the sand, still clutching an empty waterskin
+that is old and decayed from the harsh sunlight.  A faint vision of trees
+can be seen to the south, and in all other directions, only the shifting
+sand comes into view.  
+~
+0 0 10
+D0
+~
+~
+0 0 11702
+D1
+~
+~
+0 0 11817
+D2
+~
+~
+0 0 11815
+D3
+~
+~
+0 0 11799
+S
+#11817
+Plains of Dust~
+The gully comes to a sudden stop here.  The harsh rays of the sun have
+baked the soil here turning it into hard baked earth.  To the west a white
+form, half covered in sand, gleams in the light of the sun.  
+~
+0 0 10
+D0
+~
+~
+0 0 11701
+D1
+~
+~
+0 0 11835
+D2
+~
+~
+0 0 11818
+D3
+~
+~
+0 0 11816
+S
+#11818
+Plains of Dust~
+The sand is thick here and very deep.  It has a liquid feel to it yet it
+looks like the rest of the sand in the plains.  To the south appears to be a
+small pond now covered with sand, while to the west and east appears nothing
+more than more sand hills.  
+~
+0 0 10
+D0
+~
+~
+0 0 11817
+D1
+~
+~
+0 0 11834
+D3
+~
+~
+0 0 11815
+S
+#11819
+{GQuicksand!!!{x~
+You have stepped into quicksand and are sinking further and further into
+the ground.  The more you struggle, the faster you sink.  
+~
+0 2646021 10
+M -100 H -100
+S
+#11820
+{GOasis{x~
+The branches of the trees spread a comforting canopy over a small trail
+leading to the west.  Voices in a different language can be heard to the
+west as well as the splashing of water.  A small campfire has been built
+next to the small pond of water, and a plainsman can be seen squatted down
+next to it.  To the north is a thick mud.  
+~
+0 0 10
+D0
+~
+~
+0 0 11819
+D1
+~
+~
+0 0 11832
+D2
+~
+~
+0 0 11821
+D3
+~
+~
+0 0 11813
+S
+#11821
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11820
+D1
+~
+~
+0 0 11831
+D2
+~
+~
+0 0 11822
+D3
+~
+~
+0 0 11812
+S
+#11822
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11821
+D1
+~
+~
+0 0 11830
+D2
+~
+~
+0 0 11823
+D3
+~
+~
+0 0 11811
+S
+#11823
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11822
+D1
+~
+~
+0 0 11829
+D2
+~
+~
+0 0 11824
+D3
+~
+~
+0 0 11810
+S
+#11824
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11823
+D1
+~
+~
+0 0 11828
+D2
+~
+~
+0 0 11825
+D3
+~
+~
+0 0 11809
+S
+#11825
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11824
+D1
+~
+~
+0 0 11827
+D2
+~
+~
+0 0 11826
+D3
+~
+~
+0 0 11808
+S
+#11826
+{GPlains of Dust{x ~
+The woodlands seems to meet the desert here, preventing it from spreading
+any further.  To the north, the plains of dust continue on for miles and
+miles into arid desert land.  To the south, a path leads into a lush wooded area of the southern forest.  
+~
+0 0 10
+D0
+~
+~
+0 0 11825
+S
+#11827
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11828
+D1
+~
+~
+0 0 11843
+D3
+~
+~
+0 0 11825
+S
+#11828
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11829
+D1
+~
+~
+0 0 11900
+D2
+~
+~
+0 0 11827
+D3
+~
+~
+0 0 11824
+S
+#11829
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11830
+D1
+~
+~
+0 0 11842
+D2
+~
+~
+0 0 11828
+D3
+~
+~
+0 0 11823
+S
+#11830
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11831
+D1
+~
+~
+0 0 11841
+D2
+~
+~
+0 0 11829
+D3
+~
+~
+0 0 11822
+S
+#11831
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11832
+D1
+~
+~
+0 0 11840
+D2
+~
+~
+0 0 11830
+D3
+~
+~
+0 0 11821
+S
+#11832
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11833
+D1
+~
+~
+0 0 11839
+D2
+~
+~
+0 0 11831
+D3
+~
+~
+0 0 11820
+S
+#11833
+{GPlains of Dust{x~
+In this part of the desert, the sand seems to come together because of a
+hint of moisture.  To the west, the sand seems to get thicker and thicker,
+almost like a mirage.  If one thing remains constant, it is the dry arid air
+that lingers all around.  
+~
+0 0 10
+D0
+~
+~
+0 0 11834
+D1
+~
+~
+0 0 11838
+D2
+~
+~
+0 0 11832
+D3
+~
+~
+0 0 11819
+S
+#11834
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11835
+D1
+~
+~
+0 0 11837
+D2
+~
+~
+0 0 11833
+D3
+~
+~
+0 0 11818
+S
+#11835
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 11898
+D1
+~
+~
+0 0 11836
+D2
+~
+~
+0 0 11834
+D3
+~
+~
+0 0 11817
+S
+#11836
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11899
+D1
+~
+~
+0 0 11850
+D2
+~
+~
+0 0 11837
+D3
+~
+~
+0 0 11835
+S
+#11837
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11836
+D1
+~
+~
+0 0 11849
+D2
+~
+~
+0 0 11838
+D3
+~
+~
+0 0 11834
+S
+#11838
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11837
+D1
+~
+~
+0 0 11848
+D2
+~
+~
+0 0 11839
+D3
+~
+~
+0 0 11833
+S
+#11839
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11838
+D1
+~
+~
+0 0 11847
+D2
+~
+~
+0 0 11840
+D3
+~
+~
+0 0 11832
+S
+#11840
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11839
+D1
+~
+~
+0 0 11846
+D2
+~
+~
+0 0 11841
+D3
+~
+~
+0 0 11831
+S
+#11841
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11840
+D1
+~
+~
+0 0 11845
+D2
+~
+~
+0 0 11842
+D3
+~
+~
+0 0 11830
+S
+#11842
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11841
+D1
+~
+~
+0 0 11844
+D2
+~
+~
+0 0 11900
+D3
+~
+~
+0 0 11829
+S
+#11843
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  The dunes in this area seem to settle down into a nice shallow
+gulley.  Unfortunately, the strong breeze blows the sand from the top of the
+dunes down upon you, making it impossible for one to see the way.  Only the
+sound of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11900
+D3
+~
+~
+0 0 11827
+S
+#11844
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11845
+D1
+~
+~
+0 0 11865
+D3
+~
+~
+0 0 11842
+S
+#11845
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11846
+D1
+~
+~
+0 0 11864
+D2
+~
+~
+0 0 11844
+D3
+~
+~
+0 0 11841
+S
+#11846
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11847
+D1
+~
+~
+0 0 11863
+D2
+~
+~
+0 0 11845
+D3
+~
+~
+0 0 11840
+S
+#11847
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11848
+D1
+~
+~
+0 0 11862
+D2
+~
+~
+0 0 11846
+D3
+~
+~
+0 0 11839
+S
+#11848
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+leaving room for rocks of any size to be set all about as well.  The dunes
+seem to go on forever, making even the strongest of men, and women, grow
+weary of this place.  When the dust filled wind stops blowing, the echoes of
+life fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11849
+D1
+~
+~
+0 0 11861
+D2
+~
+~
+0 0 11847
+D3
+~
+~
+0 0 11838
+S
+#11849
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11850
+D1
+~
+~
+0 0 11860
+D2
+~
+~
+0 0 11848
+D3
+~
+~
+0 0 11837
+S
+#11850
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11851
+D2
+~
+~
+0 0 11849
+D3
+~
+~
+0 0 11836
+S
+#11851
+{GPlains of Dust{x~
+The Kharolis mountains are vast and numerous all around, but there is a
+small gully between two peaks to the north.  Their sheer cliffs are
+impossible to climb, even for the most experienced climbers.  The Mountains
+offer little protection from the wind and dust storms that continuously blow
+through the plains.  
+~
+0 0 10
+D0
+~
+~
+0 0 11735
+D2
+~
+~
+0 0 11850
+D3
+~
+~
+0 0 11899
+S
+#11852
+{GCity Under the Dunes{x~
+A large pile of sand is here, comforting any one who falls from the
+surface above.  From what’s visible, this appears to be a small city of
+sorts.  Desert dwellers are scattered about upon marvelous stone structures
+and statues.  It's dark.  Very dark.  The only light comes from lighted
+torches and the hole (from which the sky can be seen) above.  Millions of
+smells whiz by your nose, leaving no room for the fresh dry air that
+trickles down.  
+ 
+There is a small sign here.
+~
+0 0 10
+E
+sign~
+{Y=========================================
+|| {GWelcome to the Lost City...     {Y    ||
+||   {G   There is no entrance,          {Y|| 
+|| {GThere is no exit...                 {Y||
+||       {G  There is only darkness!    {Y ||
+========================================={X
+~
+D0
+~
+~
+0 0 11853
+D1
+~
+~
+0 0 11859
+S
+#11853
+{GCity Under the Dunes{x~
+There doesn’t seem to be anything special about this section of the city. 
+It's just as dark and dismal as the rest of the place.  To the south, a
+small hole can be seen in the ceiling of this gigantic cave.  To the east, a
+small shack can be seen off in the distance.  
+~
+0 8 10
+D1
+~
+~
+0 0 11854
+D2
+~
+~
+0 0 11852
+S
+#11854
+{GCity Under the Dunes{x~
+This part of the city seems to be vacant except for a small forge to the
+east.  The cold rock walls are lighted only by lone torches every ten feet
+or so...  providing for an eerie pale orange glow about the place.  A strong
+cold draft also blows by your feet here as well, heading towards the west.  
+~
+0 8 10
+D1
+~
+~
+0 0 11855
+D2
+~
+~
+0 0 11859
+D3
+~
+~
+0 0 11853
+S
+#11855
+{GThe Forge{x~
+This small and shanty shack seems to be the main forge for the whole
+city.  All the tools and, if you can believe it, weapons are made here.  The
+heat is unbearable...  But the forger doesn't seem to mind.  
+~
+0 8 10
+D2
+~
+~
+0 0 11856
+D3
+~
+~
+0 0 11854
+S
+#11856
+{GCity Under the Dunes{x~
+This seems to be just another part of the city.  Its dark just like all
+the other parts, yet it has a warm air current blowing in from the north. 
+Large iron torches decorate the sides of the sandstone walls all around you.
+Without a light, seeing the way would be near impossible.  The exits
+continue in all directions except east.  
+~
+0 8 10
+D0
+~
+~
+0 0 11855
+D2
+~
+~
+0 0 11857
+D3
+~
+~
+0 0 11859
+S
+#11857
+{GDesert Trinkets{x~
+This corner of the market is dedicated to the shop referred to as 'Desert
+Trinkets'.  This is where items from the outside world are showcased, as
+well as other arcane objects that any mage would want to get their hands on.
+There is a power here that can't quite be described...  
+~
+0 8 10
+E
+sign~
+{y=========================================
+||                                     ||
+|| {CI also offer healing spells and... {y ||
+||   {C for 100 steel                {y    ||  
+|| {CI can show you a way to the surface {y||
+||                                     ||
+========================================={x
+~
+D0
+~
+~
+0 0 11856
+D3
+~
+~
+0 0 11858
+S
+#11858
+{GThe Fruit Stand{x~
+In this part of the market, there are tons of the little underground
+dwellers selling assorted items that they have made out of sand and rock. 
+Sometimes an item will fall down from the outside world and these dwellers
+would praise it like gold.  The smell of freshly baked "sand" bread and
+fruit lingers in the air here.  
+~
+0 8 10
+D0
+~
+~
+0 0 11859
+D1
+~
+~
+0 0 11857
+S
+#11859
+{GCity Under the Dunes{x~
+This seems to be the center of small city here.  Scattered about are some
+of the city dwellers, going about there own business.  A little way south
+seems to be a market of some sort.  To the north, a sound of hammering can
+be heard, but its to dark to make out what it is.  
+~
+0 8 10
+D0
+~
+~
+0 0 11854
+D1
+~
+~
+0 0 11856
+D2
+~
+~
+0 0 11858
+D3
+~
+~
+0 0 11852
+S
+#11860
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D1
+~
+~
+0 0 11871
+D2
+~
+~
+0 0 11861
+D3
+~
+~
+0 0 11849
+S
+#11861
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 0
+D0
+~
+~
+0 0 11860
+D1
+~
+~
+0 0 11870
+D2
+~
+~
+0 0 11862
+D3
+~
+~
+0 0 11848
+S
+#11862
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11861
+D1
+~
+~
+0 0 11869
+D2
+~
+~
+0 0 11863
+D3
+~
+~
+0 0 11847
+S
+#11863
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11862
+D1
+~
+~
+0 0 11868
+D2
+~
+~
+0 0 11864
+D3
+~
+~
+0 0 11846
+S
+#11864
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11863
+D1
+~
+~
+0 0 11867
+D2
+~
+~
+0 0 11865
+D3
+~
+~
+0 0 11845
+S
+#11865
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11864
+D1
+~
+~
+0 0 11866
+D3
+~
+~
+0 0 11844
+S
+#11866
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11867
+D1
+~
+~
+0 0 11877
+D2
+~
+~
+0 0 11884
+D3
+~
+~
+0 0 11865
+S
+#11867
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11868
+D1
+~
+~
+0 0 11876
+D2
+~
+~
+0 0 11866
+D3
+~
+~
+0 0 11864
+S
+#11868
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11869
+D1
+~
+~
+0 0 11875
+D2
+~
+~
+0 0 11867
+D3
+~
+~
+0 0 11863
+S
+#11869
+{GPlains of Dust{x~
+The dunes in this area seem to settle down into a nice shallow gulley. 
+Unfortunately, the strong breeze blows the sand from the top of the dunes
+down upon you, making it impossible for one to see the way.  Only the sound
+of death-cries make it through the unbearable chatter of the wind.  
+~
+0 0 10
+D0
+~
+~
+0 0 11870
+D1
+~
+~
+0 0 11874
+D2
+~
+~
+0 0 11868
+D3
+~
+~
+0 0 11862
+S
+#11870
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11871
+D1
+~
+~
+0 0 11873
+D2
+~
+~
+0 0 11869
+D3
+~
+~
+0 0 11861
+S
+#11871
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D1
+~
+~
+0 0 11872
+D2
+~
+~
+0 0 11870
+D3
+~
+~
+0 0 11860
+S
+#11872
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D1
+~
+~
+0 0 11878
+D2
+~
+~
+0 0 11873
+D3
+~
+~
+0 0 11871
+S
+#11873
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+leaving room for rocks of any size to be set all about as well.  The dunes
+seem to go on forever, making even the strongest of men, and women, grow
+weary of this place.  When the dust filled wind stops blowing, the echoes of
+life fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11872
+D2
+~
+~
+0 0 11874
+D3
+~
+~
+0 0 11870
+S
+#11874
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11873
+D1
+~
+~
+0 0 11879
+D2
+~
+~
+0 0 11875
+D3
+~
+~
+0 0 11869
+S
+#11875
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around .  The faint
+noise of a animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11874
+D1
+~
+~
+0 0 11880
+D2
+~
+~
+0 0 11876
+D3
+~
+~
+0 0 11868
+S
+#11876
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11875
+D2
+~
+~
+0 0 11877
+D3
+~
+~
+0 0 11867
+S
+#11877
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 11876
+D3
+~
+~
+0 0 11866
+S
+#11878
+{GIn a Dried-up Creek{x~
+This appears to be an old riverbed from time long ago when moisture was
+present in these parts.  A few scattered plants grow at the bottom of the
+bed, which provides a little shelter from the elements.  The dunes still
+surround you in any direction.  
+~
+0 0 10
+D1
+~
+~
+0 0 11883
+D2
+~
+~
+0 0 11879
+D3
+~
+~
+0 0 11872
+S
+#11879
+{GPlains of Dust{x~
+The excessively dry air here chokes out nearly all the moisture in this
+empty and vast desert.  A few withered and dried out bushes adorn the area,
+as well as quit a few rocks, ranging in various sizes.  The dunes seem to go
+on forever, making even the strongest of men, and women, grow weary of this
+place.  When the dust filled wind stops blowing, the echoes of life fade into
+quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11878
+D1
+~
+~
+0 0 11882
+D2
+~
+~
+0 0 11880
+D3
+~
+~
+0 0 11874
+S
+#11880
+{GPlains of Dust{x~
+The dry arid air chokes out almost all the moisture in this empty and
+vast desert.  A few withered and dried out bushes adorn the area, leaving
+room for rocks of any size to be set all about as well.  The dunes seem to
+go on forever, making even the strongest of men, and women, grow weary of
+this place.  When the dust filled wind stops blowing, the echoes of life,
+once heard, fade into quietness.  
+~
+0 0 10
+D0
+~
+~
+0 0 11879
+D1
+~
+~
+0 0 11881
+D3
+~
+~
+0 0 11875
+S
+#11881
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11882
+D3
+~
+~
+0 0 11880
+S
+#11882
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11883
+D2
+~
+~
+0 0 11881
+D3
+~
+~
+0 0 11879
+S
+#11883
+{GPlains of Dust{x~
+This seems to be the edge of the plains.  Beyond to the north, rocky
+foothills make travel in that direction impossible.  To the south and to the
+west, the plains continue their sandy trek.  To the east however, the edge
+of the Silvanesti Forest can be seen, it's trees towering high into the sky.
+The scene before you looks quite odd, the terrain going from complete sand,
+to a lush forest.  
+~
+0 0 10
+D1
+~
+~
+0 0 10191
+D2
+~
+~
+0 0 11882
+D3
+~
+~
+0 0 11878
+S
+#11884
+{GEntrance into the Lost City of the Dust{x~
+This seems to be the entrance to a lost city taken over by the dunes
+long ago.  Part of the ruins extend out sandstone cliffs, while others are
+far beneath the sandy surface.  To the south seems to be the center of all
+the ancient buildings.  
+~
+0 0 10
+D0
+~
+~
+0 0 11866
+D1
+~
+~
+0 0 11885
+D2
+~
+~
+0 0 11889
+S
+#11885
+{GLost City of the Dust{X~
+This appears to be just another area of the ruins that exposes itself out
+of the sand.  The dirt here is caked, forming large fissures in the surface
+that seem to go down into the darkness forever.  The wind gently blows by
+here as well, kicking up some sand up as it goes.  
+~
+0 0 10
+D1
+~
+~
+0 0 11886
+D2
+~
+~
+0 0 11888
+D3
+~
+~
+0 0 11884
+S
+#11886
+{GLost City of the Dust{X~
+The ruins sink further into the ground here beneath the sandy surface. 
+The wind gently blows by, forming little dirt devils as it goes.  
+~
+0 0 10
+D2
+~
+~
+0 0 11887
+D3
+~
+~
+0 0 11885
+S
+#11887
+{GLost City of the Dust{X~
+This appears to be just another area of the ruins that exposes itself out
+of the sand.  The dirt here is caked, forming large fissures in the surface
+that seem to go down into the darkness forever.  The wind gently blows by
+here as well, kicking up some sand up as it goes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11886
+D2
+~
+~
+0 0 11896
+D3
+~
+~
+0 0 11888
+S
+#11888
+{GLost City of the Dust{X~
+Giant rock columns seem to block your way as you try to navigate through
+the ruins.  A faint and puzzling noise can be heard all around, perhaps its
+just the chatter of the wind...  
+~
+0 0 10
+D0
+~
+~
+0 0 11885
+D1
+~
+~
+0 0 11887
+D2
+~
+~
+0 0 11895
+D3
+~
+~
+0 0 11889
+S
+#11889
+{GLost City of the Dust{X~
+This seems to be the center for all the ruins in the area.  A dark and
+ominous shadow covers most of the ground here.  A small breeze also blows,
+kicking up some of the dirt.  
+~
+0 0 10
+D0
+~
+~
+0 0 11884
+D1
+~
+~
+0 0 11888
+D2
+~
+~
+0 0 11894
+D3
+~
+~
+0 0 11890
+S
+#11890
+{GLost City of the Dust{X~
+A few rocks decorate the landscape around you here.  To the west, there
+seems to be a large circular ruin still partly intact.  To the south, it
+looks like more broken bits of ruins, half hidden under the sand.  
+~
+0 0 10
+D1
+~
+~
+0 0 11889
+D2
+~
+~
+0 0 11893
+D3
+~
+~
+1 0 11891
+S
+#11891
+{GAn Ancient Temple{x~
+This ruin seems to be some sort of ancient temple to the gods who lived
+long ago.  To one corner of the room, there is a giant statue of a Dragon,
+yet it is broken almost to the point where it just looks like a snake.  On
+the other side, besides where a wall once stood, there is an alter of some
+kind where the light hits almost anytime of the day.  The only exits appear
+to lead out of the circular temple.  
+~
+0 8 10
+D1
+~
+~
+1 0 11890
+D2
+~
+~
+1 0 11892
+M 100 H 20
+S
+#11892
+{GLost City of the Dust{X~
+This appears to be just another area of the ruins that exposes itself out
+of the sand.  The dirt here is caked, forming large fissures in the surface
+that seem to go down into the darkness forever.  The wind gently blows by
+here as well, kicking up some sand up as it goes.  To the north, there seems
+to be a strange circular ruin, like a temple of some sort.  
+~
+0 0 10
+D0
+~
+~
+1 0 11891
+D1
+~
+~
+0 0 11893
+S
+#11893
+{GLost City of the Dust{X~
+Giant rock columns seem to block your way as you try to navigate through
+the ruins.  A faint and puzzling noise can be heard all around, perhaps its
+just the chatter of the wind...  
+~
+0 0 10
+D0
+~
+~
+0 0 11890
+D1
+~
+~
+0 0 11894
+D3
+~
+~
+0 0 11892
+S
+#11894
+{GLost City of the Dust{X~
+The dirt along this part of the ruins seems to transform once again into
+the giant dunes, once again blocking your way.  To the north, what appears
+to be a fountain of some sort stands alone in the harsh vastness of the
+ruins.  To the east and the west, it just looks like more ruins.  
+~
+0 0 10
+D0
+~
+~
+0 0 11889
+D1
+~
+~
+0 0 11895
+D3
+~
+~
+0 0 11893
+S
+#11895
+{GLost City of the Dust{X~
+This appears to be just another area of the ruins that exposes itself out
+of the sand.  The dirt here is caked, forming large fissures in the surface
+that seem to go down into the darkness forever.  The wind gently blows by
+here as well, kicking up some sand up as it goes.  
+~
+0 0 10
+D0
+~
+~
+0 0 11888
+D1
+~
+~
+0 0 11896
+D3
+~
+~
+0 0 11894
+S
+#11896
+{GLost City of the Dust{X~
+The ruins seem to disappear around here, leaving the place open and
+barren.  The wind starts to pick up here, kicking a fair amount of sand up to
+blot out most light.  The only way to go seems to be the way back to the
+center of the ruins.  
+~
+0 0 10
+D0
+~
+~
+0 0 11887
+D3
+~
+~
+0 0 11895
+S
+#11897
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11805
+D1
+~
+~
+0 0 11809
+D2
+~
+~
+0 0 11806
+D3
+~
+~
+0 0 11791
+S
+#11898
+{GPlains of Dust{x~
+The Kharolis mountains block the way to the north.  There sheer cliffs
+are impossible to climb, even for the most experienced climbers.  The
+Mountains offer little protection from the wind and dust storms that
+continuously blow through the plains.  
+~
+0 0 10
+D1
+~
+~
+0 0 11899
+D2
+~
+~
+0 0 11835
+D3
+~
+~
+0 0 11701
+S
+#11899
+{GPlains of Dust{x~
+The sand dunes tower up and into the empty horizon above.  Any trail of
+footprints left behind are washed away by the harsh and bitter winds that
+blow past your feet; creating small dirt storms all around.  The faint noise
+of animal life can be heard in the distance.  
+~
+0 0 10
+D1
+~
+~
+0 0 11851
+D2
+~
+~
+0 0 11836
+D3
+~
+~
+0 0 11898
+S
+#11900
+{GPlains of Dust{x~
+The sand swirls as a gust of wind blows harshly across the plains, then
+settles back to a small breeze.  A small patch of withered brush forms
+around a large outlet of sandstone.  In any direction, sand dominates the
+landscape.  
+~
+0 0 10
+D0
+~
+~
+0 0 11842
+D2
+~
+~
+0 0 11843
+D3
+~
+~
+0 0 11828
+S
+#0
+
+
+
+#SPECIALS
+M 11701 spec_rloader
+S
+
+
+
+#RESETS
+D 0 11890 3 1
+D 0 11891 1 1
+D 0 11891 2 1
+D 0 11892 0 1
+M 0 11701 1 11701 1
+G 0 11701 0
+M 0 11714 1 11714 1
+M 0 11716 1 11716 1
+O 0 11707 0 11731
+O 0 11705 0 11732
+P 0 11706 1 11705 1
+M 0 11705 10 11734 1
+M 0 11706 20 11734 2
+M 0 11704 10 11736 1
+O 0 11702 0 11743
+M 0 11703 20 11743 3
+M 0 11700 1 11750 1
+M 0 11771 1 11771 1
+M 0 11774 1 11774 1
+M 0 11779 1 11779 1
+M 0 11782 3 11782 1
+M 0 11783 2 11783 1
+M 0 11786 1 11786 1
+M 0 11792 2 11792 1
+M 0 11795 1 11795 1
+M 0 11803 1 11803 1
+O 0 11702 0 11813
+M 0 11701 50 11813 5
+G 0 11700 0
+O 0 11703 0 11816
+P 0 11704 1 11703 1
+M 0 11829 2 11829 1
+M 0 11853 1 11853 1
+M 0 11854 3 11854 1
+M 0 11855 1 11855 1
+E 0 11855 0 20
+M 0 11856 1 11856 1
+M 0 11857 1 11857 1
+G 0 11857 0
+G 0 11899 0
+M 0 11858 1 11858 1
+G 0 11858 0
+G 0 11854 0
+G 0 11900 0
+O 0 11859 0 11859
+M 0 11859 1 11859 1
+M 0 11874 3 11864 1
+M 0 11876 1 11867 1
+M 0 11877 1 11877 1
+M 0 11878 1 11878 1
+G 0 11878 0
+G 0 11879 0
+M 0 11879 1 11879 1
+M 0 11880 1 11880 1
+M 0 11882 1 11882 1
+O 0 11886 0 11886
+O 0 11888 0 11888
+M 0 11702 1 11888 1
+O 0 11889 0 11889
+O 0 11891 0 11891
+P 0 11892 1 11891 1
+O 0 11893 0 11893
+S
+
+
+
+#SHOPS
+11857 0 0 0 0 0 100 100 0 23
+11858 0 0 0 0 0 100 100 0 23
+11878 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#11714
+mob echo {YA dust storm suddenly hits $n and $e vanishes out of sight.{x
+mob echoat $n {YThe blinding sands make it impossible to see in any direction...when the dust settles, you find yourself somewhere else!{x
+mob transfer $n 11727
+~
+#11750
+mob echoat $n {YYou find yourself lost traveling in a dust storm...{x
+mob echo {YA dust storm hits $n and $e vanishes from sight!{x
+mon transfer all 11829
+~
+#11779
+mob echoat $n $I oinks at you!
+mob echoaround $I oinks at $n's presence here.
+~
+#11857
+emote points to a sign at $n's entrance.
+~
+#11858
+mob echoat $n {G$I leads you to the surface, somewhere in the Plains of Dust.{x
+mob echoaround {G$I leads $n into a dark crevice and is gone!{x
+mob transfer $n 11879
+~
+#11878
+say Hello stranger...need anything?
+~
+#11889
+mob transfer $n 11852
+~
+#0
+
+#OBJPROGS
+#11889
+obj echoat $n {RYou have fallen through the sand, far below the surface.{x
+obj echoaround $n $n has fallen through the sands, down into a dark hole.
+obj transfer $n 11852
+~
+#0
+
+#ROOMPROGS
+#11889
+if level $n <= 110
+ROOM TRANSFER $n 11852
+endif
+~
+#0
+
+#$

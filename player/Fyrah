@@ -1,0 +1,558 @@
+#PLAYER
+Name Fyrah~
+Surname Akos~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1375740910
+LogO 1409428990
+Vers 10
+Act  DEFGQT
+Desc A normal human male stands before you, dressed in head to toe in droopy red robes. His hair is short and brown, his eyes a cyan color, and his skin pale. He has a massive circular scar on his back, seeminlgy burned into the skin. On his back lies a body-length long staff, though it looks like it is never used. He carries a small scrying mirror and finally there is a mark of devotion to the maiden of illusion on his forearm.
+~
+Prom {YHP:%h/%H MP:%m/%M MV:%v/%V TNL: %X %b%B  ~
+Race human~
+Org 2
+Religion 19
+Sex  1
+Cla  13
+Hmtown 0
+Levl 75
+recall_point 3001
+Levscale 30
+Xptolev  23119
+Sec  0
+Plyd 351430
+Not  1408485761 0 0 1380154978 0
+Scro 0
+Room 1943
+HMV  1923 1923 1113 1113 550 550
+Steel 15519
+Gold 16357
+Bank 0
+Exp  2934331
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1245184
+Comm NO
+Pos  8
+Prac 4
+Trai 2
+Save  -10
+Alig  32
+Ethos 0
+ACs -17 -23 -30 -19
+Attr 15 16 13 13 13 13
+AMod 1 6 14 5 12 0
+Pass FybLRMXI.dIwI~
+Titl  - Arcane {RTrickster{x~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 38
+HMVP 1903 1073 550
+Cnd  0 19 19 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 99 'armor'
+Sk 75 'blindness'
+Sk 100 'burning hands'
+Sk 70 'change sex'
+Sk 75 'colour spray'
+Sk 100 'continual light'
+Sk 92 'create rose'
+Sk 75 'detect good'
+Sk 100 'detect invis'
+Sk 75 'detect magic'
+Sk 75 'detect poison'
+Sk 100 'dispel magic'
+Sk 75 'fireball'
+Sk 75 'orb of containment'
+Sk 100 'gate'
+Sk 31 'ethereal warrior'
+Sk 75 'life transfer'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'magic missile'
+Sk 100 'mass invis'
+Sk 100 'aid'
+Sk 100 'protection evil'
+Sk 100 'refresh'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 75 'teleport'
+Sk 46 'ventriloquate'
+Sk 100 'weaken'
+Sk 82 'word of recall'
+Sk 80 'fire breath'
+Sk 80 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 52 'dagger'
+Sk 46 'whip'
+Sk 47 'dodge'
+Sk 79 'enhanced damage'
+Sk 16 'envenom'
+Sk 31 'parry'
+Sk 11 'second attack'
+Sk 100 'dragon skin'
+Sk 100 'silence'
+Sk 100 'traject'
+Sk 46 'mount'
+Sk 53 'displacement'
+Sk 100 'rainbow pattern'
+Sk 100 'cantrip'
+Sk 75 'darkness'
+Sk 23 'brew'
+Sk 86 'scribe'
+Sk 46 'battle tactics'
+Sk 100 'knock'
+Sk 91 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 85 'meditation'
+Sk 90 'scrolls'
+Sk 46 'staves'
+Sk 46 'wands'
+Sk 100 'recall'
+Sk 70 'cloak of starlight'
+Sk 75 'cause discord'
+Sk 100 'shifting shadows'
+Sk 1 'alter reality'
+Sk 100 'doppelganger'
+Sk 48 'looking glass'
+Sk 46 'seal door'
+Sk 53 'unseal door'
+Sk 47 'delusions of grandeur'
+Sk 100 'illusion'
+Sk 46 'mirror'
+Sk 46 'glamour'
+Sk 46 'jab'
+Sk 100 'detect presence'
+Sk 1 'sequester'
+Sk 75 'surge'
+Sk 75 'endure'
+Sk 100 'scrye'
+Sk 46 'flash'
+Sk 75 'deafness'
+Sk 96 'trance'
+Sk 89 'gift'
+Sk 100 'cloak of evil'
+Sk 75 'hypnotic pattern'
+Sk 75 'staff'
+Sk 1 'phantom armor'
+Sk 75 'spook'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 100 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 1267
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 1835
+Nest 0
+Name Cormag soul~
+ShD  Cormag's soul~
+Desc The Soul of Cormag is here.~
+Cond 100
+Wear 21
+Lev  52
+Cost 0
+Val  52 298 0 0 0
+Spell 1 'invigorate'
+End
+
+#O
+Vnum 5833
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 5749
+Nest 0
+ExtF 266368
+Cond 100
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 4856
+Nest 0
+Name a hamburger~
+ShD  a hamburger~
+Desc A hamburger is here. ~
+ExtF 67375232
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 3041
+Nest 0
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 140 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 11284
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 11284
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 2519
+Nest 0
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 2519
+Nest 0
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 11247
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 11247
+Nest 0
+Cond 100
+Wear 23
+Cost 2000
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 5421
+Nest 0
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 -1 -1 -1 0
+End
+
+#O
+Vnum 15209
+Nest 0
+Name skull handle shovel~
+ShD  Skull Handle {yshovel{X of {Ddeath{X~
+Desc A skull handle shovel lays here covered in runes.~
+ExtF 17042000
+Cond 94
+Wear -1
+Lev  51
+Cost 0
+Val  10 5 12 7 262
+End
+
+#O
+Vnum 5758
+Nest 0
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'change sex'
+Spell 2 'deafness'
+Spell 3 'curse'
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#END

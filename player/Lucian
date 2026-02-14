@@ -1,0 +1,1123 @@
+#PLAYER
+Name Lucian~
+Surname Mirknai~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1140287448
+LogO 1421412325
+Vers 10
+Act  DFGLMQT
+Desc {cStanding at an easy six feet one inch is a man of great proportions.
+Upon his head lay long locks of {ytarnished {Ygolden{c hair, it gently
+brushes the shoulder blades in length.  His face is battle worn from long
+battles, and many perilous encounters with the {rUndead{c and the
+{WKnights{c of {DTakhisis{c.  Many cuts lay across the cheek of this man
+who looks older then he truly is, possibly his mid-twenties or going into
+his early thirties.  Many {bcontusions{c lay about his body from blasts of
+{Bmagic{c.  His eyes lay on either side of a small, thin nose and are of
+an almost {Csilver{c hue.  They hold the thousand yard stare of a soldier.
+His muscularly toned arms end in five calloused digits.  His torso is
+large, but free from fat, and sturdy as though it were chipped from
+granite.  He has long robust legs that reach down from his thickened
+waist, toned from long travels.  His feet are long, perhaps twelve inches
+long, and are the weight bearers for his two hundred pound physique.  His
+arm now holds a tattoo it is of a {Rdragon{c a man wielding two
+{Cgleaming{c scimitars is decapitating the dragon.  The man looks
+distinctly like the man who stands here.  His face is barren of many
+emotions, looking very stern.  {x
+ 
+ 
+~
+Prom {C%h/%H {R%m/%M {G%v/%V ({Y%X{G) {D%a%B%b ~
+Race human~
+Org 3
+Religion 14
+Sex  1
+Cla  5
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 3212975
+Not  1418706195 1395959842 0 1410808993 1298827134
+Scro 22
+Room 13780
+HMV  3669 3669 958 958 741 741
+Steel 1651
+Gold 22105
+Bank 3543
+Exp  17454200
+AfBy O
+Deaths 23
+FlagTot 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+FParTot 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1048576
+Comm NO
+Pos  8
+Prac 7
+Save  -49
+Alig  1000
+Ethos 0
+Hit   63
+Dam   53
+ACs -391 -395 -415 -360
+Attr 33 25 20 16 29 13
+AMod 17 5 3 8 2 0
+Pass LuOBkEK/G8cv2~
+Titl  - {WKnight{x of the {rRose{x~
+Pretit Lord{x~
+Pnts 0
+TSex 1
+LLev 805
+HMVP 2794 338 741
+Cnd  0 16 16 0
+QuestPnts 37
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias hph say May your passion for life grant me strength and courage!~
+Alias gt gt {C<{WKnight{x of the {rRose{C>{c~
+Alias / recall hometown~
+Alias sc score~
+Alias sp spell~
+Sk 100 'frenzy'
+Sk 99 'protection evil'
+Sk 100 'axe'
+Sk 96 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 86 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 99 'whip'
+Sk 100 'bash'
+Sk 75 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 75 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 86 'deathgrip'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 75 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'common'
+Sk 100 'solamnic tongue'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 50 'recall'
+Sk 51 'bow'
+Sk 70 'battlecry'
+Sk 97 'bind wounds'
+Sk 100 'guard'
+Sk 70 'charge'
+Sk 70 'pardon'
+Sk 70 'backup'
+Sk 96 'mounted combat'
+Sk 100 'cleave'
+Sk 91 'trammel'
+Sk 78 'flank attack'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 78 'eyerub'
+Sk 100 'finger break'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 81 'joust'
+Sk 81 'polish'
+Sk 75 'shatter shield'
+Sk 100 'company might'
+Sk 100 'company valor'
+Sk 100 'company honor'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 1257
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name golden ring seas~
+ShD  The {YGolden Ring{x of the {bSeas{x~
+Desc A golden ring lay here, sparkling in the light.~
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1211
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 909
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 909
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17555
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17552
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17550
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 11969
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4856
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 9471
+Nest 1
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 2990
+Enchanted
+Nest 1
+ExtF 17039427
+Cond 75
+Wear -1
+Lev  86
+Cost 0
+Val  0 4 22 22 201
+Affc 'reserved'   1  85  -1  50  13          0
+Affc 'reserved'   1  85  -1   2   1          0
+Affc 'enchant weapon'   1  85  -1   7  19          0
+Affc 'enchant weapon'   1  85  -1  12  18          0
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5435
+Nest 1
+Name steam-powered steam powered mechanical claw~
+ShD  a Steam-Powered Mechanical Claw~
+Desc Here is a steam-powered mechanical claw; it is lined with pistons and gears, obviously a gnomish creation.  It is made to be worn around the whole arm.~
+Cond 100
+Wear -1
+Cost 0
+Val  0 10 11 5 201
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 1
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 1
+ExtF 17039616
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 1
+Name platinum solamnic vambraces~
+ShD  ({bOrnate{x) {WPlatinum{x {cSolamnic{x Vambraces~
+Desc Here rests a pair of platinum Solamnic vambraces.~
+ExtF 524288
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5705
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12190
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17551
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5764
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3029
+Nest 1
+Cond 90
+Wear -1
+Cost 77
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2990
+Nest 1
+Name small mechanical claw~
+ShD  a Small Mechanical Claw~
+Desc Here lies a small mechanical claw; it looks to be worn around half of the arm, and is lined with gears and pistons, obviously a gnomish creation.~
+ExtF 17039432
+Cond 75
+Wear -1
+Cost 0
+Val  0 4 26 22 201
+End
+
+#O
+Vnum 1911
+Nest 1
+ExtF 17039680
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2979
+Nest 1
+ExtF 18350082
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9059
+Nest 1
+Name sacred mace sun~
+ExtF 16777217
+Cond 100
+Wear -1
+Cost 0
+Val  4 12 12 8 73
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3163
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 3160
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3155
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 3159
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Name sharp blade light~
+ShD  a {csharp{x blade~
+Desc A light blade is on the ground, covered by dust.~
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+Val  1 12 11 18 84033
+End
+
+#O
+Vnum 3093
+Nest 1
+ExtF 17073666
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 500
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Osama's blood~
+Desc A jar of Osama's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 0
+Val  210 204 13 0 0
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 5778
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1913
+Nest 1
+ExtF 25167179
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 13700
+Enchanted
+Nest 1
+ExtF 36163
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 12 3 81985
+Affc 'reserved'   1 100  -1   1   5          0
+Affc 'reserved'   1 100  -1   2   1          0
+Affc 'enchant weapon'   1 100  -1   7  19          0
+Affc 'enchant weapon'   0 100  -1   7  18          0
+End
+
+#O
+Vnum 14007
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+Val  1 9 16 1 32780
+End
+
+#O
+Vnum 3815
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32782
+End
+
+#O
+Vnum 1911
+Nest 1
+Name sword knights knight's fell helmet~
+ShD  ({cPlumed{x) a {cSword{x {WKnight's{x Full Helmet~
+Desc A Sword Knight's full helmet lies here, holding a cyan plume of colored horse's hair flowing down to the back of the helmet.  It seems to be designed for combat and awaits use.~
+ExtF 17039680
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17554
+Nest 1
+Cond 99
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 12263
+Nest 1
+Name emperor justice longsword sword~
+ShD  ({WHoly{X) the {yEmperor's {CJustice{x~
+Desc A sturdy, well-balanced longsword lies here.~
+ExtF 2
+Cond 100
+Wear -1
+Cost 5145
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32782
+End
+
+#O
+Vnum 3158
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 12234
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12215
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12188
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5778
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17553
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 16777537
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+ExtF 262144
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 262144
+Cond 98
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786432
+Cond 98
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786432
+Cond 99
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 11969
+Nest 0
+Name spiked gauntlets mirknai crest~
+ShD  ({RRuned{x) {rSpiked Gauntlets{x Baring the {WMirknai Crest{x~
+Desc A pair of gauntlets lie here, baring an odd crest.~
+ExtF 16777280
+Cond 99
+Wear 12
+Cost 96
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 17850
+Nest 0
+Name platinum solamnic chainmail mail~
+ShD  ({bOrnate{x) a {WPlatinum{x {cSolamnic{x Chainmail~
+Desc Here lies a set of beautifully crafted solamnic chainmail.~
+ExtF 17039368
+Cond 100
+Wear 5
+Cost 0
+Val  31 28 36 29 2
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 19002
+Nest 0
+ExtF 524288
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 94
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3157
+Nest 0
+Cond 100
+Wear 6
+Cost 400
+End
+
+#O
+Vnum 5614
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 3156
+Nest 0
+Cond 100
+Wear 15
+Cost 650
+End
+
+#O
+Vnum 2651
+Nest 0
+Name crystal sword paladine regalia holy short~
+ShD  ({WHoly{x) a {WCrystal{x Sword of {CPaladine's{x {WRegalia{x~
+Desc Here lies an ornate crystal sword, measuring to be the length of a typical short sword. Within it are imbued the holy forces of light.~
+Cond 100
+Wear 21
+Cost 0
+End
+
+#END

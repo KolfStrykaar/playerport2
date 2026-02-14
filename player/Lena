@@ -1,0 +1,320 @@
+#PLAYER
+Name Lena~
+Surname Totland~
+MaskedIp ~
+Lokprot ~
+Email williham.meyer@gmail.com~
+Id   1407501567
+LogO 1407695833
+Vers 10
+Act  CDEGQTe
+Desc A slender and fair-haired half-elf is here. Her skin is pale, almost
+white. Her long hair is put up in intricate braids, and decorated with
+small, golden hairpins and baubles.
+
+Worn under her armor is a simple green tunic and a pair of wool socks.
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  2
+Cla  9
+Hmtown 1
+Levl 4
+recall_point 5737
+Levscale 30
+Xptolev  790
+Sec  0
+Plyd 8633
+Not  0 0 0 0 1107953193
+Scro 22
+Room 3302
+HMV  71 71 107 107 118 118
+Steel 917
+Gold 128
+Bank 0
+Exp  6210
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Save  -26
+Alig  -748
+Ethos 1
+Hit   26
+ACs 82 82 82 99
+Attr 15 18 13 16 13 16
+AMod 3 2 3 2 4 0
+Pass Le356aqFiaspg~
+Titl  the Healthy~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 1
+HMVP 71 107 118
+Cnd  0 65 65 0
+QuestPnts 146
+QuestNext 2
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 1 'detect poison'
+Sk 1 'haste'
+Sk 1 'infravision'
+Sk 1 'axe'
+Sk 75 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 35 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'battle tactics'
+Sk 75 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 57 'sneak'
+Sk 50 'recall'
+Sk 1 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 1 'tumble'
+Sk 1 'scout'
+Sk 1 'second backstab'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+Affc 'bless'   0 179 125 -25  25          0
+Affc 'bless'   0 182 125  25  18          0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear 20
+Cost 210
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear 0
+Cost 380
+Val  0 0 79 0 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3001
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3001
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#END

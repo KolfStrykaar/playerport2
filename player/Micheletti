@@ -1,0 +1,821 @@
+#PLAYER
+Name Micheletti~
+Surname Maggia~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1394255298
+LogO 1394763558
+Vers 10
+Act  CDEFGQTe
+Desc Standing shrouded in a mysterious shadow, is what seems at first a
+typical human man; or is it {yalmond brown{X elven eyes that seem to seethe
+with hatred, contempt for those around him, they seem to stab at others
+around him, if they were daggers, they would deal deathblows.  Rage snarled
+lips, so dangerous, so abominal; yet so thin and delicious, and beautiful,
+added with those dagger eyes, contorts what could be one of the most
+handsome faces; His finely trimmed {Ro{rr{Ra{rn{Rg{re {Rr{re{Rd{X beard hugs
+his face, through all the fieceness in this man, he is well groomed, his
+{Ro{rr{Ra{rn{Rg{re {Rr{re{Rd{X hair falling down to the middle of his back,
+shinning like silk in the morning sun, is tied off into a pony tail, showing
+the mark of his curse, elven ears.  Elven ears, a man's beard, this is one
+of the cursed Half-Elves, those shunned by both humankind and elfin, an
+abomination to both races.  But such a curse, seems not to hold this one
+back, he stands at 5'6" with an air of bravery, courage...  And hate.  The
+man wears {Dblack studded{X {yleather{x armor, with traces of {Rred{X
+outlines at the hems, and a {Rred{X condor in flight on his left breast. 
+His {Rred{X laced, {Dcombat boots{X have dried blood splattered on them,
+something it seems, he neglected to take care of.  A battle-axe rests on his
+back, whilist a longsword hangs at his waist, a belt lined with daggers,
+this man seems equiped for battle.  
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  1
+Cla  0
+Hmtown 0
+Levl 12
+recall_point 3001
+Levscale 30
+Xptolev  1108
+Sec  0
+Plyd 21540
+Not  1363811388 0 0 0 0
+Scro 22
+Room 3367
+HMV  252 252 167 186 166 166
+Steel 2619
+Gold 1959
+Bank 0
+Exp  19592
+AfBy JO
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1310720
+Comm NO
+Pos  5
+Prac 6
+Trai 1
+Alig  -772
+Ethos 1
+ACs 19 32 17 92
+Attr 15 19 16 13 13 16
+AMod 0 3 9 5 10 0
+Pass MimUSMWHnQjww~
+Titl  the Initiate of the Physical~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 5
+HMVP 202 186 166
+Cnd  0 20 20 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 75 'armor'
+Sk 84 'burning hands'
+Sk 96 'chill touch'
+Sk 1 'detect good'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'enchant weapon'
+Sk 1 'fireball'
+Sk 75 'levitate'
+Sk 1 'orb of containment'
+Sk 1 'giant strength'
+Sk 75 'infravision'
+Sk 75 'invisibility'
+Sk 1 'know alignment'
+Sk 76 'magic missile'
+Sk 75 'shocking grasp'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'dagger'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 75 'shield block'
+Sk 1 'spear'
+Sk 86 'sword'
+Sk 1 'whip'
+Sk 78 'bash'
+Sk 1 'disarm'
+Sk 41 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'mount'
+Sk 1 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'blade barrier'
+Sk 1 'flyingswords'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'battlestaff'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'lore'
+Sk 75 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'mounted combat'
+Sk 1 'sweep attack'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'evade'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'endure disease'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'shrink'
+Sk 1 'clear thoughts'
+Sk 1 'lock'
+Sk 1 'battletide'
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 100
+Wear -1
+Cost 360
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 94
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 98
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3001
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  16 16 0 0 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 90
+Wear 20
+Cost 610
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 3116
+Nest 0
+Cond 100
+Wear 15
+Cost 1190
+End
+
+#O
+Vnum 3115
+Nest 0
+Cond 100
+Wear 13
+Cost 660
+End
+
+#O
+Vnum 3114
+Nest 0
+Cond 99
+Wear 12
+Cost 660
+End
+
+#O
+Vnum 3110
+Nest 0
+Cond 100
+Wear -1
+Cost 1320
+End
+
+#O
+Vnum 3112
+Nest 0
+Cond 100
+Wear 8
+Cost 660
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 99
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 5758
+Nest 0
+Cond 100
+Wear -1
+Time 600
+Cost 270
+Spell 1 'change sex'
+Spell 2 'deafness'
+Spell 3 'curse'
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 634
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 5768
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 5773
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5748
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5757
+Nest 0
+Cond 100
+Wear -1
+Time 2185
+Cost 270
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 288
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 5755
+Nest 0
+Cond 100
+Wear 21
+Cost 50
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 5751
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Spell 3 'fireball'
+End
+
+#O
+Vnum 5753
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#PET
+Vnum 3094
+Name wolf~
+LogO 1394763558
+Desc The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Micheletti'.
+~
+Sex  1
+HMV  113 113 100 100 100 100
+Act  ABIU
+AfBy FSZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 80
+Attr 13 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

@@ -1,0 +1,5700 @@
+#AREADATA
+Name Thorbardin~
+Builders Hiddukel Zeboim~
+Continent Abanasinia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 10600 10799
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#10600
+stone gargoyle~
+a Stone Gargoyle~
+A large stone Gargoyle stands erect, eyes seeming to be upon you.
+~
+Rather buff looking fellows who say weird stuff.  They have a nasty
+disposition and a bad habit of killing people.  They can cast a strong
+flamestrike and move relatively fast, so watch out.  
+~
+giant~
+ABTU DFcd 0 0
+90 65 131d21+1313 65d10+85 21d3+37 crush
+-34 -34 -34 -20
+CDORTU ABH EFI JP
+stand stand none 3500
+AHMV ABCDEFGHIJK G unknown 0
+F res H
+M GRALL 10600 100~
+#10610
+dwarf city guard ~
+city guard~
+A city guard stands here, watching you carefully.
+~
+~
+dwarf~
+ABT J -300 0
+40 40 81d13+405 40d10+85 13d3+25 stab
+-17 -17 -17 -9
+EFR 0 LQ R
+stand stand male 3000
+AHMV ABCDEFGHIJK S unknown 0
+#10611
+dwarf citizen daergar~
+a Daergar citizen~
+A Daergar citizen is walking around, trying to stay out of trouble.
+~
+~
+dwarf~
+ABT J -500 0
+35 35 71d11+354 35d10+85 11d3+22 pound
+-13 -13 -13 -6
+F 0 LQ R
+stand stand either 2000
+AHMV ABCDEFGHIJK S unknown 0
+#10612
+dwarf thief~
+cloaked thief~
+A cloaked figure emerges from the shadows...
+~
+~
+dwarf~
+ABS JPQ -750 0
+60 60 121d20+1213 60d10+85 20d3+35 stab
+-30 -30 -30 -18
+EFIJK 0 LQ R
+stand stand either 5000
+AHMV ABCDEFGHIJK S unknown 0
+#10614
+dwarf female shopkeeper~
+a female shopkeeper~
+A shopkeeper walks through the aisles, making sure nobody starts trouble.
+~
+Even though this shopkeeper is a female, she looks like she could easily
+take out every customer in the room.  Well-built and having quite a few
+scars across her face, she looks like she is all business.  
+~
+dwarf~
+ABT J -500 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+EFK ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10616
+priest dwarf healer cleric~
+a Dwarven priest~
+A dwarven priest is here, healing the wounded.
+~
+This priest is wandering quietly among the wounded, praying to the gods
+and attempting to heal the sick and injured followers in his care.  
+~
+dwarf~
+ABQa J -500 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+EFK ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10617
+dwarf librarian~
+a temple librarian~
+A librarian is here, digging up old texts on ancient clerical practices.
+~
+Utilizing his powers through years of practice and prayer, this old
+cleric is looking rather shaken, attempting to train several acolytes in the
+ways of faith.  
+~
+dwarf~
+ABK J -200 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+FI ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+M GRALL 10617 100~
+#10626
+blak coldforge dwarf~
+Blak Coldforge~
+A rather portly dwarf is sitting on a large chair, stuffing his face with food.
+~
+Having become well-rounded from years of directing his business and the
+city from his large behind, Blak is content to allow others to amass his
+wealth for him.  
+~
+dwarf~
+ABFT J -750 0
+90 90 181d30+1819 90d10+85 30d3+50 pound
+-51 -51 -51 -32
+EFIK 0 LQ R
+stand stand male 10000
+AHMV ABCDEFGHIJK S unknown 0
+#10629
+dwarf blacksmith~
+a blacksmith~
+A blacksmith is here, showing off his latest pieces to customers.
+~
+Sporting a huge pair of arms from years of pounding out armor, this dwarf
+looks to be much stronger than his age should permit.  With a thick coat of
+ash covering his well-burned body, the blacksmith seems to need no break, as
+he continues to pound out armor of all shapes and sizes.  
+~
+dwarf~
+ABT J -200 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10631
+old dwarf tanner seric~
+Seric the Tanner~
+An old dwarf is standing behind the counter, tanning strips of leather.
+~
+Though moving somewhat slowly around the room, this old dwarf practices
+his trade with unmatched precision.  Wearing a work apron of his own design,
+Seric looks like he's been around for a long time and seen much of the
+world.  Although he himself is not Daergar by birth, his presence in the
+city is tolerated for his excellent skills.  
+~
+dwarf~
+ABT J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+E ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10632
+bodyguard~
+personal bodyguard~
+A personal bodyguard of the chieftain stands here.
+~
+A stout and strong bodyguard for the chieftain.  Heavily armored his sole
+purpose is to protect the chieftain til death.  
+~
+dwarf~
+ABT J -600 0
+70 70 141d23+1415 70d10+85 23d3+40 pierce
+-37 -37 -37 -22
+EFKRU 0 LQ R
+stand stand male 4000
+AHMV ABCDEFGHIJK S unknown 0
+#10638
+drokar dwarf shopkeeper~
+Drokar, the herbalist~
+A dark-robed dwarf is moving about the room, checking on his potions.
+~
+Somewhat taller than most dwarves, this robed cleric seems very adept at
+making potions of every sort.  Moving around his laboratory with an almost
+artistic grace, he knows exactly what to do and when to do it.  
+~
+dwarf~
+AB J -200 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+FN ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10639
+thala dwarf shopkeeper~
+Thala Deepcut ~
+An old female dwarf keeps near you, watching your every move.
+~
+Looking like a dwarf that has done some extensive traveling, Thala has
+done an excellent job of acquiring both a large selection of rare items from
+around the continent, but also has many contacts who constantly refresh her
+supply.  Although looking rather old, her glare for business has never left
+her eyes...  
+~
+dwarf~
+ABCS J -200 0
+200 200 401d66+8081 200d10+85 66d3+105 stab
+-126 -126 -126 -84
+EFK ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10641
+no name~
+Unused~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#10643
+thief cloaked figure~
+master thief~
+A cloaked figure sits here, waiting to see your stuff.
+~
+Dressed in a very dark cloth and keeping out of plain sight, this master
+thief is ready for everything...  
+~
+dwarf~
+ABKS BDFJ -500 0
+200 200 401d66+8081 200d10+85 66d3+105 stab
+-126 -126 -126 -84
+EFIKN ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10645
+female dwarf singing drunken~
+A singing bard~
+A drunken female staggers toward you, singing at the top of her lungs.
+~
+~
+dwarf~
+ABKT J 500 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+F ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+M GRALL 10645 100~
+#10651
+bodyguard~
+The bodyguard~
+A personal bodyguard of the chieftain stands here.
+~
+Having chosen only the finest warriors to protect him, the chieftain’s
+bodyguards are prepared to fight to the death to protect his life.
+~
+dwarf~
+ABT J 750 0
+40 40 81d13+405 40d10+85 13d3+25 crush
+-17 -17 -17 -9
+DEFK 0 LQ R
+stand stand male 4000
+AHMV ABCDEFGHIJK S unknown 0
+#10652
+klar citizen~
+a citizen of Klar~
+A citizen of Klar walks around.
+~
+Dressed in light leathers and cloth, these citizens attempt to enjoy their
+brief moments between serving the ruling clans.  
+~
+dwarf~
+AGT J 500 0
+20 20 41d6+203 20d10+85 6d3+15 slap
+-3 -3 -3 0
+EFKN 0 LQ R
+stand stand male 300
+AHMV ABCDEFGHIJK S unknown 0
+#10653
+city guard captain~
+a city guard captain~
+The captain of the city guard sits here, filing paperwork.
+~
+With many scars adorning his face and body, the captain of the guard shows off
+considerable experience and strength in battle.  He doesn't look like a person
+you want to get caught on the wrong side of.
+~
+dwarf~
+ABT J 800 0
+50 50 101d16+506 50d10+85 16d3+30 pound
+-24 -24 -24 -14
+DEFK 0 LQ R
+stand stand male 6000
+AHMV ABCDEFGHIJK S unknown 0
+#10654
+corner peddler~
+a corner peddler~
+A peddler stands on the corner, selling her wares.
+~
+With only a small cart of bottles and the rags that cover her, this peddler
+doesn't seem like much.  However, you feel compelled to buy something from her.
+~
+dwarf~
+ABT J 400 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+FKN ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10656
+chieftain klar~
+The chieftain of Klar~
+The Chieftain of Klar stands here, looking troubled.
+~
+Looking weary and troubled, the Chieftain of Klar stands in his room, awaiting
+those willing to help his cause.
+ 
+~
+dwarf~
+ABT J 800 0
+102 110 165d36+3004 110d10+85 31d3+41 pound
+-42 -42 -42 -19
+EFK 0 LQ R
+stand stand male 8000
+AHMV ABCDEFGHIJK S unknown 0
+#10662
+torak warrior~
+Torak, the old warrior~
+Torak, the old warrior, stands ready to train you.
+~
+Despite his obvious old age, this dwarf is no pushover.  Aside from having 
+the experience of many battles behind him, he has kept his body in perfect
+physical condition.  Hopefully, he can do the same for you!
+~
+dwarf~
+ABJT J 550 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+DEFKN ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10664
+mishkin healer~
+Mishkin the Healer ~
+Mishkin the Healer is here, waiting to help you.
+~
+Showing very few signs of age, Mishkin has exceptional healing abilities, and
+has been taking care of the Klar for decades.
+~
+dwarf~
+ABQVa J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+FK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10666
+young man~
+young man~
+A young man stands behind the counter, selling his father's wares.
+~
+Barely able to pick up some of the weapons he selling, this young man
+compensates with his shrewd salesmanship abilities.
+~
+dwarf~
+ABT J 500 0
+200 200 401d66+8081 200d10+85 66d3+105 slash
+-126 -126 -126 -84
+FK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10672
+well dressed warrior~
+A well-dressed warrior~
+A well-dressed warrior stands here, ready to train you.
+~
+Wearing highly polished armor and donning the sharpest blade you've seen, this
+warrior looks very well qualified to prepare future warriors for their deaths.
+~
+dwarf~
+ABKT J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+DEFK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10673
+brewmaster alok~
+Alok the Brewmaster~
+Alok the Brewmaster is here, stirring his next concoction.
+~
+Looking more like a mad scientist than a druggist, Alok moves and mixes his
+potions with a seeming chaotic nature that hardly seems like a recipe.  However,
+this dwarf has always delivered what he says.
+~
+dwarf~
+ABT J 400 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+EFK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10680
+huge barbarian~
+huge barbarian~
+A huge barbarian stands here, waiting to see your stuff
+~
+Covered in thick furs and stinking to high heaven, this barbaric dwarf looks
+like he's been around a while.  
+~
+dwarf~
+ABKT J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+DFK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#10683
+ruffian~
+a ruffian~
+A ruffian stands here, waiting to cause trouble.
+~
+Looking sly and very mischievous, this ruffian roams around the city, looking
+to cause trouble while the city guards aren't around.
+~
+dwarf~
+AGT J -300 0
+10 10 21d3+102 10d10+85 3d3+10 stab
+2 2 2 4
+FK 0 LQ R
+stand stand male 400
+AHMV ABCDEFGHIJK S unknown 0
+#10684
+city guard~
+a city guard~
+A city guard is here, patrolling the area.
+~
+Equipped in the best weapons and armor in the city, the city guard patrols the
+streets of Klar, keeping the peace and protecting its citizens.  
+~
+dwarf~
+AGT J 700 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+DEFKR 0 LQ R
+stand stand male 500
+AHMV ABCDEFGHIJK S unknown 0
+#10711
+trummle brightlight~
+trummle brightlight~
+Trummle Brightlight stands here waiting to sell you one of his wares.
+~
+He doesn't appear to be very strong, not at all in the least bit. 
+Patience seems to have the best of him, as he watches you with unnerving
+eyes.  Perhaps he'd be willing to sell you something if you ask politely.  
+~
+theiwar~
+AB DFJV 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 blast
+-126 -126 -126 -84
+DEHJRT ABCD 0 IRS
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10712
+turor durkeep~
+Turor Durkeep~
+Turor Durkeep stands floats behind a counter, waiting to sell you one of his magical items.
+~
+Short, stocky and quite muscular, this small Dwarf appears to be floating
+in mid air, as if under some sort of flying spell.  He's dressed down with
+jewels and robes, more than likely those magical in nature.  Long white
+hair flows down past his shoulders and, in a funny looking way, blend into
+his long brown beard.  Getting a closer look, you realize that his beard is
+not brown from a natural color, but more like that due to a lack of
+cleanliness.  
+~
+dwarf~
+ABR DFHJTV 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+CDHIK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10713
+guildmaster guard~
+a Guildmaster Guard~
+A Guildmaster's Guard stands watch, keeping out any and all trespassers.
+~
+Gruesome and fearsome he looks.  With his rugged, dirty old face, he
+wouldn't appear to be someone really threatening, although his rippled
+biceps and sharp bladed axe appears to prove otherwise.  It doesn't look
+like he's going anywhere.  It looks like he's here to stay, to keep out
+anyone who does not practice the art of Magic.  
+~
+theiwar~
+AB DFJVa 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+CDEFGHIRT ABCD 0 IRS
+stand stand none 0
+AHMV ABCDEFGHIJK S unknown 0
+#10714
+thiewaren guildmaster mage dwarf~
+theiwaren guildmaster~
+A Theiwaren Guildmaster stands here, waiting to train you.
+~
+With his thick, black velvet hood pulled over his head, there isn't much
+else you can get from your observations.  In his hands, he holds some sort
+of spellbook, with his head down and, obviously, his mind deep in thought. 
+Perhaps you could coax him into helping you with your own spells, maybe even
+get him to teach you one or two new spells or skills.  
+~
+theiwar~
+ABKRb DFHJa 500 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+DEFGHT ABCD 0 IRS
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10743
+olim goldbuckle~
+olim goldbuckle~
+Olim {YGold{xbuckler is here counting huge piles of gold.
+~
+Short and draped in a golden tunic with matching golden trousers
+encrusted with jewels, this Dwarf has got to be loaded to the gills with
+gold.  His long white beard gives away his age as to be quite old and wise,
+yet his skin has yet to take on any form of aging, normally found in humans. 
+He appears to be quit busy counting large mounds of gold coins.  Perhaps he
+would be more than happy to take the load off your purse and keep a close
+eye out for your wealth.  
+~
+dwarf~
+ABde DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+CDEHRT ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10744
+numli architect~
+Numli the Architect~
+Numli the Architect stands here waiting to sell you something.
+~
+You find yourself eye to eye with a middle aged male Dwarf.  Long brown
+wavy hair flows out down to the middle of his back.  Emerald green eyes
+seem to charm you, as you continue to stare.  His long white beard appears
+to have been stained from some sort of food and drink.  What a messy guy!  
+~
+dwarf~
+AB DFHJVa 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+DKORT ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10756
+gully dwarf ~
+A gully dwarf~
+A very dirty gully dwarf is here, gnawing on your leg.
+~
+Looking more like a ball of dirt and hair than a living being, this gully dwarf
+is in perfect camouflage for this environment.
+~
+aghar~
+ABCT J 300 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+EF 0 LQ IR
+stand stand either 200
+AHMV ABCDEFGHIJK S unknown 0
+#10757
+giant rat~
+A giant rat~
+A giant rat scurries around the floor.
+~
+About the size of a small dog, this creature has certainly been feeding on the
+wealth of trash in this place.
+~
+dog~
+AGT 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+FH 0 0 0
+stand stand either 200
+AGV ACDEFHJKUV S unknown 0
+#10760
+trash heap~
+A trash heap~
+A trash heap moves toward you.
+
+~
+A far cry from Fraggle Rock, these vicious creatures constantly torment the 
+gully dwarves, and are now coming after you...
+~
+unique~
+ABFT Qc -300 0
+40 40 81d13+405 40d10+85 13d3+25 crush
+-17 -17 -17 -9
+EF FG E H
+stand stand none 4000
+AHMV ABCDEFGHIJK L unknown 0
+#10761
+man counter shopkeeper~
+A woman behind the counter~
+A woman stands behind the counter, watching you suspiciously
+~
+Well-built and strangely attractive, the shopkeeper stands there, patiently
+waiting to take your order.
+~
+dwarf~
+ABT J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+FK ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10772
+gully dwarf guard~
+A gully dwarf guard~
+A gully dwarf, wearing mix-matched pieces of armor is here.
+~
+Looking more like a beat up steel barrel than a guard, these gully dwarves
+are supposed to be guarding the king.
+~
+dwarf~
+ACGT J 300 0
+40 40 81d13+405 40d10+85 13d3+25 bite
+-17 -17 -17 -9
+EFK 0 LQ R
+stand stand male 200
+AHMV ABCDEFGHIJK S unknown 0
+#10773
+king smarg gully dwarf~
+King Smarg~
+A rather tall gully dwarf is here, proudly wearing a beat-up crown.
+~
+A little larger than your average dwarf, King Smarg appears as an
+extremely dirty and smelly dwarf.  Wearing a rather large rat on his head,
+he demonstrates the epitome of the Aghar pride.  
+~
+dwarf~
+ABCT J 300 0
+50 50 101d16+506 50d10+85 16d3+30 bite
+-24 -24 -24 -14
+FK 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10776
+gully dwarf cook~
+A gully dwarf cook~
+A gully dwarf is here, cooking something over a bonfire.
+~
+Smelling like someone lit their own fart, this gully dwarf is concocting an 
+old family recipe of garbage a la carte.
+~
+dwarf~
+ABT J 300 0
+200 200 401d66+8081 200d10+85 66d3+105 bite
+-126 -126 -126 -84
+EFK ABCD LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10787
+gully dwarf potions~
+A potion seller~
+A gully dwarf is here, selling assorted potions.
+~
+~
+dwarf~
+ABCT J 200 0
+200 200 401d66+8081 200d10+85 66d3+105 bite
+-126 -126 -126 -84
+0 ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10789
+spirit dwarf warrior~
+The spirit of a dwarf~
+A spirit of a dwarven warrior floats around here.
+~
+Long dead, but still kicking, this spirit seems ready to defend its former self.
+~
+dwarf~
+ABT BHJ 1000 0
+55 55 111d18+1111 55d10+85 18d3+32 chill
+-27 -27 -27 -16
+DEFK ABL DILQ H
+stand stand male 4000
+HMV ABCDEFGHIJK S unknown 0
+F vul R
+F for A
+#10790
+ore elemental~
+an Ore Elemental~
+An Ore Elemental wanders about, looking lost.
+~
+Ore Elementals are a much stronger version of his cousin the Earth
+Elemental, do not underestimate their strength.  Melee attacks do a lot of
+damage per hit.  It has a special type of gas attack which looks like a
+large yellowish white flamestrike and makes a hissing sound similar to the
+sound made when someone trips a box trapped with gas.  
+~
+modron~
+ACG BHJTV 0 0
+45 35 71d11+354 35d10+85 11d3+22 charge
+-13 -13 -13 -6
+AFGQRT BMNPQ HIK C
+stand stand none 750
+H ABCGHJK L unknown 0
+#10793
+mongbat~
+a Mongbat~
+A Mongbat flutters about the room, almost hitting you in the head.
+~
+Ever wonder what it feels like to be the weakest monster in existence? 
+These guys have attacked rabbits and died...  Not a wonderful existence.  
+~
+bat~
+AFGH KTVZa 0 0
+25 15 31d5+152 15d10+85 5d3+12 peckb
+0 0 0 2
+CDGR LQ D S
+stand stand none 150
+AGV ACDEFHJKP S unknown 0
+F off FH
+#10799
+puddle slime~
+a puddle of slime~
+A puddle of slime lies before you.
+~
+If you ever have a little too much to drink one night, you'll see this
+puddle-like creature on your bathroom floor.  Slimes damage the durability
+of any melee weapon used on them, AND they use a weak form of poison.  These
+things are extremely annoying.  
+~
+water fowl~
+ACG MTbd 0 0
+13 5 11d2+51 5d10+85 1d5+7 slime
+5 5 5 7
+FNU BLQ KR HI
+stand stand none 200
+AGW ACDEFHKP S unknown 0
+#0
+
+
+
+#OBJECTS
+#10601
+wooden sign~
+a wooden sign~
+A wooden sign has been nailed to the wall here.~
+wood~
+trash AO 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+______________________________________________________
+   |                                             |
+   |  We are NOT responsible for any harm which  |
+   |  may come to your body and/or soul. Being   |
+   |  an outsider, you will be treated as such.  |
+   |  All of our laws shall be abided by, else   |
+   |  you shall be punished accordingly for which|
+   |  ever law you may break. Any personal harm  |
+   |  which you bring upon yourself is your own  |
+   |  problem. We do not take lightly to threats |
+   |  or lawsuits.                               |
+   |                           Signed,           |
+   |             The Dwarves of Thorbardin!      |
+   |_____________________________________________| 
+~
+#10610
+black vial liquid~
+a black vial~
+A vial of black liquid sits here, giving off a peculiar smell.~
+glass~
+potion GS 0 AO
+60 'giant strength' 'frenzy' 'haste' 'detect invis'
+60 1 8000 P
+#10611
+footman lance spear~
+a Footman's lance~
+A shining silver weapon lies here, crafted in the image of a short dragonlance.~
+silver~
+weapon AGIK 0 ANX
+spear 10 10 pierce D
+85 6 500000 P
+A
+18 4
+A
+2 1
+A
+1 1
+#10612
+wand thunderbolts~
+wand of thunderbolts~
+A golden wand engraved with strange symbols lies here.~
+gold~
+wand G 0 AOc
+70 20 20 'chain lightning' 0
+70 1 40000 P
+#10613
+scroll invisibility~
+scroll of invisibility~
+A scroll of invisibility rests here.~
+paper~
+scroll GS 0 AO
+50 'invisibility' 'reserved' 'reserved' 'reserved'
+40 2 400 P
+#10614
+potion healing~
+potion of healing~
+A potion of healing sits here.~
+glass~
+potion GS 0 AO
+20 'heal' 'reserved' 'reserved' 'reserved'
+20 2 5000 P
+#10615
+potion invisibility~
+potion of invisibility~
+A potion of invisibility sits here.~
+glass~
+potion GS 0 AO
+30 'invisibility' 'reserved' 'reserved' 'reserved'
+30 2 3500 P
+#10616
+potion speed~
+potion of speed~
+A potion of speed sits here.~
+glass~
+potion GS 0 AO
+20 'haste' 'reserved' 'reserved' 'reserved'
+20 2 1000 P
+#10617
+potion protection~
+potion of protection~
+A potion of protection sits here.~
+glass~
+potion GS 0 AO
+25 'shield' '' 'armor' 'reserved'
+25 2 3500 P
+#10618
+vial antidote~
+a vial of antidote~
+A vial of antidote sits here.~
+glass~
+potion GS 0 AO
+30 'cure poison' 'cure disease' 'cure blindness' 'cancellation'
+30 2 4000 P
+#10619
+girdle lifting~
+girdle of lifting~
+A finely crafted leather girdle sits here.~
+tooled leather~
+armor S 0 ALc
+ABC AD D AB 0
+30 2 1200 P
+A
+1 2
+#10620
+utility belt leather~
+utility belt~
+A leather utility belt rests here.~
+leather~
+container S 0 ALc
+50 0 0 35 0
+5 1 50 P
+#10621
+wineskin leather~
+a wineskin~
+A leather wineskin lies here.~
+leather~
+drink S 0 AO
+10 10 'water' 0 0
+3 1 25 P
+#10622
+security chest~
+a security chest~
+An iron chest sits here.~
+iron~
+container 0 0 AO
+1000 ACD 10623 100 0
+40 70 2000 P
+#10623
+iron key~
+an iron key~
+An iron key sits here.~
+iron~
+key 0 0 AO
+0 0 0 0 0
+40 1 500 P
+#10624
+minotaur battle axe~
+a minotaur battle axe~
+A massive battle-axe rests here.~
+steel~
+weapon 0 0 ANa
+axe 2 22 chop F
+40 14 3000 P
+#10625
+authentic replica sword ariakas~
+({yAuthentic Replica{x) Sword of Ariakas~
+A large, two-handed sword rests here, looking quite wicked.~
+steel~
+weapon 0 0 ANZ
+sword 7 8 cleave F
+55 10 10000 P
+#10626
+footmans mace~
+a footman's mace~
+A footman's mace lays here.~
+iron~
+weapon 0 0 ANY
+mace 2 10 pound 0
+16 7 500 P
+#10627
+short sword~
+a shortsword~
+A short sword rests here.~
+steel~
+weapon 0 0 ANX
+sword 4 4 stab 0
+14 4 350 P
+#10628
+dagger kender blade~
+a kender's blade~
+A slender dagger, with strange braids at the end of the hilt, rests here.~
+silver~
+weapon 0 0 ANW
+dagger 3 8 stab 0
+10 1 120 P
+#10629
+iron spear~
+an iron spear~
+An iron spear lies here.~
+iron~
+weapon 0 0 ANY
+spear 4 5 pierce 0
+18 8 600 P
+#10630
+bronze plate mail~
+{yBronze{x plate mail~
+A suit of {ybronze{x plate mail rests here.~
+bronze~
+armor 0 0 ADc
+ABC C ABD B 0
+25 18 600 P
+#10631
+chain mail shirt~
+a chainmail shirt~
+A chain mail shirt rests here.~
+steel~
+armor 0 0 ADc
+ABC C BC 0 0
+18 16 400 P
+#10632
+bronze shield~
+a {yBronze{x shield~
+A {ybronze{x shield rests here.~
+bronze~
+armor 0 0 AJc
+AC AC AC 0 0
+10 13 160 P
+#10633
+bronze helmet~
+a {yBronze{x helmet~
+A {ybronze{x helmet rests here.~
+bronze~
+armor 0 0 AEc
+AB A AC 0 0
+6 11 75 P
+#10634
+bronze plated boots~
+{yBronze{x-plated boots~
+A pair of {ybronze{x-plated boots rests here.~
+bronze~
+armor 0 0 AGc
+B A AB 0 0
+4 5 60 P
+#10635
+two handed skull splitter sword~
+the {WSkull{DSplitter{x~
+A large two-handed sword rests here, with a strange name inscribed on the hilt.~
+steel~
+weapon 0 0 ANZ
+sword 12 11 cleave EFR
+110 10 30000 P
+A
+19 5
+A
+18 3
+#10644
+brass candle~
+a candle~
+A candle with a brass holder sits here, illuminating the area.~
+wax~
+light AS 0 AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#10650
+steel target shield~
+a steel target shield~
+A round, steel shield lies here.~
+steel~
+armor 0 0 AJW
+AC AC AC A 0
+20 6 3000 P
+#10651
+treasure pit~
+a treasure pit~
+A treasure pit is built into the stone floor.~
+stone~
+container O 0 0
+0 0 0 0 0
+0 0 0 P
+#10652
+marble fountain~
+a marble fountain~
+A fountain carved of white marble sits here.~
+marble~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#10653
+ring mail suit~
+a suit of ringmail~
+A suit of ring mail lies here.~
+steel~
+armor 0 0 ADX
+BD ABC BD AB 0
+30 12 5000 P
+#10654
+clear potion~
+a clear potion ~
+A potion of clear liquid sits here.~
+glass~
+potion GS 0 AO
+25 'refresh' 'reserved' 'reserved' 'reserved'
+10 0 500 P
+#10655
+captains battle axe~
+a captain's battle axe~
+The captain's battle axe rests here.~
+steel~
+weapon 0 0 ANX
+axe 6 10 cleave 0
+60 10 10000 P
+#10657
+captains plate~
+the Captain's Plate~
+The captain's plate lays here.~
+silver~
+armor 0 0 ADX
+BCD CD AE AD C
+60 15 8000 P
+#10659
+potion power~
+potion of power~
+A potion of power sits here.~
+glass~
+potion AGS 0 AO
+30 'giant strength' 'armor' 'reserved' 'reserved'
+30 0 5000 P
+#10660
+potion flying~
+potion of flying~
+A potion of flying sits here.~
+glass~
+potion GS 0 AO
+30 'levitate' 'reserved' 'reserved' 'reserved'
+30 0 3500 P
+#10661
+potion true seeing~
+potion of true seeing~
+A potion of true seeing lies here.~
+glass~
+potion AGS 0 AO
+30 'detect hidden' 'detect invis' 'reserved' 'reserved'
+30 0 15000 P
+#10662
+leather boots~
+leather boots~
+A pair of leather boots sits here.~
+leather~
+armor S 0 AGc
+B C AB 0 0
+10 2 100 P
+#10663
+broad sword~
+a broad sword~
+A broad sword lays here.~
+steel~
+weapon 0 0 ANY
+sword 4 6 slash 0
+20 7 800 P
+#10664
+leather pants~
+leather pants~
+A pair of leather pants lays here.~
+leather~
+armor S 0 AFc
+AB AC C 0 0
+10 4 100 P
+#10665
+battle axe~
+a battle axe~
+A battle axe rests here.~
+steel~
+weapon 0 0 ANOY
+axe 3 8 chop 0
+20 10 900 P
+#10666
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#10667
+ashen wand~
+an {washen{x wand~
+An {washen{x wand lies here, giving off a brilliant glow.~
+ash~
+light GS 0 AOX
+0 0 DGH 0 0
+10 2 500 P
+A
+3 2
+#10668
+long spear~
+a long spear~
+A long spear lays here.~
+hickory~
+weapon S 0 ANZ
+spear 3 8 pierce 0
+20 6 700 P
+#10669
+dagger~
+a dagger~
+A dagger lies here.~
+steel~
+weapon 0 0 ANY
+dagger 2 8 pierce 0
+10 3 300 P
+#10674
+chain mail vest~
+a chainmail vest~
+Chain mail armor lies here.~
+steel~
+armor 0 0 ADc
+D AC ABC A 0
+20 16 2000 P
+#10675
+iron helmet~
+an {Diron{x helmet~
+An iron helmet sits here.~
+iron~
+armor 0 0 AEc
+AB A ABC 0 0
+10 14 200 P
+#10676
+small shield~
+a small shield~
+A small shield sits here.~
+wood~
+armor S 0 AJX
+C C C A 0
+20 5 600 P
+#10677
+donation chest~
+a donation chest~
+A large donation chest, made from rare ores, rests here.~
+smoky quartz~
+container O 0 0
+10000 0 0 1000 0
+0 0 0 P
+#10678
+dark blue potion~
+a dark blue potion~
+A dark blue potion sits here.~
+glass~
+potion GS 0 AO
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 1000 P
+#10679
+green potion~
+a green potion~
+A green potion sits here.~
+glass~
+potion GS 0 AO
+30 'sanctuary' 'reserved' 'reserved' 'reserved'
+20 0 3000 P
+#10681
+red potion~
+a red potion~
+A red potion sits here.~
+glass~
+potion GS 0 AO
+30 'heal' 'reserved' 'reserved' 'reserved'
+20 0 4000 P
+#10682
+chain sleeves~
+chain sleeves~
+A pair of chain sleeves lies here.~
+steel~
+armor 0 0 AIc
+BC AB BC 0 B
+10 1 200 P
+#10684
+steel broad sword~
+a steel broad sword~
+A steel broad sword lies here.~
+steel~
+weapon 0 0 ANY
+sword 4 8 slash 0
+30 8 5000 P
+#10700
+crystal ball~
+a crystal ball~
+A crystal ball lies here glowing with a powerful aura.~
+crystal~
+light AGISY 0 AOc
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 2 1500 P
+A
+1 1
+#10701
+potion dwarven sight~
+potion of dwarven sight~
+A potion of dwarven sight lies here.~
+glass~
+potion GST 0 AO
+50 'detect hidden' 'detect invis' 'infravision' 'reserved'
+50 1 8000 P
+#10702
+ruby ring~
+a {rruby ring{x ~
+A beautiful {rring{x lies here glimmering in the dirt.~
+ruby~
+jewelry AGIKSY 0 ABc
+0 0 0 0 0
+15 2 3450 P
+A
+3 2
+A
+12 20
+#10703
+rumbling wand~
+a rumbling wand~
+There appears to be some sort of wand here.~
+ash~
+wand GIS 0 AOc
+35 10 8 'earthquake' 0
+35 1 2325 P
+#10711
+emerald staff~
+an {GEmerald{x Staff~
+An {GEmerald{x staff lies here, giving off a brilliant source of light.~
+emerald~
+light GIS 0 AOc
+0 0 CDFI 0 0
+20 3 800 P
+A
+19 2
+#10712
+starfire staff~
+a {RStarfire{x staff~
+A {RStarfire{x staff lies here, glowing brilliantly bright.~
+rose quartz~
+light GIS 0 AOc
+0 0 DEGJ 0 0
+40 4 1000 P
+A
+18 2
+#10713
+long candle~
+a long candle~
+A long candle burns slowly here.~
+wax~
+light AS 0 AOX
+0 0 CFG 0 0
+1 1 200 P
+#10721
+tattered scroll~
+a tattered scroll~
+A tattered scroll lies here, forgotten on the ground.~
+parchment~
+trash PSTU 0 A
+0 0 0 0 0
+0 0 0 P
+E
+tattered~
+This scroll has been torn in several places, and crackles with age,
+threatening to crumble if handled too roughly.  There is a dark stain that
+might be blood obscuring a portion of the text, though some of it can still
+be made out: 
+ 
+"{y...weeks searching this blasted forest, and still no end in
+sight. It is almost as if the very Gods themselves are against us!
+I know something the others do not, however... The enchantment cost
+me dearly indeed, but it will soon be worth it. Soon the secrets of
+the forest will be mine! A shame I will have to kill Tangred and
+Ristani.. but I simply cannot afford to share the secret. If
+'They' found out... But they won't. I've taken all the
+necessary pre-{x"
+ 
+The text ends here in an abrupt scrawl, though there seem to be a
+series of letters burned into the surface of the parchment...
+ 
+     {rE N E N W W S W S W N N E N W N E E S E E N W N{x
+~
+#10744
+crow bar staff~
+a crowbar~
+A three foot long crowbar rests here.~
+iron~
+weapon BY 0 ANY
+staff 2 22 pound 0
+40 5 500 P
+A
+1 1
+#10745
+jeweler hammer mace~
+a Jeweler's Hammer~
+A Jeweler Hammer lies here on the ground.~
+silver~
+weapon ABIKY 0 ANX
+mace 6 10 crush 0
+60 2 1200 P
+A
+18 2
+A
+19 4
+#10746
+rock striker pick exotic~
+a Rockstriker Pick~
+A massive two-handed pick lies here before you.~
+iron~
+weapon GITY 0 ANZ
+exotic 10 10 pierce DF
+100 9 5000 P
+A
+2 -2
+A
+13 20
+A
+18 7
+A
+19 7
+#10747
+steel etcher exotic~
+a {Bsteel{x etcher~
+A small etcher of some sort lies on the ground.~
+steel~
+weapon BIY 0 ANc
+exotic 3 8 scratch D
+20 1 300 P
+A
+2 1
+#10756
+yellow potion~
+a yellow potion~
+A yellow potion sits here.~
+glass~
+potion GS 0 AO
+20 'cause critical' 'reserved' 'reserved' 'reserved'
+0 0 550 P
+#10757
+clear potion~
+a clear potion~
+A clear potion sits here.~
+glass~
+potion GS 0 AO
+20 'reserved' 'change sex' 'reserved' 'reserved'
+0 0 400 P
+#10758
+thick brown bottle liquid~
+a bottle of thick brown liquid~
+A bottle of thick brown liquid is resting here.~
+glass~
+potion GS 0 AO
+20 'cure critical' 'reserved' 'reserved' 'reserved'
+0 1 600 P
+#10759
+beat wash board~
+a beat up washboard~
+A beat-up washboard sits here.~
+tin~
+armor 0 0 AOX
+AC ABC ABC AB 0
+30 2 0 P
+#10760
+clay bowl~
+a clay bowl~
+A clay bowl sits here.~
+clay~
+armor S 0 AEOX
+ABC AB ABC AB 0
+30 2 0 P
+#10761
+broken axe handle mace~
+a broken axe handle~
+A broken axe handle sits here.~
+wood~
+weapon S 0 AN
+mace 6 6 smash 0
+40 1 0 P
+#10762
+broken bottle exotic~
+a broken bottle~
+A broken bottle sits here.~
+glass~
+weapon S 0 ANO
+exotic 4 7 pierce 0
+25 0 0 P
+#10770
+charred rat~
+a charred rat~
+A charred rat is sitting here steaming.~
+flesh~
+food S 0 AO
+ABCD BD 0 0 0
+0 0 15 P
+#10776
+bowl mud~
+a bowl of mud~
+A hot bowl of mud sits here.~
+soil~
+food S 0 AO
+A C 0 0 0
+0 0 5 P
+#10784
+long rats tail~
+a rat's tail~
+A long rat's tail rests here.~
+flesh~
+key PSU 0 AO
+0 0 0 0 0
+0 0 0 P
+#10785
+ceremonial war hammer mace~
+a Ceremonial War Hammer~
+A well-crafted war hammer rests here.~
+platinum~
+weapon AGIKY 0 ANc
+mace 6 16 crush A
+75 6 20000 P
+#10786
+ceremonial helmet plate~
+a Ceremonial helm~
+A gilded ceremonial helm lies here on the ground.~
+brass~
+armor GK 0 AEc
+E BCD CE CD C
+75 11 12000 P
+A
+13 50
+A
+5 3
+#10787
+pink vial potion~
+a pink vial~
+A vial of pink liquid is laying here.~
+glass~
+potion AGS 0 AO
+20 'poison' 'reserved' 'reserved' 'reserved'
+0 0 500 P
+#10788
+round key~
+a round key~
+A round key lays here.~
+iron~
+key 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#10789
+sarcophagus~
+a sarcophagus~
+A decorated sarcophagus rests on the ground.~
+granite~
+container O 0 0
+0 ABCD 10788 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#10600
+Inside the Northern Gate of Thorbardin~
+Stopping to take a look around, the walls here appear to have been
+expertly dug out, leaving the walls with a nice obsidian look and a smooth
+texture.  Although there are no torches to lead your way, dwarves not having
+a need for such things, there does appear to be some moss growing all over
+the ceiling of the cave hole.  What makes this moss so appealing, is it's
+ability to give off just enough light for you to make out your surroundings,
+yet isn't bright enough to be considerably noticeable.  
+~
+0 524296 5
+D0
+~
+~
+0 0 10609
+D3
+~
+~
+0 0 10601
+S
+#10601
+Near the Northern Entrance~
+Deeper and deeper into Thorbardin you go.  The walls appear to be as
+smooth here as the rest of the tunnel is.  The same glowing moss, seeming to
+dominate most of the walls, grows all about you.  A slight breeze blows by
+you, the wind coming from over east, over where the entrance to this Dwarven
+Masterpiece lies.  The moss gives off a poor amount of light, and your own
+personal source of light isn't enough to penetrate the darkness of what lies
+below.  Watching your step might be a very good idea, so you don't trip,
+fall and break your neck.  
+~
+0 524300 5
+D1
+~
+~
+0 0 10600
+D5
+~
+~
+0 0 10602
+S
+#10602
+Down upon a ledge~
+You find yourself in a wide, open cave-like hole.  Dug out by the Dwarves
+of Thorbardin, the walls have been polished to a very smooth texture.  Small
+patches of glowing moss appear to be growing on the ceiling portion of these
+caves, giving you just enough light to make heads and tails of where you
+are.  The light is also bright enough to reflect off the smooth surfaces of
+the wall, glimmering obsidian mirror like walls.  
+~
+0 532489 5
+D4
+~
+~
+0 0 10601
+D5
+~
+~
+0 0 10603
+S
+#10603
+Bottom of a Shaft~
+The cave here opens up into a wide cavern, leading south, or up into a
+shaft which serves as the entrance and exit into this massive Dwarven city
+Looking up, a large vine hangs down the length of the shaft, serving as a
+rope which could be used to climb up out of here.  To the south, darkness
+seems to prevail over light.  
+~
+0 524297 5
+D2
+~
+~
+0 0 10604
+D4
+~
+~
+0 0 10602
+S
+#10604
+Along a small obsidian cave~
+You find yourself in a low, tight fitting cave hole.  Dug out by the
+Dwarves of Thorbardin, the walls have been polished to a very smooth
+texture.  Small patches of glowing moss appear to be growing on the ceiling
+portion of these caves, giving you just enough light to make heads and tails
+of where you are.  The light is also bright enough to reflect off the smooth
+surfaces of the wall, glimmering obsidian mirror like walls.  
+~
+0 524296 5
+D0
+~
+~
+0 0 10603
+D5
+~
+~
+0 0 10605
+S
+#10605
+Down a tight hole~
+You find yourself in a low, tight fitting cave hole.  Dug out by the
+Dwarves of Thorbardin, the walls have been polished to a very smooth
+texture.  Small patches of glowing moss appear to be growing on the ceiling
+portion of these caves, giving you just enough light to make heads and tails
+of where you are.  The light is also bright enough to reflect off the smooth
+surfaces of the wall, glimmering obsidian mirror like walls.  
+~
+0 524296 5
+D4
+~
+~
+0 0 10604
+D5
+~
+~
+0 0 10606
+S
+#10606
+Down a tight hole~
+You find yourself in a low, tight fitting cave hole.  Dug out by the
+Dwarves of Thorbardin, the walls have been polished to a very smooth
+texture.  Small patches of glowing moss appear to be growing on the ceiling
+portion of these caves, giving you just enough light to make heads and tails
+of where you are.  The light is also bright enough to reflect off the smooth
+surfaces of the wall, glimmering obsidian mirror like walls.  
+~
+0 524296 5
+D4
+~
+~
+0 0 10605
+D5
+~
+~
+0 0 10607
+S
+#10607
+Down a tight hole~
+You find yourself in a low, tight fitting cave hole.  Dug out by the
+Dwarves of Thorbardin, the walls have been polished to a very smooth
+texture.  Small patches of glowing moss appear to be growing on the ceiling
+portion of these caves, giving you just enough light to make heads and tails
+of where you are.  The light is also bright enough to reflect off the smooth
+surfaces of the wall, glimmering obsidian mirror like walls.  
+~
+0 524296 5
+D4
+~
+~
+0 0 10606
+D5
+~
+~
+0 0 10608
+S
+#10608
+Down a tight hole~
+You find yourself down at the bottom of this small hole.  Looking on to
+your south, it appears that your path opens up a little, although not much. 
+Looking back up towards the darkness, it only seems to become more
+constricting.  Perhaps a more relaxing journey further into the depths of
+Thorbardin would be much easier than to try your luck back up the congested
+shaft.  Not only does it appear to an easier walk, but it also appears to be
+more promising, in the way that it seems to get brighter, rather than
+darker.  
+~
+0 524296 5
+D2
+~
+~
+0 0 16367
+D4
+~
+~
+0 0 10607
+S
+#10609
+Before the Kharolis Mountains~
+Looking up at this great mountain before you, you realize that to climb
+up, would certainly mean death, for the mountain travels too steep and the
+surface too smooth to find any good footholds.  Looking back, straight ahead
+to the south, stands the entrance into the fabled Thorbardin.  An
+underground city built many, many years ago by different tribes of dwarves. 
+The entrance here on the northern side was, for the longest time, sealed
+off.  However, it appears that the rubble has been cleared and the entrance
+has been reopened.  Although the hole appears to be a tight squeeze for
+anyone larger than a dwarf, with enough determination and patience, even a
+Minotaur could squeeze through there.  
+~
+0 524288 5
+D0
+~
+~
+0 0 9887
+D2
+~
+~
+0 0 10600
+S
+#10610
+Intersection of Thenal and Barik~
+The meeting of these two streets looks more like a police barricade than
+an intersection.  With the upper class nobility and their manor houses to
+the south, and the hangout of the worst portions of the city's criminal
+element to the east, quite a bit of tension exists around this end of town. 
+A sizeable force of the city guard is always present, making sure that the
+large manors are protected from what might come out of the alleys.  
+~
+0 262153 1
+D1
+~
+~
+0 0 10611
+D2
+~
+~
+0 0 10615
+S
+#10611
+Thenal Road~
+Treading through this back alley road, many of the worst elements of the
+city begin to appear all around you.  A strong scent of rotting garbage
+hangs carelessly in the air, making it difficult to breathe.  This stench is
+also accompanied by the smell of decaying corpses, which have been tossed
+along the sides of old buildings and out of plain view.  Although they can
+be seen by passersby, very few decent citizens would ever dare come to this
+part of town.  
+~
+0 262153 1
+D1
+~
+~
+0 0 10612
+D3
+~
+~
+0 0 10610
+S
+#10612
+Gateway to the Daergar City~
+This appears to be one of the entrances to the city, though hardly
+looking like the main gate.  The tunnel here seems to empty out into a back
+alley road made from large chunks of gravel and dirt.  Because the Daergar
+dwarves are repulsed by light, especially sunlight, the city is kept
+completely dark.  Along with the stale, unmoving air, the stench of rotting
+corpses is noticeable as you stumble upon several bodies tossed behind a
+nearby building with their throats slashed.  This is a display of the
+affection that awaits you in the city.  
+~
+0 262153 1
+D0
+~
+~
+0 0 16401
+D1
+~
+~
+0 0 10613
+D3
+~
+~
+0 0 10611
+S
+#10613
+Intersection of Thenal and Galdar~
+Perhaps one of the more vile and sinister street corners in the city, the
+intersection of these two roads represents the meeting of the most destitute
+and brutal portions of the Daergar.  Though there are a few homes in this
+portion of Galdar Street, no shops would dare open this far north.  There
+are also very few people who move around in this part of town, as the fear
+of being mugged is greater here than anywhere else.  Most of the movement
+that can be heard comes from the areas concealed by refuse and old
+buildings.  
+~
+0 262153 1
+D2
+~
+~
+0 0 10618
+D3
+~
+~
+0 0 10612
+S
+#10614
+Shop of Blak Coldforge~
+Looking to be a small house converted into a weapons shop, this home
+appears as a museum of death.  Weapons of every sort can be seen lining the
+walls and countertops, matched only by the mob of customers perusing these
+items.  Since the blacksmith of the town passed on several years ago without
+
+an apprentice, all the weapons in the city needed to be imported from other
+parts of the mountain.  This is what has allowed this small home of Blak to
+be totally changed into an imported weapons shop, and turned Blak into one
+of the most wealthy merchants of the Daergar.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10620
+S
+#10615
+Barik Street~
+Along this western end of the city lie the manor houses of the soldiers
+and nobility of the Daergar.  Much cleaner than the rest of the city, this
+street is also more crowded and heavily traveled.  This road, aside from
+being made of perfectly cut stones and designed by some of the best
+architects in the mountain, also has a rather advanced sewage system,
+keeping a considerable of the city's refuse from building up along the sides
+of the street.  The massive manor houses along this street are also an
+architectural marvel, being made from stone bricks imported from all over
+Thorbardin.  While most of the buildings here are single floor homes for the
+warrior class, a few of the keeps for the nobles span near the ceiling of
+this city.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10610
+D2
+~
+~
+0 0 10621
+S
+#10616
+Temple of the Gods~
+Total awe and reverence surround the atmosphere here in this newly
+constructed temple of the Gods.  Although most of the tributes paid here go
+towards the gods of evil and darkness, there are representations of every
+deity here in this building of worship.  Along with the few seats which
+appear in front of the statues of the gods surrounding the perimeter of this
+room, there are also a cluster a pews in the center of the temple, facing
+the main worship altar.  Quite a few of the citizens and clerics can be seen
+wandering through the temple, stopping to pay homage to their deities as
+they pass by.  
+~
+0 263176 0
+D2
+~
+~
+0 0 10622
+S
+#10617
+The Temple Library~
+The interior of this old structure certainly gives away the former
+purpose of the building: as that of an old temple dedicated to the secret
+priests of Hiddukel.  When the new temple was built next to this one, this
+space was used for a library for students of the temple to continue their
+studies.  Although seeming to be out of place in such a brutal society, the
+library is stocked with books brought back from clan raids and from times
+when the mountain was still open to the outside world.  Many of the books on
+these shelves are either partially burned or contain bloodstains along the
+pages....  Or both.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10623
+S
+#10618
+Galdar Street~
+Along this eastern road of town reside the few shops and artisan homes
+which exist in the city.  Considering the war-like nature of the Daergar, it
+is plain to see why this area is much more rundown and destitute than the
+rest of the city.  While most of the buildings are either boarded up or
+filled with rubble, a few shops appear to still be in operation.  A few
+citizens can be seen moving in and out of the various stores, buying mostly
+masonic and leather wares for their homes.
+~
+0 262153 1
+D0
+~
+~
+0 0 10613
+D1
+~
+~
+0 0 10619
+D2
+~
+~
+0 0 10624
+S
+#10619
+Gateway to the Daergar City~
+From the wind tunnels created by the air currents of the East Warrens,
+the entrance to the Daergar City comes into view.  After allowing the eyes
+time to adjust to the complete lack of light in the area, a rather primitive
+and unkempt series of buildings and roads appear, reflective of the brutal
+and uncaring nature of this clan of dwarves.  The houses and shops are built
+with a mixture of wood and stone components, while the roads seem to be
+nothing more than large slabs of rock laid together in an almost straight
+line.  Although quite a few people can be seen wandering the streets, no one
+dares walk around without some sort of weapon handy.  
+~
+0 262153 1
+D1
+~
+~
+0 0 16398
+D3
+~
+~
+0 0 10618
+S
+#10620
+Cygnus Road~
+Along the western end of this street are quite a few of the more
+frequented shops in the city.  Carved out of the walls of rock, these shops
+are designed to meet the needs of the nobility and the warriors, providing
+equipment and weapons for their next crusade.  To the north, there is a shop
+which appears to be receiving quite a bit more business than the rest.  A
+sign hangs above the doorway, saying WEAPONS SHOP in bold lettering.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10614
+D1
+~
+~
+0 0 10621
+S
+#10621
+Intersection of Cygnus and Barik~
+Perhaps one of the busier intersections of the city, this place stands in
+the middle of the administrative center for the Daergar.  To the north and
+
+south are the homes and manors of the warrior class and the nobility, some
+of which reach nearly to the ceiling.  To the east is the main thoroughfare of
+the city, where both the temple and military barracks are located.  Although
+there is not much in the way of shops in this area, quite a few people are
+always wandering the streets here.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10615
+D1
+~
+~
+0 0 10622
+D2
+~
+~
+0 0 10627
+D3
+~
+~
+0 0 10620
+S
+#10622
+Cygnus Road~
+Within the center of the city lies the administrative buildings for the
+Daergar.  Due to the brutal nature of the clan, most of these buildings
+consist of police and military barracks, housing the ruthless guard patrols
+which maintain order among the citizens.  This street also houses several of
+the clerical orders in the city, who also attempt to bring about peace
+through their own brand of order.  To the north, a large, intricately carved
+temple can be seen, with quite a few robed priests walking around and
+discussing matters of faith and politics.  Just above the massive wooden
+doors of the temple are runic symbols, representing the twenty-one gods of
+Krynn.  To the south is a large rectangular building, which appears to be
+the main guard station for the city.  With no windows and only a single,
+heavily guarded steel door for an entrance, this stronghold looks prepared to
+withstand quite an assault.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10616
+D1
+~
+~
+0 0 10623
+D2
+~
+~
+0 0 10628
+D3
+~
+~
+0 0 10621
+S
+#10623
+Cygnus Road~
+Within the center of the city lies the administrative buildings for the
+Daergar.  Due to the brutal nature of the clan, most of these buildings
+consist of police and military barracks, housing the ruthless guard patrols
+which maintain order among the citizens.  This street also houses several of
+the clerical orders in the city, who also attempt to bring about peace
+through their own brand of order.  To the north is a rather ornate building
+which appears to be built right into the side of the temple.  In fact, given
+the masonry of this structure, it almost looks like an old temple of some
+kind.  On the steps before the entrance, several clerics can be seen reading
+books of all shapes and sizes.  To the south, a considerable amount of noise
+can be heard, which sounds like the shaping of metal.  And with smoke coming
+out of a small hole on the roof, the building would seem to be a smithy of
+some sort.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10617
+D1
+~
+~
+0 0 10624
+D2
+~
+~
+0 0 10629
+D3
+~
+~
+0 0 10622
+S
+#10624
+Intersection of Cygnus and Galdar~
+Clearly showing the two sides of the society, this intersection is the
+dividing line between the artisans and warriors in the city.  Following the
+road to the west, quite a few large buildings come into view, including a
+black-stoned temple and the military barracks for the city guard. 
+Continuing along this north-south street and to the east are the few masons
+and artisans in the city, providing the necessary wares and furnishings for
+the many homes within this part of Thorbardin.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10618
+D1
+~
+~
+0 0 10625
+D2
+~
+~
+0 0 10630
+D3
+~
+~
+0 0 10623
+S
+#10625
+Cygnus Road~
+Following into the more dilapidated side of town, this road spans the
+entire cross-section of society among the Daergar.  The road ends in this
+small alleyway, where a rather dark element seems to be gathering around
+this particular street corner.  While most of the buildings here appear to
+be quite uninhabited, there seems to be some activity coming from a shop to
+the south.  The familiar scent of freshly tanned leather hangs in the air.  
+~
+0 262153 1
+D2
+~
+~
+0 0 10631
+D3
+~
+~
+0 0 10624
+S
+#10626
+The Chieftain’s Manor~
+Entering into this luxurious manor house, a swirl of objects catch your
+attention as a massive assortment of items imported from all over Thorbardin
+decorate the room.  Whoever the chieftain is, he is obviously a wealthy
+merchant or have great connections in the trading business.  Along with the
+many items surrounding the room, there are also very expensive decorations
+covering the floor and walls, including hand woven carpeting from the Life
+Tree and even elven tapestries from Silvanesti.  
+~
+0 262153 1
+D2
+~
+~
+1 0 10632
+S
+#10627
+Barik Street~
+Along this western end of the city lie the manor houses of the soldiers
+and nobility of the Daergar.  Much cleaner than the rest of the city, this
+street is also more crowded and heavily traveled.  This road, aside from
+being made of perfectly cut stones and designed by some of the best
+architects in the mountain, also has a rather advanced sewage system,
+keeping a considerable of the city's refuse from building up along the sides
+of the street.  The massive manor houses along this street are also an
+architectural marvel, being made from stone bricks imported from all over
+Thorbardin.  While most of the buildings here are single floor homes for the
+warrior class, a few of the keeps for the nobles span near the ceiling of
+this city.
+~
+0 262153 1
+D0
+~
+~
+0 0 10621
+D2
+~
+~
+0 0 10633
+S
+#10628
+Military Barracks~
+Within the confines of this large yet simple building resides the patrol
+guards of the city.  Known more so by their brutality than their sense of
+justice, the hall is more of a trophy room for the various battles fought
+and won by the city guard.  Other than pieces of armor and a few weapons
+scattered around the room, there are very few decorations or furniture. 
+Mostly, this building is used for either training exercises or interrogation
+of prisoners.  Several fresh bloodstains can be seen along the floor.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10622
+S
+#10629
+The Smith's Shop~
+Due to the constant violence in the streets, the ring of a large hammer
+hitting an anvil can be heard throughout the entire day and night.  Although
+the considerable business this shop receives, the atmosphere here is very
+plain and unsightly.  This dwelling, which is carved from a large mound of
+granite, is completely devoid of decoration or comfort of any kind.  A
+simple marble counter divides the shop area from the work area of the
+blacksmith, making for quite a noisy place to sell armor.  However, this
+shop never seems to disappoint customers, always having enough items in
+stock.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10623
+S
+#10630
+Galdar Street~
+Along this eastern road of town reside the few shops and artisan homes
+which exist in the city.  Considering the war-like nature of the Daergar, it
+is plain to see why this area is much more rundown and destitute than the
+rest of the city.  While most of the buildings are either boarded up or
+filled with rubble, a few shops appear to still be in operation.  A few
+citizens can be seen moving in and out of the various stores, buying mostly
+masonic and leather wares for their homes.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10624
+D2
+~
+~
+0 0 10636
+S
+#10631
+Trade Post~
+Despite this shop being one of the few leatherworking posts in the
+mountain, it doesn't appear to be doing much business within the Daergar
+city.  Made from warping wooden planks imported into Thorbardin long ago,
+the building interior attempts to reflect the atmosphere of woodsman life. 
+This certainly makes the shop stick out in an area where the buildings are
+designed mostly out of stone.  Although there are items of every sort in the
+shop, the leather products are all made by the shopkeeper, and seem to
+dominate the room on the shelves.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10625
+S
+#10632
+Gremel Road~
+Among the rather plain buildings and homes which exist along this street,
+there are also the mansions and homes of the petty nobility of the Daergar. 
+In this far western corner of the road, a gate can be seen to the north,
+blocking entrance to the manor house of the Lord Chieftain of this clan. 
+Although slightly more decorated and larger than the other homes along this
+road, this manor still exudes the fear and ruthlessness which plagues the
+rest of the city.  Atop this massive iron gate are the skulls of many of the
+former enemies of the chieftain, a warning to all those who dare enter.  
+~
+0 262153 1
+D0
+~
+gate~
+1 0 10626
+D1
+~
+~
+0 0 10633
+S
+#10633
+Gateway to the Daergar City~
+Passing underneath a large stone gateway, the city of the Daergar dwarves
+comes into full view.  Due to their extreme hatred of sunlight inherited
+from their Theiwar cousins, the entire city is kept pitch black.  Because of
+this, most of the buildings and the streets are in poor condition.  Most of
+the housing and structures within sight seem to be rather primitive in
+nature, displaying the somewhat crude and unrefined lifestyle of this clan. 
+Although it's difficult to see, the sound of footsteps can always be heard. 
+~
+0 262153 1
+D0
+~
+~
+0 0 10627
+D1
+~
+~
+0 0 10634
+D2
+~
+~
+0 0 16397
+D3
+~
+~
+0 0 10632
+S
+#10634
+Gremel Road~
+Being considered the more wealthy district of the city, this road houses
+both the middle class merchants, as well as the petty nobility of the
+Daergar.  Still looking rather decrepit by most standards, the houses and
+mansions along this end of town are somewhat larger and in better shape than
+the rest of the city.  This end also appears to be more closely guarded by
+the military patrols which police the streets, since it is the nobility who
+pays the majority of their salaries.  
+~
+0 262153 1
+D1
+~
+~
+0 0 10635
+D3
+~
+~
+0 0 10633
+S
+#10635
+Gremel Road~
+Being considered the more wealthy district of the city, this road houses
+both the middle class merchants, as well as the petty nobility of the
+Daergar.  Still looking rather decrepit by most standards, the houses and
+mansions along this end of town are somewhat larger and in better shape than
+the rest of the city.  This end also appears to be more closely guarded by
+the military patrols which police the streets, since it is the nobility who
+pays the majority of their salaries.
+~
+0 262153 1
+D1
+~
+~
+0 0 10636
+D3
+~
+~
+0 0 10634
+S
+#10636
+Intersection of Gremel and Galdar~
+One of the more calm and isolated intersections in the city, there appear
+to be very few people walking in this portion of town....  At least, that
+you can see.  To the west is the more wealthy side of the city, where you
+can see merchants and members of the nobility, dressed in their best
+clothing, calmly moving through the street.  To the north, there is also a
+considerable amount of activity, though most of the area consists of the
+main markets and administrative buildings in the city.  A rather eerie
+feeling passes over you as you peruse the alley to the east.  A shop carved
+into the wall appears to the south, with several odd items displayed in the
+window.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10630
+D1
+~
+~
+0 0 10637
+D2
+~
+~
+0 0 10639
+D3
+~
+~
+0 0 10635
+S
+#10637
+Dak's Path~
+Even though the entire city is devoid of light, there is something
+extremely shady about this corner of town.  Along with having a considerable
+amount of refuse lying around the sides of the buildings, the few people you
+can see down this alley seem to be keeping closely to the walls and behind
+other forms of cover, cautiously watching your every move.  A couple of
+windows into some small homes and shops can be seen from where you walk,
+though you see little activity in them.  
+~
+0 262153 1
+D2
+~
+~
+0 0 10640
+D3
+~
+~
+0 0 10636
+S
+#10638
+Drokar's Cabin of Curative Potions~
+Upon stepping into this small shop, a loud bubbling can be heard in every
+direction.  Bottles and vials of every shape and size can be seen all around
+the room, some sitting on the shelves, and some bubbling under a small flame
+awaiting their desired consistency.  Along with the many shapes and sizes of
+bottles in this room, there are also liquids of every possible color.  It
+would probably be better to buy a potion that is labeled than to take a risk
+on what is all around.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10641
+S
+#10639
+Thala's Pawn Shop~
+Although not very large, this shop contains some of the more bizarre
+items that find their way around the mountain, as well as some which somehow
+find their way in.  Displayed on these counters are a wide variety of
+objects, including wands, weapons, potions, rings, and other assorted
+goodies.  While all of them are certainly second-hand, the powers still
+contained in them are undeniable.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10636
+S
+#10640
+Dak's Path~
+Moving down this small alleyway, an even smaller path emerges to the
+east.  Barely wide enough for a normal-sized person to fit through, this
+back alley does not appear to really go anywhere in particular, simply
+following into the stone perimeter of the city.  The rest of the alley seems
+to be well littered from years of dumping.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10637
+D1
+~
+~
+0 0 10641
+D2
+~
+~
+0 0 10642
+S
+#10641
+A Strange Alley~
+Barely able to move through the space between these two buildings, this
+small alley appears to be a walkway for those who don't wish to be found
+easily.  To the south, there appears to be a considerable amount of refuse
+piled in front of a small steel door.  Obviously, only a select few know of
+this place.  To the north, there appears a shop with quite a few bottles
+displayed in the windows.  A bizarre bubbling noise can also be heard coming
+from the north.  The area to the east darkens even further; a small side
+passage just barely visible at the end of the alley.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10638
+D1
+~
+~
+0 0 10646
+D2
+~
+~
+1 0 10643
+D3
+~
+~
+0 0 10640
+S
+#10642
+Dak's Path~
+Even though the entire city is devoid of light, there is something
+extremely shady about this corner of town.  Along with having a considerable
+amount of refuse lying around the sides of the buildings, the few people you
+can see down this alley seem to be keeping closely to the walls and behind
+other forms of cover, cautiously watching your every move.  A couple of
+windows into some small homes and shops can be seen from where you walk,
+though you see little activity in them.
+~
+0 262153 1
+D0
+~
+~
+0 0 10640
+D2
+~
+~
+0 0 10644
+S
+#10643
+Thieves' Guild~
+Upon entering this small room, a large echo bounces from wall to wall,
+displaying the sheer emptiness of this place.  Other than the steel entrance
+to the north, there are no other "apparent" openings or passageways.  In the
+center of this room is a small wooden chair, which appears to be
+uninhabited.  Although no one can be seen, a soft whispering can be heard
+all around you...  
+~
+0 262153 1
+D0
+~
+~
+1 0 10641
+S
+#10644
+An Alley Corner~
+At the end of this mysterious back road, you seem to have found the only
+light source within the city limits.  It appears to be coming from a small
+candle in the center of this small turnabout, providing just enough light to
+encompass the corner.  Surprisingly enough, this part of the alley is also
+clear of the debris that litters the rest of the path.  With as much turmoil
+that the city can produce, this place is as close to a sanctuary as
+possible.  
+~
+0 263180 1
+D0
+~
+~
+0 0 10642
+M 120 H 120
+S
+#10645
+Tavern of the Golden Lute~
+Perhaps one of the loudest establishments in the entire mountain, this
+
+tavern is the home of the few bards that can still be found within the
+mountain.  Although not very large, the size is compensated by the constan4
+stringing of lutes and the singing of tales new and old.  Due to a conflict
+of opinion about the actual events of a legend (and the continuous flow of
+dwarf spirits among the patrons), an occasional fistfight can be seen
+breaking out from one corner of the bar to the other.  Despite all this
+activity, a lute can always be heard playing and a song will always be in
+the air.  
+~
+0 262152 1
+D3
+~
+~
+0 0 16306
+S
+#10646
+A Secret Shrine to Hiddukel~
+This alcove is hidden deep within the shadowy recesses of the alley's
+end.  A broken set of golden merchant's scales has been set atop a black
+marble pedestal inset within the wall.  Cryptic chalk messages written in a
+secret, scrawling language can be barely made out in places on the
+surrounding stone.  Though the figures themselves are never seen, low voices
+can occasionally be heard murmuring dark prayers to Hiddukel, god of
+corruption and lies.  In the center of this room, is a large circular dias
+made from pure gold, resting on top of a platinum frame.  Some writing has
+been etched into the center of it.  
+~
+0 8388617 27
+E
+altar~
+Before you stands a large circular dias, made of pure gold, standing atop
+of a platinum frame.  The frame itself is solid, with a semi-circle at the
+top to hold the dias in place.  Upon the frame, in the center of it, is a
+picture representing the face of Hiddukel, the mask of Comedy and Tragedy,
+one half of the face is smiling, the other is frowning.  The circular dias
+itself, made of pure gold, gleams brightly with lustre as the light from lit
+torches reflect off of it's golden surface.  Upon closer examination, there
+appears to be some writing etched in the center of the dias.
+{x
+'For those who seek out greed and misfortune, one only needs to say the words -'
+{x
+{x                  I shall betray my brothers in your name!
+~
+E
+dias~
+Before you stands a large circular dias, made of pure gold, standing atop
+of a platinum frame.  The frame itself is solid, with a semi-circle at the
+top to hold the dias in place.  Upon the frame, in the center of it, is a
+picture representing the face of Hiddukel, the mask of Comedy and Tragedy,
+one half of the face is smiling, the other is frowning.  The circular dias
+itself, made of pure gold, gleams brightly with lustre as the light from lit
+torches reflect off of it's golden surface.  Upon closer examination, there
+appears to be some writing etched in the center of the dias.
+{x
+'For those who seek out greed and misfortune, one only needs to say the words -'
+{x
+{x                  I shall betray my brothers in your name!
+~
+D3
+~
+~
+0 0 10641
+S
+#10650
+Entrance to the City of Klar~
+After crossing through a large, stone pillar, you are immediately confronted
+with a shabby, rundown building which looks like it has been in disrepair
+for a long time.  This building is only one of many in such condition as you
+peruse the city of Klar.  Once belonging to the artisans and smith's of
+Thorbardin before the Cataclysm, it was later given to the Klar, a clan of 
+hill dwarves trapped in the mountain and forced into servitude by the ruling
+classes.  The city has been in shambles ever since.
+~
+0 262156 1
+D0
+~
+~
+1 0 10651
+D1
+~
+~
+0 0 10652
+D2
+~
+~
+0 0 16410
+D3
+~
+~
+0 0 10654
+S
+#10651
+Chieftain’s House~
+Despite the low station of the Klar, they were allowed a chieftain in
+power, though having little actual influence.  Although this house seems in
+similar disarray as the rest in the city, it appears more lavish and eloquent.
+The place appears decorated with paintings and weapons, perhaps to keep
+memories alive of the glorious warriors these hill dwarves used to be.
+~
+0 262152 1
+D2
+~
+~
+1 0 10650
+D4
+~
+~
+0 0 10656
+S
+#10652
+A Small Park~
+This small, oblong area offers a slight reprieve from the bleak appearance of
+the rest of the city.  With several old statues standing in the center and
+many vendors setting up shops along the sides, this park offers a more 
+congenial space for people to come and rest.  Thanks to the age-old acoustics
+of the room's design, even the largest crowd's can function and hold their own
+conversations without noise pollution from other discussions.
+~
+0 262152 1
+D1
+~
+~
+0 0 10653
+D3
+~
+~
+0 0 10650
+S
+#10653
+Kronal Street~
+This street, which runs through the center of the city and connects the many
+different districts together, once housed the merchants and middle class
+citizens of the city.  Now, this dark, barren road only houses the families
+of the Klar.  Due to overcrowding and poor sanitation upkeep, the road has
+gone into major disrepair and is extremely dirty.  Many of the homes along
+this street, once the pride of dwarven architecture, sit crumbling and badly
+in need of repair.  To the east, a large building stands with many 
+well-armed soldiers moving in and out of.
+~
+0 262152 1
+D0
+~
+~
+0 0 10655
+D1
+~
+~
+0 0 10684
+D3
+~
+~
+0 0 10652
+S
+#10654
+Bend in the Road~
+This bend in the street happens on a rather busy corner, as you see several
+peddlers trying to sell their wares to passing travelers.  The residences
+appear rundown and dirty, just as the rest of the city.
+~
+0 262152 1
+D0
+~
+~
+0 0 10681
+D1
+~
+~
+0 0 10650
+S
+#10655
+Kronal Street~
+This street, which runs through the center of the city and connects the many
+different districts together, once housed the merchants and middle class 
+citizens of the city.  Now, this dark, barren road only houses the families
+of the Klar.  Due to overcrowding and poor sanitation upkeep, the road has
+gone into major disrepair and is extremely dirty.  Many of the homes along
+this street, once the pride of dwarven architecture, sit crumbling and badly
+in need of repair.
+~
+0 262152 1
+D0
+~
+~
+0 0 10682
+D1
+~
+~
+0 0 10657
+D2
+~
+~
+0 0 10653
+S
+#10656
+Personal Chambers~
+This room appears to be the sleeping chambers of the chieftain.  Similar
+in style to the rest of the house, this room is decorated in earthen wools
+and linens.  It also contains several well-kept weapons hanging from the walls
+~
+0 262152 1
+D5
+~
+~
+0 0 10651
+S
+#10657
+The Artisans' District~
+Once holding some of the greatest and most brilliant craftsmen on the face of
+pre-Cataclysm Krynn, this area appears as only a ragged shadow of its former
+self.  While some of the shops and buildings are still open, they are a far
+cry from the greater glory of long ago.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10658
+D3
+~
+~
+0 0 10655
+S
+#10658
+The Artisans' District~
+Once holding some of the greatest and most brilliant craftsmen on the face of
+pre-Cataclysm Krynn, this area appears as only a ragged shadow of its former
+self.  While some of the shops and buildings are still open, they are a far
+cry from the greater glory of long ago.  To the south, you see a rather
+shabby building with a considerable amount of noise coming from it.
+~
+0 262152 1
+D0
+~
+~
+0 0 10659
+D2
+~
+~
+0 0 10680
+D3
+~
+~
+0 0 10657
+S
+#10659
+The Artisans' District~
+Once holding some of the greatest and most brilliant craftsmen on the face of
+pre-Cataclysm Krynn, this area appears as only a ragged shadow of its former
+self.  While some of the shops and buildings are still open, they are a far
+cry from the greater glory of long ago.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10660
+D2
+~
+~
+0 0 10658
+S
+#10660
+The Artisans' District~
+Once holding some of the greatest and most brilliant craftsmen on the face of
+pre-Cataclysm Krynn, this area appears as only a ragged shadow of its former
+self.  While some of the shops and buildings are still open, they are a far
+cry from the greater glory of long ago.  To the north, you see one of the
+better-kept buildings in the city. To the east, you see a shop with many bottles
+lining the window ledge.
+~
+0 262152 1
+D0
+~
+~
+0 0 10672
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10659
+D3
+~
+~
+0 0 10661
+S
+#10661
+The Artisans' District~
+Once holding some of the greatest and most brilliant craftsmen on the face of
+pre-Cataclysm Krynn, this area appears as only a ragged shadow of its former
+self.  While some of the shops and buildings are still open, they are a far
+cry from the greater glory of long ago.  To the south, you see one of those
+buildings still open for business.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10663
+D1
+~
+~
+0 0 10660
+D2
+~
+~
+0 0 10667
+D3
+~
+~
+0 0 10683
+S
+#10662
+Training Center~
+Within the confines of this old shack, you see a small, open area used to 
+train the abilities of the young dwarves, hoping to someday prove themselves
+in battle.  Training equipment can be seen hanging from the walls and spread
+all along the floor.  Though the smell of sweat is strong in the room, a
+definite positive energy fills the air.
+~
+0 262152 1
+D3
+~
+~
+0 0 10676
+S
+#10663
+Thoras Street~
+Following along the northern side of the city, this street represents one of
+the more active areas within the city.  With many if its shops still open,
+quite a few dwarves of many clans can be seen wandering the street, shopping
+and discussing the latest gossip in the mountain.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10661
+D3
+~
+~
+0 0 10665
+S
+#10664
+Healer's Home~
+This small hut is home to one of the few healers in the city.  The room is
+lit only by candlelight, showing off a rather simple and homely dwelling.  
+Several bookcases can be seen holding an assortment of tomes on the history
+of Thorbardin and on curative medicine, as well as a small shrine to the
+goddess of healing, Mishakal.
+ 
+( * You may go DOWN to newbie school if your level 5 or below )
+~
+0 262152 0
+D3
+~
+~
+0 0 10675
+D5
+~
+~
+0 0 3700
+S
+#10665
+Intersection of Thoras and Kronal Street~
+Following along the northern side of the city, Thoras street is one of
+the more active areas within the city.  With many if its shops still open,
+quite a few dwarves of many clans can be seen wandering the street, shopping
+and discussing the latest gossip in the mountain.  To the north, you see
+a small shop with a sign above the door saying WEAPONS SHOP.
+To the south, you see Kronal Street, leading into the center of the city.
+~
+0 262152 1
+D0
+~
+~
+0 0 10666
+D1
+~
+~
+0 0 10663
+D2
+~
+~
+0 0 10683
+D3
+~
+~
+0 0 10668
+S
+#10666
+Weapons Shop~
+Upon entering the shop, you are blasted by a wave of heat from the hearth, as
+the blacksmith prepares to make his next weapon.  Looking around the small
+room, you see weapons of every conceivable shape and design, all made with
+dwarven pride and craftsmanship.
+~
+0 262152 1
+D2
+~
+~
+0 0 10665
+S
+#10667
+Equipment Shop~
+With the strong smell of tanned leather, you enter a rather dismal shop, 
+containing many different items and supplies for the needy traveler.  Although
+the shop and its furniture looked very worn and in bad condition, all of the
+items for sale look in the best quality.  A sign sits on the counter reading
+OUT FOR LUNCH.
+~
+0 262152 1
+D0
+~
+~
+0 0 10661
+S
+#10668
+Thoras Street~
+Following along the northern side of the city, this street represents one of
+the more active areas within the city.  With many if its shops still open,
+quite a few dwarves of many clans can be seen wandering the street, shopping
+and discussing the latest gossip in the mountain.  To the north, you
+see a small shop with a sign saying ARMOR SHOP above the door.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10671
+D1
+~
+~
+0 0 10665
+D3
+~
+~
+0 0 10669
+S
+#10669
+Thoras Street~
+Following along the northern side of the city, this street represents one of
+the more active areas within the city.  With many if its shops still open,
+quite a few dwarves of many clans can be seen wandering the street, shopping
+and discussing the latest gossip in the mountain.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10668
+D3
+~
+~
+0 0 10670
+S
+#10670
+Thoras Street ~
+Following along the northern side of the city, this street represents one of
+the more active areas within the city.  With many if its shops still open, 
+quite a few dwarves of many clans can be seen wandering the street, shopping 
+and discussing the latest gossip in the mountain.
+~
+0 262152 1
+D1
+~
+~
+0 0 10669
+D2
+~
+~
+0 0 10677
+S
+#10671
+Armor Shop~
+Upon entering this well-kept establishment, a blast of heat from the hearth
+blows across your face.  The ringing of hammers against red-hot metal can be
+heard as well, revealing a blacksmith training his apprentices how to work
+the metal.  The walls of the room are lined with armor of various quality and
+style, but all made with the same dwarven pride and care for detail.
+~
+0 262152 1
+D2
+~
+~
+0 0 10668
+S
+#10672
+Warriors' Guild~
+With a considerable amount of noise and activity, you enter the guild for
+warriors.  On one end of the building, you see a bar and food service, where
+quite a few dwarven warriors, young and old, are sitting around drinking, 
+eating, and telling of their exploits and legends of old.  On the other, you
+see a large, open area which bears a resemblance to a small arena.  Several
+warriors can be seen practicing their fighting skills and testing out different
+weapons.
+~
+0 262152 1
+D2
+~
+~
+0 0 10660
+S
+#10673
+The Brewmaster's Shop~
+With a variety of odors attacking your nostrils, you enter into the shop of
+the brewmaster, one of the most frequented shops in the city.  Aside from
+making some of the best spirits around, he is also a skilled herbalist, giving
+him a rather diverse clientele.  Other than small stove against the northern 
+wall, the entire room is lined with nothing but bottles of every shape and size,
+containing a wide variety of liquids.
+~
+0 262152 1
+D3
+~
+~
+0 0 10660
+S
+#10674
+Along the Docks~
+With the creaking of the old planks with every step you take, you look upon
+the old docks, where ships used to transport wares across the Urkhan Sea to
+other parts in Thorbardin.  Now, no ships can be seen on the water, though
+some wreckage and garbage can always be heard crashing up against the posts
+underneath you.  You also see old buildings lining the docks, long since
+abandoned and boarded up.
+~
+0 0 0
+D1
+~
+~
+0 0 10676
+D3
+~
+~
+0 0 10678
+S
+#10675
+Along the Docks~
+With the creaking of the old planks with every step you take, you look
+upon the old docks, where ships used to transport wares across the Urkhan
+Sea to other parts in Thorbardin.  Now, no ships can be seen on the water,
+though some wreckage and garbage can always be heard crashing up against the
+posts underneath you.  To the east lies a healing home, a house build to aid
+dwarves who have been injured.  It is open to everyone all hours of the day.
+Docks that is still open for business.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10664
+D2
+~
+~
+0 0 10676
+D3
+~
+~
+0 0 10677
+S
+#10676
+Along the Docks~
+With the creaking of the old planks with every step you take, you look upon
+the old docks, where ships used to transport wares across the Urkhan Sea to
+other parts in Thorbardin.  Now, no ships can be seen on the water, though
+some wreckage and garbage can always be heard crashing up against the posts
+underneath you.  To the east, you see an old shack with
+lots of noise coming from it.
+~
+0 262152 1
+D0
+~
+~
+0 0 10675
+D1
+~
+~
+0 0 10662
+D3
+~
+~
+0 0 10674
+S
+#10677
+Along the Docks~
+With the creaking of the old planks with every step you take, you look upon
+the old docks, where ships used to transport wares across the Urkhan Sea to
+other parts in Thorbardin.  Now, no ships can be seen on the water, though
+some wreckage and garbage can always be heard crashing up against the posts
+underneath you.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10670
+D1
+~
+~
+0 0 10675
+S
+#10678
+Along the Docks~
+With the creaking of the old planks with every step you take, you look upon
+the old docks, where ships used to transport wares across the Urkhan Sea to
+other parts in Thorbardin.  Now, no ships can be seen on the water, though
+some wreckage and garbage can always be heard crashing up against the posts
+underneath you.  You also see old buildings lining the docks, long since
+abandoned and boarded up.
+
+~
+0 262152 1
+D1
+~
+~
+0 0 10674
+D2
+~
+~
+0 0 10679
+S
+#10679
+Bend in the Road~
+This bend in the street takes you through the residential areas, showing you
+the wretched lifestyle that these once-proud hill dwarves are forced to endure
+from their rulers.  A strong mist can be felt coming from the north.
+~
+0 262152 1
+D0
+~
+~
+0 0 10678
+D1
+~
+~
+0 0 10681
+S
+#10680
+Barbarians' Guild~
+You enter the building and see everything you might expect: a very dirty
+building which smells almost as bad as a gully dwarf's bed.  From the strong
+scent of sweat and dirt, it is obvious that these dwarves haven't bathed in
+a very long time.  Every step you take makes you walk on either broken glass
+or some indistinguishable fluids.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10658
+S
+#10681
+Another Bend in the Road~
+Another turn in the street takes you through more of the residential areas.
+Young children can be seen playing in streets, as their mothers are walking
+around, doing chores and speaking with their neighbors.
+~
+0 262152 1
+D2
+~
+~
+0 0 10654
+D3
+~
+~
+0 0 10679
+S
+#10682
+Kronal Street~
+This street, which runs through the center of the city and connects the many
+different districts together, once housed the merchants and middle class
+citizens of the city.  Now, this dark, barren road only houses the families
+of the Klar.  Due to overcrowding and poor sanitation upkeep, the road has
+gone into major disrepair and is extremely dirty.  Many of the homes along
+this street, once the pride of dwarven architecture, sit crumbling and badly
+in need of repair.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10683
+D2
+~
+~
+0 0 10655
+S
+#10683
+Kronal Street~
+This street, which runs through the center of the city and connects the many
+different districts together, once housed the merchants and middle class
+citizens of the city.  Now, this dark, barren road only houses the families
+of the Klar.  Due to overcrowding and poor sanitation upkeep, the road has
+gone into major disrepair and is extremely dirty.  Many of the homes along
+this street, once the pride of dwarven architecture, sit crumbling and badly
+in need of repair.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10665
+D1
+~
+~
+0 0 10661
+D2
+~
+~
+0 0 10682
+S
+#10684
+The Guard Station ~
+This is the headquarters of the city guards.  Despite the disarray of the rest
+of the city, this building appears to be in a very neat and organized condition.
+Although the guard force is rather small, each of them appear to be veteran 
+fighters and are well prepared for any possible problem.
+~
+0 262152 1
+D3
+~
+~
+0 0 10653
+S
+#10685
+West entrance to Theiwar City~
+You appear to be standing inside the western entrance to the great city
+of Theiwar.  Although these caverns appear to be rather small in an ogre's
+eyes, they're very large for a dwarf to pass through.  Looking east, you
+realize that the cavernous road appears to all be the same, dark, damp and a
+wee bit small to crawl through.  Going west will bring you further into the
+depths of Theiwar city and heading west will bring you back out to a small
+trail outside of the city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10686
+D3
+~
+~
+0 0 16430
+S
+#10686
+Intersection of Thorer and Glum streets~
+Coming to an intersection in the streets, a quick decision as to which
+way to go would be nothing other than a wise decision.  Looking west lies
+the western gate leading out of this magical like city of Theiwar.  Heading
+north or south will continue your journey on Glume street, the street named
+after the Theiwar's second Chieftain.  Walking east will bring you down
+Thorer street, named after the great Thane of Thorbardin itself.  Looking
+around the walls, you realize you don't really even need a light source, as
+the walls appear to be emitting an eerie magical glow.  Quite odd for a
+dwarven tribe to be dabbling in the arcane art of Magic.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10695
+D1
+~
+~
+0 0 10687
+D2
+~
+~
+0 0 10694
+D3
+~
+~
+0 0 10685
+S
+#10687
+An Intersection on Glum Street~
+Here you stand looking around at four paths out of here.  The cavernous
+walls which surround you, provide no extra light, than what’s coming from the
+glowing moss growing on the walls.  Heading back west will take you towards
+the western entrance to Theiwar, whereas heading east will take you out
+towards the eastern entrance.  Looking south, there appears to be some sort
+of mystic drawings carved into the rock right above the entrance hold. 
+Looking north, a slight putrid smells comes from within.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10715
+D1
+~
+~
+0 0 10688
+D2
+~
+~
+0 0 10713
+D3
+~
+~
+0 0 10686
+S
+#10688
+An intersection in Glum street~
+Here, you stand looking around with four paths in which you may take.  A
+few pieces of glowing moss grow here and there on the smooth, obsidian
+walls.  They provide just enough light to make out where your going, as so
+you don't loose your footing, or worse, slip and fall on your head.  Looking
+east, you can make out the entrance hole to this magical city.  Looking in
+the other three directions, the paths appear to continue to other parts of
+the city.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10700
+D1
+~
+~
+0 0 10689
+D2
+~
+~
+0 0 10690
+D3
+~
+~
+0 0 10687
+S
+#10689
+Eastern entrance to Theiwar City~
+You are standing just inside the eastern entrance to Theiwar.  Although
+the entrance hole appears to be small, in an ogre's eyes, in these carved
+out caves, it's rather quite large for a dwarf to walk through.  Heading
+east will bring you back outside the city limits and into the darkness of a
+small cave trail which may or may not lead to other Dwarven Cities.  Heading
+west will bring you further into the depths of Theiwar.  
+~
+0 262152 1
+D1
+~
+~
+0 0 16411
+D3
+~
+~
+0 0 10688
+S
+#10690
+Down a cavernous street~
+You stumble down this cavernous path, with walls covered in a glowing
+moss, which appears to be the only source of light used by these dwarves to
+see where they're heading.  A slight smell of seawater fills your nostrils
+as you shift your nose to point in the southern direction.  Heading north
+will bring you into another part of this magical city.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10688
+D2
+~
+~
+0 0 10691
+S
+#10691
+Along the pier~
+You find yourself walking along some sort of make shift pier, built to
+hold back the deep, cold waters of the Urkhan Sea.  A slight cold mist of
+the, seemingly odd for being underground, rough Sea water can be felt
+hitting your face.  The Sea stretches off into the darkness to your south,
+as dark as the black moon Nuitari itself.  There appears to be only two
+directions in which you may travel.  Heading north will bring you deeper
+into the Theiwar city and heading west will take you along the wall of this
+strange pier.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10690
+D3
+~
+~
+0 0 10692
+S
+#10692
+Along the pier~
+You find yourself walking along some sort of make shift pier, built to
+hold back the deep, cold waters of the Urkhan Sea.  A slight cold mist of
+the, seemingly odd for being underground, rough Sea water can be felt
+hitting your face.  The Sea stretches off into the darkness to your south,
+as dark as the black moon Nuitari itself.  Looking around, you notice that
+you may only continue to walk along the wall of this pier, heading in an
+easterly or westerly direction.  There doesn't appear to be any way of
+getting down to the Sea's waters where you could eagerly travel across the
+Sea and find yourself in another city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10691
+D3
+~
+~
+0 0 10693
+S
+#10693
+Along the pier~
+You find yourself walking along some sort of make shift pier, built to
+hold back the deep, cold waters of the Urkhan Sea.  A slight cold mist of
+the, seemingly odd for being underground, rough Sea water can be felt
+hitting your face.  The Sea stretches off into the darkness to your south,
+as dark as the black moon Nuitari itself.  Traveling north will bring you
+back deeper into the city of Theiwar and heading east will take you further
+along the wall of this strange pier.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10694
+D1
+~
+~
+0 0 10692
+S
+#10694
+Along Glume street~
+You find yourself walking along a magically lit street, forged out of the
+cavernous rock of the Kharolis Mountain.  This street was named after the
+Theiwar's second Chieftain known better to all of Krynn as Glome the
+Assassin, for his evil deeds and poor leadership as a forger of ore.  No
+torches line the walls, only the mysterious moss which grows all about the
+place.  Moss glowing as bright as if a hundred candles had been lit and
+placed along the walls.  To the south, the distinct sound of water splashing
+up against something hard can be heard.  Perhaps it leads to the fabled
+Urkhan Sea.  Only way to find out would be to head in that direction, or
+head back north, deeper into the city.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10686
+D2
+~
+~
+0 0 10693
+S
+#10695
+Along Glume street~
+You find yourself walking along a lowly lit street.  Obviously this is
+a street which once used to be nothing more than solid rock, but the Theiwar
+Dwarves whom reside here, dug out a tunnel running through as a street.  A
+small sign on the wall, surrounded by a few poorly lit torches, reads 'Glume
+Street'.  The obvious ways out of here would be to head either north or
+south.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10696
+D2
+~
+~
+0 0 10686
+S
+#10696
+Along Glume street~
+A few torches line the walls of this cavernous street, lighting up your
+way just enough to make out which direction you’re heading in.  Peering to the
+east, there appears to be some sort of doorway, an open doorway with no
+doors or anything of the sort to keep out anyone.  A small sign hangs over
+the top of the entrance.  Perhaps a closer look will give you some clue as
+to what resides through there.  Heading north or south will, obviously,
+continue your journey down this street.  
+~
+0 262152 1
+E
+sign~
+Turor's Store of magical incantations and items of the like!
+~
+D0
+~
+~
+0 0 10697
+D1
+~
+~
+0 0 10712
+D2
+~
+~
+0 0 10695
+S
+#10697
+At a corner in the streets~
+You have approached a corner in these cavernous streets.  Only a few
+small pieces of glowing moss grows here, barely giving off enough light for
+you to make your way around, without bumping into the smooth walls.  The
+walls, smooth as a baby's behind, but fairly small, as it would seem that
+these caves were only built for the passage of Dwarves.  Heading south will
+bring you down Glume street and heading east will continue your journey
+further down into another street.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10698
+D2
+~
+~
+0 0 10696
+S
+#10698
+Down a cavernous street~
+Walking this smooth cavernous street makes you feel more like your
+walking among a holy place.  The entire area having been well carved and
+polished, giving the walls a very smooth texture and look to them.  Almost
+smooth enough to see your own reflection in them, the lack of light prevents
+it from becoming a reality.  There appears to be a very limited amount of
+light, with only a few small patches of glowing moss growing here and there.
+Not even your own source of light could cut through the dank darkness in
+these caverns.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10699
+D3
+~
+~
+0 0 10697
+S
+#10699
+At an intersection in Theiwar~
+You find yourself standing at what appears to be an intersection in these
+cavernous tunnel streets.  The walls have been cut and polished, giving it a
+smooth texture, making it safe from impaling yourself on a sharp rock if you
+accidentally stumbled into the walls, or on the floor.  Heading south will
+bring you down into a more well lit area of Theiwar, whereas going east or
+west, only brings you down to poorly lit areas of this Dwarven city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10710
+D2
+~
+~
+0 0 10702
+D3
+~
+~
+0 0 10698
+S
+#10700
+An intersection in the cavernous streets~
+Here, along the thick patches of glowing moss which light up the room,
+you find yourself standing at an intersection, with the street not only
+continuing north and south, but also heading off in an easterly direction. 
+The walls appear to have been carved with perfection.  Smooth to the touch
+and glass-like in appearance, Reorx himself couldn't have done a better job.
+~
+0 262152 1
+D0
+~
+~
+0 0 10701
+D1
+~
+~
+0 0 10703
+D2
+~
+~
+0 0 10688
+S
+#10701
+Along a cavernous street~
+Here you find yourself standing in the middle of a cave street.  The
+walls, like the rest of this beautiful, obsidian city, are covered in a
+glowing moss.  The moss doesn't appear to be harmful in any way.  The light
+radiating off its furry cover, sheds just enough to help you find your way
+through to other parts of this city.  A small alcove has been carved out of
+the east wall.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10702
+D1
+~
+~
+0 0 10719
+D2
+~
+~
+0 0 10700
+S
+#10702
+Along a cavernous street~
+Smooth obsidian walls surround you in this cavernous street.  Spotted
+with small clumps of glowing moss, enough light shines here to give you a
+good sense of direction.  Heading north and south will bring you into other
+parts of this dwarven city.  Directly to your west, lies a small door
+opening.  There doesn't appear to be any sights or sounds coming from
+with-in, nor does any distinct odors fill your nostrils.  Hanging over the
+door is a small sign, just barely large enough to make out, perhaps you
+better get closer to get a more accurate look.  
+~
+0 262152 1
+E
+sign~
+' Trummle's Light Shop '
+~
+E
+west~
+' Trummle's Light Shop '
+~
+D0
+~
+~
+0 0 10699
+D2
+~
+~
+0 0 10701
+D3
+~
+~
+0 0 10711
+S
+#10703
+Along a cavernous street~
+Here you find yourself standing in the middle of a cave street.  The
+walls, like the rest of this beautiful, obsidian city, are covered in a
+glowing moss.  The moss doesn't appear to be harmful in any way.  The light
+radiating off its furry cover, sheds just enough to help you find your way
+through to other parts of this city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10704
+D3
+~
+~
+0 0 10700
+S
+#10704
+Along a cavernous street~
+Here you find yourself standing in the middle of a cave street.  The
+walls, like the rest of this beautiful, obsidian city, are covered in a
+glowing moss.  The moss doesn't appear to be harmful in any way.  The light
+radiating off its furry cover, sheds just enough to help you find your way
+through to other parts of this city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10705
+D3
+~
+~
+0 0 10703
+S
+#10705
+A corner in the eastern wall~
+You find yourself at a corner in these poorly lit caves of Theiwar,
+standing next to the eastern wall which surrounds and protects this small
+dwarven city from any on-coming attacks any outsider might try to provoke in
+order to take over the beautiful Thorbardin.  A few patches of glowing moss
+grow here and there, giving you just enough light to make out the direction
+in which you need to travel in to continue on your journey.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10706
+D3
+~
+~
+0 0 10704
+S
+#10706
+Eastern wall of Theiwar~
+You find yourself walking along the poorly lit caves of Theiwar, standing
+next to the eastern wall which surrounds and protects this small dwarven
+city from any on-coming attacks any outsider might try to provoke in order
+to take over the beautiful Thorbardin.  A few patches of glowing moss grow
+here and there, giving you just enough light to make out the direction in
+which you need to travel in to continue on your journey.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10707
+D2
+~
+~
+0 0 10705
+S
+#10707
+Eastern wall of Theiwar~
+You find yourself walking along the poorly lit caves of Theiwar, standing
+next to the eastern wall which surrounds and protects this small dwarven
+city from any on-coming attacks any outsider might try to provoke in order
+to take over the beautiful Thorbardin.  A few patches of glowing moss grow
+here and there, giving you just enough light to make out the direction in
+which you need to travel in to continue on your journey.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10708
+D2
+~
+~
+0 0 10706
+S
+#10708
+To the Secret Tunnel~
+Standing at a corner in the north eastern wall of Theiwar, you notice a
+small hole has been dug out, barely large enough for a dwarf to squeeze on
+through.  It appears to lead out into some sort of secret tunnel, however,
+the torches which hang on these walls do not shine bright enough to allow
+it's light to go through the hole to give you a better look.  The dark walls
+of Theiwar continue on, leading around to the south and to the west.  
+~
+0 262152 1
+D0
+~
+~
+1 0 16233
+D2
+~
+~
+0 0 10707
+D3
+~
+~
+0 0 10709
+S
+#10709
+Along a cavernous street~
+Here you find yourself standing in the middle of a cave street.  The
+walls, like the rest of this beautiful, obsidian city, are covered in a
+glowing moss.  The moss doesn't appear to be harmful in any way.  The light
+radiating off its furry cover, sheds just enough to help you find your way
+through to other parts of this city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10708
+D3
+~
+~
+0 0 10710
+S
+#10710
+Along a cavernous street~
+Here you find yourself standing in the middle of a cave street.  The
+walls, like the rest of this beautiful, obsidian city, are covered in a
+glowing moss.  The moss doesn't appear to be harmful in any way.  The light
+radiating off its furry cover, sheds just enough to help you find your way
+through to other parts of this city.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10709
+D3
+~
+~
+0 0 10699
+S
+#10711
+Trummel's Light Shop~
+Here, surrounding you in this fairly large room, are hundreds upon
+hundreds of staffs, lanterns and about anything else imaginable that
+provides sources of light.  Standing behind a small desk in the back corner
+of the room, is a short, old dwarf.  He appears to be open for business,
+which is a good thing because you get the feeling that dwarves, not needing
+much of a light source to see their way around the darkness, don't keep many
+torches in their streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10702
+S
+#10712
+Turor's Shop of Magi~
+Walking into this small, damp room, the smell of roses, spices and a
+scent of something so familiar yet indescribable fills your nostrils.  Them
+room's entire ceiling appears to be covered entirely with a green, glowing
+moss, emanating the room with a strange light.  Although rather odd, it
+still gives off a good amount of light to give you a better look around at
+your surroundings.  Skulls of all sizes, rings, just about anything which
+could contain a magical power seems to be scattered about the room in a neat
+and orderly fashion.  Seemingly floating in mid air, a small dwarf stands
+behind a desk in the back of the room, looking you up and down.  
+~
+0 262152 1
+D3
+~
+~
+0 0 10696
+S
+#10713
+Down a Mystic street~
+As you enter this first room, there appear to be many of magical
+carvings.  Carvings of letters, numbers and pictures.  Perhaps what lies
+south will give you an answer as to why there are any carvings at all like
+this on the walls.  Extremely odd for a dwarf to carve into his beautiful
+rock creation, let alone carve anything having to do with magic.  On the
+ground, right before your feet near the southern entrance, is a large
+pentagram with a circle running all the way around it.  Could it really be? 
+Do dwarves actually dabble in magic?  
+~
+0 262152 1
+D0
+~
+~
+0 0 10687
+D2
+~
+~
+0 0 10714
+S
+#10714
+Dwarven Mage Guild~
+Mystic runes have been etched into these cavernous, smooth obsidian
+walls.  There doesn't appear to be any furniture lying around for you to
+kick back and rest your tootsies on.  However, towards the back of this
+poorly lit room stands a small dwarf.  Clad in black robes, with his head
+looking down, he is intently studying a spellbook.  His hood has been pulled
+over to conceal his face, requiring you to step closer than you'd care to,
+to get a good look.  With the glowing moss growing all over the place, a
+source of light seems almost out of place.  Perhaps this would be a good
+place for you to break out your spellbook and start practicing 
+~
+0 262152 1
+D0
+~
+~
+0 0 10713
+S
+#10715
+Down a short hallway~
+You appear to be walking down some sort of wicked looking hallway.  What
+makes this place different from the rest of the city is that, here, the moss
+which grows to provide an adequate amount of light here, appears to be
+growing in perfect squares.  As if someone comes out all the time to tend to
+it as one would with a garden, these patches of moss remind you of the way a
+quilt pattern appears.  Heading south will bring you back out into the
+streets of Theiwar and heading north will bring you further into this,
+fortress like place.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10716
+D2
+~
+~
+0 0 10687
+S
+#10716
+Theiwar Throne room~
+It seems like you have made your way into the throne room of the Theiwar
+City.  Towards the back of the room sits a fairly large, wooden chair. 
+Carved out of the finest wood and done only by dwarves, the chair in itself
+is a beauty to look at.  A marvel which could be considered to be one of the
+great wonders of the world.  Although there doesn't appear to be anyone
+occupying it at the moment, hopping right in would probably be a bad idea,
+especially if one of the guards came back and caught you.  To your east and
+west, are two small entrances to some sort of sub-chamber.  Perhaps none of
+the Theiwar dwarves would be angry if you just peeked in to take a quick
+glance.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10717
+D2
+~
+~
+0 0 10715
+D3
+~
+~
+0 0 10718
+S
+#10717
+Eastern sub-chamber~
+You walk into this sub-chamber and find it to be almost the same as the
+rest of the city.  A few patches of glowing moss and smooth obsidian walls
+are about the only things which surround you.  There doesn't appear to be
+anything else that would strike up your curiosity.  Perhaps it would be
+best to get out before one of the guards comes back and catches you snooping
+around.  
+~
+0 262152 1
+D3
+~
+~
+0 0 10716
+S
+#10718
+Western sub-chamber~
+You walk into this sub-chamber and find it to be almost the same as the
+rest of the city.  A few patches of glowing moss and smooth obsidian walls
+are about the only things which surround you.  There doesn't appear to be
+anything else that would strike up your curiosity.  Perhaps it would be
+best to get out before one of the guards comes back and catches you snooping
+around.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10716
+S
+#10719
+Shrine of the Black Moon~
+This recessed alcove hums with magical energy.  An obsidian altar
+polished to a mirror shine sits here, its smooth surface engraved with a
+simple circle.  Figures of all sizes in robes the color of midnight stop
+occasionally to leave offerings in daily devotion to Nuitari, the Dark Son. 
+~
+0 8388617 46
+D3
+~
+~
+0 0 10701
+S
+#10720
+Northern entrance into Daewar~
+You find yourself standing just inside the northern entrance into Daewar,
+the city of wealth and merchandising.  The walls which currently surround
+you, have been expertly carved out, embossed with gold plating and inlaid
+with beautiful and rare jewels.  Heading north will bring you back out into
+the darkness of the caves which lead their way through this vast Mountain. 
+Heading south will bring you deeper into this well design city.  
+~
+0 262152 5
+D0
+~
+~
+0 0 16406
+D2
+~
+~
+0 0 10721
+S
+#10721
+A circular street~
+As if Reorx himself forged this city, these walls which surround you here
+form a perfect circle.  A few well placed diamonds have been set into the
+golden foil which covers the dull obsidian walls.  Just the right amount of
+torches has been placed in this particular place to give off the right
+amount of light.  There are four open holes in which you may travel upon to
+get to other parts of the city.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10720
+D1
+~
+~
+0 0 10742
+D2
+~
+~
+0 0 10722
+D3
+~
+~
+0 0 10737
+S
+#10722
+Archaic street~
+Smooth walls forged with gold plating give an awe striking appearance. 
+Well known for their expertise in architectural designs and brilliant forging
+with metals, the Daewar strived to make these cavernous streets something to
+look at and admire.  Archaic writings of past times have been etched into
+the walls, a history of Thorbardin and all the Dwarven clans whom reside
+down here.  Torches, placed in a neat and orderly fashion upon the walls,
+have been set in large, ornate holders made from black sapphire, a rare and
+expensive ore.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10721
+D2
+~
+~
+0 0 10723
+S
+#10723
+A triangular intersection~
+Intricately carved walls form the shape of a triangle, with the ceiling
+being its pointy peak.  A few well placed diamonds have been set into the
+golden foil which covers the dull obsidian walls.  Just the right amount of
+torches has been placed in this particular place to give off the right
+amount of light.  The light reflects off the diamonds, making it appear as
+if you are in one large diamond yourself when you move around, even just
+slightly. A large hole with a ladder leading down lies in the center of the room.
+The hole leads down into the Forge, a Dwarven Clan Hall where many master
+artworks are invented and created.
+ 
+{x     A large sign has been posted on the southern wall.
+~
+0 262152 5
+E
+sign~
+{x         '--------------\
+{x         '    Welcome   '>
+{x         |              '>
+{x         '    to  the   '>
+{x         '              '>
+{x         '   F O R G E  '>
+{x         '..............:>
+{x         ````   ''
+{x                ''>
+{x                ''>
+{x                ''>
+{x                -'
+~
+D0
+~
+~
+0 0 10722
+D1
+~
+~
+0 0 10744
+D2
+~
+~
+0 0 10724
+D3
+~
+~
+0 0 10743
+D5
+~
+~
+0 0 410
+S
+#10724
+Archaic street~
+Smooth walls forged with gold plating give an awe striking appearance. 
+Well known for their expertise in architectural designs and brilliant forging
+with metals, the Daewar strived to make these cavernous streets something to
+look at and admire.  Archaic writings of past times have been etched into
+the walls, a history of Thorbardin and all the Dwarven clans whom reside
+down here.  Torches, placed in a neat and orderly fashion upon the walls,
+have been set in large, ornate holders made from black sapphire, a rare and
+expensive ore.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10723
+D2
+~
+~
+0 0 10725
+S
+#10725
+A rectangular intersection~
+Intricately carved walls form the shape of a rectangle, with the ceiling
+seeming to reach up all the way to the top of the mountain.  The walls,
+although in true form are nothing but simple black obsidian rock, seemed to
+have been carved perfectly, leaving them smooth to the touch and lustrous
+to the eye.  A few well-placed jewels have been set in, making it appear to
+be some sort of large treasure chest, rather than a normal intersection in a
+cavernous street.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10724
+D1
+~
+~
+0 0 10727
+D2
+~
+~
+0 0 10726
+D3
+~
+~
+0 0 10730
+S
+#10726
+Southern entrance into Daewar~
+You find yourself standing just inside the southern entrance into Daewar,
+the city of wealth and merchandising.  The walls surrounding you now have
+been expertly carved out, with jewels and gold plating forged in.  The
+excitement of what kind of creations and forging the Daewar Dwarves have
+done to their tribal city is almost too much to bear.  Heading south will
+bring you back out into the darkness of the caves which snake their way
+through this mountain.  Heading north will bring you further into this well
+designed and forged city.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10725
+D2
+~
+~
+0 0 16405
+S
+#10727
+Tall and narrow street~
+Hardly wide enough to squeeze a kender through, the walls down this
+cavernous street seem to hug you as you continue to your walk.  Although it
+is oddly narrow, even for a dwarf, the ceiling is fairly tall, as if
+stretching up towards the top of the mountain.  The smooth, glass like
+obsidian walls make it easier to slip right through without too much
+trouble.  Long gold chains hang down from the ceiling, with crystal
+chandeliers attached to the bottoms of them, giving off a brilliant amount
+of light.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10728
+D3
+~
+~
+0 0 10725
+S
+#10728
+Tall and narrow street~
+Hardly wide enough to squeeze a kender through, the walls down this
+cavernous street seem to hug you as you continue to your walk.  Although it
+is oddly narrow, even for a dwarf, the ceiling is fairly tall, as if
+stretching up towards the top of the mountain.  The smooth, glass like
+obsidian walls make it easier to slip right through without too much
+trouble.  Long gold chains hang down from the ceiling, with crystal
+chandeliers attached to the bottoms of them, giving off a brilliant amount
+of light.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10729
+D3
+~
+~
+0 0 10727
+S
+#10729
+Corner in Daewar way~
+Rounding this corner in these cavernous streets gives you an insight as
+to how well these Daewar Dwarves do business.  The walls have been perfectly
+forged from the black opal which makes up this part of the Mountain. 
+Polished to give it a smooth finish, the torches which have been well placed
+reflect a brilliant shine off of them, making it fairly easy for you to see
+your own reflection as if looking into a mirror.  The corner bends around,
+continuing west down a narrow street and north up the infamous Daewar Way.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10738
+D3
+~
+~
+0 0 10728
+S
+#10730
+Tall and narrow street~
+Hardly wide enough to squeeze a kender through, the walls down this
+cavernous street seem to hug you as you continue to your walk.  Although it
+is oddly narrow, even for a dwarf, the ceiling is fairly tall, as if
+stretching up towards the top of the mountain.  The smooth, glass like
+obsidian walls make it easier to slip right through without too much
+trouble.  Long gold chains hang down from the ceiling, with crystal
+chandeliers attached to the bottoms of them, giving off a brilliant amount
+of light.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10725
+D3
+~
+~
+0 0 10731
+S
+#10731
+Tall and narrow street~
+Hardly wide enough to squeeze a kender through, the walls down this
+cavernous street seem to hug you as you continue to your walk.  Although it
+is oddly narrow, even for a dwarf, the ceiling is fairly tall, as if
+stretching up towards the top of the mountain.  The smooth, glass like
+obsidian walls make it easier to slip right through without too much
+trouble.  Long gold chains hang down from the ceiling, with crystal
+chandeliers attached to the bottoms of them, giving off a brilliant amount
+of light.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10730
+D3
+~
+~
+0 0 10732
+S
+#10732
+At the corner of a pier~
+You find yourself rounding a corner, where heading north will take you
+along a pier along the Urkhan Sea, and heading east will take you to other
+parts of Daewar city.  The smell of salt water overwhelms your senses as you
+find yourself standing next to the Urkhan Sea.  However, the slight breeze
+which usually comes with an ocean of any size, does not seem to come,
+instead, only the salty scent reaches you.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10733
+D1
+~
+~
+0 0 10731
+S
+#10733
+Along a lustrous pier~
+You find yourself standing along a very high pier.  Looking down over
+the edge, it appears to be a high enough drop to kill a person if they
+should fall.  The ground, as well as the wall opposite of the Urkhan Sea,
+has a lustrous brilliance to them, as if forged from black opal.  The pier
+continues to the north and south, the smell of salt lingering in the air.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10734
+D2
+~
+~
+0 0 10732
+S
+#10734
+Along a lustrous pier~
+You find yourself standing along a very high pier.  Looking down over the
+edge, it appears to be a high enough drop to kill a person if they should
+fall.  The ground, as well as the wall opposite of the Urkhan Sea, has a
+lustrous brilliance to them, as if forged from black opal.  The pier
+continues to the north and south, the smell of salt lingering in the air.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10735
+D2
+~
+~
+0 0 10733
+S
+#10735
+At the corner of a pier~
+You round a corner in the street, where heading south will take you along
+the pier and heading east will take you further into other parts of the
+city.  The smell of salt water overwhelms your senses as you find yourself
+standing next to the Urkhan Sea.  However, the slight breeze which usually
+comes with an ocean of any size, does not seem to come, instead, only the
+salty scent reaches you.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10736
+D2
+~
+~
+0 0 10734
+S
+#10736
+Down a wide street~
+The black opal walls appear to be much wider down this cavernous street
+than most others you've walked upon.  Although now you have much more
+breathing room, almost enough for two minotaur to walk along here side by
+side, the ceiling is almost painfully low.  Where it would be a perfect
+height for a dwarf, it would force anyone taller to hunch over to get
+through without bumping their head.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10737
+D3
+~
+~
+0 0 10735
+S
+#10737
+Down a wide street~
+The black opal walls appear to be much wider down this cavernous street
+than most others you've walked upon.  Although now you have much more
+breathing room, almost enough for two minotaur to walk along here side by
+side, the ceiling is almost painfully low.  Where it would be a perfect
+height for a dwarf, it would force anyone taller to hunch over to get
+through without bumping their head.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10721
+D3
+~
+~
+0 0 10736
+S
+#10738
+Daewar way~
+Here you find yourself standing on one of the most well forged streets in
+all of Thorbardin.  The Daewar Dwarves appear to have put their heart and
+soul in their work when they were digging out this street.  Intricately
+carved statues of Dragons, protrude half way out of the glossy, obsidian
+walls, a third dimensional look, giving the appearance that they are trying
+to reach out and grab a hold of you.  The details in which they have, must
+have taken weeks, if not months to complete.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10739
+D2
+~
+~
+0 0 10729
+S
+#10739
+Daewar way~
+Here you find yourself standing on one of the most well forged streets in
+all of Thorbardin.  The Daewar Dwarves appear to have put their heart and
+soul in their work when they were digging out this street.  Intricately
+carved statues of Dragons, protrude half way out of the glossy, obsidian
+walls, a third dimensional look, giving the appearance that they are trying
+to reach out and grab a hold of you.  The details in which they have, must
+have taken weeks, if not months to complete.  
+~
+0 262152 5
+D0
+~
+~
+0 0 10740
+D2
+~
+~
+0 0 10738
+S
+#10740
+A well constructed corner~
+Rounding this corner in these cavernous streets gives you an insight as
+to how well these Daewar Dwarves do business.  The walls have been perfectly
+forged from the black opal which makes up this part of the Mountain. 
+Polished to give it a smooth finish, the torches which have been well placed
+reflect a brilliant shine off of them, making it fairly easy for you to see
+your own reflection as if looking into a mirror.  The corner continues west
+down a widened street and south down the infamous Daewar Way.  
+~
+0 262152 5
+D2
+~
+~
+0 0 10739
+D3
+~
+~
+0 0 10741
+S
+#10741
+Down a wide street~
+The black opal walls appear to be much wider down this cavernous street
+than most others you've walked upon.  Although now you have much more
+breathing room, almost enough for two minotaur to walk along here side by
+side, the ceiling is almost painfully low.  Where it would be a perfect
+height for a dwarf, it would force anyone taller to hunch over to get
+through without bumping their head.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10740
+D3
+~
+~
+0 0 10742
+S
+#10742
+Down a wide street~
+The black opal walls appear to be much wider down this cavernous street
+than most others you've walked upon.  Although now you have much more
+breathing room, almost enough for two minotaur to walk along here side by
+side, the ceiling is almost painfully low.  Where it would be a perfect
+height for a dwarf, it would force anyone taller to hunch over to get
+through without bumping their head.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10741
+D3
+~
+~
+0 0 10721
+S
+#10743
+Gold Molder Bank~
+Here you find yourself surrounded by large piles of gold.  Sitting right
+in the center of the room is a well dressed dwarf, counting every piece one
+by one.  Whereas it would appear that anyone interested in robbing this
+place wouldn't have any trouble at all.  However, as you try to get one of
+your greedy hands on some of the gold from the pile nearest to you, you
+suddenly feel a tingling sensation, unable to get any closer than a two
+finger width's away.  This is Thorbardin's great bank, the one and only
+place all dwarves residing down here trust to keep their life savings. 
+~
+0 1310728 5
+D1
+~
+~
+0 0 10723
+S
+#10744
+The Architectural Shoppe~
+You have walked into a small little shop, run by an old Dwarf standing
+behind a counter in the back of the room.  The room has been forged into a
+perfect cylindrical shape, with jewels encrusted into random spots to give
+it a spectacular, wealthy look.  Behind the Dwarf is a large display case,
+with all sorts of tools used to forge weapons, armor and other miscellaneous
+furnishings.  Perhaps, even some of them could be used for battle.  
+~
+0 262152 5
+D3
+~
+~
+0 0 10723
+S
+#10755
+Entrance to the Aghar city~
+You stand before the opening of a long, dark tunnel.  Because the tunnel has
+no light source, you cannot tell if this portal has an end or even opens into
+anywhere.  The only thing you notice is the strong stench of a large amount
+of garbage, and the occasional scurrying about of some animal.
+~
+0 13 1
+D0
+~
+~
+0 0 10756
+D1
+~
+~
+0 0 16236
+S
+#10756
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  
+~
+0 9 1
+D0
+~
+~
+0 0 10762
+D2
+~
+~
+0 0 10755
+D3
+~
+~
+0 0 10757
+S
+#10757
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+~
+0 9 1
+D1
+~
+~
+0 0 10756
+D3
+~
+~
+0 0 10758
+S
+#10758
+Entrance to Aghar City~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also feel a strong breeze coming from the north, giving the 
+impression of an open area.
+~
+0 9 1
+D0
+~
+~
+0 0 10760
+D1
+~
+~
+0 0 10757
+D2
+~
+~
+0 0 16237
+D3
+~
+~
+0 0 10787
+S
+#10759
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+~
+0 9 1
+D0
+~
+~
+0 0 10766
+D2
+~
+~
+0 0 10787
+S
+#10760
+Mounds of Garbage~
+You stumble out of the tunnels and find yourself in a large area filled
+with waste of every kind.  This area appears to be a large garbage refuse
+used to house the waste from all over Thorbardin.  Although the stench is
+excruciating, you are able to catch some breaths of fresh air from the
+natural air ducts above you.  Strangely, you also get the feeling of
+something moving in the trash piles under your feet...   
+~
+0 9 1
+D1
+~
+~
+0 0 10761
+D2
+~
+~
+0 0 10758
+S
+#10761
+Mounds of Garbage~
+You stumble out of the tunnels and find yourself in a large area filled
+with waste of every kind.  This area appears to be a large garbage refuse
+used to house the waste from all over Thorbardin.  Although the stench is
+excruciating, you are able to catch some breaths of fresh air from the
+natural air ducts above you.  Strangely, you also get the feeling of
+something moving in the trash piles under your feet...  
+~
+0 9 1
+D0
+~
+~
+0 0 10764
+D3
+~
+~
+0 0 10760
+S
+#10762
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+~
+0 9 1
+D0
+~
+~
+0 0 10763
+D2
+~
+~
+0 0 10756
+S
+#10763
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+
+~
+0 9 1
+D2
+~
+~
+0 0 10762
+D3
+~
+~
+0 0 10764
+S
+#10764
+Northern Entrance into Aghar~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You feel a strong gust of wind coming from south, as if from a
+large opening.  
+~
+0 9 1
+D0
+~
+~
+0 0 16402
+D1
+~
+~
+0 0 10763
+D2
+~
+~
+0 0 10761
+D3
+~
+~
+0 0 10765
+S
+#10765
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+~
+0 9 1
+D1
+~
+~
+0 0 10764
+D3
+~
+~
+0 0 10766
+S
+#10766
+An intersection in the tunnels~
+You come upon an intersection in the tunnels, spanning out in all
+directions.  While you still recognize the same distinct stench from the
+rest of the tunnels, there appears to be a lot more noise coming from the
+north and west.  
+~
+0 9 1
+D0
+~
+~
+0 0 10771
+D1
+~
+~
+0 0 10765
+D2
+~
+~
+0 0 10759
+D3
+~
+~
+0 0 10767
+S
+#10767
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.  
+~
+0 9 1
+D1
+~
+~
+0 0 10766
+D3
+~
+~
+0 0 10768
+S
+#10768
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D0
+~
+~
+0 0 10769
+D1
+~
+~
+0 0 10767
+S
+#10769
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D0
+~
+~
+0 0 10777
+D2
+~
+~
+0 0 10768
+S
+#10770
+Mounds of Garbage~
+You stumble out of the tunnels and find yourself in a large area filled
+with waste of every kind.  This area appears to be a large garbage refuse
+used to house the waste from all over Thorbardin.  Although the stench is
+excruciating, you are able to catch some breaths of fresh air from the
+natural air ducts above you.  Strangely, you also get the feeling of
+something moving in the trash piles under your feet...   
+~
+0 9 1
+D0
+~
+~
+0 0 10776
+D1
+~
+~
+0 0 10771
+S
+#10771
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.  You see a small, warped door to the east.  
+~
+0 9 1
+D0
+~
+~
+0 0 10775
+D1
+~
+~
+1 0 10772
+D2
+~
+~
+0 0 10766
+D3
+~
+~
+0 0 10770
+S
+#10772
+A Dirty Hallway~
+You appear to be inside the remains of an old, wrecked building, long
+forgotten by most of the inhabitants in Thorbardin.  With garbage and rubble
+spread across the floor, this structure resembles the rest of the city, and
+certainly caters to its citizens.  Some rummaging around can be heard to the
+east.  
+~
+0 9 1
+D0
+~
+~
+0 0 10774
+D1
+~
+~
+0 0 10773
+D3
+~
+~
+1 0 10771
+S
+#10773
+Audience Room~
+The hallway widens into a large, open chamber.  Although free from most
+of the debris in the hallway, all the walls and floor are covered in garbage
+of every conceivable substance, piled here like treasure mounds.  Through
+the almost unbearable stench, you recognize this to be a make-shift throne
+room.  However, you find it tough to imagine what kind of ruler would occupy
+this place.  
+~
+0 9 1
+D3
+~
+~
+0 0 10772
+S
+#10774
+A Dirty Hallway~
+You appear to be inside the remains of an old, wrecked building, long
+forgotten by most of the inhabitants in Thorbardin.  With garbage and rubble
+spread across the floor, this structure resembles the rest of the city, and
+certainly caters to its citizens.  
+~
+0 9 1
+D0
+~
+~
+0 0 10784
+D2
+~
+~
+0 0 10772
+S
+#10775
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D0
+~
+~
+0 0 10783
+D2
+~
+~
+0 0 10771
+S
+#10776
+Mounds of Garbage~
+You stumble out of the tunnels and find yourself in a large area filled
+with waste of every kind.  This area appears to be a large garbage refuse
+used to house the waste from all over Thorbardin.  Although the stench is
+excruciating, you are able to catch some breaths of fresh air from the
+natural air ducts above you.  Strangely, you also get the feeling of
+something moving in the trash piles under your feet...   
+~
+0 9 1
+D2
+~
+~
+0 0 10770
+D3
+~
+~
+0 0 10777
+S
+#10777
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D0
+~
+~
+0 0 10781
+D1
+~
+~
+0 0 10776
+D2
+~
+~
+0 0 10769
+D3
+~
+~
+0 0 10778
+S
+#10778
+On the Shore of the Urkhan Sea~
+Finally breaking out of the tunnels, you find yourself on the shore of
+Urkhan.  Heavily polluted and discolored, the waters here are feeling the
+effects of years of dumping.  There are also several ships wrecked along the
+coast, severely damaged by the garbage floating around.  
+~
+0 9 1
+D0
+~
+~
+0 0 10780
+D1
+~
+~
+0 0 10777
+D3
+~
+~
+0 0 10779
+S
+#10779
+On the Shore of the Urkhan Sea~
+Finally breaking out of the tunnels, you find yourself on the shore of
+Urkhan.  Heavily polluted and discolored, the waters here are feeling the
+effects of years of dumping.  There are also several ships wrecked along the
+coast, severely damaged by the garbage floating around.   
+~
+0 9 1
+D1
+~
+~
+0 0 10778
+S
+#10780
+On the Shore of the Urkhan Sea~
+Finally breaking out of the tunnels, you find yourself on the shore of
+Urkhan.  Heavily polluted and discolored, the waters here are feeling the
+effects of years of dumping.  There are also several ships wrecked along the
+coast, severely damaged by the garbage floating around.   
+~
+0 9 1
+D1
+~
+~
+0 0 10781
+D2
+~
+~
+0 0 10778
+S
+#10781
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+
+~
+0 9 1
+D1
+~
+~
+0 0 10782
+D2
+~
+~
+0 0 10777
+D3
+~
+~
+0 0 10780
+S
+#10782
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D1
+~
+~
+0 0 10783
+D3
+~
+~
+0 0 10781
+S
+#10783
+The Living Tunnels~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.  You also see large holes dug out of the sides of the tunnels,
+which appear to be small living spaces for the aghar who live here.  Most
+are uninhabited at the moment, but filled with a wide assortment of garbage
+which must be "useful" to them.   
+~
+0 9 1
+D2
+~
+~
+0 0 10775
+D3
+~
+~
+0 0 10782
+S
+#10784
+A Dirty Hallway~
+You appear to be inside the remains of an old, wrecked building, long
+forgotten by most of the inhabitants in Thorbardin.  With garbage and rubble
+spread across the floor, this structure resembles the rest of the city, and
+certainly caters to its citizens.  
+~
+0 9 1
+D2
+~
+~
+0 0 10774
+D5
+~
+hatch~
+1 10784 10785
+S
+#10785
+The Crypt~
+Clearing away the dust and cobwebs from your face, you find yourself in the
+remains of an old tomb, obviously constructed for some great dwarf of old.
+Although there appears to be no torches or light source of any kind, the crypt
+appears to be well illuminated from somewhere...
+~
+0 9 1
+D0
+~
+~
+0 0 10786
+D1
+~
+~
+0 0 10788
+D4
+~
+hatch~
+1 0 10784
+S
+#10786
+The Crypt~
+Clearing away the dust and cobwebs from your face, you find yourself in the
+remains of an old tomb, obviously constructed for some great dwarf of old.
+Although there appears to be no torches or light source of any kind, the crypt
+appears to be well illuminated from somewhere...     
+~
+0 9 1
+D2
+~
+~
+0 0 10785
+S
+#10787
+A tunnel~
+You are traveling in a mid-sized tunnel, which appears to have been
+burrowed by hand out of the soft surfaces around you.  Accompanying the
+sticky mud collecting at your feet is a stench strong enough to drive away
+insects.  You wonder how anything could possibly want to live in these
+tunnels.    
+~
+0 9 1
+D0
+~
+~
+0 0 10759
+D1
+~
+~
+0 0 10758
+S
+#10788
+Before an Altar~
+Clearing away the dust and cobwebs from your face, you find yourself in
+the remains of an old tomb, obviously constructed for some great dwarf of
+old.  Although there appears to be no torches or light source of any kind,
+the crypt appears to be well illuminated from somewhere...  An altar is
+built here, apparently designed to worship the god Reorx.  
+~
+0 9 1
+D3
+~
+~
+0 0 10785
+D5
+~
+altar~
+1 0 10789
+S
+#10789
+A Sarcophagus~
+You find yourself in a cramped space underneath the altar, barely any
+room to move.  Beneath your feet is an old sarcophagus, with many designs
+and runes carved into the lid.  This space appears to be unusually cold...  
+~
+0 9 1
+D4
+~
+~
+1 0 10788
+S
+#10790
+Road before the South Gate of Thorbardin~
+Standing upon the road before a great gate, more like a big hole in the
+side of a really big rock, the Kharolis Mountains loon up into the sky,
+blocking out most of the view to the heavens.  To the north is the entrance
+to the underground city known as Thorbardin, a place built by many tribes of
+dwarves.  
+~
+0 0 5
+D0
+~
+~
+0 0 10791
+D2
+~
+~
+0 0 11736
+S
+#10791
+Inside the Great Mountain~
+You find yourself just inside the fairly large entrance into this vast
+Mountain.  The road leading further in, continues on to your east, whereas
+the exit is to the south.  Although it appears to be fairly dark, after your
+eyes start to adjust, you notice that there appears to be some sort of
+glowing moss, growing on the cavern ceiling.  It doesn't provide much light
+in human terms, however, it's bright as the sun itself for a common dwarf.  
+~
+0 524296 5
+D1
+~
+~
+0 0 10792
+D2
+~
+~
+0 0 10790
+S
+#10792
+Inside a dark tunnel~
+You find yourself walking along this dark tunnel, with only a limited
+amount of light, that which comes from the glowing moss growing on the
+ceiling.  The slight, dim glow is just enough to help you see your way
+around, but not enough to see what’s up ahead in either direction.  The light
+seems to reflect a slight glow of the smooth, obsidian walls, almost enough
+for you to see your own reflection.  
+~
+0 524296 5
+D1
+~
+~
+0 0 10793
+D3
+~
+~
+0 0 10791
+S
+#10793
+Inside a dark tunnel~
+You find yourself walking along this dark tunnel, with only a limited
+amount of light, that which comes from the glowing moss growing on the
+ceiling.  The slight, dim glow is just enough to help you see your way
+around, but not enough to see what’s up ahead in either direction.  The light
+seems to reflect a slight glow of the smooth, obsidian walls, almost enough
+for you to see your own reflection.  
+~
+0 524296 5
+D0
+~
+~
+0 0 10794
+D3
+~
+~
+0 0 10792
+S
+#10794
+Deep inside a dark tunnel~
+You find yourself walking along this dark tunnel, with only a limited
+amount of light, that which comes from the glowing moss growing on the
+ceiling.  The slight, dim glow is just enough to help you see your way
+around, but not enough to see what’s up ahead in either direction.  The light
+seems to reflect a slight glow of the smooth, obsidian walls, almost enough
+for you to see your own reflection.  
+~
+0 524296 5
+D2
+~
+~
+0 0 10793
+D3
+~
+~
+0 0 10795
+S
+#10795
+Top of a steep slope~
+Coming up to the top of a steep slope, you look down into the darkness
+and realize that it is an amazing climb, regardless if your traveling up or
+down.  One would think that the dwarves would be smart enough to install a
+few torches, or possibly, some more of that glowing moss, so a person could
+at least see where they were going and what they climbing, instead of
+getting around only by feeling your way around.  The darkness seems to
+devour the path leading downwards, whereas a small bit of light coming from
+the moss, lights up your path to the east.  
+~
+0 524296 5
+D1
+~
+~
+0 0 10794
+D5
+~
+~
+0 0 10796
+S
+#10796
+Somewhere on a dark path~
+Looking around, nothing up nor down can be seen.  It's almost a struggle
+just to see your hands right in front of your face.  Regardless of the
+darkness, being that the walls feel unusually smooth to the touch and there
+being only a limited amount of places for you to grab hold of to climb up or
+down, the urge to press on with your travels reach out and grasp hold of
+your soul.  
+~
+0 524297 5
+D4
+~
+~
+0 0 10795
+D5
+~
+~
+0 0 10797
+S
+#10797
+Somewhere on a dark path~
+Looking around, nothing up nor down can be seen.  It's almost a struggle
+just to see your hands right in front of your face.  Regardless of the
+darkness, being that the walls feel unusually smooth to the touch and there
+being only a limited amount of places for you to grab hold of to climb up or
+down, the urge to press on with your travels reach out and grasp hold of
+your soul.  
+~
+0 524297 5
+D4
+~
+~
+0 0 10796
+D5
+~
+~
+0 0 10798
+S
+#10798
+Somewhere on a dark path~
+Looking around, nothing up nor down can be seen.  It's almost a struggle
+just to see your hands right in front of your face.  Regardless of the
+darkness, being that the walls feel unusually smooth to the touch and there
+being only a limited amount of places for you to grab hold of to climb up or
+down, the urge to press on with your travels reach out and grasp hold of
+your soul.  
+~
+0 524297 5
+D4
+~
+~
+0 0 10797
+D5
+~
+~
+0 0 10799
+S
+#10799
+At the bottom~
+You are standing at the bottom of a very dark shaft.  Glowing moss grows
+all around you, reflecting off the glass like surface of the obsidian walls
+which make up this cavernous road.  Looking up, nothing but complete
+darkness lurks through there and yet, looking further on north, the path
+seems to get a little brighter.  
+~
+0 524296 5
+D0
+~
+~
+0 0 16393
+D4
+~
+~
+0 0 10798
+S
+#0
+
+
+
+#SPECIALS
+M 10600 spec_guard
+M 10610 spec_guard
+M 10612 spec_thief
+M 10651 spec_guard
+M 10653 spec_guard
+M 10664 spec_cast_adept
+M 10684 spec_rloader
+M 10713 spec_guard
+M 10772 spec_guard
+M 10790 spec_breath_gas
+M 10793 spec_poison
+S
+
+
+
+#RESETS
+D 0 10626 2 1
+D 0 10632 0 1
+D 0 10641 2 1
+D 0 10643 0 1
+D 0 10650 0 1
+D 0 10651 2 1
+D 0 10708 0 1
+D 0 10771 1 1
+D 0 10772 3 1
+D 0 10784 5 2
+D 0 10785 4 2
+D 0 10788 5 1
+D 0 10789 4 1
+M 0 10600 2 10600 1
+O 0 10601 0 10601
+M 0 10799 8 10601 1
+M 0 10793 4 10602 2
+M 0 10610 12 10610 2
+M 0 10612 5 10611 1
+M 0 10612 5 10612 1
+M 0 10614 1 10614 1
+G 0 10624 0
+G 0 10625 0
+G 0 10626 0
+G 0 10627 0
+G 0 10628 0
+G 0 10629 0
+M 0 10611 6 10615 1
+M 0 10616 1 10616 1
+M 0 10610 12 10618 1
+M 0 10611 6 10620 1
+M 0 10610 12 10621 1
+M 0 10611 6 10622 1
+M 0 10610 12 10623 1
+M 0 10790 10 10623 1
+M 0 10611 6 10624 1
+M 0 10610 12 10625 1
+M 0 10626 1 10626 1
+E 0 10635 0 20
+M 0 10632 3 10626 1
+M 0 10610 12 10628 4
+M 0 10629 1 10629 1
+G 0 10630 0
+G 0 10631 0
+G 0 10632 0
+G 0 10633 0
+G 0 10634 0
+M 0 10610 12 10630 1
+M 0 10631 1 10631 1
+G 0 10619 0
+G 0 10620 0
+G 0 10621 0
+G 0 10622 0
+G 0 10623 0
+M 0 10611 6 10631 1
+M 0 10632 3 10632 2
+M 0 10610 12 10633 1
+M 0 10799 8 10633 1
+M 0 10610 12 10634 1
+M 0 10611 6 10634 1
+M 0 10610 12 10635 1
+M 0 10611 6 10635 1
+M 0 10610 12 10636 1
+M 0 10638 1 10638 1
+G 0 10614 0
+G 0 10615 0
+G 0 10616 0
+G 0 10617 0
+G 0 10618 0
+M 0 10639 1 10639 1
+G 0 10610 0
+G 0 10611 0
+G 0 10612 0
+G 0 10613 0
+M 0 10612 5 10640 1
+M 0 10612 5 10641 1
+M 0 10612 5 10642 1
+M 0 10790 10 10642 1
+M 0 10643 1 10643 1
+O 0 10644 0 10644
+M 0 10645 1 10645 1
+M 0 10651 2 10651 2
+O 0 10651 0 10651
+O 0 10652 0 10652
+M 0 10652 2 10652 1
+M 0 10654 1 10654 1
+G 0 10654 0
+G 0 10681 0
+G 0 10679 0
+G 0 10678 0
+M 0 10684 6 10654 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10656 1 10656 1
+M 0 10684 6 10657 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10790 10 10657 1
+M 0 10683 8 10659 1
+M 0 10662 1 10662 1
+M 0 10684 6 10663 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10664 1 10664 1
+O 0 10677 0 10664
+M 0 10652 5 10665 1
+M 0 10666 1 10666 1
+G 0 10663 0
+G 0 10665 0
+G 0 10668 0
+G 0 10669 0
+M 0 10684 6 10669 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10652 5 10670 1
+M 0 10761 1 10671 1
+G 0 10674 0
+G 0 10676 0
+G 0 10662 0
+G 0 10682 0
+G 0 10664 0
+G 0 10675 0
+M 0 10672 1 10672 1
+M 0 10673 1 10673 1
+G 0 10659 0
+G 0 10660 0
+G 0 10661 0
+M 0 10684 6 10676 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10790 10 10676 1
+M 0 10683 8 10677 1
+M 0 10683 8 10678 1
+M 0 10799 8 10678 1
+M 0 10680 1 10680 1
+M 0 10683 8 10681 1
+M 0 10683 8 10682 1
+M 0 10683 8 10683 1
+M 0 10684 6 10684 1
+E 0 10684 0 20
+E 0 10653 0 5
+E 0 10650 0 15
+M 0 10653 1 10684 1
+E 0 10655 0 20
+E 0 10657 0 5
+M 0 10790 10 10697 1
+M 0 10799 8 10698 1
+M 0 10790 10 10709 1
+M 0 10711 1 10711 1
+G 0 10667 0
+G 0 10711 0
+G 0 10712 0
+G 0 10713 0
+M 0 10799 8 10711 1
+M 0 10712 1 10712 1
+G 0 10700 0
+G 0 10701 0
+G 0 10702 0
+G 0 10703 0
+M 0 10713 1 10713 1
+M 0 10714 1 10714 1
+O 0 10721 0 10721
+M 0 10799 8 10724 1
+M 0 10790 10 10733 1
+M 0 10743 1 10743 1
+M 0 10744 1 10744 1
+G 0 10744 0
+G 0 10745 0
+G 0 10746 0
+G 0 10747 0
+M 0 10756 7 10756 1
+M 0 10756 7 10758 1
+M 0 10757 7 10759 1
+M 0 10760 3 10760 1
+O 0 10760 0 10760
+O 0 10759 0 10760
+M 0 10760 3 10761 1
+O 0 10761 0 10761
+O 0 10762 0 10761
+M 0 10757 7 10764 1
+M 0 10756 7 10765 1
+M 0 10790 10 10765 1
+M 0 10757 7 10768 1
+M 0 10756 7 10769 1
+M 0 10760 3 10770 1
+M 0 10757 7 10770 1
+M 0 10757 7 10771 1
+M 0 10773 1 10773 1
+G 0 10784 0
+M 0 10772 3 10773 2
+M 0 10772 3 10774 1
+M 0 10756 7 10775 1
+M 0 10776 1 10776 1
+G 0 10776 0
+G 0 10770 0
+M 0 10757 7 10778 1
+M 0 10790 10 10778 1
+M 0 10756 7 10779 1
+M 0 10756 7 10781 1
+M 0 10757 7 10783 1
+M 0 10799 8 10784 1
+M 0 10787 1 10787 1
+G 0 10787 0
+G 0 10758 0
+G 0 10757 0
+G 0 10756 0
+M 0 10789 1 10789 1
+G 0 10788 0
+O 0 10789 0 10789
+P 0 10785 1 10789 1
+P 0 10786 1 10789 1
+O 0 10788 0 10789
+M 0 10799 8 10790 1
+M 0 10600 2 10791 1
+M 0 10790 10 10791 1
+O 0 10601 0 10792
+M 0 10793 4 10793 2
+S
+
+
+
+#SHOPS
+10614 0 0 0 0 5 100 100 6 22
+10629 0 0 0 0 9 100 100 2 22
+10631 0 0 0 0 15 100 100 8 20
+10638 0 0 0 0 10 100 100 8 20
+10639 0 0 0 0 13 100 100 12 20
+10654 0 0 0 0 10 100 100 8 20
+10666 0 0 0 0 5 100 100 8 20
+10673 0 0 0 0 10 100 100 8 20
+10711 0 0 0 0 1 100 100 0 23
+10712 0 0 0 0 10 100 100 0 23
+10744 0 0 0 0 5 150 150 0 23
+10761 0 0 0 0 9 100 100 8 20
+10776 0 0 0 19 0 100 100 8 1800
+10787 0 0 0 0 10 100 100 10 17
+0
+
+
+
+#MOBPROGS
+#10600
+if isimmort $n
+bow $n
+say Greetings great $n. Welcome to Thorbardin!
+else
+if race $n neidar
+say Welcome home $n.
+else
+if race $n hylar
+say Welcome home $n.
+else
+if race $n theiwar
+say Welcome home $n.
+else
+if race $n aghar
+say Welcome home $n.
+else
+if level $n <= 101
+say Greetings stranger! The Dwarves who reside here like to be left alone.
+say So, it would be wise of you to watch what you say and do while you stay here.
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#10617
+if class $n cleric
+say Welcome, my brother.  Do you come to learn the once ways?
+else
+say Begone, unbeliever!
+mob trans $n 10623
+endif
+~
+#10643
+if class $n thief
+say Welcome, young thief.  Are you ready to hone your skills?
+else
+mob echo A trapdoor opens underneath $n, sending $m through the floor and out of sight.
+mob trans $n 10636
+endif
+~
+#10645
+if class $n bard
+say Whelllcome, fwend!  Haf a dwink and play me your best toooon!
+break
+else
+say Heeey!  Get the hell out of my baaaaar!  *Hic*
+mob trans $n 16306
+endif
+~
+#10672
+if class $n warrior
+say Greetings young $n!
+break
+else
+say You do not belong here foolish one!
+mob trans $n 10660
+endif
+endif
+~
+#10680
+if class $n barbarian
+say Welcome, young $n!
+break
+else
+say You don't belong here, weakling!
+mob trans $n 10658
+endif
+endif
+~
+#10713
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

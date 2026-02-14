@@ -1,0 +1,2417 @@
+#AREADATA
+Name Zeboim's Deep~
+Builders Zeboim~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 2800 2899
+Credits Zeboim~
+Security 9
+End
+
+
+
+#MOBILES
+#2800
+blue shark~
+a blue shark~
+A blue shark is swimming toward you.
+~
+Moving around the water with incredible speed and grace, these medium-sized
+sharks appear very excited by your presence.  They know it's feeding time...
+~
+lizard~
+AFGT 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 bite
+-13 -13 -13 -6
+F 0 L J
+stand stand either 2000
+AGbc ACDEFHKQV L unknown 0
+F vul I
+F for X
+#2801
+killer whale~
+a killer whale~
+A killer whale is here, circling around its prey.
+~
+Under the beauty of these large sea creatures holds an insatiable hunger.  
+Better watch out!
+~
+lizard~
+AFGT 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 bite
+-13 -13 -13 -6
+F 0 L J
+stand stand either 2500
+AGbc ACDEFHKQV G unknown 0
+F vul I
+F for X
+#2845
+tribal warrior~
+a tribal warrior~
+A tribal warrior stands here, closely examining you.
+~
+The lack of clothing on this warrior allows you to see his superior physique,
+making him an obviously dangerous opponent.  His slow and meticulous movement
+make him seem more like an animal, stalking its prey...
+~
+human~
+AGT 0 200 0
+40 40 81d13+405 40d10+85 13d3+25 punch
+-17 -17 -17 -9
+EFKN 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 0
+#2847
+tribal chieftain~
+a tribal chieftain~
+A tribal chieftain is sitting here, enjoying the party.
+~
+A large, rather portly native of the island, the chieftain seems to have sat
+on his competition to eliminate them.  Still, he look like he might be a 
+threat...
+~
+human~
+ABT 0 200 0
+50 50 101d16+506 50d10+85 16d3+30 pound
+-24 -24 -24 -14
+DEFK 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK M unknown 0
+#2853
+great white shark~
+a great white shark~
+A great white shark slowly moves toward you.
+~
+Moving toward you with a single-minded purpose, the great white is one of the
+ocean's most deadly hunters.  The closer it gets, the more its enormous jaws
+come apart, ready to strike.
+~
+lizard~
+AFGT 0 0 0
+65 65 131d21+1313 65d10+85 21d3+37 bite
+-34 -34 -34 -20
+FM 0 L J
+stand stand either 4000
+AGbc ACDEFHKQV L unknown 0
+F vul I
+F for X
+#2854
+giant sea turtle~
+a giant sea turtle~
+A giant sea turtle floats around, examining you.
+~
+Looking about the size of a small manor house, this enormous creature moves
+slowly through the water.  Despite the obvious damage this massive beast could
+do, it appears quite passive around you.
+~
+lizard~
+AGT 0 0 0
+75 75 151d25+1515 75d10+85 25d3+42 bite
+-41 -41 -41 -25
+FO 0 L 0
+stand stand either 5000
+AGXc ACDEFHKQV G unknown 0
+F vul I
+#2885
+sea wraith~
+sea wraith~
+A sea wraith floats here, waiting to take you to the Abyss!
+~
+Appearing in the deranged form of a slave, these wraiths seem to be the angry
+spirits of the ship's old cargo.  Filled with all the rage of the undead,
+it is lashing out on the nearest target...namely you!
+~
+human~
+ABFT BDFH -1000 0
+60 60 121d20+1213 60d10+85 20d3+35 chill
+-30 -30 -30 -18
+F BILM 0 HN
+stand stand none 5000
+AHMV ABCDEFGHIJK M unknown 0
+#2887
+cyan bloodbane~
+{gCyan Bloodbane{w~
+{gCyan Bloodbane{w is here, eyeing you carefully.
+~
+Looking upon this gigantic green dragon, you wonder just how much longer you
+have to live...
+~
+dragon~
+ABT HJOTVc -1000 0
+150 150 301d50+4546 150d10+85 50d3+80 claw
+-91 -91 -91 -60
+EFIM ABEL CD 0
+stand stand male 200000
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F res BEH
+F vul FI
+#2888
+blue dragon~
+{BBlue Dragon{w~
+A huge blue dragon stands here, waiting to sizzle you.
+~
+This beast waits for you to make your move...
+~
+dragon~
+ABRT JTV -750 0
+125 150 225d50+4096 150d10+85 42d3+55 claw
+-61 -61 -61 -30
+ACDFMO AJ BCEGLP 0
+stand stand male 5000
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F res H
+F vul FI
+#2895
+leviathan~
+The Leviathan~
+An enormous, whale-like creature floats before you.
+~
+Spanning at least 1000 feet long, this lord of the sea is easily one of the 
+most terrifying creatures the oceans can hold.  Looking like a gigantic whale,
+you can see an unnatural intelligence in the eyes of this beast.
+~
+lizard~
+AFGT DFTc 0 0
+125 125 251d41+3787 125d10+85 41d3+67 crush
+-75 -75 -75 -49
+DFMO BEHLPR 0 J
+stand stand female 15000
+AGXYc ACDEFHKLQVX H unknown 0
+F res L
+F vul I
+#0
+
+
+
+#OBJECTS
+#2800
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2801
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+123 1 0 P
+#2802
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+101 4 1000 P
+#2803
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 2 10000 P
+#2804
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 2 0 P
+#2805
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#2806
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#2807
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2808
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2809
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+95 2 70000 P
+#2810
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#2811
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2812
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2813
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2814
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 2 0 P
+#2815
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2820
+unused~
+unused~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2824
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2825
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2845
+crude spear~
+a crude spear~
+A crude spear rests here.~
+bone~
+weapon S 0 ANO
+spear 6 10 pierce H
+60 6 6000 P
+#2850
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#2887
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2891
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2894
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2895
+leviathan shell shield~
+a leviathan shell~
+A shield made from an enormous shell lies here.~
+shell~
+armor GSY 0 AJZ
+BCE BCE BCE BE 0
+105 20 0 P
+A
+13 150
+A
+5 4
+A
+1 3
+A
+17 -50
+A
+20 -5
+#2896
+unused~
+unused~
+None~
+unknown~
+trash A 0 0
+0 0 0 0 0
+0 0 0 P
+#2897
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2898
+pool light~
+a {wPool of Light{x~
+A {wPool of Light{x emanates from the ocean floor.~
+energy~
+portal AG 0 0
+0 0 A EFGHJL 0
+0 0 0 P
+#2899
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2800
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  To the south, lie the vast gates of Palanthas.  
+~
+0 12 7
+D0
+~
+~
+0 0 2802
+D2
+~
+~
+0 0 3260
+D3
+~
+~
+0 0 2801
+S
+#2801
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2800
+D3
+~
+~
+0 0 2804
+S
+#2802
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2800
+D3
+~
+~
+0 0 2803
+S
+#2803
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2807
+D1
+~
+~
+0 0 2802
+D3
+~
+~
+0 0 2806
+S
+#2804
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2801
+D3
+~
+~
+0 0 2805
+S
+#2805
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2808
+D1
+~
+~
+0 0 2804
+S
+#2806
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2803
+D3
+~
+~
+0 0 2808
+S
+#2807
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2809
+D2
+~
+~
+0 0 2803
+S
+#2808
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2810
+D1
+~
+~
+0 0 2806
+D2
+~
+~
+0 0 2805
+D3
+~
+~
+0 0 2811
+S
+#2809
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2820
+D1
+~
+~
+0 0 2815
+D2
+~
+~
+0 0 2807
+D3
+~
+~
+0 0 2816
+S
+#2810
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2817
+D2
+~
+~
+0 0 2808
+D3
+~
+~
+0 0 2818
+S
+#2811
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2808
+D2
+~
+~
+0 0 2812
+S
+#2812
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2811
+D3
+~
+~
+0 0 2813
+S
+#2813
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2812
+D3
+~
+~
+0 0 2814
+S
+#2814
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2813
+D3
+~
+~
+0 0 2849
+S
+#2815
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  You feel a strange force pulling you towards the south, as if
+beckoning you to your fate.  
+~
+0 0 7
+D2
+~
+~
+0 0 2819
+D3
+~
+~
+0 0 2809
+S
+#2816
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2822
+D1
+~
+~
+0 0 2809
+S
+#2817
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2810
+D3
+~
+~
+0 0 2828
+S
+#2818
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2828
+D1
+~
+~
+0 0 2810
+D3
+~
+~
+0 0 2829
+S
+#2819
+{bWhirlpool!{x~
+Giving in to the influence of the currents, you steer south, only to find
+yourself directly in the grip of a large whirlpool!  Trying desperately to
+move away, you realize there is no hope to the situation, as you are quickly
+pulled under the surface.  Trying to draw your next breath, water begins to
+fill your....  *gurgle* *splurt* ...  
+~
+0 4 15
+S
+#2820
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2823
+D1
+~
+~
+0 0 2821
+D2
+~
+~
+0 0 2809
+S
+#2821
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2824
+D3
+~
+~
+0 0 2820
+S
+#2822
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2825
+D2
+~
+~
+0 0 2816
+S
+#2823
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2824
+D2
+~
+~
+0 0 2820
+S
+#2824
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2821
+D3
+~
+~
+0 0 2823
+S
+#2825
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2822
+D3
+~
+~
+0 0 2826
+S
+#2826
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2825
+D2
+~
+~
+0 0 2827
+S
+#2827
+{bA strange funnel{x~
+Drifting along the dark waters, you come across a peculiar opening in the
+surface of the sea.  Seeming pitch black, the funnel leads down into the
+dark depths of the sea.  While this funnel apparently leads into an open
+area, only the bravest and strongest should consider such a path.  
+~
+0 4 7
+D0
+~
+~
+0 0 2826
+D5
+~
+~
+0 0 2828
+S
+#2828
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D1
+~
+~
+0 0 2817
+D2
+~
+~
+0 0 2818
+S
+#2829
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2830
+D1
+~
+~
+0 0 2818
+S
+#2830
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2829
+D3
+~
+~
+0 0 2831
+S
+#2831
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2832
+D1
+~
+~
+0 0 2830
+S
+#2832
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2831
+D3
+~
+~
+0 0 2833
+S
+#2833
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2835
+D1
+~
+~
+0 0 2832
+D2
+~
+~
+0 0 2834
+S
+#2834
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2833
+D3
+~
+~
+0 0 2836
+S
+#2835
+{cApproaching a shore{x~
+While traversing deeper north into the sea, you see a small island come
+into view.  Rather flat, with a thick covering of jungle across most of the
+surface, the island looks like the perfect place to rest from the rough
+waters.  
+~
+0 0 7
+D0
+~
+~
+0 0 2837
+D2
+~
+~
+0 0 2833
+S
+#2836
+{bA strange funnel{x~
+Drifting along the dark waters, you come across a peculiar opening in the
+surface of the sea.  Seeming pitch black, the funnel leads down into the
+dark depths of the sea.  While this funnel apparently leads into an open
+area, only the bravest and strongest should consider such a path.  
+~
+0 4 7
+D1
+~
+~
+0 0 2834
+D5
+~
+~
+0 0 2852
+S
+#2837
+On the beach~
+Upon arriving at the beach of this small island, you look around and find
+a miniature tropical paradise.  The sand is perfectly white and unblemished,
+and the water a deep sapphire blue just off the coast.  Looking to the
+island itself, you see a dense jungle, complete with a multitude of tropical
+sounds.  
+~
+0 4 10
+D0
+~
+~
+0 0 2841
+D1
+~
+~
+0 0 2838
+D2
+~
+~
+0 0 2835
+D3
+~
+~
+0 0 2839
+S
+#2838
+On the Beach~
+Upon arriving at the beach of this small island, you look around and find
+a miniature tropical paradise.  The sand is perfectly white and unblemished,
+and the water a deep sapphire blue just off the coast.  Looking to the
+island itself, you see a dense jungle, complete with a multitude of tropical
+sounds.  
+~
+0 4 10
+D0
+~
+~
+0 0 2842
+D3
+~
+~
+0 0 2837
+S
+#2839
+On the beach~
+Upon arriving at the beach of this small island, you look around and find
+a miniature tropical paradise.  The sand is perfectly white and unblemished,
+and the water a deep sapphire blue just off the coast.  Looking to the
+island itself, you see a dense jungle, complete with a multitude of tropical
+sounds.  
+~
+0 4 10
+D0
+~
+~
+0 0 2840
+D1
+~
+~
+0 0 2837
+S
+#2840
+{gIn the jungle{x~
+Your breathing becomes more labored as you try to adjust to the humid air
+deep in the jungle.  It's no wonder, as no sunlight seems to be able to slip
+through the roof of the trees.  Your light source appears to be the only way
+you can see anything.  Along with the normal sounds of wildlife, you also
+hear the faint echo of chanting coming from deeper in the jungle.  
+~
+0 9 3
+D1
+~
+~
+0 0 2841
+D2
+~
+~
+0 0 2839
+S
+#2841
+{gIn the jungle{x~
+Your breathing becomes more labored as you try to adjust to the humid air
+deep in the jungle.  It's no wonder, as no sunlight seems to be able to slip
+through the roof of the trees.  Your light source appears to be the only way
+you can see anything.  Along with the normal sounds of wildlife, you also
+hear the faint echo of chanting coming from deeper in the jungle.  
+~
+0 1 3
+D0
+~
+~
+0 0 2844
+D1
+~
+~
+0 0 2842
+D2
+~
+~
+0 0 2837
+D3
+~
+~
+0 0 2840
+S
+#2842
+{gIn the jungle{x~
+Your breathing becomes more labored as you try to adjust to the humid air
+deep in the jungle.  It's no wonder, as no sunlight seems to be able to slip
+through the roof of the trees.  Your light source appears to be the only way
+you can see anything.  Along with the normal sounds of wildlife, you also
+hear the faint echo of chanting coming from deeper in the jungle.  
+~
+0 9 3
+D0
+~
+~
+0 0 2843
+D2
+~
+~
+0 0 2838
+D3
+~
+~
+0 0 2841
+S
+#2843
+{gIn the jungle{x~
+Your breathing becomes more labored as you try to adjust to the humid air
+deep in the jungle.  It's no wonder, as no sunlight seems to be able to slip
+through the roof of the trees.  Your light source appears to be the only way
+you can see anything.  Along with the normal sounds of wildlife, you also
+hear the faint echo of chanting coming from deeper in the jungle.  
+~
+0 9 3
+D2
+~
+~
+0 0 2842
+D3
+~
+~
+0 0 2844
+S
+#2844
+{gIn the jungle{x~
+Your breathing becomes more labored as you try to adjust to the humid air
+deep in the jungle.  It's no wonder, as no sunlight seems to be able to slip
+through the roof of the trees.  Your light source appears to be the only way
+you can see anything.  Along with the normal sounds of wildlife, you also
+hear the faint echo of chanting coming from deeper in the jungle.  
+~
+0 9 3
+D0
+~
+~
+0 0 2845
+D1
+~
+~
+0 0 2843
+D2
+~
+~
+0 0 2841
+S
+#2845
+{gA small clearing{x~
+After breaking through the thick brush, you stumble upon an opening with
+a huge bonfire at the center.  You also have found the source of the
+chanting, as you see an entire tribe of people dancing around the bonfire,
+paying homage to some unnamed god.  While most of them don't seem to notice
+you yet, you definitely feel out of place.  
+~
+0 8 3
+D0
+~
+~
+0 0 2848
+D2
+~
+~
+0 0 2844
+D3
+~
+~
+0 0 2846
+S
+#2846
+{gA small clearing{x~
+After breaking through the thick brush, you stumble upon an opening with
+a huge bonfire at the center.  You also have found the source of the
+chanting, as you see an entire tribe of people dancing around the bonfire,
+paying homage to some unnamed god.  While most of them don't seem to notice
+you yet, you definitely feel out of place.  
+~
+0 8 3
+D0
+~
+~
+0 0 2847
+D1
+~
+~
+0 0 2845
+S
+#2847
+{gA small clearing{x~
+After breaking through the thick brush, you stumble upon an opening with
+a huge bonfire at the center.  You also have found the source of the
+chanting, as you see an entire tribe of people dancing around the bonfire,
+paying homage to some unnamed god.  While most of them don't seem to notice
+you yet, you definitely feel out of place.  
+~
+0 8 3
+D1
+~
+~
+0 0 2848
+D2
+~
+~
+0 0 2846
+S
+#2848
+{gA small clearing{x~
+After breaking through the thick brush, you stumble upon an opening with
+a huge bonfire at the center.  You also have found the source of the
+chanting, as you see an entire tribe of people dancing around the bonfire,
+paying homage to some unnamed god.  While most of them don't seem to notice
+you yet, you definitely feel out of place.  
+~
+0 8 3
+D2
+~
+~
+0 0 2845
+D3
+~
+~
+0 0 2847
+S
+#2849
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D0
+~
+~
+0 0 2850
+D1
+~
+~
+0 0 2814
+S
+#2850
+{bZeboim's Deep{x~
+Disembarking into the vast ocean, all around you you see the dark waters
+of Zeboim's Deep.  With strong, biting gusts of wind blowing salty mists
+into your eyes, the sea holds all the cruel personality traits of its ruler.
+As you try to steer your way through the choppy waters, you notice that some
+directions seem impossible to turn towards, as if the Sea Queen herself was
+guiding you.  
+~
+0 0 7
+D2
+~
+~
+0 0 2849
+D3
+~
+~
+0 0 2851
+S
+#2851
+{bA strange funnel{x~
+Drifting along the dark waters, you come across a peculiar opening in the
+surface of the sea.  Seeming pitch black, the funnel leads down into the
+dark depths of the sea.  While this funnel apparently leads into an open
+area, only the bravest and strongest should consider such a path.  
+~
+0 4 7
+D1
+~
+~
+0 0 2850
+D5
+~
+~
+0 0 2824
+S
+#2852
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2857
+S
+#2853
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2855
+S
+#2854
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D2
+~
+~
+0 0 2856
+S
+#2855
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2862
+D3
+~
+~
+0 0 2853
+S
+#2856
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2854
+D3
+~
+~
+0 0 2863
+S
+#2857
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D2
+~
+~
+0 0 2860
+D3
+~
+~
+0 0 2852
+S
+#2860
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2857
+D1
+~
+~
+0 0 2861
+S
+#2861
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2867
+D3
+~
+~
+0 0 2860
+S
+#2862
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2868
+D3
+~
+~
+0 0 2855
+S
+#2863
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2864
+D1
+~
+~
+0 0 2856
+S
+#2864
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D2
+~
+~
+0 0 2863
+D3
+~
+~
+0 0 2865
+S
+#2865
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2864
+D2
+~
+~
+0 0 2866
+S
+#2866
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2865
+D2
+~
+~
+0 0 2867
+S
+#2867
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2866
+D1
+~
+~
+0 0 2869
+D2
+~
+~
+0 0 2868
+D3
+~
+~
+0 0 2861
+S
+#2868
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2867
+D3
+~
+~
+0 0 2862
+S
+#2869
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2870
+D3
+~
+~
+0 0 2867
+S
+#2870
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D2
+~
+~
+0 0 2871
+D3
+~
+~
+0 0 2869
+S
+#2871
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2870
+D2
+~
+~
+0 0 2872
+S
+#2872
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D0
+~
+~
+0 0 2871
+D1
+~
+~
+0 0 2873
+D3
+~
+~
+0 0 2888
+S
+#2873
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D2
+~
+~
+0 0 2874
+D3
+~
+~
+0 0 2872
+S
+#2874
+Before a sunken ship~
+After moving through a seemingly endless watery void, you finally stumble
+upon your first sign of a bottom: a sunken ship!  Looking like an old
+galleon, this ship appears to have been sitting on the ocean floor for some
+time.  Covered in seaweed and surrounded by fish, the ship looks to have
+been untouched since its demise.  A ladder runs down the starboard side of
+the bow, leading to the deck.  
+~
+0 9 7
+D0
+~
+~
+0 0 2873
+D4
+~
+~
+0 0 2875
+S
+#2875
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  
+~
+0 9 7
+D1
+~
+~
+0 0 2879
+D2
+~
+~
+0 0 2876
+D5
+~
+~
+0 0 2874
+S
+#2876
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  
+~
+0 9 7
+D0
+~
+~
+0 0 2875
+D1
+~
+~
+0 0 2880
+D2
+~
+~
+0 0 2877
+D3
+~
+~
+0 0 2878
+S
+#2877
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  
+~
+0 9 7
+D0
+~
+~
+0 0 2876
+D1
+~
+~
+0 0 2881
+S
+#2878
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  
+~
+0 9 7
+D1
+~
+~
+0 0 2876
+S
+#2879
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like it's being held together by one last rusted
+nail.  
+~
+0 9 7
+D1
+~
+~
+0 0 2884
+D2
+~
+~
+0 0 2880
+D3
+~
+~
+0 0 2875
+S
+#2880
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  Below your feet, you see a large hatch.  It appears to be a cargo
+door for whatever this ship was hauling.  
+~
+0 9 7
+D0
+~
+~
+0 0 2879
+D1
+~
+~
+0 0 2882
+D2
+~
+~
+0 0 2881
+D3
+~
+~
+0 0 2876
+D5
+~
+hatch~
+1 0 2885
+S
+#2881
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  
+~
+0 9 7
+D0
+~
+~
+0 0 2880
+D1
+~
+~
+0 0 2883
+D3
+~
+~
+0 0 2877
+S
+#2882
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  You notice for the first time that the ship was actually split in
+half, so that only the bow remains.  
+~
+0 9 7
+D0
+~
+~
+0 0 2884
+D2
+~
+~
+0 0 2883
+D3
+~
+~
+0 0 2880
+S
+#2883
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  You notice for the first time that the ship was actually split in
+half, so that only the bow remains.  
+~
+0 9 7
+D0
+~
+~
+0 0 2882
+D3
+~
+~
+0 0 2881
+S
+#2884
+On deck~
+With the floor boards in the same dilapidated condition as the rest of
+the ship, the deck looks like its being held together by one last rusted
+nail.  You notice for the first time that the ship was actually split in
+half, so that only the bow remains.  
+~
+0 9 7
+D2
+~
+~
+0 0 2882
+D3
+~
+~
+0 0 2879
+S
+#2885
+Cargo Room~
+Looking very cramped and very dirty, you barely notice the bone that just
+floated up and hit you in the head!  Regaining your senses, you look around
+and see bones everywhere.  It appears obvious that this galleon used to be
+an old slave ship, and you are currently floating with its old cargo...  
+~
+0 9 7
+D4
+~
+hatch~
+1 0 2880
+S
+#2887
+{bZeboim's Lair{x~
+You find yourself inside a small cave, which appears to have no exits
+except a {Ddark{w pool of {cwater{w in the center.  The walls of this room
+are very smooth, as if carved out by the water itself.  The only other
+object you see in this cave is a large, golden throne, decorated with
+{ggreen{w and {rred{w velvet.
+~
+0 40972 7
+S
+#2888
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.
+~
+0 9 7
+D1
+~
+~
+0 0 2872
+D3
+~
+~
+0 0 2889
+D4
+~
+~
+0 0 1680
+S
+#2889
+{bUnder the Sea{x~
+Swallowing your fear, you plunge into the dark waters, not knowing what
+might be waiting for you.  As you move around, you notice that there appears
+to be some kind of underwater current that has carved out paths in the sea
+itself.  You find that you are able to breathe the water in these conduits
+as easily as breathing air.  You also notice, however, that there doesn't
+seem to be a way back to the surface!  Looks like you'll have to find
+another way out...  
+~
+0 9 7
+D1
+~
+~
+0 0 2888
+D2
+~
+~
+0 0 2890
+S
+#2890
+{dBefore a Cave{x~
+You stumble upon a cave embedded in the floor of the ocean.  The opening
+is enormous, and certainly not naturally occurring.  Whatever burrowed out
+this hole might still be in there...  
+~
+0 13 7
+D0
+~
+~
+0 0 2889
+D5
+~
+~
+0 0 2891
+S
+#2891
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D2
+~
+~
+0 0 2894
+D3
+~
+~
+0 0 2892
+D4
+~
+~
+0 0 2890
+S
+#2892
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not..  
+~
+0 9 7
+D1
+~
+~
+0 0 2891
+D2
+~
+~
+0 0 2895
+D3
+~
+~
+0 0 2893
+S
+#2893
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D1
+~
+~
+0 0 2892
+D2
+~
+~
+0 0 2896
+S
+#2894
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2891
+D2
+~
+~
+0 0 2897
+D3
+~
+~
+0 0 2895
+S
+#2895
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2892
+D1
+~
+~
+0 0 2894
+D2
+~
+~
+0 0 2898
+D3
+~
+~
+0 0 2896
+S
+#2896
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2893
+D1
+~
+~
+0 0 2895
+D2
+~
+~
+0 0 2899
+S
+#2897
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2894
+D3
+~
+~
+0 0 2898
+S
+#2898
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2895
+D1
+~
+~
+0 0 2897
+D3
+~
+~
+0 0 2899
+S
+#2899
+{dThe Lair{x~
+This cave appears to be oblong in shape, with the walls relatively
+smooth.  The size of the dwelling is easily comparable to its entrance,
+spanning the dimensions of a large gladiatorial arena.  The area is so vast,
+you cannot tell if something is here or not.  
+~
+0 9 7
+D0
+~
+~
+0 0 2896
+D1
+~
+~
+0 0 2898
+S
+#0
+
+
+
+#SPECIALS
+M 2845 spec_rloader
+M 2887 spec_breath_gas
+M 2888 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 2880 5 1
+D 0 2885 4 1
+M 0 2800 6 2802 1
+M 0 2800 6 2804 1
+M 0 2801 6 2806 1
+M 0 2800 6 2807 1
+M 0 2800 6 2812 1
+M 0 2801 6 2816 1
+M 0 2800 6 2817 1
+M 0 2801 6 2821 1
+M 0 2800 6 2823 1
+M 0 2801 6 2829 1
+M 0 2801 6 2832 1
+M 0 2800 1 2833 1
+M 0 2845 4 2841 2
+E 0 2845 0 20
+M 0 2845 4 2843 2
+E 0 2845 0 20
+M 0 2845 1 2845 1
+E 0 2845 0 20
+M 0 2845 1 2845 1
+E 0 2845 0 20
+M 0 2845 1 2846 1
+E 0 2845 0 20
+M 0 2845 1 2846 1
+E 0 2845 0 20
+M 0 2847 1 2847 1
+M 0 2845 1 2848 1
+E 0 2845 0 20
+M 0 2845 1 2848 1
+E 0 2845 0 20
+M 0 2801 6 2849 1
+M 0 2853 5 2853 1
+M 0 2854 5 2854 1
+M 0 2853 5 2860 1
+M 0 2853 5 2864 1
+M 0 2854 5 2868 1
+M 0 2853 5 2871 1
+M 0 2853 5 2878 1
+M 0 2853 5 2883 1
+M 0 2885 1 2885 1
+M 0 2854 5 2889 1
+M 0 2895 1 2895 1
+G 0 2895 0
+O 0 2898 0 2898
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,652 @@
+#PLAYER
+Name Katra~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1407776236
+LogO 1408224899
+Vers 10
+Act  DEFGTe
+Desc Tattered dark robes drags along the ground leading to a tall, slender female elf. A hood is drawn over her head, pale white skin being seen from what little you can see of her face, hands, and bare feet. She has long silver hair that escapes into her cloak and deep brown eyes.
+ 
+She carries a book with purple markings on the cover and along the spine.
+~
+Backg The girl before you seems uptight and is often wearing a dark robe with a hood masking many of her features. However, catching a glimpse of her face, you can recognize her from some silvanesti parchments that detail newly banished elves.
+ 
+The stack of papers includes drawn busts of the elves in question along with a description of their crimes underneath. "Banished for the crime of practicing the dark arts" it says across hers. Necromancy; blasphemy amoung the silvanesti to even consider learning. The report states that the girl claimed it for with good intent- to save her sister, dying despite the efforts of many within the capitol and their so-called greater magics.
+ 
+It took her many years of isolation and studying to even grasp some of the core concepts, and even more to understand some of the intricacies. By the time the girl rose her sister, it was nother more than a mindless puppet, the brain had long since been lost. "Give me time, these magics are not evil - just misunderstood - it can be useful - it could save you the hurt that I've suffered," was her last quote before being rejected, marked as a dark elf and cast out of Silvanost.
+~
+Prom {BHP:%h/%H MP:%m/%M MV:%v/%V %b%B TNL:%X{x ~
+Race silvanesti~
+Sex  2
+Cla  11
+Hmtown 0
+Levl 41
+recall_point 3001
+Levscale 30
+Xptolev  2772
+Sec  0
+Plyd 47893
+Not  1405175102 0 0 0 1298827134
+Scro 0
+Room 3005
+HMV  701 701 629 629 342 342
+Steel 0
+Gold 18
+Bank 0
+Exp  250728
+AfBy JT
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2883584
+Comm NO
+Pos  8
+Prac 285
+Trai 13
+Reward_timer 80
+Save  -2
+Alig  -313
+Ethos 2
+Hit   2
+ACs 41 35 23 81
+Attr 11 18 13 13 13 16
+AMod 4 11 24 6 18 4
+Pass Kaj/iuohnspVk~
+Titl  the Lady of Evil~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 11
+HMVP 631 614 342
+Cnd  0 44 44 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 78 'armor'
+Sk 1 'blindness'
+Sk 95 'burning hands'
+Sk 1 'chill touch'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect good'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 95 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'magic missile'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'protection good'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'acid breath'
+Sk 82 'dagger'
+Sk 1 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 44 'mount'
+Sk 1 'shadow walk'
+Sk 1 'animate corpse'
+Sk 1 'fear'
+Sk 1 'horrid wilting'
+Sk 1 'paralysis'
+Sk 1 'vampiric touch'
+Sk 1 'undead disruption'
+Sk 1 'nightmare'
+Sk 1 'cavorting bones'
+Sk 1 'enervation'
+Sk 1 'remove paralysis'
+Sk 93 'cantrip'
+Sk 1 'disintegrate'
+Sk 1 'wraithform'
+Sk 1 'word of death'
+Sk 1 'coldfire'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'drain rune'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'dark taint'
+Sk 1 'drain blood'
+Sk 1 'forget'
+Sk 1 'forgedeath'
+Sk 1 'preservation'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'preserve dead'
+Sk 1 'ray of fatigue'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'boil blood'
+Sk 1 'great wasting'
+Sk 1 'coldlight'
+Sk 1 'resist cold'
+Sk 100 'deadeye'
+Sk 1 'renew bones'
+Sk 1 'breath of the dead'
+Sk 1 'intensify death'
+Sk 1 'deafness'
+Sk 1 'trance'
+Sk 1 'staff'
+Sk 1 'unholyrite'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'levitate'   0  78  12   0   0     524288
+Affc 'giant strength'   0  76   9   4   1          0
+Affc 'attunement'   0  85   9   3   4          0
+Affc 'attunement'   0  76   9   3   3          0
+Affc 'glamour'   0  85  10   4  27          0
+Affc 'empowerment'   0  81  10   3   5          0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 3200
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3200
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3008
+Nest 1
+Cond 100
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 16193
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 3806
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3763
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16193
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10975
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 3066
+Nest 1
+Cond 90
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3021
+Nest 1
+Cond 90
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 288
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 97
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 99
+Wear 20
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1408224899
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Katra'.
+~
+Sex  1
+HMV  123 123 134 134 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

@@ -1,0 +1,458 @@
+#PLAYER
+Name Edenath~
+Surname Ainlwis~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1399679127
+LogO 1404423711
+Vers 10
+Act  CDEFGQTe
+Desc Black shoulder length hair frames this mans face.  An emotionless stare
+looks out from his deep brown eyes.  A square jaw looks to be clenched
+tightly together.  Black pants and a white shirt look to be tailored to his
+exact measurements against his slender build.  Black boots with dull silver
+buttons adorn his feet.  A long sword is strapped to his back, while two
+daggers hang from his hip.  
+~
+Prom {r%hh %vv {W%Xx {w%gs {y%sg{x %B%c~
+Race half-elf~
+Sex  1
+Cla  9
+Hmtown 2
+Levl 11
+recall_point 2659
+Levscale 30
+Xptolev  580
+Sec  0
+Plyd 87810
+Not  0 0 0 0 0
+Scro 28
+Room 2538
+HMV  132 267 122 122 69 163
+Steel 574
+Gold 2341
+Bank 0
+Exp  21320
+AfBy JTVb
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1310720
+Comm AMNO
+Pos  8
+Prac 6
+Save  -2
+Alig  -695
+Ethos 2
+Hit   1
+ACs 53 27 40 98
+Wimp  53
+Attr 13 15 20 16 20 16
+AMod 5 7 16 11 14 4
+Pass EdF9nIW0DmY5w~
+Titl  the Active~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 15
+HMVP 217 122 163
+Cnd  0 20 40 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 32 'detect poison'
+Sk 1 'haste'
+Sk 1 'infravision'
+Sk 30 'axe'
+Sk 44 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 2 'shield block'
+Sk 1 'spear'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 1 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 53 'envenom'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 92 'battle tactics'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 1 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 1 'tumble'
+Sk 100 'scout'
+Sk 1 'second backstab'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+Affc 'haste'   0 100  25   4   2    2097152
+Affc 'levitate'   0 100 101   0   0     524288
+Affc 'waterlungs'   0  76  53   0   0  134217728
+Affc 'empowerment'   0  78  50   3   5          0
+Affc 'giant strength'   0  78  50   4   1          0
+Affc 'attunement'   0  79  49   3   3          0
+Affc 'attunement'   0  79  49   3   4          0
+Affc 'glamour'   0  78  49   4  27          0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3719
+Nest 0
+Cond 96
+Wear 20
+Cost 350
+End
+
+#O
+Vnum 3720
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3722
+Nest 0
+Cond 100
+Wear -1
+Cost 183
+End
+
+#O
+Vnum 3717
+Nest 0
+Cond 100
+Wear -1
+Cost 111
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 100
+Wear -1
+Cost 360
+End
+
+#O
+Vnum 3721
+Nest 0
+Cond 100
+Wear -1
+Cost 330
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 720
+Nest 0
+Cond 100
+Wear 9
+Cost 100
+End
+
+#O
+Vnum 720
+Nest 0
+Cond 100
+Wear 10
+Cost 100
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 765
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 3
+Cost 574
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 100
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 638
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 14
+Cost 100
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 435
+End
+
+#O
+Vnum 16178
+Nest 0
+Cond 99
+Wear -1
+Cost 2151
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 926
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#PET
+Vnum 11215
+Name eagle pet~
+LogO 1404423711
+Desc A loyal trained eagle. It has brown feathers and a sharp looking beak.
+A neck tag says 'I belong to Edenath'.
+~
+Sex  0
+HMV  146 146 140 140 100 100
+AfBy SZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  20 20 20 40
+Attr 12 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

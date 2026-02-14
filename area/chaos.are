@@ -1,0 +1,1103 @@
+#AREADATA
+Name Chaos~
+Builders Chaos~
+Continent (null)~
+VNUMs 13400 13599
+Credits Chaos~
+Security 9
+End
+
+
+
+#MOBILES
+#13400
+mon goblin~
+a Mon's goblin raider~
+A small goblin slinks around here, looking for someone to raid.
+~
+It has a small body, with mottled green skin and beady eyes.  It seems
+slightly nervous, constantly glancing around as if expecting trouble at any
+minute.  It might be best to stear clear of this one before it gets up the
+courage to attack.  Or maybe just kill it.  
+~
+goblin~
+AB J -500 0
+1 1 1d10+1 0d0+0 1d2+0 pound
+0 0 0 0
+FJR 0 Q C
+stand stand none 5
+AHMV ABCDEFGHIJK small unknown
+M GREET 13401 100~
+M GRALL 13400 100~
+#13401
+marshmellow stay puff stay-puff man~
+{Wthe Stay-Puff marshmellow man{x~
+{WAn enourmously large man made of marshmellows is here, buisily crushing things.{x
+~
+He is easily 60 feet tall, and made solidly of marshmellows.  He has a
+goofy grin on his face, which changes little as he wanders around smashing
+things.  He wears an immense sailor hat on his equally immense head, and a
+sailing scarf tied jauntily around his neck.  But you have to wonder, what
+vile magicks would create such a horrible beast?  
+~
+giant~
+AB Dac -1000 0
+150 50 1d1+29999 0d0+0 50d10+50 crush
+10 10 10 15
+CDEINO E IJ GH
+stand stand male 0
+ACHMS ABCGHJK giant unknown
+F res H
+F vul JP
+F for V
+F par DEFI
+#13412
+cleric~
+A cleric~
+A cleric stands here waiting to help the injured.
+~
+~
+human~
+ABa 0 0 0
+0 0 5d8+10 15d169+1000 3d8+3 none
+0 0 0 0
+0 ABCDEFGHIKLMNOPQRTXYZ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+#13418
+shopkeeper~
+Gilas the shopkeeper~
+Gilas the shopkeeper waits by the counter for your order.
+~
+A wrinkled, hunched over old man sits on a stool trying to keep his
+balance with a cane.  
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+EFK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium
+#13420
+death knight~
+Death Knight~
+A skeletal figure walks toward you, covered in charred Solamnic armor
+~
+Moving with soldierly precision, the Death Knight moves toward you, ready
+to take you into the Abyss.  
+~
+human~
+ABFGO DFHO -1000 0
+75 75 151d25+1515 75d10+85 25d3+42 slash
+-41 -41 -41 -25
+EFK IJLMPQ BG H
+stand stand none 3000
+I ABC medium
+F for AHMV
+F par DEFGHIJK
+#13421
+questmaster~
+(no short description)~
+(no long description)
+~
+~
+human~
+ABY 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium
+F for AHMV
+F par ABCDEFGHIJK
+#13422
+shady figure~
+shady figure~
+A shady figure stands here, waiting to sell you something.......good...
+~
+A shady figure emerges from the shadows, wearing very expensive clothes and
+jewelry.  His crooked smile beckons you to buy something.
+~
+human~
+AB DF 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+#13447
+Ellen the healer~
+(no short description)~
+(no long description)
+~
+~
+human~
+ABVY 0 1000 0
+120 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCIJKL 0 0
+stand sit female 0
+HMV ABCDEFGHIJK medium
+F for A
+#13450
+barbarian shaman~
+A barbarian shaman~
+A barbarian shaman sits upon the ground meditating.
+~
+The shaman is wearing very thin leather clothing, which is as dusty as
+the rest of him.  Looking very old and weary, you wonder how he could have 
+made it up the mountain...
+~
+human~
+AB DF 750 0
+200 200 401d66+8081 200d10+85 66d3+105 thwack
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium
+#13460
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium
+#13566
+farmer~
+a poor farmer~
+A poor farmer goes about his mundane existence in life 
+~
+Many years of hard work have produced a man like this.  His skin is
+weathered and brown from many days plowing in the fields.  His hands and feet
+are as tough as leather due to the work.  He is carrying his latest crop to
+the market to sell to whoever wants to buy his goods.  
+~
+human~
+AG 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+EI 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium
+#13569
+guild cleric~
+a guild cleric~
+A guild cleric stands here, his face shrouded by a cowl.
+~
+Time and devotion to his deity is all the cleric has to show in the
+world.  His clothes are not the most extravagant but they are not the
+cheapest either.  He goes about his business at hand and will not be swayed
+from its course. 
+~
+human~
+AGQ 0 0 0
+70 70 141d23+1415 70d10+85 23d3+40 none
+-37 -37 -37 -22
+0 0 0 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium
+#13570
+faizel~
+faizel the wise~
+Faizel the wise stoops over his books, waiting to train the young and impatient.
+~
+You see a wizened old man weathered by time and adventure.  He has
+retired as an active cleric of the world and has resigned the rest of his
+life to teaching the young in the ways of his deity.  
+~
+human~
+ABCJKQb 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCDZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+#13571
+unicorn~
+a mystical unicorn~
+A mystical unicorn stands here in all its majesty
+~
+A creature of myth stands before you, its golden horn glowing with an
+unnatural light.  It is truly the magnificent creature that you were told
+about.  
+~
+unique~
+AI H 0 0
+60 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+E 0 0 0
+stand stand none 0
+0 0 large
+#13572
+ferret~
+a slinky ferret~
+A slinky ferret runs over to you
+~
+On short legs the ferret runs around the room, forreging for something to
+nibble on.  It's nose twitches as you approach, and it scuttles over to you
+and onto your shoulder waiting for you to give it something to eat.
+~
+unique~
+AI 0 0 0
+25 25 51d8+253 25d10+85 8d3+17 none
+-7 -7 -7 -1
+0 0 0 0
+stand stand none 0
+0 0 small
+#13573
+jexharan~
+jexharan the store owner~
+Jexharan the store owner walks around the room with a dustpan and brush in his hands.
+~
+With small beady eyes, Jexharan looks you up and down trying to ses your
+skills, his eyes finally rest on your moneypouch.  Slowly licking his lips,
+he calculates how much money you have in your pouch so he can charge you the
+right price.  
+~
+human~
+ABS 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK small
+#13574
+Royal Baboon~
+a savage royal baboon~
+The savage royal baboon bares it's sharp teeth as you approach
+~
+The baboon has an unnatural speed about it, it comes up to you and bares it's yellowed teeth ready to sink them into your flesh.
+~
+unique~
+AI V 0 0
+45 45 91d15+455 45d10+85 15d3+27 none
+-21 -21 -21 -11
+0 0 0 0
+stand stand male 0
+G I medium
+#13577
+mayor atenaarde~
+The wiley mayor Astenaarde~
+Mayor Astenaarde turns to face you, and begins to chant in the tongue of magic
+~
+You look upon a man with hunger in his eyes.  His only love is his magic
+and everyone else has suffered from it.  He looks at you from under his cowl
+with hate and loathing, preparing to cast his most powerful spells at you.  
+~
+human~
+ABFR H -1000 0
+100 100 201d33+2021 100d10+85 33d3+55 none
+-57 -57 -57 -37
+0 AB 0 0
+stand stand male 3795
+AHMV ABCDEFGHIJK medium
+#13578
+town guard~
+a Town guard patrolling the area ~
+A town guard awaiting troublemakers, stares at you
+~
+Scarred by many battles this man in is no mood to be toyed with.  His
+hand is always on his weapon ready to strike andbody who steps out of line
+in his town.  He has the look about him of a mercenary but you could be
+mistaken.  
+~
+human~
+AGT 0 0 0
+60 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+EJ 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium
+#13580
+iagaremis~
+Iagaremis the smith~
+Iagaremis the smith stands over his anvil making new weapons.
+~
+Iagaremis the smith is a tall and burly man with more hair on his chest
+than you have on your head.  He has a few scars on his arm and one across
+his left eye, making his vision very poor out of that eye.  His vision does
+not affect his work though, as the weapons he produces are of exceptional
+quality.  
+ 
+~
+human~
+ABT 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK large
+#13582
+sarah~
+Sarah the green grocer~
+Sarah the green grocer goes about polishing the apples for people to buy
+~
+As you look apon Sarah you gasp at her beauty.  She wears common farmers
+clothes, but put her in teh clothes of a royal and she would definatly look
+the part.  As she goes about her business you notice that she walks around
+with a certain pride about her, a sign you think of someone who loves her
+work.  
+~
+none~
+ABC 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+0 0 medium
+#13584
+izazul~
+Izazul the demon~
+Izazul has come to take your soul and banish it to hell
+~
+One of hells lesser minions, He come for one of the lower halls in hell
+where he is considerd thier gereral.  His fangs drip with icor and his hand
+are in constant flame.  
+ 
+~
+unique~
+ABCFRT BHVZ -5000 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+ADEFK BH 0 IY
+stand stand none 30000
+C 0 giant
+#13587
+healer, cleric, man~
+a healer~
+A man dressed in robes is here praying, probably a healer.
+~
+He is wearing brown robes and is very tall.
+~
+human~
+ABQa DF 1 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+#13590
+Village edler~
+an old man~
+An old man sits with his legs crossed.
+~
+You see an old man sitting here.
+He is dressed in ordinary robes.
+He seems very wise looking.
+~
+human~
+A 0 1 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 ABCD 0 0
+sit sit male 0
+AHMV ABCDEFGHIJK medium
+#13592
+shopkeeper man~
+a shopkeeper~
+A pudgy man with a pleasant smile looks at you.
+~
+A pudgy man with a pleasant smile looks at you.
+~
+human~
+AB DF 1 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 BD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium
+#13599
+Hiver ~
+it will kill you~
+It will kill you
+~
+~
+theiwar~
+AFT AJPQRSWbc 0 0
+30 5 20d6+300 400d20+500 400d20+400 none
+40 0 0 0
+0 FKRX 0 IRS
+stand stand male 5000
+AHMV ABCDEFGHIJK giant
+#0
+
+
+
+#OBJECTS
+#13400
+sign small wooden~
+a small wooden sign~
+A small wooden sign with an important message written on it is posted here.~
+wood~
+treasure 0 0
+0 0 0 0 0
+0 1 0 P
+E
+sign~
+Be kind to your fellow builders/coder/whatever else we have, dont try
+anything you know is bugged.  If you find a bug, report it (e-mail at the
+moment, or a note when they work).  And be sure to tell everyone to asave
+changed so no one loses anything if we crash.  Feel free to use up all the
+objects/mobs/rooms in this area you want, but be aware other people who want
+to use the vnums are supposed to be able to so nothing saved here will be so
+for long.  If you have any problems with this place, let me know.  Oh yeah,
+and please dont delete/save over any of the signs/room descriptions I put
+here to explain the uses.  All others are fine.  
+Thanks, and enjoy your experiments,
+ 
+Laurent
+~
+#13401
+sign wooden~
+a small wooden sign~
+A small wooden sign with important information on it is posted here.~
+wood~
+treasure 0 0
+0 0 0 0 0
+0 1 0 P
+E
+sign~
+Welcome to fun with MobProgs.  Possibly one of the most confusing
+aspects of building.  All I can say is, good luck and dont stare at the walls
+to hard it leads to brain rot.  
+ 
+Laurent
+~
+#13402
+sign wooden small~
+a small wooden sign~
+A small wooden sign with an important message on it is posted here.~
+wood~
+treasure 0 0
+0 0 0 0 0
+0 1 0 P
+E
+sign~
+This room is for you to play with your big bad monster creations.  Use
+commands like force and switch to make them fight, or better yet make
+monster teams!  Having mobs fight is a great way to test comparative
+strengh, and generaly see if your idea works properly.  Once you've got a
+combat momprog working, try it out here.  
+ 
+Laurent
+~
+#13403
+absinthe fountain~
+a fountain of {GAbsinthe{x~
+A fountain spewing green liquid sits here, waiting to be drunk from.~
+unknown~
+fountain G A
+-1 -1 'absinthe' 0 0
+100 10 1000 P
+#13404
+ring of zeddicus~
+zedd's Ring~
+A very nice gold ring.~
+steel~
+armor I B
+ABCDE ABCDE ABCDE CDE 0
+150 16 146 P
+#13405
+alter to zedd~
+alter to Zeddicus~
+An alter stands here.~
+stone~
+container O 0
+200000 0 0 100000 0
+100 0 0 P
+#13406
+a test item~
+a test item~
+This test item says "pick me up" right on it.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+O GET 13406 100~
+#13411
+pit~
+pit~
+A pit for donations is here.~
+unknown~
+container 0 P
+0 0 0 1000000000 0
+0 0 0 P
+#13413
+fountain~
+a fountain~
+A bubbling fountain ready to quinch your thirst is here.~
+unknown~
+fountain O 0
+-1 -1 'water' 0 0
+0 0 0 P
+#13416
+Cure potion~
+a cure potion~
+A strange bubbling vial lies here.~
+unknown~
+potion G A
+10 'cure critical' 'reserved' 'reserved' 'reserved'
+8 3 1000 P
+#13417
+potion of protection~
+a potion of protection~
+A strange white potion lies here.~
+unknown~
+potion G A
+10 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 1 1500 P
+#13419
+potion of blessing~
+a potion of blessing~
+A potion of blessing lies here.~
+unknown~
+potion G A
+10 'bless' 'reserved' 'reserved' 'reserved'
+12 1 2000 P
+#13420
+defender sword~
+the Defender~
+The shining blade gives off a defensive aura.~
+steel~
+weapon AG ANO
+sword 7 7 slash D
+60 7 50000 P
+#13421
+fountain~
+fountain of Greed~
+A fountain made from pure, untarnished gold sits here.~
+Gold~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#13427
+antidote~
+potion of antidote~
+A potion of antidote sits here.~
+liquid~
+potion 0 AO
+40 'cure poison' 'reserved' 'reserved' 'reserved'
+10 0 2000 P
+#13428
+healing~
+potion of healing~
+A potion of healing sits here~
+liquid~
+potion 0 AO
+40 'heal' 'reserved' 'reserved' 'reserved'
+10 0 10000 P
+#13429
+flying~
+potion of flying~
+A potion of flying sits here~
+liquid~
+potion 0 AO
+40 '' 'reserved' 'reserved' 'reserved'
+10 0 5000 P
+#13430
+Ring of Stupidity~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#13444
+gauntlets of bob~
+mine~
+Mine~
+shadows~
+armor ABHY AH
+0 0 0 0 0
+104 1 2147483647 P
+#13450
+brass key~
+a brass key~
+A brass key lays upon the ground.~
+metal~
+key 0 AO
+0 0 0 0 0
+10 1 0 P
+#13451
+oak chest~
+an oak chest~
+A very weathered oak chest sits in the corner.~
+wood~
+container 0 AO
+50 ABD 13450 15 0
+10 15 2000 P
+#13452
+hollowed stump~
+a hollowed out tree stump~
+A hollowed out tree stump sit here, waiting to be filled.~
+wood~
+container M 0
+0 0 0 0 0
+0 0 0 P
+#13453
+pool blood~
+a Pool of Blood~
+A Pool of Blood sits here.~
+unknown~
+portal G 0
+0 K 0 BCDFGHIJL 0
+0 0 0 P
+#13460
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#13566
+wooden door~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+0 0 0 0 0
+0 0 0 P
+#13569
+spring fountain~
+a fountain of cleansing~
+A fountain used to clense all ailments sits here~
+unknown~
+fountain I 0
+-1 -1 'water' 0 0
+0 0 0 P
+#13570
+holy symbol~
+a holy symbol of faith~
+A golden holy symbol of true fiath lies here~
+gold~
+jewelry AI ACO
+0 0 0 0 0
+40 5 700 P
+A
+3 3
+A
+1 2
+#13573
+Dustpan~
+an obsidian dustpan~
+A dustpan made of the blackest obsidian lies here~
+obsidian~
+weapon Y AO
+exotic 120 120 pound C
+100 3 7000 P
+#13576
+Magic Door~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#13577
+summoner's gem~
+a summoners gem~
+A summoner's gem made from the abyss itself lies here~
+abyss~
+gem 0 AO
+0 0 0 0 0
+90 5 13000 P
+A
+3 2
+A
+4 2
+#13578
+claymore~
+a steel claymore~
+A finely crafted steel claymore lies here~
+steel~
+weapon AB AN
+sword 40 40 sting 0
+60 8 1250 P
+#13579
+childs wooden sword~
+a childs wooden sword~
+A wooden sword made for a child lies here~
+wood~
+weapon 0 AN
+sword 5 5 slash 0
+5 2 100 P
+#13580
+double sided axe~
+a double sided axe ~
+A Double sided axe made of the finest steel lies here~
+unknown~
+weapon 0 AN
+axe 15 15 chop F
+30 10 690 P
+#13581
+granadilla~
+a maroon granadilla~
+A plump maroon granadilla lies here~
+food~
+food 0 AO
+AB B 0 0 0
+3 1 15 P
+#13582
+green apple~
+a ripe green apple~
+A ripe freshly picked green apple sits here~
+fruit~
+food 0 AO
+AC AB 0 0 0
+5 1 35 P
+#13583
+black pepper~
+a small black pepper~
+A small black pepper lies here~
+unknown~
+food 0 AO
+BD BD 0 0 0
+8 1 90 P
+#13584
+summoning key~
+a summoners key~
+A red summoners key lies here~
+unknown~
+key 0 A
+0 0 0 0 0
+15 1 1 P
+#13585
+sword of frost~
+frosty~
+Frost sits here~
+ice~
+weapon GI AN
+exotic 200 200 wrath BC
+100 1 1 P
+#13586
+golden dragon fountain~
+a fountain~
+Here stands a giant fountain shaped like a dragon.~
+unknown~
+fountain O 0
+0 0 'orange juice' 0 0
+1 0 0 P
+#13587
+sword of zeddicus~
+zedd's Sword~
+Soul Stealer, sword of Zeddicus.~
+steel~
+weapon 0 O
+exotic 16 10 slash C
+150 16 7530 P
+A
+19 14
+A
+18 14
+#13588
+robes of zeddicus~
+zedd's Robes~
+Average looking robes with intricate designs all over them.~
+unknown~
+armor I D
+ADF ADF ADF BCF 0
+200 21 204 P
+#13589
+Sword o dhoom~
+{b sword of darkness{x~
+A sword that appears to be made out of shadows is here~
+shadows~
+weapon BEFGHWY AN
+exotic 1000 400 none 0
+60 7 1 P
+#13590
+coat trench~
+{Da long black trench coat{x~
+A folded black trench coat from the highlands lies here.~
+unknown~
+armor CGSY AD
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+130 3 10000 P
+A
+18 10
+A
+19 10
+#13591
+token chaos~
+{D({yGlowing{D) {c({rHumming{c) {ga {RC{rh{Ra{ro{Rs {BT{bo{Bk{be{Bn{x~
+A small metallic token with the emblem of {RC{rh{Ra{ro{Rs{x, the father god, lies here.~
+unknown~
+treasure GY AO
+0 0 0 0 0
+1 0 10 P
+#13592
+body guard~
+[(body-guard)]~
+A piece of armor for guarding your body.~
+unknown~
+armor 0 AD
+0 0 0 0 0
+1 1 0 P
+#13593
+key phantom~
+{Da phantom key{x~
+{DA phantom outline of a key flickers here.{x~
+unknown~
+key CGY AC
+0 0 0 0 0
+110 1 1 P
+#13594
+pony tail ponytail~
+{DA black ponytail{x~
+A black ponytail lies here~
+hair~
+armor SY AE
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+130 0 100 P
+A
+18 10
+A
+19 10
+#13595
+tattoo pocket dimension~
+{gA {YT{ya{Yt{yt{Yo{yo {ro{Rf {Ba {DP{wo{Wc{Dk{we{Wt{D-{wD{Wi{Dm{we{Wn{Ds{wi{Wo{Dn{x~
+A strange squigly pattern of ink puddles here.~
+ink~
+container ABGIY AR
+1000000 ABCD 13593 1000000 0
+102 2 1000000 P
+#13596
+prismatic potion~
+a prismatic potion~
+A rainbow colored potion lies here shimmering.~
+unknown~
+potion ABGUY A
+200 'sanctuary' '' 'detect invis' 'haste'
+1 1 100 P
+#13597
+sword marshmellow roaster~
+{DA {Bblue {Dsteel sword known as '{WMarshmellow Roaster{D'{x~
+{DA {Rflaming {Bblue {Dsteel sword known as '{WMarshmellow Roaster{D' lies here.{x~
+blue steel~
+weapon AGIY AN
+sword 20 80 slice CDE
+101 3 100000 P
+#13598
+blue marshmellow anti armor plate~
+{WAnti-Marshmellow {Bblue {Wplate armor{x~
+{WA breast plate made of {Bblue steel {Wdesigned to resist marshmellows lies here.{x~
+blue steel~
+armor AGIY AD
+CFG CFG CFG BCEH 0
+22 6 10000 P
+#13599
+blade phase ethereal~
+{ra {Rs{gh{Gi{ym{Ym{be{Br{mi{Mn{Dg {Bp{bh{Ba{bs{Be {rb{Gl{ya{Bd{De{x~
+{DA plane of phase energy formed into the shape of a blade floats here.{x~
+phase~
+weapon ABFGIJY AN
+exotic 1000 1000 slash ABCDEGH
+101 0 1000000 P
+#0
+
+
+
+#ROOMS
+#13400
+Room of Testing~
+Before you is a strange facility thats looks as if it has been specialy
+designed to test whatever experiments have been thought up in relative
+safety.  You realize that anything you've thought about trying but are leary
+about trying because of possible damage could be done here more safely.  So,
+strap on some goggles, don your lead vest, and enjoy!  
+~
+0 0 0
+D0
+~
+~
+0 0 13401
+S
+#13401
+Lets play with MobProgs!~
+The walls of this room are all clear and perfectly reflective crystal of
+some sort.  It has a strange, almost hypnotizing affect on the senses,
+seeming to make it easier to assert your mental influence on lesser
+creatures.  This would probably be a good place to mentaly program some
+monsters.  
+~
+0 0 0
+D1
+~
+~
+0 0 13402
+D2
+~
+~
+0 0 13400
+R GREET 13401 100~
+S
+#13402
+Kombat Korner~
+Sunlight slants down from overhead, which leads you to notice the most
+obvious different about this room from all the others: there is no ceiling. 
+The walls are more than twice as high as the previous rooms, and made of
+some silvery material you'd guess to be a steel alloy.  Off to the side
+stands a small metal building that looks almost like a house, with a metal
+door on the side obviously designed to protect its inhabitants from some
+danger or another.  All toegher, this place resembles a metal arena,
+possibly for fights between the strongest of competitors.  
+~
+0 0 0
+D0
+~
+~
+0 0 13403
+D3
+~
+~
+0 0 13401
+S
+#13403
+{RC{rr{Ba{bz{Yy {yC{Go{gl{Do{wr{Ws{x~
+{gColors {Yare a{g wonderful a{Ynd of{gten unappreciated way to{Y make{g a description for
+monsters, {Yobjec{gts, and even{Y room{g seem more lively and in{Yteres{gting.  When used wisely,
+they can {Yeven {ghelp describ{Ye how{g something looks without{Y actu{gally drawing it (thats
+ascii, n{Yext r{goom).  For e{Yxampl{ge, notice how the altern{Yating{g two colors here make it
+kind of{Y look{g like sunlig{Yht fi{gltering down through a f{Yorest{g?  And even just making a
+descri{Yption{g all one col{Yor (m{gake sure its a readable {Yone) {gcan help loads.  You can
+leave{Y this{g colorful wo{Yrld s{gouth or north.{X
+~
+0 0 0
+D0
+~
+~
+0 0 13404
+D2
+~
+~
+0 0 13402
+S
+#13404
+{RASCII Art{x~
+{D{D   ____      ____                                    {D    ____      ____ 
+  ____|____|____|____|                                       |____|____|____|
+  __|____|____|____|_|                                       |_|____|____|___
+  ____|____|____|____|                                       |____|____|____|
+  __|____|____|____|_| _____________________________________ |_|____|____|___
+  ____|____|____|___/-|         __      _    _          __  |-\___|____|____|
+  __|____|____|___/   | |    | |_  |   / \  / \ |\  /| |_   |   \___|____|___
+  ____|____|____/     | | /\ | |   |  |    |   || \/ | |    |     \____|____|
+  __|____|____/       | |/  \| |__ |__ \_/  \_/ |    | |__  |       \____|___
+  ____|____|__|       |                   to                |       |__|____|
+  __|____|____|       |  --|--  / \  |    | |\  |           |       |____|___
+  ____|____|__|       |    |   |   | | /\ | | \ |           |       |__|____|
+  __|____|____|       |    |    \_/  |/  \| |  \|           |       |____|___
+  ____|____|__|-------|_____________________________________|-------|__|____|
+  __|____|____|                                                     |____|___
+  ____|____|__|                                                     |__|____|
+  __|____|____|_____________________________________________________|____|___
+  ____|____|____|____|____|____|____|____|____|____|____|____|____|____|____|
+  __|____|____|____|____|____|____|____|____|____|____|____|____|____|____|__
+  ____|____|____|____//=||==||==||==||==||==||==||==||==||==||=\\|_____|____|
+  __|____|____|____|//==||==||==||==||==||==||==||==||==||==||==\\___|____|__
+  ____|____|____|__//|==||==||==||==||==||==||==||==||==||==||==|\\____|____|
+  __|____|____|___//||==||==||==||==||==||==||==||==||==||==||==||\\_|____|__
+  ____|____|____|//=||==||==||==||==||==||==||==||==||==||==||==||=\\__|____|
+  __|____|____|_//==||==||==||==||==||==||==||==||==||==||==||==||==\\____|__
+  ____|____|____||/ \/ /\// \/ |\/ /\/  \/  \/  \/  \/| \/  \/  \/  ||_|____|
+  ____|____|____|| /  /  /  /  |                      |  \  \  \  \ ||_|____|
+  __|____|____|_||/| /| /| /| /|                      |\ |\ |\ |\ |\||____|__
+  ____|____|____|| |/ |/ |/ |/ |                      | \| \| \| \| ||_|____|
+  __|____|____|_|| /  /  /  /  /                      \  \  \  \  \ ||____|__
+  ____|____|____||/  /  /  /  /                        \  \  \  \  \||_|____|
+  __|____|____|_||| /| /| /| /                          \ |\ |\ |\ |||____|__
+  ____|____|____|||/ |/ |/ |/                            \| \| \| \|||_|____|
+  __|____|____|_||/  /  /  /                              \  \  \  \||____|__
+  ____|____|____||  /  /  /                                \  \  \  ||_|____|
+  __|____|____|_|| /| /| /                                  \ |\ |\ ||____|__
+  ____|____|____||/ |/ |/                                    \| \| \||_|____|
+  __|____|____|_||  /  /                                      \  \  ||____|__
+  ____|____|____|| /  /                                        \  \ ||_|____|
+  __|____|____|_||/| /                                          \ |\||____|__
+  ____|____|____|| |/                                            \| ||_|____|
+  _|_____|____|_|| /                                              \ ||____|__
+  ____|____|____||/                                                \||_|____|
+  __|___by Chaos||                                                  ||____|{x 
+~
+0 0 0
+D2
+~
+~
+0 0 13403
+S
+#13405
+~
+~
+0 2138116 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 13400 0 13400
+M 0 13400 5 13401 1
+O 0 13401 0 13401
+O 0 13406 0 13401
+M 0 13401 1 13402 1
+O 0 13402 0 13402
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#13400
+say Greetings $n
+pause 6
+say I have now paused for 6 pulses
+pause 4
+say I have now paused for 4 pulses
+~
+#13401
+say ola $n me amigo, yoquiro taco bell??
+~
+#13422
+~
+#13471
+~
+#0
+
+#OBJPROGS
+#13406
+obj echo Greetings $n
+pause 6
+obj echo I have now paused for 6 pulses
+pause 4
+obj echo I have now paused for 4 pulses
+~
+#0
+
+#ROOMPROGS
+#13401
+room echo Greetings $n
+pause 6
+room echo I have now paused for 6 pulses
+pause 4
+room echo I have now paused for 4 pulses
+~
+#0
+
+#$

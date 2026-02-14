@@ -1,0 +1,6045 @@
+#AREADATA
+Name Xak-Tsaroth~
+Builders Chislev~
+Continent Abanasinia~
+Controlby 2~
+Faction -250~
+Sector 0
+VNUMs 11201 11399
+Credits Chislev~
+Security 9
+End
+
+
+
+#MOBILES
+#11201
+wolf~
+the wolf~
+A dirty wolf stands here and is staring at you menacingly!
+~
+The wolf has matted and mangy hair. Its yellowed tooth look capable of rending flesh from bone.
+~
+wolf~
+AG Z 1 0
+4 4 9d2+41 4d10+85 1d4+7 scratch
+6 6 6 7
+FHNP 0 0 0
+stand stand none 20
+AGV ABCDEFJKQV M unknown 0
+#11202
+anga mayor~
+Anga the mayor~
+Anga stands here, ready to hear what her citizens have to say.
+~
+Anga looks rather young to be the mayor.  She has flame red hair, and
+ocean blue eyes.  
+~
+human~
+AB HVa 1000 0
+100 100 201d33+2021 100d10+85 33d3+55 punch
+-57 -57 -57 -37
+CEJNO B 0 0
+stand stand female 1000
+AMV ABCDEFH M unknown 0
+F for H
+F par GIJK
+#11203
+Quest Master~
+the quest master~
+The {CQuest Master {xstands here, ready to give out quests to the brave.
+~
+The questmaster is a stately looking fellow.  He has a neatly trimmed
+dark beard and wears fine clothing.  
+~
+human~
+AB H 0 0
+100 100 201d33+2021 100d10+85 33d3+55 none
+-57 -57 -57 -37
+0 ABCD 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK M unknown 0
+#11204
+knightprac~
+a retired knight~
+A retired knight is here, ready to help you practice your skills.
+~
+The retired knight has graying hair and a long drooping moustache.  His
+armor is polished to a brilliant shine.  This knight may have retired, but
+he has not abandoned the knight's way of life.  
+~
+human~
+ABK H 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 11213 100~
+#11205
+altus oakleaf~
+Altus Oakleaf~
+Altus Oakleaf waits here to sell you weapons.
+~
+From the slight bone structure and angular face, one can tell that Altus
+is a Silvanesti elf.  He has light blonde, almost silver hair and he is
+wearing a shopkeepers apron.  
+~
+qualinesti~
+ABG HJ 900 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CEFJKN ABCD B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11206
+rabbit~
+A small rabbit~
+A small rabbit is bouncing around here.
+~
+The small gray bunny is so cute with its floppy ears and bushy tail!
+~
+rabbit~
+AGH 0 0 0
+2 2 5d2+21 2d10+85 1d2+6 none
+7 7 7 8
+EFHNU 0 0 0
+stand stand none 0
+AGHMV ACDEFHJK S unknown 0
+#11207
+captain guard~
+The Captain of the Guard~
+The Captain of the Guard patrols around Xak Tsaroth.
+~
+This large Bozak draconian has polished his scales to a mirror shine. 
+Dressed in custom-fitted armor, he patrols the streets with an arrogant
+swagger, deferring only to the occasional dark knight.  
+~
+draconian~
+ABT HJO 1000 0
+50 33 67d11+334 33d10+85 11d3+21 slice
+-12 -12 -12 -5
+CDEIKN ABP ELMQ 0
+stand stand male 1000
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+F aff c
+#11208
+Xak Tsorath guard~
+a Xak Tsaroth guard~
+A Xak Tsaroth guard patrols here.
+~
+The guards are all gully dwarves!  The are small and disgusting.  The
+gully dwarves reek of trash.  The dwarf has a large bulbous nose, and a
+ratty beard.  
+~
+dwarf~
+AG J 1000 0
+15 15 23d5+137 15d10+85 4d3+10 punch
+2 2 2 5
+TU 0 LQ R
+stand stand male 150
+AHMV ABCDEFGHIJK S unknown 0
+#11209
+fox~
+a fox~
+A fox sits here staring at you.
+~
+The fox is small and has reddish brown fur.
+~
+fox~
+AG Z 0 0
+2 2 5d2+21 2d10+85 1d2+6 bite
+7 7 7 8
+EFHNR 0 0 0
+stand stand male 30
+AGV ACDEFHJKQV M unknown 0
+#11210
+bear~
+a bear~
+A bear is here roaring in your face!
+~
+Here stands a very large bear.  He stands on his hind legs as you get
+closer to him.  He has blackish coloured fur and smells of rotted meat.  
+~
+bear~
+AG 0 0 0
+5 5 11d2+51 5d10+85 1d5+7 pound
+5 5 5 7
+CDEFKNO 0 EI 0
+stand stand female 100
+AGV ABCDEFHJKUV L unknown 0
+#11211
+lizard~
+a lizard~
+A small lizard is crawling in front of you.
+~
+This small green critter is dashing across the floor trying to get away from you.
+~
+snake~
+AG 0 0 0
+2 2 5d2+21 2d10+85 1d2+6 bite
+7 7 7 8
+R 0 L I
+stand stand none 500
+AGXYc ACDEFKLQVX T unknown 0
+#11212
+snail~
+a snail~
+A snail is crawling along here.
+~
+It is small and leaves behind a slimey trail.
+~
+unique~
+AG 0 0 0
+2 1 1d1+0 1d10+85 1d1+0 digestion
+8 8 8 8
+0 0 0 0
+stand stand none 0
+AGc AFH T unknown 0
+#11213
+beast~
+an ugly beast~
+A grotesque beast is here before you.
+~
+It is large and ugly with grayish colored fur.
+~
+human~
+AG 0 0 0
+6 6 13d2+61 6d10+85 2d3+8 none
+5 5 5 6
+CEHKN 0 0 0
+stand stand none 100
+AGV ABCDEFGH M unknown 0
+F for HM
+F par IJK
+#11214
+robed mage~
+a young mage~
+A young mage walks along here, hidden by his robe.
+~
+You cant tell much about this mage. He is hidden behind his robe.
+~
+human~
+AGR HTV 0 0
+15 15 31d5+152 15d10+85 5d3+12 stab
+0 0 0 2
+CN BP C D
+stand stand male 500
+HMV ABCDEF M unknown 0
+F for A
+F par GHIJK
+#11215
+eagle pet~
+the eagle~
+A trained eagle perches here.
+~
+A loyal trained eagle. It has brown feathers and a sharp looking beak.
+~
+human~
+AI Z 0 0
+10 10 21d3+102 10d10+85 3d3+10 pierce
+2 2 2 4
+FH 0 0 0
+stand stand none 0
+HMV BGHIJKQV S unknown 0
+F for A
+F par ACDEF
+#11216
+pet ferret~
+the ferret~
+A loyal ferret is here.
+~
+It is long and has brown fur.
+~
+human~
+AI 0 0 0
+7 7 15d2+71 7d10+85 2d3+8 bite
+4 4 4 6
+CDHL 0 C 0
+stand stand none 0
+AGV ACDEF M unknown 0
+F for HM
+F par BGHIJK
+#11217
+pet iguana~
+the iguana~
+A small pet iguana is here.
+~
+It is a large, scaley, green lizard.
+~
+human~
+AI 0 0 0
+3 3 7d2+31 3d10+85 1d3+6 scratch
+7 7 7 7
+HN 0 C 0
+stand stand male 0
+AGc CDEFQ M unknown 0
+F for HMV
+F par ABGHIJK
+#11218
+pet snake~
+the snake~
+A trained snake is here.
+~
+It is long and reddish colored. It looks like it could strangle anything.
+~
+human~
+AI 0 0 0
+1 1 3d2+11 1d10+85 1d2+5 bite
+8 8 8 8
+FH 0 C 0
+stand stand none 0
+AGc ADEFQ M unknown 0
+F for HMV
+F par BCGHIJK
+#11219
+slate toughshank trainer~
+Slate Toughshank~
+Slate Toughshank stands here, waiting to train you.
+~
+It is a Male Dwarf, that is Short with a Fat build.  Hair that is Light
+Brown, Long & Braided and has Red colored skin that is Flaky with Light
+Brown eyes.  The appearence of Mature and Immaculate 
+~
+hylar~
+ABJTb HJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+FHN ABCD 0 IR
+stand stand male 0
+AGHMV ABCDEFGHIJKM M unknown 0
+#11220
+street dog~
+a street dog~
+A street dog is growling at you.
+~
+The dog has matted, mangy fur. Its really ugly.
+~
+dog~
+AFGH 0 0 0
+1 1 3d2+11 1d10+85 1d2+5 bite
+8 8 8 8
+FH 0 0 C
+stand stand male 10
+AGV ABCDEFGHIJKQUV S unknown 0
+M RANDOM 11221 15~
+M GRALL 11220 100~
+#11221
+citizen xak tsaroth~
+citizen~
+A citizen of Xak Tsaroth stands here.
+~
+The citizen has a smile on his face. He is clean cut and friendly looking.
+~
+human~
+AG K 0 0
+25 25 38d8+228 25d10+85 7d3+13 punch
+-2 -2 -2 3
+F B 0 D
+stand stand male 500
+AHMV ABCDEF M unknown 0
+F par GHIJK
+#11222
+cleric~
+a cleric~
+A cleric is walking along here, in silent prayer.
+~
+The cleric is dressed in clerical robes, and is clasping his holy symbol.
+~
+human~
+AGQ N 500 0
+23 23 35d7+210 23d10+85 6d3+12 punch
+-1 -1 -1 3
+C 0 BLNQ 0
+stand stand none 300
+AHMV ABCDEF M unknown 0
+F par GHIJK
+#11223
+guildmaster mage~
+a mage~
+Your guildmaster is here watching the apprentice mages.
+~
+He is wearing a mages robe. He has a look if intent concentration in his face.
+~
+human~
+ABKRb DEHNO 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CFHI ABCD 0 0
+stand stand female 100
+AHMV 0 M unknown 0
+F par ABCDEFGHIJK
+M GRALL 11223 100~
+#11224
+guildmaster thief~
+the guildmaster~
+Your guildmaster is here teaching apprentice thieves.
+~
+The guildmaster looks capable of hiding in his own shadow. He is small and wiry.
+~
+human~
+ABKSb DFHVa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+BDHN ABCD 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK M unknown 0
+#11225
+guildmaster sword~
+the guildmaster~
+Your guildmaster is here teaching the apprentices.
+~
+The guildmaster looks like hes seen his share of battle.  He is scarred
+from many fights and has greying hair.  
+~
+human~
+ABKTb DFH 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK M unknown 0
+#11226
+guildmaster cleric~
+the guildmaster~
+Your guildmaster is here, ready to teach you your skills.
+~
+He is old and has a kind look on his face.
+~
+human~
+ABKQ H 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 100
+AHMV 0 M unknown 0
+F par ABCDEFGHIJK
+#11227
+assassin guildmaster~
+the guildmaster~
+Your guildmaster is here, ready to teach you.
+~
+This man looks very dangerous.  He has an evil gleam in his eye that you
+should watch out for!  It is a Male Human, that is 6' & 1" with a Obesse
+build.  Bald and has Black colored skin that is Fair with Light Brown eyes. 
+The appearence of Young and Dirty 
+~
+human~
+ABK H 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 100
+AHMV 0 M unknown 0
+F par ABCDEFGHIJK
+#11228
+Innkeeper~
+the innkeeper~
+The innkeeper is standing here, welcoming people to his inn.
+~
+He is slightly overweight and has a jovial smile.
+~
+human~
+AB 0 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 100
+AHMV 0 M unknown 0
+F par ABCDEFGHIJK
+#11229
+waitress~
+a waitress~
+A waitress is here checking on tables.
+~
+She has shoulder length blonde hair, and a slim figure.
+~
+human~
+AB DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11230
+del~
+Del~
+Del the petkeeper, stands here waiting to sell you an animal.
+~
+Del is young and has black hair.  His hair reaches his shoulders.  He has
+a large friendly smile on his face.  
+~
+human~
+AB DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11231
+mel fruit~
+Mel~
+Mel is here selling her fruits.
+~
+Mel is an older woman with graying hair. She has a slight droop to her back.
+~
+human~
+AB DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK M unknown 0
+#11232
+baker~
+baker~
+The baker is here selling pastries.
+~
+The baker obviously looks as if he partakes of his own goods!  He is a
+rotund man with a large smile.  He is also covered in flour.  
+~
+human~
+AB DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11233
+manny general store~
+Manny~
+Manny is here inventorying his stock.
+~
+Manny appears to be a middle aged man with a normal build and brown hair.
+He looks quite friendly, with his face ever creasing when he smiles.  
+~
+human~
+AB 0 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 100
+AHMV 0 M unknown 0
+F par ABCDEFGHIJK
+#11234
+priestess mish healer~
+a Priestess of Mishakal~
+An older woman stands here, healing all who may be in need medical assistance.
+~
+The priestess is an older women, yet she still has her beauty. She has silvery white hair, and bright blue eyes.
+~
+human~
+ABa H 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#11235
+barkeep~
+the barkeep~
+The barkeep is here, mixing drinks.
+~
+He is a grizzled old guy.  He has a few stains on his worn shirt, and he
+is getting a bit of a belly on him.  
+~
+human~
+AB DF 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+DEHN ABCD 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11236
+city guard~
+a city guard~
+A city guard is here, keeping the city secure.
+~
+This guard looks oddly like a gully dwarf.  It is a small, pitiful
+creature.  Its greasy hair is matted and tangled.  His beard is in the same
+condition.  The most alarming thing is the odor about the creature.  It
+reeks of day old garbage.  
+~
+dwarf~
+AGT J 0 0
+15 15 31d5+152 15d10+85 5d3+12 pound
+0 0 0 2
+0 0 LQ R
+stand stand male 350
+AHMV ABCDEFGHIJK S unknown 0
+#11237
+oktal~
+Oktal~
+Oktal stands here behind his counter.
+~
+Oktal is a neat mage with white robes. He looks withdrawn and doesnt speak much.
+~
+human~
+ABR DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11238
+tanner~
+Tanner~
+Tanner, the elven tattoo artist, is here.
+~
+Tanner is a Kagonesti, and he is covered with tattooed spirals and leaves.
+~
+kagonesti~
+AB DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD I Z
+stand stand none 50000
+AHMV ABCDEFGHIJK M unknown 0
+#11239
+waiter~
+a waiter~
+A waiter is here serving food and taking orders.
+~
+The waiter has black hair and a stylish little moustache. He is well groomed and looks suited to his line of work.
+~
+human~
+AB 0 0 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand none 0
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#11240
+old priest~
+an old priest~
+An old priest is here, selling holy items.
+~
+The priest is old and wrinkled, with mussed white hair.
+~
+human~
+ABQ H 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#11241
+jeweller~
+the jeweller~
+The jeweller is standing here, ready to sell you some gems.
+~
+The jeweller is a young woman with gem dust in her hair. It almost looks like glitter.
+~
+human~
+AB 0 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#11242
+azus~
+Azus~
+The elven potion master Azus is here to sell potions to you.
+~
+Azus has pointed elf ears, and almond shaped hazel eyes.
+~
+qualinesti~
+AB DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand none 50000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#11243
+thug~
+a thug~
+A tough looking thug stands here in his alley.
+~
+He is a big tattooed and ugly looking man.  He smells like he's been in
+this alley for weeks with no bath.  
+~
+human~
+AB V -500 0
+45 45 68d15+410 45d10+85 12d3+20 punch
+-12 -12 -12 -2
+F 0 E 0
+stand stand male 1000
+HMV ABCDEF M unknown 0
+F for A
+F par GHIJK
+#11244
+Talet Ironhammer~
+Talet~
+Talet Ironhammer stands here hawking his wares.
+~
+He is an old grumpy dwarf with a full white beard and a rather large nose.
+ 
+~
+dwarf~
+AB J 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#11245
+gully dwarf~
+a gully dwarf~
+A gully dwarf is here waving a dead rat at you.
+~
+The gully dwarf is small and EXTREMELY dirty.  It smells worse than trash
+and its grubby beard has grown in spotches.  
+~
+aghar~
+A J 0 0
+2 2 5d2+21 2d10+85 1d2+6 bite
+7 7 7 8
+0 0 LQ IR
+stand stand none 100
+AHMV ABCDEFGHIJK M unknown 0
+#11246
+ara banker~
+Ara~
+Ara is here, ready to deposit your gold.
+~
+She is a young woman with dark colored hair and and a pretty smile.  
+~
+human~
+ABde DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#11247
+draconian~
+a draconian~
+A well armed draconian is walking around here.
+~
+The draconian is tall, with a scales covering his body from his lizard like face to his stubby tail.
+~
+draconian~
+AGT JOTc -1000 0
+75 75 151d25+1515 75d10+85 25d3+42 claw
+-41 -41 -41 -25
+CDFJR Q BE 0
+stand stand male 5000
+AHMVZ ABCDEFGHIJKPQUVWX M unknown 0
+F imm P
+F res M
+#11248
+bob billy~
+Bob the Pet~
+Bob the pet stands here with his thumb up his ass.
+~
+~
+human~
+AI 0 0 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11280
+baaz draconian~
+a Baaz~
+A {yBaaz{x Draconian roams about the city, terrorizing all it's citizens.
+~
+Baaz are the smallest and most common of the Draconian race.  Born of
+corrupted Brass Dragon eggs they were the first to be brought to life
+through the dark magicks that twisted the good Dragon eggs.  Baaz have
+scales that range in color from tinges of bronze to dark green, and have
+blood red eyes which look down a dog-like snout.  Their shoulders are
+stooped and have small wings protruding from the backs of them.  Unlike
+their brethren they like the dress of the Dragon Armies, they also have been
+known to be able to disguise themselves as humans with masks and bulky
+clothing 
+~
+draconian~
+AGT FJOc -1000 0
+80 80 120d26+1457 80d10+85 22d3+31 claw
+-28 -28 -28 -12
+CDGIKR Q BEP 0
+stand stand male 4500
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res M
+#11285
+khisanth black dragon~
+Khisanth the Black Dragon~
+Khisanth the Great Black Dragon, lies here waiting to slaughter all whom disturb her.
+~
+Towering before you stands the Great Black Dragon, Khisanth.  From head
+to tail, she's about thirty feet in length.  Razor claws and sharp pointy
+teeth, instill great fear into your body and soul.  Obsidian scales, darker
+than the sky at night itself, cover her entire body.  These scales are as
+large shields in some areas.  Thick horns, at least two feet long, protrude
+from the top of her skull.  Slanted yellow eyes roll side to side, scanning
+the entire area.  
+ 
+~
+dragon~
+ABRT DFJTVc -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 acbite
+-47 -47 -47 -22
+ADEFGHIMORT AB CEGKM NP
+stand stand female 15000
+AHZ ACDEFHJKPQUVX G unknown 0
+F res BH
+F vul FI
+M DELAY 11286 100~
+M GRALL 11285 100~
+#11398
+warden~
+the prison warden~
+The prison's Warden keeps watch of all the prisoners.
+~
+It is a Male Human, that is 5' & 1" with a Strong build.  Bald and has
+White colored skin that is Flaky with Hazel eyes.  The appearence of Young
+and Unkempt 
+~
+human~
+AB 0 0 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 ACD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11399
+captain ferrel~
+{xCaptain Ferrel~
+Moderately rough looking, the Captain of the ship stands here.
+~
+This old human has a rough appearance.  His beard is white and moderately
+filthy.  He wears an eyepatch over his left eye, his right eye heavily
+bloodshot.  His only purpose here is to take passengers safely across the
+New Sea between Solamnia and Abanasinia.  He doesn't appear to be very
+friendly, perhaps it would be best not to talk to him and just keep to
+yourself.  
+~
+human~
+AB 0 0 0
+150 150 225d50+4096 150d10+85 42d3+55 beating
+-61 -61 -61 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#11201
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 R
+#11202
+red blade fire brand sword~
+a {rred{x blade named {RFirebrand{x~
+A red hued blade lies here.~
+steel~
+weapon AG 0 ANY
+sword 2 22 slash 0
+40 6 10000 P
+A
+18 5
+A
+19 5
+#11203
+titanium plate armor~
+a suit of durable titanium armor~
+A suit of durable titanium armor is here on the ground.~
+titanium~
+armor G 0 ADZ
+ACD BCD E ABC C
+50 22 500 P
+A
+13 20
+#11204
+titanium helm~
+a titanium helm~
+A helm made of titanium lies here.~
+titanium~
+armor 0 0 AEZ
+D ABC ABD AB 0
+30 15 500 P
+#11205
+titanium shield~
+titanium shield~
+A titanium shield lies here.~
+titanium~
+armor 0 0 AJY
+D AD ABC AB 0
+30 17 500 P
+A
+17 4
+A
+19 2
+#11206
+titanium sleeves~
+titanium sleeves~
+A pair of titanium sleeves is here on the ground.~
+titanium~
+armor 0 0 AIZ
+AD D CD AB 0
+30 11 400 P
+A
+2 2
+#11207
+titanium gauntlets~
+titanium gauntlets~
+A pair of gauntlets lie here.~
+titanium~
+armor G 0 AHZ
+ABC BC BD AB 0
+30 10 400 P
+A
+18 4
+#11208
+titanium greaves~
+titanium greaves~
+A set of greaves are here.~
+titanium~
+armor 0 0 AFZ
+AD D CD AB 0
+30 15 400 P
+A
+14 20
+#11209
+titanium boots~
+titanium plated boots~
+A pair of sturdy boots has been left here.~
+titanium~
+armor 0 0 AGZ
+D ABC ABD AB 0
+30 11 400 P
+#11210
+xak guard blade sword~
+a guard's blade~
+A guard's blade lies here.~
+steel~
+weapon 0 0 ANY
+sword 2 10 slash 0
+15 6 300 P
+A
+18 1
+A
+19 1
+#11211
+xak guard leather jerkin~
+a leather guard's jerkin~
+A tough leather jerkin is on the ground here.~
+leather~
+armor S 0 ADX
+B C AB 0 0
+5 6 300 P
+#11212
+xak signet ring~
+xak tsaroth signet ring~
+A shiny ring is on the ground here.~
+gold~
+jewelry G 0 ABX
+0 0 0 0 0
+15 1 50 P
+A
+19 1
+A
+18 2
+#11213
+xak guard leather leggings~
+a pair of guard's leather leggings~
+A pair of sturdy leather leggings are here.~
+leather~
+armor S 0 AFX
+B C AB 0 0
+5 4 100 R
+#11214
+leather xak guard boots~
+a pair of guard's leather boots~
+A pair of leather boots have been left here.~
+leather~
+armor S 0 AGX
+A AB B 0 0
+5 2 200 R
+#11215
+leather bible xak~
+a {yleather{x covered bible~
+A {yleather{x covered bible lies here on the ground.~
+tooled leather~
+armor AGIS 0 AJc
+AB AB AB B 0
+10 2 0 R
+A
+19 2
+A
+18 2
+#11216
+white tunic~
+a {Wwhite{x tunic~
+A tunic has been left crumpled on the ground.~
+cloth~
+armor S 0 ADY
+AB AB AB 0 0
+10 1 0 P
+A
+3 1
+A
+4 1
+#11217
+xak guard sleeves~
+a pair of guard's sleeves~
+A pair of guard's sleeves lie here on the ground.~
+leather~
+armor S 0 AIX
+B C AB 0 0
+5 3 200 P
+#11218
+velvet robe~
+a velvet robe~
+A velvet robe lies crumpled on the ground.~
+velvet~
+armor GS 0 ADY
+C C C A 0
+17 3 200 G
+A
+12 15
+#11219
+dragon ale~
+a bottle of dragon ale~
+A bottle of ale is here.~
+glass~
+drink NS 0 A
+12 12 'ale' 0 0
+0 10 25 R
+#11220
+herbal tea~
+a mug of herbal tea~
+A mug of tea has been left here.~
+clay~
+drink NS 0 A
+5 5 'tea' 0 0
+1 5 50 R
+#11221
+goblin blood beer~
+a bottle of Goblin Blood Beer~
+Someone has dropped their bottle of beer here!~
+glass~
+drink NS 0 A
+4 4 'beer' 0 0
+0 2 25 P
+#11222
+hard cider~
+a cup of cider~
+Someone has left their cup of cider here.~
+wood~
+drink NS 0 A
+4 4 'cordial' 0 0
+0 2 20 R
+#11223
+whiskey~
+a bottle of whiskey~
+Someone has left their whiskey here!~
+glass~
+drink NS 0 A
+1 1 'whisky' 0 0
+0 1 25 R
+#11224
+dead rat~
+a dead rat~
+A dead rat with a leather thong tied to its tail is here on the ground.~
+flesh~
+trash GS 0 AO
+0 0 0 0 0
+20 3 0 P
+A
+12 10
+A
+20 -2
+#11225
+comfortable bed~
+a comfortable bed~
+A comfortable looking bed has been placed here.~
+wood~
+furniture O 0 0
+AC DFGHIJ EHK A A
+0 500 0 P
+#11234
+donation pit~
+a donation pit~
+A large pit lies here before the Altar of Mishakal.~
+slate~
+container O 0 0
+10000 0 0 10000 10000
+0 0 0 P
+#11235
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 R
+#11236
+wine~
+glass of wine~
+A glass of fine wine is sitting here.~
+glass~
+drink S 0 A
+5 5 'white wine' 0 0
+1 5 25 P
+#11237
+mug honeyed tea~
+mug of tea~
+A mug of honeyed tea is sitting here.~
+wood~
+drink S 0 A
+7 7 'tea' 0 0
+1 5 10 P
+#11238
+wedge cheese~
+wedge of cheese~
+A wedge of cheese has been forgotten here.~
+unknown~
+food S 0 A
+ABC ABC 0 0 0
+1 20 30 P
+#11239
+roast deer~
+a deer roast~
+A sizzling deer roast is here, growing cold.~
+flesh~
+food S 0 A
+BD BD 0 0 0
+1 25 50 P
+#11240
+rabbit stew bowl~
+a bowl of stew~
+A bowl of rabbit stew has been left here.~
+unknown~
+food S 0 A
+D D 0 0 0
+1 20 45 P
+#11241
+leg of lamb~
+a leg of lamb~
+A leg of lamb meat has been left here.~
+flesh~
+food S 0 A
+AD AD 0 0 0
+1 20 35 P
+#11242
+apple~
+an apple~
+A shiny red apple has been left here.~
+plant~
+food S 0 A
+BC BC 0 0 0
+1 5 10 P
+#11243
+pear~
+a pear~
+A sweet pear has been left here.~
+plant~
+food S 0 A
+AB BC 0 0 0
+1 1 10 P
+#11244
+orange~
+an orange~
+A juicy orange has been left here.~
+plant~
+food S 0 A
+BC BC 0 0 0
+1 5 10 P
+#11245
+banana~
+a banana~
+A long yellow banana is here on the ground.~
+plant~
+food S 0 A
+BC BC 0 0 0
+1 5 10 P
+#11246
+bunch grapes~
+a bunch of grapes~
+A bunch of grapes have been left here.~
+plant~
+food S 0 A
+BC BC 0 0 0
+1 5 10 P
+#11247
+shadowy set runes tattoo~
+({DShadowy{x) a set of {Drunes{x~
+A set of runes lies here on the ground.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+5 0 2000 P
+A
+2 2
+#11248
+green dragon tattoo~
+({GGlistening{x) a tattoo of a {gGreen Dragon{x~
+(no description)~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+5 0 2000 P
+A
+19 2
+#11249
+tattoo barbarian art~
+({CGlistening{x) a tattoo of barbarian art~
+A large tattoo with barbarian artwork catches your eye.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+5 0 2000 P
+A
+1 1
+#11250
+dragonlance tattoo~
+({CSilver{x) a {bDragonlance{x~
+A tattoo of a silvery dragonlance lies here.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+5 0 2000 P
+A
+18 2
+#11251
+scroll of recall~
+a scroll of recall~
+A scroll tied with ribbon is here.~
+papyrus~
+scroll GS 0 AO
+15 'word of recall' 'reserved' 'reserved' 'reserved'
+15 4 3000 P
+#11252
+scroll cancellation~
+a scroll of cancellation~
+A scroll tied with ribbon is here.~
+papyrus~
+scroll GS 0 AO
+10 'cancellation' 'reserved' 'reserved' 'reserved'
+10 4 1250 P
+#11253
+scroll identify~
+a scroll of identify~
+A rolled scroll is on the ground here.~
+papyrus~
+scroll GS 0 AO
+10 'identify' 'reserved' 'reserved' 'reserved'
+10 4 1000 P
+#11254
+potion invisibility~
+a potion of invisibility~
+A potion sits on the ground here.~
+glass~
+potion GS 0 AO
+25 'invisibility' 'reserved' 'reserved' 'reserved'
+40 10 3500 P
+#11255
+protection ring~
+a ring of protection~
+A shiny looking ring with runes engraved into it is here.~
+white gold~
+armor G 0 AB
+A A A AC 0
+10 1 700 P
+A
+20 -2
+#11256
+wand burning hands~
+a wand of burning hands~
+A strange humming wand is here on the ground.~
+ash~
+wand BGS 0 AO
+10 10 10 'burning hands' 0
+10 8 1000 P
+#11257
+vial holy water~
+a vial of holy water~
+A vial of holy water is here.~
+crystal~
+potion AGIS 0 AO
+50 'bless' 'remove curse' 'protection evil' 'reserved'
+10 10 720 P
+#11258
+divine protection potion~
+potion of divine protection~
+A potion of divine protection has been left here.~
+glass~
+potion AGIS 0 AO
+35 'sanctuary' '' 'armor' 'reserved'
+16 1 1800 P
+#11259
+holy medallion~
+a holy medallion~
+A holy medallion has been dropped here.~
+platinum~
+staff ABGI 0 AO
+120 5 5 'cure critical' 0
+92 10 15000 P
+#11260
+common dagger~
+a common dagger~
+A common dagger is here.~
+iron~
+weapon 0 0 ANc
+dagger 2 5 stab 0
+5 3 175 P
+#11261
+xak common long sword~
+a common longsword~
+A common longsword has been left here.~
+iron~
+weapon 0 0 ANZ
+sword 3 3 slash 0
+5 6 750 P
+#11262
+xak stout club~
+a stout club~
+A stout club has been dropped here.~
+oak~
+weapon S 0 ANc
+mace 2 8 pound 0
+5 5 250 P
+#11263
+common mace~
+a common mace~
+A common mace has been dropped here.~
+iron~
+weapon 0 0 ANc
+mace 2 8 pound 0
+5 6 475 P
+#11264
+xak battle axe~
+a battle axe~
+A battle axe is on the ground here.~
+steel~
+weapon 0 0 ANc
+axe 2 8 chop 0
+5 8 800 P
+#11265
+xak long spear~
+a long spear~
+A long spear has been left here.~
+iron~
+weapon 0 0 ANc
+spear 2 6 pierce 0
+5 8 100 P
+#11266
+sturdy wooden staff~
+a sturdy wooden staff~
+A sturdy wooden staff has been dropped here.~
+oak~
+weapon S 0 ANc
+staff 3 5 pound F
+5 4 500 P
+#11267
+flail~
+a flail~
+A flail has been left here.~
+iron~
+weapon 0 0 ANc
+flail 2 4 smash 0
+5 7 100 P
+#11268
+diamond~
+a diamond~
+A shiny, multifaceted diamond is on the ground here.~
+diamond~
+gem S 0 AO
+0 0 0 0 0
+0 1 11000 P
+#11269
+pearl~
+a pearl~
+A perfectly round pearl has been left here.~
+freshwater pearl~
+gem S 0 AO
+0 0 0 0 0
+0 1 1100 P
+#11270
+opal~
+an opal~
+A beautiful opal has been left here.~
+opal~
+gem S 0 AO
+0 0 0 0 0
+0 1 2200 P
+#11271
+ruby~
+a ruby~
+A flame red ruby has been dropped here.~
+ruby~
+gem S 0 AO
+0 0 0 0 0
+0 1 6600 P
+#11272
+emerald~
+an emerald~
+A sea green emerald has been left here.~
+emerald~
+gem S 0 AO
+0 0 0 0 0
+0 1 5500 P
+#11273
+garnet~
+a garnet~
+A beautifully cut garnet has been left here.~
+garnet~
+gem S 0 AO
+0 0 0 0 0
+0 1 550 P
+#11274
+backpack~
+a backpack~
+A backpack has been left here.~
+soft leather~
+container NS 0 AS
+75 A 0 100 80
+10 10 1000 P
+#11275
+canvas sack~
+a canvas sack~
+A canvas sack has been left here.~
+canvas~
+container NS 0 AO
+100 0 0 50 0
+1 2 200 P
+#11276
+torch~
+a torch~
+A blazing torch has been left here.~
+wood~
+light ANS 0 AO
+0 0 ABCD 0 0
+1 1 20 P
+#11277
+hooded lantern~
+a hooded lantern~
+A hooded lantern has been left here.~
+brass~
+light AN 0 AO
+0 0 BEF 0 0
+1 3 100 P
+#11278
+cookie~
+a cookie~
+A delicious cookie has been left here.~
+unknown~
+food S 0 A
+BC BC 0 0 0
+1 2 30 P
+#11279
+muffin~
+a muffin~
+A muffin has been left here.~
+unknown~
+food S 0 A
+BC BC 0 0 0
+1 2 20 P
+#11280
+bread~
+a loaf of bread~
+A loaf of bread has been left here.~
+unknown~
+food S 0 A
+AD AD 0 0 0
+1 2 40 P
+#11281
+brownie~
+a brownie~
+A yummy chocolate brownie has been left here.~
+unknown~
+food S 0 A
+BC BC 0 0 0
+1 2 30 P
+#11282
+donut~
+a donut~
+A candy sprinkled donut has been left here.~
+unknown~
+food S 0 A
+BC BC 0 0 0
+1 2 20 P
+#11283
+true sight potion~
+a potion of true sight~
+A potion of true sight has been dropped here.~
+glass~
+potion GS 0 AO
+15 'detect invis' 'detect magic' 'detect hidden' 'reserved'
+5 10 15000 P
+#11284
+potion flying~
+a potion of flying~
+A potion has been dropped here.~
+glass~
+potion GS 0 A
+15 'levitate' 'reserved' 'reserved' 'reserved'
+4 5 2500 P
+#11285
+potion cure light~
+a potion of cure light wounds~
+A potion has been left here on the ground.~
+glass~
+potion GS 0 AO
+5 'cure light' 'reserved' 'reserved' 'reserved'
+1 5 1500 P
+#11286
+potion cure serious~
+a potion of cure serious wounds~
+A potion has been left here.~
+glass~
+potion GS 0 AO
+10 'cure serious' 'reserved' 'reserved' 'reserved'
+3 10 2200 P
+#11287
+potion cure critical~
+a potion of cure critical wounds~
+A potion has been left here on the ground.~
+glass~
+potion GS 0 AO
+15 'cure critical' 'reserved' 'reserved' 'reserved'
+5 10 2900 P
+#11288
+potion heal~
+a potion of healing~
+A potion has been left here.~
+glass~
+potion GS 0 AO
+20 'heal' 'reserved' 'reserved' 'reserved'
+10 10 9000 P
+#11289
+potion armor~
+a potion of armor~
+A potion has been dropped here.~
+glass~
+potion GS 0 A
+10 'armor' 'reserved' 'reserved' 'reserved'
+1 5 2000 P
+#11290
+potion cure blind~
+a potion of cure blindness~
+A potion has been left here.~
+glass~
+potion GS 0 A
+20 'cure blindness' 'reserved' 'reserved' 'reserved'
+1 5 2300 P
+#11291
+potion sanctuary~
+a potion of sanctuary~
+A potion has been left here.~
+glass~
+potion GS 0 A
+20 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 3 7500 P
+#11292
+potion negation~
+a potion of negation~
+A potion has been left here on the ground.~
+glass~
+potion GS 0 A
+35 'cancellation' 'reserved' 'reserved' 'reserved'
+9 3 8000 P
+#11293
+small shield~
+a small shield~
+A small shield has been left here.~
+wood~
+armor S 0 AJX
+B B B 0 0
+5 5 700 P
+#11294
+large shield~
+a large shield~
+A large shield has been left here on the ground.~
+iron~
+armor 0 0 AJZ
+AB B AB 0 0
+10 16 1000 P
+#11295
+chain mail sleeves~
+a pair of chain mail sleeves~
+A pair of chain mail sleeves has been left here.~
+steel~
+armor 0 0 AIc
+BC AB AC 0 0
+10 8 600 P
+#11296
+chain mail gauntlets~
+a pair of chain mail gauntlets~
+A pair of chain mail gauntlets have been left here.~
+steel~
+armor 0 0 AHc
+AC B C 0 0
+10 5 600 P
+#11297
+chain mail coif~
+a chain mail coif~
+A chain mail coif has been left here forgotten.~
+steel~
+armor 0 0 AEc
+AC B C 0 0
+10 10 600 P
+#11298
+chain mail skirt~
+a chain mail skirt~
+A chain mail skirt has been left here.~
+steel~
+armor 0 0 AFc
+BC AB AC 0 0
+10 10 600 P
+#11299
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt lies here on the ground.~
+steel~
+armor 0 0 ADc
+BC AB AC 0 0
+10 16 600 P
+#11300
+leather vest~
+a leather vest~
+A cured leather vest is on the ground here.~
+leather~
+armor S 0 ADc
+B C AB 0 0
+5 3 400 P
+#11301
+leather pants~
+a pair of leather pants~
+A pair of pants has been left here by someone.~
+soft leather~
+armor S 0 AFc
+A AB B 0 0
+5 4 400 P
+#11302
+iron soled boots~
+iron soled boots~
+A pair of iron soled boots are here.~
+iron tips~
+armor 0 0 AGc
+B 0 B 0 0
+5 4 350 P
+A
+14 10
+#11303
+fountain~
+a fountain~
+A fountain is here, gushing water from its top.~
+stone~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#11330
+baaz battle axe~
+a Baaz battle axe~
+A battle axe used by Baaz lies here.~
+steel~
+weapon BCEGIJLTY 0 ANa
+axe 3 28 cleave DE
+80 8 0 P
+A
+5 2
+A
+4 1
+A
+13 50
+A
+19 5
+A
+18 5
+#11331
+ring protection~
+ring of protection~
+A large ring glimmers on the ground before you.~
+white gold~
+jewelry ACEGJLT 0 ABZ
+0 0 0 0 0
+85 10 0 P
+A
+2 4
+A
+17 10
+A
+23 25
+A
+20 10
+#11370
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11391
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11392
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11393
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11394
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11395
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11396
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11397
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11398
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11399
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#11264
+North Arena Walk~
+You are now traveling along North Arena walk.  The streets here are lined
+with beautifully shaped bushes.  They have been tended into fantastic
+shapes, such as dragons battling men.  There are also statues of former
+arena champions.  This area of the city looks very well kept.  To the east
+is the entrance to the knights guild.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11263
+D1
+~
+~
+0 0 11211
+D2
+~
+~
+0 0 11265
+S
+#11265
+North Arena Walk~
+You are now traveling along North Arena walk.  The streets here are lined
+with beautifully shaped bushes.  They have been trimmed into fantastic
+shapes, such as dragons battling men.  There are also statues of former
+arena champions.  This area of the city looks very well kept.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11264
+D2
+~
+~
+0 0 11266
+S
+#11266
+North Arena Walk~
+You are now traveling along North Arena walk.  The streets here are lined
+with beautifully shaped bushes.  They have been trimmed into fantastic
+shapes, such as dragons battling men.  There are also statues of former
+arena champions.  This area of the city looks very well kept.  The entrance
+to the Vallenwood Inn is to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11265
+D2
+~
+~
+0 0 11267
+D3
+~
+~
+0 0 11302
+S
+#11267
+North Arena Walk~
+You are now traveling along North Arena walk.  The streets here are lined
+with beautifully shaped bushes.  They have been trimmed into fantastic
+shapes, such as dragons battling men.  There are also statues of former
+arena champions.  This area of the city looks very well kept.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11266
+D2
+~
+~
+0 0 11268
+S
+#11268
+North Arena Walk~
+You are now traveling along North Arena walk.  The streets here are lined
+with beautifully shaped bushes.  They have been trimmed into fantastic
+shapes, such as dragons battling men.  There are also statues of former
+arena champions.  This area of the city looks very well kept.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11267
+D2
+~
+~
+0 0 11269
+S
+#11269
+Main Crossway~
+Here is the main crossway of the two major roads of the city, West Gate
+Throughway and Arena Walk.  To the north, the sounds of fighting and
+cheering can be heard coming from Xak Tsaroth's open air arena.  To the east
+is the Market District and the Temple of Mishakal.  Westward is the entrance
+to Civic Plaza and the West Gate.  To the south, lies the South Gate.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11268
+D1
+~
+~
+0 0 11278
+D2
+~
+~
+0 0 11270
+D3
+~
+~
+0 0 11322
+S
+#11270
+Southern Walkway~
+You are traveling along the Southern Walkway.  The roads here are lined
+with beautifully sculpted bushes, with small wooden benches between them. 
+The homes here look well built, and the residents look well off.  Off in the
+distance to the north, one can see the arena starting to rise above
+everything else in the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11269
+D2
+~
+~
+0 0 11271
+S
+#11271
+Southern Walkway~
+You are traveling along the Southern Walkway.  The roads here are lined
+with beautifully sculpted bushes, with small wooden benches between them. 
+The homes here look well built, and the residents look well off.  Off in the
+distance to the north, one can see the arena starting to rise above
+everything else in the city.  To the east is a small alley.  There is a
+small hole in the ground here leading to who knows where......  
+~
+0 262144 1
+E
+hole~
+It leads down into the ground. A faint light can be seen inside.
+~
+D0
+~
+~
+0 0 11270
+D1
+~
+~
+0 0 11388
+D2
+~
+~
+0 0 11272
+D5
+~
+~
+0 0 11214
+S
+#11272
+Southern Walkway~
+You are traveling along the Southern Walkway.  The roads here are lined
+with beautifully sculpted bushes, with small wooden benches between them. 
+The homes here look well built, and the residents look well off.  Off in the
+distance to the north, one can see the arena starting to rise above
+everything else in the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11271
+D2
+~
+~
+0 0 11273
+S
+#11273
+Southern Walkway~
+You are traveling along the Southern Walkway.  The roads here are lined
+with beautifully sculpted bushes, with small wooden benches between them. 
+The homes here look well built, and the residents look well off.  Off in the
+distance to the north, one can see the arena starting to rise above
+everything else in the city.  To the east is a small guard shack.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11272
+D1
+~
+~
+0 0 11277
+D2
+~
+~
+0 0 11274
+S
+#11274
+Southern Portcullis~
+You are now standing before the massive portcullis of the southern gate. 
+It is about fifty feet wide and one-hundred feet high.  The steel gate is
+barbed at the end and could cause a lot of damage if dropped.  There are
+guards up on the battlements watching every step you take.  Through the
+portcullis, a long street stretches before you.  It passes through the
+residential area of the city before branching into other parts of town.  
+~
+0 262148 1
+D0
+~
+~
+0 0 11273
+D2
+~
+~
+0 0 11275
+S
+#11275
+The Southern Gate~
+Before you looms the southern gate of Xak Tsaroth.  The gate consists of
+a huge fifty foot wide portcullis, framed by massive stones.  The portcullis
+looks to be made of steel, and seems able to withstand everything, except
+dragons.  High above the portcullis, guards on the battlements act as
+sentries, looking for trouble before it arrives.  North of the gate is the
+city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11274
+D2
+~
+~
+0 0 11276
+S
+#11276
+The Road to Xak Tsaroth~
+Rising ahead near the mountains lies the famed city, Xak Tsaroth.  Ahead
+on the road, the guards of the southern gate can be seen.  Even the heavily
+armed guards on the battlements are visible.  The city itself rises up in
+the arms of a small mountain range to the north.  One thing can clearly be
+seen rising from the city, and that is the famous open air arena of the
+city.  
+~
+0 262149 1
+D0
+~
+~
+0 0 11275
+D2
+~
+~
+0 0 4306
+S
+#11277
+The Guardhouse~
+Here is where the guards go when they take their breaks from duty.  There
+is a small but sturdy looking table in the center of the room.  It is ringed
+by three wooden stools, with a single window opposite of the entrance. 
+Against the wall lies a ladder leading up.  
+~
+0 262152 1
+D3
+~
+~
+0 0 11273
+D4
+~
+~
+0 0 11218
+S
+#11278
+Market District~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11269
+S
+#11279
+Market District~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11280
+D2
+~
+~
+0 0 11301
+D3
+~
+~
+0 0 11278
+S
+#11280
+Market District~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11281
+D3
+~
+~
+0 0 11279
+S
+#11281
+Market District~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11311
+D1
+~
+~
+0 0 11282
+D2
+~
+~
+0 0 11287
+D3
+~
+~
+0 0 11280
+S
+#11282
+Market District~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11283
+D3
+~
+~
+0 0 11281
+S
+#11283
+Towards the Temple~
+As you leave the hustle and bustle of the market behind, the serene
+sounds of a temple life can be observed.  The gentle chirping of birds and
+the soft chanting of priests can be heard from the all around.  To the west
+lies the market district and to the east, lies the great Temple of Mishakal.
+To the south, a large stronghold, made of polished obsidian, stands tall. 
+Draconians clad in the armor worn by Knights of Takhisis, patrol the walls,
+armed to the teeth and ready for war.  
+ 
+{x      A large sign has been posted here.
+~
+0 262152 1
+E
+sign~
+*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*
+|                                               |
+|     Stronghold to the Knights of Takhisis     |
+|                                               |
+*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*-=-*
+~
+D1
+~
+~
+0 0 11284
+D2
+~
+~
+0 0 11608
+D3
+~
+~
+0 0 11282
+S
+#11284
+Towards the Temple~
+As you leave the hustle and bustle of the market behind, the serene
+sounds of a temple life can be observed.  The gentle chirping of birds and
+the soft chanting of priests can be heard from the all around.  To the west
+lies the market district and to the east, lies the great Temple of Mishakal.
+~
+0 786432 1
+D0
+~
+~
+0 0 11286
+D1
+~
+~
+0 0 11285
+D3
+~
+~
+0 0 11283
+S
+#11285
+Before the Temple of Mishakal~
+Before you stands the Great Temple of Mishakal.  The temple has a
+welcoming, almost inviting peaceful look to it.  It is made entirely of
+bluish colored marble, with a large statue in front of it.  The light
+reflecting off the walls creates a myriad of lights that make the temple
+look as if it is glowing.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11377
+D1
+~
+~
+0 0 11226
+D2
+~
+~
+0 0 11224
+D3
+~
+~
+0 0 11284
+S
+#11286
+Holy Symbols~
+You feel a warm feeling as you walk into the shop.  The favor of the gods
+must be on this place.  All sorts of holy items stand on the shelves of the
+shop.  There are holy icons painted onto the walls.  
+~
+0 263176 1
+D2
+~
+~
+0 0 11284
+S
+#11287
+Before the Southern Market~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 0
+D0
+~
+~
+0 0 11281
+D2
+~
+~
+0 0 11288
+S
+#11288
+Market Entrance~
+You are now standing at the entrance to the Southern Market.  Many shops
+line the edges of the square shaped marketplace.  All around, people are
+browsing or haggling for goods.  On the eastern end is a bakery with all
+sorts of sweets.  The western end has a jeweller.  The southern end is home
+to Manny's General Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11287
+D2
+~
+~
+0 0 11289
+S
+#11289
+Southern Market Square~
+You are now standing in Southern Market.  Many shops line the edges of
+the square shaped marketplace.  All around, people are browsing or haggling
+for goods.  On the eastern end is a bakery with all sorts of sweets.  The
+western end has a jeweller.  The southern end is home to Manny's General
+Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11288
+D1
+~
+~
+0 0 11295
+D2
+~
+~
+0 0 11290
+D3
+~
+~
+0 0 11292
+S
+#11290
+Mel's Fruit Cart~
+A small cart has been pushed here into a fixed position by the ever aging
+Mel.  All sorts of fruits sit on the back of the cart.  Shiny apples, juicy
+oranges and bunches of huge grapes, have all been grown in Mel's own
+personal orchard.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11289
+D1
+~
+~
+0 0 11296
+D2
+~
+~
+0 0 11291
+D3
+~
+~
+0 0 11293
+S
+#11291
+Southern Market Square~
+You are now standing in the Southern Market.  Many shops line the edges
+of the square shaped marketplace.  All around people are haggling or
+browsing for goods.  On the eastern end is a bakery with all sorts of
+sweets.  The western end has a jeweller.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11290
+D1
+~
+~
+0 0 11297
+D2
+~
+~
+0 0 11298
+D3
+~
+~
+0 0 11294
+S
+#11292
+Southern Market Square~
+You are now standing in Southern Market.  Many shops line the edges of
+the square shaped marketplace.  All around people are browsing or haggling
+for goods.  On the eastern end is a bakery with all sorts of sweets.  The
+western end has a jeweller.  The southern end is home to Manny's General
+Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11289
+D2
+~
+~
+0 0 11293
+S
+#11293
+Southern Market Square~
+You are now standing in the Southern Market.  Many shops line the edges
+of the square shaped marketplace.  All around people are browsing or
+haggling for goods.  On the eastern end of the market is a bakery with all
+sorts of sweets.  The western end has a jeweller.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11292
+D1
+~
+~
+0 0 11290
+D2
+~
+~
+0 0 11294
+D3
+~
+~
+0 0 11299
+S
+#11294
+Southern Market Square~
+You are now standing in the Southern Market.  Many shops line the edges
+of the square shaped marketplace.  All around people are haggling with
+shopowners or browsing the many booths and stalls in the market.  Almost
+nothing can be heard over the din of people hawking their wares.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11293
+D1
+~
+~
+0 0 11291
+D2
+~
+~
+0 0 11390
+S
+#11295
+Southern Market Square~
+You are now standing in Southern Market.  Many shops line the edges of
+the square shaped marketplace.  All around people are browsing or haggling
+for goods.  On the eastern end is a bakery with all sorts of sweets.  The
+western end has a jeweller.  The southern end is home to Manny's General
+Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11296
+D3
+~
+~
+0 0 11289
+S
+#11296
+Southern Market Square~
+You are now standing in Southern Market.  Many shops line the edges of
+the square shaped marketplace.  All around people are browsing or haggling
+for goods.  On the eastern end is a bakery with all sorts of sweets.  The
+western end has a jeweller.  The southern end is home to Manny's General
+Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11295
+D1
+~
+~
+0 0 11300
+D2
+~
+~
+0 0 11297
+D3
+~
+~
+0 0 11290
+S
+#11297
+Southern Market Square~
+You are now standing in Southern Market.  Many shops line the edges of
+the square shaped marketplace.  All around people are browsing or haggling
+for goods.  On the eastern end is a bakery with all sorts of sweets.  The
+western end has a jeweller.  The southern end is home to Manny's General
+Store.  In the middle is Mel's fruit cart.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11296
+D3
+~
+~
+0 0 11291
+S
+#11298
+Manny's Supply Shop~
+The supply shop is just a small room with shelves and a counter.  The
+shelves are lined with everything from torches to waterskins.  And of
+course, Manny is here ready to sell his wares.  
+~
+0 263176 1
+D0
+~
+~
+0 0 11291
+S
+#11299
+Diamonds of Xak Tsaroth~
+The shop that you have just entered is immaculate.  The air is clean and
+cool.  A fortunes worth in jewels lie in the cases.  Diamonds, rubies, and
+emeralds all reflect the light off of their perfect surfaces.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11293
+S
+#11300
+The Baker's Delight~
+The smell of sweets drifts lightly through the air.  Spiced breads,
+cookies, and pastries all sit inside of large glass counters.  There are
+even huge cakes that would satisfy even the most demanding sweet tooth.  
+~
+0 263176 1
+D3
+~
+~
+0 0 11296
+S
+#11301
+The Bank~
+Upon entering the bank, the first thing most people notice are the piles
+of gold behind the banker.  Don't even think about taking it, the men
+guarding it look rather rough.  
+ 
+There is a notice posted on the wall.
+~
+0 1311752 1
+E
+notice~
+Please type:
+ 
+   Help Balance
+   Help Deposit
+   Help Withdraw
+ 
+Those are your available commands inside a bank. Help files will aide you
+in using them effectively.
+~
+D0
+~
+~
+0 0 11279
+S
+#11302
+Entrance to the Vallenwood Inn~
+You are now standing in the entrance to the Vallenwood Inn.  It is the
+best Inn in Xak Tsaroth.  The ground is covered with thick red carpet,
+colorful tapestries lining the walls.  The expensive decorations are a sign
+of how prosperous this inn is.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11266
+D3
+~
+~
+0 0 11303
+S
+#11303
+The Vallenwood Inn~
+You are now inside of the inn.  It is warmer in here, than it is outside,
+and there is a friendly air about the room.  Expensive decorations also
+adorn the walls of this room and the beautiful red carpet also extends into
+here.  Loud, boisterous talking can be heard from the Common Room to the
+north.  The reception area is to the south, and the stairwell up to the
+rooms are to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11302
+D2
+~
+~
+0 0 11304
+D3
+~
+~
+0 0 11306
+S
+#11304
+Reception~
+This is the reception area.  There is a large counter made of vallenwood
+with a guest registry book on it.  Paintings of the past innkeepers are hung
+on the walls.  To the north is the rest of the inn.  
+There is a small sign here.
+~
+0 263176 1
+E
+registry~
+There are a few names of past guests in it.
+~
+E
+sign~
+,     \    /      ,
+              / \    )\__/(     / \
+             /   \  (_\  /_)   /   \
+____________/_____\__\@  @/___/_____\___________
+|                    |\../|                    |
+|                     \VV/                     |
+|       Great Service, Comfortable Rooms       |
+|         at an Affordable price -Free!        |
+|______________________________________________|
+        |    /\ /      \\       \ /\    |
+        |  /   V        ))       V   \  |
+        |/     `       //        '     \|
+        `              V
+~
+D0
+~
+~
+0 0 11303
+S
+#11305
+The Common Room~
+Here is the Common Room.  Tables and chairs are places throughout this
+room.  A waitress walks between the tables checking on orders and bringing
+more ale.  All of this action is centered around a large hearth set in the
+northern wall.  To the south is the rest of the inn.  
+~
+0 263176 1
+E
+hearth~
+It has a blazing fire, keeping everyone warm.
+~
+D2
+~
+~
+0 0 11303
+S
+#11306
+Up to the Rooms~
+This is the stairwell that leads up the to the guest rooms.  It is newly
+swept and very clean.  The steps creak slightly as you climb them.  The
+common room is to the east and the guest rooms are up.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11303
+D4
+~
+~
+0 0 11307
+S
+#11307
+The Rooms~
+This is the guest floor.  The windows are open and a soft breeze is
+blowing in.  There is a hallway leading south to the actual rooms.  The
+hallway is covered in the same rich red carpet as the bottom floor of the
+inn.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11308
+D5
+~
+~
+0 0 11306
+S
+#11308
+Between the Rooms~
+You are now between the rooms on the guest floor.  There is a window open
+on the southern wall and a gentle breeze is blowing in.  The floor here is
+bare, except for a small rug before each room to the east and to the west. 
+There is also a finely wrought chandelier hanging from the ceiling.  
+~
+0 262152 1
+E
+window~
+Isn't it Beautiful outside?
+~
+D0
+~
+~
+0 0 11307
+D1
+~
+~
+0 0 11310
+D3
+~
+~
+0 0 11309
+S
+#11309
+West Wing Suite~
+This is the west wing suite.  The room consists of a large comfortable
+looking bed, a small table, a trunk, and a small hearth.  The table looks
+old but sturdy.  The only sign of occupancy in this room is the healthy fire
+going in the hearth.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11308
+S
+#11310
+East Wing Suite~
+This is the east wing suite.  The room consists of a large comfortable
+looking bed, a small table, a trunk, and a small hearth.  The table has
+dishes on it.  It appears as if someone has been eating here.  A pile of
+clothes rest on top of the trunk, and the bed looks as if it had been slept
+in.  The exit is to the west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 11308
+S
+#11311
+Before the Northern Market~
+Ahead of you, the sound of bartering and haggling can be heard.  Many
+people are milling about in the market square.  It seems as if the shops are
+open today, and they are ready for business.  The shops are located on the
+ends of the square shaped market place.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11312
+D2
+~
+~
+0 0 11281
+S
+#11312
+Market Entrance~
+You are now standing at the entrance to the Northern Market.  Many shops
+line the edges of the square shaped marketplace.  All around people are
+browsing the many booths, stalls and shops.  The sounds of commerce lingers
+in the air.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11311
+S
+#11313
+Northern Market Square~
+You are now standing in the Northern Market.  All around, people are
+stopping in at various shops, booths, and stalls.  People can be heard
+haggling with shop owners.  The clinking of coins rings lightly in the air. 
+~
+0 262144 1
+D0
+~
+~
+0 0 11317
+D1
+~
+~
+0 0 11315
+D2
+~
+~
+0 0 11312
+D3
+~
+~
+0 0 11314
+S
+#11314
+Northern Market Square~
+You are now standing in the Northern Market.  All around, people are
+browsing, buying, or haggling for goods.  Many shopkeepers make their homes
+here in the marketplace.  There is a petshop on the western end of the
+market.  On the eastern side a tattoo shop is set up.  On the northern end
+of the marketplace is Azus's potion shop.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11318
+D1
+~
+~
+0 0 11313
+S
+#11315
+Northern Market Square~
+Welcome to the Northern Market.  There are many booths, shops, and stalls
+to browse through.  People can be heard dealing with shop owners, trying to
+get the best bargain possible.  The sound of coins changing hands can be
+heard ringing through the air.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11316
+D3
+~
+~
+0 0 11313
+S
+#11316
+Northern Market Square~
+You are now standing in the Northern Market.  Shops line the edges of the
+square shaped market place.  All around people are browsing or haggling for
+goods.  On the eastern end is a tattoo shop.  A petshop makes its home on
+the western side.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11321
+D2
+~
+~
+0 0 11315
+D3
+~
+~
+0 0 11317
+S
+#11317
+Northern Market Square~
+You are now standing in the Northern Market.  Shops line the edges of the
+square shaped marketplace.  All around people are browsing or haggling for
+goods.  To the east is a tattoo shop.  To the west is a pet shop.  North of
+here is Azus's potion shop.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11386
+D1
+~
+~
+0 0 11316
+D2
+~
+~
+0 0 11313
+D3
+~
+~
+0 0 11318
+S
+#11318
+Northern Market Square~
+You are now standing in the Northern Market.  Shops line the edges of the
+square shaped marketplace.  All around people are browsing or haggling for
+goods.  To the east is a tattoo shop.  To the west is a pet shop.  North of
+here is a small alley.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11392
+D1
+~
+~
+0 0 11317
+D2
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11319
+S
+#11319
+The Bird's Nest~
+This small shop is cluttered with cages of all shapes and sizes.  The
+eyes of the animals brighten as you enter, for they hope to join you on your
+travels.  It smells oddly of animal dung in here.  
+~
+0 267272 1
+D1
+~
+~
+0 0 11318
+S
+#11320
+PET LOAD ROOM - DO NOT ALTER~
+~
+0 41996 1
+S
+#11321
+Different Drummer Tattoos~
+The humming noise of the needle is slightly unnerving as you walk in. 
+Sketches and drawings cover the wall, almost like wallpaper.  Drawn in
+fabulous colors, the beautiful artwork must have benn penned by a true
+artist.  
+~
+0 263176 1
+D3
+~
+~
+0 0 11316
+S
+#11322
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11269
+D3
+~
+~
+0 0 11323
+S
+#11323
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11322
+D2
+~
+~
+0 0 11324
+D3
+~
+~
+0 0 11325
+S
+#11324
+The Miller's Pond~
+It is obvious this place is rather old.  The floorboards creak everytime
+they are tread upon.  As you look around, you begin to realize that the
+oldness is part of the hominess.  The dining room is dimly lit, but the
+silverware still shines.  The smells of food being cooked are so aromatic,
+one can almost taste it.  
+~
+0 263176 1
+D0
+~
+~
+0 0 11323
+S
+#11325
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west 
+~
+0 262144 1
+D1
+~
+~
+0 0 11323
+D3
+~
+~
+0 0 11326
+S
+#11326
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west 
+~
+0 262144 1
+D0
+~
+~
+0 0 11348
+D1
+~
+~
+0 0 11325
+D3
+~
+~
+0 0 11327
+S
+#11327
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west 
+~
+0 262144 1
+D1
+~
+~
+0 0 11326
+D3
+~
+~
+0 0 11328
+S
+#11328
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west To the south lies the entrance to the Seventh Ward.  To the
+north, lies a gymnasium and to the east and west, the main road continues to
+other parts of the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11209
+D1
+~
+~
+0 0 11327
+D2
+~
+~
+0 0 11354
+D3
+~
+~
+0 0 11329
+S
+#11329
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west 
+~
+0 262144 1
+D1
+~
+~
+0 0 11328
+D3
+~
+~
+0 0 11330
+S
+#11330
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west 
+~
+0 262144 1
+D1
+~
+~
+0 0 11329
+D3
+~
+~
+0 0 11331
+S
+#11331
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west.  To the north lies the entrance to the Broken Spear tavern.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11342
+D1
+~
+~
+0 0 11330
+D3
+~
+~
+0 0 11332
+S
+#11332
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  The road continues
+east and west.  To the south lies the entrance to the guild of Swordsmen.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11331
+D2
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11333
+S
+#11333
+West Gate Throughway~
+You are now walking along the West Gate Throughway.  It is the major
+route in and out of the city.  Many caravans travel this road enroute to the
+market.  There are many roads which branch off this throughway, among one of
+them is Civic Stroll, which leads to the Council House.  To the north lies a
+guard shack and to the west, lies the Western Gate.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11337
+D1
+~
+~
+0 0 11332
+D3
+~
+~
+0 0 11334
+S
+#11334
+Western Portcullis~
+You are now standing before the massive portcullis of the western gate. 
+It is about fifty feet wide and one-hundred deet high.  The steel gate is
+barbed at the end and could cause a lot of damage if dropped.  There are
+guards up on the battlements watching every step you take.  Through the
+portcullis, a long street stretches before you.  It passes through a
+somewhat rougher area of the city, as the gym and a tavern make their homes
+on this road.  Farther down the street, it branches towards to the arena and
+to the Temple of Mishakal.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11333
+D3
+~
+~
+0 0 11335
+S
+#11335
+Western Gates of Xak Tsaroth~
+Before you looms the western gates of Xak Tsaroth.  The gates consist of
+a huge fifty foot wide portcullis, framed by massive stones.  The portcullis
+looks to be made of steel, and seems able to withstand even the strongest
+armies.  High above the portcullis, guards on the battlements act as
+sentries, looking for trouble before it arrives.  East of the gate is the
+city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11334
+D3
+~
+~
+0 0 11336
+S
+#11336
+The Road to Xak Tsaroth~
+Rising ahead near the mountains, lies the famed city of Xak Tsaroth. 
+Ahead on the road, the guards of the western gate can be seen.  Even the
+heavily armed guards on the battlements are visible.  The city itself rises
+up in the arms of a small mountain range, continuing on to the east.  One
+thing can clearly be seen rising from the city, and that is the famous open
+air arena of the city.  
+~
+0 262148 1
+D1
+~
+~
+0 0 11335
+D3
+~
+~
+0 0 4305
+S
+#11337
+Guardhouse~
+This is where the guards go when they take thier breaks from guarding the
+gate.  There is a small, but sturdy looking table in the center of the room.
+It is ringed by three wooden stools and there is a single window opposite
+the entrance.  There is also a ladder against the wall.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11333
+D4
+~
+~
+0 0 11338
+S
+#11338
+The Stairway~
+The stairwell is dark, but it seems to be clean and well kept.  As you
+climb higher up the ladder, light appears to be creeping in through the
+small opening above.  
+~
+0 262152 1
+D4
+~
+~
+0 0 11339
+D5
+~
+~
+0 0 11337
+S
+#11339
+The Western Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+coming from the southwest.  This looks as if it would be a good place to
+defend the city of Xak Tsaroth from.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11340
+D5
+~
+~
+0 0 11338
+S
+#11340
+The Western Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+coming from the southwest.  This looks as if it would be a good place to
+defend the city of Xak Tsaroth from.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11339
+D2
+~
+~
+0 0 11341
+S
+#11341
+The Western Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+coming from the southwest.  This looks as if it would be a good place to
+defend the city of Xak Tsaroth from 
+~
+0 262144 1
+D0
+~
+~
+0 0 11340
+S
+#11342
+The Broken Spear Tavern~
+Welcome to the Broken Spear Tavern.  This is a place where people come to
+relax and have a few drinks.  There is a well stocked bar and a comfortable
+common room.  Try the Goblin Blood Beer while your here, its a local
+favorite.  This room is decorated with a large spear, broken in half.  To
+the north is the bar.  
+~
+0 8 1
+D0
+~
+~
+0 0 11343
+D2
+~
+~
+0 0 11331
+S
+#11343
+The Bar~
+This is the Broken Spear's bar.  There is a mahogany bar here, complete
+with barstools and brass railings.  There is a shelf behind the barkeeper
+full of bottles.  Each bottle is individually marked.  A few people are
+milling around the bar.  The common room is to the west, and the entrance is
+to the south.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11344
+D2
+~
+~
+0 0 11342
+S
+#11344
+The Common Room~
+Here is the common room.  Many people are in here, all crowded around the
+fireplace.  Many tables and benches are placed throughout the room.  A
+waitress deftly passes in the tight spaces between the tables.  The bar is
+to the west.  
+~
+0 263176 1
+D3
+~
+~
+0 0 11343
+S
+#11345
+Entrance to the Guild of Swordsmen~
+This is the entrance to the Guild of Swordsmen.  All manner of warriors
+come here.  From barbarians to warriors to gladiators, they all start here. 
+To enter the guild, go south.  West Gate Throughway is to the north.  There
+is a small sign on the door here.  
+~
+0 262152 1
+E
+sign~
+Mages and clerics keep out. Swordsmen only.
+~
+D0
+~
+~
+0 0 11332
+D2
+~
+~
+0 0 11346
+S
+#11346
+Hall of Swordsmen~
+This is the Hall of Swordsmen.  Here, many fighters swap battle stories
+to see who is more fiercesome.  Many swords hang on the walls, along with
+tapestries of great warriors in combat.  The mood here is light and
+boisterous, and everyone seems friendly.  The exit is to the north.  The
+practice room is to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11347
+S
+#11347
+The Practice Yards~
+Your guildmaster is here, teaching the apprentices new skills, and
+helping other older warriors to perfect theirs.  There are dummies here for
+attacking and kicking, and the floor is covered with a light mat to prevent
+injuries.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11346
+S
+#11348
+Civic Stroll~
+You are strolling along Civic Stroll.  To the North you can see the
+Council House Courtyard, and beyond that, the house itself.  The street here
+is well maintained and clean.  There are occasional benches along the road
+for travellers to rest on.  Huge poles with torches in them, line the road,
+making it easier for someone to make their way even at night.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11349
+D2
+~
+~
+0 0 11326
+S
+#11349
+Civic Stroll~
+You are strolling along Civic Stroll.  To the North you can see the
+Council House Courtyard, and beyond that, the house itself.  The street here
+is well maintained and clean.  There are occasional benches along the road
+for travellers to rest on.  Huge poles with torches in them, line the road,
+making it easier for someone to make their way even at night.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11350
+D2
+~
+~
+0 0 11348
+S
+#11350
+Civic Stroll~
+You are strolling along Civic Stroll.  To the North you can see the
+Council House Courtyard, and beyond that, the house itself.  The street here
+is well maintained and clean.  There are occasional benches along the road
+for travellers to rest on.  Huge poles with torches in them, line the road,
+making it easier for someone to make their way even at night.  A guard
+barracks lies to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11353
+D1
+~
+~
+0 0 11351
+D2
+~
+~
+0 0 11349
+S
+#11351
+Guard Barracks~
+These are the living quarters for the city guards.  The room is lined
+with bunks on either side of the room, with lockers in between.  The beds
+are all well made, as the guards are very disciplined.  The room is neat and
+clean, and the windows have been left open to permit a breeze to flow
+through.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11352
+D3
+~
+~
+0 0 11350
+S
+#11352
+Guard Barracks~
+These are the living quarters for the city guards.  The room is lined
+with bunks on either side of the room, with lockers in between.  The beds
+are all well made, as the guards are very disciplined.  The room is neat and
+clean, and the windows have been left open to permit a breeze to flow
+through.  
+~
+0 262152 1
+D3
+~
+~
+0 0 11351
+S
+#11353
+Council House Courtyard~
+You are now standing in the courtyard of the Council House.  It is more
+of a garden than a courtyard, as there are beautiful flowers blooming all
+around.  There are a few benches lying about to sit on.  There are also
+statues of former council members here.  The garden continues to the north. 
+To the south is Civic Stroll.  
+~
+0 262144 1
+E
+statue~
+It is of some former council member cast in bronze.
+~
+D0
+~
+~
+0 0 11371
+D2
+~
+~
+0 0 11350
+S
+#11354
+The Seventh Ward~
+The Seventh Ward is an extremely dirty part of town.  People have thrown
+garbage into the streets.  All around, unknown vermin can be seen scurrying
+through the trash.  The area here is dimly lit, and it has a pungent odor to
+it.  West gate throughway lies to the north and the rest of the road leads
+south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11328
+D2
+~
+~
+0 0 11355
+S
+#11355
+The Seventh Ward~
+The Seventh Ward is an extremely dirty part of town.  People have thrown
+garbage into the streets.  All around, unknown vermin can be seen scurrying
+through the trash.  The area here is dimly lit, and it has a pungent odor to
+it.  The road continues on to the north and to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11354
+D2
+~
+~
+0 0 11356
+S
+#11356
+The Seventh Ward~
+The Seventh Ward is an extremely dirty part of town.  People have thrown
+garbage into the streets.  All around, unknown vermin can be seen scurrying
+through the trash.  The area here is dimly lit, and it has a pungent odor to
+it.  The road continues on to the north and to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11355
+D2
+~
+~
+0 0 11357
+D3
+~
+~
+0 0 11361
+S
+#11357
+{DA Dirty Alley{x~
+This alley is filthy.  There is rubbish on the ground, and rats scurry
+from side to side.  The alley is only wide enough to permit one person to
+pass at a time.  The alley continues to the south, and it looks as if it
+widens into a dimly lit area.  The Seventh Ward is to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11356
+D2
+~
+~
+0 0 11358
+S
+#11358
+{DThieves Guild Entrance{x~
+The alley widens here into a small archway.  There is the mark of the
+Thieves Guild in the keystone above the archway.  It seems as if this is the
+entrance to the Thieves Guild.  The alley continues to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11357
+D1
+~
+~
+0 0 11359
+S
+#11359
+The Alcove~
+Here in the alcove, the lighting is kept dim.  It is nearly impossible to
+make out anyones face and the few people that are here, speak in hushed
+tones.  There are pictures on the wall of items to be stolen.  There are
+also articles of items recently gone missing from the city.  The training
+pit is to the east and the exit is to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11360
+D3
+~
+~
+0 0 11358
+S
+#11360
+{DThe Training Pit{x~
+Many apprentices are here, practicing their skills.  Some are trying to
+pick locks, while others are trying to pick pocket each other.  In the
+middle is the guildmaster, trying to help instruct each apprentice thief.  
+~
+0 263176 1
+D3
+~
+~
+0 0 11359
+S
+#11361
+The Seventh Ward~
+The Seventh Ward is an extremely dirty part of town.  People have thrown
+garbage into the streets.  All around, unknown vermin can be seen scurrying
+through the trash.  The area here is dimly lit, and it has a pungent odor to
+it.  The road continues east and west.  
+~
+0 262148 1
+D1
+~
+~
+0 0 11356
+D3
+~
+~
+0 0 11362
+S
+#11362
+The Seventh Ward~
+The Seventh Ward is an extremely dirty part of town.  People have thrown
+garbage into the streets.  All around, unknown vermin can be seen scurrying
+through the trash.  The area here is dimly lit, and it has a pungent odor to
+it.  The road continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11361
+D3
+~
+~
+0 0 11363
+S
+#11363
+A Bend in the Walkway~
+You are now passing a bend in the road.  The area seems to get slightly
+dimmer, and the area is much cleaner.  There is a slight hum in the air,
+like that of a magical force.  The road continues south from here.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11362
+D2
+~
+~
+0 0 11364
+S
+#11364
+Magician's Way~
+This area of the city isn't much to look at.  The street isn't lit very
+well, as it is more of an alley than a road.  It is kept fairly clean, and
+there are no rodents of any kind.  Some say the area is kept clean by
+magical means.  Many mages can be seen traversing this area.  The road
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11363
+D2
+~
+~
+0 0 11365
+S
+#11365
+Magician's Way~
+This area of the city isn't much to look at.  The street isn't lit very
+well, as it is more of an alley than a road.  It is kept fairly clean, and
+there are no rodents of any kind.  Some say the area is kept clean by
+magical means.  Many mages can be seen traversing this area.  A scroll shop
+lies to the west and the road continues on to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11364
+D2
+~
+~
+0 0 11366
+D3
+~
+~
+0 0 11367
+S
+#11366
+Magician's Way~
+This area of the city isn't much to look at.  The street isn't lit very
+well, as it is more of an alley than a road.  It is kept fairly clean, and
+there are no rodents of any kind.  Some say the area is kept clean by
+magical means.  Many mages can be seen traversing this area.  The entrance
+to the mages guild lies to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11365
+D1
+~
+~
+0 0 11368
+S
+#11367
+Oktal's Scrolls~
+This shop appears to be very tidy.  Every scroll is marked and put in
+it's appropriate place.  There are shelves on the walls with rows and rows
+of scrolls.  There is a glass case built into the counter for buyers to gawk
+at what's for sale.  The case contains some small rings and odd looking
+wands.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11365
+S
+#11368
+Entrance to the Mage's Guild~
+You now stand before the Guild of Mages.  There are no locks here, as
+entry is controlled by magical means.  Only mages can cross this threshhold.
+The road continues westwards.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11369
+D3
+~
+~
+0 0 11366
+S
+#11369
+The Magic Academy~
+You have now stepped into the Magic Academy.  Apprentice mages from the
+city and surrounding areas come here to learn the way of the arcane art
+known as magic.  The room is lined with huge bookcases.  Each bookcase is
+overflowing with tomes of knowledge.  The laboratory used for practicing is
+to the east.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11368
+D1
+~
+~
+0 0 11370
+S
+#11370
+The Laboratory~
+In this laboratory, mages are sitting at large stone tables sorting
+through the components needed for their spells.  Some mages are practicing
+their spells.  The room is alit with everything from simple flame cantrips
+to huge illusional dragons.  The sight of the magics wielded in this room is
+awe inspiring.  
+~
+0 263176 1
+D3
+~
+~
+0 0 11369
+S
+#11371
+Council House Courtyard~
+You are now standing in the courtyard of the Council House.  It is more
+of a garden than a courtyard, as there are beautiful flowers blooming all
+aorund.  There are a few benches here to sit on.  There are also statues of
+former council members here.  To the north is the Council House entrance. 
+The garden continues to the south, east, and west.  
+~
+0 262144 1
+E
+statue~
+It is of some former council member cast in bronze.
+~
+D0
+~
+~
+0 0 11372
+D1
+~
+~
+0 0 11385
+D2
+~
+~
+0 0 11353
+D3
+~
+~
+0 0 11384
+S
+#11372
+Council House Entrance~
+The Council House of Xak Tsaroth stands before you.  This is where all of
+the decision making for the city takes place.  This house is also where the
+mayor presides over disputes between citizens.  The house is made of red
+brick, and is two stories high.  To the south is the Council House
+Courtyard.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11373
+D2
+~
+~
+0 0 11371
+S
+#11373
+Inside the Council House~
+There are many interesting things inside the council house.  There are
+busts of the past mayors lining the walls.  There are also many beautiful
+tapestries of dragons and other fantastic creatures hanging on the wall. 
+The carpet that you walk on is thick and red.  It almost looks nice enough
+to sleep on.  To the north lies the Council Chambers.  To the south is the
+exit back to the streets.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11382
+D1
+~
+~
+0 0 11374
+D2
+~
+~
+0 0 11372
+D3
+~
+~
+0 0 11375
+S
+#11374
+Waiting Room~
+This where the citizens wait their turn for an audience.  There are stout
+wooden benches lining the walls.  Many of the citizens are arguing over land
+rights and deals gone bad.  Most of them look disgruntled.  It would be a
+good idea to leave them alone.  
+~
+0 262152 1
+D3
+~
+~
+0 0 11373
+S
+#11375
+Audience Chamber~
+As you enter the room, you notice the huge wooden desk that spans the
+length of the room.  It is where the council members sit when they hear
+cases.  The top of it spans six feet off the ground, forcing you to look up
+to see the councilmen.  Many citizens are milling around, trying to hear the
+decision of the council.  To the east is the entrance to the House.  There
+is a carved doorway to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11376
+D1
+~
+~
+0 0 11373
+S
+#11376
+Inside the Council House~
+You are now strolling down a small hallway.  The walls appear to be
+rather close together.  You begin to wonder what is at the end of the hall. 
+The hallway branches off to the west, leading into a small room.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11375
+D3
+~
+~
+0 0 11380
+S
+#11377
+The Park Entrance~
+You are now standing before the entrance to the park.  The park winds
+it's way through a quiet part of the city, finally ending at the North Gate.
+Looking past the entrance, small squirrels scamper about, and birds chirp
+their melodies.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11378
+D2
+~
+~
+0 0 11285
+S
+#11378
+The Park~
+Walking through the park, one cant help but notice the trees and shrubs. 
+All of the greenery is well taken care of.  The shrubs have been trimmed
+into the shape of fantastic creatures.  Small animals run around in the
+distance, and the gentle chirping of birds can be heard.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11379
+D2
+~
+~
+0 0 11377
+S
+#11379
+The Park~
+Walking through the park, one cant help but notice the trees and shrubs. 
+All of the greenery is well taken care of.  The shrubs have been trimmed
+into the shape of fantastic creatures.  Small animals run around in the
+distance, and the gentle chirping of birds can be heard.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11378
+D3
+~
+~
+0 0 11387
+S
+#11380
+The Quest Master's Office~
+You have just entered the Quest Master's office.  There are other people
+standing in line to recieve quests.  All of them look capable, but it isnt
+guaranteed that they will return from their mission.  Along the wall,
+pictures of criminals and lost objects are hanging.  Perhaps you will have
+to hunt one of these criminals.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11376
+S
+#11381
+Safe Room~
+In this room, everyone is safe from the horrible snails in the arena.  No
+evil rabbits will chew you to death, and no demonic lizards will try to
+scratch you.  Down from here leads you back to the Registry.  
+~
+0 263180 1
+D5
+~
+~
+0 0 11207
+S
+#11382
+The Council Chambers~
+The council chamber is a large room with many desks.  Some are larger,
+belonging to the more prominent council members.  Most of the councilmen
+look hard at work, reviewing claims from the citizens.  It's almost as if
+your presence isn't even noticed.  To the rear of the room, a staircase
+leads up.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11373
+D4
+~
+~
+0 0 11383
+S
+#11383
+The Mayor's Office~
+Behind a large, ornately carved wooden desk sits the red haired mayor of
+the city, Anga.  She is loved by the people of the city because of her
+fairness and her charm.  She has a very large office, and it is filled with
+numerous trinkets given to her by her people.  
+~
+0 263176 1
+D5
+~
+~
+0 0 11382
+S
+#11384
+Council House Courtyard~
+You are now standing in the courtyard of the Council House.  It is more
+of a garden than a courtyard, as there are beautiful flowers blooming all
+aorund.  There are a few benches here to sit on.  There are also statues of
+former council members here.  To the north is the Council House entrance. 
+The garden continues to the east.  
+~
+0 262144 1
+E
+statue~
+It is of some former council member cast in bronze.
+~
+D1
+~
+~
+0 0 11371
+S
+#11385
+Council House Courtyard~
+You are now standing in the courtyard of the Council House.  It is more
+of a garden than a courtyard, as there are beautiful flowers blooming all
+aorund.  There are a few benches here to sit on.  There are also statues of
+former council members here.  To the north is the Council House entrance. 
+The garden continues to the west.  
+~
+0 262144 1
+E
+statue~
+It is of some former council member cast in bronze.
+~
+D3
+~
+~
+0 0 11371
+S
+#11386
+The Cauldron~
+As you look around the room, one can tell it isn't kept too tidy.  There
+are cork stoppers on the floor and bits of broken vials everywhere.  Despite
+the mess, the shelves are very well stocked.  Many potions line the long
+shelves hanging from the walls.  
+~
+0 262152 1
+D2
+~
+~
+0 0 11317
+S
+#11387
+The Park~
+Walking through the park, one cant help but notice the trees and shrubs. 
+All of the greenery is well taken care of.  The shrubs have been trimmed
+into the shape of fantastic creatures.  Small animals run around in the
+distance, and the gentle chirping of birds can be heard.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11394
+D1
+~
+~
+0 0 11379
+S
+#11388
+{DAn Alley{x~
+You have stepped into a dark alley.  The stone walls on either side of
+you are slimey from people tossing trash from their windows.  Most of this
+trash has accumulated at the base of the walls.  Rats and other vermin
+scurry underfoot and the stench is quite offensive.  The alley continues to
+the east, with the exit to the west.  
+~
+0 262145 1
+D1
+~
+~
+0 0 11389
+D3
+~
+~
+0 0 11271
+S
+#11389
+{DAn Alley{x~
+You are traveling in the dark alley.  The stone walls on either side of
+you are slimey from people tossing trash from their windows.  Most of this
+trash has accumulated at the base of the walls.  Rats and other vermin
+scurry underfoot and the stench is quite offensive.  The alley continues to
+the east where noises can be heard.  
+~
+0 262145 1
+D1
+~
+~
+0 0 11390
+D3
+~
+~
+0 0 11388
+S
+#11390
+To the Market~
+You are now standing in the alternate entrance to the Southern Market. 
+Many shops line the edges of the square shaped marketplace.  All around
+people are haggling with shopowners or browsing the many booths and stalls
+in the market.  Almost nothing can be heard over the din of people hawking
+their wares.  
+~
+0 262145 1
+D0
+~
+~
+0 0 11294
+D3
+~
+~
+0 0 11389
+S
+#11391
+{DAn Alley{x~
+You have stepped into a dark alley.  The stone walls on either side of
+you are slimey from people tossing trash from their windows.  Most of this
+trash has accumulated at the base of the walls.  Rats and other vermin
+scurry underfoot and the stench is quite offensive.  The alley continues to
+the east, with the exit to the west.  
+~
+0 262145 1
+D1
+~
+~
+0 0 11392
+D3
+~
+~
+0 0 11257
+S
+#11392
+{DAn Alley{x~
+You have come upon an intersection in the dark alley.  The stone walls on
+either side of you are slimey from people tossing trash from their windows. 
+Most of this trash has accumulated at the base of the walls.  Rats and other
+vermin scurry underfoot and the stench is quite offensive.  The intersection
+branches of to the south where noises can be heard.  The alley also
+continues to the west.  
+~
+0 262145 1
+D1
+~
+~
+0 0 11393
+D2
+~
+~
+0 0 11318
+D3
+~
+~
+0 0 11391
+S
+#11393
+{DAn Alley{x~
+You have come upon a dead end in the dark alley.  The stone wall in front
+of you is slimey from people continually tossing their trash from the
+windows.  Most of this trash has accumulated at the base of the wall, as
+well as the walls on both sides of you.  Rats and other unknown vermin
+scurry underfoot, and the stench is quite unbearable.  It looks like the
+only way left to go is to back track.  
+~
+0 262145 1
+D3
+~
+~
+0 0 11392
+S
+#11394
+The Park~
+Walking through the park, one cant help but notice the trees and shrubs. 
+All of the greenery is well taken care of.  The shrubs have been trimmed
+into the shape of fantastic creatures.  Small animals run around in the
+distance, and the gentle chirping of birds can be heard.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11395
+D2
+~
+~
+0 0 11387
+S
+#11395
+The Park~
+Walking through the park, one cant help but notice the trees and shrubs. 
+All of the greenery is well taken care of.  The shrubs have been trimmed
+into the shape of fantastic creatures.  Small animals run around in the
+distance, and the gentle chirping of birds can be heard.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11394
+D3
+~
+~
+0 0 11396
+S
+#11396
+The Park Entrance~
+You are now standing before the entrance to the park.  The park winds its
+way through a quiet part of the city, finally ending near the Temple of
+Mishakal.  Looking past the entrance, small squirrels scamper about and
+birds chirp their melodies.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11397
+D1
+~
+~
+0 0 11395
+S
+#11397
+The North Gate of Xak Tsaroth~
+The North Gate is a large hole in the city walls.  The hole is framed by
+massive stones of granite.  The gate has a small portcullis that rarely ever
+shuts.  The gate is watched over by the ever vigilant guards.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11399
+D2
+~
+~
+0 0 11396
+S
+#11398
+Unused~
+~
+0 2138116 0
+S
+#11399
+Before the North Gate to Xak Tsaroth~
+Before you stands the North Gate.  Behind the city, spires from the
+Temple of Mishakal can be seen.  The walls of the arena also rise in the
+distance.  Off to the east, snow topped mountains can be seen, casting their
+shadows over the city.  
+~
+0 0 2
+D0
+~
+~
+0 0 17784
+D2
+~
+~
+0 0 11397
+S
+#11201
+Center of the Arena~
+This is the center of Xak Tsaroth's open air arena.  The arena is one of
+the highlights of the city.  All around, the spectators are cheering for
+their favorite hero, hoping that he or she will emerge victorious over the
+beasts that are battled.  There is a grate on the ground here.  
+~
+0 393220 1
+E
+grate~
+It leads down into darkness below the arena.
+~
+D0
+~
+~
+0 0 11228
+D1
+~
+~
+0 0 11232
+D2
+~
+~
+0 0 11240
+D3
+~
+~
+0 0 11244
+D4
+~
+~
+0 0 11381
+D5
+~
+~
+0 0 11202
+S
+#11202
+Below the Arena~
+You are now located below the floor of the arena.  The muffled sounds of
+the cheering crowd can still be heard.  Oddly, other sounds can be heard
+also.  Sounds such as growling.....  
+~
+0 393224 1
+D0
+You peer into darkness.
+~
+~
+0 0 11206
+D1
+You peer into darkness.
+~
+~
+0 0 11203
+D2
+You peer into darkness.
+~
+~
+0 0 11204
+D3
+You peer into darkness.
+~
+~
+0 0 11205
+D4
+There is a grate here. You hear the muffled sounds of the crowd above.
+~
+~
+0 0 11201
+S
+#11203
+Eastern wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11202
+S
+#11204
+Southern Wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D0
+~
+~
+0 0 11202
+D1
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11216
+S
+#11205
+Western Wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11210
+D1
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11216
+S
+#11206
+Northern Wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D1
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11202
+D3
+~
+~
+0 0 11210
+S
+#11207
+Registry~
+Welcome to the Registry.  This is where the combatants enter the arena. 
+The loud cheering of the crowd makes their anticipation obvious.  They are
+ready to watch a battle.  But beware, some combatants have not emerged alive
+from this arena.  
+~
+0 262156 1
+D2
+~
+~
+0 0 11252
+D5
+~
+~
+0 0 11241
+S
+#11208
+The Meditation Chamber~
+The Meditation chamber is spartan indeed.  The small carpet for kneeling
+and the tiny candle burning in the corner, accurately reflect the way of a
+cleric.  Clerics litter the room, all kneeling in prayer, hoping that the
+gods answer the call of the faithful.  
+~
+0 263176 1
+D0
+~
+~
+0 0 11223
+S
+#11209
+The Gymnasium~
+In the gymnasium, people are all training themselves.  There are warriors
+lifting weighted baskets, mages reading books of knowledge, and thieves
+working on their manual skills.  There are even a few clerics praying and
+examining holy items.  In the midst of all the chaos, a Dwarven trainer
+stands here, waiting to aid you in your mental and physical skills.  
+~
+0 263176 1
+D2
+~
+~
+0 0 11328
+S
+#11210
+Northwestern Corner~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D1
+~
+~
+0 0 11206
+D2
+~
+~
+0 0 11205
+S
+#11211
+Entrance to the Knights Guild~
+Here is the entrance to the Knights Guild.  Many proud men and women have
+passed through this guild.  The guild house is smaller than what one might
+expect.  One must be on guard here, not to say anything that may offend the
+knights.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11212
+D3
+~
+~
+0 0 11264
+S
+#11212
+The War Room~
+This is where the knights come to trade war tales over a mug of ale. 
+There are tapestries hanging on the walls depicting great battles fought by
+knights long since dead.  A large tapestry hangs low on the eastern wall, a
+tribute to the finest knight of all, Huma Dragonbane.  To the north is the
+practice chamber.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11213
+D3
+~
+~
+0 0 11211
+S
+#11213
+The Practice Chamber~
+Here is where the knights come to practice their skills.  There are
+weapons from former knights hanging on the walls.  The room is well lit and
+clean, a testament to the knightly way of life.  
+~
+0 263180 1
+D2
+~
+~
+0 0 11212
+S
+#11214
+{DAssassins Guild Entrance{x~
+You have stumbled upon the Assassins Guild entrance.  This room is very
+shadowy, preventing one from being completely sure of what they see here. 
+There is a single candle sitting in a sconce on the wall.  One would be wise
+to be very careful around here.  The way back to the streets is up.  
+~
+0 262152 1
+D3
+~
+~
+0 0 11215
+D4
+~
+~
+0 0 11271
+S
+#11215
+{DInside the Assassins Guild{X~
+This room is very shadowy, a benefit for the Assassins Guild.  The walls
+are covered with various assassination targets as well as different tools of
+the assassin's trade.  Everyone in this room is speaking in hushed tones,
+and its hard to make out anyones face.  The practice yard is to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11214
+D3
+~
+~
+0 0 11217
+S
+#11216
+Southwestern Corner~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D0
+~
+~
+0 0 11205
+D1
+~
+~
+0 0 11204
+S
+#11217
+{DThe Practice Yard{x~
+The assassin guildmaster stands here, watching over his apprentices.  All
+of the apprentices are practicing various skills.  Some are backstabing a
+dummy, and some are practicing their hiding ability.  The room has soft mats
+on the ground, and the lighting is a little better in here.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11215
+S
+#11218
+The Stairwell~
+The stairwell is dark, but appears to be well-kept.  As you climb higher
+on the ladder, the light begins to creep in the well from above.  It appears
+as if the exit of this stairwell takes you into the fresh air and sunlight. 
+~
+0 262152 1
+D4
+~
+~
+0 0 11219
+D5
+~
+~
+0 0 11277
+S
+#11219
+The South Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+from the southwest.  
+~
+0 262144 1
+D3
+~
+~
+0 0 11220
+D5
+~
+~
+0 0 11218
+S
+#11220
+The South Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+from the southwest.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11219
+D3
+~
+~
+0 0 11227
+S
+#11221
+Southeastern Wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D0
+~
+~
+0 0 11203
+D3
+~
+~
+0 0 11204
+S
+#11222
+Northeastern Wall~
+It is cold and dark below the floor of the arena.  Faint sounds of
+movement can be heard all around.  Shadows flit from side to side.  The only
+definite sound is the growling of some unknown terror.  
+~
+0 393224 1
+D2
+~
+~
+0 0 11203
+D3
+~
+~
+0 0 11206
+S
+#11223
+Inside the Guildhall~
+This is the cleric's common room.  There is a large, sturdy wooden table
+in the middle of the room.  The fruits on the table look enticing, but the
+cleric at the table is going to eat them all before you can even get to any
+of them.  There is also a bookcase, with all manner of herbal, healing, and
+holy books on it.  South of here is the Meditation Chamber.  
+~
+0 262152 1
+D0
+~
+~
+0 0 11224
+D2
+~
+~
+0 0 11208
+S
+#11224
+Entrance to the Clerics Guild~
+The entrance to the guild hall is just a small room, with the only person
+keeping watch, a sole guard to keep out unwanted intruders.  The cleric's
+common room is south of here.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11285
+D2
+~
+~
+0 0 11223
+S
+#11225
+At the Altar of Mishakal~
+Here you find yourself standing in the center of the temple.  A
+sacrificial altar awaits any and all sacrifices to be made to Mishakal,
+goddess of healing.  The altar is made of marble, with a light bluish tint
+to it.  Chanting and singing can be heard coming from all around this vast
+chamber.  The source of the singing can not be seen, but without a doubt, it
+could only be coming from acolytes of Mishakal.  Located directly in the
+center of the room lies a metal stand holding a large bowl of water.  Around
+the base of the bowl, words have been etched into it.  
+~
+0 8651784 29
+E
+water~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read - 
+{x
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+E
+bowl~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read - 
+ 
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+D3
+~
+~
+0 0 11226
+S
+#11226
+Entrance to Mishakal's Temple~
+Here is the entrance to the temple.  In the middle of the room is a large
+statue of Mishakal, the Healing Hand.  Most of the items here have a light,
+bluish cast to them.  Set in the blue carpet, towering white pillars stand
+erect, built in dedication to the great Mishakal.  
+~
+0 262152 1
+D1
+~
+~
+0 0 11225
+D3
+~
+~
+0 0 11285
+S
+#11227
+The South Battlements~
+On a clear day, one could see for miles and miles from the battlements. 
+The battlement provides an excellent view of the gate and the road below. 
+Even smoke from the chimneys of the sleepy village of Solace can be seen
+from the southwest.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11220
+S
+#11228
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11229
+D1
+~
+~
+0 0 11231
+D2
+~
+~
+0 0 11201
+D3
+~
+~
+0 0 11245
+D4
+~
+~
+0 0 11381
+S
+#11229
+Northern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D1
+~
+~
+0 0 11230
+D2
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11246
+D4
+~
+~
+0 0 11381
+S
+#11230
+Northern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D1
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11229
+D4
+~
+~
+0 0 11381
+S
+#11231
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11230
+D1
+~
+~
+0 0 11238
+D2
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11228
+D4
+~
+~
+0 0 11381
+S
+#11232
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11231
+D1
+~
+~
+0 0 11237
+D2
+~
+~
+0 0 11233
+D3
+~
+~
+0 0 11201
+D4
+~
+~
+0 0 11381
+S
+#11233
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11232
+D1
+~
+~
+0 0 11236
+D2
+~
+~
+0 0 11234
+D3
+~
+~
+0 0 11240
+D4
+~
+~
+0 0 11381
+S
+#11234
+Southern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D0
+~
+~
+0 0 11233
+D1
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11241
+D4
+~
+~
+0 0 11381
+S
+#11235
+Southeastern Corner of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D0
+~
+~
+0 0 11236
+D3
+~
+~
+0 0 11234
+D4
+~
+~
+0 0 11381
+S
+#11236
+Eastern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D0
+~
+~
+0 0 11237
+D2
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11233
+D4
+~
+~
+0 0 11381
+S
+#11237
+Eastern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D0
+~
+~
+0 0 11238
+D2
+~
+~
+0 0 11236
+D3
+~
+~
+0 0 11232
+D4
+~
+~
+0 0 11381
+S
+#11238
+Eastern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 393216 1
+D0
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11237
+D3
+~
+~
+0 0 11231
+D4
+~
+~
+0 0 11381
+S
+#11239
+Northeastern Corner of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11230
+D4
+~
+~
+0 0 11381
+S
+#11240
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11201
+D1
+~
+~
+0 0 11233
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11243
+D4
+~
+~
+0 0 11381
+S
+#11241
+Arena Floor Entrance~
+Here is the entrance to the arena.  The sounds of battle and the cheering
+of the crowd is deafening.  Every seat is filled by eager spectators who are
+anxiously awaiting their favored combatants.  The ramp out of the arena is
+behind you.  
+~
+0 393224 1
+D0
+~
+~
+0 0 11240
+D1
+~
+~
+0 0 11234
+D3
+~
+~
+0 0 11242
+D4
+~
+~
+0 0 11381
+S
+#11242
+Southern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D0
+~
+~
+0 0 11243
+D1
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11251
+D4
+~
+~
+0 0 11381
+S
+#11243
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11244
+D1
+~
+~
+0 0 11240
+D2
+~
+~
+0 0 11242
+D3
+~
+~
+0 0 11250
+D4
+~
+~
+0 0 11381
+S
+#11244
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11245
+D1
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11243
+D3
+~
+~
+0 0 11249
+D4
+~
+~
+0 0 11381
+S
+#11245
+In the Arena~
+You are now in the arena.  All around, people are fighting against many
+different beasts.  Some are winning fairly and others are trying to cheat to
+win.  How will you do when it comes time to battle?  
+~
+0 393216 1
+D0
+~
+~
+0 0 11246
+D1
+~
+~
+0 0 11228
+D2
+~
+~
+0 0 11244
+D3
+~
+~
+0 0 11248
+D4
+~
+~
+0 0 11381
+S
+#11246
+Northern Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D1
+~
+~
+0 0 11229
+D2
+~
+~
+0 0 11245
+D3
+~
+~
+0 0 11247
+D4
+~
+~
+0 0 11381
+S
+#11247
+Northwestern Corner of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D1
+~
+~
+0 0 11246
+D2
+~
+~
+0 0 11248
+D4
+~
+~
+0 0 11381
+S
+#11248
+Western Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D0
+~
+~
+0 0 11247
+D1
+~
+~
+0 0 11245
+D2
+~
+~
+0 0 11249
+D4
+~
+~
+0 0 11381
+S
+#11249
+Western Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D0
+~
+~
+0 0 11248
+D1
+~
+~
+0 0 11244
+D2
+~
+~
+0 0 11250
+D4
+~
+~
+0 0 11381
+S
+#11250
+Western Wall of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D0
+~
+~
+0 0 11249
+D1
+~
+~
+0 0 11243
+D2
+~
+~
+0 0 11251
+D4
+~
+~
+0 0 11381
+S
+#11251
+Southwestern Corner of the Arena~
+The wall is made from cold granite, and runs the perimeter of the arena. 
+The spectators are close enough to touch now.  The cheering is even more
+deafening here.  It may be a good idea to move on 
+~
+0 393216 1
+D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11242
+D4
+~
+~
+0 0 11381
+S
+#11252
+Arena Square~
+You are now standing in front of the great open air arena of Xak Tsaroth.
+The arena is circular shaped, with the seats rising high in the rear and
+rather low in the front.  The sounds of steel on steel ring through the air.
+The occasional explosion can be heard, from spells being cast by mages
+battling in the arena.  To enter, just go north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11207
+D1
+~
+~
+0 0 11259
+D2
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11253
+S
+#11253
+Arena Square~
+Welcome to Arena Square.  In Arena Square, all manner of items pertaining
+to battle and war can be bought.  From flails to swords, daggers to hammers,
+the place for weapons is at Altus Oakleaf's Singing Sword weapon shop.  It
+is located on the western end of the plaza.  If its armor you want, visit
+Talet's Armoury on the eastern side of the plaza.  
+~
+0 262144 1
+D1
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11254
+S
+#11254
+Arena Square~
+Welcome to Arena Square.  In Arena Square, all manner of things
+pertaining to battle can be purchased.  There is a weapon shop to the west,
+and to the east an armory can be seen.  In the middle of the square is a
+large marble statue.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11253
+D1
+~
+~
+0 0 11260
+D2
+~
+~
+0 0 11255
+D3
+~
+~
+0 0 11261
+S
+#11255
+Arena Square~
+Welcome to Arena Square.  In Areana Square, all manner of things
+pertaining to battle and war can be purchased.  On the western perimeter of
+the square is a weaponsmith.  The eastern end of the square is a home to an
+armory.  There stands a large marble statue in the middle of the square.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11254
+D1
+~
+~
+0 0 11256
+S
+#11256
+Arena Square~
+You find yourself in Arena Square, where all things pertaining to battle
+may be purchased.  The streets here are lined with beautifully shaped
+bushes.  They have been trimmed into fantastic shapes, such as dragons
+battling men.  There are also statues of former arena champions.  This area
+of the city looks very well kept.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11260
+D1
+~
+~
+0 0 11257
+D2
+~
+~
+0 0 11263
+D3
+~
+~
+0 0 11255
+S
+#11257
+Arena Square~
+You find yourself in Arena Square, where all things pertaining to battle
+may be purchased.  The streets here are lined with beautifully shaped
+bushes.  They have been trimmed into fantastic shapes, such as dragons
+battling men.  There are also statues of former arena champions.  This area
+of the city looks very well kept.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11258
+D1
+~
+~
+0 0 11391
+D3
+~
+~
+0 0 11256
+S
+#11258
+Arena Square~
+Welcome to Arena Square.  In Arena Square, all manner of things
+pertaining to battle can be purchased.  There is a weapon shop to the west,
+and to the east an armory can be seen.  In the middle of the square is a
+large marble statue.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11259
+D1
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11257
+D3
+~
+~
+0 0 11260
+S
+#11259
+Arena Square~
+You find yourself in Arena Square, where all things pertaining to battle
+may be purchased.  The streets here are lined with beautifully shaped
+bushes.  They have been trimmed into fantastic shapes, such as dragons
+battling men.  There are also statues of former arena champions.  This area
+of the city looks very well kept.  
+~
+0 262144 1
+D2
+~
+~
+0 0 11258
+D3
+~
+~
+0 0 11252
+S
+#11260
+The Great Statue~
+This huge statue has been standing here since long before the oldest
+citizens of the city were born.  No one knows the name of the statue, nor do
+they know the name of the sculptor.  In some circles it is whispered that
+the statue was made in honor of the great Huma Dragonbane, famous Knight of
+Solamnia.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11252
+D1
+~
+~
+0 0 11258
+D2
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11254
+S
+#11261
+Singing Sword~
+As you look around the room, all manner of weapons can be seen hanging on
+the walls.  Whether sword or mace, dagger or hammer, all can be bought from
+the elven weaponsmith, Altus Oakleaf.  If you look at the weapons, you can
+tell that these were made from the finest steel with the greatest attention
+to detail.  
+~
+0 263176 1
+D1
+~
+~
+0 0 11254
+S
+#11262
+Talet's Armory~
+Owned by Talet Ironhammer, the dwarven smith, Talet's Armory has always stood for the best quality armor this side of Solace. Just take a look at what Talet has to offer.
+~
+0 262152 1
+D3
+~
+~
+0 0 11258
+S
+#11263
+Entrance to Arena Square~
+Here is the entrance to Arena Square.  The entrance is a small footbridge
+that crosses a peaceful pond.  In contrast to the serenity of the pond, many
+sounds can be heard coming from the square, and the arena ahead.  The sound
+of steel clashing against steel rings in the air.  
+~
+0 262144 1
+D0
+~
+~
+0 0 11256
+D2
+~
+~
+0 0 11264
+S
+#0
+
+
+
+#SPECIALS
+M 11280 spec_nasty
+M 11285 spec_breath_acid
+M 11399 spec_ferrysol
+M 11203 spec_questmaster
+M 11207 spec_guard
+M 11208 spec_guard
+M 11214 spec_cast_mage
+M 11220 spec_fido
+M 11221 spec_happy
+M 11222 spec_dark_magic
+M 11223 spec_cast_mage
+M 11226 spec_cast_cleric
+M 11236 spec_guard
+M 11243 spec_troll_member
+S
+
+
+
+#RESETS
+M 0 11280 10 11264 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11208 7 11265 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11214 0 11
+M 0 11280 10 11265 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11207 1 11269 1
+E 0 11202 0 20
+E 0 11203 0 5
+E 0 11205 0 15
+E 0 11206 0 13
+E 0 11204 0 6
+E 0 11209 0 11
+E 0 11208 0 8
+E 0 11207 0 12
+M 0 11221 10 11270 1
+E 0 11216 0 5
+M 0 11280 10 11270 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11208 7 11271 1
+E 0 11210 0 20
+E 0 11212 0 1
+E 0 11211 0 5
+M 0 11220 6 11272 1
+M 0 11280 10 11274 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11236 7 11275 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11213 0 8
+E 0 11214 0 11
+E 0 11217 0 13
+M 0 11280 10 11277 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11208 7 11280 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11213 0 8
+M 0 11280 10 11281 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11222 6 11282 1
+E 0 11215 0 15
+M 0 11220 6 11283 1
+M 0 11222 6 11285 1
+E 0 11215 0 15
+M 0 11208 7 11285 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11213 0 8
+E 0 11214 0 11
+E 0 11217 0 13
+M 0 11285 1 11285 1
+M 0 11240 1 11286 1
+G 0 11257 0
+G 0 11258 0
+G 0 11259 0
+M 0 11208 7 11289 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+M 0 11231 1 11290 1
+G 0 11242 0
+G 0 11243 0
+G 0 11244 0
+G 0 11245 0
+G 0 11246 0
+M 0 11221 10 11294 1
+E 0 11216 0 5
+M 0 11233 1 11298 1
+G 0 11274 0
+G 0 11275 0
+G 0 11276 0
+G 0 11277 0
+M 0 11241 1 11299 1
+G 0 11268 0
+G 0 11269 0
+G 0 11270 0
+G 0 11271 0
+G 0 11272 0
+G 0 11273 0
+M 0 11232 1 11300 1
+G 0 11278 0
+G 0 11279 0
+G 0 11280 0
+G 0 11281 0
+G 0 11282 0
+M 0 11246 1 11301 1
+M 0 11228 1 11304 1
+M 0 11221 10 11305 1
+E 0 11216 0 5
+M 0 11229 3 11305 1
+G 0 11280 0
+G 0 11238 0
+G 0 11236 0
+G 0 11219 0
+G 0 11220 0
+M 0 11221 10 11309 1
+E 0 11216 0 5
+O 0 11225 0 11309
+O 0 11225 0 11310
+M 0 11221 10 11313 1
+E 0 11216 0 5
+M 0 11208 7 11313 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11217 0 13
+M 0 11222 6 11318 1
+E 0 11215 0 15
+M 0 11230 1 11319 1
+M 0 11215 1 11320 1
+M 0 11218 1 11320 1
+M 0 11216 1 11320 1
+M 0 11217 1 11320 1
+M 0 11248 1 11320 1
+M 0 11238 1 11321 1
+G 0 11247 0
+G 0 11248 0
+G 0 11249 0
+G 0 11250 0
+M 0 11229 3 11324 1
+M 0 11239 1 11324 1
+G 0 11220 0
+G 0 11236 0
+G 0 11237 0
+G 0 11238 0
+G 0 11239 0
+G 0 11240 0
+G 0 11241 0
+M 0 11280 10 11325 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11221 10 11327 1
+E 0 11216 0 5
+M 0 11222 6 11331 1
+E 0 11215 0 15
+M 0 11220 6 11333 1
+M 0 11236 7 11335 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11213 0 8
+E 0 11214 0 11
+E 0 11217 0 13
+M 0 11236 7 11340 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11213 0 8
+E 0 11214 0 11
+E 0 11217 0 13
+M 0 11235 1 11343 1
+G 0 11219 0
+G 0 11221 0
+G 0 11222 0
+G 0 11223 0
+M 0 11229 3 11344 1
+M 0 11221 10 11344 1
+E 0 11216 0 5
+M 0 11225 1 11347 1
+M 0 11220 6 11350 1
+M 0 11236 7 11352 2
+M 0 11224 1 11360 1
+M 0 11214 3 11362 1
+E 0 11218 0 5
+M 0 11214 3 11364 1
+E 0 11218 0 5
+M 0 11214 3 11366 1
+E 0 11218 0 5
+M 0 11237 1 11367 1
+G 0 11251 0
+G 0 11252 0
+G 0 11253 0
+G 0 11254 0
+G 0 11255 0
+G 0 11256 0
+M 0 11223 1 11370 1
+M 0 11222 6 11371 1
+E 0 11215 0 15
+M 0 11236 7 11372 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11214 0 11
+E 0 11213 0 8
+E 0 11217 0 13
+M 0 11221 10 11374 2
+E 0 11216 0 5
+M 0 11203 1 11380 1
+M 0 11202 1 11383 1
+E 0 11202 0 20
+M 0 11242 1 11386 1
+G 0 11283 0
+G 0 11284 0
+G 0 11285 0
+G 0 11286 0
+G 0 11287 0
+G 0 11288 0
+G 0 11289 0
+G 0 11290 0
+G 0 11291 0
+G 0 11292 0
+M 0 11243 1 11393 1
+M 0 11210 2 11204 1
+M 0 11201 2 11205 1
+M 0 11226 1 11208 1
+M 0 11219 1 11209 1
+M 0 11213 1 11210 1
+M 0 11204 1 11213 1
+M 0 11227 1 11217 1
+M 0 11236 7 11219 1
+E 0 11212 0 2
+E 0 11210 0 20
+E 0 11211 0 5
+E 0 11213 0 8
+E 0 11214 0 11
+E 0 11217 0 13
+M 0 11201 2 11221 1
+M 0 11210 2 11222 1
+M 0 11234 1 11225 1
+O 0 11234 0 11225
+O 0 11303 0 11226
+M 0 11212 3 11228 1
+M 0 11211 4 11230 1
+M 0 11209 3 11230 1
+M 0 11212 3 11232 1
+M 0 11211 4 11234 2
+M 0 11206 3 11237 1
+M 0 11209 3 11240 1
+M 0 11211 4 11244 1
+M 0 11209 4 11244 1
+M 0 11206 3 11246 1
+M 0 11209 4 11248 1
+M 0 11206 3 11251 1
+M 0 11212 3 11251 1
+M 0 11221 10 11254 1
+E 0 11216 0 5
+M 0 11280 10 11254 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11222 6 11255 1
+E 0 11215 0 15
+M 0 11208 7 11256 1
+E 0 11212 0 1
+E 0 11210 0 20
+E 0 11213 0 8
+M 0 11220 6 11259 1
+M 0 11280 10 11259 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11280 10 11260 1
+E 0 11330 0 20
+E 0 11331 0 1
+M 0 11205 1 11261 1
+G 0 11260 0
+G 0 11261 0
+G 0 11262 0
+G 0 11263 0
+G 0 11264 0
+G 0 11265 0
+G 0 11266 0
+G 0 11267 0
+M 0 11244 1 11262 1
+G 0 11293 0
+G 0 11294 0
+G 0 11295 0
+G 0 11296 0
+G 0 11297 0
+G 0 11298 0
+G 0 11299 0
+G 0 11300 0
+G 0 11301 0
+G 0 11302 0
+S
+
+
+
+#SHOPS
+11205 0 0 0 0 5 100 100 0 23
+11229 0 0 0 0 10 100 100 0 23
+11231 0 0 0 0 19 100 100 0 23
+11232 0 0 0 0 19 100 100 0 23
+11233 0 0 0 0 10 100 100 0 23
+11235 0 0 0 0 17 100 100 0 23
+11237 0 0 0 0 10 100 100 0 23
+11238 0 0 0 0 35 100 100 0 23
+11239 0 0 0 0 19 100 100 0 23
+11240 0 0 0 0 10 100 100 0 23
+11241 0 0 0 0 32 100 100 0 23
+11242 0 0 0 0 10 100 100 0 23
+11244 0 0 0 0 9 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#11201
+~
+#11213
+if class $n knight
+say Welcome Knight $n.
+else
+if level $n <= 101
+say You are not welcome here!
+mob trans $n 11212
+endif
+endif
+~
+#11220
+if rand 10
+   growl $n
+else
+  mob echo the street dog licks your hand.
+ 
+end if
+ 
+~
+#11221
+if rand 10
+mob echo The street dog sniffs the air
+else
+mob echo The street dog relieves himself.
+endif
+~
+#11223
+if class $n mage
+say Welcome apprentice $n.
+else
+mob echoat $n The guildmaster raises his hand and in a blink, you disappear.
+mob trans $n 11368
+endif
+~
+#11285
+if level $n <= 90
+say You're not even worth the time to think about killing.
+else
+if isgood $n
+spit $n
+say Foul follower of the light. You must now DIE!
+mob kill $n
+else
+grumble
+say Leave me be, else you will become my next main course meal.
+mob remember $n
+mob delay 5
+break
+endif
+~
+#11286
+if hastarget $i
+say I warned you. Now you will pay the consequence!
+pause 10
+mob kill $q
+else
+mob forget
+endif
+~
+#11398
+~
+#11399
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

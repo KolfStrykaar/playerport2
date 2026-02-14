@@ -1,0 +1,729 @@
+#PLAYER
+Name Aldrin~
+Surname Thrienne~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1409972864
+LogO 1410065804
+Vers 10
+Act  CDFGHQTe
+Desc Standing before you is a figure, standing roughly, six feet tall. The
+figure looks to be male. Atop his head is shaggy brown hair, that stops
+just shy of his slightly pointed ears. His eyes are a dull steel blue,
+that seem sad. His clothing is that of hand me down leathers and a rough
+cotton tunic. Around his waist seems to be the only new thing about him.
+Two nicely kept daggers, new sheaths and shiny steel. He has a pouch near
+them, nearly full and it makes a clinging sound whenever he moves.
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  1
+Cla  2
+Hmtown 0
+Levl 14
+recall_point 3001
+Levscale 30
+Xptolev  2332
+Sec  0
+Plyd 12020
+Not  0 0 0 0 0
+Scro 22
+Room 3365
+HMV  1 307 1 171 17 178
+Steel 13
+Gold 244
+Bank 0
+Exp  23568
+AfBy J
+AfBy2 T
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4128768
+Comm NO
+Pos  8
+Trai 3
+Alig  -46
+Ethos 0
+ACs 47 39 28 92
+Attr 13 15 18 16 18 16
+AMod 2 6 17 5 6 0
+Pass Alqpyr1IVmgoI~
+Titl  the Pick-Pocket~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 2
+HMVP 257 131 178
+Cnd  0 63 63 0
+QuestPnts 42
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; gt {g<{YAldrin{g> ~
+Sk 1 'detect hidden'
+Sk 1 'detect poison'
+Sk 1 'infravision'
+Sk 76 'dagger'
+Sk 2 'shield block'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 75 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 75 'kick'
+Sk 1 'trip'
+Sk 75 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'blackjack'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'pickpocket'
+Sk 1 'mountjack'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 75 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'lore'
+Sk 75 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 75 'steal'
+Sk 50 'recall'
+Sk 1 'disguise'
+Sk 1 'tumble'
+Sk 1 'scout'
+Sk 1 'second backstab'
+Sk 1 'strip'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'evade'
+Sk 1 'boobytrap'
+Sk 1 'disarm traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+Affc 'invul'   6  14   3   0   0     524288
+Affc 'infravision'   0  13   3   0   0        512
+End
+
+#O
+Vnum 3776
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 9531
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 9531
+Nest 0
+Cond 100
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 3007
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 94
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 94
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 96
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 96
+Wear 20
+Lev  26
+Cost 800
+Val  2 3 8 11 65
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 124 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear 21
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#END

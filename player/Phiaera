@@ -1,0 +1,1872 @@
+#PLAYER
+Name Phiaera~
+Surname Eyilaet~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1211225239
+LogO 1422622852
+Vers 10
+Act  DEFGQT
+Desc {DStanding before you is a young elven maiden, one of radiant beauty.  She
+barely tops the height of five feet, one inch mark and looks to weigh
+approximately one hundred and twelve pounds. Silky strands of {Wsilver
+{Whair{x {Dnow tainted with a touch of {Yhoney{x {Dcascade over her
+shoulders, the luxurous locks tumbling past the small of her back.  A few
+tendrils frame her child-like face.{x
+
+
+{DMesmerizing eyes of {cjade{x {Dhue peer about their surroundings.  They
+seem to hold a seductive glint and are veiled by long lashes.  Her small
+nose is lightly dusted with {yfreckles{x.  {DHer flawless skin is
+{Wwhite{x {Das the {Wwinter's{x {Dfirst {Wsnow{x {Dand is free of
+blemishes.  It also is very soft to the touch.  {DHer {rcrimson{x {Dtinted
+lips would shame the perfect {Rred rose{x{D.  {DThey would also tempt a
+thousand kisses as she gives a slight smile.{x
+
+
+{WWhite {Dsatin robes cling to this young beauty's petite frame.  A trail
+of {Wsilver lining{x {Druns down each side of the robes.  The satin robes
+also seem to {wsparkle{x {Das if the {Wstars{x {Dthemselves were sewn into
+them.  Under the robes she wears a blouse and a silk skirt that barely
+{Dreaches her knees.  Adorning her dainty feet are {Wwhite satin
+{Dslippers, {Wsilver lining {Dtrailing the edges.
+
+
+{DThe soft scent of {Wlilies {Dsurrounds her.  A dragon hatchling curls up
+on her shoulder, the tail curving about her neck.  The dragon's
+{gemerald{x {Deyes constantly look about in curiosity.{x
+
+~
+Prom %hhp %mm %vmv %X %B %g %s ~
+Race silvanesti~
+Org 2
+Religion 21
+Sex  2
+Cla  14
+Hmtown 1
+Levl 100
+recall_point 15195
+Levscale 30
+Xptolev  1195900
+Sec  0
+Plyd 2141900
+Not  1422622830 1422622843 0 1422622833 1422622838
+Scro 22
+Room 15195
+HMV  2059 2059 1518 1518 754 754
+Steel 62
+Gold 1438
+Bank 9066
+Exp  16258300
+AfBy BDFJb
+Deaths 10
+FlagTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2359296
+Comm NO
+Pos  8
+Prac 9
+Save  -49
+Alig  1000
+Ethos 1
+Hit   20
+Dam   18
+ACs -335 -337 -334 -309
+Wimp  300
+Attr 18 35 32 30 32 16
+AMod 8 6 4 16 10 0
+Pass Phij7irIZKflo~
+Titl  - High Mage of the {WWhite Robes{x~
+Pretit Archmage{x~
+Pnts 10
+TSex 2
+LLev 147
+HMVP 1669 1373 754
+Cnd  0 36 22 0
+QuestPnts 442
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {R---->{DMistress of Conjuration{R<----{x {r~
+Sk 100 'acid blast'
+Sk 88 'armor'
+Sk 76 'blindness'
+Sk 89 'burning hands'
+Sk 84 'call lightning'
+Sk 70 'change sex'
+Sk 100 'control weather'
+Sk 95 'create food'
+Sk 100 'create spring'
+Sk 93 'create water'
+Sk 81 'detect good'
+Sk 100 'detect invis'
+Sk 77 'detect magic'
+Sk 75 'detect poison'
+Sk 76 'dispel magic'
+Sk 81 'incendiary cloud'
+Sk 99 'glitterdust'
+Sk 1 'orb of containment'
+Sk 100 'gate'
+Sk 95 'life transfer'
+Sk 75 'infravision'
+Sk 100 'invisibility'
+Sk 80 'know alignment'
+Sk 100 'storm of vengeance'
+Sk 88 'magic missile'
+Sk 81 'nexus'
+Sk 100 'aid'
+Sk 76 'dimensional door'
+Sk 77 'protection evil'
+Sk 75 'recharge'
+Sk 97 'refresh'
+Sk 100 'summon'
+Sk 96 'teleport'
+Sk 79 'weaken'
+Sk 98 'word of recall'
+Sk 75 'fire breath'
+Sk 79 'frost breath'
+Sk 92 'gas breath'
+Sk 85 'lightning breath'
+Sk 100 'dagger'
+Sk 98 'whip'
+Sk 93 'dodge'
+Sk 100 'enhanced damage'
+Sk 75 'envenom'
+Sk 100 'parry'
+Sk 97 'second attack'
+Sk 100 'convoke swarm'
+Sk 92 'traject'
+Sk 87 'mount'
+Sk 81 'wind wall'
+Sk 96 'gust of wind'
+Sk 83 'unseen servant'
+Sk 99 'cantrip'
+Sk 100 'iceblast'
+Sk 85 'brew'
+Sk 100 'scribe'
+Sk 77 'battle tactics'
+Sk 100 'knock'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 96 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 75 'recall'
+Sk 70 'cloak of starlight'
+Sk 76 'closing weave'
+Sk 75 'jab'
+Sk 100 'detect presence'
+Sk 100 'mooncloak'
+Sk 90 'surge'
+Sk 82 'endure'
+Sk 75 'rabbit summon'
+Sk 77 'thunderclap'
+Sk 100 'trance'
+Sk 79 'alarm'
+Sk 100 'gift'
+Sk 87 'staff'
+Sk 76 'eyerub'
+Sk 100 'instruct'
+Sk 100 'lock'
+Sk 1 'mark of origin'
+Sk 100 'conjure food'
+Affc 'detect invis'   0  78  34   0   0          8
+Affc 'invisibility'   0  99 102   0   0          2
+End
+
+#O
+Vnum 1271
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name silver circlet~
+ShD  a {CSilver {WCirclet{x~
+Desc Here lies a circlet, made of finely woven silver.~
+Cond 97
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 97
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name pair reading glasses~
+ShD  a pair of {WReading {wGlasses{x~
+Desc Here is a pair of delicate spectacles.~
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 1673
+Nest 0
+Name amulet past~
+ShD  an {yAmulet {wof the {DPast{x~
+Desc An amulet lies here, glowing with power.~
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name shining silver teardrop locket~
+ShD  {w({WShining{w) a Silver {CTeardrop {wLocket{x~
+Desc A locket lays here, in the shape of a teardrop.~
+Cond 97
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 0
+Name white satin slippers~
+ShD  a pair of {WWhite{X {WSatin{X {WSlippers{X~
+Desc Here rest a set of white slippers, made of fine satin.~
+Cond 97
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name white robes conclave~
+ShD  ({WSilk{X) {WWhite{X {WRobes{X of the {WConclave{X~
+Desc A pile of white robes lie here, made of silk.~
+ExtF 262144
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 1916
+Nest 0
+Name silver sash~
+ShD  a {CSilver {WSash{x~
+Desc Here lies a silver sash.~
+ExtF 262144
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name onyx armband~
+ShD  an {DOnyx {warmband{x~
+Desc Here lies a thin armband, made entirelly of onyx stone.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  100
+Cost 1000
+Val  27 27 27 23 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name velvet black cloak~
+ShD  {w({dVelvet{w) a {DBlack Cloak{x~
+Desc Here lies a black cloak, made of soft velvet.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  100
+Cost 1000
+Val  27 27 27 23 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5617
+Nest 0
+Name black silk skirt~
+ShD  a {DBlack Silk Skirt{x~
+Desc Here lies a black skirt, made of fine silk.~
+Cond 97
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name golden anklet~
+ShD  a {YGolden {wanklet{x~
+Desc Here lies a tiny anklet, woven together by pure gold.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 13 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 4638
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'heal'
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 16306
+Nest 1
+Name teddy bear dress~
+ShD  ({WFrilly{x) a soft {yTeddy Bear{x in a dress~
+Desc A soft teddy bear,  in a lace and soft linen dress has been left here. Just waiting to be picked up and loved.~
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1952
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2972
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 2595
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 5759
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 16102
+Nest 1
+ExtF 17563648
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 2598
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5759
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3011
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15193
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1899
+Nest 1
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  66
+Cost 0
+Val  33 -1 147 0 0
+Spell 2 'silence'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  37
+Cost 100
+Val  18 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll doppelganger scroll silence~
+ShD  a scroll of doppelganger, silence~
+Cond 100
+Wear -1
+Lev  57
+Cost 200
+Val  28 283 147 -1 0
+Spell 1 'doppelganger'
+Spell 2 'silence'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  56
+Cost 200
+Val  28 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll alter reality~
+ShD  a scroll of alter reality ~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 281 -1 -1 0
+Spell 1 'alter reality'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll rainbow pattern~
+ShD  a scroll of rainbow pattern~
+Cond 100
+Wear -1
+Lev  66
+Cost 0
+Val  33 -1 172 0 0
+Spell 2 'rainbow pattern'
+End
+
+#O
+Vnum 17528
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'incendiary cloud'
+End
+
+#O
+Vnum 10721
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 188
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 120
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 172
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 120
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 187
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 9585
+Nest 1
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 9471
+Nest 1
+Name sapphire ring~
+ShD  a {bSapphire {wring{x~
+Desc Here lies a beautiful sapphire ring.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Name silver ring~
+ShD  a {CSilver {wring{x~
+Desc Here lies a beautiful silver ring.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16809986
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion detect invis~
+ShD  a potion of detect invis~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 35 -1 -1 -1
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sleepless curse~
+ShD  a potion of sleepless curse~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 317 -1 -1 -1
+Spell 1 'sleepless curse'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion aid~
+ShD  a potion of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 75 -1 -1 -1
+Spell 1 'aid'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 187
+Val  35 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 14506
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Name black leathe gloves~
+ShD  {DBlack Leather Gloves{x~
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name stone dagger~
+ShD  a stone dagger~
+Desc There appears to be a dagger rudimentaly cut from stone.~
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 60
+Mat  stone~
+Wear 20
+Lev  110
+Cost 1100
+Val  2 10 16 2 8
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 108 0 0 0
+End
+
+#O
+Vnum 3092
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 265
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name black silk shirt~
+ShD  a {DBlack Silk Shirt{x~
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1816
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 1817
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 727
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#PET
+Vnum 21
+Name unseen servant~
+LogO 1422622852
+Sex  0
+Levl 97
+HMV  1150 1150 300 300 100 100
+Act  ABI
+AfBy SU
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -506 -506 -506 -203
+Attr 28 24 25 25 27 25
+AMod 0 0 0 0 0 0
+End
+#END

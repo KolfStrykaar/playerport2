@@ -1,0 +1,8757 @@
+#AREADATA
+Name Urione2~
+Builders Zeboim~
+Continent None~
+Controlby 0~
+Faction 0~
+Sector 15
+VNUMs 16450 17349
+Credits Zeboim~
+Security 9
+End
+
+
+
+#MOBILES
+#16450
+overgrown kelp plant~
+an overgrown kelp plant~
+An overgrown kelp plant is firmly rooted into the ground, swaying in the current.
+~
+This large kelp plant, is severly overgrown, and towers over the rest. 
+Though upon further examination, it appear to be a guardian over the smaller
+kelp.  Perhaps it should not be touched.  
+~
+unique~
+AB Vb 0 0
+7 7 11d2+64 7d10+85 2d3+7 slime
+6 6 6 7
+C ABR 0 H
+stand stand none 0
+D 0 M unknown 0
+#16451
+small shrimp~
+a small shrimp~
+A small shrimp scuttles along the ground of the kelp garden.
+~
+A small shrimp compared to others, it goes scuttles along the floor of
+the kelp garden cleaning up the waste that is left behind.  
+~
+unique~
+AG Vb 0 0
+11 11 17d3+101 11d10+85 3d3+8 thwack
+4 4 4 6
+N ABR 0 H
+stand stand none 0
+AQ ACFMQ S unknown 0
+#16452
+open mussel~
+an open mussel~
+A large open mussel has attached itself under a rock.
+~
+A large mussel appears to have attached itself to a rock.  Its open shell
+leaves it in a vulnerable state.  Perhaps a quick magical fire will cook it
+enough to allow the mussel meat to be eaten.  
+~
+unique~
+AB Nbd 0 0
+15 15 23d5+137 15d10+85 4d3+10 wrath
+2 2 2 5
+A ABR 0 H
+stand stand none 500
+AQ F L unknown 0
+#16453
+large shrimp~
+a large shrimp~
+A large shrimp walks around looking for waste to eat.
+~
+A large shrimp, easily as large as a human sized foot, walks around along
+the floor of the fishery, looking for waste to eat.  
+~
+unique~
+AG Vb 0 0
+20 23 35d7+210 23d10+85 6d3+12 thwack
+-1 -1 -1 3
+N ABR 0 H
+stand stand none 400
+AQ ACFMQ L unknown 0
+#16454
+herring~
+a herring~
+A herring swims around the fishery, quietly and peacefully.
+~
+A somewhat medium sized herring, swims around the fishery quietly and
+peacfully.  Not wanting to draw attention to itself for fear of death.  
+~
+unique~
+AG Vb 0 0
+23 26 39d8+237 26d10+85 7d3+13 thwack
+-2 -2 -2 2
+0 ABR 0 H
+stand stand either 460
+Ab ADEFKOQX M unknown 0
+#16455
+mackeral~
+a mackeral~
+A mackeral swims along the floor, stopping every now and then to pick the ground for food.
+~
+A large mackeral swims along the floor gracefully.  Every now and then it
+stops and turns its mouth to the floor to pick at the stone for finding
+food.  
+~
+unique~
+AG Vb 0 0
+26 29 44d9+264 29d10+85 8d3+14 thwack
+-4 -4 -4 2
+0 ABR 0 H
+stand stand either 520
+Ab ADEFKOQX M unknown 0
+#16456
+cod~
+a cod~
+A cod swims lazily around the fishery, getting abornomaly fat and plump.
+~
+An odd sight for a cod.  This one is fat and plump, and looks like it has
+been getting fat in hopes of not getting eaten.  
+~
+unique~
+AG Vb 0 0
+29 32 48d10+292 32d10+85 9d3+15 thwack
+-5 -5 -5 1
+0 ABR 0 H
+stand stand either 580
+Ab ADEFKOQX M unknown 0
+#16457
+lobster~
+a lobster~
+A lobster chases any fish that it comes across, hoping they'll be the next meal.
+~
+A large lobster walks along the ground moving its eyes, attempting to
+find a fish with its guard down, so that it can make a quick meal of them.  
+~
+unique~
+AG Vb 0 0
+35 38 57d12+346 38d10+85 10d3+17 thwack
+-8 -8 -8 0
+FKN ABR 0 H
+stand stand none 700
+AQ AEFMQ M unknown 0
+#16458
+eel~
+an eel~
+An eel glides through the water slowly, looking for prey.
+~
+A long eel with a greenish color to it swims around.  Looking for prey is
+all that is ever on its mind, until it is time to find a mate.  
+~
+unique~
+AG Vb 0 0
+40 40 60d13+365 40d10+85 11d3+18 thwack
+-9 -9 -9 -1
+CFK AB 0 H
+stand stand either 800
+A AEFKQ M unknown 0
+#16459
+manta ray~
+a manta ray~
+A large manta ray gildes just over the kelp as if it were a bird flying through the air.
+~
+A manta ray, large even by normal standards, glides through the water. 
+Brown in color, with a large tail it and it's body that moves, it's no
+wonder why this creature is so beautiful to most.  
+~
+unique~
+AG Vb 0 0
+44 44 66d14+401 44d10+85 12d3+19 none
+-11 -11 -11 -2
+CFK AB 0 H
+stand stand either 880
+A AEFKQ M unknown 0
+#16460
+seaworm~
+a seaworm~
+A somewhat small seaworm, trys to dig it's way under the kelp.
+~
+A seaworm try's to build it's home under the kelp plants of the sea. 
+Looking for safety and nutrition is it's only concern.  
+~
+unique~
+AG Vb 0 0
+47 47 71d15+428 47d10+85 13d3+20 thwack
+-13 -13 -13 -3
+FKN AB 0 H
+stand stand either 940
+A AEFKQ M unknown 0
+#16461
+giant squid~
+a giant squid~
+The master of stealth in the sea, the giant squid changes it's colors to hide.
+~
+The giant squid is a rare sight at shallow of a depth.  Perhaps it's main
+food source has run out?  
+~
+unique~
+AG OQVb 0 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+CFKN AB 0 H
+stand stand either 1000
+A AEFKQ M unknown 0
+#16462
+carpet shark~
+a carpet shark~
+Not wanting to draw attention to itself, the carpet shark covers itself with sand.
+~
+A natural sand color, the carpet shark try's to hide itself by covering
+themselves with sand.  Not one to attack first, the shark is safe unless
+provoked.  
+~
+unique~
+AG QVb 0 0
+54 54 81d18+492 54d10+85 15d3+23 bite
+-16 -16 -16 -5
+CFKN AB 0 0
+stand stand either 1080
+A AEFKQ M unknown 0
+#16463
+swordfish~
+a swordfish~
+With it's snout as a long sword, this swordfish could easily hurt the slow.
+~
+The swordfish gets it name from it's sword like nose.  Sharp and sleek,
+it's nose alone could hurt even the toughest of skin.  
+~
+unique~
+AG Vb 0 0
+57 57 86d19+1037 57d10+85 16d3+24 pierce
+-17 -17 -17 -5
+FKN AB 0 H
+stand stand either 1140
+A AEFKQ M unknown 0
+#16464
+aboleth~
+an aboleth~
+An ugly creature, the aboleth is swift and cunning.
+~
+The aboleth is swift and cunning, due to the fact that when born it
+inherits it's parents knowledge.  A bloodline that has not been killed off,
+is sure to be a threat to anyone who crosses it's path.  
+~
+unique~
+AG HVab 0 0
+60 60 90d20+1093 60d10+85 17d3+25 none
+-18 -18 -18 -6
+FJKNU ABCQ 0 0
+stand stand either 1200
+A AEFKQ M unknown 0
+#16465
+human~
+a human~
+A dirty human, long since a prisoner of Urione, has about given up on life.
+~
+Dirty, skinny, and most of all hopeless, this human no longer wants to
+live but will not take their own life.  
+~
+human~
+ABH N 0 0
+65 65 98d21+1183 65d10+85 18d3+26 punch
+-21 -21 -21 -7
+CNU AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#16466
+elf~
+an elf~
+Always proud, this elf refuses to give up on life, always searching for escape.
+~
+No longer is this elf a distinguishable race.  They are dirty, and
+ragged, but refuse to let their cousins have the best of them.  They are
+always looking for a way to escape and get their revenge.  
+~
+elf~
+AG JNV 0 0
+70 70 105d23+1275 70d10+85 20d3+28 punch
+-23 -23 -23 -8
+CN AB 0 Z
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#16467
+half elf~
+a half-elf~
+Unsocial except to other half-elves, they are ready to hurt any that cross their path.
+~
+Dirty and skinny, and still shunned by the elves that they are imprisoned
+with, they refuse to talk to any but their own kind.  
+~
+half-elf~
+AFG JNV 0 0
+75 75 113d25+1365 75d10+85 21d3+30 punch
+-26 -26 -26 -10
+CNU AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#16468
+dwarf~
+a dwarf~
+Though the dwarf is small in stature, they are always ready for a good fight.
+~
+Short and stumpy, the dwarf is still a good fighter.  Though they are not
+as quick and agile, a punch to the groin area could make anyone double over.
+~
+dwarf~
+AG JNd 0 0
+80 100 120d26+1457 80d10+85 30d5+50 punch
+-28 -28 -28 -12
+CIN AB LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#16469
+spectre~
+a spectre~
+A forgotten spectre floats around under the prison cave.
+~
+A spectre looks much as it did in life and can be easily recognized by
+those who knew the individual or have seen the individuals face in a
+painting or a drawing.  In many cases, the evidence of a violent death is
+visible on its body.  A spectre is roughly human-sized and is weightless.  
+~
+unique~
+AGOQR DFHPTUV 0 0
+85 85 128d28+1547 85d10+85 24d3+33 divine
+-31 -31 -31 -13
+EH ABQ CD 0
+stand stand none 1700
+K 0 M unknown 0
+#16470
+magmin~
+a magmin~
+A magmin, engulfed in fire, chortles idly to their self.
+~
+Magmins are small, human-shaped beings from the Elemental Plane of Fire
+that radiate intense heat and are wreathed in an aura of searing flames.  A
+typical magmin is 4 feet tall and weighs 400 pounds.  
+~
+unique~
+AFG OVac 0 0
+90 90 135d30+1639 90d10+85 25d3+35 flame
+-33 -33 -33 -14
+DFJKU ABHJKLMOPQ 0 IN
+stand stand none 1800
+E 0 M unknown 0
+#16471
+thoqqua~
+a thoqqua~
+A thoqqua is always on the move, looking for a new place to melt and tunnel.
+~
+A thoqqua is about 1 foot in diameter and 4 to 5 feet long.  It weighs
+about 200 pounds, and looks like a huge worm with a large point on it's face
+that it uses to melt and tunnel with.  
+~
+unique~
+AFG AOVc 0 0
+95 95 143d31+1729 95d10+85 27d3+36 flame
+-35 -35 -35 -16
+CEFKM ABH 0 I
+stand stand none 1900
+R 0 L unknown 0
+#16472
+stone giant~
+a stone giant~
+A stone giant is a rare sight. Usually seen in mountain tops, rather than underwater mountains.
+~
+Stone giants prefer thick leather garments, dyed in shades of brown and
+gray to match the stone around them.  Adults are about 12 feet tall and
+weigh about 1,500 pounds.  Stone giants can live to be 800 years old.  
+~
+unique~
+AG HNPV 0 0
+100 100 150d33+1821 100d10+85 28d3+38 none
+-37 -37 -37 -16
+EFIKNO AB CD 0
+stand stand male 2000
+E 0 H unknown 0
+#16473
+umber hulk~
+an umber hulk~
+A umber hulk screams and gets ready to attack!
+~
+Umber hulks are powerful subterranean predators, whose iron-like claws
+allow them to burrow through solid stone in search of prey.  They are
+tremendously strong and muscles bulge beneath their thick, scaly hides. 
+Their powerful arms and legs all end in great claws.  
+~
+unique~
+ABFT DFHV 0 0
+105 105 158d35+1911 105d10+85 30d3+40 beating
+-40 -40 -40 -18
+CFIJKNO ABQ CD 0
+stand stand none 5000
+E 0 H unknown 0
+#16474
+blue shark~
+a blue shark~
+A large blue shark swims the area looking for it's next meal.
+~
+A large blue shark blends into the surrounding waters with ease.  The
+silent stalker of prey strikes fast and hard, giving those it feeds on a
+quick and painless death.  
+~
+unique~
+AFG V 0 0
+59 59 89d19+1073 59d10+85 16d3+24 smash
+-18 -18 -18 -6
+CN AB KQ 0
+stand stand either 2950
+A AEFKQ L unknown 0
+#16475
+hammerhead shark~
+a hammerhead shark~
+A hammerhead shark pushes it's way through the water, making its presence known.
+~
+Ugly in apperance, the hammerhead looks menacing on it's own.  Always on
+the look for an easy victim, it cares not about stealth, but pure force. 
+One should be careful against this foe, it could be their last.  
+~
+unique~
+AFG V 0 0
+42 42 63d14+383 42d10+85 12d3+19 slash
+-10 -10 -10 -1
+CFN ABIJLR 0 0
+stand stand either 2100
+A AEFKQ L unknown 0
+#16476
+whale shark~
+an enormous whale shark~
+A HUGE whale shark swims by you...
+~
+The gentle giant of the waters, the whale shark only eats small
+organisms.  It's algae colored skin makes it stick out like a sore thumb,
+while it's white spots could make anyone wonder...  What the hell is wrong
+with this animal.  
+~
+unique~
+AGH Od 0 0
+64 64 96d21+1165 64d10+85 18d3+26 thwack
+-20 -20 -20 -7
+CFKN AB 0 0
+stand stand either 3200
+A AEFKQ H unknown 0
+#16477
+sperm whale~
+the {Wsperm {Cwhale{x~
+A large almost snow white sperm whale cruises the depths.
+~
+This snow white sperm whale looks a bit out of place down here in the
+dark depths of the ocean.  It has it's own aura about it, making it's
+presence known.  
+~
+unique~
+AGH Hd 0 0
+103 103 155d34+1875 103d10+85 29d3+39 none
+-39 -39 -39 -17
+CFKN AB CD 0
+stand stand either 5150
+A AEFKQ H unknown 0
+#16501
+drunken merchant~
+a drunken merchant~
+A drunken merchant stumbles about here.
+~
+An unshaven, dwarven merchant smirks slightly as he catches you glancing
+his way.  Drool drips from his mouth and down his beard as he slams back
+drink after drink of his alcohol.  Stumbling about, he drags his feet with
+every step.  Happy and sloshed, he sings merrily as he travels down the
+street.  
+~
+dwarf~
+A J 0 0
+30 30 45d10+274 30d10+85 8d3+15 none
+-4 -4 -4 1
+0 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#16450
+mussel meat~
+mussel meat~
+Some mussel meat has been discarded here.~
+flesh~
+food 0 0 A
+ABCD 0 0 0 0
+15 0 3 P
+#16451
+aboleth waterskin~
+an aboleth waterskin~
+A waterskin made from the skin of an aboleth is spilling it contents here.~
+skin~
+drink 0 0 A
+240 240 'salt water' 0 0
+60 2 60 P
+#16452
+pile ragged blankets~
+a pile of ragged blankets~
+A pile of ragged blankets are on the ground. Quite disgusting.~
+cloth~
+furniture 0 0 AO
+AB DEFHIJL BEHKN AC BD
+65 2 1 P
+#16453
+scorched skin~
+a scorched piece of skin~
+A scorched piece of skin is on the ground, radiating with an aura.~
+skin~
+tattoo EMSUYZ 0 AR
+0 0 0 0 0
+105 0 300000 P
+A
+13 150
+A
+12 150
+A
+14 150
+A
+18 5
+A
+19 5
+A
+25 -5
+A
+27 5
+A
+2 5
+#16454
+leather vest~
+leather vest~
+A leather vest is laying neatly on the ground.~
+leather~
+armor SY 0 AD
+ACE ACE ACE AE A
+100 50 5000 P
+A
+1 2
+A
+2 2
+A
+3 2
+#16455
+obsidian ankle guard~
+an obsidian ankle guard~
+A black, round piece of shiny black rock is on the ground, big enough just for an ankle.~
+obsidian~
+jewelry SY 0 AT
+0 0 0 0 0
+105 5 5250 P
+A
+27 1
+A
+1 2
+A
+14 75
+#16456
+shark tooth dagger~
+a shark tooth dagger~
+A very sharp and long shark tooth is sticking up out of the ground.~
+bone~
+weapon Y 0 AN
+dagger 9 12 slice D
+74 3 7400 P
+A
+19 14
+A
+18 14
+#16457
+spectre mist~
+a spectre mist~
+A softly glowing mist hovers just above the ground.~
+energy~
+light AY 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+85 0 0 P
+A
+3 2
+A
+4 2
+A
+1 2
+#16458
+skinned boots~
+a pair of skinned boots~
+A pair of boots made from the skin of an animal are resting here.~
+flesh~
+armor 0 0 AG
+ACD ACD ACD AD 0
+62 3 62 P
+#16459
+swordfish nose~
+a swordfish nose~
+A long and sharp swordfish nose is sticking in the ground.~
+bone~
+weapon Y 0 AN
+sword 5 16 slash D
+77 2 77 P
+A
+2 3
+A
+19 7
+A
+18 7
+#16460
+shoulder pack~
+a shoulder pack~
+A slimey looking shoulder pack that also gives off a disgusting smell is on the ground.~
+flesh~
+container Y 0 AS
+1000 A 0 300 0
+84 10 84 P
+A
+20 -5
+A
+1 2
+#16461
+pocket pants~
+a pair of whale skin pants~
+An odd looking pair of pants with dots, have been tossed aside.~
+leather~
+container 0 0 AF
+150 A 0 25 0
+103 3 103 P
+A
+14 100
+A
+2 2
+#16462
+hard ankle sheath~
+a hard ankle sheath~
+A dull red ankle sheath, showing some signs of wear, is on the ground.~
+bone~
+container 0 0 AT
+20 0 0 1 0
+35 1 1 P
+A
+12 50
+A
+13 50
+#17275
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#17349
+book gods krynn~
+{WBook {xof the {RGods {xof {DKrynn{x~
+A large book rests upon the ground, adorned with many symbols.~
+parchment~
+trash TYa 0 AO
+0 0 0 0 0
+21 5 0 P
+E
+book~
+*
+ 
+<----------------------------------------------------------->
+|                                                           |
+|                                                           |
+|            ,--,--'.        ,-,---.         .              |
+|            `- |   |-. ,-.   '|___/ ,-. ,-. | ,            |
+|             , |   | | |-'   ,|   \ | | | | |<             |
+|             `-'   ' ' `-'  `-^---' `-' `-' ' `            |
+|                                                           |
+|                                                           |
+|                                                           |
+|                                                           |
+|                             .  .                          |
+|                    ,-. ,"   |- |-. ,-.                    |
+|                    | | |-   |  | | |-'                    |
+|                    `-' |    `' ' ' `-'                    |
+|                        '                                  |
+|                                                           |
+|                                                           |
+|                                                           |
+|                                                           |
+|    ,---.        .               ,-, ,                     |
+|    |  -'  ,-. ,-| ,-.   ,-. ,"   )|/  ,-. . . ,-. ,-.     |
+|    |  ,-' | | | | `-.   | | |-    |\  |   | | | | | |     |
+|    `---|  `-' `-^ `-'   `-' |    ,' ` '   `-| ' ' ' '     |
+|     ,-.|                    '              /|             |
+|     `-+'                                  `-'             |
+|                                                           |
+|                                                           |
+<----------------------------------------------------------->
+~
+E
+index~
+*
+ 
+<----------------------------------------------------------->
+|                                                           |
+|                                                           |
+|    ,-_/       .                                           |
+|    '  | ,-. ,-| ,-. . ,                                   |
+|    .^ | | | | | |-'  X                                    |
+|    `--' ' ' `-^ `-' ' `                                   |
+|                                                           |
+|                                                           |
+|          * 1 *     The Gods of Good                       |
+|                                                           |
+|                                                           |
+|          * 2 *     The Gods of Neutrality                 |
+|                                                           |
+|                                                           |
+|          * 3 *     The Gods of Evil                       |
+|                                                           |
+|                                                           |
+|          * 4 *     The High God                           |
+|                                                           |
+|                                                           |
+|          * 5 *     Chaos                                  |
+|                                                           |
+|                                                           |
+|          * 6 *     Referances                             |
+|                                                           |
+|                                                           |
+|                                                           |
+<----------------------------------------------------------->
+~
+#0
+
+
+
+#ROOMS
+#16450
+{BDark Waters{x~
+A chillness sweeps over anything that swims too far from the warmth of
+the volcanic vents.  Though the vents give off heat, they also give off
+toxic fumes that could be deadly if one is not adapted to them.  Crustaceans
+and small fish swim eagerly around, picking off the dying and the young.  A
+pack of barracuda swim overhead, eyeing the situation.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 9779
+D1
+~
+~
+0 0 9778
+D3
+~
+~
+0 0 16451
+S
+#16451
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16452
+D1
+~
+~
+0 0 16450
+D3
+~
+~
+0 0 16478
+S
+#16452
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16453
+D1
+~
+~
+0 0 9779
+D2
+~
+~
+0 0 16451
+D3
+~
+~
+0 0 16477
+S
+#16453
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16454
+D1
+~
+~
+0 0 9780
+D2
+~
+~
+0 0 16452
+D3
+~
+~
+0 0 16476
+S
+#16454
+{gKelp Garden{x~
+Bright, vibrant green leaves, and deep emerald colored stalks, seem to
+glow in an unknown source of light.  A few stray bubbles come from the sandy
+floor around the base of the kelp.  The many kelp plants in this area have
+been freshly planted to keep the garden stocked.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16455
+D1
+~
+~
+0 0 9781
+D2
+~
+~
+0 0 16453
+D3
+~
+~
+0 0 16475
+S
+#16455
+{gKelp Garden{x~
+Some small clams cling to the rocks by the new kelp.  Shrimp float
+effortlessly between the kelp, feeding and cleaning as they go.  A few fish
+swim in the area, eyeing the shrimp, hoping one will soon become its food. 
+While a few squid hover over a large rock crevice, looking for the perfect
+place to lay their eggs.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16456
+D1
+~
+~
+0 0 9782
+D2
+~
+~
+0 0 16454
+D3
+~
+~
+0 0 16474
+S
+#16456
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16457
+D1
+~
+~
+0 0 9783
+D2
+~
+~
+0 0 16455
+D3
+~
+~
+0 0 16473
+S
+#16457
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 9784
+D2
+~
+~
+0 0 16456
+D3
+~
+~
+0 0 16458
+S
+#16458
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16457
+D2
+~
+~
+0 0 16473
+D3
+~
+~
+0 0 16459
+S
+#16459
+{gKelp Garden{x~
+Bright, vibrant green leaves, and deep emerald colored stalks, seem to
+glow in an unknown source of light.  A few stray bubbles come from the sandy
+floor around the base of the kelp.  The many kelp plants in this area have
+been freshly planted to keep the garden stocked.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16458
+D2
+~
+~
+0 0 16472
+D3
+~
+~
+0 0 16460
+S
+#16460
+{gKelp Garden{x~
+Some small clams cling to the rocks by the new kelp.  Shrimp float
+effortlessly between the kelp, feeding and cleaning as they go.  A few fish
+swim in the area, eyeing the shrimp, hoping one will soon become its food. 
+While a few squid hover over a large rock crevice, looking for the perfect
+place to lay their eggs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16459
+D2
+~
+~
+0 0 16461
+S
+#16461
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16460
+D1
+~
+~
+0 0 16472
+D2
+~
+~
+0 0 16462
+S
+#16462
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16461
+D1
+~
+~
+0 0 16471
+D2
+~
+~
+0 0 16463
+S
+#16463
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16462
+D1
+~
+~
+0 0 16470
+D2
+~
+~
+0 0 16464
+S
+#16464
+{gKelp Garden{x~
+Bright, vibrant green leaves, and deep emerald colored stalks, seem to
+glow in an unknown source of light.  A few stray bubbles come from the sandy
+floor around the base of the kelp.  The many kelp plants in this area have
+been freshly planted to keep the garden stocked.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16463
+D1
+~
+~
+0 0 16469
+D2
+~
+~
+0 0 16465
+S
+#16465
+{gKelp Garden{x~
+Some small clams cling to the rocks by the new kelp.  Shrimp float
+effortlessly between the kelp, feeding and cleaning as they go.  A few fish
+swim in the area, eyeing the shrimp, hoping one will soon become its food. 
+While a few squid hover over a large rock crevice, looking for the perfect
+place to lay their eggs.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16464
+D1
+~
+~
+0 0 16468
+D2
+~
+~
+0 0 16466
+D3
+~
+~
+0 0 16480
+S
+#16466
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16465
+D1
+~
+~
+0 0 16467
+D3
+~
+~
+0 0 16479
+S
+#16467
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16468
+D1
+~
+~
+0 0 16478
+D3
+~
+~
+0 0 16466
+S
+#16468
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16469
+D1
+~
+~
+0 0 16477
+D2
+~
+~
+0 0 16467
+D3
+~
+~
+0 0 16465
+S
+#16469
+{gKelp Garden{x~
+Bright, vibrant green leaves, and deep emerald colored stalks, seem to
+glow in an unknown source of light.  A few stray bubbles come from the sandy
+floor around the base of the kelp.  The many kelp plants in this area have
+been freshly planted to keep the garden stocked.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16470
+D1
+~
+~
+0 0 16476
+D2
+~
+~
+0 0 16468
+D3
+~
+~
+0 0 16464
+S
+#16470
+{gKelp Garden{x~
+Some small clams cling to the rocks by the new kelp.  Shrimp float
+effortlessly between the kelp, feeding and cleaning as they go.  A few fish
+swim in the area, eyeing the shrimp, hoping one will soon become its food. 
+While a few squid hover over a large rock crevice, looking for the perfect
+place to lay their eggs.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16471
+D1
+~
+~
+0 0 16475
+D2
+~
+~
+0 0 16469
+D3
+~
+~
+0 0 16463
+S
+#16471
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16472
+D1
+~
+~
+0 0 16474
+D2
+~
+~
+0 0 16470
+D3
+~
+~
+0 0 16462
+S
+#16472
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16459
+D1
+~
+~
+0 0 16473
+D2
+~
+~
+0 0 16471
+D3
+~
+~
+0 0 16461
+S
+#16473
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16458
+D1
+~
+~
+0 0 16456
+D2
+~
+~
+0 0 16474
+D3
+~
+~
+0 0 16472
+S
+#16474
+{gKelp Garden{x~
+Bright, vibrant green leaves, and deep emerald colored stalks, seem to
+glow in an unknown source of light.  A few stray bubbles come from the sandy
+floor around the base of the kelp.  The many kelp plants in this area have
+been freshly planted to keep the garden stocked.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16473
+D1
+~
+~
+0 0 16455
+D2
+~
+~
+0 0 16475
+D3
+~
+~
+0 0 16471
+S
+#16475
+{gKelp Garden{x~
+Some small clams cling to the rocks by the new kelp.  Shrimp float
+effortlessly between the kelp, feeding and cleaning as they go.  A few fish
+swim in the area, eyeing the shrimp, hoping one will soon become its food. 
+While a few squid hover over a large rock crevice, looking for the perfect
+place to lay their eggs.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16474
+D1
+~
+~
+0 0 16454
+D2
+~
+~
+0 0 16476
+D3
+~
+~
+0 0 16470
+S
+#16476
+{gKelp Garden{x~
+A row of baby kelp has been neatly planted.  The small stalks are
+restricted to movement from a smooth delicate coral cage.  A few small
+shrimp groom the kelp keeping small parasites off, allowing it to stay
+healthy and flourish.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16475
+D1
+~
+~
+0 0 16453
+D2
+~
+~
+0 0 16477
+D3
+~
+~
+0 0 16469
+S
+#16477
+{gKelp Garden{x~
+Kelp growing no more than two feet high flourishes on the sea floor.  A
+few small rocks sit at the base of keep the current from ripping them up at
+the roots.  The coral surrounding it grows another two feet over the highest
+leaf, in anticipation of the height it will grow too.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16476
+D1
+~
+~
+0 0 16452
+D2
+~
+~
+0 0 16478
+D3
+~
+~
+0 0 16468
+S
+#16478
+{gKelp Garden{x~
+A small kelp leaf floats by slowly, looking ripped and torn.  A quick
+glance shows that a plant has fallen victim to a vicious attack, by a large
+fish, still in the area.  The fish, after the shrimp crawling around the
+stalks, used it shear force to get the shrimp, and in the process, destroyed
+a small kelp plant.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16477
+D1
+~
+~
+0 0 16451
+D3
+~
+~
+0 0 16467
+S
+#16479
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16480
+D1
+~
+~
+0 0 16466
+D3
+~
+~
+0 0 17019
+S
+#16480
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16481
+D1
+~
+~
+0 0 16465
+D2
+~
+~
+0 0 16479
+D3
+~
+~
+0 0 17014
+S
+#16481
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16482
+D2
+~
+~
+0 0 16480
+D3
+~
+~
+0 0 17004
+S
+#16482
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16483
+D2
+~
+~
+0 0 16481
+D3
+~
+~
+0 0 17003
+S
+#16483
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 16482
+D3
+~
+~
+0 0 16484
+S
+#16484
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16483
+D3
+~
+~
+0 0 16485
+S
+#16485
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16484
+D3
+~
+~
+0 0 16486
+S
+#16486
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16485
+D3
+~
+~
+0 0 16487
+S
+#16487
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16486
+D3
+~
+~
+0 0 16488
+S
+#16488
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16487
+D2
+~
+~
+0 0 16499
+D3
+~
+~
+0 0 16489
+S
+#16489
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16488
+D3
+~
+~
+0 0 16490
+S
+#16490
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16489
+D2
+~
+~
+0 0 16497
+D3
+~
+~
+0 0 16491
+S
+#16491
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16490
+D2
+~
+~
+0 0 16496
+D3
+~
+~
+0 0 16492
+S
+#16492
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16491
+D3
+~
+~
+0 0 16493
+S
+#16493
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16492
+D2
+~
+~
+0 0 16494
+S
+#16494
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16493
+D1
+~
+~
+0 0 16495
+D2
+~
+~
+0 0 17013
+S
+#16495
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16496
+D3
+~
+~
+0 0 16494
+S
+#16496
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16491
+D1
+~
+~
+0 0 16497
+D3
+~
+~
+0 0 16495
+S
+#16497
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16490
+D1
+~
+~
+0 0 16498
+D2
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 16496
+S
+#16498
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16499
+D3
+~
+~
+0 0 16497
+S
+#16499
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16488
+D1
+~
+~
+0 0 17000
+D2
+~
+~
+0 0 17008
+D3
+~
+~
+0 0 16498
+S
+#16500
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.  
+~
+0 16777217 15
+D3
+~
+~
+0 0 17344
+S
+#17000
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17001
+D2
+~
+~
+0 0 17007
+D3
+~
+~
+0 0 16499
+S
+#17001
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17002
+D3
+~
+~
+0 0 17000
+S
+#17002
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17001
+S
+#17003
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16482
+D3
+~
+~
+0 0 17002
+S
+#17004
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16481
+D3
+~
+~
+0 0 17005
+S
+#17005
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17004
+D3
+~
+~
+0 0 17006
+S
+#17006
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17005
+D3
+~
+~
+0 0 17007
+S
+#17007
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17000
+D1
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17017
+S
+#17008
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16499
+D2
+~
+~
+0 0 17018
+D3
+~
+~
+0 0 17009
+S
+#17009
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17008
+D3
+~
+~
+0 0 17010
+S
+#17010
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16497
+D1
+~
+~
+0 0 17009
+D3
+~
+~
+0 0 17011
+S
+#17011
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 17012
+S
+#17012
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17011
+D3
+~
+~
+0 0 17013
+S
+#17013
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 16494
+D1
+~
+~
+0 0 17012
+S
+#17014
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 16480
+D2
+~
+~
+0 0 17019
+D3
+~
+~
+0 0 17015
+S
+#17015
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17014
+D2
+~
+~
+0 0 17020
+D3
+~
+~
+0 0 17016
+S
+#17016
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17015
+D2
+~
+~
+0 0 17021
+D3
+~
+~
+0 0 17017
+S
+#17017
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17007
+D1
+~
+~
+0 0 17016
+D2
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17018
+S
+#17018
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17008
+D1
+~
+~
+0 0 17017
+D2
+~
+~
+0 0 17023
+S
+#17019
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17014
+D1
+~
+~
+0 0 16479
+D3
+~
+~
+0 0 17020
+S
+#17020
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17015
+D1
+~
+~
+0 0 17019
+D3
+~
+~
+0 0 17021
+S
+#17021
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17016
+D1
+~
+~
+0 0 17020
+D3
+~
+~
+0 0 17022
+S
+#17022
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17017
+D1
+~
+~
+0 0 17021
+D3
+~
+~
+0 0 17023
+S
+#17023
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17018
+D1
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17024
+S
+#17024
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17025
+D1
+~
+~
+0 0 17023
+D3
+~
+~
+0 0 17027
+S
+#17025
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17024
+D3
+~
+~
+0 0 17026
+S
+#17026
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17025
+D2
+~
+~
+0 0 17027
+S
+#17027
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17026
+D1
+~
+~
+0 0 17024
+D3
+~
+~
+0 0 17028
+S
+#17028
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17029
+D1
+~
+~
+0 0 17027
+D3
+~
+~
+0 0 17031
+S
+#17029
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17028
+D3
+~
+~
+0 0 17030
+S
+#17030
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17029
+D2
+~
+~
+0 0 17031
+D3
+~
+~
+0 0 17032
+S
+#17031
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17030
+D1
+~
+~
+0 0 17028
+D3
+~
+~
+0 0 17033
+S
+#17032
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17030
+D2
+~
+~
+0 0 17033
+S
+#17033
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17032
+D1
+~
+~
+0 0 17031
+D3
+~
+~
+0 0 17034
+S
+#17034
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17035
+D1
+~
+~
+0 0 17033
+D3
+~
+~
+0 0 17039
+S
+#17035
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17036
+D2
+~
+~
+0 0 17034
+D3
+~
+~
+0 0 17038
+S
+#17036
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17035
+D3
+~
+~
+0 0 17037
+S
+#17037
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17044
+D1
+~
+~
+0 0 17036
+D2
+~
+~
+0 0 17038
+D3
+~
+~
+0 0 17042
+S
+#17038
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17037
+D1
+~
+~
+0 0 17035
+D2
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17041
+S
+#17039
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17038
+D1
+~
+~
+0 0 17034
+D3
+~
+~
+0 0 17040
+S
+#17040
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17041
+D1
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17053
+S
+#17041
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17042
+D1
+~
+~
+0 0 17038
+D2
+~
+~
+0 0 17040
+S
+#17042
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17043
+D1
+~
+~
+0 0 17037
+D2
+~
+~
+0 0 17041
+S
+#17043
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17048
+D1
+~
+~
+0 0 17044
+D2
+~
+~
+0 0 17042
+S
+#17044
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17045
+D2
+~
+~
+0 0 17037
+D3
+~
+~
+0 0 17043
+S
+#17045
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17046
+D3
+~
+~
+0 0 17044
+S
+#17046
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17045
+D3
+~
+~
+0 0 17047
+S
+#17047
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17046
+D3
+~
+~
+0 0 17048
+S
+#17048
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17047
+D2
+~
+~
+0 0 17043
+D3
+~
+~
+0 0 17049
+S
+#17049
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17048
+D2
+~
+~
+0 0 17050
+S
+#17050
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17049
+D2
+~
+~
+0 0 17051
+S
+#17051
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17050
+D2
+~
+~
+0 0 17052
+S
+#17052
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17051
+D2
+~
+~
+0 0 17053
+S
+#17053
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17052
+D1
+~
+~
+0 0 17040
+D3
+~
+~
+0 0 17054
+S
+#17054
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17055
+D1
+~
+~
+0 0 17053
+D3
+~
+~
+0 0 17063
+S
+#17055
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17056
+D2
+~
+~
+0 0 17054
+S
+#17056
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17057
+D2
+~
+~
+0 0 17055
+S
+#17057
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17058
+D2
+~
+~
+0 0 17056
+S
+#17058
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17057
+D3
+~
+~
+0 0 17059
+S
+#17059
+{CThe Fishery{x~
+High growing sharp and jagged coral grows around the fishery.  What looks
+like a feeding trough lets food out every few minutes, making the schools of
+fish go nuts.  Every now and then a lone fish makes a dash to the coral in
+hope of escape only to be cut to pieces.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17058
+D2
+~
+~
+0 0 17060
+S
+#17060
+{CThe Fishery{x~
+A few low growing plants hug the sea floor, allowing cover for some
+smaller fish.  A larger school swims about chasing the smaller fish for fun.
+A small horde of ting shrimp seem to have found a way into the fishery.  A
+few stray fish, have lost interest in their schools, and now chase the
+shrimp for food.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17059
+D2
+~
+~
+0 0 17061
+S
+#17061
+{CThe Fishery{x~
+Larger fish swim alone, looking for food to eat and a way out.  The coral
+only appears to grow so high to keep the fish in, leaving water above the
+means of an easy escape.  With a spurt of energy it heads upward, only to be
+thrown back to the sandy bottom, wish such force, it dies instantly.  There
+appears to be no way for the fish to escape once they are in.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17060
+D2
+~
+~
+0 0 17062
+S
+#17062
+{CThe Fishery{x~
+Medium sized kelp stalks sway to the flow of water.  About a dozen or so
+large clams have made their home on the rocks in the fishery.  Schools of
+fish swim by looking for food and sport.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17061
+D2
+~
+~
+0 0 17063
+S
+#17063
+{CThe Fishery{x~
+A few juts of coral rise with a towering grace.  Some fish speed by to
+catch-up up with their school.  A few large lobsters walk the ground looking
+for food to eat, while a sea cucumber swims slowly along, waving all it
+passes.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17062
+D1
+~
+~
+0 0 17054
+S
+#17064
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 9785
+D3
+~
+~
+0 0 17065
+S
+#17065
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17064
+D3
+~
+~
+0 0 17066
+S
+#17066
+{CA Walked Path{x~
+In the far distance a large rock formation can be seen.  It looms over
+the lifeless pathway, like a vulture over a corpse.  Perhaps the reason for
+no fish around here could be because of this very under Sea Mountain?  For
+any reason, the mountain, lets its presence known and hovers over all.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17065
+D3
+~
+~
+0 0 17067
+S
+#17067
+{CA Walked Path{x~
+A loud clicking noise echoes in the water.  A large wall runs along the
+side of the mountain in the distance.  Are those people working on the wall?
+The still walkway leads to the mountain, making it feel more and more
+unnerving.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17066
+D3
+~
+~
+0 0 17068
+S
+#17068
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17067
+D3
+~
+~
+0 0 17069
+S
+#17069
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17068
+D3
+~
+~
+0 0 17070
+S
+#17070
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17069
+D3
+~
+~
+0 0 17071
+S
+#17071
+{CA Walked Path{x~
+A loud clicking noise echoes in the water.  A large wall runs along the
+side of the mountain in the distance.  Are those people working on the wall?
+The still walkway leads to the mountain, making it feel more and more
+unnerving.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17070
+D3
+~
+~
+0 0 17072
+S
+#17072
+{CA Walked Path{x~
+A large shark swims swiftly over head.  Once it passes a good distance
+from the walkway it slows down to a slower pace.  The unearthly feel of the
+walkway looms, while the mountain keeps it presence known at all times.  A
+small kelp plant stands eerily silent in an unmoving lifeless form.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17073
+S
+#17073
+{CA Walked Path{x~
+A large shark swims swiftly over head.  Once it passes a good distance
+from the walkway it slows down to a slower pace.  The unearthly feel of the
+walkway looms, while the mountain keeps it presence known at all times.  A
+small kelp plant stands eerily silent in an unmoving lifeless form.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17072
+D3
+~
+~
+0 0 17074
+S
+#17074
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17073
+D3
+~
+~
+0 0 17075
+S
+#17075
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17074
+D3
+~
+~
+0 0 17076
+S
+#17076
+{CA Walked Path{x~
+In the far distance a large rock formation can be seen.  It looms over
+the lifeless pathway, like a vulture over a corpse.  Perhaps the reason for
+no fish around here could be because of this very under Sea Mountain?  For
+any reason, the mountain, lets its presence known and hovers over all.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17075
+D3
+~
+~
+0 0 17077
+S
+#17077
+{CA Walked Path{x~
+A loud clicking noise echoes in the water.  A large wall runs along the
+side of the mountain in the distance.  Are those people working on the wall?
+The still walkway leads to the mountain, making it feel more and more
+unnerving.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17076
+D3
+~
+~
+0 0 17078
+S
+#17078
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17077
+D3
+~
+~
+0 0 17079
+S
+#17079
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17078
+D3
+~
+~
+0 0 17080
+S
+#17080
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17079
+D3
+~
+~
+0 0 17081
+S
+#17081
+{CA Walked Path{x~
+A loud clicking noise echoes in the water.  A large wall runs along the
+side of the mountain in the distance.  Are those people working on the wall?
+The still walkway leads to the mountain, making it feel more and more
+unnerving.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17080
+D3
+~
+~
+0 0 17082
+S
+#17082
+{CA Walked Path{x~
+A large shark swims swiftly over head.  Once it passes a good distance
+from the walkway it slows down to a slower pace.  The unearthly feel of the
+walkway looms, while the mountain keeps it presence known at all times.  A
+small kelp plant stands eerily silent in an unmoving lifeless form.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17081
+D3
+~
+~
+0 0 17090
+S
+#17083
+{CA Walked Path{x~
+A large shark swims swiftly over head.  Once it passes a good distance
+from the walkway it slows down to a slower pace.  The unearthly feel of the
+walkway looms, while the mountain keeps it presence known at all times.  A
+small kelp plant stands eerily silent in an unmoving lifeless form.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17084
+D1
+~
+~
+0 0 17090
+S
+#17084
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17083
+D3
+~
+~
+0 0 17085
+S
+#17085
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17086
+D1
+~
+~
+0 0 17084
+S
+#17086
+{CA Walked Path{x~
+In the far distance a large rock formation can be seen.  It looms over
+the lifeless pathway, like a vulture over a corpse.  Perhaps the reason for
+no fish around here could be because of this very under Sea Mountain?  For
+any reason, the mountain, lets its presence known and hovers over all.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17085
+D3
+~
+~
+0 0 17087
+S
+#17087
+{CA Walked Path{x~
+A loud clicking noise echoes in the water.  A large wall runs along the
+side of the mountain in the distance.  Are those people working on the wall?
+The still walkway leads to the mountain, making it feel more and more
+unnerving.  
+~
+0 16777216 15
+D0
+~
+~
+0 0 17088
+D1
+~
+~
+0 0 17086
+S
+#17088
+{CA Walked Path{x~
+A couple small kelp plants lay scattered along the walkway.  Large
+boulders rest solidly on either side, making the walkway look menacing and
+isolated.  No fish swim along the path giving the walking an almost lifeless
+feel.  
+~
+0 16777216 15
+D2
+~
+~
+0 0 17087
+D3
+~
+~
+0 0 17089
+S
+#17089
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17088
+D4
+~
+~
+0 0 17091
+S
+#17090
+{CA Walked Path{x~
+The dark sand that makes up the walkway looks as though its firmly
+planted in place.  There are no loose grains of sand in the water, no
+movement from it at all.  The boulders that line the walkway are scarce of
+any living creatures, only an out of place kelp plant give the area the life
+it so needs.  
+~
+0 16777216 15
+D1
+~
+~
+0 0 17082
+D3
+~
+~
+0 0 17083
+S
+#17091
+{yEntrance to the Slave Grotto{x~
+A set of stairs, cut out from the very mountain, rise up from the water,
+to a well worn floor.  A few puddles have formed from people leaving the
+water, after working on the massive wall that runs along side of the
+mountain.  The water from which everyone emerges has an odd stillness to it,
+giving the entrance an ominous feeling about it.  
+~
+0 20979725 0
+D3
+~
+~
+0 0 17092
+D5
+~
+~
+0 0 17089
+S
+#17092
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17091
+D3
+~
+~
+0 0 17093
+S
+#17093
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17094
+D1
+~
+~
+0 0 17092
+D2
+~
+~
+0 0 17113
+D3
+~
+~
+0 0 17105
+S
+#17094
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17095
+D2
+~
+~
+0 0 17093
+D3
+~
+~
+0 0 17099
+S
+#17095
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17094
+D3
+~
+~
+0 0 17096
+S
+#17096
+{ySlave Grotto{x~
+The sound of dripping water echoes in the massive cave.  How far the cave
+expands to the back can only be found out by going back there and looking
+for ones self.  The torches cast shadows everywhere, giving the cave an
+eerie feel, while loud whispers seem to come from every direction
+imaginable.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17095
+D2
+~
+~
+0 0 17099
+D3
+~
+~
+0 0 17097
+S
+#17097
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17096
+D2
+~
+~
+0 0 17100
+D3
+~
+~
+0 0 17098
+S
+#17098
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17097
+D2
+~
+~
+0 0 17101
+S
+#17099
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17096
+D1
+~
+~
+0 0 17094
+D2
+~
+~
+0 0 17105
+D3
+~
+~
+0 0 17100
+S
+#17100
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17097
+D1
+~
+~
+0 0 17099
+D2
+~
+~
+0 0 17106
+D3
+~
+~
+0 0 17101
+S
+#17101
+{ySlave Grotto{x~
+The sound of dripping water echoes in the massive cave.  How far the cave
+expands to the back can only be found out by going back there and looking
+for ones self.  The torches cast shadows everywhere, giving the cave an
+eerie feel, while loud whispers seem to come from every direction
+imaginable.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17098
+D1
+~
+~
+0 0 17100
+D2
+~
+~
+0 0 17107
+D3
+~
+~
+0 0 17102
+S
+#17102
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17101
+D2
+~
+~
+0 0 17108
+D3
+~
+~
+0 0 17103
+S
+#17103
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17102
+D2
+~
+~
+0 0 17109
+D3
+~
+~
+0 0 17104
+S
+#17104
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17103
+D2
+~
+~
+0 0 17110
+S
+#17105
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17099
+D1
+~
+~
+0 0 17093
+D2
+~
+~
+0 0 17114
+D3
+~
+~
+0 0 17106
+S
+#17106
+{ySlave Grotto{x~
+The sound of dripping water echoes in the massive cave.  How far the cave
+expands to the back can only be found out by going back there and looking
+for ones self.  The torches cast shadows everywhere, giving the cave an
+eerie feel, while loud whispers seem to come from every direction
+imaginable.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17100
+D1
+~
+~
+0 0 17105
+D2
+~
+~
+0 0 17115
+D3
+~
+~
+0 0 17107
+S
+#17107
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17101
+D1
+~
+~
+0 0 17106
+D2
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17108
+S
+#17108
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17102
+D1
+~
+~
+0 0 17107
+D2
+~
+~
+0 0 17117
+D3
+~
+~
+0 0 17109
+S
+#17109
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17103
+D1
+~
+~
+0 0 17108
+D2
+~
+~
+0 0 17118
+D3
+~
+~
+0 0 17110
+S
+#17110
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17104
+D1
+~
+~
+0 0 17109
+D2
+~
+~
+0 0 17119
+D3
+~
+~
+0 0 17111
+S
+#17111
+{yJust before a Small Cave{x~
+A small fire pit is in the middle of the room, while a few large barrels
+lay close to the wall, upright and covered.  A few blankets are close to the
+rim of the fire pit, while balled up cloth is on one end of the blanket,
+more than likely used as pillows.  The fire pit is free of any wood or
+anything else that looks as though it could be burned, yet it is quite
+obvious that is has been used recently.  
+~
+0 20979721 15
+D1
+~
+~
+0 0 17110
+D3
+~
+~
+0 0 17112
+S
+#17112
+{yEntrance to a Small Cave{x~
+A small opening in the very back of the cave looks as though only a small
+child could fit through.  The rock surrounding the opening is very jagged
+and looks as though it was ripped open from the other side of the small
+cave.  A few large, but highly sharp boulders lie scattered just before the
+cave, giving the impression even more, that a large creature has done this. 
+~
+0 20979725 0
+D1
+~
+~
+0 0 17111
+D5
+~
+~
+0 0 17124
+S
+#17113
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17093
+D2
+~
+~
+0 0 17120
+D3
+~
+~
+0 0 17114
+S
+#17114
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17105
+D1
+~
+~
+0 0 17113
+D2
+~
+~
+0 0 17121
+D3
+~
+~
+0 0 17115
+S
+#17115
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17106
+D1
+~
+~
+0 0 17114
+D2
+~
+~
+0 0 17122
+D3
+~
+~
+0 0 17116
+S
+#17116
+{ySlave Grotto{x~
+The sound of dripping water echoes in the massive cave.  How far the cave
+expands to the back can only be found out by going back there and looking
+for ones self.  The torches cast shadows everywhere, giving the cave an
+eerie feel, while loud whispers seem to come from every direction
+imaginable.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17107
+D1
+~
+~
+0 0 17115
+D2
+~
+~
+0 0 17123
+D3
+~
+~
+0 0 17117
+S
+#17117
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17108
+D1
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17118
+S
+#17118
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17109
+D1
+~
+~
+0 0 17117
+D3
+~
+~
+0 0 17119
+S
+#17119
+{ySlave Grotto{x~
+Loud snoring can be heard, along with an occasional shifting of feet. 
+There are people in this cave, the purposes as to why are unknown, but from
+the look of the cave, they have been here for quite some time.  A few
+scruffy looking blanks and lumps of cloth litter the cold smooth stone
+floor, while the fireless torches cast shadows everywhere the light cannot
+reach.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17110
+D1
+~
+~
+0 0 17118
+S
+#17120
+{ySlave Grotto{x~
+A few large barrels line the walls.  Upon further inspection, they appear
+to be filled with a number of things: fresh cool water, different kinds of
+fish, and what look like scraps of cloth.  Although the people here can
+never leave, the slave keepers do not wish their death, though there must be
+some that wish they could die.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17113
+D3
+~
+~
+0 0 17121
+S
+#17121
+{ySlave Grotto{x~
+The sound of dripping water echoes in the massive cave.  How far the cave
+expands to the back can only be found out by going back there and looking
+for ones self.  The torches cast shadows everywhere, giving the cave an
+eerie feel, while loud whispers seem to come from every direction
+imaginable.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17114
+D1
+~
+~
+0 0 17120
+D3
+~
+~
+0 0 17122
+S
+#17122
+{ySlave Grotto{x~
+The walls within the grotto have been worn smooth.  The cool stone floor
+has many cracks and crevices, but it too is smooth as well.  A few torches
+line the walls, though they emit light, there is no fire.  Many shadows are
+cast among everything, making the cave feel most unwelcoming.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17115
+D1
+~
+~
+0 0 17121
+D3
+~
+~
+0 0 17123
+S
+#17123
+{ySlave Grotto{x~
+A few worn blankets lay scattered on the floor.  Piles of fish bones lay
+scattered all around, while a few jugs of drinkable water stand upright and
+clean.  The sound of dripping water echoes in the massive cave, while a few
+loud whispers carry on in a quickened pace.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17116
+D1
+~
+~
+0 0 17122
+S
+#17124
+{yDeep in the Cave{x~
+Large and jagged rocks rise up from the ground, looking tall, proud, and
+cunning.  Large gashes on the walls appear to have been done by something
+enormous and with enough power to hurt the volcanic rock.  A few odd looking
+rocks are on the ground, ivory in color.  A few are under some massive
+rocks, while others are strewn about the floor.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17125
+D4
+~
+~
+0 0 17112
+S
+#17125
+{yDeep in the Cave{x~
+Large and jagged rocks rise up from the ground, looking tall, proud, and
+cunning.  Large gashes on the walls appear to have been done by something
+enormous and with enough power to hurt the volcanic rock.  A few odd looking
+rocks are on the ground, ivory in color.  A few are under some massive
+rocks, while others are strewn about the floor.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17126
+D3
+~
+~
+0 0 17124
+S
+#17126
+{yDeep in the Cave{x~
+Large and jagged rocks rise up from the ground, looking tall, proud, and
+cunning.  Large gashes on the walls appear to have been done by something
+enormous and with enough power to hurt the volcanic rock.  A few odd looking
+rocks are on the ground, ivory in color.  A few are under some massive
+rocks, while others are strewn about the floor.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17127
+D2
+~
+~
+0 0 17125
+S
+#17127
+{yDeep in the Cave{x~
+Large and jagged rocks rise up from the ground, looking tall, proud, and
+cunning.  Large gashes on the walls appear to have been done by something
+enormous and with enough power to hurt the volcanic rock.  A few odd looking
+rocks are on the ground, ivory in color.  A few are under some massive
+rocks, while others are strewn about the floor.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17128
+D3
+~
+~
+0 0 17126
+S
+#17128
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17127
+D1
+~
+~
+0 0 17131
+D2
+~
+~
+0 0 17129
+S
+#17129
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17128
+D3
+~
+~
+0 0 17130
+S
+#17130
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17129
+S
+#17131
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17132
+D1
+~
+~
+0 0 17143
+D2
+~
+~
+0 0 17135
+D3
+~
+~
+0 0 17128
+S
+#17132
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17133
+D2
+~
+~
+0 0 17131
+S
+#17133
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17132
+D3
+~
+~
+0 0 17134
+S
+#17134
+{yA Small Cave{x~
+The walls and floor of this cave have been worn smooth.  The sea water
+must have at one time been down here, sloshing against the rocks.  A
+glistening slime adorns the walls, while broken shells of crustaceans litter
+the floor.  Nothing can be seen from where the opening is, the only light
+visible is the one in which the adventurer carries.  
+~
+0 0 15
+D1
+~
+~
+0 0 17133
+S
+#17135
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17131
+D2
+~
+~
+0 0 17136
+S
+#17136
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17135
+D1
+~
+~
+0 0 17141
+D2
+~
+~
+0 0 17139
+D3
+~
+~
+0 0 17137
+S
+#17137
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17136
+D2
+~
+~
+0 0 17138
+S
+#17138
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17137
+S
+#17139
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17136
+D1
+~
+~
+0 0 17140
+S
+#17140
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D3
+~
+~
+0 0 17139
+S
+#17141
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17142
+D3
+~
+~
+0 0 17136
+S
+#17142
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17141
+S
+#17143
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17144
+D1
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17131
+S
+#17144
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17145
+D2
+~
+~
+0 0 17143
+S
+#17145
+{yA Small Pathway{x~
+The floor is full of slime, making it hard to walk along.  If one were to
+try and grab the wall for support, they would do nothing more than slide
+down it, for it too is full of slime.  The air down in the many tunnels has
+a slight warmness to them, though no signs of any heat source.  The area
+surrounding this cannot be seen, the only light that comes from anywhere, is
+what brave adventurer has brought with them.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17146
+D3
+~
+~
+0 0 17144
+S
+#17146
+{yA Very Jagged Rock Opening{x~
+The walls inside this large cave are jagged and torn.  Boulders line the
+floor, along with many bones.  Some have been pulverized into nothing but
+dust, while others have been unmoved from the very rock that took their
+life.  Though the rest of the caves have warmth to them, this one has a
+coolness about it, which could make even the most wizened person feel
+uncomfortable.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17145
+S
+#17147
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17149
+D2
+~
+~
+0 0 17148
+D3
+~
+~
+0 0 17143
+S
+#17148
+{yA Small Cave{x~
+The walls and floor of this cave have been worn smooth.  The sea water
+must have at one time been down here, sloshing against the rocks.  A
+glistening slime adorns the walls, while broken shells of crustaceans litter
+the floor.  Nothing can be seen from where the opening is, the only light
+visible is the one in which the adventurer carries.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17147
+S
+#17149
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17150
+D1
+~
+~
+0 0 17165
+D2
+~
+~
+0 0 17166
+D3
+~
+~
+0 0 17147
+S
+#17150
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17151
+D2
+~
+~
+0 0 17149
+S
+#17151
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17165
+D3
+~
+~
+0 0 17150
+S
+#17152
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17153
+D2
+~
+~
+0 0 17151
+D3
+~
+~
+0 0 17154
+S
+#17153
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17159
+D2
+~
+~
+0 0 17152
+S
+#17154
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17155
+D1
+~
+~
+0 0 17152
+S
+#17155
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17154
+D3
+~
+~
+0 0 17156
+S
+#17156
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17155
+D3
+~
+~
+0 0 17157
+S
+#17157
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17156
+D2
+~
+~
+0 0 17158
+S
+#17158
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17157
+S
+#17159
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17160
+D3
+~
+~
+0 0 17153
+S
+#17160
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17159
+D1
+~
+~
+0 0 17161
+S
+#17161
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17162
+D3
+~
+~
+0 0 17160
+S
+#17162
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17161
+D3
+~
+~
+0 0 17163
+S
+#17163
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17162
+D2
+~
+~
+0 0 17164
+S
+#17164
+{yA Rock Strew Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17163
+D3
+~
+~
+0 0 17165
+S
+#17165
+{yA Large Opening{x~
+The ceiling in this part of the cavernous tunnel appears to be
+nonexistent.  The walls have been worn smooth, along with the floor, giving
+it an unearthly feeling.  No light from anywhere is apparent, and no heat
+source, yet it has a warmth to it.  A few bones lay scattered about in a
+vain attempt to scare off anyone who enters this place.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17151
+D1
+~
+~
+0 0 17164
+D2
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17149
+S
+#17166
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17149
+D1
+~
+~
+0 0 17167
+S
+#17167
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17165
+D1
+~
+~
+0 0 17168
+D2
+~
+~
+0 0 17174
+D3
+~
+~
+0 0 17166
+S
+#17168
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D2
+~
+~
+0 0 17169
+D3
+~
+~
+0 0 17167
+S
+#17169
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17168
+D2
+~
+~
+0 0 17170
+S
+#17170
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17169
+D3
+~
+~
+0 0 17171
+S
+#17171
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17174
+D1
+~
+~
+0 0 17170
+D2
+~
+~
+0 0 17172
+D3
+~
+~
+0 0 17173
+S
+#17172
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17171
+S
+#17173
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17171
+S
+#17174
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D0
+~
+~
+0 0 17167
+D2
+~
+~
+0 0 17171
+D3
+~
+~
+0 0 17175
+S
+#17175
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17174
+D3
+~
+~
+0 0 17176
+S
+#17176
+{yA Boulder Ridden Pathway{x~
+Large boulders are scattered about, making it hard to get around. 
+Climbing and walking over the boulders prove to be a difficult task since
+most are butted up against each other and full of slime, allowing hardly any
+room to maneuver through them or over them.  A few have some gashes taken
+out of them.  There must be something down here in the dark depths of the
+tunnels that has strength enough to harm solid rock.  
+~
+0 20979721 0
+D1
+~
+~
+0 0 17175
+S
+#17177
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17178
+D3
+~
+~
+0 0 9795
+S
+#17178
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17179
+D3
+~
+~
+0 0 17177
+S
+#17179
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17180
+D3
+~
+~
+0 0 17178
+S
+#17180
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17181
+D3
+~
+~
+0 0 17179
+S
+#17181
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17182
+D3
+~
+~
+0 0 17180
+S
+#17182
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17183
+D3
+~
+~
+0 0 17181
+S
+#17183
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17184
+D3
+~
+~
+0 0 17182
+S
+#17184
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17250
+D1
+~
+~
+0 0 17185
+D3
+~
+~
+0 0 17183
+S
+#17185
+{GAn Overgrown Walkway{x~
+Large kelp plants litter the walkway, unattended and overgrown in their
+massive size.  The walkway itself has massive rocks strew across, though it
+appears as though it was once used from the flatness of the walkway.  A few
+clam shells are attached to the rocks in the walkway, making it a difficult
+and hard path to follow for those that live under the sea.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17186
+D3
+~
+~
+0 0 17184
+S
+#17186
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17187
+D2
+~
+~
+0 0 17185
+S
+#17187
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17188
+D3
+~
+~
+0 0 17186
+S
+#17188
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17254
+D1
+~
+~
+0 0 17189
+D2
+~
+~
+0 0 17187
+S
+#17189
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17190
+D3
+~
+~
+0 0 17188
+S
+#17190
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17191
+D2
+~
+~
+0 0 17189
+S
+#17191
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17192
+D3
+~
+~
+0 0 17190
+S
+#17192
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17262
+D1
+~
+~
+0 0 17193
+D2
+~
+~
+0 0 17191
+S
+#17193
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17194
+D3
+~
+~
+0 0 17192
+S
+#17194
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17195
+D2
+~
+~
+0 0 17193
+S
+#17195
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.  
+~
+0 16777217 15
+D0
+~
+~
+0 0 17196
+D3
+~
+~
+0 0 17194
+S
+#17196
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17197
+D2
+~
+~
+0 0 17195
+D3
+~
+~
+0 0 17269
+S
+#17197
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17198
+D3
+~
+~
+0 0 17196
+S
+#17198
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17289
+D1
+~
+~
+0 0 17199
+D2
+~
+~
+0 0 17197
+S
+#17199
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17200
+D3
+~
+~
+0 0 17198
+S
+#17200
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17201
+D2
+~
+~
+0 0 17199
+S
+#17201
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17202
+D2
+~
+~
+0 0 17200
+S
+#17202
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17201
+S
+#17203
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D0
+~
+~
+0 0 17205
+D2
+~
+~
+0 0 17202
+D3
+~
+~
+0 0 17311
+S
+#17205
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17207
+D1
+~
+~
+0 0 17206
+D2
+~
+~
+0 0 17203
+S
+#17206
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D3
+~
+~
+0 0 17205
+S
+#17207
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17208
+D2
+~
+~
+0 0 17205
+D3
+~
+~
+0 0 17332
+S
+#17208
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17209
+D2
+~
+~
+0 0 17207
+S
+#17209
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17208
+D3
+~
+~
+0 0 17210
+S
+#17210
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17211
+D1
+~
+~
+0 0 17209
+D2
+~
+~
+0 0 17341
+S
+#17211
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17210
+D3
+~
+~
+0 0 17212
+S
+#17212
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17213
+D1
+~
+~
+0 0 17211
+S
+#17213
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D2
+~
+~
+0 0 17212
+D3
+~
+~
+0 0 17214
+S
+#17214
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17215
+D1
+~
+~
+0 0 17213
+S
+#17215
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17214
+D3
+~
+~
+0 0 17216
+S
+#17216
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17215
+D3
+~
+~
+0 0 17217
+S
+#17217
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17216
+D3
+~
+~
+0 0 17218
+S
+#17218
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17217
+D3
+~
+~
+0 0 17219
+S
+#17219
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17218
+D2
+~
+~
+0 0 17220
+S
+#17220
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17219
+D3
+~
+~
+0 0 17221
+S
+#17221
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17220
+D2
+~
+~
+0 0 17222
+S
+#17222
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17221
+D3
+~
+~
+0 0 17223
+S
+#17223
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17222
+D2
+~
+~
+0 0 17224
+S
+#17224
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17225
+S
+#17225
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17224
+D2
+~
+~
+0 0 17226
+S
+#17226
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17225
+D3
+~
+~
+0 0 17227
+S
+#17227
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17226
+D2
+~
+~
+0 0 17228
+S
+#17228
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17227
+D1
+~
+~
+0 0 17323
+D3
+~
+~
+0 0 17229
+S
+#17229
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17228
+D2
+~
+~
+0 0 17230
+S
+#17230
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17229
+D1
+~
+~
+0 0 17312
+D2
+~
+~
+0 0 17301
+D3
+~
+~
+0 0 17231
+S
+#17231
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17230
+D2
+~
+~
+0 0 17232
+S
+#17232
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17231
+D2
+~
+~
+0 0 17290
+D3
+~
+~
+0 0 17233
+S
+#17233
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17232
+D2
+~
+~
+0 0 17234
+S
+#17234
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17233
+D3
+~
+~
+0 0 17235
+S
+#17235
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17234
+D2
+~
+~
+0 0 17236
+S
+#17236
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17235
+D1
+~
+~
+0 0 17237
+S
+#17237
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17279
+D2
+~
+~
+0 0 17238
+D3
+~
+~
+0 0 17236
+S
+#17238
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17237
+D1
+~
+~
+0 0 17239
+S
+#17239
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17270
+D2
+~
+~
+0 0 17240
+D3
+~
+~
+0 0 17238
+S
+#17240
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17239
+D1
+~
+~
+0 0 17241
+S
+#17241
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17263
+D2
+~
+~
+0 0 17242
+D3
+~
+~
+0 0 17240
+S
+#17242
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17241
+D1
+~
+~
+0 0 17243
+S
+#17243
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17258
+D2
+~
+~
+0 0 17244
+D3
+~
+~
+0 0 17242
+S
+#17244
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17243
+D1
+~
+~
+0 0 17245
+S
+#17245
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17258
+D1
+~
+~
+0 0 17255
+D2
+~
+~
+0 0 17246
+D3
+~
+~
+0 0 17244
+S
+#17246
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17245
+D1
+~
+~
+0 0 17253
+D2
+~
+~
+0 0 17251
+D3
+~
+~
+0 0 17247
+S
+#17247
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17246
+D2
+~
+~
+0 0 17248
+S
+#17248
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17247
+D1
+~
+~
+0 0 17251
+D2
+~
+~
+0 0 17249
+S
+#17249
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17248
+D1
+~
+~
+0 0 17250
+S
+#17250
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17251
+D2
+~
+~
+0 0 17184
+D3
+~
+~
+0 0 17249
+S
+#17251
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17246
+D1
+~
+~
+0 0 17252
+D2
+~
+~
+0 0 17250
+D3
+~
+~
+0 0 17248
+S
+#17252
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17253
+D3
+~
+~
+0 0 17251
+S
+#17253
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17254
+D2
+~
+~
+0 0 17252
+D3
+~
+~
+0 0 17246
+S
+#17254
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17256
+D2
+~
+~
+0 0 17188
+D3
+~
+~
+0 0 17253
+S
+#17255
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17259
+D1
+~
+~
+0 0 17256
+D3
+~
+~
+0 0 17245
+S
+#17256
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17260
+D1
+~
+~
+0 0 17257
+D2
+~
+~
+0 0 17254
+D3
+~
+~
+0 0 17255
+S
+#17257
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17261
+D3
+~
+~
+0 0 17256
+S
+#17258
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17264
+D1
+~
+~
+0 0 17259
+D2
+~
+~
+0 0 17245
+D3
+~
+~
+0 0 17243
+S
+#17259
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17260
+D2
+~
+~
+0 0 17255
+D3
+~
+~
+0 0 17258
+S
+#17260
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17266
+D1
+~
+~
+0 0 17261
+D2
+~
+~
+0 0 17256
+D3
+~
+~
+0 0 17259
+S
+#17261
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17262
+D2
+~
+~
+0 0 17257
+D3
+~
+~
+0 0 17260
+S
+#17262
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17268
+D2
+~
+~
+0 0 17192
+D3
+~
+~
+0 0 17261
+S
+#17263
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17264
+D3
+~
+~
+0 0 17241
+S
+#17264
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17272
+D1
+~
+~
+0 0 17265
+D2
+~
+~
+0 0 17258
+D3
+~
+~
+0 0 17263
+S
+#17265
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17266
+D3
+~
+~
+0 0 17264
+S
+#17266
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17274
+D1
+~
+~
+0 0 17267
+D2
+~
+~
+0 0 17260
+D3
+~
+~
+0 0 17265
+S
+#17267
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17268
+D3
+~
+~
+0 0 17266
+S
+#17268
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17269
+D2
+~
+~
+0 0 17262
+D3
+~
+~
+0 0 17267
+S
+#17269
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17277
+D1
+~
+~
+0 0 17196
+D3
+~
+~
+0 0 17268
+S
+#17270
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17280
+D1
+~
+~
+0 0 17271
+D3
+~
+~
+0 0 17239
+S
+#17271
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17272
+D3
+~
+~
+0 0 17270
+S
+#17272
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17282
+D1
+~
+~
+0 0 17273
+D2
+~
+~
+0 0 17264
+D3
+~
+~
+0 0 17271
+S
+#17273
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D0
+~
+~
+0 0 17283
+D1
+~
+~
+0 0 17274
+D3
+~
+~
+0 0 17272
+S
+#17274
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17275
+D2
+~
+~
+0 0 17266
+D3
+~
+~
+0 0 17273
+S
+#17275
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17285
+D1
+~
+~
+0 0 17276
+D3
+~
+~
+0 0 17274
+S
+#17276
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17286
+D1
+~
+~
+0 0 17277
+D3
+~
+~
+0 0 17275
+S
+#17277
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17278
+D2
+~
+~
+0 0 17269
+D3
+~
+~
+0 0 17276
+S
+#17278
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17288
+D3
+~
+~
+0 0 17277
+S
+#17279
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17280
+D3
+~
+~
+0 0 17237
+S
+#17280
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17291
+D1
+~
+~
+0 0 17281
+D2
+~
+~
+0 0 17270
+D3
+~
+~
+0 0 17279
+S
+#17281
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17282
+D3
+~
+~
+0 0 17280
+S
+#17282
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17293
+D1
+~
+~
+0 0 17283
+D2
+~
+~
+0 0 17272
+D3
+~
+~
+0 0 17281
+S
+#17283
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17284
+D2
+~
+~
+0 0 17273
+D3
+~
+~
+0 0 17282
+S
+#17284
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17285
+D3
+~
+~
+0 0 17283
+S
+#17285
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17296
+D1
+~
+~
+0 0 17286
+D2
+~
+~
+0 0 17275
+D3
+~
+~
+0 0 17284
+S
+#17286
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17287
+D2
+~
+~
+0 0 17276
+D3
+~
+~
+0 0 17285
+S
+#17287
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.  
+~
+0 16777217 15
+D1
+~
+~
+0 0 17288
+D3
+~
+~
+0 0 17286
+S
+#17288
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17299
+D1
+~
+~
+0 0 17289
+D2
+~
+~
+0 0 17278
+D3
+~
+~
+0 0 17287
+S
+#17289
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17300
+D2
+~
+~
+0 0 17198
+D3
+~
+~
+0 0 17288
+S
+#17290
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17232
+D1
+~
+~
+0 0 17291
+S
+#17291
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17292
+D2
+~
+~
+0 0 17280
+D3
+~
+~
+0 0 17290
+S
+#17292
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17302
+D3
+~
+~
+0 0 17291
+S
+#17293
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17294
+D2
+~
+~
+0 0 17282
+S
+#17294
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17295
+D3
+~
+~
+0 0 17293
+S
+#17295
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17305
+D3
+~
+~
+0 0 17294
+S
+#17296
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17297
+D2
+~
+~
+0 0 17285
+S
+#17297
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17307
+D1
+~
+~
+0 0 17298
+D3
+~
+~
+0 0 17296
+S
+#17298
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17299
+D3
+~
+~
+0 0 17297
+S
+#17299
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17309
+D2
+~
+~
+0 0 17288
+D3
+~
+~
+0 0 17298
+S
+#17300
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17310
+D2
+~
+~
+0 0 17289
+S
+#17301
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17230
+S
+#17302
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17303
+D2
+~
+~
+0 0 17292
+S
+#17303
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D0
+~
+~
+0 0 17313
+D3
+~
+~
+0 0 17302
+S
+#17304
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17305
+S
+#17305
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17306
+D2
+~
+~
+0 0 17295
+D3
+~
+~
+0 0 17304
+S
+#17306
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17307
+D3
+~
+~
+0 0 17305
+S
+#17307
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17308
+D2
+~
+~
+0 0 17297
+D3
+~
+~
+0 0 17306
+S
+#17308
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D3
+~
+~
+0 0 17307
+S
+#17309
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17319
+D1
+~
+~
+0 0 17310
+D2
+~
+~
+0 0 17299
+S
+#17310
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17320
+D1
+~
+~
+0 0 17311
+D2
+~
+~
+0 0 17300
+D3
+~
+~
+0 0 17309
+S
+#17311
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17321
+D1
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17310
+S
+#17312
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D3
+~
+~
+0 0 17230
+S
+#17313
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D0
+~
+~
+0 0 17323
+D1
+~
+~
+0 0 17314
+D2
+~
+~
+0 0 17303
+D3
+~
+~
+0 0 17313
+S
+#17314
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17324
+D1
+~
+~
+0 0 17315
+D3
+~
+~
+0 0 17313
+S
+#17315
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17325
+D3
+~
+~
+0 0 17314
+S
+#17316
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17326
+D1
+~
+~
+0 0 17317
+S
+#17317
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17318
+D3
+~
+~
+0 0 17316
+S
+#17318
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17328
+D3
+~
+~
+0 0 17317
+S
+#17319
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17329
+D2
+~
+~
+0 0 17309
+S
+#17320
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17330
+D2
+~
+~
+0 0 17310
+S
+#17321
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17322
+D2
+~
+~
+0 0 17311
+S
+#17322
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17332
+D3
+~
+~
+0 0 17321
+S
+#17323
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D2
+~
+~
+0 0 17313
+D3
+~
+~
+0 0 17228
+S
+#17324
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17314
+S
+#17325
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17334
+D2
+~
+~
+0 0 17315
+S
+#17326
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17327
+D2
+~
+~
+0 0 17316
+S
+#17327
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17336
+D1
+~
+~
+0 0 17328
+D3
+~
+~
+0 0 17326
+S
+#17328
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17318
+D3
+~
+~
+0 0 17327
+S
+#17329
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17319
+S
+#17330
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17331
+D2
+~
+~
+0 0 17320
+S
+#17331
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17340
+D3
+~
+~
+0 0 17330
+S
+#17332
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17341
+D1
+~
+~
+0 0 17207
+D2
+~
+~
+0 0 17322
+S
+#17333
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D1
+~
+~
+0 0 17334
+S
+#17334
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17335
+D2
+~
+~
+0 0 17325
+D3
+~
+~
+0 0 17333
+S
+#17335
+{GThe Sea Forest{x~
+Massive kelp sways, schools of fish play, and a small starfish moves
+slowly along the sea floor.  A pair of manta rays glides over head, in an
+unearthly ease.  A large sea turtle pauses for a rest, while a few fish play
+with a floating, broken kelp leaf.  Such is life at the bottom of the sea.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17343
+D1
+~
+~
+0 0 17336
+D3
+~
+~
+0 0 17334
+S
+#17336
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17344
+D1
+~
+~
+0 0 17337
+D2
+~
+~
+0 0 17327
+D3
+~
+~
+0 0 17335
+S
+#17337
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17338
+D3
+~
+~
+0 0 17336
+S
+#17338
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17346
+D1
+~
+~
+0 0 17339
+D3
+~
+~
+0 0 17337
+S
+#17339
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17347
+D1
+~
+~
+0 0 17340
+D3
+~
+~
+0 0 17338
+S
+#17340
+{GThe Sea Forest{x~
+Broken muscles shells litter the sea floor.  Dozens of small crabs climb
+the many muscle encrusted rocks, snipping and cracking shells to get at the
+meat inside.  Small shrimp scurry among the shells looking for any uneaten
+food, while fish chase the shrimp for sport.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17341
+D2
+~
+~
+0 0 17331
+D3
+~
+~
+0 0 17339
+S
+#17341
+{GThe Sea Forest{x~
+Finely trimmed kelp stalks move in a ghostly fashion.  It's obvious this
+area has been harvested for reason unknown.  Perhaps the leaves were a
+perfect thickness for clothes?  Or perhaps the leaves where tender enough
+for food.  For unknown reasons, it has been done, yet the wall of the thick
+kelp still remains as interference for passing.
+~
+0 16777217 15
+D0
+~
+~
+0 0 17210
+D2
+~
+~
+0 0 17332
+D3
+~
+~
+0 0 17340
+S
+#17342
+{GThe Sea Forest{x~
+The current kicks up an undersea sand storm.  Tiny, razor sharp particles
+float through the water, cutting anything they can in their way.  A small
+anemone's arms are forced into a ridged shake from the slight whirlpool that
+has formed, and the surrounding kelp only acts as walls to keep the
+disturbance from growing.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17343
+S
+#17343
+{GThe Sea Forest{x~
+Many leaves and large bits of stalks litter the area.  A few shreds of
+some fish mean are floating in the water.  A massive attack seems to have
+occurred here, and much destruction has occurred.  The predator could still
+be in the area...
+~
+0 16777217 15
+D0
+~
+~
+0 0 17349
+D2
+~
+~
+0 0 17335
+D3
+~
+~
+0 0 17342
+S
+#17344
+{GThe Sea Forest{x~
+A large chunk of wood appears to have found its way to the sea floor. 
+Tiny crustacean and shrimp have made their home around it, and a few small
+springs of coral are growing from the jagged ends of the wood.  New life is
+sustained from another's grave misfortune.
+~
+0 16777217 15
+D1
+~
+~
+0 0 16500
+D2
+~
+~
+0 0 17336
+S
+#17346
+{GThe Sea Forest{x~
+Deep green kelp sways back and forth in an untenable current.  Schools of
+fish swim within the many leaves, scurrying about when larger fish come to
+close.  A few leaves break off from the stalks of the kelp, falling slowly
+but gracefully to the sandy bottom of the sea floor.  
+~
+0 16777217 15
+D2
+~
+~
+0 0 17338
+S
+#17347
+{GThe Sea Forest{x~
+In all directions a wall of kelp seems to block the way onward.  A few
+turtles easily maneuver their way through the impenetrable wall.  To do so
+by another non-sea creature would be suicide.  Large schools of fish sweep
+the sea floor, kicking up what little sand there is in this area.
+~
+0 16777217 15
+D1
+~
+~
+0 0 17348
+D2
+~
+~
+0 0 17339
+S
+#17348
+{GThe Sea Forest{x~
+A large shadow moves slowly over the area.  Over head a huge manta ray
+glides rhythmically through the water, casting its shadow over where it
+swims.  The thick massive stalks of kelp move jaggedly about, from the many
+fish swimming through from an unseen predator.  A small starfish clings to a
+rock on the floor bottom, moving at its own graceful pace.
+~
+0 16777217 15
+D3
+~
+~
+0 0 17347
+S
+#17349
+{GThe Sea Forest{x~
+A few enormous boulders jut up from the ground in a beautiful spectacle. 
+A few hundred tiny muscles cling to the boulders, filtering the food from
+the water for nourishment.  A dozen tiny shrimp walk along the kelp stalks,
+cleaning it for food while a few somewhat large fish dart in and out of the
+kelp, attracted to the shrimp.
+~
+0 16777217 15
+D2
+~
+~
+0 0 17343
+S
+#0
+
+
+
+#SPECIALS
+M 16469 spec_ghost
+M 16473 spec_angry
+S
+
+
+
+#RESETS
+M 0 16452 7 16450 1
+G 0 16450 0
+M 0 16452 7 16452 1
+G 0 16450 0
+M 0 16451 7 16454 1
+M 0 16450 7 16456 1
+M 0 16451 7 16458 1
+M 0 16450 7 16460 1
+M 0 16451 7 16462 1
+M 0 16452 7 16464 1
+G 0 16450 0
+M 0 16450 7 16466 1
+M 0 16451 7 16468 1
+M 0 16450 7 16470 1
+M 0 16452 7 16472 1
+G 0 16450 0
+M 0 16452 7 16474 1
+G 0 16450 0
+M 0 16450 7 16476 1
+M 0 16451 7 16478 1
+M 0 16452 7 16480 1
+G 0 16450 0
+M 0 16455 5 16482 1
+M 0 16456 5 16486 1
+M 0 16453 5 16490 1
+M 0 16457 5 16494 1
+M 0 16456 5 16496 1
+M 0 16453 5 16498 1
+M 0 16477 1 16500 1
+G 0 16461 0
+M 0 16455 5 17000 1
+M 0 16454 5 17002 1
+M 0 16454 5 17010 1
+M 0 16454 5 17015 1
+M 0 16457 5 17017 1
+M 0 16457 5 17019 1
+G 0 16462 0
+M 0 16457 5 17023 1
+M 0 16455 5 17025 1
+M 0 16452 7 17029 1
+G 0 16450 0
+M 0 16456 5 17031 1
+M 0 16451 7 17032 1
+M 0 16455 5 17034 1
+M 0 16453 5 17036 1
+M 0 16451 7 17038 1
+M 0 16450 7 17040 1
+M 0 16457 5 17042 1
+M 0 16456 5 17044 1
+M 0 16454 5 17046 1
+M 0 16453 5 17050 1
+M 0 16454 5 17052 1
+M 0 16450 7 17056 1
+M 0 16453 5 17058 1
+M 0 16455 5 17060 1
+M 0 16456 5 17062 1
+M 0 16465 4 17092 1
+M 0 16467 4 17094 1
+M 0 16468 4 17096 1
+M 0 16466 4 17098 1
+M 0 16467 4 17100 1
+M 0 16468 4 17102 1
+M 0 16466 4 17104 1
+M 0 16465 4 17105 1
+M 0 16465 4 17107 1
+M 0 16465 4 17109 1
+G 0 16452 0
+M 0 16466 4 17113 1
+M 0 16468 4 17115 1
+M 0 16467 4 17117 1
+M 0 16468 4 17119 1
+M 0 16466 4 17121 1
+M 0 16467 4 17123 1
+M 0 16471 6 17127 1
+M 0 16469 6 17130 1
+G 0 16457 0
+M 0 16469 6 17131 1
+M 0 16470 6 17134 1
+M 0 16470 6 17136 1
+M 0 16469 6 17138 1
+M 0 16471 6 17140 1
+M 0 16471 6 17142 1
+M 0 16473 1 17146 1
+E 0 16455 0 9
+M 0 16470 6 17148 1
+M 0 16470 6 17150 1
+M 0 16470 6 17155 1
+G 0 16453 0
+M 0 16469 6 17160 1
+M 0 16471 6 17163 1
+M 0 16469 6 17165 1
+M 0 16470 6 17169 1
+M 0 16472 1 17172 1
+E 0 16454 0 5
+M 0 16469 6 17173 1
+M 0 16471 6 17174 1
+M 0 16471 6 17176 1
+M 0 16461 5 17191 1
+M 0 16462 5 17194 1
+M 0 16474 4 17201 1
+M 0 16464 5 17209 1
+G 0 16451 0
+M 0 16476 4 17213 1
+G 0 16460 0
+M 0 16462 5 17215 1
+M 0 16458 5 17218 1
+M 0 16474 4 17220 1
+M 0 16461 5 17223 1
+M 0 16464 5 17229 1
+M 0 16475 4 17232 1
+M 0 16462 5 17235 1
+M 0 16474 4 17237 1
+G 0 16456 0
+M 0 16460 5 17238 1
+M 0 16463 5 17241 1
+M 0 16463 5 17244 1
+M 0 16459 5 17247 1
+M 0 16458 5 17250 1
+M 0 16475 4 17252 1
+M 0 16476 4 17257 1
+M 0 16462 5 17259 1
+M 0 16474 4 17265 1
+M 0 16464 5 17272 1
+M 0 16463 5 17276 1
+M 0 16459 5 17278 1
+M 0 16461 5 17280 1
+M 0 16464 5 17285 1
+M 0 16458 5 17293 1
+M 0 16463 5 17297 1
+M 0 16458 5 17301 1
+M 0 16459 5 17304 1
+M 0 16463 5 17308 1
+G 0 16459 0
+M 0 16461 5 17309 1
+M 0 16464 5 17311 1
+M 0 16462 5 17317 1
+M 0 16476 4 17323 1
+M 0 16475 4 17329 1
+G 0 16458 0
+M 0 16476 4 17332 1
+M 0 16461 5 17333 1
+M 0 16459 5 17335 1
+M 0 16475 4 17338 1
+M 0 16459 5 17342 1
+M 0 16458 5 17348 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

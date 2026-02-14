@@ -1,0 +1,1140 @@
+#PLAYER
+Name Kimber~
+Surname Tangleknot~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1409954124
+LogO 1422869642
+Vers 10
+Act  CDEFGQTe
+Desc Bright brown eyes look happily around the area.  Light brown hair has
+been braided with pale blue ribbons and tied into a knot on top of her head.
+She wears some plain clothes, though in many different colors.  A tiny
+little dagger is strapped to her waist.  
+~
+Prom {Y%h{r%H {Y%v{r%V {M%X {c>%a< {w%g {y%s{x %B%c~
+Race kender~
+Sex  2
+Cla  2
+Hmtown 0
+Levl 36
+recall_point 3001
+Levscale 30
+Xptolev  4327
+Sec  0
+Plyd 852764
+Not  1420281656 1410497194 0 1410808993 1410497215
+Scro 33
+Room 11380
+HMV  709 709 230 230 331 331
+Steel 45894
+Gold 14935
+Bank 200000
+Exp  169573
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3604480
+Comm MNO
+Pos  8
+Save  -1
+Alig  31
+Ethos 2
+Hit   6
+Dam   5
+ACs -33 -37 -64 36
+Wimp  100
+Attr 21 13 19 19 24 13
+AMod 9 9 14 13 11 2
+Pass KiRDpqNvUoLhI~
+Titl  the Counterfeiter~
+Pretit ~
+Pnts 7
+TSex 2
+LLev 227
+HMVP 629 180 331
+Cnd  0 55 28 0
+QuestPnts 30201
+QuestNext 4
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'infravision'
+Sk 100 'dagger'
+Sk 27 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 26 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 99 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 98 'trip'
+Sk 67 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 3 'blackjack'
+Sk 1 'dual wield'
+Sk 100 'mount'
+Sk 1 'pickpocket'
+Sk 1 'mountjack'
+Sk 100 'battle tactics'
+Sk 23 'wear leather'
+Sk 12 'fast healing'
+Sk 38 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'kender tongue'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 96 'pick lock'
+Sk 100 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'disguise'
+Sk 15 'tumble'
+Sk 100 'scout'
+Sk 1 'second backstab'
+Sk 1 'strip'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 100 'disarm traps'
+Sk 100 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 100
+Wear -1
+Cost 360
+Val  1 1 6 3 128
+Affc 'poison'   5  28   2   0   0        128
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 98
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9589
+Nest 0
+Cond 97
+Wear 8
+Cost 130
+End
+
+#O
+Vnum 16192
+Nest 0
+Cond 98
+Wear 13
+Cost 850
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 13702
+Nest 1
+Cond 87
+Wear -1
+Cost 420
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 97
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 96
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 97
+Wear 4
+Cost 400
+End
+
+#O
+Vnum 1626
+Nest 0
+ExtF 262144
+Cond 100
+Wear 11
+Cost 13000
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 850
+End
+
+#O
+Vnum 16364
+Nest 0
+ExtF 0
+Cond 98
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 94
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17510
+Nest 0
+ExtF 0
+Cond 97
+Wear 15
+Cost 60000
+End
+
+#O
+Vnum 8815
+Nest 0
+Cond 99
+Wear 2
+Cost 400
+End
+
+#O
+Vnum 8815
+Nest 0
+Cond 98
+Wear 1
+Cost 400
+End
+
+#O
+Vnum 1921
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1921
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1921
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9828
+Nest 0
+ExtF 524296
+Cond 90
+Wear -1
+Cost 7000
+Val  2 6 12 2 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 90
+Wear -1
+Cost 610
+End
+
+#O
+Vnum 11247
+Nest 0
+Cond 100
+Wear 23
+Cost 2000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 11173
+Nest 0
+ExtF 8
+Cond 88
+Wear -1
+Lev  51
+Cost 2105
+Val  2 4 16 11 74
+End
+
+#O
+Vnum 3805
+Nest 0
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 500
+Val  2 7 12 11 136
+End
+
+#O
+Vnum 3805
+Nest 0
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 500
+Val  2 7 12 11 136
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 5700
+Nest 0
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF 8
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 96
+Mat  steel~
+Wear 20
+Lev  55
+Cost 550
+Val  2 7 12 11 72
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 272
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 294
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 299
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 255
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 269
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 276
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 261
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 272
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 273
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 293
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 258
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 288
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 279
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 293
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 291
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 285
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 278
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 272
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 290
+End
+
+#O
+Vnum 5762
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#PET
+Vnum 9012
+Name elven ceremonial war steed~
+LogO 1422869642
+Desc A large warsteed stands here, its gaze looking about as it snorts in
+anticipation.  Its massive body is decorated with the ceremonial barding of
+the Qualinesti elves, each inscribed with intricate patterns of ivy and
+golden suns.  
+A neck tag says 'I belong to Kimber'.
+~
+Sex  0
+HMV  822 822 321 321 100 100
+AfBy SZa
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -120 -120 -120 -20
+Attr 25 20 21 23 23 21
+AMod 0 0 0 0 0 0
+End
+#END

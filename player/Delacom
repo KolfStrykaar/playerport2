@@ -1,0 +1,3507 @@
+#PLAYER
+Name Delacom~
+Surname Reformange~
+MaskedIp ~
+Lokprot off~
+Email none~
+Id   1236092210
+LogO 1422583694
+Vers 10
+Act  DEFGHLMQT
+Desc Here standing before you is a dwarf, at the most only 4 feet tall. Upon
+his head he wears a solid gold crown of dwarven make and design studded in
+diamonds. He has a young looking face for one of his age and it is covered
+by the most brilliant color of blonde shoulder length hair and a well
+matched beard that flows down to his waist. His eyes are of the deepest
+blue, almost as if raw sapphires looked out of them instead.
+
+This dwarf wears a blue, knee-length tabard which seems to be made out of
+the skin of an ancient dragon. Upon further inspection you notice that
+under this tabard he is wearing a white tunic with matching leggings and
+the boots that are on his feet are made of the same type of dragonskin as
+his tabard. Upon his back he wears an elegantly embroidered black cloak
+that seems to move of its own accord. The cloak bears a symbol right in
+the middle of an anvil and hammer.
+
+As you move downward something shiny of the dwarfs left side seems to
+catch your eyes. As you look, one notices the most peculiar thing...his
+left arm seems a little wrong, as it is a complete silver color.The final
+thing about this dwarf you notice is the big hammer with intraquite
+designs strapped to his side that would symbolize his trade as a
+blacksmith.
+~
+Prom {R%hhp/%Hhp %mm/%Mm %vmv/%Vmv %sg/%gs{w %b%B  ~
+Race daewar~
+Org 263
+Religion 18
+Sex  1
+Cla  15
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1475050
+Sec  0
+Plyd 7159940
+Not  1421272750 1395959842 0 1410808993 1379084822
+Scro 22
+Room 401
+HMV  1781 1781 1538 1538 855 902
+Steel 3560
+Gold 57
+Bank 2090071
+Exp  20072450
+AfBy DFJ
+Deaths 9
+FlagTot 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2293760
+Comm NOQ
+Pos  8
+Prac 1
+Save  -105
+Alig  110
+Ethos 0
+Hit   15
+Dam   15
+ACs -621 -621 -617 -521
+Wimp  200
+Yield  200
+Attr 20 18 29 31 29 10
+AMod 2 5 8 5 3 5
+Pass DeiLyv6MnJVHk~
+Titl  - The {RRed{x {DAnvil{x~
+Pretit Thane{x~
+Pnts 0
+TSex 1
+LLev 1827
+HMVP 1581 1238 752
+Cnd  0 35 61 0
+QuestPnts 708
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ;{D>>==<<{wThe {DGrand {RArchitect{w{D>>==<<{w~
+Sk 70 'calm'
+Sk 89 'hand to hand'
+Sk 76 'sharpen'
+Sk 100 'mount'
+Sk 70 'sympathy'
+Sk 100 'wear chain'
+Sk 75 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'lore'
+Sk 50 'recall'
+Sk 70 'vortex'
+Sk 85 'mend'
+Sk 75 'repair shield'
+Sk 100 'leather repair'
+Sk 80 'plate repair'
+Sk 75 'chain repair'
+Sk 100 'weapon repair'
+Sk 100 'deathblade'
+Sk 82 'flameblade'
+Sk 100 'runeblade'
+Sk 100 'fast working'
+Sk 96 'stainless'
+Sk 90 'eversharp'
+Sk 100 'purifying fire'
+Sk 76 'fletching'
+Sk 100 'smith'
+Sk 100 'create furnace'
+Sk 100 'create barrel'
+Sk 100 'create grinder'
+Sk 100 'create anvil'
+Sk 100 'masterwork'
+Sk 100 'create flame'
+Sk 84 'thors hammer'
+Sk 100 'dismantle'
+Sk 75 'eyerub'
+Sk 100 'cultural artistry'
+Sk 100 'instruct'
+Sk 100 'key origin'
+End
+
+#O
+Vnum 1265
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name crown thane diamond encrusted~
+ShD  ({WDiamond Encrusted{x) {YCrown{x of the {RThane{x~
+Desc A dwarven made crown lies here glistening in the sun.~
+ExtF 8
+Cond 100
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 16457
+Nest 0
+Name torch old~
+ShD  ({RFlaming{x) An {yOld{x Torch~
+Desc An old dwarven made torch lies in a corner.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name mask~
+ShD  a wooden mask~
+Desc An exquisite wooden mask sits on the floor.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   4
+Cond 100
+Mat  wood~
+Wear 7
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name golden greaves~
+ShD  golden greaves~
+Desc A pair of golden greaves shimmers in the light.~
+ExtF 8
+ExtF2 2
+WeaF 268435489
+Ityp 9
+Wt   3
+Cond 100
+Mat  gold~
+Wear 8
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather boots~
+ShD  leather boots~
+Desc These pair of Tooled Leather boots seem comfy.~
+ExtF 8
+ExtF2 2
+WeaF 268435521
+Ityp 9
+Wt   3
+Cond 100
+Mat  tooled leather~
+Wear 11
+Lev  111
+Cost 1110
+Val  29 29 29 25 1
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name mahogony buckler~
+ShD  a mahogony buckler~
+Desc A buckler made of fine mahogony lies here.~
+ExtF 8
+ExtF2 2
+WeaF 268435969
+Ityp 9
+Wt   3
+Cond 100
+Mat  mahogony~
+Wear 15
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cufflink~
+ShD  a cufflink~
+Desc This cufflink looks like it would go good with your shirt.~
+ExtF 8
+ExtF2 2
+WeaF 268439553
+Ityp 9
+Wt   1
+Cond 100
+Mat  jade~
+Wear 19
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cufflink~
+ShD  a cufflink~
+Desc This cufflink looks like it would go good with your shirt.~
+ExtF 8
+ExtF2 2
+WeaF 268439553
+Ityp 9
+Wt   1
+Cond 100
+Mat  jade~
+Wear 18
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name smith cloak~
+ShD  a {Rsmith's{D cloak{x~
+Desc AN elegantly embroidered black cloak bearing the symbol of an anvil and hammer lays here, flapping in the wind.~
+ExtF 8
+ExtF2 2
+WeaF 268435461
+Ityp 9
+Wt   1
+Cond 100
+Mat  gold~
+Wear 4
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name pendant reorx planet~
+ShD  a {Dpendant{x of the planet {RReorx{x~
+Desc A gold necklace lays upon the ground, attached to it is a big ruby emanating a light as bright as the planet Reorx tiself.~
+ExtF 8
+ExtF2 2
+WeaF 268435461
+Ityp 9
+Wt   1
+Cond 100
+Mat  gold~
+Wear 3
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name warplate reformange crest plate~
+ShD  a {DWarplate{x bearing the {RReformange{x Crest{x~
+Desc An ancient dwarven warplate lies here. It bears the crest of a phoenix holding a crossed hammer and sword in its talons.~
+ExtF 8
+ExtF2 2
+WeaF 268435465
+Ityp 9
+Wt   15
+Cond 100
+Mat  steel~
+Wear 5
+Lev  111
+Cost 1110
+Val  29 29 29 25 4
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name arm band arm ergoth~
+ShD  ({DCursed{x) the Arm of {RErgoth{x~
+Desc An object resembling a human arm from shoulder to fingertips lies here.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name buckle~
+ShD  a buckle~
+Desc A shiny buckle sits on the ground~
+ExtF 8
+ExtF2 2
+WeaF 268437505
+Ityp 9
+Wt   2
+Cond 100
+Mat  silver~
+Wear 17
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cloak~
+ShD  a bone cloak~
+Desc A cloak made of bones woven together is strewn in the corner.~
+ExtF 8
+ExtF2 2
+WeaF 268436481
+Ityp 9
+Wt   4
+Cond 100
+Mat  bone~
+Wear 16
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 51
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Name book blacksmith~
+ShD  ({mAncient{x) ({YGold{x-{YEmbossed{x) {yBook{x of the {DBlacksmith{x~
+Desc A gold embossed book lies here. It is filled to the brim with notes about various materials, weapons, and armors.~
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 10511
+Nest 0
+Name hammer forged artisans~
+ShD  ({mAncient{x) ({DForged{x) Hammer of the {RArtisans{x~
+Desc The hammer of a blacksmith lies here. It seems to have been forged by a legendary Artisan.~
+Cond 99
+Wear 20
+Cost 1500
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Name pack artisans materials~
+ShD  ({DForged{x) {RArtisans{x pack of {DMaterials{x~
+Desc A material pack, probably a blacksmiths, lies here. There is a symbol of an Anvil and Hammer, stitched into the front flap, the symbol of the Artisans.~
+Cond 100
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece velium raw material~
+ShD  a piece of velium material~
+Desc This piece of velium material looks good for raw materials.~
+Cond 100
+Mat  velium~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Name coupon grooming~
+ShD  a {GGrooming{x Coupon~
+Desc This coupon is good for restringing a pet.~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece stone raw material~
+ShD  a piece of stone material~
+Desc This piece of stone material looks good for raw materials.~
+Cond 100
+Mat  stone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1208
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece jade raw material~
+ShD  a piece of jade material~
+Desc This piece of jade material looks good for raw materials.~
+Cond 100
+Mat  jade~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wool raw material~
+ShD  a piece of wool material~
+Desc This piece of wool material looks good for raw materials.~
+Cond 100
+Mat  wool~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece mahogony raw material~
+ShD  a piece of mahogony material~
+Desc This piece of mahogony material looks good for raw materials.~
+Cond 100
+Mat  mahogony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece platinum raw material~
+ShD  a piece of platinum material~
+Desc This piece of platinum material looks good for raw materials.~
+Cond 100
+Mat  platinum~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+Name make over coupon~
+ShD  ({W13 Uses{x) a {BMake Over{x Coupon~
+Desc Good for 13 more uses.~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece redwood raw material~
+ShD  a piece of redwood material~
+Desc This piece of redwood material looks good for raw materials.~
+Cond 100
+Mat  redwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece redwood raw material~
+ShD  a piece of redwood material~
+Desc This piece of redwood material looks good for raw materials.~
+Cond 100
+Mat  redwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece redwood raw material~
+ShD  a piece of redwood material~
+Desc This piece of redwood material looks good for raw materials.~
+Cond 100
+Mat  redwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece redwood raw material~
+ShD  a piece of redwood material~
+Desc This piece of redwood material looks good for raw materials.~
+Cond 100
+Mat  redwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece lead raw material~
+ShD  a piece of lead material~
+Desc This piece of lead material looks good for raw materials.~
+Cond 100
+Mat  lead~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece lead raw material~
+ShD  a piece of lead material~
+Desc This piece of lead material looks good for raw materials.~
+Cond 100
+Mat  lead~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece lead raw material~
+ShD  a piece of lead material~
+Desc This piece of lead material looks good for raw materials.~
+Cond 100
+Mat  lead~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece lead raw material~
+ShD  a piece of lead material~
+Desc This piece of lead material looks good for raw materials.~
+Cond 100
+Mat  lead~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece redwood raw material~
+ShD  a piece of redwood material~
+Desc This piece of redwood material looks good for raw materials.~
+Cond 100
+Mat  redwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 409
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 409
+Nest 1
+Cond 100
+Wear -1
+Cost 66
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  50
+Cost 500
+Val  25 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  50
+Cost 500
+Val  25 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ebony raw material~
+ShD  a piece of ebony material~
+Desc This piece of ebony material looks good for raw materials.~
+Cond 100
+Mat  ebony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ebony raw material~
+ShD  a piece of ebony material~
+Desc This piece of ebony material looks good for raw materials.~
+Cond 100
+Mat  ebony~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece homespun raw material~
+ShD  a piece of homespun material~
+Desc This piece of homespun material looks good for raw materials.~
+Cond 100
+Mat  homespun~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bone raw material~
+ShD  a piece of bone material~
+Desc This piece of bone material looks good for raw materials.~
+Cond 100
+Mat  bone~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece plant raw material~
+ShD  a piece of plant material~
+Desc This piece of plant material looks good for raw materials.~
+Cond 100
+Mat  plant~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece obsidian raw material~
+ShD  a piece of obsidian material~
+Desc This piece of obsidian material looks good for raw materials.~
+Cond 100
+Mat  obsidian~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17535
+Nest 1
+Cond 100
+Wear -1
+Cost 2130
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece crystal raw material~
+ShD  a piece of crystal material~
+Desc This piece of crystal material looks good for raw materials.~
+Cond 100
+Mat  crystal~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece copper raw material~
+ShD  a piece of copper material~
+Desc This piece of copper material looks good for raw materials.~
+Cond 100
+Mat  copper~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ironwood raw material~
+ShD  a piece of ironwood material~
+Desc This piece of ironwood material looks good for raw materials.~
+Cond 100
+Mat  ironwood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece emerald raw material~
+ShD  a piece of emerald material~
+Desc This piece of emerald material looks good for raw materials.~
+Cond 100
+Mat  emerald~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece gold raw material~
+ShD  a piece of gold material~
+Desc This piece of gold material looks good for raw materials.~
+Cond 100
+Mat  gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece white gold raw material~
+ShD  a piece of white gold material~
+Desc This piece of white gold material looks good for raw materials.~
+Cond 100
+Mat  white gold~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dragonlance~
+ShD  a dragonlance~
+Desc This is one of the legendary Silver DragonLances!~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   20
+Cond 100
+Mat  silver~
+Wear -1
+Lev  111
+Cost 1110
+Val  8 10 16 34 16
+Affc 'cultural artistry'   5 101  -1   0   0         16
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16364
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 435
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 425
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 5435
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 9807
+Name griffon~
+LogO 1422583694
+Desc With the head, claws and wings of an eagle, and the body and tail of a
+mountain lion, this fierce beast is nothing to be trifled with. 
+Domesticated by the Silvanesti, these animals have proven very loyal to
+their masters.  
+A neck tag says 'I belong to Delacom'.
+~
+Sex  2
+HMV  812 812 303 303 100 100
+Steel 11
+Gold 403
+AfBy STZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -90 -90 -90 -10
+Attr 25 20 21 21 23 21
+AMod 0 0 0 0 0 0
+End
+#END

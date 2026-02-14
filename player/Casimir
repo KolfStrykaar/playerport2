@@ -1,0 +1,770 @@
+#PLAYER
+Name Casimir~
+Surname Colt~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1394278233
+LogO 1404421318
+Vers 10
+Act  CDGHTe
+Desc Has you aproach this figure mounted on a white horse you see a tall
+strapping man with tan skin. He has a strong build, a stiff body, dark
+hair and blue penetrating eyes. He has a Knight armor that protects him
+from all sides and carries a Great shiny BroadSword. He descends from his
+mount and extends his hand towards yours asking who his in front of him.
+~
+Prom {R%h/%H {B%m/%M {G%v/%V {W%g {y%X {D%a{x %e{R>{x ~
+Race human~
+Sex  1
+Cla  5
+Hmtown 0
+Levl 46
+recall_point 3001
+Levscale 30
+Xptolev  16480
+Sec  0
+Plyd 82343
+Not  1400184212 1394477517 0 1394923999 1394477501
+Scro 0
+Room 4682
+HMV  1169 1169 239 239 378 378
+Steel 3944
+Gold 31903
+Bank 4000
+Exp  350570
+AfBy T
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2883584
+Comm NO
+Pos  8
+Prac 81
+Trai 1
+Reward_timer 88
+Save  -2
+Alig  1000
+Ethos 1
+Hit   9
+Dam   4
+ACs 10 -6 -13 67
+Attr 28 13 13 13 26 13
+AMod 0 11 14 5 8 0
+Pass Gaq9Zo.UlTLGE~
+Titl  the Cavalier~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 22
+HMVP 1119 199 378
+Cnd  0 44 44 0
+QuestPnts 154
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'protection evil'
+Sk 49 'axe'
+Sk 1 'flail'
+Sk 33 'mace'
+Sk 1 'polearm'
+Sk 41 'shield block'
+Sk 1 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 10 'bash'
+Sk 53 'berserk'
+Sk 8 'dirt kicking'
+Sk 25 'disarm'
+Sk 30 'dodge'
+Sk 100 'enhanced damage'
+Sk 13 'hand to hand'
+Sk 100 'kick'
+Sk 25 'parry'
+Sk 21 'rescue'
+Sk 1 'trip'
+Sk 86 'second attack'
+Sk 71 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'whirlwind'
+Sk 100 'lunge'
+Sk 25 'dual wield'
+Sk 100 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 6 'battle tactics'
+Sk 51 'wear chain'
+Sk 26 'wear leather'
+Sk 1 'wear plate'
+Sk 80 'fast healing'
+Sk 9 'haggle'
+Sk 100 'common'
+Sk 6 'lore'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 73 'bind wounds'
+Sk 93 'guard'
+Sk 40 'mounted combat'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'polish'
+Sk 1 'shatter shield'
+Sk 1 'company might'
+Sk 1 'company valor'
+Sk 1 'company honor'
+Sk 1 'arrow deflection'
+Affc 'luck'   0  75  59   5  18          0
+Affc 'shield'   0  77  67 -20  17          0
+Affc 'levitate'   0  87  45   0   0     524288
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 94
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11257
+Nest 1
+Cond 100
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'remove curse'
+Spell 3 'protection evil'
+End
+
+#O
+Vnum 11257
+Nest 1
+Cond 100
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'remove curse'
+Spell 3 'protection evil'
+End
+
+#O
+Vnum 11257
+Nest 1
+Cond 100
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'remove curse'
+Spell 3 'protection evil'
+End
+
+#O
+Vnum 11257
+Nest 1
+Cond 100
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'remove curse'
+Spell 3 'protection evil'
+End
+
+#O
+Vnum 11257
+Nest 1
+Cond 100
+Wear -1
+Cost 720
+Spell 1 'bless'
+Spell 2 'remove curse'
+Spell 3 'protection evil'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 100
+Wear -1
+Cost 8415
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 17713
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 9831
+Nest 1
+Cond 100
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 220 0 0 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 288
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 98
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 17709
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 98
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 9
+Cost 150
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 98
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 17718
+Nest 0
+Cond 99
+Wear -1
+Cost 590
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 91
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 11202
+Nest 0
+Cond 100
+Wear -1
+Lev  46
+Cost 10000
+Val  1 2 22 3 66
+End
+
+#O
+Vnum 13715
+Nest 0
+Cond 69
+Wear 20
+Lev  41
+Cost 0
+Val  1 7 9 3 74
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

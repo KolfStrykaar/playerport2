@@ -1,0 +1,393 @@
+#PLAYER
+Name Kyntari~
+Surname Darkstar~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1403909311
+LogO 1403910537
+Vers 10
+Act  CDEFGQTe
+Prom <%hhp %mm %vmv> ~
+Race silvanesti~
+Sex  2
+Cla  11
+Hmtown 0
+Levl 2
+recall_point 3001
+Levscale 30
+Xptolev  740
+Sec  0
+Plyd 1226
+Not  0 0 0 0 0
+Scro 22
+Room 3714
+HMV  97 97 111 111 106 106
+Steel 17
+Gold 137
+Bank 0
+Exp  2460
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Prac 2
+Save  -1
+Alig  -749
+Ethos 2
+Hit   1
+ACs 69 69 69 79
+Wimp  18
+Attr 12 20 15 13 13 16
+AMod 2 0 2 2 2 0
+Pass KyKyfbSeibn/k~
+Titl  the Scum~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 0
+HMVP 47 111 106
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'chill touch'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect good'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'magic missile'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'protection good'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'acid breath'
+Sk 76 'dagger'
+Sk 49 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'shadow walk'
+Sk 1 'animate corpse'
+Sk 1 'fear'
+Sk 1 'horrid wilting'
+Sk 1 'paralysis'
+Sk 1 'vampiric touch'
+Sk 1 'undead disruption'
+Sk 1 'nightmare'
+Sk 1 'cavorting bones'
+Sk 1 'enervation'
+Sk 1 'remove paralysis'
+Sk 1 'cantrip'
+Sk 1 'disintegrate'
+Sk 1 'wraithform'
+Sk 1 'word of death'
+Sk 1 'coldfire'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'drain rune'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'dark taint'
+Sk 1 'drain blood'
+Sk 1 'forget'
+Sk 1 'forgedeath'
+Sk 1 'preservation'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'preserve dead'
+Sk 1 'ray of fatigue'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'boil blood'
+Sk 1 'great wasting'
+Sk 1 'coldlight'
+Sk 1 'resist cold'
+Sk 1 'deadeye'
+Sk 1 'renew bones'
+Sk 1 'breath of the dead'
+Sk 1 'intensify death'
+Sk 1 'deafness'
+Sk 1 'trance'
+Sk 75 'staff'
+Sk 1 'unholyrite'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'armor'   0  29  19 -20  17          0
+End
+
+#O
+Vnum 3760
+Nest 0
+Cond 100
+Wear 0
+Cost 5
+Val  0 0 177 0 0
+End
+
+#O
+Vnum 3761
+Nest 0
+Cond 100
+Wear 5
+Cost 5
+End
+
+#O
+Vnum 3762
+Nest 0
+Cond 100
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear 20
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3763
+Nest 0
+Cond 100
+Wear 21
+Cost 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear -1
+Cost 48
+End
+
+#END

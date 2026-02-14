@@ -1,0 +1,770 @@
+#PLAYER
+Name Aurelius~
+Surname Letisi~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1329260050
+LogO 1384930746
+Vers 10
+Act  CDFGHTe
+Desc {DA young maiden stands here at the height of five feet and two inches.
+She looks to be about the age of seventeen.  Her hair is kept in a neat
+braid.
+
+{DThe {Wsilver{x {Dlocks {Wgl{Cim{Wmer{x {Din the {Ysun{x {Dor whenever
+the light touches it.  It also seems to have a {mpurple{x {Dtint to it.  A
+few tendrils fram her angelic, yet child-like face.  Her hair doesn't hide
+her pointed ears, revealing some of her elven heritage.  Her bangs are
+brushed to the side as to not hide her eyes.
+
+{DSaid eyes are almond shaped in demeanor and are {Bblue{x.  {BBlue {Das
+the {cocean's {bdeep waters{D.  They peer out through long lashes and hold
+the look of innocence as well as curiosity.  Those eyes rest above a small
+nose and full lips that seem tainted by the {Rreddest {rrose{D.  Her
+{Walabaster {Dskin is void of any blemishes or scars.
+
+{DOn her torso she wears a {Bblue satin {Dshirt with a black corset.  The
+sleeves extend past her small delicate hands, each ending with five finger
+capped by well manicured {Mpink {Dnails.  A black satin skirt doesn't hide
+her well, toned legs.  The skirt barely reaches her knees.  The edge of
+the skirt is trimmed in lace.
+
+{DA black velvet robe conceals her petite form.  {WSp{Car{Wkl{Cing {Bblue
+{Dtrimming line the edges of the robe.  The clothing is made from fine
+elven material and accentuates her body, bringing out the curves in all
+the right places, from her breasts to her tiny waist.  Wrapped around that
+waist is a {Wsilver {Dsash.  Tied to the sash is a sword, its {Ygolden
+{Dhilt adorned with {gemeralds {Dand {Rrubies{D.  On the other side of her
+rest two twin daggers, both hilts the same as the sword.
+
+{DOn her small feet are black slippers, lined with just a hint of
+{Bblue{D.  Strapped to her back is a {yleather {Dcase, containing her
+talent.  The sweet, intoxicating smells of {rcinnamon {Dand {Wvanilla
+{Dsurround her.{x
+~
+Prom %hhp %mm %vmv %X %B %g %s ~
+Race half-elf~
+Sex  2
+Cla  4
+Hmtown 0
+Levl 35
+recall_point 3001
+Levscale 30
+Xptolev  7615
+Sec  0
+Plyd 41690
+Not  1330390055 1330770530 0 1330390068 1330390060
+Scro 22
+Room 4739
+HMV  916 916 503 503 305 305
+Steel 289
+Gold 18235
+Bank 0
+Exp  153485
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 851968
+Comm NO
+Pos  8
+Prac 14
+Trai 1
+Alig  -572
+Ethos 1
+Hit   7
+Dam   7
+ACs 12 13 -3 62
+Attr 15 18 16 16 15 19
+AMod 4 11 21 9 14 0
+Pass AuT2pOSqRdPoo~
+Titl  the Performer~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 10
+HMVP 731 353 305
+Cnd  0 13 15 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'dispel magic'
+Sk 75 'summon'
+Sk 97 'dagger'
+Sk 1 'flail'
+Sk 75 'mace'
+Sk 1 'polearm'
+Sk 75 'shield block'
+Sk 75 'sword'
+Sk 75 'whip'
+Sk 1 'disarm'
+Sk 77 'dodge'
+Sk 89 'enhanced damage'
+Sk 75 'hand to hand'
+Sk 100 'kick'
+Sk 78 'parry'
+Sk 75 'trip'
+Sk 84 'second attack'
+Sk 1 'counter'
+Sk 1 'deathgrip'
+Sk 75 'dual wield'
+Sk 75 'play music'
+Sk 75 'mount'
+Sk 75 'battle tactics'
+Sk 75 'wear chain'
+Sk 75 'wear leather'
+Sk 79 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 75 'lore'
+Sk 75 'sneak'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 75 'chant of battle'
+Sk 75 'chords of dissonance'
+Sk 78 'tumble'
+Sk 1 'trammel'
+Sk 75 'serenade'
+Sk 1 'taunt'
+Sk 75 'bravado'
+Sk 1 'lull'
+Sk 1 'pacify'
+Sk 75 'redirect'
+Sk 77 'acrobatics'
+Sk 75 'rally'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'singing'
+Sk 1 'dancing strike'
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 89
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1448
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 9866
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16364
+Nest 0
+Cond 99
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 10967
+Enchanted
+Nest 0
+ExtF 17039425
+Cond 100
+Wear 7
+Lev  34
+Cost 2500
+Affc 'reserved'   1  30  -1   1   3          0
+Affc 'reserved'   1  30  -1   1   4          0
+Affc 'enchant armor'   1 101  -1  -6  17          0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9589
+Nest 0
+Cond 100
+Wear 8
+Cost 130
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 124 0 0 0
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1470
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1103
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 667
+Spell 1 'identify'
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 94
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 17735
+Nest 1
+Cond 100
+Wear -1
+Cost 44
+End
+
+#O
+Vnum 3345
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#END

@@ -1,0 +1,1141 @@
+#PLAYER
+Name Ashlyana~
+Surname DelRivian~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1306102378
+LogO 1415824772
+Vers 10
+Act  CDFGQTe
+Desc This young feminine creature looks to have stepped out of a painting and
+into the world. Silken locks of {Ygolden {yhoney{x tumble over slender
+shoulders of this young feminine creature.  {rCrimson{x streaks run
+through the hair, giving it more of a {rstrawberry {Yblonde{x color.  Two
+long {Wsilver{x pins stick out of her hair, one crisscrossing over the
+other.  Each seems to {Yglow{x slightly and have a {bsapphire{x at the tip.
+
+
+Eyes as {bblue{x as the {cocean's{x waters stare out into the world.
+Flecks of {ggreen{x can be seen in the irises if one looks closely enough.
+Her small nose, delicate high cheekbones, and full pouty lips are well
+profined for her facial structure.
+
+
+The clothing on this young woman's body was made by elven material and
+specialized only to fit her.  A strapless dress of {Dblack satin{x barely
+reaches her knees and outlines her every curve, from her ample breasts to
+her tiny waist. Around her waist is a {Wsilver{x chainlink belt.  Attached
+to the belt are two daggers, each gleaming with {gemeralds{x and
+{rrubies{x.  A robe of {Dblack silk{x conceals her petite frame and has
+{Wsilver{x trimming and accented runes running down the sides. {DBlack
+slippers{x are worn on her small feet.  The last thing noticable on this
+feminine creature are her slightly pointed ears, revealing that she is
+from elven lineage.
+~
+Prom %hhp %mm %vmv %X %B %g %s ~
+Race half-elf~
+Sex  2
+Cla  9
+Hmtown 0
+Levl 56
+recall_point 3001
+Levscale 30
+Xptolev  32560
+Sec  0
+Plyd 359900
+Not  1380960976 1380570408 0 1380154978 1306117780
+Scro 22
+Room 3031
+HMV  1579 1579 346 346 442 442
+Steel 165
+Gold 1195
+Bank 34400
+Exp  878690
+AfBy FJPQ
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 720896
+Comm NO
+Pos  8
+Prac 6
+Reward_timer 98
+Save  -3
+Alig  186
+Ethos 1
+Hit   22
+Dam   25
+ACs 43 36 24 84
+Attr 16 17 17 18 17 16
+AMod 2 5 16 4 13 0
+Pass AsnOCYh3kXqnQ~
+Titl  the Guardian of the Forgotten~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 85
+HMVP 1309 226 442
+Cnd  0 11 11 0
+QuestPnts 63
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 83 'detect hidden'
+Sk 75 'detect poison'
+Sk 78 'haste'
+Sk 75 'infravision'
+Sk 1 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 3 'sword'
+Sk 75 'whip'
+Sk 90 'backstab'
+Sk 84 'dirt kicking'
+Sk 19 'disarm'
+Sk 88 'dodge'
+Sk 100 'enhanced damage'
+Sk 21 'envenom'
+Sk 53 'hand to hand'
+Sk 100 'kick'
+Sk 77 'trip'
+Sk 95 'second attack'
+Sk 1 'third attack'
+Sk 100 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 75 'demand'
+Sk 75 'circlestab'
+Sk 100 'dual wield'
+Sk 81 'mount'
+Sk 75 'battle tactics'
+Sk 75 'wear leather'
+Sk 88 'fast healing'
+Sk 100 'haggle'
+Sk 80 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 56 'peek'
+Sk 75 'pick lock'
+Sk 99 'sneak'
+Sk 50 'recall'
+Sk 88 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 81 'tumble'
+Sk 41 'scout'
+Sk 82 'second backstab'
+Sk 75 'taunt'
+Sk 77 'eavesdrop'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+Affc 'sneak'   0  53  37   0   0      32768
+Affc 'detect hidden'   0  55  52   0   0         32
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1584
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1584
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1584
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 10975
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 10975
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 5722
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'mooncloak'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 252 0 0 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 207
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 168
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 1
+Cond 98
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 154
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 94
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 96
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 850
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16365
+Nest 0
+Cond 98
+Wear 11
+Cost 400
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 91
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 91
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 3805
+Nest 0
+Cond 86
+Wear 24
+Cost 500
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 95
+Wear 20
+Cost 7400
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#END

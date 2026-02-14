@@ -1,0 +1,360 @@
+#AREADATA
+Name Tournament Arena~
+Builders Paladine~
+Continent None~
+Controlby 0~
+Faction 0~
+Sector 3
+VNUMs 15000 15010
+Credits Paladine~
+Security 9
+End
+
+
+
+#MOBILES
+#15000
+giant man guardian arena~
+the guardian of the arena~
+This giant man is the guardian of the arena and he is making sure noone fights here.
+~
+This human is giant.  He has dark colored skin and his big and well
+define muscles make him look invincible.  He doesn't have much hair, just
+some on the top of the head, tied with some sort of a blue cord.  He wears
+no armor, or clothing on the upper side revealing his many scars, some
+obviously of battles, others a bit strange to say for sure that were made in
+battle.  He has a bluish tattoo on the inside of both forearms, a strange
+symbol.  Obviously be hard for anyone else to wield even in two hands.  He
+wields only one weapon.  He has no shield or any other kind of armor.  His
+weapon is a huge falchion that would obviously be hard for anyone else to
+wield even in two hands, but surprisingly he wields it in one hand only.  
+~
+human~
+A DFHJNOTVa 1000 0
+200 200 300d66+15000 200d10+85 60d15+200 punch
+-86 -86 -86 -44
+AEFHIJKN E CDFMP 0
+stand stand male 70000
+AHMV ABCDEFGHIJK G unknown 0
+#15001
+cleric human healer~
+a human cleric~
+This cleric bears a medallion with a byson's horn and a sword.
+~
+This cleric looks very simple.  He wears just a white robe with two
+vertical light blue stripes on each side of his robes from top to bottom and
+a medalion.  His eyes show kindness and his pale skin reveals that he must
+be in this place for a long time now.  He smiles warmly and offers healing
+to anyone that looks in need.  
+~
+human~
+AQa DF 1000 0
+250 250 375d83+11376 250d10+85 71d3+88 none
+-109 -109 -109 -57
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#15000
+marble fountain~
+a white marble fountain~
+This white marble fountain with a minotaur statue pours a cristaline and fresh looking {Cwater{x.~
+stone~
+fountain OY 0 P
+-1 -1 'water' 0 0
+101 2000 0 P
+#15001
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+123 0 0 P
+#15002
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#15003
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#15004
+board Tournament rules~
+the Tournament board~
+This board has the {MTournament rules{x written on it!~
+wood~
+map 0 0 P
+0 0 0 0 0
+123 0 0 P
+E
+board~
+- Any equipment droped by a player cannot be sacrificed or stolen by other player.
+- The combats will occur in a small arena, not just one room.
+- You can flee and move inside that arena, but you cannot leave the arena by any means or you will lose the combat.
+- You can use potions/scrolls/wands/staffs as long as they are not made by any player.
+(unless they are made inside the arena, during combat!)
+- You can only be affected by your OWN buffing spells/skills.
+- The combat will not end untill one of the players has died or been subdued. A player can also quit the combat.
+- You can use ANY skill you have (just to clarify).
+~
+#15005
+unused~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#15000
+A great Hall~
+The floor here is made of polished granite, typical of royal houses and
+keeps.  To the east a huge door captivates anyone's atention.  It seems to
+be made of metal.  In it some high reliefs of a great battle can be seen. 
+In this battle lots of warriors, most human fighting alongside of a huge
+minotaur against a demonic force.  The wall where the great door is at, is
+even higher, as everything around that is huge, it seems it was made in a
+giant scale.  This wall blocks the way all around except to the west and it
+is so high that no ceiling or it's end can be seen.  To the west nothing is
+visible.  Just darkness, but strangely it doesn't seem evil or cold, just
+darkness.  
+~
+0 32772 11
+M 0 H 0
+S
+#15001
+Into the Forest~
+The surrounding area is shrouded by trees and vegetation of all kinds. 
+The trees are high and covered with so many leaves that the sun hardly
+penetrates, yet there is enough light to see the surroundings.  No animals
+seem to inhabit this part of the forest.  The ground here is covered with
+leaves and large tree roots.  The air seems peacefull and disturbingly
+quiet.  
+~
+0 0 3
+D1
+~
+~
+0 0 15006
+D2
+~
+~
+0 0 15002
+S
+#15002
+Inside the Forest~
+Grass covers the ground and some flowers here and there give some color
+to the landscape.  No animals or insects can be seen here and everything is
+silent, except for the sound of the steps of anyone that might pass here. 
+There are some trees and although they are not very high, the shade they
+provide seems to be a tempting resting place.  
+~
+0 0 3
+D0
+~
+~
+0 0 15001
+D1
+~
+~
+0 0 15005
+D2
+~
+~
+0 0 15003
+S
+#15003
+Near the edge of a cliff~
+The ground here has little or no vegetation and the only trees that can
+be seen are the ones to the north.  The rocks and dirt cover the ground
+here.  To the south the mountains can be seen in the far, yet a huge cliff
+stands in the way of anyone trying to get there.
+~
+0 0 5
+D0
+~
+~
+0 0 15002
+D1
+~
+~
+0 0 15004
+S
+#15004
+Near the edge of a cliff~
+To the north a forest can be seen, yet no path leads to it.  The ground
+it.  The ground is filled with small rocks and no trace of anyone that had
+passed by, exists.  To the south there is a huge cliff, while in good
+weather the mountains can be seen distant in that direction.  To the east
+the ground rises to a small plateau.  
+~
+0 0 3
+D0
+~
+~
+0 0 15005
+D1
+~
+~
+0 0 15009
+D3
+~
+~
+0 0 15003
+S
+#15005
+In the edge of the forest~
+The plains here end almost abruptly as the big trees fill the area. 
+Seems strange that a forest would have such well defined borders, and not a
+single tree stands outside them.  There is no vegetation here, except the
+one inside the forest, and it is so thick that looking into the forest
+reveals hardly anything.  
+~
+0 0 3
+D0
+~
+~
+0 0 15006
+D1
+~
+~
+0 0 15008
+D2
+~
+~
+0 0 15004
+D3
+~
+~
+0 0 15002
+S
+#15006
+Inside the Forest~
+The forest here is very dense.  It has so many trees that you can't see
+more than 40 feet away.  The trees are very large and tall and their trunk
+is in part covered with some green fluorescent moss.  Everything is so quiet
+that anyone entering this forest would only hear their own steps, even if
+light, and breath.  The ground to the east is higher and seems to lead to a
+plateau.  
+~
+0 0 3
+D1
+~
+~
+0 0 15007
+D2
+~
+~
+0 0 15005
+D3
+~
+~
+0 0 15001
+S
+#15007
+Near a Plateau~
+The large path that leads here from the west raises until it is at the
+height of the plateau.  Here there is hardly any vegetation, but some big
+rocks, that seem to have been droped here recently, cover most of this area.
+To the west a strange looking forest can be seen.  South of here a small
+plateau seems to have no vegetation and just some rocks scatered about.  
+~
+0 0 10
+D2
+~
+~
+0 0 15008
+D3
+~
+~
+0 0 15006
+S
+#15008
+On a Plateau~
+Here the vegetation had no time at all to grow up.  The big and small
+rocks scatered about seem to have just been placed, or trown, here.  This
+area is much like a desert, except there is no sand, just dirt and rocks. 
+To the west a huge forest can be seen.  It's strange and perfectly limited
+border resembles a painting, but not of a forest, something designed and not
+grown.  This plateau continues to the south.  
+~
+0 0 10
+D0
+~
+~
+0 0 15007
+D2
+~
+~
+0 0 15009
+D3
+~
+~
+0 0 15005
+S
+#15009
+On a Plateau~
+Here is the highest ground someone could stand on.  The small elevation
+that leads here from the north is rocky and made of dirt.  There is no
+vegetation anywhere, except for the forest that can be seen to the west. 
+Strange and almost whispering some uninteligible words noone could
+understand except those that live inside it.  To the south, far away there
+are mountains, but a very high cliff is in the way, just here.  
+~
+0 0 10
+D0
+~
+~
+0 0 15008
+D3
+~
+~
+0 0 15004
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 15004 0 15000
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

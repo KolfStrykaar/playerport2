@@ -1,0 +1,814 @@
+#PLAYER
+Name Agro~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1380750387
+LogO 1383698023
+Vers 10
+Act  CDGHQTe
+Desc Here stands a very large ogre. A cloak made of animal skin covers his
+torso and he wears several artifacts made of bone. He roars and you get
+the felling it is time to go away, he does not seem the most friendly
+character and the club that he waves in his hand shows you that.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e %B %a{r>{x ~
+Race ogre~
+Sex  1
+Cla  3
+Hmtown 0
+Levl 54
+recall_point 3001
+Levscale 30
+Xptolev  9234
+Sec  0
+Plyd 202997
+Not  1380960976 0 0 0 0
+Scro 22
+Room 17841
+HMV  1491 1491 313 313 430 430
+Steel 2788
+Gold 45020
+Bank 0
+Exp  648116
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2490368
+Comm NO
+Pos  8
+Prac 293
+Trai 7
+Save  -3
+Alig  1000
+Ethos 0
+Hit   22
+Dam   31
+ACs -20 -19 -30 18
+Wimp  200
+Attr 19 10 20 11 24 10
+AMod 2 11 10 12 12 0
+Pass Agt6pKYTP4Y1o~
+Titl  the Dragon Slayer~
+Pretit ~
+Pnts 6
+TSex 1
+LLev 54
+HMVP 1226 233 430
+Cnd  0 38 14 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 36 'frenzy'
+Sk 92 'axe'
+Sk 69 'dagger'
+Sk 5 'flail'
+Sk 98 'mace'
+Sk 1 'polearm'
+Sk 3 'shield block'
+Sk 99 'spear'
+Sk 45 'sword'
+Sk 50 'whip'
+Sk 100 'bash'
+Sk 1 'berserk'
+Sk 3 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 100 'kick'
+Sk 2 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 97 'lunge'
+Sk 1 'dual wield'
+Sk 90 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'ogre tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 23 'breakneck'
+Sk 99 'guard'
+Sk 26 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'windspirit'   0  50  41   3   2          0
+Affc 'stonespirit'   0  50  41   3   5          0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 97
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 16364
+Nest 0
+Cond 100
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 919
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3066
+Nest 1
+Cond 90
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3066
+Nest 1
+Cond 90
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3066
+Nest 1
+Cond 90
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3810
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3810
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3708
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 914
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 74
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3771
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 9852
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9852
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 9826
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 9831
+Nest 0
+Cond 100
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 156 0 0 0
+End
+
+#O
+Vnum 5779
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 5779
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 97
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 17731
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 5758
+Nest 0
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'change sex'
+Spell 2 'deafness'
+Spell 3 'curse'
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  56 5 0 0 0
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 100
+Wear -1
+Cost 9000
+Val  1 4 22 33 12
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 97
+Wear 20
+Cost 10000
+Val  3 10 10 28 72
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 99
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1383698023
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Agro'.
+~
+Sex  1
+HMV  115 115 137 137 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

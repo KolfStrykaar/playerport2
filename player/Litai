@@ -1,0 +1,1082 @@
+#PLAYER
+Name Litai~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1381972817
+LogO 1422395322
+Vers 10
+Act  CDGQTe
+Desc Shoulder length ginger colored hair grazes where her collarbones would
+be.  Light green eyes have a piercing stare, from behind a pair of glasses. 
+Her face is set into a relaxed, but emotionless state.  A dark blue dress
+that completely covers her feet, can be seen from under a dark grey cloak,
+that clasps at her neck and flows down either side of her.  A bracelet and
+ring adorn her left hand, while on top of her right forearm there is a nasty
+scar that doesn't appear to have healed fast or correctly.  
+~
+Prom {B%hh %mm %vv {R%Xx {w%gs {y%sg{x%c~
+Race human~
+Devotee 17
+Sex  2
+Cla  1
+Hmtown 0
+Levl 71
+recall_point 3001
+Levscale 30
+Xptolev  7080
+Sec  0
+Plyd 1285632
+Not  1420281656 1395959842 0 1394923999 1382124040
+Scro 33
+Room 14356
+HMV  1375 1375 1115 1115 596 596
+Steel 4162
+Gold 9
+Bank 300
+Exp  2217070
+AfBy H
+Deaths 12
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm MNO
+Pos  8
+Prac 10
+Save  24
+Alig  -1000
+Ethos 2
+Hit   17
+Dam   29
+ACs -163 -168 -174 -118
+Wimp  210
+Attr 26 32 24 25 30 13
+AMod 10 7 18 6 8 0
+Pass Li0xUXHKcdPC6~
+Titl  the Chosen~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 310
+HMVP 1050 880 546
+Cnd  0 61 61 0
+QuestPnts 343
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 82 'energy drain'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'orb of containment'
+Sk 100 'harm'
+Sk 100 'heal'
+Sk 100 'life transfer'
+Sk 85 'holy word'
+Sk 100 'know alignment'
+Sk 98 'mass healing'
+Sk 100 'aid'
+Sk 90 'plague'
+Sk 100 'protection evil'
+Sk 44 'ray of truth'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 100 'teleport'
+Sk 99 'word of recall'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 34 'dodge'
+Sk 100 'enhanced damage'
+Sk 68 'hand to hand'
+Sk 24 'parry'
+Sk 85 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 70 'traject'
+Sk 100 'mount'
+Sk 96 'remove paralysis'
+Sk 90 'undetectable align'
+Sk 100 'repulsion'
+Sk 1 'firestorm'
+Sk 71 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 100 'pillify'
+Sk 100 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 60 'fast healing'
+Sk 100 'common'
+Sk 100 'meditation'
+Sk 82 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 50 'recall'
+Sk 100 'sate'
+Sk 100 'invigorate'
+Sk 100 'purify'
+Sk 1 'taunt'
+Sk 100 'god fire'
+Sk 100 'wrath'
+Sk 98 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 19 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 94 'black cairn'
+Sk 99 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'sanctuary'   0  70   6   0   0        128
+End
+
+#O
+Vnum 1264
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 9585
+Nest 0
+Cond 98
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 5762
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 278
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 11256
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 3 'burning hands'
+End
+
+#O
+Vnum 11256
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 3 'burning hands'
+End
+
+#O
+Vnum 11256
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 3 'burning hands'
+End
+
+#O
+Vnum 11256
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 3 'burning hands'
+End
+
+#O
+Vnum 11256
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 3 'burning hands'
+End
+
+#O
+Vnum 9510
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'cause light'
+End
+
+#O
+Vnum 2474
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 16366
+Nest 1
+Cond 98
+Wear -1
+Cost 1395
+End
+
+#O
+Vnum 10785
+Nest 1
+Cond 100
+Wear -1
+Cost 20000
+End
+
+#O
+Vnum 17711
+Nest 1
+Cond 92
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 16306
+Nest 1
+Name scaled replica white moon~
+ShD  a scaled replica of the {WWhite Moon{x~
+Desc A perfect 1:1738140000 scale replica of the white moon, with all the craters, valleys and mountains in the exact place, is here~
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1624
+Nest 1
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 56
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 16176
+Nest 1
+Cond 84
+Wear -1
+Cost 1380
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll heal~
+ShD  a scroll of heal~
+Cond 100
+Wear -1
+Lev  46
+Cost 0
+Val  23 -1 59 0 0
+Spell 2 'heal'
+End
+
+#O
+Vnum 9831
+Nest 1
+Cond 81
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 1971
+Nest 0
+ExtF 16779794
+Cond 97
+Wear 20
+Cost 46000
+Val  4 8 18 8 70
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262144
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 17730
+Nest 0
+Cond 100
+Wear 11
+Cost 750
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 2972
+Nest 0
+ExtF 262144
+Cond 100
+Wear 13
+Cost 500
+End
+
+#O
+Vnum 2954
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 500
+End
+
+#O
+Vnum 2983
+Nest 0
+ExtF 262144
+Cond 100
+Wear 15
+Cost 1000
+End
+
+#O
+Vnum 16251
+Nest 0
+Cond 100
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 10619
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 15609
+Name solamnic warhorse~
+LogO 1422395322
+Desc This fine horse has been bred and trained by the finest Solamnic
+breeders.  His main duty is to carry knights into the midst of battle and
+stand firm as his master engages in combat.  He has a chestnut pelt and is
+lightly armored.  
+A neck tag says 'I belong to Litai'.
+~
+Sex  1
+HMV  492 492 224 224 100 100
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -70 -70 -70 -10
+Attr 24 23 23 25 23 23
+AMod 0 0 0 0 0 0
+End
+#END

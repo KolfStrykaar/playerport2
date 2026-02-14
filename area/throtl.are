@@ -1,0 +1,2046 @@
+#AREADATA
+Name Throtl~
+Builders Nuitari~
+Continent None~
+Sector 1
+VNUMs 1500 1599
+Credits Nuitari~
+Security 1
+End
+
+
+
+#MOBILES
+#1500
+large goblin warrior~
+a lager goblin warrior~
+A large goblin warior stands here.
+~
+A large male goblin stands here weapon in hand.  He has scars spread over
+his body.  The warrior seems a bit on edge.  He watches everything around
+him with a wary eye but looks at nothing for more than a few seconds.  
+~
+goblin~
+AGT J -400 0
+36 36 54d12+328 36d10+85 10d3+17 none
+-7 -7 -7 0
+0 0 Q C
+stand stand male 360
+AHMV ABCDEFGHIJK M unknown 0
+#1501
+scout goblin~
+a goblin scout~
+A goblin scout stands here watching everything with sharp eyes.
+~
+A small goblin is here watching all that happens around him.  From the
+way his eye dart around he doesn't miss a thing.  
+~
+goblin~
+AGT J -450 0
+30 30 45d10+274 30d10+85 8d3+15 none
+-4 -4 -4 1
+0 0 Q C
+stand stand male 300
+AHMV ABCDEFGHIJK M unknown 0
+#1502
+goblin baby boy~
+a baby boy goblin~
+A small baby boy goblin crawls around on the ground.
+~
+A small baby goblin crawls all around.  He is very energetic and seems
+rather happy.  Even though he is very young he still retains the smell of
+his race.  
+~
+goblin~
+AG J -200 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 Q C
+stand stand male 50
+AHMV ABCDEFGHIJK M unknown 0
+#1503
+goblin baby girl~
+a baby girl goblin~
+A baby girl goblin sits here crying.
+~
+A small baby girl goblin sits on the ground crying and screaming.  Her
+screams are so high pitched that glass can be heard breaking.  Like most of
+her race she is rather filthy and smelly.  Her tearstained face makes her
+seem even more ugly then usual.  
+~
+goblin~
+AG J -200 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 Q C
+sit sit female 50
+AHMV ABCDEFGHIJK M unknown 0
+#1504
+female goblin~
+a female goblin~
+An ugly female goblin stands here talking to herself.
+~
+A rather ugly female goblin is standing here babbling to herself in her
+language.  Her smell is worst then most of the other goblins.  She is a bit
+incoherent.  
+~
+goblin~
+AG J -450 0
+15 15 23d5+137 15d10+85 4d3+10 none
+2 2 2 5
+0 0 Q C
+stand stand female 150
+AHMV ABCDEFGHIJK M unknown 0
+#1505
+small boy goblin~
+a small boy goblin~
+A little boy goblin runs around pretending to be a warrior.
+~
+A small goblin runs around yelling and swinging an imaginary sword.  Like
+most goblins he has the dreams of growing up to be a great warrior to slay
+the humans.  
+~
+goblin~
+ACG J -300 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 Q C
+stand stand male 100
+AHMV ABCDEFGHIJK M unknown 0
+#1506
+little girl goblin~
+a little girl goblin~
+A small girl goblin is here clutching her doll.
+~
+She is little more then a child.  She stands there holding her doll and
+sucking her thumb.  She is dressed in filthy cloths and smells awful.  
+~
+goblin~
+ACG J -300 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 Q C
+stand stand female 100
+AHMV ABCDEFGHIJK M unknown 0
+#1507
+male teenage goblin~
+a teen goblin boy~
+A teen boy goblin is here working out.
+~
+The goblin boy teen is well built and muscular.  His face is covered in
+acne and he smells as if he has never taken a bath in his life.  He is
+training his body to be a great goblin warrior.  
+~
+goblin~
+AGT J -450 0
+25 25 38d8+228 25d10+85 7d3+13 none
+-2 -2 -2 3
+0 0 Q C
+stand stand male 250
+AHMV ABCDEFGHIJK M unknown 0
+#1508
+goblin girl teen~
+a teenage goblin girl~
+A short female goblin teen walks around trying to get the males to notice her.
+~
+The small goblin girl is rather short for her race and smells of rot and
+filth.  She is wearing filthy garments that seem not to have been washed in
+years.  She walks around trying to get every males attention, an average
+female.  
+~
+goblin~
+AG J -300 0
+12 12 18d4+110 12d10+85 3d4+9 none
+3 3 3 6
+0 0 Q C
+stand stand female 120
+AHMV ABCDEFGHIJK M unknown 0
+#1509
+goblin warrior training~
+a goblin warrior in training~
+A goblin swings his sword in practice.
+~
+The goblin male is well built for his race.  He swings his sword with
+little experience.  From his stance and focus it is obvious he has gotten
+some training in battle though.  
+~
+goblin~
+AGT J -450 0
+27 27 41d9+246 27d10+85 7d3+14 none
+-3 -3 -3 2
+0 0 Q C
+stand stand male 270
+AHMV ABCDEFGHIJK M unknown 0
+#1510
+goblin trainer~
+a goblin trainer~
+A brutish goblin stands here yelling at everyone.
+~
+This goblin is very large and muscular for his race.  He has scars that
+cover most of his body and a long one that has taken the use of his right
+eye.  He is yelling at everyone in his gibberish language.  
+~
+goblin~
+AGT J -450 0
+29 29 44d9+264 29d10+85 8d3+14 none
+-4 -4 -4 2
+0 0 Q C
+stand stand male 290
+AHMV ABCDEFGHIJK M unknown 0
+#1511
+goblin mystic~
+a goblin mystic~
+A female goblin walks around muttering in the language of magic.
+~
+The female goblin is rather thin and a bit pale.  She has her races
+disgusting smell but it is intermingled with the sent of dried rose petals
+and other spell components.  She is muttering in the strange language known
+only to those of the magi.  
+~
+goblin~
+AGR J -450 0
+26 26 39d8+237 26d10+85 7d3+13 none
+-2 -2 -2 2
+0 0 Q C
+stand stand female 260
+AHMV ABCDEFGHIJK M unknown 0
+#1512
+goblin thief~
+a goblin thief~
+A goblin gives a slight grin from within the shadows.
+~
+The goblin is a bit thin but looks strong enough to put up a decent
+fight.  He looks almost at home in the shadows and rarely leaves them.  In
+his grin it is noticeable that he is missing a few of his teeth.  The
+thief's eyes flash around the room with skill and knowledge.  
+~
+goblin~
+AGS J -450 0
+40 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 Q C
+stand stand male 400
+AHMV ABCDEFGHIJK M unknown 0
+#1513
+female goblin assassin~
+a goblin assassin~
+A small goblin woman stands here looking around craftily.
+~
+The small goblin moves with sharp sudden moves.  Her muscles are rather
+well developed for a female goblin of her size.  A gleam in her eyes lets it
+be known that there is a very wicked soul in her body.  
+~
+goblin~
+AGS J -450 0
+45 45 68d15+410 45d10+85 12d3+20 none
+-12 -12 -12 -2
+0 0 Q C
+stand stand female 450
+AHMV ABCDEFGHIJK M unknown 0
+#1514
+goblin thief captain~
+a goblin thief captain~
+A tall thin goblin stands here watching from the shadows.
+~
+He is extremely tall and thin but somewhat muscular.  His eyes gleam with
+vibrant life and his smile is so wicked and twisted that it sends shivers
+down the spines of those that glimpse it before meeting death at his hands. 
+~
+goblin~
+AGS J -450 0
+45 45 68d15+410 45d10+85 12d3+20 none
+-12 -12 -12 -2
+0 0 Q C
+stand stand male 450
+AHMV ABCDEFGHIJK M unknown 0
+#1515
+goblin warrior champion~
+a goblin champion~
+A large well built goblin polishes his metals with a wide grin.
+~
+This goblin is very well built.  His scars cover a lot of his body and he
+has a few missing fingers.  Around his neck are various medals for wars he
+has fought in and the enemies he has killed.  They are obviously his pride
+and joy because he polishes them continuously.  
+~
+goblin~
+AGT J -450 0
+40 40 60d13+365 40d10+85 11d3+18 none
+-9 -9 -9 -1
+0 0 Q C
+stand stand male 400
+AHMV ABCDEFGHIJK M unknown 0
+#1516
+goblin council member~
+a council member~
+A older goblin man stands here muttering under his breath.
+~
+The goblin is old and very wrinkly and his stench is so horrid it is
+nearly unbearable.  What little is left of his teeth are black and rotting. 
+From the old scars that litter his flesh he was at on time a warrior, but
+now he is far to old and weak to wield a sword and do battles.  
+~
+goblin~
+AG J -450 0
+29 29 44d9+264 29d10+85 8d3+14 none
+-4 -4 -4 2
+0 0 Q C
+stand stand male 290
+AHMV ABCDEFGHIJK M unknown 0
+#1517
+old goblin woman~
+an old goblin woman~
+A very old goblin woman walks around talking to people who are not there.
+~
+The goblin woman is extremely old and has an absolutely rancid smell to
+her.  She is talking to various inanimate objects and seems to be genuinely
+insane.  She is filthy and her teeth have all rotted away.  
+~
+goblin~
+AG J -450 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 Q C
+stand stand female 100
+AHMV ABCDEFGHIJK M unknown 0
+#1518
+goblin slave master~
+a goblin slave master~
+A large goblin walks around making sure the slaves stay in line.
+~
+This goblin is very large and rather muscular.  He carries his staff with
+the ease and comfort of one who has been well trained in its uses in combat.
+His eyes are filled with hate and his mouth is twisted in an evil sneer.  
+~
+goblin~
+ABGT J -450 0
+26 26 39d8+237 26d10+85 7d3+13 none
+-2 -2 -2 2
+0 0 Q C
+stand stand male 260
+AHMV ABCDEFGHIJK M unknown 0
+#1519
+goblin torturer~
+a goblin torturer~
+A well muscled goblin is here torturing the slaves.
+~
+This goblin's muscles are huge.  His eyes flash with excitement as he
+slowly tortures one of his slaves.  He seems to be in his own little world
+hearing nothing but his victim's screams and pleas for him to stop.  There
+is blood all over his body.  
+~
+goblin~
+ABGT J -450 0
+32 32 48d10+292 32d10+85 9d3+15 none
+-5 -5 -5 1
+0 0 Q C
+stand stand male 320
+AHMV ABCDEFGHIJK M unknown 0
+#1525
+hobgoblin warrior~
+a hobgoblin warrior~
+A hobgoblin warrior walks around with his weapon in hand.
+~
+The hobgoblin is well muscled and carries his weapon with skill.  He has
+a few scars on his smelly.  His eyes are cold and stare off into
+nothingness.  
+~
+hobgoblin~
+AGT J -450 0
+36 36 54d12+328 36d10+85 10d3+17 none
+-7 -7 -7 0
+0 0 LQ 0
+stand stand male 360
+AHMV ABCDEFGHIJKY M unknown 0
+#1526
+goblin priestess~
+a hobgoblin priestess~
+A priestess of the hobgoblins is here.
+~
+The hobgoblin is thin and tall.  She not to dirty, amazing for those of
+her race.  Her neck dons a large metal of her god hanging from a long thick
+leather cord.  
+~
+hobgoblin~
+AGQ J -800 0
+24 24 36d8+219 24d10+85 6d4+13 none
+-1 -1 -1 3
+0 0 LQ 0
+stand stand female 240
+AHMV ABCDEFGHIJKY M unknown 0
+#1527
+male child hobgoblin~
+a boy hobgoblin child~
+A small boy hobgoblin runs around pretending to be a warrior.
+~
+A small hobgoblin male runs around waving an imaginary sword around in
+the air.  He yells war cries and does the same thrust and parry move over
+and over to his unseen enemy.  
+~
+hobgoblin~
+AG J -300 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 LQ 0
+stand stand male 100
+AHMV ABCDEFGHIJKY M unknown 0
+#1528
+hobgoblin girl child~
+a little hobgoblin girl~
+A small child stands here playing.
+~
+She is rather small, nothing more then a child.  Her clothes are tattered
+and worn and she reeks of her races normal stench.  
+~
+hobgoblin~
+AG J -300 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 LQ 0
+stand stand female 100
+AHMV ABCDEFGHIJKY M unknown 0
+#1529
+baby boy hobgoblin~
+a baby boy hobgoblin~
+A tiny baby boy hobgoblin crawls along the ground.
+~
+As the little baby crawls around the area he falls flat on his stomach
+from time to time.  He still must be learning to crawl around.  He makes
+noises and squeals as he drools everywhere he goes.  
+~
+hobgoblin~
+AG J -250 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 LQ 0
+stand stand male 50
+AHMV ABCDEFGHIJKY M unknown 0
+#1530
+baby girl hoggoblin~
+a baby girl hobgoblin~
+A baby girl hobgoblin crawls along the ground.
+~
+As the little baby crawls around on the ground, she falls flat on her
+stomach from time to time.  She still must be learning to crawl around.  She
+makes noises and squeals as she drools everywhere she goes.  
+~
+hobgoblin~
+AG J -250 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 LQ 0
+stand stand female 50
+AHMV ABCDEFGHIJKY M unknown 0
+#1531
+hobgoblin battle leader~
+a hobgoblin battle leader~
+The battle leader of the hobgoblins watches over the town.
+~
+The battle leader is huge.  His muscles are much large then any of the
+other hobgoblins.  He walks with a slight limp from a battle wound on his
+left leg.  His face is scared by many small scars and one large one that
+starts at his left brow and ends on his ear which is only half there.  
+~
+hobgoblin~
+AGT J -600 0
+41 41 62d13+374 41d10+85 11d3+18 none
+-10 -10 -10 -1
+0 0 LQ 0
+stand stand male 410
+AHMV ABCDEFGHIJKY M unknown 0
+#1532
+hobgoblin warrior training~
+a hobgoblin warrior in training~
+A hobgoblin stands here going through combat drills.
+~
+A large male hobgoblin swings his weapon in practiced motions while
+training for combat.  His body has no scars on it letting all know he has
+not been a warrior long.  The smell of sweat and hobgoblin stench is almost
+enough to kill those that pass by him.  
+~
+hobgoblin~
+AGT J -450 0
+27 27 41d9+246 27d10+85 7d3+14 none
+-3 -3 -3 2
+0 0 LQ 0
+stand stand male 270
+AHMV ABCDEFGHIJKY M unknown 0
+#1533
+small female hobgoblin~
+a small female hobgoblin~
+A small female hobgoblin stands here.
+~
+This hobgoblin is far to short and thin.  She looks to be malnourished
+and extremely weak.  Her black eyes have no look of feeling or compassion in
+them.  
+~
+hobgoblin~
+AG J -450 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 LQ 0
+stand stand female 100
+AHMV ABCDEFGHIJKY M unknown 0
+#1534
+hobgoblin shaman~
+a hobgoblin shaman~
+A tall thin hobgoblin walks around chanting.
+~
+The hobgoblins clothes barely fit his thin and extremely tall body.  His
+large round eyes stare off into nothingness as he chants in the language of
+magic.  Large scars on his palms, wrists, and arms are from the blood needed
+by shamans as a spell component.  
+~
+hobgoblin~
+AGR J -800 0
+30 30 45d10+274 30d10+85 8d3+15 none
+-4 -4 -4 1
+0 0 LQ 0
+stand stand male 300
+AHMV ABCDEFGHIJKY M unknown 0
+#1535
+hobgoblin slaver~
+a hobgoblin slaver~
+A hobgoblin slaver watches over the slaves
+~
+He holds his staff with the ease of training.  His eyes gleam in hatred
+of the slaves and a slight smile crosses his face as on one of the slave
+misbehaves.  
+~
+hobgoblin~
+ABGT J -550 0
+28 28 42d9+255 28d10+85 8d3+14 none
+-3 -3 -3 2
+0 0 LQ 0
+stand stand male 280
+AHMV ABCDEFGHIJKY M unknown 0
+#1536
+insane hobgoblin~
+an insane hobgoblin~
+A crazed hobgoblin stands here.
+~
+The tall hobgoblins eyes stare at someone or something that is not there
+as he talks to it.  Every now and then he starts laughing in a high-pitched
+squealing tone and plays at his empty dagger sheath on his belt.  
+~
+hobgoblin~
+AGT J -900 0
+29 29 44d9+264 29d10+85 8d3+14 none
+-4 -4 -4 2
+0 0 LQ 0
+stand stand male 290
+AHMV ABCDEFGHIJKY M unknown 0
+#1537
+hobgoblin war hero~
+a hobgoblin war hero~
+A large hobgoblin stands here playing with the medals on his chest.
+~
+He is cover in scars from head to toe and is wearing rather fine garments
+for a hobgoblin.  He is missing his right pointer finger and two toes on his
+left foot.  His chest is covered with dull and tarnished medals of honor and
+valor.  He smiles proudly as he plays with his medals showing off his many
+missing teeth.  
+~
+hobgoblin~
+AGT J -850 0
+42 42 63d14+383 42d10+85 12d3+19 none
+-10 -10 -10 -1
+0 0 LQ 0
+stand stand male 420
+AHMV ABCDEFGHIJKY M unknown 0
+#1538
+hobgoblin wizard training~
+a hobgoblin wizard in training~
+A thin hobgoblin stands here fumbling with his spell component pouch.
+~
+The hobgoblin is rather small and quite thin.  He is dressed in a gown
+that is riddled with holes and covered in dirt.  His belt has many small
+pouches on it that are only about half full.  His doesn't have the look or
+age of an experienced wizard so he must still be in training.  
+~
+hobgoblin~
+AGR J -500 0
+24 24 36d8+219 24d10+85 6d4+13 none
+-1 -1 -1 3
+0 0 LQ 0
+stand stand male 240
+AHMV ABCDEFGHIJKY M unknown 0
+#1539
+hobgoblin wizard~
+a hobgoblin wizard~
+An old hobgoblin wizard watches all with knowing eyes.
+~
+He is rather old and needs the aid of a crude wooden cane to walk.  His
+body is surrounded in a globe of magic that shimmers with magical power. 
+His eyes are filled with knowledge of the world.  
+~
+hobgoblin~
+AGR J -580 0
+45 45 68d15+410 45d10+85 12d3+20 none
+-12 -12 -12 -2
+0 0 LQ 0
+stand stand male 450
+AHMV ABCDEFGHIJKY M unknown 0
+#1540
+hobgoblin guard~
+a hobgoblin guard~
+A hobgoblin guard of Throtl stands here.
+~
+The guard watches all that pass with suspicion.  He doesn't look like
+he's seen any real battles and holds his weapon with the clumsiness of a
+supreme lack of training and experience.  
+~
+hobgoblin~
+AGT J -450 0
+28 28 42d9+255 28d10+85 8d3+14 none
+-3 -3 -3 2
+0 0 LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJKY M unknown 0
+#1541
+ogre slave guard~
+ogre slave guard~
+A large ogre slave guard cracks his whip on a slaves back.
+~
+His eyes flash wickedly as he strikes his whip across a slaves back.  His
+grin shows his black and rotten teeth.  His body is covered in tattoos and
+his hair is chopped off to a small stubble.  His left ear has been chopped
+off at it's base.  
+~
+ogre~
+AG 0 -600 0
+30 30 45d10+274 30d10+85 8d3+15 none
+-4 -4 -4 1
+0 0 HI K
+stand stand male 300
+AHMV ABCDEFGHIJK M unknown 0
+#1542
+male ogre~
+a male ogre~
+A large male ogre stands here.
+~
+He is a large brutish fellow with arms and legs as large as tree trunks. 
+His teeth are stained and a few of them are even missing.  It looks as if he
+has never trimmed his nails in his life for they look nearly claw like.  
+~
+ogre~
+AG 0 -550 0
+26 26 39d8+237 26d10+85 7d3+13 none
+-2 -2 -2 2
+0 0 HI K
+stand stand male 260
+AHMV ABCDEFGHIJK M unknown 0
+#1543
+ogre captain~
+an ogre captain~
+An ogre captain stands here performing drills.
+~
+His size alone is enough to scare most people on the battlefield.  He
+moves with the skill of years of training and experience.  His speed is so
+great that it is hard to keep track of his movements.  His many scars are
+the marks of grand battles.  
+~
+ogre~
+AGT 0 -550 0
+35 35 53d11+319 35d10+85 10d3+16 none
+-6 -6 -6 0
+0 0 HI K
+stand stand male 350
+AHMV ABCDEFGHIJK M unknown 0
+#1544
+ogre shaman~
+an ogre shaman~
+An ogre shaman chants in an unknown language.
+~
+His wide eyes are totally black.  He moves his mouth in a quite chant in
+an unknown language.  His pants are made of deer hid that has been crudely
+sewn together.  His vest is made of fur that is caked with mud and smells of
+rot.  His wrists are scared from shallow cuts that come from draining blood
+for the working spells.  
+~
+ogre~
+AGR 0 -550 0
+26 26 39d8+237 26d10+85 7d3+13 none
+-2 -2 -2 2
+0 0 HI K
+stand stand male 260
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1500
+.~
+~
+0 0 1
+D0
+~
+~
+0 0 1501
+S
+#1501
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1531
+D1
+~
+~
+0 0 1502
+D2
+~
+~
+0 0 1500
+D3
+~
+~
+0 0 1530
+S
+#1502
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1503
+D3
+~
+~
+0 0 1501
+S
+#1503
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1502
+S
+#1504
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1503
+S
+#1505
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1506
+D3
+~
+~
+0 0 1504
+S
+#1506
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1507
+D3
+~
+~
+0 0 1505
+D4
+~
+~
+0 0 1552
+S
+#1507
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1508
+D2
+~
+~
+0 0 1506
+S
+#1508
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1507
+S
+#1509
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1510
+D2
+~
+~
+0 0 1508
+S
+#1510
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1509
+S
+#1511
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1512
+D4
+~
+~
+0 0 1553
+S
+#1512
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1511
+D3
+~
+~
+0 0 1513
+S
+#1513
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1512
+D3
+~
+~
+0 0 1514
+S
+#1514
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1513
+D3
+~
+~
+0 0 1515
+S
+#1515
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1514
+D2
+~
+~
+0 0 1546
+D3
+~
+~
+0 0 1516
+S
+#1516
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1515
+D3
+~
+~
+0 0 1517
+S
+#1517
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1516
+D3
+~
+~
+0 0 1518
+S
+#1518
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1517
+D3
+~
+~
+0 0 1519
+S
+#1519
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1518
+D3
+~
+~
+0 0 1520
+S
+#1520
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1521
+S
+#1521
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1520
+D2
+~
+~
+0 0 1522
+D4
+~
+~
+0 0 1554
+S
+#1522
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 1523
+S
+#1523
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1522
+D2
+~
+~
+0 0 1524
+S
+#1524
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1523
+D2
+~
+~
+0 0 1525
+S
+#1525
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1524
+D2
+~
+~
+0 0 1526
+S
+#1526
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1525
+D1
+~
+~
+0 0 1527
+D4
+~
+~
+0 0 1555
+S
+#1527
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1528
+D3
+~
+~
+0 0 1526
+S
+#1528
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1529
+D3
+~
+~
+0 0 1527
+S
+#1529
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1530
+D3
+~
+~
+0 0 1528
+S
+#1530
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 1529
+S
+#1531
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1501
+S
+#1532
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1542
+D2
+~
+~
+0 0 1531
+D3
+~
+~
+0 0 1533
+S
+#1533
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1534
+D1
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1541
+S
+#1534
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1535
+S
+#1535
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1534
+D2
+~
+~
+0 0 1541
+D3
+~
+~
+0 0 1536
+S
+#1536
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1535
+D2
+~
+~
+0 0 1537
+S
+#1537
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1536
+D1
+~
+~
+0 0 1541
+D2
+~
+~
+0 0 1538
+S
+#1538
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1537
+D1
+~
+~
+0 0 1539
+S
+#1539
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1541
+D1
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1538
+S
+#1540
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1539
+S
+#1541
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1535
+D1
+~
+~
+0 0 1533
+D2
+~
+~
+0 0 1539
+D3
+~
+~
+0 0 1537
+S
+#1542
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1543
+D1
+~
+~
+0 0 1549
+D3
+~
+~
+0 0 1532
+S
+#1543
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1546
+D1
+~
+~
+0 0 1545
+D2
+~
+~
+0 0 1542
+D3
+~
+~
+0 0 1544
+S
+#1544
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1543
+S
+#1545
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1543
+S
+#1546
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1548
+D2
+~
+~
+0 0 1543
+D3
+~
+~
+0 0 1547
+S
+#1547
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1546
+S
+#1548
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1546
+S
+#1549
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1550
+D3
+~
+~
+0 0 1542
+S
+#1550
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1549
+D1
+~
+~
+0 0 1551
+S
+#1551
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1550
+D5
+~
+~
+0 0 1556
+S
+#1552
+~
+~
+0 0 1
+D5
+~
+~
+0 0 1506
+S
+#1553
+~
+~
+0 0 1
+D5
+~
+~
+0 0 1511
+S
+#1554
+~
+~
+0 0 1
+D5
+~
+~
+0 0 1521
+S
+#1555
+~
+~
+0 0 1
+D5
+~
+~
+0 0 1526
+S
+#1556
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1561
+D1
+~
+~
+0 0 1559
+D2
+~
+~
+0 0 1557
+D3
+~
+~
+0 0 1570
+D4
+~
+~
+0 0 1551
+S
+#1557
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1556
+D1
+~
+~
+0 0 1558
+S
+#1558
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1557
+S
+#1559
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1560
+D3
+~
+~
+0 0 1556
+S
+#1560
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1559
+S
+#1561
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1562
+D2
+~
+~
+0 0 1556
+S
+#1562
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1563
+D2
+~
+~
+0 0 1561
+S
+#1563
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1568
+D1
+~
+~
+0 0 1566
+D2
+~
+~
+0 0 1564
+D3
+~
+~
+0 0 1562
+S
+#1564
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1563
+D1
+~
+~
+0 0 1565
+S
+#1565
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1564
+S
+#1566
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1567
+D3
+~
+~
+0 0 1563
+S
+#1567
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1566
+S
+#1568
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1563
+D3
+~
+~
+0 0 1569
+S
+#1569
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1568
+S
+#1570
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1571
+D1
+~
+~
+0 0 1556
+S
+#1571
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1572
+D2
+~
+~
+0 0 1570
+S
+#1572
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1573
+S
+#1573
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1574
+D1
+~
+~
+0 0 1572
+D3
+~
+~
+0 0 1575
+S
+#1574
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1573
+S
+#1575
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1573
+D2
+~
+~
+0 0 1576
+S
+#1576
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1575
+D2
+~
+~
+0 0 1577
+S
+#1577
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1576
+D2
+~
+~
+0 0 1578
+D3
+~
+~
+0 0 1583
+S
+#1578
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1577
+D1
+~
+~
+0 0 1580
+D3
+~
+~
+0 0 1579
+S
+#1579
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1578
+S
+#1580
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1581
+D1
+~
+~
+0 0 1582
+D3
+~
+~
+0 0 1578
+S
+#1581
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1580
+S
+#1582
+~
+~
+0 0 1
+D3
+~
+~
+0 0 1580
+S
+#1583
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1584
+D1
+~
+~
+0 0 1577
+S
+#1584
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1585
+D2
+~
+~
+0 0 1583
+D3
+~
+~
+0 0 1588
+S
+#1585
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1586
+D2
+~
+~
+0 0 1584
+S
+#1586
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1585
+D3
+~
+~
+0 0 1587
+S
+#1587
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1586
+S
+#1588
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1589
+D1
+~
+~
+0 0 1584
+D2
+~
+~
+0 0 1593
+S
+#1589
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1588
+D3
+~
+~
+0 0 1590
+S
+#1590
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1591
+D1
+~
+~
+0 0 1589
+S
+#1591
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1590
+D3
+~
+~
+0 0 1592
+S
+#1592
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1591
+S
+#1593
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1588
+D2
+~
+~
+0 0 1594
+D3
+~
+~
+0 0 1596
+S
+#1594
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1593
+D3
+~
+~
+0 0 1595
+S
+#1595
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1594
+S
+#1596
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1597
+D1
+~
+~
+0 0 1593
+S
+#1597
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1596
+D3
+~
+~
+0 0 1598
+S
+#1598
+~
+~
+0 0 1
+D1
+~
+~
+0 0 1597
+D2
+~
+~
+0 0 1599
+S
+#1599
+~
+~
+0 0 1
+D0
+~
+~
+0 0 1598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

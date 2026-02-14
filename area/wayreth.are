@@ -1,0 +1,4198 @@
+#AREADATA
+Name Tower of Wayreth~
+Builders Silvaria Chislev~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 15164 15299
+Credits Chislev Zeboim~
+Security 9
+End
+
+
+
+#MOBILES
+#15186
+forest magic guardian~
+the magic of the Forest~
+The magic of Wayreth Forest surrounds you at every turn.
+~
+~
+none~
+ABU BDFJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand none 0
+CKL K M unknown 0
+M EXALL 15186 0~
+#15201
+Ivylissa red robe mage~
+Ivylissa~
+A {RRed-Robed{x mage stands here, at the service of those who have business with the Towermaster.
+~
+This young elven woman is clothed in elegant red robes.  Since completing
+her Test, she has been selected as one of the brightest of her class.  A
+girl of serious nature, she appears to be well into her young adulthood,
+though her elven heritage hides her true age.  She resides full-time within
+the Tower, and was selected from her class to serve as a personal assistant
+to the Towermaster or Towermistress of the Red.  
+~
+qualinesti~
+ABR DFNO 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+86 86 86 44
+FH ABCD B 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 2
+F aff J
+M SPEECH 15256 is the towermaster in?~
+M SPEECH 15257 balance in all things beneath the rays of lunitari.~
+M SPEECH 15258 akgjghwguibewgwgs~
+#15202
+vessik black robe mage~
+Vessik~
+A {DBlack-Robed{X mage stands here, at the service of those who have business with the Towermaster.
+~
+This young man is dressed in simple black robes.  Having completed his
+Testing, he has joined the ranks of the Tower's instructors.  A quiet,
+intense youth in his mid twenties, he resides full-time within the Tower and
+has been handpicked by Darkahn to serve as a personal assistant to the
+Towermaster or Towermistress of the Black Robes.  
+~
+human~
+ABR DFO -1000 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+86 86 86 44
+0 ABCD B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 2
+#15203
+unused~
+unused~
+Unused
+~
+~
+silvanesti~
+A DFHJT -1000 0
+1 1 2d2+10 1d10+85 1d2+5 wrath
+8 8 8 9
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#15204
+unused~
+unused~
+Unused
+~
+~
+unique~
+A DFHT -400 0
+1 1 3d2+11 1d10+85 1d2+5 none
+8 8 8 8
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF M unknown 0
+#15205
+red robed mage~
+a {RRed Robed{x Mage~
+A {RRed Robed{x mage stands here guarding the dungeon.
+~
+This middle aged woman has been entrusted with keeping watch over the
+dungeons.  Giving the key only to those with proper authorization, her
+allegiance to the Red Robes ensure her objectivity in dealing with the
+prisoners.  
+~
+human~
+ABNR DFV 0 0
+120 120 180d40+3277 120d10+85 34d3+45 magic
+-47 -47 -47 -22
+FN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 2
+M SPEECH 15205 i wish to see a prisoner~
+#15206
+white robed mage~
+a {WWhite Robed{x mage~
+A {WWhite Robed{x mage stands here, ready to welcome new applicants.
+~
+This venerable old man once served under Par-Salian himself and has since
+undertaken the responsibility of overseeing the Testing of new prospective
+wizards of High Sorcery.  Despite his frail-looking frame, his eyes are
+sharp and alert; there is no doubt this old man carries great power within. 
+~
+human~
+ABNR DFH 100 0
+120 120 180d40+3277 120d10+85 34d3+45 pound
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15207
+unused~
+unused~
+Unused
+~
+~
+human~
+AB DFHV 0 0
+1 1 2d2+10 1d10+85 1d2+5 magic
+8 8 8 9
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15208
+unused~
+unused~
+Unused
+~
+~
+human~
+ABR DFJZa 1000 0
+1 1 2d2+10 1d10+85 1d2+5 magic
+8 8 8 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15209
+unused~
+unused~
+Unused
+~
+~
+unique~
+A DF 0 0
+1 1 3d2+11 1d10+85 1d2+5 pound
+8 8 8 8
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEF M unknown 0
+#15210
+unused~
+unused~
+Unused
+~
+~
+unique~
+AB 0 0 0
+1 1 2d2+10 1d10+85 1d2+5 magic
+8 8 8 9
+G 0 0 0
+stand stand male 0
+AHMV ABCDEF M unknown 0
+#15211
+cleric mish healer~
+a cleric of Mishakal~
+A cleric of Mishakal is here, offering his services to those in need.
+~
+A kindly man in his early 40's, this former White Robe received a higher
+calling after nearly losing his entire family to plague.  Rather than
+abandon the Conclave entirely, he has chosen instead to remain with his
+brethren and put his abilities to use for the benefit of all who reside in
+the Tower.  
+~
+human~
+ABa DFHZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15212
+unused~
+unused~
+Unused
+~
+~
+elf~
+AB 0 0 0
+1 1 2d2+10 1d10+85 1d2+5 punch
+8 8 8 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F aff J
+F res B
+F vul Z
+#15218
+black robed mage~
+a {DBlack Robed{x mage~
+A {DBlack Robed{x mage stands here, keeping watch over the Dueling Chamber.
+~
+This thin-faced young man is clad in robes of deepest midnight.  Seeming
+to take great pleasure in the sounds of arcane battle emanating from the
+chamber behind him, he has been entrusted with the supervision of the
+chamber against unlawful use.  Also responsible for maintaining the wards
+that keep the magics within from escaping, he is careful to ensure that only
+two combatants enter at any given time.  
+~
+human~
+ABNR DFO -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 magic
+-47 -47 -47 -22
+FHN ABCDM 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 2
+#15223
+apprentice alchemist~
+an Apprentice Alchemist~
+A strung-out looking Apprentice is here, trying to sort inventory.
+~
+The Master Alchemist having gone on a research expedition, this young
+Apprentice has landed the unfortunate task of overseeing the laboratories in
+his master's absence.  The original color of his robes is no longer
+apparent; having been stained and spotted with all manner of chemicals and
+components.  Sighing wearily, he sorts through a number of scattered piles
+around his feet in an attempt to record inventory.  
+~
+human~
+ABR DF 0 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+FHIN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 2
+#15228
+antimodes mage shopkeeper~
+{wAntimodes{x~
+Archmage Antimodes stands here, ready to serve your outfitting needs.
+~
+Once a personal friend and confidant to Par-Salian, Antimodes is most
+famous for discovering and mentoring a young boy by the name of Raistlin
+Majere.  Now retired, Antimodes volunteers his time as an instructor,
+librarian and steward of basic supplies for the Tower.  Once a White Robe,
+he now dresses in a fashionable blue silk tunic and breeches.  
+~
+human~
+ABR DFJ 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 magic
+-47 -47 -47 -22
+FHKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 2
+#15229
+mage trainer instructor red robe~
+the Instructor~
+A {RRed Robed{x Instructor is here to assist you with your learning.
+~
+This jolly-looking man looks to be in his mid-thirties; relatively young
+for an Instructor, yet his eyes sparkle with a quick wit.  As tall as a
+plainsman and heavy of frame, some of the more irreverent students
+affectionately refer to him as "goblin-gut".  A bard by trade before coming
+to study at the tower, his gift for storytelling is overshadowed only by his
+capacity to remember detail.  Most of his time is spent here lecturing on
+all manner of topics and lore, and every so often if the students beg him
+long enough, he will raise his voice in songs that can be heard in the
+courtyard.  
+~
+human~
+ABKRb DFJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+FHKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15252
+elora white robed mage~
+Elora~
+A {WWhite-Robed{X mage stands here, at the service of those who have business with the Towermistress.
+~
+This young human woman is dressed in simple white robes.  Having
+completed her Testing, she has joined the ranks of the Tower's instructors. 
+A soft-spoken girl in her mid twenties, she resides full-time within the
+Tower and has been handpicked by Astaria to serve as a personal assistant to
+the Towermaster or Towermistress of the White.  
+~
+human~
+ABR DFJN 1000 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+FH ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 2
+M SPEECH 15253 truth is revealed by the light of solinari.~
+M SPEECH 15254 akgjghwguibewgwgs~
+M SPEECH 15252 is the towermistress in?~
+#0
+
+
+
+#OBJECTS
+#15186
+key golden intricate~
+an intricate golden key~
+A golden key lies here, intricate in its craft.~
+gold~
+key PU 0 A
+0 0 0 0 0
+0 0 0 P
+E
+key intricate golden~
+This key is crafted of pure gold.  A circular red gemstone has been set
+into the top, with filigree inscribed with arcane runes crossing over it.  
+~
+#15187
+key black obsidian~
+an obsidian key~
+A key lies here, sculpted from a black stone material.~
+unknown~
+key 0 0 A
+0 0 0 0 0
+0 0 0 P
+E
+key black obsidian~
+This key has been carefully carved out of obsidian.  A black pearlescent
+orb has been set into the center, and arcane runes have been carved into the
+obsidian surrounding it.  
+~
+#15188
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 A
+0 0 0 0 0
+40 0 1500 P
+#15189
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 A
+0 0 0 0 0
+40 0 1500 P
+#15190
+fountain~
+a fountain~
+A sculpted marble {Wfountain{x rests here, gushing crystal-clear water.~
+marble~
+fountain GO 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+fountain~
+This majestic marble fountain has been exquisitely crafted by the finest
+sculptors Thorbardin has to offer.  Magically purified water shimmers in the
+air from a trio of statues standing back to back in a triangle.  An ancient
+white robed wizard pours from an elegant urn, a lovely young woman from her
+cupped hands, and a cynical looking youth from the mouth of a skull held in
+his hands.  
+~
+#15191
+limestone bench~
+a limestone bench~
+A limestone bench rests here, offering comfort to the weary.~
+limestone~
+furniture O 0 P
+C DFHINO EHK BD BD
+0 0 0 P
+#15192
+tourmaline prism gem stone~
+a tourmaline prism~
+A prism fashioned out of tourmaline lies here, glowing softly.~
+tourmaline~
+warp_stone AGSY 0 AO
+0 0 0 0 0
+40 1 1000 P
+#15193
+polished granite orb~
+a polished granite orb~
+A small orb of polished gray stone lies here, forgotten.~
+granite~
+stone GSY 0 AO
+0 0 0 0 0
+35 2 500 P
+#15194
+fine vellum sheet scroll~
+a vellum spellscroll~
+A fine sheet of vellum lies here waiting to be inscribed.~
+vellum~
+scroll S 0 AO
+0 '' '' '' 'reserved'
+35 1 200 P
+#15195
+glass vial potion~
+a glass vial~
+A plain glass vial lies discarded on the ground.~
+glass~
+potion S 0 AO
+0 '' '' '' ''
+35 2 200 P
+#15196
+ring arcane might~
+a ring of Arcane Might~
+A ring of bronze has been left here to rot.~
+bronze~
+jewelry AGPY 0 ABc
+0 0 0 0 0
+55 1 15000 P
+A
+12 35
+A
+25 -2
+A
+3 1
+E
+arcane~
+This ring has been forged from {ybronze{x and has been shaped into the
+form of a serpent swallowing its own tail.  
+~
+E
+might~
+This ring has been forged from {ybronze{x and has been shaped into the
+form of a serpent swallowing its own tail.  
+~
+#15197
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 A
+0 0 0 0 0
+40 1 0 P
+#15198
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 A
+0 0 0 0 0
+0 1 0 P
+#15201
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#15202
+plain stone chair~
+a stone chair~
+A semicircle of plain stone chairs has been arranged in the center of the room.~
+stone~
+furniture O 0 P
+ACE EHMOPQR E BD BD
+0 0 0 P
+#15203
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+101 0 0 P
+#15204
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#15205
+cell block key~
+a Cell block key~
+A heavy iron key lies here, inscribed with magical runes.~
+iron~
+key GPTU 0 A
+0 0 0 0 0
+90 1 0 P
+#15206
+unused~
+unused~
+Unused~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#15207
+wooden table chairs~
+the wooden table~
+A sizable wooden table rests here, surrounded by chairs.~
+wood~
+furniture O 0 P
+BD DFHINO D 0 0
+0 0 0 P
+#15208
+loaf bread~
+a loaf of bread~
+A loaf of baked bread lies here, untouched.~
+unknown~
+food S 0 A
+AC 0 0 0 0
+0 3 0 P
+#15209
+mage staff~
+a Magestaff~
+A polished vallenwood staff inscribed with runes has been dropped here.~
+vallenwood~
+weapon GSY 0 AN
+staff 5 12 pound I
+50 3 25000 P
+#15210
+white apprentice robes~
+({CVelvet{x) {WWhite Robes{x of the {cApprentice{x~
+A pile of {Wwhite{x velvet lies crumpled on the ground.~
+velvet~
+armor GKLSY 0 ADc
+ABD ABD ABD ACD 0
+40 3 5000 P
+A
+12 25
+A
+13 50
+#15211
+red apprentice robes conclave~
+({rVelvet{x) {RRed Robes{x of the {rApprentice{x~
+A pile of {Rred{x velvet lies crumpled on the ground.~
+velvet~
+armor GJKSY 0 ADc
+ABD ABD ABD ACD 0
+40 3 5000 P
+A
+12 25
+A
+13 50
+#15212
+black apprentice robes conclave~
+({mVelvet{x) {DBlack Robes{x of the {mApprentice{x~
+A pile of {Dblack{x velvet lies crumpled on the ground.~
+velvet~
+armor GJLSY 0 ADc
+ABD ABD ABD ACD 0
+40 3 5000 P
+A
+12 25
+A
+13 50
+#15215
+rivulet water trickle stream~
+a rivulet of water~
+A rivulet of {Bwater{x trickles down moss covered walls.~
+granite~
+fountain O 0 P
+-1 -1 'water' 0 0
+103 0 0 P
+#15218
+circular energy field portal~
+the energy field~
+A circular energy field lies here upon the floor.~
+energy~
+portal AG 0 P
+0 0 A ACEHIJLMN 0
+0 0 0 P
+#15243
+statue soli wizard~
+a statue of Solinari~
+A statue of an old wizard stands here, centered against the southern wall~
+marble~
+treasure O 0 P
+0 0 0 0 0
+0 0 0 P
+#15249
+white marble bench~
+a white marble bench~
+{x~
+marble~
+furniture 0 0 P
+B FJKLO E BD BD
+103 0 0 P
+#15255
+key marble white~
+a White Marble key~
+A key of sculpted white marble lies here.~
+marble~
+key PU 0 A
+0 0 0 0 0
+0 0 0 P
+E
+key marble white~
+This key is sculpted carefully from white marble.  A glimmering gemstone
+has been set into the top, with arcane runes carved into the marble
+surrounding it.  
+~
+#15266
+statue luni woman~
+a statue of Lunitari~
+A carved wooden statue of a beautiful young woman stands here.~
+wood~
+trash O 0 P
+0 0 0 0 0
+0 0 0 P
+#15288
+oak desk~
+a large oak desk~
+{wA large, {yoak{w desk sits in the middle of the room.{x~
+oak~
+furniture 0 0 P
+A CDEGHIK D 0 0
+0 0 0 P
+#15297
+statue iron man nui~
+a statue of Nuitari~
+An iron statue of a stern-looking young man stands here.~
+iron~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+#15299
+glowing circle portal energy~
+the glowing circle~
+A glowing circle of magical energy is here on the floor.~
+energy~
+portal AG 0 P
+0 0 A CDEHIJLMN 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#15164
+{DThe Towermaster's Private Chambers{X~
+This chamber manages to be both stately and luxuriant at the same time. 
+Black velvet drapes hang from every wall, reflecting a cold light from a
+number of large candles in iron sconces.  A carved four-poster bed sits
+against the back wall next to a towering bookshelf overflowing with various
+tomes.  An overstuffed couch lies against the south wall, with an equally
+stuffed chair and polished writing desk near the hearth on the opposite
+side.  Columns of polished ebony line the hearth to either side, supporting
+a black marble mantle above the magical flame.  High above in the vaulted
+ceiling, a large circular window opens to the sky above; admitting both the
+sunshine and the shadowy light of Nuitari at High Sanction.  
+~
+0 557068 18
+S
+#15165
+{RThe Towermaster's Private Chambers{x~
+This chamber manages to be both stately and luxuriant at the same time. 
+Red velvet drapes hang from every wall, reflecting the warm light of large
+candles lit in gold scounces.  A carved four-poster bed sits against the
+back wall next to a towering bookshelf overflowing with various tomes.  An
+overstuffed couch lies against the south wall, with an equally stuffed chair
+and polished writing desk near the hearth on the opposite side.  Columns of
+polished cherrywood line the hearth to either side, supporting a red quartz
+mantle above the magical flame.  High above in the vaulted ceiling, a large
+circular window opens to the sky above; admitting both the sunshine and the
+luminous light of Lunitari at High Sanction.  
+~
+0 557068 18
+S
+#15166
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15166
+D1
+~
+~
+0 0 15167
+D2
+~
+~
+0 0 15171
+D3
+~
+~
+0 0 15178
+S
+#15167
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15259
+D1
+~
+~
+0 0 15168
+D2
+~
+~
+0 0 15167
+D3
+~
+~
+0 0 15166
+S
+#15168
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15177
+D1
+~
+~
+0 0 15168
+D2
+~
+~
+0 0 15173
+D3
+~
+~
+0 0 15167
+S
+#15169
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15186
+D1
+~
+~
+0 0 15170
+S
+#15170
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15170
+D1
+~
+~
+0 0 15179
+D2
+~
+~
+0 0 15175
+D3
+~
+~
+0 0 15169
+S
+#15171
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15166
+D1
+~
+~
+0 0 15172
+D2
+~
+~
+0 0 15270
+D3
+~
+~
+0 0 15171
+S
+#15172
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15278
+D1
+~
+~
+0 0 15180
+D2
+~
+~
+0 0 15177
+D3
+~
+~
+0 0 15171
+S
+#15173
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15168
+D1
+~
+~
+0 0 15174
+D2
+~
+~
+0 0 15178
+D3
+~
+~
+0 0 15173
+S
+#15174
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15184
+D1
+~
+~
+0 0 15175
+D2
+~
+~
+0 0 15181
+D3
+~
+~
+0 0 15173
+S
+#15175
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15170
+D1
+~
+~
+0 0 15278
+D2
+~
+~
+0 0 15177
+D3
+~
+~
+0 0 15174
+S
+#15176
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15176
+D1
+~
+~
+0 0 15177
+D2
+~
+~
+0 0 15181
+D3
+~
+~
+0 0 15174
+S
+#15177
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15172
+D1
+~
+~
+0 0 15183
+D2
+~
+~
+0 0 15182
+D3
+~
+~
+0 0 15176
+S
+#15178
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15178
+D1
+~
+~
+0 0 15179
+D2
+~
+~
+0 0 15183
+D3
+~
+~
+0 0 15180
+S
+#15179
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15183
+D1
+~
+~
+0 0 15180
+D2
+~
+~
+0 0 15179
+D3
+~
+~
+0 0 15178
+S
+#15180
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15180
+D1
+~
+~
+0 0 15278
+D2
+~
+~
+0 0 15185
+D3
+~
+~
+0 0 15179
+S
+#15181
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15176
+D1
+~
+~
+0 0 15181
+D3
+~
+~
+0 0 15184
+S
+#15182
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15178
+D1
+~
+~
+0 0 15183
+D2
+~
+~
+0 0 15258
+D3
+~
+~
+0 0 15182
+S
+#15183
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15178
+D1
+~
+~
+0 0 15185
+D2
+~
+~
+0 0 15278
+D3
+~
+~
+0 0 15182
+S
+#15184
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15180
+D1
+~
+~
+0 0 15185
+D2
+~
+~
+0 0 15270
+D3
+~
+~
+0 0 15258
+S
+#15185
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15180
+D1
+~
+~
+0 0 15178
+D2
+~
+~
+0 0 15257
+D3
+~
+~
+0 0 15184
+S
+#15186
+Before the Unguarded Gates of Wayreth~
+Gates of beaten gold stand here, as if suddenly risen from the forest
+floor.  Closed and unguarded, they are framed by massive walls of polished
+black stone.  A path beyond the gates leads into a barren courtyard paved
+with grey flagstone.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Beyond the stark grey
+courtyard, a huge tower rises into the sky; its minarets seeming to reach
+toward the heavens.  
+~
+0 2622464 3
+D0
+~
+~
+0 0 15187
+D2
+~
+~
+0 0 15169
+S
+#15187
+Beyond the Unguarded Gates of Wayreth~
+To the south stand gates of beaten gold; delicately twisted strands of
+railing resembling shining cobwebs.  Rising into the distance is the fabled
+Tower of Wayreth - are those spires crooked?  Neither here nor there, wisps
+of black, red, and white flutter about the edge of one's vision.  The ground
+below is paved with gray flagstone that stretches out along the bottom of
+the towering black walls, and to the north, toward the tower.  The courtyard
+itself appears stark and bare; however, whispering words and bits of muffled
+conversation emanate from unseen sources all around.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15191
+D2
+~
+~
+0 0 15186
+S
+#15188
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15194
+D1
+~
+~
+0 0 15190
+D2
+~
+~
+0 0 15189
+S
+#15189
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15188
+D1
+~
+~
+0 0 15191
+S
+#15190
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+E
+fountain~
+This fountain has been beautifully crafted.  The dwarven hands that
+shaped it having taken great time and care.  Its three central spouts have
+been fashioned into the likeness of humanoid figures.  One is an ancient
+white robed wizard holding a delicate vase, with the name "Solinari"
+inscribed under its feet.  The second is inscribed "Lunitari", and depicts a
+beautiful woman in the robes of a mage pouring water from a barrel in her
+hands.  The third and final figure is fashioned in the likeness of a wicked
+looking young boy, holding a skull that spews water from its mouth; the
+inscription at the child's feet reads: "Nuitari".  
+~
+D0
+~
+~
+0 0 15195
+D1
+~
+~
+0 0 15192
+D2
+~
+~
+0 0 15191
+D3
+~
+~
+0 0 15188
+S
+#15191
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15190
+D1
+~
+~
+0 0 15193
+D2
+~
+~
+0 0 15187
+D3
+~
+~
+0 0 15189
+S
+#15192
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15196
+D2
+~
+~
+0 0 15193
+D3
+~
+~
+0 0 15190
+S
+#15193
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15192
+D3
+~
+~
+0 0 15191
+S
+#15194
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D1
+~
+~
+0 0 15195
+D2
+~
+~
+0 0 15188
+S
+#15195
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D0
+~
+~
+0 0 15197
+D1
+~
+~
+0 0 15196
+D2
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15194
+S
+#15196
+Inside the Courtyard~
+The courtyard is paved with gray flagstone.  Here and there, an empty
+bench can be seen waiting for an occupant.  The Tower of Wayreth rises
+ominously before you, runes flaring brightly against the black surface of the
+outer walls.  The spires themselves are bare, displaying neither battlements
+nor guards to walk them.  Throughout the courtyard, wisps of black, red, and
+white flutter past just at the edge of vision.  Empty voices can be heard
+whispering amongst themselves as the courtyard spreads out before you.  
+~
+0 524288 18
+D2
+~
+~
+0 0 15192
+D3
+~
+~
+0 0 15195
+S
+#15197
+Before the Doors of the Tower~
+Massive twin doors of solid oak adorn the central foretower here.  To
+either side, the twin spires of the Tower itself seem to stretch endlessly
+into the sky, their black stone surfaces covered in runic symbols.  All
+around, the half seen figures in white, red and black robes continue to flow
+past, intent on their various tasks.  
+~
+0 524288 18
+E
+symbols~
+These runes are the same markings that can be seen on the outer walls of
+the Tower.  For those versed in such lore, the markings themselves include
+runes of power and strength, shielding and warding.  Mixed throughout are
+further runes binding the stones to each other, as well as to the ground.  
+~
+E
+spires~
+The stones within the Tower's outer walls are highly polished, and bear
+runic markings all over them like the outer walls of the courtyard.  
+~
+D0
+~
+~
+0 0 15198
+D2
+~
+~
+0 0 15195
+S
+#15198
+The Atrium of the Tower~
+This atrium is lit with a soft glow borne by a number of floating candles
+dispersed throughout the chamber.  To the east and west, expansive hallways
+curve toward various classrooms and meeting chambers.  Boys and girls of all
+ages mill past, their arms laden with textbooks and supplies.  Now and
+again, a loud bang can be heard from the eastern hallway; various mages and
+older students glancing toward the sound with a knowing chuckle.  A portrait
+hangs on the wall just opposite the doors, while a vase of white roses rests
+on a finely crafted endtable sitting directly below.  
+~
+0 524296 18
+E
+portrait~
+The portrait hanging here depicts the White Robe Par-Salian, former
+Master of the Tower.  In this portrait, he is standing behind a beautifully
+crafted leather chair, surrounded by books and tomes of all sorts.  A fire
+blazes brightly in the hearth in what used to be his chambers.  {x 
+~
+E
+roses~
+{wThese roses seem to have been picked a long time ago, yet they have not
+aged.  Their smell is beautiful; carrying a lingering trace of the gardens
+of Silvanost.  A {yplaque{x sits on the endtable, etched in flawless script.
+~
+E
+endtable~
+A beautifully crafted endtable of polished wood.  Its make and design are
+apparently dwarven, the vase of elven origin; gifts to the Tower from the
+respective races.  
+~
+E
+plaque~
+{wDedicated in memory of Par-Salian.  {x 
+~
+D1
+~
+~
+0 0 15199
+D2
+~
+~
+0 0 15197
+D3
+~
+~
+0 0 15200
+S
+#15199
+A Well Lit Hallway in the Tower~
+The eastern corridor stretches deeper into the tower, its castle like
+walls polished smooth.  No candles or chandeliers light the passage; instead
+the ambient glow seems to radiate from the walls themselves.  Scattered
+along the passage, portraits of famous mages both past and present hang in
+silent vigil.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15203
+D3
+~
+~
+0 0 15198
+S
+#15200
+A Well Lit Hallway in the Tower~
+The western hall is much like its eastern cousin.  Barren stone walls
+sweep uninterrupted down the corridor, adorned here and there with portraits
+of past Tower residents.  Students of various races and ages sweep up and
+down the corridor, moving this way and that with their arms full of all
+sorts of items.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15201
+D1
+~
+~
+0 0 15198
+S
+#15201
+A Well Lit Hallway in the Tower~
+The western hall is much like its eastern cousin.  Barren stone walls
+sweep uninterrupted down the corridor, adorned here and there with portraits
+of past Tower residents.  Students of various races and ages sweep up and
+down the corridor, moving this way and that with their arms full of all
+sorts of items.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15216
+D2
+~
+~
+0 0 15200
+S
+#15202
+The Great Hall~
+This vast chamber is reserved for official Conclave meetings.  A
+cheerless white glow with no apparent source is the only light in the room,
+the stark obsidian walls fading into the surrounding shadows.  The ceiling
+itself is of such a height as to completely disappear into darkness above. 
+In the center of the chamber, twenty-one stone chairs have been arranged
+into a semicircle, seven for each Order.  Here, the High Council convenes to
+conduct official Conclave business, hidden from any intrusion or prying
+eyes.  
+~
+0 19407884 18
+S
+#15203
+A Well Lit Hallway in the Tower~
+The eastern corridor stretches deeper into the tower, its castle like
+walls polished smooth.  No candles or chandeliers light the passage; instead
+the ambient glow seems to radiate from the walls themselves.  Scattered
+along the passage, portraits of famous mages both past and present hang in
+silent vigil.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15217
+D1
+~
+~
+0 0 15204
+D2
+~
+~
+0 0 15199
+S
+#15204
+A Stairwell to the Dungeons~
+This landing sits atop the staircase leading down to the dungeons.  Its
+ominous framework is crafted from rough, unpolished obsidian.  The area is
+heavily warded and carries an eerie silence compared to the rest of the
+bustling Tower.  Very little light ekes up from below.  
+~
+0 524296 18
+D3
+~
+~
+0 0 15203
+D5
+~
+~
+0 0 15205
+S
+#15205
+Before the Door to the Dungeons~
+At the bottom of these stone steps, the light is little to none.  What
+little light there is - leaking out from under the door - is a cold blue
+light.  Faint moans come from the other side of the door.  
+~
+0 524297 18
+D1
+~
+~
+6 15205 15206
+D4
+~
+~
+0 0 15204
+S
+#15206
+The Dungeons~
+The hallway is dark, cold, and damp.  A very cold blue light sulks around
+the walls, casting ominous shadows against the ground.  The walls of the
+dungeons have been blackened, and are nearly impossible to see.  Hollow
+moans come from within the cells of the dungeon.  
+~
+0 9 18
+D2
+~
+~
+0 0 15208
+D3
+~
+~
+6 15205 15205
+S
+#15207
+The Antechamber of Testing~
+This chamber is darkly lit; a fire blazes dimly in the hearth along the
+northern wall.  There are no windows, and only two doors.  The walls are not
+decorated; not even a bookshelf exists to help pass the time.  The only
+furniture in this room is a simple table of wood and four chairs.  
+~
+0 525324 18
+D1
+~
+~
+1 0 15208
+D2
+~
+~
+3 0 15210
+S
+#15208
+The Dungeons~
+The hallway is dark, cold, and damp.  A very cold blue light sulks around
+the walls, casting ominous shadows against the ground.  The walls of the
+dungeons have been blackened and are nearly impossible to see.  Hollow moans
+come from within the cells of the dungeon.  A well-concealed door to the
+west is nearly indistinguishable from the surrounding wall, leading into the
+Testing chambers.  
+~
+0 524297 18
+D0
+~
+~
+0 0 15206
+D1
+~
+cell~
+6 15205 15209
+D2
+~
+~
+0 0 15211
+D3
+~
+~
+1 0 15207
+S
+#15209
+A Holding Cell~
+This holding cell is small and reeks of urine.  Moldy straw lies across
+the floor and chains clang gently against the black walls.  Bones clutter
+one corner of the cell as stains of some sort cover the other.  All in all,
+this cell is not a good place to be.  
+~
+0 19406860 18
+D3
+~
+~
+6 15205 15208
+R RANDOM 15209 100~
+S
+#15210
+The Testing Arena~
+This chamber is huge, its walls and ceiling obscured by shadow.  A small
+pool of light gathers in the center of the room; waiting for the next brave
+applicant to risk life, limb, and sanity in the attempt to enter into the
+ranks of High Sorcery.  Here, aspiring mages are confronted with all manner
+of trials; mental, physical, and arcane, in order to prove their worthiness
+to stand among their fellows in service to their Art.  
+~
+0 532488 18
+D0
+~
+~
+3 0 15207
+S
+#15211
+The Dungeons~
+The hallway is dark, cold, and damp.  A very cold blue light sulks around
+the walls, casting ominous shadows against the ground.  The walls of the
+dungeons have been blackened and are nearly impossible to see.  Hollow moans
+come from within the cells of the dungeon.  
+~
+0 524297 18
+D0
+~
+~
+0 0 15208
+D1
+~
+cell~
+6 15205 15212
+D2
+~
+~
+0 0 15214
+S
+#15212
+A Holding Cell~
+This cell is cramped and dirty, and reeks of rotting carrion.  Insects
+buzz here and there through cracks in the stone as an icy breeze sweeps
+through, making a hollow moaning sound.  Against one wall, a bleached
+skeleton hangs from a torture rack, its empty eye sockets staring hollowly as
+it seems to grin at you.  
+~
+0 19406860 18
+D3
+~
+~
+6 15205 15211
+R RANDOM 15209 100~
+S
+#15213
+A Holding Cell~
+This is the smallest cell in the dungeons; its walls nothing but a corner
+of jagged stones set together.  Dried blood stains the stones of the walls
+and bones litter the cold stone floor; whether from ancient meals or a
+former occupant remains unclear.  
+~
+0 19407372 18
+D1
+~
+~
+6 15205 15214
+R RANDOM 15209 100~
+S
+#15214
+The Dungeons~
+The hallway is dark, cold, and damp.  A very cold blue light sulks around
+the walls, casting ominous shadows against the ground.  The walls of the
+dungeons have been blackened and are nearly impossible to see.  Hollow moans
+come from within the cells of the dungeon.  
+~
+0 524297 18
+D0
+~
+~
+0 0 15211
+D1
+~
+cell~
+6 15205 15215
+D3
+~
+cell~
+6 15205 15213
+S
+#15215
+A Holding Cell~
+This cell is smaller than its "standard" counterparts, and covered with
+dirt and other indescribable things.  A rivulet of water trickles down moss
+covered walls.  Straw is strewn throughout the area, an indentation having
+been left in one corner by something pressing against it for hours on end. 
+{x 
+~
+0 19406860 18
+D3
+~
+~
+6 15205 15214
+R RANDOM 15209 100~
+S
+#15216
+A Well Lit Hallway in the Tower~
+The western hall is much like its eastern cousin.  Barren stone walls
+sweep uninterrupted down the corridor, adorned here and there with portraits
+of past Tower residents.  Students of various races and ages sweep up and
+down the corridor, moving this way and that with their arms full of all
+sorts of items.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15218
+D1
+~
+~
+0 0 15217
+D2
+~
+~
+0 0 15201
+S
+#15217
+A Well Lit Hallway in the Tower~
+The eastern corridor stretches deeper into the tower, its castle like
+walls polished smooth.  No candles or chandeliers light the passage; instead
+the ambient glow seems to radiate from the walls themselves.  Scattered
+along the passage, portraits of famous mages both past and present hang in
+silent vigil.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15219
+D2
+~
+~
+0 0 15203
+D3
+~
+~
+0 0 15216
+S
+#15218
+An Intersection through the Halls~
+The intersection here stretches in each direction.  The black stone walls
+are polished to perfection.  A stout wooden door is set into a runed archway
+to the north; leading to the "Dueling Chamber", wherein mages may practice
+offensive spells and countermagic with one another, and those of the Black
+Robes determine the Heads of their Order.  To the west lie the central
+towers dedicated to each Order, while to the east, the corridor branches
+toward the Alchemy wing.  
+~
+0 524296 18
+D0
+~
+~
+1 0 15229
+D1
+~
+~
+0 0 15219
+D2
+~
+~
+0 0 15216
+D3
+~
+~
+0 0 15230
+S
+#15219
+An Intersection through the Halls~
+This intersection stretches in all directions.  Unlike most of the Tower,
+the walls here are not polished.  Instead, the hallway is covered in a fine
+layer of soot; carried by oily black smoke that occasionally seeps down the
+stairs from the Alchemist's Wing to the east.  To the west, the corridor
+leads to individual spires for the three Orders.  The northern passage leads
+to the study of Archmage Antimodes.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15228
+D1
+~
+~
+0 0 15220
+D2
+~
+~
+0 0 15217
+D3
+~
+~
+0 0 15218
+S
+#15220
+Before the Stairwell leading to the Laboratories~
+The bottom of the stairwell to the Alchemist's Wing is covered in black
+soot.  Here and there, a few of the more mischievous students have written
+lewd comments on the wall.  Numerous footprints track soot along the
+stairwell in both directions.  From time to time, a loud explosion can be
+heard coming from the top of the stairwell.  
+~
+0 524296 18
+E
+comments~
+{cA few scattered slogans have been scrawled here in the soot (including
+a few rude comments about certain instructors).  A glowing sign underneath,
+somehow free of soot, reads:
+ 
+     {x"This wall is not to be used as a personal message board for smart-aleck
+     apprentices! Any students caught writing inappropriate comments will
+     be dealt with harshly!"
+~
+E
+wall~
+{cA few scattered slogans have been scrawled here in the soot (including
+a few rude comments about certain instructors).  A glowing sign underneath,
+somehow free of soot, reads:{x
+ 
+     "This wall is not to be used as a personal message board for smart-aleck
+     apprentices! Any students caught writing inappropriate comments will
+     be dealt with harshly!"
+~
+D3
+~
+~
+0 0 15219
+D4
+~
+~
+0 0 15221
+S
+#15221
+Before the Door to the Laboratories~
+The top of this stairwell, like the rest of the hall, is covered in a
+fine dusting of black soot.  A myriad of strange (and sometimes foul) smells
+waft from under the door to the east.  Every now and then an explosion,
+followed by a series of not-so-muffled cursing, can be heard from the other
+side of the door.  
+~
+0 524296 18
+D1
+~
+~
+1 0 15222
+D5
+~
+~
+0 0 15220
+S
+#15222
+Inside the Laboratories~
+The fumes in this room are almost too much for your senses to bear!  All
+about the laboratories, young mages bustle about, concocting strange brews
+for any occasion.  The atmosphere is a bit unnerving, as several apprentices
+with odd stains on their robes and singed eyebrows are shown to the
+infirmary (and the occasional explosion from the Head Alchemist's office
+does not do much to reassure you).  A sign has been tacked to the far wall. 
+~
+0 524296 18
+E
+sign~
+==============================================================
+*  You have entered the Alchemists' Wing at your OWN RISK!     *
+*  Students and Personnel shall not be held accountable nor    *
+*  liable for any personal or property damages that may be     *
+*  incurred during study.                                      *
+*                                                              *
+*  Signed                                                      *
+*                                                              *
+*  - The Administration                                        *
+ ==============================================================
+~
+D0
+~
+~
+0 0 15256
+D1
+~
+~
+0 0 15223
+D2
+~
+~
+0 0 15224
+D3
+~
+~
+1 0 15221
+S
+#15223
+The Alchemist's Supply Room~
+The walls of this office are covered with charts, tables, and formulas
+from every institute of learning upon Krynn.  A table in the center of the
+room holds test tube racks containing various multicolored liquids in clear
+vials.  Along the back wall, a gutted bookshelf holds jars filled with all
+manner of appendages and other, more indescribable things.  A battered
+looking desk sits against the eastern wall, covered in thick black soot.  
+~
+0 524296 18
+D3
+~
+~
+0 0 15222
+S
+#15224
+Inside the Laboratories~
+The walls surrounding the laboratory area are covered with charts, dirt,
+fumes, and nearly anything else imaginable.  The floor and the tops of the
+workstations are the only clean surfaces throughout the entire laboratory. 
+Each station has a long set of instruments set up on it; from burners to
+boilers, to mortar and pestle - everything a student needs is here.  This
+particular station has been set up to study herbal brews.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15222
+D1
+~
+~
+0 0 15225
+D2
+~
+~
+0 0 15226
+S
+#15225
+Inside the Laboratories~
+The walls surrounding the laboratory area are covered with charts, dirt,
+fumes, and nearly anything else imaginable.  The floor and the tops of the
+workstations are the only clean surfaces throughout the entire laboratory. 
+Each station has a long set of instruments set up on it; from burners to
+boilers, to mortar and pestle - everything a student needs is here.  This
+particular station has been set up to study poisons.  
+~
+0 524296 18
+D2
+~
+~
+0 0 15227
+D3
+~
+~
+0 0 15224
+S
+#15226
+Inside the Laboratories~
+The walls surrounding the laboratory area are covered with charts, dirt,
+fumes, and nearly anything else imaginable.  The floor and the tops of the
+workstations are the only clean surfaces throughout the entire laboratory. 
+Each station has a long set of instruments set up on it; from burners to
+boilers, to mortar and pestle - everything a student needs is here.  This
+particular station has been set up to study ancient formulas.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15224
+D1
+~
+~
+0 0 15227
+S
+#15227
+Inside the Laboratories~
+The walls surrounding the laboratory area are covered with charts, dirt,
+fumes, and nearly anything else imaginable.  The floor and the tops of the
+workstations are the only clean surfaces throughout the entire laboratory. 
+Each station has a long set of instruments set up on it; from burners to
+boilers, to mortar and pestle - everything a student needs is here.  This
+particular station has been set up to study healing salves and other
+beneficial concoctions.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15225
+D3
+~
+~
+0 0 15226
+S
+#15228
+The Study of Antimodes~
+This study could best be described as a perpetual state of "organized
+chaos".  A magical globe rotates slowly on its axis in one corner,
+displaying the current geography of Krynn.  A small, but cheery fire burns
+merrily in a hearth set into the west wall; a portrait hanging above the
+mantle.  The southern wall is dominated by a series of large bookshelves
+that run the entire length of this expansive chamber.  The northern wall is
+dominated by even more books, while the eastern side of the room holds
+countless scroll racks.  A massive desk sits in the center of the chamber,
+piled high with an assortment of books and papers that seem to adhere to its
+surface like iron shavings to a magnet.  
+~
+0 524296 18
+E
+globe~
+|    Continent of Ansalon    |
+ 
+{g
+                                               __----\
+                                            ___/      \_
+                                             /        \       _-\
+       {WZeboims Deep{g  /\__--/\__      __   / ({C3{g)^^        }       }  .
+                    |          \----/  \-/    ^          } _/}   \/   |\_-
+                     \_  ^   (2)^            ^^      ___/ / /         [({C14{g)}
+             |^^^-\    \  ^^   ^^    ^^    ^^^      |_---/ /           \-/
+              \   /_   /  ^^^  ^({C16{g)^^^   ^^               }
+             ./^^    |  /  ^^({C8{g)^     ^^^  ^^^^    ^ ^^^  _/
+            \_ ^^ ^ /    ^^   ^^    ^^^^   ^({C4{g)^^^   _/   {WBlood{g     /| }
+      _/-^\  / ^^  ^\  ^ {WSolamnia{g      ^^^  ^  ^^^   [      {WSea{g    / } }
+     |  ({C1{g)\ \_--__/  /   ^   ^^      ({C15{g) ^^^    ^^   /       ({C13{g)  /  }  \|
+      \ ^^^\       _  \     ^^^          /--^>        \__           }  }
+    /\_/^^ /  /--/^ \  \_    /--\        }   /           ^\___-----/  /
+   (_  __/^  /       ) (__--/    \--_---/   /                         )
+     \/     /_ ^^^  _/          /\    {WNew{g  |_                 ({C11{g)  _  }
+             /^^   ]_    /\__--/  \--  {WSea{g _/^^     |\  ({C6{g)       /( /
+            /  ^^^  /   /{WAbanasinia{g\  __/ ^^^     | \-\   ]\---/ [/
+            ^^^  /   ^^^({C5{g)^      ]/    ^^^   ^^ \   \-_/
+             \____/    / ^^^^ ^       \|     ^^({C10{g)^  \_    _
+   {WSirrion{g            | ^^^^^ ^^           ^^^  ^^^     \--/ \_
+     {WSea{g         /---\/ ^({C9{g)^^^  {WPlains of{g ^^    ^^^           \
+                /         ^^^^^     {WDust{g    ^^                  }
+                    ^^^^^^^^^({C12{g)^                           }
+                 \---\   ^^^^^    ({C7{g)               /---\_____/
+                      \__---___                   _/
+                              _]     ^^^^^^^^    (
+                     /----___/   ^^^ {WIcewall{g ^^   \__--\_
+                  _-/          ^^^^^ {WGlacier{g ^^ ^^       \___
+                 /              ^^^^^^^^^^^^^^^ ^^           ^\
+ 
+{r1.  {CMt. Nevermind          {r9.  {CQualinesti
+{r2.  {CPalanthas              {r10. {CSilvanesti
+{r3.  {CKalaman                {r11. {CKendermore
+{r4.  {CNeraka                 {r12. {CThorbardin
+{r5.  {CSolace                 {r13. {CIstar
+{r6.  {CBalifor                {r14. {CMithas
+{r7.  {CTarsis                 {r15. {CSanction
+{r8.  {CSolanthus              {r16. {CVingaard Keep{x
+~
+E
+books~
+It appears that several of the stacked books upon Antimodes' desk detail
+the lore behind the art of summoning.  {x 
+~
+E
+plaque~
+{wIn loving memory of my dearest friend.  
+ 
+- Antimodes{x
+~
+E
+portrait~
+{wThis is a portrait of Par-Salian standing outside under a tree. 
+There's an inscription made on a {yplaque{w at the bottom of the frame.  {x 
+~
+E
+oak~
+This finely crafted oak desk is truly a work of art.  Four feet deep by
+seven feet wide, its surface is stained a dark brown and edged with runic
+carvings.  Its feet have been carved to represent a dragon's claw; each one
+clutching an orb.  Stack upon stack of arcane tomes obscure most of its
+surface, and parchments on various subjects mix haphazardly with beautifully
+scribed maps from all over the world.  
+~
+E
+bookshelves~
+These huge bookshelves have been made from the finest vallenwood trees
+of Solace.  Their craftsmanship formed from the purest of magics.  Stained a
+deep cherry red, they shine with a glossy coat and plenty of polishing.
+There are labels on each shelf, dictating what each section is about.
+ 
+{yThe tags along this bookshelf stretch across its massive length:{x
+Far Left Side: Mystic Lore
+Left Side: Ancient Lore
+Middle: Herbalism and Potions
+Right Side: Necromantic, Abjurational, Divinational Lore
+Far Right Side: Transmutational, Druidic, Conjurational Lore
+~
+E
+wall~
+These bookshelves resemble their counterparts along the southern wall,
+each having a tag on the shelf to mark a section of books.
+ 
+{yAlong the wall to the left, the tags read:{x
+Far Left Side: Divination
+Left Side: Necromancy
+Middle: Abjuration
+Right Side: Transmutation
+Far Right Side: Druidism & Natural Magics
+ 
+{yAlong the wall to the right, the tags read:{x
+Far Right Side: Mysticism
+Right Side: Conjuration
+Middle: Summoning
+Left Side: Potions & Recipes
+Far Left Side: Herbal Brews & Classifications
+~
+E
+racks~
+These simple wooden racks have been slightly blackened, as if by fire or
+magic; each rack containing an assortment of magical scrolls separated by
+school.  
+~
+D2
+~
+~
+0 0 15219
+S
+#15229
+The Dueling Chamber~
+This bare room has come to be known as the "dueling chamber".  While
+actual dueling among mages within the Tower is strictly forbidden, this
+room is used for fellow mages to test their skills together and learn from
+one another.  The popular term for the former "practice arena" was coined
+due to the custom of the Black Robes to use it as a place to determine the
+leaders of their Order by trial of combat.  A series of glowing runes have
+been placed around the archway leading to and from the chamber.  
+~
+0 17310220 18
+E
+runes~
+These runes have been placed here to prevent the potent magics being
+wielded within from escaping out of control, and to ensure that no one
+'accidentally' wanders in on a duel in progress.  
+~
+D2
+~
+~
+1 0 15218
+S
+#15230
+A Well Lit Hallway in the Tower~
+The smooth, polished walls of black stone come to a bend here; the north
+passage heading further toward the spires of the White, Red, and Black
+Orders.  To the east, the hall leads back to the Alchemy wing.  Students can
+be heard reciting their lessons from various classrooms along the hallway.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15231
+D1
+~
+~
+0 0 15218
+S
+#15231
+An Intersection between the Towers~
+The hallway opens here into an immense intersection, the ceiling lost
+from sight.  A number of floating orbs light the area, illuminating the form
+of three massive stairwells, each colored to represent its respective Order.
+To the east lies a set of arcing marble stairs, while to the west, a spiral
+of iron winds its way deeper into the upper towers.  The northern stairwell
+serves as a centerpiece of sorts; its wooden double staircase covered in
+luxurious carpet from Southern Ergoth.  Mages from all Orders nod in
+greeting to one another as they go about their daily business, while a group
+of students makes their way toward the Tower Library further to the north.  
+~
+0 524296 18
+E
+ruby~
+Upon closer inspection, what appeared at first to be a single large gem
+in the hands of the statue is actually comprised of a number of finger-sized
+rubies fashioned into the shape of darts.  
+~
+E
+marble~
+The stairwell to the east has been beautifully shaped from the purest
+white marble and wraps around itself in a graceful spiral.  The banisters
+have been crafted of ivory, and inlaid with flecks of gold and platinum.
+The marble post at the bottom of the landing has been fashioned into the
+likeness of an {Wold{x man.
+~
+E
+iron~
+The stairwell to the west has been fashioned from wrought-iron; its
+twisting railings resembling intertwining serpents.  The steps are cold and
+bare, and seem to radiate a noticeable chill compared to the surrounding
+temperature.  At the bottom of the landing, a cast iron statue of a
+{Dyoung{x man stands as if in silent warning.
+~
+E
+wooden~
+The northern stairwell has been fashioned from highly polished
+cherrywood, lending it an almost petrified appearance.  The stairs
+themselves spiral upward in a delicate helix shape, and are covered in a
+deep scarlet carpet studded with brass to keep it in place.  The bottom
+banister has been carved into the likeness of a {Ryouthful{x looking woman.
+~
+E
+woman~
+This carved statue depicts a beautiful young woman in flowing robes.  The
+wood has been stained in such a fashion as to give her hair a reddish tint. 
+Her capricious smile and the mischievous glint in her eyes seems to hint at
+a good-natured cunning intelligence, and in her hands she holds a large
+ruby.  
+~
+E
+statue~
+This cast iron statue has been shaped into the form of a studious looking
+young man.  His short hair is slicked back, and his face is devoid of any
+expression; save for his eyes, which seem to burn with a dark intensity.  
+~
+E
+post~
+This statue depicts an ancient wizard with a kindly face.  Its eyes
+appear bright and lucid, filled with the wisdom of countless years, yet the
+smile he wears is cryptic; as if he knew a secret that the rest of the world
+did not.  
+~
+D0
+~
+~
+0 0 15233
+D1
+~
+~
+0 0 15232
+D2
+~
+~
+0 0 15230
+D3
+~
+~
+0 0 15234
+S
+#15232
+{WAt the Bottom of a Marble Staircase{x~
+This wide, arcing stairwell has been beautifully shaped from the purest
+white marble and wraps around itself in a graceful spiral.  The banisters
+have been crafted of ivory, and inlaid with flecks of gold and platinum. 
+The marble post at the bottom of the landing has been fashioned into the
+likeness of an old man.  A small landing can be seen farther up the
+stairway, while to the west lies the main floor of the Tower.  
+~
+0 524296 18
+E
+man~
+This statue depicts an ancient wizard with a kindly face.  Its eyes
+appear bright and lucid, filled with the wisdom of countless years, yet the
+smile he wears is cryptic; as if he knew a secret that the rest of the world
+did not.  
+~
+E
+post~
+This statue depicts an ancient wizard with a kindly face.  Its eyes
+appear bright and lucid, filled with the wisdom of countless years, yet the
+smile he wears is cryptic; as if he knew a secret that the rest of the world
+did not.  
+~
+D3
+~
+~
+0 0 15231
+D4
+~
+~
+0 0 15237
+S
+#15233
+{RAt the Bottom of a Wooden Staircase{x~
+This stairwell has been fashioned from highly polished cherrywood,
+lending it an almost petrified appearance.  The stairs themselves spiral
+upward in a delicate helix shape, and are covered in a deep scarlet carpet
+studded with brass to keep it in place.  The bottom banister has been
+carved into the likeness of a youthful looking woman.
+~
+0 524296 18
+E
+ruby~
+Upon closer inspection, what appeared at first to be a single large gem
+in the hands of the statue is actually comprised of a number of finger-sized
+rubies fashioned into the shape of darts.  
+~
+E
+woman~
+This carved statue depicts a beautiful young woman in flowing robes.  The
+wood has been stained in such a fashion as to give her hair a reddish tint. 
+Her capricious smile and the mischievous glint in her eyes seems to hint at
+a good-natured cunning intelligence, and in her hands she holds a large
+ruby.  
+~
+D0
+~
+~
+0 0 15235
+D2
+~
+~
+0 0 15231
+D4
+~
+~
+0 0 15236
+S
+#15234
+{DAt the Bottom of a Wrought Iron Staircase{x~
+The stairwell to the west has been fashioned from wrought-iron; its
+twisting railings resembling intertwining serpents.  The steps are cold and
+bare, and seem to radiate a noticeable chill compared to the surrounding
+temperature.  At the bottom of the landing, a cast iron statue of a
+young man stands as if in silent warning.
+~
+0 524296 18
+E
+statue~
+This cast iron statue has been shaped into the form of a studious looking
+young man.  His short hair is slicked back, and his face is devoid of any
+expression; save for his eyes, which seem to burn with a dark intensity.  
+~
+D1
+~
+~
+0 0 15231
+D4
+~
+~
+0 0 15280
+S
+#15235
+The Great Library~
+Currently the greatest repository for magical learning on the face of
+Krynn, the Library of Wayreth is a massive circular chamber containing
+spellbooks and scrolls of every color, from every region and Age throughout
+history.  A large hearth rests along the east wall surrounded by several
+large cushioned chairs.  A series of long semicircular tables are arranged
+throughout the area for study and discussion of magical theory.  The
+northern, western, and southern walls are obscured entirely by shelves.  A
+life-size portrait rests above the hearth.
+~
+0 17302540 18
+E
+bronze~
+- Serie uth Randar, Towermistress
+~
+E
+portrait~
+A beautiful woman stands here, the epitome of youthful elegance.  Her
+strawberry-blonde hair falls straight to her shoulders, and her pure white
+robes are cut in a design more reminiscent of a lady's gown than of a
+typical mage's.  While her face is youthful, her eyes are those of an older
+woman who has seen more of the world than she would care to.  There is a
+business-like quality to her expression, tempered with a sense of hope and
+compassion deep within her gaze.  Mounted beneath the portrait is a polished
+{ybronze{x plaque.  
+~
+D2
+~
+~
+0 0 15233
+S
+#15236
+{RAt the Top of a Cherrywood Stairwell{x~
+The landing here widens into a small balcony, with brass railings and
+plush red carpet covering the floor.  The balcony leads a short distance to
+the north before continuing upward into the second level, while to the south
+the stairs descend to the ground level in a delicate double helix.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15261
+D5
+~
+~
+0 0 15233
+S
+#15237
+{WA White Marble Landing{x~
+Here the wide staircase pauses at a small landing, its sturdy ivory
+banisters expanding into a balcony that opens into a hallway to the north
+and east.  The stairs continue upward into the White Tower, while below, a
+large intersection marks the central point between the library and the rest
+of the tower.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15241
+D1
+~
+~
+0 0 15238
+D4
+~
+~
+0 0 15242
+D5
+~
+~
+0 0 15232
+S
+#15238
+{WA Quiet Hallway{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the east,
+while to the west lies a grand marble staircase.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15239
+D3
+~
+~
+0 0 15237
+S
+#15239
+{WA Quiet Hallway{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the east
+and west.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15240
+D3
+~
+~
+0 0 15238
+S
+#15240
+{WA Quiet Hallway{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the west,
+while to the north, various voices and sounds of spellcasting can be heard. 
+~
+0 524296 18
+D0
+~
+~
+1 0 15244
+D3
+~
+~
+0 0 15239
+S
+#15241
+{WA Quiet Hallway{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the
+north, while to the south lies a grand marble staircase.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15245
+D2
+~
+~
+0 0 15237
+S
+#15242
+{WAt the Top of a Marble Staircase{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  To the east, a large alcove emits
+a soft white glow.  The hallway continues to the north, while the stairs
+below descend to the lower levels of the Tower.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15246
+D1
+~
+~
+1 0 15243
+D5
+~
+~
+0 0 15237
+S
+#15243
+{WShrine of the White Moon{x~
+This chamber is completely bare, save for the radiant shrine in the
+center of the room.  Standing within a silvery circle of runes, an
+exquisitely lifelike statue of a benevolent old wizard stands atop a gilded
+pedestal of platinum and alabaster.  Here, the faithful of Solinari come to
+seek wisdom in silent communion with their god, as well as all initiates to
+the Order - brought here to formally dedicate their lives to the service of
+White Magic.  
+~
+0 25691212 47
+D0
+~
+~
+1 0 15247
+D3
+~
+~
+1 0 15242
+S
+#15244
+{WThe Learning Chamber{x~
+Devoid of any furnishings or decoration, this room serves as an area for
+mages of the White Robes to practice their art.  Various students and
+masters alike mill about; casting wards, practicing their defensive skills
+and discussing magical theory.  Insulated against any stray magic from
+escaping, the chamber serves as a perfect training center for those who wish
+to perfect their spells.  
+~
+0 17301580 18
+D2
+~
+~
+1 0 15240
+M 200 H 100
+S
+#15245
+{WA Quiet Landing{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the
+south, and a small staircase leads higher into the spire of the White Tower.
+~
+0 524296 18
+D2
+~
+~
+0 0 15241
+D4
+~
+~
+0 0 15250
+S
+#15246
+{WA Quiet Hallway{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  The hallway continues to the east
+and south.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15247
+D2
+~
+~
+0 0 15242
+S
+#15247
+{WAn Upper Landing Within the White Tower{x~
+This sparsely decorated hall exudes an aura of quiet calm.  Fashioned
+entirely of purest white marble, the only adornments are a plush carpet of
+blue velvet, and a few gently glowing orbs that bathe the area in a soft
+light.  The silence here is not oppressive, but rather peaceful and
+reverent.  Small crystalline windows set at intervals along the wall provide
+a breathtaking view of the forest below.  To the south, a large alcove emits
+a soft white glow.  The hallway continues to the west, while a short flight
+of steps leads to the uppermost chambers of the Tower.  To the east, a
+modest bedchamber stands ready for invited guests and visiting dignitaries. 
+~
+0 524296 18
+D1
+~
+~
+0 0 15248
+D2
+~
+~
+1 0 15243
+D3
+~
+~
+0 0 15246
+D4
+~
+~
+0 0 15252
+S
+#15248
+{WGuest Chambers of the White Tower{x~
+This chamber, though but a single room, is nonetheless luxuriant in its
+furnishings and decor; offering every comfort that a visiting guest might
+wish.  Lavish tapestries decorate the walls, surrounding an elegant four
+poster bed crafted of vallenwood and stuffed with griffon feathers.  A small
+dining table magically conjures whatever refreshments are desired, and a
+large bookshelf on the eastern wall is likewise enchanted; enabling the
+reader to instantly peruse any topic that strikes his or her interest.  Here
+visiting officials and honored guests bide their time while awaiting an
+audience with the leaders of the White Robes.  
+~
+0 533516 18
+D3
+~
+~
+0 0 15247
+M 100 H 175
+S
+#15249
+{WA Walkway Atop the White Tower{x~
+Here a delicate walkway follows the contour of the tower's graceful
+spire.  Wide enough for two people to walk side by side, a waist-high
+balcony offers a spectacular view of the magical Forest of Wayreth.  Despite
+its relaxed atmosphere, this landing also serves as a vantage point should
+the Tower ever suffer any unwelcome visitors...  A cushioned marble bench
+wide enough for two sits along the tower's outer wall, offering respite for
+the weary.  
+~
+0 524292 18
+D1
+~
+~
+0 0 15250
+S
+#15250
+{WNear the Top of the White Tower{x~
+Here the wide staircase pauses before continuing to the top of the tower,
+graceful archways containing magical barriers that open onto outdoor
+balconies to the east and west.  The stairs themselves continue upward into
+the peak of the tower, or back down toward the communal levels.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15251
+D3
+~
+~
+0 0 15249
+D4
+~
+~
+0 0 15253
+D5
+~
+~
+0 0 15245
+S
+#15251
+{WA Walkway Atop the White Tower{x~
+Here a delicate walkway follows the contour of the tower's graceful
+spire.  Wide enough for two people to walk side by side, a waist-high
+balcony offers a spectacular view of the magical Forest of Wayreth.  Despite
+its relaxed atmosphere, this landing also serves as a vantage point should
+the Tower ever suffer any unwelcome visitors...  A cushioned marble bench
+wide enough for two sits along the tower's outer wall, offering respite for
+the weary.  
+~
+0 524292 18
+D3
+~
+~
+0 0 15250
+S
+#15252
+{WBefore the Audience Chamber{x~
+A tastefully decorated reception area opens up at the top of the
+staircase.  A number of cushioned seats are placed throughout the area, and
+a table along the far wall holds an assortment of light elven wine, fruit,
+and other refreshments.  A small set of steps leads upward to an elegantly
+carved Vallenwood door, flanked by white marble statues resembling perched
+gryphons.  The atmosphere is warm and welcoming, with light shining down
+from a white globe that hovers near the ceiling in the center of the
+chamber.  
+~
+0 525324 18
+D4
+~
+~
+6 15255 15255
+D5
+~
+~
+0 0 15247
+S
+#15253
+{WNear the Top of the White Tower{x~
+The circular stairwell continues its ever-climbing spiral toward the
+uppermost spire of the White Tower.  The walls here are covered with
+numerous ancient and powerful runes of protection and warding.  The stairs
+themselves end abruptly at a glowing circular platform of magical energy. 
+There is seemingly no other exit from this room, other than the stairs
+leading down into the heart of the tower.  
+~
+0 524296 18
+D5
+~
+~
+0 0 15250
+S
+#15254
+{WThe Towermistress's Private Chambers{X~
+This chamber manages to be both stately and luxuriant at the same time. 
+White velvet drapes hang from every wall, reflecting the glowing warmth from
+a number of large candles in platinum sconces.  An elven carved four-poster
+bed sits against the back wall next to a towering bookshelf overflowing with
+various tomes.  An overstuffed couch lies against the south wall, with an
+equally stuffed chair and polished writing desk near the hearth on the
+opposite side.  Columns of white oak line the hearth to either side,
+supporting an alabaster mantle above the magical flame.  High above in the
+vaulted ceiling, a large circular window opens to the sky above; admitting
+both the sunshine and the silvery light of Solinari at High Sanction.  
+~
+0 524300 18
+D1
+~
+~
+1 0 15255
+S
+#15255
+{WThe Towermistress's Office{X~
+A large oak desk sits in one corner of the room, light streaming in from
+the window behind.  Large bookshelves line the walls, filled with historical
+records and documents scrupulously kept by the White Robe students.  Where
+there is any space on the walls, white drapes hang freely from ceiling to
+floor.  In the corners sit tables piled with strange, experimental
+instruments, maps and ancient texts.  A small set of steps to the south
+leads back down into the White Tower.  
+~
+0 524300 18
+E
+west~
+To the west, a pair of double doors can be seen, made of a pale hard
+wood.  Carved into these doors so that it is split perfectly in two when
+they open is a white, round disc, surrounded by runes that seem to shimmer
+in the light.  Beyond the door lies the Towermistress's private chambers.  
+~
+D3
+~
+~
+1 0 15254
+D5
+~
+~
+6 15255 15252
+S
+#15256
+The Infirmary~
+This room has been set aside to handle unfortunate mishaps within the
+Laboratories, as well as a place for apprentices recovering from their Test.
+Several partitions line each wall; containing padded cots, and a small
+nightstand so that recovering patients may continue their studies.  The
+resident healer makes his rounds, tending to various needs or simply
+offering some pleasant conversation.  
+~
+0 525324 18
+D2
+~
+~
+0 0 15222
+S
+#15257
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15181
+D1
+~
+~
+0 0 15258
+D2
+~
+~
+0 0 15257
+D3
+~
+~
+0 0 15181
+S
+#15258
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15182
+D1
+~
+~
+0 0 15258
+D2
+~
+~
+0 0 15182
+D3
+~
+~
+0 0 15257
+S
+#15259
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15258
+D1
+~
+~
+0 0 15270
+D2
+~
+~
+0 0 14325
+D3
+~
+~
+0 0 15176
+S
+#15260
+{WAtop the White Tower{x~
+Here at the pinnacle of the White Tower, a 20' circular platform has been
+erected, bare of any furnishing.  A waist-high balcony offers a spectacular
+view of the Forest and the surrounding area.  The platform itself has a
+variety of purposes; whether for private meetings, scrying, defense of the
+Tower, or simply a landing point for the occasional griffon.  
+~
+0 524292 18
+S
+#15261
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+north and east, while to the south a large cherrywood staircase leads to the
+lower levels.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15264
+D1
+~
+~
+0 0 15262
+D2
+~
+~
+0 0 15236
+S
+#15262
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+north, east and west.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15265
+D1
+~
+~
+0 0 15263
+D3
+~
+~
+0 0 15261
+S
+#15263
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+west, while to the north sounds of mixed voices can be heard chanting.  
+~
+0 524296 18
+D0
+~
+~
+1 0 15266
+D3
+~
+~
+0 0 15262
+S
+#15264
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+south, and a large cherrywood staircase spirals upward into the upper levels
+of the tower.  
+~
+0 524296 18
+D2
+~
+~
+0 0 15261
+D4
+~
+~
+0 0 15267
+S
+#15265
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+south, while to the east sounds of mixed voices can be heard chanting.  
+~
+0 524296 18
+D1
+~
+~
+1 0 15266
+D2
+~
+~
+0 0 15262
+S
+#15266
+{RShrine of the Red Moon{x~
+This chamber is completely bare, save for the elegant shrine in the
+center of the room.  Standing within a circle of runes inlaid in rose
+quartz, an exquisitely lifelike carving of a beautiful young woman stands
+atop a sturdy pedestal of stained oak and bloodstone.  Here, the faithful of
+Lunitari come to commune with their goddess, and to initiate new Red Robes
+to the Order - brought here to formally dedicate their lives to the service
+of Neutral Magic.  
+~
+0 25691164 45
+D2
+~
+~
+1 0 15263
+D3
+~
+~
+1 0 15265
+S
+#15267
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+east, while below, a large cherrywood staircase leads to the lower levels.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15268
+D5
+~
+~
+0 0 15264
+S
+#15268
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+north and west, while to the east, various voices and sounds of spellcasting
+can be heard.  
+~
+0 524296 18
+D0
+~
+~
+0 0 15271
+D1
+~
+~
+3 0 15269
+D3
+~
+~
+0 0 15267
+S
+#15269
+{RThe Learning Chamber{x~
+Devoid of any furnishings or decoration, this room serves as an area for
+mages of the Red Robes to practice their art.  Various students and masters
+alike mill about; casting wards, practicing their defensive skills and
+discussing magical theory.  Insulated against any stray magic from escaping,
+the chamber serves as a perfect training center for those who wish to
+perfect their spells.  
+~
+0 17301532 18
+D3
+~
+~
+3 0 15268
+M 200 H 100
+S
+#15270
+Within Wayreth Forest~
+An unnatural silence fills the air here.  No woodland creatures can be
+seen or heard, yet the air itself seems to hum with energy.  Stretching in
+every direction, row upon row of tall, majestic trees in full spring bloom
+seem to whisper to one another.  Time quickly loses any meaning within this
+magical woodland, and it becomes hard to tell whether one has been wandering
+for hours or days.  Created long ago to ward off any unwelcome visitors, the
+Forest of Wayreth stands silent vigil over those foolhardy enough to seek
+the Conclave uninvited.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15184
+D1
+~
+~
+0 0 15270
+D2
+~
+~
+0 0 15179
+D3
+~
+~
+0 0 15259
+S
+#15271
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+south, while a large cherrywood staircase continues into the upper levels of
+the tower.  To the east lie the tower's guest chambers.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15272
+D2
+~
+~
+0 0 15268
+D4
+~
+~
+0 0 15273
+S
+#15272
+{RGuest Chambers of the Red Tower{x~
+This chamber, though but a single room, is nonetheless luxuriant in its
+furnishings and decor offering every comfort that a visiting guest might
+wish.  Lavish tapestries decorate the walls, surrounding an elegant four
+poster bed crafted of vallenwood and stuffed with robin’s feathers.  A small
+dining table magically conjures whatever refreshments are desired, and a
+large bookshelf on the eastern wall is likewise enchanted enabling the
+reader to instantly peruse any topic that strikes his or her interest.  Here
+visiting officials and honored guests bide their time while awaiting an
+audience with the leaders of the Red Robes.  
+~
+0 533516 18
+D3
+~
+~
+0 0 15271
+M 100 H 175
+S
+#15273
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+east, while below, a large cherrywood staircase leads to the lower levels.
+~
+0 524296 18
+D1
+~
+~
+0 0 15274
+D5
+~
+~
+0 0 15271
+S
+#15274
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+west, while a large cherrywood staircase continues into the upper levels of
+the tower.  
+~
+0 524296 18
+D3
+~
+~
+0 0 15273
+D4
+~
+~
+0 0 15277
+S
+#15275
+{RThe Ordermaster's Office{X~
+A hollowed brass door bearing the red crescent of Lunitari opens into an
+octagonal, business-like room.  A large, cherrywood desk sits in one corner,
+light from several oil lamps reflecting in the draped window behind it. 
+Large bookshelves line the surrounding walls, and historical records and
+documents scrupulously kept by the Red Robe students can be seen within
+them.  Thick, red drapes decorate the empty walls between the bookshelves,
+of which there are few.  Along one wall sits a table piled with strange,
+experimental instruments, maps and ancient texts.  
+~
+0 524300 18
+D1
+~
+~
+1 0 15276
+S
+#15276
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The hallway continues to the east, while
+a large brass door lies to the west.  A small stairway leads upward to the
+top of the Red Tower.  
+~
+0 524296 18
+D1
+~
+~
+0 0 15277
+D3
+~
+~
+1 0 15275
+D4
+~
+~
+1 0 15279
+S
+#15277
+{RA Hallway in the Red Tower{x~
+These austere halls resemble the extravagant estate of some well-to-do
+scholar.  The luxuriant crimson carpet below softens the footsteps of all
+who tread here, creating the hushed atmosphere of a wealthy private library.
+The surrounding walls are paneled mahogany trimmed in the finest cherrywood.
+Polished brass sconces illuminate the area and sparkle from crystalline
+chandeliers.  Here and there, tall multipaned windows look out upon the
+forest; bathing the hall in the alternating light of sun and moons.  Various
+instructors and students alike wander about, greeting one another and
+exchanging their latest theories.  The maze of hallways continues to the
+west, while below, a large cherrywood staircase leads to the lower levels.  
+~
+0 524296 18
+D3
+~
+~
+0 0 15276
+D5
+~
+~
+0 0 15274
+S
+#15278
+A Dead-End In the Forest~
+Here the trees have grown so thick as to be impassable; almost as if they
+were closing ranks.  An unnatural silence fills the air; no woodland
+creatures can be seen or heard, yet the air itself seems to hum with energy.
+In every direction, the eerily imposing trees seem to whisper to one
+another.  Time quickly loses any meaning within this magical woodland, and
+it becomes hard to tell whether one has been wandering for hours or days. 
+There is little choice but to return the way you came.  
+~
+0 524288 3
+D0
+~
+~
+0 0 15259
+S
+#15279
+{RAtop the Red Tower{x ~
+Rising above the forest below, the top of the Red Tower is open and
+flawless.  Having been crafted out of the same wood and brass that the rest
+of this tower has been crafted from, it appears magnificent against the rest
+of the surrounding spaces.  The wood here has been flecked with gold, giving
+it a very beautiful shimmer when the sun decides to rise from its slumber. 
+A feeling of intense tranquility radiates around the area, easing the
+burdens of every day life.  
+~
+0 524292 18
+D5
+~
+~
+1 0 15276
+S
+#15280
+{DA Wrought-Iron Landing{x~
+Here the twisting staircase pauses at a small landing, its cold iron
+banisters expanding into a balcony that opens into a hallway to the east. 
+The stairs continue to wind upward into the Black Tower, while below, a
+large intersection marks the central point between the library and the rest
+of the tower.  
+~
+0 524297 18
+D1
+~
+~
+0 0 15288
+D4
+~
+~
+0 0 15281
+D5
+~
+~
+0 0 15234
+S
+#15281
+{DOn a Wrought Iron Stairwell{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the west, while the serpentine stairwell continues above and
+below.  
+~
+0 524297 18
+D3
+~
+~
+0 0 15291
+D4
+~
+~
+0 0 15282
+D5
+~
+~
+0 0 15280
+S
+#15282
+{DOn a Wrought Iron Stairwell{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the east, while the serpentine stairwell continues above and
+below.
+~
+0 524297 18
+D1
+~
+~
+0 0 15294
+D4
+~
+~
+0 0 15283
+D5
+~
+~
+0 0 15281
+S
+#15283
+{DOn a Wrought Iron Stairwell{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The serpentine
+stairwell continues above and below you, leading to other levels of the
+tower.  
+~
+0 524297 18
+D4
+~
+~
+0 0 15286
+D5
+~
+~
+0 0 15282
+S
+#15284
+{DThe Ordermaster's Office{x~
+A solid iron door bearing the black disc of Nuitari opens into a
+circular, high-ceilinged chamber.  A long desk of polished ebony sits at the
+far end of the room, partially obscured in shadow.  Along the walls, a few
+scattered iron sconces hold orbs of blue fire, making the shadows in the
+room flicker and dance.  A table on the west end of the room holds documents
+scrupulously kept by the Black Robe students, next to it sits a table piled
+with strange, experimental instruments, maps and ancient texts.  
+~
+0 524300 18
+D1
+~
+~
+1 0 15285
+S
+#15285
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues east towards the main stairwell, and west to a large black
+circular door.  
+~
+0 524297 18
+D1
+~
+~
+0 0 15286
+D3
+~
+~
+1 0 15284
+S
+#15286
+{DOn a Wrought Iron Stairwell{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The serpentine
+stairwell continues below, leading to other levels of the tower, and a
+single iron door stands at the top of the stairs.  
+~
+0 524297 18
+D3
+~
+~
+0 0 15285
+D4
+~
+~
+1 0 15287
+D5
+~
+~
+0 0 15283
+S
+#15287
+{DAtop the Black Tower{x~
+Here at the pinnacle of the Black Tower, a 20' circular platform looks
+out over the surrounding landscape, surrounded by a waist high iron railing.
+The platform itself has a variety of purposes, whether for private meetings,
+scrying, defense of the Tower, or simply a landing point for the occasional
+griffon.  
+~
+0 524292 18
+D5
+~
+~
+1 0 15286
+S
+#15288
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the east and west.  
+~
+0 524297 18
+D1
+~
+~
+0 0 15289
+D3
+~
+~
+0 0 15280
+S
+#15289
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the north and west.  
+~
+0 524297 18
+D0
+~
+~
+0 0 15290
+D3
+~
+~
+0 0 15288
+S
+#15290
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the south.
+~
+0 524297 18
+D2
+~
+~
+0 0 15289
+S
+#15291
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the north and east.
+~
+0 524297 18
+D0
+~
+~
+0 0 15292
+D1
+~
+~
+0 0 15281
+S
+#15292
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the north and south.  To the east, a luxuriant chamber has been
+set aside for invited guests.  
+~
+0 524297 18
+D0
+~
+~
+0 0 15298
+D1
+~
+~
+1 0 15293
+D2
+~
+~
+0 0 15291
+S
+#15293
+{DGuest Chambers of the Black Tower{x~
+This chamber, though but a single room, is nonetheless luxuriant in its
+furnishings and decor; offering every comfort that a visiting guest might
+wish.  Lavish tapestries decorate the walls, surrounding an elegant four
+poster bed crafted of ebony and stuffed with raven feathers.  A small dining
+table magically conjures whatever refreshments are desired, and a large
+bookshelf on the eastern wall is likewise enchanted; enabling the reader to
+instantly peruse any topic that strikes his or her interest.  Here visiting
+officials and honored guests bide their time while awaiting an audience with
+the leaders of the Black Robes.  
+~
+0 533516 18
+D3
+~
+~
+1 0 15292
+M 100 H 175
+S
+#15294
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the east and west.
+~
+0 524297 18
+D1
+~
+~
+0 0 15295
+D3
+~
+~
+0 0 15282
+S
+#15295
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the west, while to the south sounds of mixed voices can be
+heard chanting.  
+~
+0 524297 18
+D2
+~
+~
+3 0 15297
+D3
+~
+~
+0 0 15294
+S
+#15296
+Unused~
+~
+0 2129932 0
+S
+#15297
+{DShrine of the Black Moon{x~
+This chamber is completely bare, save for the elegant shrine in the
+center of the room.  Standing within a circle of runes inlaid in onyx and
+silver, an exquisitely lifelike sculpture of a young man stands atop a
+sturdy pedestal of obsidian and hematite.  Here, the faithful of Nuitari
+come to commune with their god, and to initiate new Black Robes to the Order
+- brought here to formally dedicate their lives to the service of Black
+Magic.  
+~
+0 25691180 46
+D0
+~
+~
+3 0 15295
+S
+#15298
+{DA Darkened Corridor{x~
+This darkened corridor exudes an aura of quiet menace.  Fashioned of
+polished black marble, there is very little in the way of decoration; merely
+a painting now and then, and a few orbs of blue fire that bathe the area in
+a cold light.  The air here is chill and musty, and practically hums with
+ambition.  There are no windows, as if the mages here wished to keep their
+very presence a secret from even the surrounding forest.  The corridor
+continues to the south, while to the east various voices and sounds of
+spellcasting can be heard.  
+~
+0 524297 18
+D1
+~
+~
+3 0 15299
+D2
+~
+~
+0 0 15292
+S
+#15299
+{DThe Learning Chamber{x~
+Devoid of any furnishings or decoration, this room serves as an area for
+mages of the Black Robes to practice their art.  Various students and
+masters alike mill about casting wards, practicing their defensive skills
+and discussing magical theory.  Insulated against any stray magic from
+escaping, the chamber serves as a perfect training center for those who wish
+to perfect their spells.  
+~
+0 17301548 18
+D3
+~
+~
+3 0 15298
+M 200 H 100
+S
+#0
+
+
+
+#SPECIALS
+M 15205 spec_cast_mage
+M 15206 spec_cast_mage
+M 15218 spec_dark_magic
+S
+
+
+
+#RESETS
+D 0 15205 1 2
+D 0 15206 3 2
+D 0 15207 1 1
+D 0 15207 2 1
+D 0 15208 1 2
+D 0 15208 3 1
+D 0 15209 3 2
+D 0 15210 0 1
+D 0 15211 1 2
+D 0 15212 3 2
+D 0 15213 1 2
+D 0 15214 1 2
+D 0 15214 3 2
+D 0 15215 3 2
+D 0 15218 0 1
+D 0 15221 1 1
+D 0 15222 3 1
+D 0 15229 2 1
+D 0 15240 0 1
+D 0 15242 1 1
+D 0 15243 0 1
+D 0 15243 3 1
+D 0 15244 2 1
+D 0 15247 2 1
+D 0 15252 4 2
+D 0 15254 1 1
+D 0 15255 3 1
+D 0 15255 5 2
+D 0 15263 0 1
+D 0 15265 1 1
+D 0 15266 2 1
+D 0 15266 3 1
+D 0 15268 1 1
+D 0 15269 3 1
+D 0 15275 1 1
+D 0 15276 3 1
+D 0 15276 4 1
+D 0 15279 5 1
+D 0 15284 1 1
+D 0 15285 3 1
+D 0 15286 4 1
+D 0 15287 5 1
+D 0 15292 1 1
+D 0 15293 3 1
+D 0 15295 2 1
+D 0 15297 0 1
+D 0 15298 1 1
+D 0 15299 3 1
+M 0 15186 1 15186 1
+O 0 15191 0 15188
+O 0 15191 0 15189
+O 0 15190 0 15190
+O 0 15191 0 15190
+O 0 15191 0 15191
+O 0 15191 0 15192
+O 0 15191 0 15193
+O 0 15191 0 15194
+O 0 15191 0 15195
+O 0 15191 0 15196
+O 0 15202 0 15202
+M 0 15205 1 15205 1
+O 0 15207 0 15207
+M 0 15206 1 15207 1
+O 0 15215 0 15209
+O 0 15215 0 15212
+O 0 15215 0 15213
+O 0 15215 0 15215
+M 0 15218 1 15218 1
+M 0 15223 1 15223 1
+G 0 15195 0
+G 0 15192 0
+G 0 15193 0
+G 0 15194 0
+M 0 15228 1 15228 1
+G 0 15212 0
+G 0 15211 0
+G 0 15210 0
+G 0 15196 0
+G 0 15209 0
+O 0 15288 0 15228
+M 0 15229 1 15235 1
+O 0 15243 0 15243
+O 0 15249 0 15249
+O 0 15249 0 15251
+M 0 15252 1 15252 1
+O 0 15299 0 15253
+O 0 15288 0 15255
+M 0 15211 1 15256 1
+O 0 15218 0 15260
+O 0 15266 0 15266
+O 0 15297 0 15297
+S
+
+
+
+#SHOPS
+15223 0 0 0 0 0 100 100 0 23
+15228 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#15186
+if org $n 'conclave'
+MOB ECHOAROUND $n An unseen wall of force ripples momentarily, allowing $n to pass.
+MOB GTRANSFER $n 15187
+break
+else
+MOB ECHOAT $n The air around you shimmers briefly; as your vision clears, you find yourself in the Forest once more.
+MOB ECHOAROUND $n The air around the gate shimmers briefly, then with a startled cry and a flash of light, $n vanishes!
+MOB GTRANSFER $n 15178
+break
+endif
+~
+#15205
+if org $n 'conclave'
+and level $n > 69
+say As you wish. Here is your key, please keep a close eye upon it.
+MOB OLOAD 15205
+give key $n
+bow $n
+break
+else
+say I'm sorry, but you do not have the proper authorization.
+endif
+~
+#15252
+if sex $n == 2
+say One moment lady, I shall inquire.
+else
+say One moment sir, I shall inquire.
+endif
+MOB REMEMBER $n
+emote gently knocks at the door.
+pause 20
+MOB GOTO 15255
+if mobhere shimai
+emote opens the door, bowing respectfully.
+say Pardon me, Mistress, $q requests an audience with you.
+pmote bows to Shimai once more and quietly exits, closing the door behind $k.
+MOB GOTO 15252
+say Mistress Shimai will be with you shortly. Please wait here.
+else
+MOB GOTO 15252
+say My apologies, but the Towermistress is currently unavailable. Please leave a note with the scribes if you wish to make an appointment.
+mob echo $I bows deeply.
+endif
+~
+#15253
+if org $n 'conclave'
+say Good day, $n.
+bow $n
+MOB REMEMBER $n
+MOB CALL 15254
+else
+say Indeed, may Solinari's blessings shine upon us all.
+bow $n
+endif
+~
+#15254
+if hastarget $i
+say Here you are, $q, I am at your service.
+MOB OLOAD 15255
+give key $q
+mob forget
+else
+endif
+~
+#15255
+What? Me? I can't go fuck myself.. how dare you!
+slap $n
+~
+#15256
+if sex $n == 2
+say Please allow me a moment to inquire, m'lady.
+else
+say Please allow me a moment to inquire, m'lord.
+endif
+MOB REMEMBER $n
+emote gently knocks at the door.
+pause 20
+MOB GOTO 15275
+if mobhere yerthorn
+emote opens the door, bowing respectfully.
+say Pardon me, Master. $q requests an audience with you.
+pmote bows to Yerthorn once more and quietly exits, closing the door behind $k.
+MOB GOTO 15276
+say Master Yerthorn will be with you shortly. Please wait here.
+else
+MOB GOTO 15276
+say Sincerest apologies, but the Towermaster is unavailable currently. Please leave a note with the scribes if you wish to make an appointment.
+mob echo $I bows deeply.
+endif
+~
+#15257
+if org $n 'conclave'
+say Good day, $n.
+bow $n
+MOB REMEMBER $n
+MOB CALL 15258
+else
+say May the Red Moon guide us all.
+bow $n
+endif
+~
+#15258
+if hastarget $i
+say Here you are, $q. I am at your service.
+MOB OLOAD 15186
+give key $q
+mob forget
+else
+endif
+~
+#15259
+if sex $n == 2
+say Just a moment, m'lady. I shall inquire.
+else
+say Just a moment, sir. I shall inquire.
+endif
+MOB REMEMBER $n
+emote gently knocks at the door.
+pause 20
+MOB GOTO 15284
+if mobhere darkahn
+emote opens the door, bowing respectfully.
+say Pardon me, Master. $q requests an audience with you.
+pmote bows to Darkahn once more and quietly exits, closing the door behind $k.
+MOB GOTO 15285
+say Master Darkahn will be with you shortly. Please wait here.
+else
+MOB GOTO 15285
+say My apologies. The Towermaster is unavailable. Please leave a note with the scribes if you wish to make an appointment.
+mob echo $I bows deeply.
+endif
+~
+#15260
+if org $n 'conclave'
+say Good day, $n.
+bow $n
+MOB REMEMBER $n
+MOB CALL 15261
+else
+say May the Dark Son's blessings empower us all.
+bow $n
+endif
+~
+#15261
+if hastarget $i
+say Here you are $q. I am at your service.
+MOB OLOAD 15187
+give key $q
+mob forget
+else
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#15186
+if org $n == 'conclave'
+GTRANSFER $n 15187
+break
+else
+ECHOAT $n You suck.
+break
+endif
+~
+#15209
+if objhere bread
+break
+else
+ROOM OLOAD 15208 1 room
+endif
+~
+#0
+
+#$

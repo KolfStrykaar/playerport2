@@ -1,0 +1,605 @@
+#PLAYER
+Name Sierra~
+Surname Chaslor~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1335657563
+LogO 1415321475
+Vers 10
+Act  CDGTe
+Desc {mSilken black hair is tucked behind this girl's elongated ears. Her face
+is youthful and her complexion pale. Her eyes are a luminous aqua color,
+slightly slanted in an elven manner. Delicate lips cover perfect, white
+teeth; her cheeks holding some rosy color and bringing life to her otherwise
+pale face. Her black hair flows down her back, contrasting her thin, pale neck,
+though it stops at her shoulders.
+ 
+Covering her torso are robes of royal purple, made of satin and velvet that
+has been embroidered with silver and light blue thread. The robes wrap her lithe
+body, the sleeves tucked into a matching pair of gloves. Around her waist is
+a cord of white, cinched tight to keep her robes closed. Her feet are protected
+by slippers of black leather.
+ 
+Draped around her shoulders is a traveling cloak with a large hood, which she
+will wear occasionally, while roaming.{x
+ 
+ 
+~
+Prom {c<%h/%H> {m<%m/%M> {W<%v/%V>{x %X %B %b ~
+Race silvanesti~
+Sex  2
+Cla  1
+Hmtown 0
+Levl 55
+recall_point 3001
+Levscale 30
+Xptolev  18114
+Sec  0
+Plyd 114975
+Not  1381433162 1381433164 0 1381433167 1336429665
+Scro 22
+Room 3001
+HMV  1115 1115 880 880 429 429
+Steel 2703
+Gold 6887
+Bank 0
+Exp  865086
+AfBy J
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2162688
+Comm NO
+Pos  8
+Prac 55
+Trai 2
+Save  -3
+Alig  1000
+Ethos 0
+Hit   12
+Dam   17
+ACs 10 0 -11 41
+Attr 11 22 21 25 27 16
+AMod 4 12 16 7 6 0
+Pass Si2nXrSgBO53c~
+Titl  the Cardinal of the Sea~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 28
+HMVP 800 665 429
+Cnd  0 33 34 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {m@{c}--{{ {WChaslor{c }--{{{m@{x: {m~
+Sk 75 'armor'
+Sk 76 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 75 'cause critical'
+Sk 75 'cause light'
+Sk 75 'cause serious'
+Sk 75 'create food'
+Sk 75 'create spring'
+Sk 76 'cure blindness'
+Sk 88 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure light'
+Sk 81 'cure poison'
+Sk 75 'cure serious'
+Sk 1 'curse'
+Sk 75 'demonfire'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 75 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'orb of containment'
+Sk 75 'harm'
+Sk 85 'heal'
+Sk 75 'life transfer'
+Sk 75 'holy word'
+Sk 1 'know alignment'
+Sk 75 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'protection evil'
+Sk 75 'ray of truth'
+Sk 1 'refresh'
+Sk 1 'remove curse'
+Sk 78 'sanctuary'
+Sk 75 'teleport'
+Sk 78 'word of recall'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 77 'dodge'
+Sk 87 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 79 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 75 'traject'
+Sk 81 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 76 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 80 'spiritual hammer'
+Sk 79 'pillify'
+Sk 75 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'wear chain'
+Sk 75 'wear leather'
+Sk 80 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 86 'sate'
+Sk 75 'invigorate'
+Sk 75 'purify'
+Sk 1 'taunt'
+Sk 7 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 83 'quench'
+Sk 75 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 9830
+Nest 0
+Cond 97
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 9852
+Nest 0
+Name piece folded parchment silver~
+ShD  a piece of folded parchment~
+Desc This looks like a piece of parchment someone has written a note on. But, when you open it, there's nothing inside!~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16193
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 87
+Wear 20
+Cost 46000
+End
+
+#O
+Vnum 15210
+Nest 0
+Name elegant royal purple robe~
+ShD  ({CElegant{x) {dRoyal purple{x robes~
+Desc robes of royal purple, made of satin and velvet that has been embroidered with silver and light blue thread lie here collecting dust.~
+Cond 100
+Wear 5
+Cost 4600
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 1835
+Nest 0
+Cond 100
+Wear -1
+Lev  27
+Cost 0
+Val  27 0 0 0 0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  27
+Cost 0
+Val  27 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  27
+Cost 0
+Val  27 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  27
+Cost 0
+Val  27 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Cond 100
+Wear -1
+Lev  27
+Cost 0
+Val  27 0 0 0 0
+End
+
+#END

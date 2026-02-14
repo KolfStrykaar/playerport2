@@ -1,0 +1,877 @@
+#PLAYER
+Name Nyrene~
+Surname Codac~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1418979122
+LogO 1422504147
+Vers 10
+Act  CDEGQTe
+Prom {m%h{M%H {m%m{M%M {m%v{M%V {R%X {w%gs {y%sg{x%B%c~
+Race half-elf~
+Sex  2
+Cla  8
+Hmtown 0
+Levl 40
+recall_point 3001
+Levscale 30
+Xptolev  13368
+Sec  0
+Plyd 284325
+Not  1420281656 1419573878 0 1419573881 1419573876
+Scro 38
+Room 2659
+HMV  1034 1089 448 467 287 351
+Steel 2691
+Gold 42509
+Bank 0
+Exp  221882
+AfBy JTVb
+AfBy2 Ab
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1769472
+Comm MNO
+Pos  8
+Prac 9
+Trai 1
+Save  -3
+Alig  856
+Ethos 2
+Hit   36
+Dam   36
+ACs -44 -22 -60 24
+Wimp  157
+Attr 25 19 18 23 24 16
+AMod 12 8 23 12 14 4
+Pass Nyi8gXY9h0y8o~
+Titl  the Ranger Initiate~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 78
+HMVP 879 307 351
+Cnd  0 27 27 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 100 'forest vision'
+Sk 96 'farsight'
+Sk 1 'orb of containment'
+Sk 96 'frenzy'
+Sk 67 'axe'
+Sk 94 'dagger'
+Sk 96 'flail'
+Sk 81 'mace'
+Sk 1 'polearm'
+Sk 32 'shield block'
+Sk 46 'spear'
+Sk 93 'sword'
+Sk 1 'whip'
+Sk 82 'bash'
+Sk 7 'berserk'
+Sk 93 'camouflage'
+Sk 31 'dirt kicking'
+Sk 1 'disarm'
+Sk 79 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 56 'hand to hand'
+Sk 100 'kick'
+Sk 61 'parry'
+Sk 24 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 100 'track'
+Sk 1 'counter'
+Sk 100 'butcher'
+Sk 1 'dual wield'
+Sk 100 'mount'
+Sk 100 'campfire'
+Sk 96 'search water'
+Sk 47 'bearcall'
+Sk 1 'ambush'
+Sk 95 'herbal discern'
+Sk 1 'battle tactics'
+Sk 100 'trophy'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 9 'sneak'
+Sk 50 'recall'
+Sk 57 'bow'
+Sk 1 'grasping roots'
+Sk 1 'guard'
+Sk 44 'mounted combat'
+Sk 99 'scout'
+Sk 1 'quiet movement'
+Sk 1 'disarm traps'
+Sk 1 'set traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'eagle eye'
+Sk 1 'call of the wild'
+Sk 1 'tame'
+Sk 1 'arrow deflection'
+Sk 1 'point-blank shot'
+Affc 'levitate'   0 101 102   0   0     524288
+Affc 'waterlungs'   0 101 102   0   0  134217728
+Affc 'farsight'   6  40  21   0   0  134217728
+Affc 'forest vision'   6  39  36   0   0          1
+Affc 'frenzy'   0  38   4  30  17          0
+Affc 'frenzy'   0  39   4   6  19          0
+Affc 'frenzy'   0  38   4   6  18          0
+Affc 'haste'   0  98  15   4   2    2097152
+Affc 'giant strength'   0  98  90   4   1          0
+Affc 'empowerment'   0  97  90   3   5          0
+Affc 'attunement'   0 100  90   3   3          0
+Affc 'attunement'   0  99  90   3   4          0
+Affc 'glamour'   0  97  90   4  27          0
+Affc 'aid'   0  97  12  10  18          0
+Affc 'armor'   0  30   1 -20  17          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17511
+Nest 1
+Cond 100
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 2483
+Nest 1
+Cond 96
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 9827
+Nest 1
+ExtF 8
+Cond 97
+Wear -1
+Cost 9000
+Val  1 4 26 33 4
+End
+
+#O
+Vnum 2516
+Nest 1
+Cond 94
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 2518
+Nest 1
+Cond 87
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 13308
+Nest 1
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  1 7 7 3 66
+End
+
+#O
+Vnum 8995
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 11266
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 16192
+Nest 0
+Cond 98
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 94
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 97
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 94
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 91
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 97
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 94
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 94
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 94
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 11250
+Nest 0
+Cond 100
+Wear 23
+Cost 2000
+End
+
+#O
+Vnum 16368
+Nest 0
+ExtF 0
+Cond 100
+Wear 16
+Cost 3000
+End
+
+#O
+Vnum 16366
+Nest 0
+ExtF 0
+Cond 99
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3368
+Nest 0
+ExtF 262144
+Cond 100
+Wear 5
+Cost 500
+End
+
+#O
+Vnum 17506
+Nest 0
+ExtF 0
+Cond 98
+Wear 6
+Cost 40000
+End
+
+#O
+Vnum 16208
+Nest 0
+ExtF 262144
+Cond 91
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 100
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 100
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 2450
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 19009
+Nest 0
+ExtF 8
+Cond 96
+Wear 20
+Cost 10000
+Val  1 10 14 11 202
+End
+
+#END

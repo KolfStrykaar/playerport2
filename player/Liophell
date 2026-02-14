@@ -1,0 +1,1434 @@
+#PLAYER
+Name Liophell~
+Surname Dalginos~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1325451597
+LogO 1415321337
+Vers 10
+Act  DEGHQT
+Desc Robes of {RConclavian Red{x clothe this youth, hanging from his thin form
+as though to swallow him within their folds. Thin arms ending in long,
+lithe hands, poke out from the ends of the sleeves, wrapped in
+gloves of a {rdark red{x, matching the runes embroidered into the robes.
+His feet are enclosed in {rboots{x that match the gloves, which can be seen
+from beneath the embroidered hem of the robes. A youthful face peeks out
+from beneath an ever-present hood, though it is drawn with lines brought
+on by stresses and worries he is far too young for. Dark circles mar the
+skin beneath his {bdusky blue eyes{x, giving him a look as though he is
+always exhausted. His face is long, angular, and his ears are elongated in
+the way of elven-kind. Thin, sinister-looking lips, almost white, even
+against his pallid skin color, pull back against perfect white elven teeth
+as he speaks.
+ {DBlack hair{x sprouts from his head, but it is shaven close to his
+scalp, revealing a thin scar that lies over his left eye, running into his
+hairline, but is further obscured by the hood of his robes. The boy has
+the look of a noble in his posture, though his thin frame and lined face
+belie a possible fall from grace.
+~
+Prom {R<%h/%H> {r<%m/%M> {B<%v/%V>{x %X %B %b ~
+Race qualinesti~
+Org 2
+Religion 19
+Sex  1
+Cla  12
+Hmtown 0
+Levl 75
+recall_point 3001
+Levscale 30
+Xptolev  15849
+Sec  0
+Plyd 1839559
+Not  1415321332 1382804331 0 1389586850 1325635709
+Scro 22
+Room 15195
+HMV  1400 1400 1368 1368 552 552
+Steel 2012
+Gold 71
+Bank 27000
+Exp  2941601
+AfBy BDJ
+Deaths 8
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2686976
+Comm NOQ
+Pos  8
+Prac 9
+Trai 1
+Reward_timer 95
+Save  -17
+Alig  350
+Ethos 0
+Hit   21
+Dam   26
+ACs -88 -86 -102 -81
+Wimp  100
+Attr 23 31 24 23 26 16
+AMod 6 5 16 16 13 0
+Pass LiLlySJDii/9Q~
+Titl  - {WInstructor{x of the {RRed Robes{x~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 445
+HMVP 1155 1113 552
+Cnd  0 41 49 0
+QuestPnts 854
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {RO{r]----{D{{ {WInstructor{D }{r----[{RO{X: ~
+Sk 100 'acid blast'
+Sk 55 'armor'
+Sk 1 'blindness'
+Sk 100 'burning hands'
+Sk 1 'cancellation'
+Sk 1 'cause serious'
+Sk 70 'change sex'
+Sk 76 'charm person'
+Sk 4 'detect good'
+Sk 90 'detect invis'
+Sk 79 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 1 'earthquake'
+Sk 77 'enchant armor'
+Sk 90 'enchant weapon'
+Sk 1 'farsight'
+Sk 1 'flamestrike'
+Sk 88 'levitate'
+Sk 1 'orb of containment'
+Sk 100 'gate'
+Sk 94 'giant strength'
+Sk 100 'haste'
+Sk 83 'life transfer'
+Sk 95 'mind shatter'
+Sk 1 'heat metal'
+Sk 100 'identify'
+Sk 1 'infravision'
+Sk 94 'invisibility'
+Sk 1 'know alignment'
+Sk 84 'locate object'
+Sk 1 'magic missile'
+Sk 93 'pass door'
+Sk 1 'aid'
+Sk 79 'protection evil'
+Sk 1 'recharge'
+Sk 95 'refresh'
+Sk 75 'sleep'
+Sk 1 'slow'
+Sk 1 'flesh to stone'
+Sk 100 'teleport'
+Sk 1 'weaken'
+Sk 100 'word of recall'
+Sk 21 'flaming shield'
+Sk 100 'dagger'
+Sk 83 'whip'
+Sk 97 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 99 'parry'
+Sk 83 'second attack'
+Sk 76 'traject'
+Sk 77 'mount'
+Sk 1 'break enchantment'
+Sk 85 'sympathy'
+Sk 91 'cantrip'
+Sk 1 'feeblemind'
+Sk 1 'binding'
+Sk 84 'brew'
+Sk 84 'scribe'
+Sk 1 'battle tactics'
+Sk 90 'knock'
+Sk 80 'flame rune'
+Sk 76 'frost rune'
+Sk 83 'shocking rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 78 'scrolls'
+Sk 75 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'cloak of starlight'
+Sk 1 'seal door'
+Sk 75 'unseal door'
+Sk 99 'attunement'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 100 'detect presence'
+Sk 1 'sleepless curse'
+Sk 90 'surge'
+Sk 1 'endure'
+Sk 1 'taunt'
+Sk 1 'fumble'
+Sk 1 'empowerment'
+Sk 1 'garble'
+Sk 1 'shallow breath'
+Sk 97 'chaos flux'
+Sk 95 'gravity flux'
+Sk 100 'torment'
+Sk 100 'trance'
+Sk 91 'waterlungs'
+Sk 100 'gift'
+Sk 100 'staff'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 77 'enlarge'
+Sk 87 'shrink'
+Sk 9 'lock'
+Sk 1 'mark of origin'
+Affc 'detect invis'   0  75  69   0   0          8
+Affc 'invisibility'   0  74  84   0   0          2
+End
+
+#O
+Vnum 1267
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 17405
+Nest 0
+Name hood red~
+ShD  ({rVelvet{x) hood of the {RRed Robes{x of the {rApprentice{x~
+Desc A pile of {Rred{x velvet lies crumpled on the ground.~
+Cond 94
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Name iron lantern~
+ShD  ({DWrought-Iron{x) a {Rglowing{x lantern~
+Desc A wrought-iron lantern lies here. From within, an arcane light continuously glows red.~
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1313
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1440
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 94
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 1832
+Nest 0
+Cond 97
+Wear 22
+Cost 7345
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 11383
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 2
+Cost 15000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 1
+Cost 15000
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 94
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 98
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 5833
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 2912
+Nest 0
+Name Velvet capelet Red Robes Conclave~
+ShD  ({rVelvet{x) capelet of the {RRed Robes{x of the Conclave~
+Desc A pile of crumpled red velvet lies here.~
+Cond 100
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 10105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Name Cloak of {rInvisibility{w~
+ShD  Cloak of {rInvisibility{w~
+Desc A cloak of a shimmering velvet lies here.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 16304
+Nest 0
+Name messenger satchel~
+ShD  ({ySoft Leather{x) a messenger's satchel~
+Desc A messenger's satchel lies here with a strap for slinging across one's body. It has been embossed with a {rred circle{x on the front.~
+Cond 100
+Wear -1
+Cost 283
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3767
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll silence scroll mind shatter scroll torment~
+ShD  a scroll of silence, mind shatter, torment~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 147 61 359 0
+Spell 1 'silence'
+Spell 2 'mind shatter'
+Spell 3 'torment'
+End
+
+#O
+Vnum 5757
+Nest 1
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 1621
+Nest 1
+ExtF 786432
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 10897
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Lev  49
+Cost 1000
+Val  24 33 35 0 0
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 14506
+Nest 1
+Cond 100
+Wear -1
+Cost 120000
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  37
+Cost 200
+Val  18 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  37
+Cost 200
+Val  18 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 9831
+Enchanted
+Nest 0
+ExtF 64
+Cond 100
+Wear -1
+Lev  42
+Cost 4445
+Affc 'enchant weapon'   1  75  -1   1  19          0
+Affc 'enchant weapon'   0  75  -1   1  18          0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3381
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 1209
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 10105
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 95
+Wear 20
+Cost 0
+Val  2 9 12 1 73
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll waterlungs~
+ShD  a scroll of waterlungs~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 370 -1 -1 0
+Spell 1 'waterlungs'
+End
+
+#END

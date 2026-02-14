@@ -1,0 +1,744 @@
+#PLAYER
+Name Neri~
+Surname Morchadi~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1344063099
+LogO 1415321464
+Vers 10
+Act  CDGTe
+Desc This tall elven form stands over six feet in height.  His hair is long
+and dark, held behind his elegant ears by a metal clip, and trailing down
+his back, past his shoulderblades.  His robes are a dark grey, accented with
+shifting, green symbols that seem to move of their own accord.  One either
+hand are dark green and black fingerless gloves, silken in their texture. 
+His feet are covered by comfortable, soft leather boots.  Around his neck is
+a silver chain with an opalescent crescent pendant, that hangs to his chest.
+~
+Prom {D<%h/%H> {g<%m/%M> {b<%v/%V>{X %X %B %b ~
+Race silvanesti~
+Org 4
+Devotee 16
+Sex  1
+Cla  13
+Hmtown 0
+Levl 45
+recall_point 3001
+Levscale 30
+Xptolev  21293
+Sec  0
+Plyd 124972
+Not  1381433302 1381433304 0 1381433306 1344104889
+Scro 22
+Room 11374
+HMV  779 779 812 812 367 367
+Steel 2458
+Gold 1817
+Bank 0
+Exp  319707
+AfBy DJ
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2162688
+Comm NO
+Pos  8
+Prac 11
+Trai 1
+Reward_timer 81
+Alig  437
+Ethos 2
+Hit   2
+Dam   4
+ACs 16 10 -3 41
+Wimp  35
+Attr 12 24 20 21 27 16
+AMod 4 9 14 4 9 0
+Pass Nel4Ox4EOH.Jc~
+Titl  the Wielder of Moonbeams~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 32
+HMVP 619 697 367
+Cnd  0 33 24 0
+QuestPnts 200
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 75 'armor'
+Sk 1 'blindness'
+Sk 99 'burning hands'
+Sk 1 'colour spray'
+Sk 75 'continual light'
+Sk 75 'create rose'
+Sk 1 'detect good'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 12 'fireball'
+Sk 1 'orb of containment'
+Sk 90 'gate'
+Sk 1 'ethereal warrior'
+Sk 75 'life transfer'
+Sk 75 'infravision'
+Sk 79 'invisibility'
+Sk 75 'know alignment'
+Sk 75 'magic missile'
+Sk 75 'mass invis'
+Sk 1 'aid'
+Sk 75 'protection evil'
+Sk 75 'refresh'
+Sk 75 'shield'
+Sk 1 'shocking grasp'
+Sk 75 'teleport'
+Sk 76 'ventriloquate'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 100 'dagger'
+Sk 1 'whip'
+Sk 75 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 78 'dragon skin'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 75 'mount'
+Sk 1 'displacement'
+Sk 1 'rainbow pattern'
+Sk 1 'cantrip'
+Sk 75 'darkness'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'knock'
+Sk 81 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 84 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'battlecry'
+Sk 1 'cause discord'
+Sk 1 'shifting shadows'
+Sk 1 'alter reality'
+Sk 1 'doppelganger'
+Sk 70 'backup'
+Sk 75 'looking glass'
+Sk 75 'seal door'
+Sk 75 'unseal door'
+Sk 75 'delusions of grandeur'
+Sk 1 'illusion'
+Sk 75 'mirror'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 76 'detect presence'
+Sk 1 'sequester'
+Sk 76 'surge'
+Sk 1 'endure'
+Sk 75 'scrye'
+Sk 1 'flash'
+Sk 1 'deafness'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 95 'trance'
+Sk 76 'cloak of evil'
+Sk 75 'hypnotic pattern'
+Sk 1 'staff'
+Sk 1 'phantom armor'
+Sk 1 'spook'
+Sk 2 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'detect invis'   0  41   6   0   0          8
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 15211
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 17713
+Nest 0
+Cond 97
+Wear -1
+Cost 550
+Val  2 7 8 11 65
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 91
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 82
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 98
+Wear 20
+Lev  23
+Cost 800
+Val  2 3 8 11 64
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#END

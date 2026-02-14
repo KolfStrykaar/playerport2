@@ -1,0 +1,5860 @@
+#AREADATA
+Name Vingaard Keep~
+Builders Shinare~
+Continent Solamnia~
+Controlby 1~
+Faction 250~
+Sector 0
+VNUMs 15601 15800
+Credits Shinare~
+Security 9
+End
+
+
+
+#MOBILES
+#15608
+solamnic stableboy~
+a Solamnic stableboy~
+A Solamnic stableboy stands here trying to sell unclaimed mounts.
+~
+This young stableboy looks well fed and healthy.  His clothing whilst
+practical is decorated with the emblem of the Knights of Solamnia.  His main
+purpose here is to make ready the horses at a moments notice.  He is also in
+charge of selling surplus mounts to those without one.  
+~
+human~
+ABT HV 750 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CDEFIKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK S unknown 0
+#15609
+solamnic warhorse~
+a Solamnic warhorse~
+A Solamnic warhorse stands here ready for battle.
+~
+This fine horse has been bred and trained by the finest Solamnic
+breeders.  His main duty is to carry knights into the midst of battle and
+stand firm as his master engages in combat.  He has a chestnut pelt and is
+lightly armored.  
+~
+horse~
+ADI SZ 0 0
+50 25 51d8+253 25d10+85 8d3+17 bite
+-7 -7 -7 -1
+FHI 0 0 0
+stand stand male 0
+AGV ACDEFHJKLQV L unknown 0
+#15640
+deerhound~
+A long legged deerhound~
+A long legged deerhound is sniffing around for deer.
+~
+This hunting dog has been bred for use in hunting deer.  His coat
+consists of wiry brown fur.  
+~
+dog~
+AI F 0 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+-3 -3 -3 0
+DH 0 0 0
+stand stand male 0
+AGV ACDEFHJKUV M unknown 0
+#15724
+knight crown guardian~
+the tunnel guardian~
+A Knight of the {YCrown{x guards the tunnel here.
+~
+This poor unfortunate knight of the crown has been sent down here to
+guard the dark tunnel entrance from those that should not be here.  
+~
+human~
+ABT HV 750 0
+40 40 81d13+405 40d10+85 13d3+25 punch
+-17 -17 -17 -9
+CEFIKNT AB N 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+M EXIT 15724 1~
+#15733
+vingaard jailor~
+the jailor~
+The jailor of Vingaard Dungeons is here.
+~
+This large man is the jailor of Vingaard keep.  It is his job to keep the
+prisoners inline and to prevent them from escaping.  
+~
+human~
+AGMT 0 0 0
+42 42 85d14+425 42d10+85 14d3+26 punch
+-19 -19 -19 -10
+CDEFIJKNOT B APQ 0
+stand stand male 400
+AHMV ABCDEFGHIJK M unknown 0
+#15734
+frightened prisoner~
+a frightened prisoner~
+A frightened prisoner is here trying to hide.
+~
+This low life thief has been caught by the knights and is being held
+until his trial.  
+~
+human~
+ACGS PZ -75 0
+25 25 51d8+253 25d10+85 8d3+17 punch
+-7 -7 -7 -1
+BDHJU 0 B Q
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#15739
+vingaard chef~
+the chef~
+The chef of Vingaard Keep is busy preparing meals here.
+~
+This very stressed man is in charge of cooking for all of the Knights and
+dignitaries that reside within the keep.  
+~
+human~
+ABT V 350 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+CDIJNOT 0 AB 0
+stand stand male 50
+AHMV ABCDEFGHIJK M unknown 0
+#15741
+vingaard servant~
+a servant~
+A servant of Vingaard keep is hurrying about her duties.
+~
+This busy servant is rushing around to fulfill her duties.
+~
+human~
+AGH 0 300 0
+20 20 30d6+183 20d10+85 5d4+11 punch
+0 0 0 4
+0 0 0 A
+stand stand female 3
+AHMV ABCDEFGHIJK M unknown 0
+#15742
+retired knight~
+a retired knight~
+A retired knight stands here ready to train all who wish to learn.
+~
+This retired knight of the crown spends his days doing what he enjoys
+most.  He trains young knights and squires and all others that are ready and
+willing to learn.  
+~
+human~
+ABJT HV 750 0
+202 202 405d67+8161 202d10+85 67d3+106 punch
+-127 -127 -127 -85
+CEFHIKNO ABCD 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK M unknown 0
+#15743
+sword initiate~
+an initiate of the Sword~
+An initiate of the Sword is tending to the wounded here.
+~
+This initiate of the Knights of the Sword has been tasked with running
+the lower infirmary.  His rank and station are not yet high enough to serve
+in the various chapels of the keep.  
+~
+human~
+ABa HV 0 0
+25 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CEFIKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#15745
+solamnic armorer~
+the Solamnic armorer~
+The armorer stands here distributing and selling generic weaponry.
+~
+This old retired knight now spends his days living in Vingaard Keep
+tending to the armory and sharpening the weapons and polishing the armor.  
+~
+human~
+ABT HV 750 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CEFHIKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#15749
+solamnic guard vingaard~
+a Solamnic guard~
+A guardsman of the Solamnic Knights stands here.
+~
+This man wears his Solamnic uniform proudly.  Whilst he will never become
+a knight for many reasons he serves them dutifully.  He and others like him
+serve as foot soldiers when the knights go to war and as guards to their many
+military installations.  
+~
+human~
+AGT 0 250 0
+35 35 53d11+319 35d10+85 10d3+16 punch
+-6 -6 -6 0
+EFJNQT 0 B 0
+stand stand male 150
+AHMV ABCDEFGHIJK M unknown 0
+#15756
+vingaard priest knight~
+a priest of Kiri-Jolith~
+A priest of Kiri-Jolith stands here praying to his god.
+~
+This retired Sword Knight carries an aura of great power and faith,
+despite his age.  Dressed in the garb of a warrior-priest, he has served the
+Lords of Vingaard Keep for many years while instructing younger knights in
+the tenets of Kiri-Jolith.  
+~
+human~
+ABQa HV 1000 0
+50 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+CEFIKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#15774
+knight crown vingaard~
+a Knight of the Crown~
+A Knight of the {YCrown{x stands here.
+~
+This young knight is from the order of the {YCrown{x, the lowest order of
+the Knights of Solamnia.  The Knights of the {YCrown{x consist mainly of
+younger men like this one aspiring to become Knights of the {RRose{x or of
+the {CSword{x.  
+~
+human~
+AGT HV 760 0
+40 40 60d13+365 40d10+85 11d3+18 punch
+-9 -9 -9 -1
+CEFIKNT 0 AB 0
+stand stand male 400
+AHMV ABCDEFGHIJK M unknown 0
+#15786
+knight sword vingaard~
+a Knight of the Sword~
+A Knight of the {CSword{x stands here.
+~
+This knight is a member of the order of the {CSword{x the clerical wing
+of the Knights of Solamnia.  The Knights of the {CSword{x normally assist in
+the prayers of their brethren and tend to the wounded in battle.  
+~
+human~
+AGT HV 800 0
+45 45 91d15+455 45d10+85 15d3+27 punch
+-21 -21 -21 -11
+CEFILNQT 0 AB 0
+stand stand male 800
+AHMV ABCDEFGHIJK M unknown 0
+#15793
+lord vingaard~
+the Lord of Vingaard~
+The Lord of Vingaard Keep stands here.
+~
+This imposing Knight of the Rose is the current Lord of Vingaard Keep and
+its surrounding land.  In days of old, Vingaard Keep was the ancestral home
+of the Knights of Solamnia but now it is owned by the distinct family of
+this man.  
+~
+human~
+ABT HV 750 0
+55 55 111d18+1111 55d10+85 18d3+32 punch
+-27 -27 -27 -16
+CEFIKNT B A 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 0
+#15797
+knight rose vingaard~
+a Knight of the Rose~
+A Knight of the {RRose{x stands proudly here.
+~
+This proud knight is a member of the order of the {RRose{x the highest
+ranking order of the Knights of Solamnia.  His proud stance and regal
+attitude mark him as a man of noble birth.  
+~
+human~
+AGT HV 900 0
+50 50 75d16+456 50d10+85 14d3+21 punch
+-14 -14 -14 -4
+CEFILNQT 0 AB 0
+stand stand male 1200
+AHMV ABCDEFGHIJK M unknown 0
+#15800
+squire vingaard~
+a knight's squire~
+A knight's squire is here running about his duties.
+~
+This young man is hoping to one day become a Knight of the Crown.  For
+now he is attending a knight as a squire running errands for his lord and
+taking care of his equipment.  
+~
+human~
+AGT 0 0 0
+30 25 38d8+228 25d10+85 7d3+13 punch
+-2 -2 -2 3
+ENT 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#15699
+solamnic long sword~
+a {cSolamnic{x longsword~
+The longsword of a Knight of the {YCrown{x lies here.~
+steel~
+weapon IKY 0 ANZ
+sword 5 8 slash D
+40 6 2060 P
+A
+19 3
+A
+18 3
+E
+longsword~
+This longsword formerly belonged to a Knight of the {YCrown{x.
+~
+#15700
+crown knight plate helm~
+a {YCrown{x Knight's helm~
+The helm of a Knight of the {YCrown{x lies here.~
+steel~
+armor IK 0 AEY
+AD ABC ACD AC C
+40 13 44 P
+E
+crown~
+This helm is the ancestral helm of a Knight of the {YCrown{x.
+~
+#15701
+crown knight breast plate~
+a {YCrown{x Knight's breastplate~
+The breastplate of a Knight of the {YCrown{x lies here.~
+steel~
+armor IK 0 ADY
+BD D BCD AC C
+40 20 44 P
+E
+breastplate~
+This breastplate part of the ancestral armor of a Knight of the {YCrown{x.  
+~
+#15702
+crown knight plate sleeves~
+a pair of {YCrown{x Knight's sleeves~
+A pair of sleeves belonging to a Knight of the {YCrown{x lie here.~
+steel~
+armor IK 0 AIY
+BD D BCD AC C
+40 10 44 P
+E
+sleeves~
+These sleeves are part of the ancestral armor of a Knight of the {YCrown{x.
+~
+#15703
+crown knight gauntlets plate~
+a {YCrown{x Knight's gauntlets~
+A pair of gauntlets belonging to a Knight of the {YCrown{x lie here.~
+steel~
+armor IK 0 AHY
+AD ABC ACD AC C
+40 7 44 P
+E
+gauntlets~
+These gauntlets are part of the ancestral armor of a Knight of the {YCrown{x.
+~
+#15704
+crown knight greaves plate~
+a {YCrown{x Knight's greaves~
+A pair of greaves belonging to a Knight of the {YCrown{x lie here~
+steel~
+armor IK 0 AFY
+BD D BCD AC C
+40 13 44 P
+E
+greaves~
+These greaves are part of the ancestral armor of a Knight of the {YCrown{x.
+~
+#15705
+pair solamnic boot~
+a pair of Solamnic boots~
+A pair of Solamnic boots lie abandoned here.~
+leather~
+armor S 0 AGY
+D BD AD BC 0
+45 2 41 P
+E
+boots~
+These leather boots are part of the standard armor of the Solamnic
+Knights.  
+~
+#15706
+crown shield~
+a Shield of the {YCrown{x~
+A shield bearing the heraldry of a Knight of the {YCrown{x lies here.~
+steel~
+armor IK 0 AJZ
+AD AD AD BC 0
+40 20 44 P
+E
+shield~
+The heraldry on this shield indicate it belongs to a Knight of the
+{YCrown{x.  
+~
+#15707
+solamnic long sword~
+a {cSolamnic{x longsword~
+The longsword of a Knight of the {CSword{x lies here.~
+steel~
+weapon IKY 0 ANZ
+sword 5 10 slash D
+45 6 2460 P
+A
+19 3
+A
+18 3
+E
+longsword~
+This is the ancestral blade of a Knight of the {CSword{x.
+~
+#15708
+solamnic long sword~
+a {cSolamnic{x longsword~
+The longsword of a {WKnight{x of the {rRose{x lies here.~
+steel~
+weapon IKY 0 ANZ
+sword 6 9 slash D
+50 6 2655 P
+A
+19 4
+A
+18 4
+E
+longsword~
+This is the ancestral blade of a Knight of the {RRose{x.
+~
+#15709
+sword knight plate helm~
+a {cSword{x Knight's helm~
+The helm of a Knight of the {cSword{x lies here.~
+steel~
+armor IK 0 AEY
+BD D BCD BC C
+45 13 41 P
+E
+helm~
+This helm is part of the ancestral armor of a Knight of the {CSword{x.  
+~
+#15710
+rose knight plate helm~
+a {rRose{x Knight's helm~
+The helm of a Knight of the {rRose{x lies here.~
+steel~
+armor IKY 0 AEY
+ABD AD ABCD ABC C
+50 13 54 P
+E
+helm~
+This helm is part of the ancestral armor of a Knight of the {RRose{x.
+~
+#15711
+sword knight breast plate~
+a {cSword{x Knight's breastplate~
+The breastplate of a Knight of the {cSword{x lies here.~
+steel~
+armor IK 0 ADY
+ABD AD ABCD BC C
+45 20 41 P
+E
+breastplate~
+This well crafted breastplate is a part of the ancestral armor of a
+Knight of the {CSword{x.  
+~
+#15712
+rose knight breast plate~
+a {rRose{x Knight's breastplate~
+The breastplate of a Knight of the {rRose{x lies here.~
+steel~
+armor IKY 0 ADY
+CD BD E ABC C
+50 20 54 P
+E
+breastplate~
+This finely crafted breastplate is part of the antique armor of a Knight
+of the {RRose{x.  
+~
+#15713
+sword knight plate sleeves~
+a pair of {cSword{x Knight's sleeves~
+A pair of sleeves belonging to a Knight of the {cSword{x lie here.~
+steel~
+armor IK 0 AIY
+BD BD BD ABC C
+45 10 41 P
+E
+sleeves~
+These sleeves are part of the ancestral armor of a Knight of the {CSword{x.
+~
+#15714
+rose knight plate sleeves~
+a pair of {rRose{x Knight's sleeves~
+A pair of sleeves belonging to a Knight of the {rRose{x lie here.~
+steel~
+armor IKY 0 AIY
+CD BD E ABC C
+50 10 54 P
+E
+sleeves~
+These sleeves are part of the ancestral armor of a Knight of the {RRose{x.
+~
+#15715
+sword knight plate gauntlets~
+a {cSword{x Knight's gauntlets~
+A pair of gauntlets belonging to a Knight of the {cSword{x lie here.~
+steel~
+armor IK 0 AHY
+BD D BCD BC C
+45 7 41 P
+E
+gauntlets~
+These gauntlets are part of the ancestral armor of a Knight of the {CSword{x.
+~
+#15716
+rose knight plate gauntlets~
+a {rRose{x Knight's gauntlets~
+A pair of gauntlets belonging to a Knight of the {rRose{x lie here.~
+steel~
+armor IKY 0 AHY
+ABD AD ABCD ABC C
+50 7 54 P
+E
+gauntlets~
+These gauntlets are part of the ancestral armor of a Knight of the {RRose{x.
+~
+#15717
+sword knight plate greaves~
+a {cSword{x Knight's greaves~
+A pair of greaves belonging to a Knight of the {cSword{x lie here.~
+steel~
+armor IK 0 AFY
+ABD AD ABCD BC C
+45 13 41 P
+E
+greaves~
+These greaves are part of the ancestral armor of a Knight of the {CSword{x.
+~
+#15718
+rose knight plate greaves~
+a {rRose{x Knight's greaves~
+A pair of greaves belonging to a Knight of the {rRose{x lie here.~
+steel~
+armor IKY 0 AFY
+CD BD E ABC C
+50 13 54 P
+E
+greaves~
+This fine pair of greaves is from the antique armor of a Knight of the
+{RRose{x.  
+~
+#15719
+sword shield knight~
+a shield of the {cSword{x~
+A shield bearing the heraldry of a Knight of the {cSword{x lies here.~
+steel~
+armor IK 0 AJZ
+BD BD BD ABC 0
+45 15 41 P
+E
+shield~
+The heraldry on this shield indicate it belongs to a Knight of the
+{CSword{x.  
+~
+#15720
+knight rose shield~
+a Shield of the {rRose{x~
+A shield bearing the heraldry of a Knight of the {rRose{x lies here.~
+steel~
+armor KY 0 AJZ
+ABD ABD ABD D 0
+50 20 54 P
+E
+shield~
+The heraldry on this shield indicates it belongs to a Knight of the {RRose{x.
+~
+#15733
+iron key~
+an iron key~
+An iron key is lying here on the floor.~
+iron~
+key 0 0 A
+0 0 0 0 0
+0 1 0 P
+E
+key~
+A plain dull iron key.
+~
+#15734
+jailors whip~
+a Jailor's whip~
+The jailor of Vingaard dungeon's whip lies here.~
+leather~
+weapon S 0 ANY
+whip 4 12 whip Q
+45 2 2210 P
+A
+19 3
+A
+18 3
+E
+whip~
+This is the legendary whip of the jailor of Vingaard dungeons.  
+~
+#15739
+rolling pin~
+a rolling pin~
+A chef's rolling pin lies here unused.~
+wood~
+weapon SY 0 ANc
+exotic 4 7 pound 0
+30 1 0 P
+A
+19 2
+A
+18 2
+E
+rolling~
+A fine quality roller used by the finest chefs for baking.  
+~
+#15741
+general solamnic plate helmet~
+a Solamnic helmet~
+A general issue Solamnic helmet lies here.~
+steel~
+armor 0 0 AEY
+D BC CD C C
+40 13 44 P
+E
+helmet~
+This helmet is Solamnic standard issue.
+~
+#15742
+standard solamnic plate mail~
+solamnic platemail~
+A piece of standard issue Solamnic platemail lies here.~
+steel~
+armor 0 0 ADY
+AD ABC ACD C C
+40 20 44 P
+E
+platemail~
+This platemail is Solamnic general issue.
+~
+#15743
+general solamnic dagger~
+a {cSolamnic{x dagger~
+A general issue Solamnic dagger lies here~
+steel~
+weapon Y 0 ANX
+dagger 2 22 stab D
+40 3 1735 P
+A
+19 3
+A
+18 3
+E
+dagger~
+This dagger is Solamnic standard issue.
+~
+#15744
+general solamnic battle axe~
+a {cSolamnic{x battleaxe~
+A Solamnic general issue battleaxe lies here.~
+steel~
+weapon Y 0 ANZ
+axe 2 22 chop D
+40 8 1910 P
+A
+19 3
+A
+18 3
+E
+axe~
+This Solamnic battleaxe is general issue.
+~
+#15745
+general solamnic short sword~
+a {cSolamnic{x shortsword~
+A general issue Solamnic shortsword lies here.~
+steel~
+weapon Y 0 ANX
+sword 5 8 thrust D
+40 4 2060 P
+A
+19 3
+A
+18 3
+E
+sword~
+This Solamnic shortsword is general issue.
+~
+#15790
+antique long sword~
+an antique longsword~
+A finely crafted antique longsword lies here.~
+steel~
+weapon AGIKY 0 ANZ
+sword 6 10 slash DG
+55 6 2930 P
+A
+19 4
+A
+18 4
+A
+13 30
+A
+12 15
+A
+5 1
+E
+longsword~
+This finely crafted antique blade bears the crest of the Lord family of
+Vingaard.  It's ancient sharpened blade rests firmly in the ornate hilt.  
+~
+#15791
+antique plate helm~
+an antique helm~
+A finely crafted antique helm lies here.~
+steel~
+armor GIKY 0 AEY
+CD BD E D C
+55 12 51 P
+A
+12 20
+A
+4 2
+E
+helm~
+This beautifully crafted fine antique helm bears the crest of the Lord
+family of Vingaard.  
+~
+#15792
+antique breast plate~
+an antique breastplate~
+A finely crafted antique breastplate lies here.~
+steel~
+armor GIKY 0 ADY
+ACD ABD AE D C
+55 25 51 P
+A
+5 2
+A
+13 10
+A
+20 -3
+E
+breastplate~
+This exquisite breastplate has the emblem of the Lord family of Vingaard
+embossed upon it in gold.  
+~
+#15793
+antique plate gauntlets~
+a pair of antique gauntlets~
+A pair of finely crafted gauntlets lie here~
+steel~
+armor GIKY 0 AHY
+ABD AD ABCD D C
+55 7 51 P
+A
+1 1
+A
+13 5
+E
+gauntlets~
+These antique gauntlets are finely crafted and were made for someone of
+obvious importance.  
+~
+#15800
+solamnic squire sword~
+the sword of a squire~
+A Solamnic squire's shortsword lies here unused.~
+steel~
+weapon Y 0 ANX
+sword 4 8 slice 0
+30 4 1640 P
+A
+18 2
+A
+19 2
+E
+sword~
+This shortsword is issued to the squires of the Solamnic Knights.  It is
+considered dishonorable for anyone above the rank of squire to use it unless
+in times of emergency.  
+~
+#0
+
+
+
+#ROOMS
+#15601
+{CThe Knights High Road{x~
+This is the end of the Knights High Road.  The road becomes a bridge to
+the east that crosses a wide and deep ditch.  On the other side of the
+bridge stands the mighty Solamnic fortress of Vingaard Keep.  The ancient
+home of the Solamnic knights stands here proudly and defiantly as an ancient
+symbol of the knights strength.  Even from here light can be seen glinting
+from the armour of those walking atop the battlements.  
+~
+0 262148 1
+D1
+~
+~
+0 0 15602
+D3
+~
+~
+0 0 13758
+S
+#15602
+{CA Creaky But Sturdy Bridge{x~
+This is an old and creaky wooden bridge.  Despite its obvious age it is
+sturdy and could probably hold the weight of a large force crossing from or
+into the keep.  To the west the Knights High Road stretches off before you
+whilst to the east stand the mighty gates of Vingaard Keep.  The stonework
+around the gate is littered with small arrow slits and observation holes
+whilst the gates themselves look strong and sturdy.  Above the gates the
+gleaming tips of the portcullis can be seen.  It appears that when the keep
+is on alert it would be very difficult to gain entry into the keep.  A small
+path leads down to a dry patch of the moat.  
+~
+0 262144 1
+E
+gates~
+These mighty gates look like they can hold off a massive invasion force. 
+A door in the gate itself allows entry to the keep for personnel.  
+~
+D1
+These mighty gates look like they can hold off a massive invasion force. 
+A door in the gate itself allows entry to the keep for personnel.  
+~
+gates~
+1 0 15603
+D3
+~
+~
+0 0 15601
+D5
+~
+~
+0 0 15723
+S
+#15603
+{CThe Gatehouse{x~
+This large and open room is the gatehouse of Vingaard Keep.  There are
+massive thick stone walls either side of you lined with arrow slits and
+murder holes.  The massive gates stand tall and defiantly to the west while
+a large courtyard opens out to the east.  Above the entrance to the
+courtyard the tips of another portcullis can be seen.  It seems that in the
+unlikely event an invasion force breaks through the gates they will still be
+trapped in the gatehouse at the mercy of the Solamnic archers.  
+~
+0 262152 1
+E
+gates~
+These mighty gates look like they can hold off a massive invasion force. 
+A door in the gate itself allows personnel to come and go without disturbing
+the large gates.  
+~
+D1
+~
+~
+0 0 15604
+D3
+These mighty gates look like they can hold off a massive invasion force. 
+A door in the gate itself allows personnel to come and go without disturbing
+the large gates.  
+~
+gates~
+1 0 15602
+S
+#15604
+{CThe Courtyard{x~
+Here within the mighty walls of Vingaard Keep is the courtyard.  To the
+east the keep proper stands tall before you with its comfortably strong
+walls.  Ivy creeps up the walls giving the place a homey feel but the
+arrow slits at the base of the walls serve as a reminder that this keep is a
+military stronghold.  The large thick wooden doors to the keep are set well
+into the wall to the east.  To the west stands the gatehouse leading out of
+the keep whilst the courtyard continues to the north and to the south.  
+~
+0 262144 1
+E
+door~
+The door to the keep itself is a mighty oaken door.  
+~
+D0
+~
+~
+0 0 15605
+D1
+The door to the keep itself is a mighty oaken door.
+~
+oak~
+1 0 15750
+D2
+~
+~
+0 0 15610
+D3
+~
+~
+0 0 15603
+S
+#15605
+{CThe Courtyard{x~
+The courtyard of Vingaard keep opens out here.  The ground is covered in
+cobblestones that have been ground flat.  The ivy covered walls of the keep
+itself stand tall and strong to the east.  The courtyard continues to the
+south and to the west.  The way north is blocked by a large wooden
+structure.  
+~
+0 262144 1
+E
+structure~
+This wooden structure appears to be the southern wall of a stable.  
+~
+D2
+~
+~
+0 0 15604
+D3
+~
+~
+0 0 15606
+S
+#15606
+{CAlong the Western Wall{x~
+This part of the courtyard of Vingaard Keep is covered by a large wooden
+walkway.  To the west stand the mighty outer walls of the keep.  They are
+lined with spaces for archers to rest comfortably whilst defending the keep.
+The spaces narrowing to small slits to enable the archers to fire out whilst
+being protected from the outside.  The same archer positions can be found in
+the wall to the south protecting the gatehouse.  The courtyard opens out to
+the east and continues under the walkway to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15607
+D1
+~
+~
+0 0 15605
+S
+#15607
+{CAlong the Western Wall{x~
+This part of the courtyard of Vingaard Keep is covered by a large wooden
+walkway.  Booted footsteps can be heard tramping over the walkway.  To the
+west stand the mighty outer walls of the keep.  There are spaces in the
+walls narrowing to small slits to enable archers to fire out whilst being
+protected from the outside.  To the north a doorway leads into a large tower
+whilst a stable stands to the east.  The courtyard continues under the
+walkway to the south.  
+~
+0 262152 1
+D0
+This wooden door is set into the wall of a tall imposing tower.
+~
+~
+1 0 15614
+D1
+~
+~
+0 0 15608
+D2
+~
+~
+0 0 15606
+S
+#15608
+{YThe Stables{x~
+These are the knight's stables.  Here the mighty warhorses and personal
+mounts of the knights are groomed and fed.  The stablehands are on a
+constant vigil should the knights need to ride out in a hurry.  Many younger
+well-trained horses are being sold here to those that do not own their own
+personal mount.  The only exit is to the west.  
+~
+0 5128 1
+D3
+~
+~
+0 0 15607
+S
+#15609
+{YThe Stable Stalls{x~
+Here the stalls of the stables are filled with the mighty warhorses of
+the knights.  
+~
+0 2130956 1
+S
+#15610
+{CThe Courtyard{x~
+Here in the courtyard of Vingaard keep soldiers and mercenaries bustle
+about.  The cobblestones of the courtyard have been ground flat to provide
+even paving for those that use it.  The ivy covered walls of the keep loom
+threateningly and yet they have a homely quality.  The courtyard continues
+to the north, south and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15604
+D2
+~
+~
+0 0 15611
+D3
+~
+~
+0 0 15613
+S
+#15611
+{CThe Courtyard{x~
+Here the spacious courtyard of Vingaard Keep ends abruptly.  The way
+south is blocked by a large and fearsome looking tower covered in the same
+thick ivy as the walls of the keep itself.  Whilst the ivy looks thick and
+inviting closer inspection shows it to be brittle and covered with hidden
+thorns making the walls unscaleable.  The courtyard continues to the north
+and to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15610
+D3
+~
+~
+0 0 15612
+S
+#15612
+{CAlong the Western Wall{x~
+This corner of the courtyard ends in a large ivy covered tower to the
+south.  Overhead is a large wooden walkway protecting this part of the
+courtyard from the weather and gives solace to those seeking shade during
+the hot Solamnic summers.  The courtyard opens out to the east and continues
+under the walkway to the north.  To the south a small wooden door leads into
+a tall tower.  
+~
+0 262152 1
+E
+door~
+This wooden door is set into the wall of a tall imposing tower.  
+~
+D0
+~
+~
+0 0 15613
+D1
+~
+~
+0 0 15611
+D2
+This wooden door is set into the wall of a tall imposing tower.
+~
+~
+1 0 15618
+S
+#15613
+{CAlong the Western Wall{x~
+This part of the courtyard is covered by a large wooden walkway.  Dust
+and dirt fall from above as booted footsteps can be heard march over the
+walkway.  The mighty walls to the west are lined with archer positions. 
+These positions are large spaces that narrow to slits protecting the archer
+from attack whilst still being able to fire out of the keep.  These same
+positions appear in the wall to the north protecting the gatehouse.  The
+courtyard opens out to the east and continues under the walkway to the
+south.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15610
+D2
+~
+~
+0 0 15612
+S
+#15614
+{CInside the Northwest Tower{x~
+This is the northwest tower of Vingaard Keep one of the four mighty
+watchtowers that surround the keep.  The walls are dotted with archer
+positions and other points of defense whilst there is room in the tower for
+troops to move about easily as they scramble from wall to wall.  A strong
+wooden door leads out into the courtyard to the south whilst the tower
+continues to the north and to the east.  
+~
+0 262152 1
+E
+door~
+This strong wooden door leads out into the courtyard.  
+~
+D0
+~
+~
+0 0 15617
+D1
+~
+~
+0 0 15615
+D2
+This strong wooden door leads out into the courtyard.
+~
+~
+1 0 15607
+S
+#15615
+{CInside the Northwest Tower{x~
+This part of this massive tower is mainly here so that a large bulk of
+troops can move from one part of the courtyards to another.  It also gives
+room for the defenders of the tower to scramble from wall to wall whilst
+avoiding the staircase.  The stone walls are lined with burning torches that
+provide light within the tower.  The floor here sounds strange when you step
+on it.  The tower continues to the north and to the west.  
+~
+0 262152 1
+E
+floor~
+On closer examination the floor looks like it is in fact a trapdoor.  
+~
+D0
+~
+~
+0 0 15616
+D3
+~
+~
+0 0 15614
+D5
+On closer examination, the floor looks like it is in fact a trapdoor.
+~
+floor~
+1 0 15747
+S
+#15616
+{CInside the Northwest Tower{x~
+This is the northwest tower of Vingaard Keep one of the four mighty
+watchtowers that surround the keep.  The walls are dotted with archer
+positions and other points of defense whilst there is room in the tower for
+troops to move about easily as they scramble from wall to wall.  A strong
+wooden door leads out into the courtyard to the east whilst the tower
+continues to the south and to the west.  
+~
+0 262152 1
+D1
+This strong wooden door opens out into the courtyard.  
+~
+~
+1 0 15622
+D2
+~
+~
+0 0 15615
+D3
+~
+~
+0 0 15617
+S
+#15617
+{CA Spiral Staircase{x~
+This is the spiral staircase of the northwest tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the east and to the south.  
+~
+0 262152 1
+E
+staircase~
+This spiral staircase ascends in a clockwise direction.  This allows
+defenders fighting from above to repel attackers more easily.  
+~
+D1
+~
+~
+0 0 15616
+D2
+~
+~
+0 0 15614
+D4
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+~
+0 0 15669
+S
+#15618
+{CInside the Southwest Tower{x~
+This is the southwest tower of Vingaard Keep one of the four mighty
+watchtowers that surround the keep.  The walls are dotted with archer
+positions and other points of defense whilst there is room in the tower for
+troops to move about easily as they scramble from wall to wall.  A strong
+wooden door leads out into the courtyard to the north whilst the tower
+continues to the south and to the east.  
+~
+0 262152 1
+E
+door~
+This strong wooden door leads out into the courtyard.  
+~
+D0
+This strong wooden door leads out into the courtyard.
+~
+~
+1 0 15612
+D1
+~
+~
+0 0 15619
+D2
+~
+~
+0 0 15621
+S
+#15619
+{CInside the Southwest Tower{x~
+This part of the mighty southwest tower is mainly here so that a large
+bulk of troops can move from one part of the courtyards to another.  It also
+gives room for the towers defenders to scramble from wall to wall whilst
+avoiding the staircase.  The tower here is lit my flaming torches firmly
+held in sconces along the walls.  The tower continues to the south and to
+the west.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15620
+D3
+~
+~
+0 0 15618
+S
+#15620
+{CInside the Southwest Tower{x~
+This is the southwest tower of Vingaard Keep one of the four mighty
+watchtowers that surround the keep.  The walls are dotted with archer
+positions and other points of defense whilst there is room in the tower for
+troops to move about easily as they scramble from wall to wall.  A strong
+wooden door leads out into the courtyard to the east whilst the tower
+continues to the north and to the west.  
+~
+0 262152 1
+E
+door~
+This strong wooden door leads out into the courtyard.
+~
+D0
+~
+~
+0 0 15619
+D1
+This strong wooden door leads out into the courtyard.
+~
+wooden~
+1 0 15652
+D3
+~
+~
+0 0 15621
+S
+#15621
+{CA Spiral staircase{x~
+This is the spiral staircase of the southwest tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the east and to the north.  
+~
+0 262152 1
+E
+stairs~
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+D0
+~
+~
+0 0 15618
+D1
+~
+~
+0 0 15620
+D4
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+stairs~
+0 0 15657
+S
+#15622
+{CAlong the Northern Wall{x~
+Here the northern part of the courtyard of Vingaard keep is covered by a
+wooden walkway.  The cobblestone paved courtyard runs up to the base of the
+northeastern tower here.  The courtyard opens out to the south and continues
+under the walkway to the east.  To the west a small wooden door leads into a
+tall ivy covered tower.  
+~
+0 262152 1
+E
+door~
+This wooden door is set into a mighty imposing tower.  
+~
+D1
+~
+~
+0 0 15623
+D2
+~
+~
+0 0 15629
+D3
+This wooden door is set into a mighty imposing tower.  
+~
+~
+1 0 15616
+S
+#15623
+{CAlong the Northern Wall{x~
+Here a large wooden walkway covers the courtyard.  The sound of booted
+feet overhead echoes eerily against the mighty walls to the north.  The
+ground here is paved with cobblestones ground flat for those that use it to
+traverse it easier.  The courtyard opens out to the south and continues
+under the walkway to the east and to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15624
+D2
+~
+~
+0 0 15628
+D3
+~
+~
+0 0 15622
+S
+#15624
+{CAlong the Northern Wall{x~
+This part of the courtyard of Vingaard Keep is covered by a large wooden
+walkway.  Booted footsteps can be heard tramping over the walkway.  To your
+north stand the mighty outer walls of the keep.  They are lined with spaces
+for archers to rest comfortably whilst defending the keep.  The spaces
+narrowing to small slits to enable the archers to fire out whilst being
+protected from the outside.  The courtyard opens out to the south and
+continues under the walkway to the east and to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15625
+D2
+~
+~
+0 0 15627
+D3
+~
+~
+0 0 15623
+S
+#15625
+{CAlong the Northern Wall{x~
+The northern courtyard of Vingaard keep ends abruptly here as a large ivy
+covered tower looms in its place.  Above the courtyard a wooden walkway is
+creaking slightly under the weight of booted footsteps.  The courtyard opens
+out to the south and continues under the walkway to the west whilst a wooden
+door is set into the wall of a tall tower to the east.  
+~
+0 262152 1
+E
+wooden~
+This wooden door is set into the wall of a tall imposing tower.
+~
+E
+door~
+This wooden door is set into the wall of a tall imposing tower.
+~
+D1
+This wooden door is set into the wall of a tall imposing tower.
+~
+~
+1 0 15630
+D2
+~
+~
+0 0 15626
+D3
+~
+~
+0 0 15624
+S
+#15626
+{CA Shadowy Corner{x~
+This part of the northern courtyard is blanketed by the shadow of the
+tall ivy covered tower standing to the east.  The keep itself stands
+majestically to the south.  It looks cozy and inviting whilst also managing to
+appear menacing and strong.  The courtyard stretches off to the west and to
+the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15625
+D3
+~
+~
+0 0 15627
+S
+#15627
+{CThe Northern Courtyard{x~
+The northern courtyard of Vingaard Keep runs along the north wall of the
+keep and is separated from the other courtyards.  It is here that any would
+be invaders would be trapped and dealt with by the keep's ample guard. 
+Arrow slits and murder holes cover the length of the keep so it can be well
+defended from inside the keep itself.  The courtyard continues to the north,
+west and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15624
+D1
+~
+~
+0 0 15626
+D3
+~
+~
+0 0 15628
+S
+#15628
+{CThe Northern Courtyard{x~
+This part of the courtyard is filled with servants and soldiers milling
+around and running through all sorts of drills.  The crests of the knights
+of the crown can be seen all around on pages, squires and occasionally
+knights themselves.  The cobbled courtyard continues to the north, to the
+east and to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15623
+D1
+~
+~
+0 0 15627
+D3
+~
+~
+0 0 15629
+S
+#15629
+{CA Corner of The Northern Courtyard{x~
+Here the cobblestoned northern courtyard of Vingaard Keep ends in an
+abrupt corner.  The tall and mighty northeast tower blocks all passage to
+the west and its ivy-covered walls cast a light shadow onto the flat cobbles
+of the courtyard.  The only exits are to the north and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15622
+D1
+~
+~
+0 0 15628
+S
+#15630
+{CInside the Northeast Tower{x~
+This torchlit hall is the north entrance to the mighty northeast tower of
+Vingaard Keep.  This is one of four watchtowers that surround the keep
+itself.  Arrow slits and observation points along the walls indicate that
+this strong tower is easily defensible.  A wooden door leads out into the
+courtyards whilst the hall leads off to the south.  A spiral staircase leads
+upwards to the east.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the northern courtyard.
+~
+D1
+~
+~
+0 0 15633
+D2
+~
+~
+0 0 15631
+D3
+This wooden door leads out into the northern courtyard.
+~
+wooden~
+1 0 15625
+S
+#15631
+{CInside the Northeast Tower{x~
+This part of the tower allows defending troops room to scramble from wall
+to wall in the event of an assault on the keep.  It also allows movement
+from one courtyard to another.  Shadows flit around the hall here as the
+torches burn in sconces on the walls.  The hall runs around the tower to the
+north and to the east.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15630
+D1
+~
+~
+0 0 15632
+S
+#15632
+{CInside the Northeast Tower{x~
+This large hall is the southern entrance to the northeastern tower.  This
+mighty tower stands as an observation point and can accommodate many
+defending troops in the event of an attack on the keep.  A wooden door leads
+out to the courtyards to the south whilst the hall leads on to the west.  To
+the north a spiral staircase leads up into the tower.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the eastern courtyards.
+~
+D0
+~
+~
+0 0 15633
+D2
+This wooden door leads out into the eastern courtyards.
+~
+wooden~
+1 0 15634
+D3
+~
+~
+0 0 15631
+S
+#15633
+{CA Spiral Staircase{x~
+This is the spiral staircase of the northeast tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the east and to the south.  
+~
+0 262152 1
+E
+staircase~
+This spiral staircase ascends in a clockwise direction.  This allows
+defenders fighting from above to repel attackers more easily.  
+~
+D2
+~
+~
+0 0 15632
+D3
+~
+~
+0 0 15630
+D4
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+stairs~
+0 0 15677
+S
+#15634
+{CAlong the Eastern Wall{x~
+The eastern wall of Vingaard Keep stands firm and is lined with areas for
+archers and defenders to cut down any would be attacker from the west. 
+Through these arrow slits and defensive positions, the west bank of a mighty
+river can be seen.  A tall imposing tower looms to the north, a wooden door
+appears to be the only way into it.  The courtyards continue to the south
+and to the west.  
+~
+0 262152 1
+E
+door~
+This wooden door leads into the mighty northeastern tower.
+~
+D0
+This wooden door leads into the mighty northeastern tower.  
+~
+wooden~
+1 0 15632
+D2
+~
+~
+0 0 15635
+D3
+~
+~
+0 0 15644
+S
+#15635
+{CAlong the Eastern Wall{x~
+This courtyard runs along the length of the eastern wall of Vingaard
+Keep.  A wooden walkway above provides shelter from the weather.  Dust falls
+from the underside of the walkways as booted footsteps can be heard above
+it.  The courtyard continues to the north and south and opens out to the
+west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15634
+D2
+~
+~
+0 0 15636
+D3
+~
+~
+0 0 15643
+S
+#15636
+{CAlong the Eastern Wall{x~
+Through observation points lining the walls here the west bank of the
+Vingaard river can be seen.  Archer positions along the walls allow
+defenders of the keep to pick off attackers approaching from the river.  The
+eastern wall appears to be quite sturdy and easily defensible.  The
+courtyard runs along the wall to the north and to the south whilst it opens
+out to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15635
+D2
+~
+~
+0 0 15637
+D3
+~
+~
+0 0 15642
+S
+#15637
+{CAlong the Eastern Wall{x~
+The flat cobbled courtyard is protected from the elements here by a
+wooden walkway that runs along the length of the wall.  It is just high
+enough for a tall man to ride a large horse underneath it should the need
+arise.  The courtyard runs under the walkway to the north and to the south
+and opens out to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15636
+D2
+~
+~
+0 0 15638
+D3
+~
+~
+0 0 15641
+S
+#15638
+{CAlong the Eastern Wall{x~
+Vingaard Keep's Eastern courtyard stretches off to the north from here,
+covered by a wide wooden walkway.  The courtyard has been paved with flat
+ground cobblestones which appear to be well kept and swept regularly.  The
+southeast tower looms to the south.  Its strong stone walls are covered in
+ivy which on closer inspection is brittle and thorny.  A wooden door appears
+to be the only entrance into the tower.  A large wooden structure stands to
+the west.  
+~
+0 262152 1
+E
+door~
+This wooden door leads into the mighty southeastern tower.
+~
+D0
+~
+~
+0 0 15637
+D2
+This wooden door leads into the mighty southeastern tower.
+~
+wooden~
+1 0 15645
+D3
+~
+~
+0 0 15639
+S
+#15639
+{YThe Hunting Stables{x~
+This large wooden structure is used to house the many hunting hounds kept
+by the knights here at Vingaard Keep.  There is a strong smell of dogs in
+the air mingled with the scent of fresh hay that is brought in regularly to
+replace the lining of the kennels.  Dog handlers and stableboys can be seen
+attending to the kennels and seeing to the needs of the numerous dogs.  The
+only exit is to the east.  
+~
+0 267272 1
+D1
+~
+~
+0 0 15638
+S
+#15640
+{YThe Hunting Kennels{x~
+These kennels house the hunting dogs of Vingaard Keep.  
+~
+0 2130956 0
+S
+#15641
+{CThe Eastern Courtyard{x~
+The courtyard of Vingaard keep opens out here.  The ground is covered in
+cobblestones that have been ground flat.  The ivy covered walls of the keep
+itself stand tall and strong to the west.  The courtyard continues to the
+north and to the east.  The way south is blocked by a large wooden
+structure.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15642
+D1
+~
+~
+0 0 15637
+S
+#15642
+{CThe Eastern Courtyard{x~
+Here within the mighty walls of Vingaard Keep is the courtyard.  To the
+west the keep proper stands tall before you with its comfortably strong
+walls.  Ivy creeps up the walls giving the place a homey feel but the
+arrow slits at the base of the walls serve as a reminder that this keep is a
+military stronghold.  The courtyard continues to the north and to the south
+and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15643
+D1
+~
+~
+0 0 15636
+D2
+~
+~
+0 0 15641
+S
+#15643
+{CThe Eastern Courtyard{x~
+This part of the courtyard is filled with servants and soldiers milling
+around and running through all sorts of drills.  The crests of the knights
+of the crown can be seen all around on pages, squires and occasionally
+knights themselves.  The cobbled courtyard continues to the north, to the
+east and to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15644
+D1
+~
+~
+0 0 15635
+D2
+~
+~
+0 0 15642
+S
+#15644
+{CThe Eastern Courtyard{x~
+Here the spacious eastern courtyard of Vingaard Keep ends abruptly.  The
+way north is blocked by a large and fearsome looking tower covered in the
+same thick ivy as the walls of the keep itself.  Whilst the ivy looks thick
+and inviting closer inspection shows it to be brittle and covered with
+hidden thorns making the walls unscaleable.  The courtyard continues to the
+south and to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15634
+D2
+~
+~
+0 0 15643
+S
+#15645
+{CInside the Southeastern Tower{x~
+This is the southeast tower of Vingaard Keep one of the four mighty
+watchtowers that surround the keep.  The walls are dotted with archer
+positions and other points of defense whilst there is room in the tower for
+troops to move about easily as they scramble from wall to wall.  A strong
+wooden door leads out into the courtyard to the north whilst the tower
+continues to the south and to the west.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the eastern courtyard.
+~
+D0
+This wooden door leads out into the eastern courtyard.
+~
+wooden~
+1 0 15638
+D2
+~
+~
+0 0 15648
+D3
+~
+~
+0 0 15646
+S
+#15646
+{CInside the Southeast Tower{x~
+This part of the tower allows defending troops room to scramble from wall
+to wall in the event of an assault on the keep.  It also allows movement
+from one courtyard to another.  Shadows flit around the hall here as the
+torches burn in sconces on the walls.  The hall runs around the tower to the
+south and to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15645
+D2
+~
+~
+0 0 15647
+S
+#15647
+{CInside the Southeastern Tower{x~
+This torchlit hall is the south entrance to the mighty southeast tower of
+Vingaard Keep.  This is one of four watchtowers that surround the keep
+itself.  Arrow slits and observation points along the walls indicate that
+this strong tower is easily defensible.  A wooden door leads out into the
+courtyards whilst the hall leads off to the north.  A spiral staircase leads
+upwards to the east.  
+~
+0 262152 1
+E
+door~
+This heavy wooden door leads out into the southern courtyard.  
+~
+D0
+~
+~
+0 0 15646
+D1
+~
+~
+0 0 15648
+D3
+This heavy wooden door leads out into the southern courtyard.  
+~
+wooden~
+1 0 15649
+S
+#15648
+{CA Spiral Staircase{x~
+This is the spiral staircase of the southeast tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the west and to the south.  
+~
+0 262152 1
+E
+stairs~
+These stairs ascend in a clockwise direction to impede right handed
+attackers.  
+~
+D0
+~
+~
+0 0 15645
+D3
+~
+~
+0 0 15647
+D4
+~
+~
+0 0 15686
+S
+#15649
+{CAlong the Southern Wall{x~
+The flat cobblestones of the southern courtyard stop abruptly before a
+mighty stone tower to the east.  The walls of the tower are covered with an
+unscaleable yet homely looking ivy plant.  The southern wall is lined with
+observation points and arrow slits.  This covered area of the courtyard
+stretches off to the west whilst the courtyard opens out to the north.  A
+heavy wooden door leads into the tower.  
+~
+0 262152 1
+E
+door~
+This heavyset wooden door leads into the tower.
+~
+D0
+~
+~
+0 0 15656
+D1
+This heavyset wooden door leads into the tower.
+~
+wooden~
+1 0 15647
+D3
+~
+~
+0 0 15650
+S
+#15650
+{CAlong the Southern Wall{x~
+The cobblestones of the southern courtyard fit snuggly up to the thick
+southern wall.  The wall is lined with archer positions where archers can
+rest in a comfortable position whilst shooting volleys of arrows out into
+attacking forces in the plains around the keep.  The positions narrow to
+slits to protect the archers from attack from the outside.  This covered
+section of the courtyard continues to the east and to the west whilst it
+opens out to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15655
+D1
+~
+~
+0 0 15649
+D3
+~
+~
+0 0 15651
+S
+#15651
+{CAlong the Southern Wall{x~
+The flat cobblestoned courtyard runs alongside the southern wall here. 
+The whole area along the wall is covered by a wooden walkway above.  The
+walkway is set at a height so that a tall knight can ride down this part of
+the courtyard without difficulty.  The covered courtyard continues to the
+east and to the west and opens out to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15654
+D1
+~
+~
+0 0 15650
+D3
+~
+~
+0 0 15652
+S
+#15652
+{CAlong the Southern Wall{x~
+The flat cobblestones of the southern courtyard stop abruptly before a
+mighty stone tower to the west.  The walls of the tower are covered with an
+unscaleable yet homely looking ivy plant.  The southern wall is lined with
+observation points and arrow slits.  This covered area of the courtyard
+stretches off to the east whilst the courtyard opens out to the north.  A
+heavy wooden door leads into the tower.  
+~
+0 262152 1
+E
+door~
+This strong wooden door leads into the tower.
+~
+D0
+~
+~
+0 0 15653
+D1
+~
+~
+0 0 15651
+D3
+This strong wooden door leads into the tower.
+~
+wooden~
+1 0 15620
+S
+#15653
+{CThe Southern Courtyard{x~
+The courtyard ends in a corner here as a mighty stone watchtower blocks
+the way to the west and the thick stone walls of the keep itself block the
+way to the north.  A thorny and brittle species of ivy grows up both walls
+giving the keep a nice homelike feeling without being scalable for
+attackers.  The courtyard continues to the east and is covered to the south.
+~
+0 262144 1
+D1
+~
+~
+0 0 15654
+D2
+~
+~
+0 0 15652
+S
+#15654
+{CThe Southern Courtyard{x~
+This part of the courtyard is filled with servants and soldiers milling
+around and running through all sorts of drills.  The crests of the knights
+of the crown can be seen all around on pages, squires and occasionally
+knights themselves.  The cobbled courtyard continues to the west, to the
+east and to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15655
+D2
+~
+~
+0 0 15651
+D3
+~
+~
+0 0 15653
+S
+#15655
+{CThe Southern Courtyard{x~
+Here within the mighty walls of Vingaard Keep is the courtyard.  To the
+north the keep proper stands tall before you with its comfortably strong
+walls.  Ivy creeps up the walls giving the place a homey feel but the
+arrow slits at the base of the walls serve as a reminder that this keep is a
+military stronghold.  The courtyard continues to the west, to the east and
+to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15656
+D2
+~
+~
+0 0 15650
+D3
+~
+~
+0 0 15654
+S
+#15656
+{CThe Southern Courtyard{x~
+The courtyard ends in a corner here as a mighty stone watchtower blocks
+the way to the east and the thick stone walls of the keep itself block the
+way to the north.  A thorny and brittle species of ivy grows up both walls
+giving the keep a nice homelike feeling without being scalable for
+attackers.  The courtyard continues to the west and is covered to the south.
+~
+0 262144 1
+D2
+~
+~
+0 0 15649
+D3
+~
+~
+0 0 15655
+S
+#15657
+{CUp the Spiral Staircase{x~
+This is the spiral staircase of the southwest tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the north and to the east whilst the staircase continues up and down.  
+~
+0 262152 1
+E
+staircase~
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+E
+stairs~
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+D0
+~
+~
+0 0 15660
+D1
+~
+~
+0 0 15658
+D4
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+stairs~
+0 0 15691
+D5
+These spiral steps ascend in a clockwise direction to impede right handed
+attackers.  
+~
+steps~
+0 0 15621
+S
+#15658
+{CUp in the Southwest Tower{x~
+This is the first floor of the mighty southwest tower of Vingaard Keep. 
+This is one of four watchtowers that surround the keep itself.  The tower
+can hold large numbers of defending troops and positions along the wall and
+can accommodate numerous archers.  A heavy wooden door leads out onto the
+walkways that line the outer walls of the keep.  The tower continues to the
+north and a spiral staircase stands to the west.  
+~
+0 262152 1
+E
+door~
+This door leads out onto the southern battlements.
+~
+E
+door~
+This thick wooden door leads out onto the walkways of the walls.  
+~
+D0
+~
+~
+0 0 15659
+D1
+This door leads out onto the southern battlements.
+~
+wooden~
+1 0 15690
+D3
+~
+~
+0 0 15657
+S
+#15659
+{CUp in the Southwest Tower{x~
+This part of the tower appears to be mainly used to keep watch over the
+courtyards of Vingaard Keep.  Observation points and archer positions are
+set into the northern and the eastern wall of the tower watching over the
+appropriate courtyard.  Should the keep be attacked then attackers in the
+courtyards can be picked off by archers from here.  The tower continues to
+the south and to the west.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15658
+D3
+~
+~
+0 0 15660
+S
+#15660
+{CUp in the Southwest Tower{x~
+This is the entrance to the first floor of the southwestern watchtower of
+Vingaard Keep.  The western wall here is lined with archer positions that
+look out over the plains to the west.  From here any occupants of the
+Knights High Road can be watched and covered by the knight's archers.  A
+hall in the tower opens out to the east while a spiral staircase stands to
+the south.  A heavy wooden door is set into the northern wall.  
+~
+0 262152 1
+E
+door~
+This heavy set wooden door leads out onto the battlements.  
+~
+D0
+This heavyset wooden door leads out onto the battlements.
+~
+wooden~
+1 0 15661
+D1
+~
+~
+0 0 15659
+D2
+~
+~
+0 0 15657
+S
+#15661
+{CUpon the Western Battlements{x~
+The battlements of the western wall of Vingaard keep are the most
+fortified and most defended of all the walls.  This wall gives a clear view
+of the plains to the west, the most likely direction for ground assault on
+the keep.  From here, soldiers can defend the wall whilst archers pick off
+approaching enemies.  A wooden door leads into a mighty tower to the south
+while the battlements continue to the north.  
+~
+0 262144 1
+E
+door~
+This heavy wooden door leads into the southwest watchtower.
+~
+D0
+~
+~
+0 0 15662
+D2
+This heavy wooden door leads into the southwest watchtower.  
+~
+wooden~
+1 0 15660
+S
+#15662
+{CThe Western Battlements{x~
+The western wall is heavily fortified here and is usually the most well
+guarded.  The defense of the keep is normally orchestrated from this wall
+since the western plains are the only direction a full ground assault on the
+keep can be launched.  The sturdy wooden walkway here can hold the weight of
+hundreds of troops as they repel enemies from the walls.  The battlements
+continue to the south while a stone structure stands to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15663
+D2
+~
+~
+0 0 15661
+S
+#15663
+{CAbove the Gatehouse{x~
+This mighty stone structure houses the mechanisms for the inner and outer
+portcullises of the keep.  The area between the mechanisms is quite large and
+it appears several men can stand abreast in this area.  The stone floor is
+riddled with holes that taper to slits similar to the archer positions along
+the walls of the keep.  It seems that enemies trapped between the two
+portcullises can be picked off by archers from up here.  The battlements of
+the keep stretch off to the north and to the south.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15664
+D2
+~
+~
+0 0 15662
+S
+#15664
+{CThe Western Battlements{x~
+The western wall is heavily fortified here and is usually the most well
+guarded.  The defense of the keep is normally orchestrated from this wall
+since the western plains are the only direction a full ground assault on the
+keep can be launched.  The sturdy wooden walkway here can hold the weight of
+hundreds of troops as they repel enemies from the walls.  The battlements
+continue to the north while a stone structure stands to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15665
+D2
+~
+~
+0 0 15663
+S
+#15665
+{CUpon the Western Battlements{x~
+The battlements of the western wall of Vingaard keep are the most
+fortified and most defended of all the walls.  This wall gives a clear view
+of the plains to the west, the most likely direction for ground assault on
+the keep.  From here, soldiers can defend the wall whilst archers pick off
+approaching enemies.  A wooden door leads into a mighty tower to the north
+while the battlements continue to the south.  
+~
+0 262144 1
+E
+door~
+This heavy wooden door leads into the northwestern watchtower.  
+~
+D0
+This heavy wooden door leads into the northwestern watchtower.
+~
+wooden~
+1 0 15666
+D2
+~
+~
+0 0 15664
+S
+#15666
+{CUp in the Northwest Tower{x~
+This is the entrance to the first floor of the northwestern watchtower of
+Vingaard Keep.  The western wall here is lined with archer positions that
+look out over the plains to the west.  From here any occupants of the
+Knights High Road can be watched and covered by the knight's archers.  A
+hall in the tower opens out to the east while a spiral staircase stands to
+the north.  A heavy wooden door is set into the southern wall.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15669
+D1
+~
+~
+0 0 15667
+D2
+~
+~
+1 0 15665
+S
+#15667
+{CUp in the Northwest Tower{x~
+This part of the tower appears to be mainly used to keep watch over the
+courtyards of Vingaard Keep.  Observation points and archer positions are
+set into the southern and the eastern wall of the tower watching over the
+appropriate courtyard.  Should the keep be attacked then attackers in the
+courtyards can be picked off by archers from here.  The tower continues to
+the north and to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15668
+D3
+~
+~
+0 0 15666
+S
+#15668
+{CUp in the Northwestern Tower{x~
+This is the first floor of the mighty northwest tower of Vingaard Keep. 
+It is one of four watchtowers that surround the keep itself.  The tower can
+hold large numbers of defending troops and positions along the wall
+accommodate numerous archers.  To the east a heavy wooden door leads out onto
+the walkways that line the outer walls of the keep.  The tower continues to
+the south and a spiral staircase stands to the west.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out onto the northern battlements.
+~
+D1
+This wooden door leads out onto the northern battlements.
+~
+wooden~
+1 0 15670
+D2
+~
+~
+0 0 15667
+D3
+~
+~
+0 0 15669
+S
+#15669
+{CA Spiral Staircase{x~
+This is the spiral staircase of the northwest tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the south and to the east whilst the staircase continues up and down.  
+~
+0 262152 1
+E
+stairs~
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+D1
+~
+~
+0 0 15668
+D2
+~
+~
+0 0 15666
+D4
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+stairs~
+0 0 15695
+D5
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+~
+0 0 15617
+S
+#15670
+{CUpon the Northern Battlements{x~
+The Northern wall is well fortified but not as well fortified as the
+western wall.  The view to the north reveals how attackers would have to
+cross the Vingaard river with little room to form ranks should they attack
+from the north.  Archers and defenders here are more likely to be asked to
+repel a small flanking force.  The wooden walkway along the battlements
+continues to the east while a wooden door allows access to the mighty tower
+to the west.  
+~
+0 262144 1
+E
+door~
+This heavy wooden door leads into the northwestern watchtower.  
+~
+D1
+~
+~
+0 0 15671
+D3
+This heavy wooden door leads into the northwestern watchtower.
+~
+wooden~
+1 0 15668
+S
+#15671
+{CThe Northern Battlements{x~
+The battlements here on the northern wall allow troops to take cover
+should the keep come under fire from a battery of archers.  The gaps allow
+archers to return fire and for more heavily armored troops to repel anyone
+trying to breach the walls.  The occasional sand filled cauldron can be seen
+along the wall with provisions underneath to make fire.  The hot sand is
+poured onto defenders below to fill in cracks in their armor it is far more
+efficient than boiling oil.  The battlements continue to the east and to the
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15672
+D3
+~
+~
+0 0 15670
+S
+#15672
+{CThe Northern Battlements{x~
+The strong and sturdy wooden walkway continues along the wall here. 
+Wooden battlements line the walkway so that attackers in the courtyard can
+be fired upon should they breach the walls.  They also give something for
+soldiers to find support when repelling attackers.  The walkway continues to
+the east and to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15673
+D3
+~
+~
+0 0 15671
+S
+#15673
+{CUpon the Northern Battlements{x~
+The Northern wall is well fortified but not as well fortified as the
+western wall.  The view to the north reveals how attackers would have to
+cross the Vingaard river with little room to form ranks should they attack
+from the north.  Archers and defenders here are more likely to be asked to
+repel a small flanking force.  The wooden walkway along the battlements
+continues to the west while a wooden door allows access to the mighty tower
+to the east.  
+~
+0 262144 1
+E
+door~
+This wooden door leads into the mighty northeastern watchtower.  
+~
+D1
+This wooden door leads into the mighty northeastern watchtower.
+~
+~
+1 0 15674
+D3
+~
+~
+0 0 15672
+S
+#15674
+{CUp in the Northeastern Tower{x~
+This is the first floor of the mighty northeast tower of Vingaard Keep. 
+It is one of four watchtowers that surround the keep itself.  The tower can
+hold large numbers of defending troops and positions along the wall and can
+accommodate numerous archers.  To the west a heavy wooden door leads out onto
+the walkways that line the outer walls of the keep.  The tower continues to
+the south and a spiral staircase stands to the east.  
+~
+0 262152 1
+E
+door~
+This door leads out onto the Northern Battlements.
+~
+D1
+~
+~
+0 0 15677
+D2
+~
+~
+0 0 15675
+D3
+This door leads out onto the Northern Battlements.
+~
+wooden~
+1 0 15673
+S
+#15675
+{CUp in the Northeast Tower{x~
+This part of the tower appears to be mainly used to keep watch over the
+courtyards of Vingaard Keep.  Observation points and archer positions are
+set into the southern and the western walls of the tower watching over the
+appropriate courtyard.  Should the keep be attacked then attackers in the
+courtyards can be picked off by archers from here.  The tower continues to
+the north and to the east.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15674
+D1
+~
+~
+0 0 15676
+S
+#15676
+{CUp in the Northeast Tower{x~
+This is the entrance to the first floor of the northeastern watchtower of
+Vingaard Keep.  The eastern wall here is lined with archer positions that
+look out over the river and the plains beyond to the east.  From here any
+attackers or suspicious looking boatmen on the river can be covered by the
+knight's archers.  A hall in the tower opens out to the west while a spiral
+staircase stands to the north.  A heavy wooden door is set into the southern
+wall.  
+~
+0 262152 1
+E
+door~
+This heavy wooden door leads out onto the western battlements.  
+~
+D0
+~
+~
+0 0 15677
+D2
+This heavy wooden door leads out onto the western battlements.
+~
+wooden~
+1 0 15678
+D3
+~
+~
+0 0 15675
+S
+#15677
+{CA Spiral Staircase{x~
+This is the spiral staircase of the northeast tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the south and to the west whilst the staircase continues up and down.  
+~
+0 262152 1
+E
+staircase~
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+D2
+~
+~
+0 0 15676
+D3
+~
+~
+0 0 15674
+D4
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+stairs~
+0 0 15699
+D5
+These stairs ascend in a clockwise direction, impeding right-handed
+attackers.  
+~
+stairs~
+0 0 15633
+S
+#15678
+{CUpon the Eastern Battlements{x~
+The eastern wall is the least fortified of the four walls surrounding the
+keep.  The view looks out onto the west bank of the Vingaard River as it
+flows north on its way to the sea.  Any ground attack from this direction
+would be slowed down by the river crossing giving the keep's defenders
+enough time to pick off the marauders with their skilled bowmen.  The
+battlements continue to the south while a heavy wooden door is set in the
+wall of a mighty tower to the north.  
+~
+0 262144 1
+E
+door~
+This heavy wooden door leads into the northeastern watchtower.
+~
+D0
+This heavy wooden door leads into the northeastern watchtower.
+~
+wooden~
+1 0 15676
+D2
+~
+~
+0 0 15679
+S
+#15679
+{CThe Eastern Battlements{x~
+The sturdy wooden walkway here can hold many troops as they fight to
+defend the keep from these walls.  From here boats on the Vingaard river can
+be watched by wary troops patrolling these battlements.  Should anything be
+amiss the skilled archers of the keep can easily reach the boat and its
+occupants with their arrows.  The walkway continues to the north and to the
+south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15678
+D2
+~
+~
+0 0 15680
+S
+#15680
+{CAlong the Eastern Battlements{x~
+The battlements on the eastern wall are not the most fortified of the
+four walls but are still well defended.  The threat of a river borne attack
+is a slim one but the over careful knights take no chances.  Regular patrols
+along here keep watch over the river and its occupants as well as keeping an
+eye on the eastern courtyard below.  The wooden walkway along the
+battlements continues to the north and to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15679
+D2
+~
+~
+0 0 15681
+S
+#15681
+{CThe Eastern Battlements{x~
+The sturdy wooden walkway here can hold many troops as they fight to
+defend the keep from these walls.  From here boats on the Vingaard river can
+be watched by wary troops patrolling these battlements.  Should anything be
+amiss the skilled archers of the keep can easily reach the boat and its
+occupants with their arrows.  The walkway continues to the north and to the
+south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15680
+D2
+~
+~
+0 0 15682
+S
+#15682
+{CUpon the Eastern Battlements{x~
+The eastern wall is the least fortified of the four walls surrounding the
+keep.  The view looks out onto the west bank of the Vingaard River as it
+flows north on its way to the sea.  Any ground attack from this direction
+would be slowed down by the river crossing giving the keep's defenders
+enough time to pick off the marauders with their skilled bowmen.  The
+battlements continue to the north while a heavy wooden door is set in the
+wall of a mighty tower to the south.  
+~
+0 262144 1
+E
+door~
+This heavy wooden door leads into the mighty southeastern watchtower.  
+~
+D0
+~
+~
+0 0 15681
+D2
+This heavy wooden door leads into the mighty southeastern watchtower.
+~
+wooden~
+1 0 15683
+S
+#15683
+{CUp in the Southeast Tower{x~
+This is the entrance to the first floor of the southeastern watchtower of
+Vingaard Keep.  The eastern wall here is lined with archer positions that
+look out over the river and the plains beyond to the east.  From here any
+attackers or suspicious looking boatmen on the river can be covered by the
+knight's archers.  A hall in the tower opens out to the west while a spiral
+staircase stands to the south.  A heavy wooden door is set into the northern
+wall.  
+~
+0 262152 1
+E
+door~
+This heavyset wooden door leads out onto the eastern battlements.
+~
+D0
+This heavyset wooden door leads out onto the eastern battlements.  
+~
+wooden~
+1 0 15682
+D2
+~
+~
+0 0 15686
+D3
+~
+~
+0 0 15684
+S
+#15684
+{CUp in the Southeastern Tower{x~
+This part of the tower appears to be mainly used to keep watch over the
+courtyards of Vingaard Keep.  Observation points and archer positions are
+set into the northern and the western walls of the tower watching over the
+appropriate courtyard.  Should the keep be attacked then attackers in the
+courtyards can be picked off by archers from here.  The tower continues to
+the south and to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15683
+D2
+~
+~
+0 0 15685
+S
+#15685
+{CUp in the Southeast Watchtower{x~
+This is the first floor of the mighty southeast tower of Vingaard Keep. 
+It is one of four watchtowers that surround the keep itself.  The tower can
+hold large numbers of defending troops and positions along the wall and can
+accommodate numerous archers.  To the west a heavy wooden door leads out onto
+the walkways that line the outer walls of the keep.  The tower continues to
+the north and a spiral staircase stands to the east.  
+~
+0 262152 1
+E
+wooden~
+This door leads out onto the southern battlements.
+~
+D0
+~
+~
+0 0 15684
+D1
+~
+~
+0 0 15686
+D3
+This door leads out onto the southern battlements.
+~
+wooden~
+1 0 15687
+S
+#15686
+{CA Spiral Staircase{x~
+This is the spiral staircase of the southeast tower of Vingaard Keep. 
+These stairs lead further up into the tower.  The spiral winds its way
+upwards in a clockwise manner, impeding any would be attackers leaving them
+no room on the right hand side to swing their weapons.  The tower continues
+to the north and to the west whilst the staircase continues up and down.  
+~
+0 262152 1
+E
+staircase~
+These stairs ascend clockwise to impede right handed attackers.  
+~
+D0
+~
+~
+0 0 15683
+D3
+~
+~
+0 0 15685
+D4
+These stairs ascend clockwise to impede right-handed attackers.
+~
+stairs~
+0 0 15703
+D5
+These stairs ascend clockwise to impede right-handed attackers.
+~
+stairs~
+0 0 15648
+S
+#15687
+{CUpon the Southern Battlements{x~
+The southern battlements are reasonably fortified and well defended.  The
+view to the south reveals that a full-scale assault is not likely on this
+wall since the proximity of the Vingaard river makes it difficult for armies
+to approach and assemble into ranks.  Defenders of this wall are more likely
+to be asked to defend against a flanking attack.  A heavyset wooden door is
+set into a mighty tower to the east whilst the walkways of the battlements
+continue to the west.
+~
+0 262144 1
+E
+door~
+This heavyset wooden door leads into the mighty southeastern watchtower.
+~
+D1
+This heavy set wooden door leads into the mighty southeastern watchtower.  
+~
+wooden~
+1 0 15685
+D3
+~
+~
+0 0 15688
+S
+#15688
+{CThe Southern Battlements{x~
+Here the mighty stone walls of Vingaard Keep are crowned with mighty
+stone battlements.  Defenders of the keep can use the protective stones as
+cover and quickly dart in front of the gaps to shoot attackers or repel any
+enemy troops that get too close to the walls.  The wooden walkways running
+along the walls continue to the east and to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15687
+D3
+~
+~
+0 0 15689
+S
+#15689
+{CThe Southern Battlements{x~
+From these mighty stone battlements, keen eyed troops keep a wary watch
+over the plains to the south.  The Vingaard river can be seen as it cuts
+across the plain sweeping on its way to the sea to the north.  The
+battlements are lined with a sturdy wooden walkway that can support a number
+of troops as they defend the walls.  The walkway continues to the east and
+to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15688
+D3
+~
+~
+0 0 15690
+S
+#15690
+{CUpon the Southern Battlements{x~
+The southern battlements are reasonably fortified and well defended.  The
+view to the south reveals that a full-scale assault is not likely on this
+wall since the proximity of the Vingaard river makes it difficult for armies
+to approach and assemble into ranks.  Defenders of this wall are more likely
+to be asked to defend against a flanking attack.  A heavyset wooden door is
+set into a mighty tower to the west whilst the walkways of the battlements
+continue to the east.  
+~
+0 262144 1
+E
+door~
+This heavyset wooden door leads into the southwestern watchtower.
+~
+E
+wooden~
+This heavyset wooden door leads into the southwestern watchtower.
+~
+D1
+~
+~
+0 0 15689
+D3
+This heavyset wooden door leads into the southwestern watchtower.
+~
+wooden~
+1 0 15658
+S
+#15691
+{CTop of the Spiral Staircase{x~
+This is the top of the spiral staircase of the southwest tower of
+Vingaard Keep.  These stairs lead down into the rest of the tower.  The
+spiral winds its way down in an anti-clockwise direction impeding any would
+be attackers leaving them no room on the right hand side to swing their
+weapons.  The tower continues to the north and to the east whilst the
+staircase leads down.  
+~
+0 262152 1
+E
+staircase~
+These spiral steps descend in an anti-clockwise direction to impede right
+handed attackers.  
+~
+D0
+~
+~
+0 0 15692
+D1
+~
+~
+0 0 15694
+D5
+These spiral steps descend in an anti-clockwise direction to impede right
+handed attackers.  
+~
+stairs~
+0 0 15657
+S
+#15692
+{CFurther Up in the Southwest Tower{x~
+This room in the tower can accommodate many archers and keen eyed
+watchmen.  The walls are lined with archer positions that are slightly
+taller than most others around the keep.  The bowmen here appear to use
+stronger longer range bows to fire volleys of arrows upon attacking forces
+below.  The observation points look out over the plains to the west where an
+approaching army is most likely to come from.  A spiral staircase stands to
+the south whilst another staircase stands to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15693
+D2
+~
+~
+0 0 15691
+S
+#15693
+{CA Sturdy Stairway{x~
+This old yet sturdy stairway leads up onto the roof of the tower itself. 
+The banister supports have been ornately carved to resemble brave knights
+vigilantly standing watch.  The flickering torchlight makes the shadows
+appear like the knights are forever marching up the stairs in and endless
+procession.  The second floor of the tower continues to the south and to the
+west.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15694
+D3
+~
+~
+0 0 15692
+D4
+These ornate stairs lead onto the roof of the tower.
+~
+stairs~
+0 0 15707
+S
+#15694
+{CSecond floor of the Southwestern Tower{x~
+This hall on the second floor of the southwest watchtower is designed for
+archers and watchmen to spend long shifts watching out over the southern
+plains surrounding Vingaard Keep.  In an all out attack archers here would
+use their longbows to pick off enemies in a flanking attack.  The torches
+set in the wall are kept burning low here to afford the watchmen a better
+view of the outside.  A spiral staircase lies to the west while a second
+staircase stands to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15693
+D3
+~
+~
+0 0 15691
+S
+#15695
+{CTop of the Spiral Staircase{x~
+This is the top of the spiral staircase of the northwest tower of
+Vingaard Keep.  These stairs lead down into the rest of the tower.  The
+spiral staircase winds its way down in an anti-clockwise direction impeding
+any would be attackers leaving them no room on the right hand side to swing
+their weapons.  The tower continues to the south and to the east whilst the
+staircase leads down.  
+~
+0 262152 1
+E
+staircase~
+This staircase descends in an anti-clockwise direction impeding right
+handed attackers.  
+~
+D1
+~
+~
+0 0 15696
+D2
+~
+~
+0 0 15698
+D5
+This staircase descends in an anti-clockwise direction impeding right
+handed attackers.  
+~
+stairs~
+0 0 15669
+S
+#15696
+{CFurther Up in the Northwest Tower{x~
+This hall on the second floor of the northwest watchtower is designed for
+archers and watchmen to spend long shifts watching out over the northern
+plains surrounding Vingaard Keep.  In an all out attack archers here would
+use their longbows to pick off enemies in a flanking attack.  The torches
+set in the wall are kept burning low here to afford the watchmen a better
+view of the outside.  A spiral staircase lies to the west while a second
+staircase stands to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15697
+D3
+~
+~
+0 0 15695
+S
+#15697
+{CAn Ornate Stairway{x~
+This old yet sturdy stairway leads up onto the roof of the tower itself. 
+The banister supports have been ornately carved to resemble brave knights
+vigilantly standing watch.  The flickering torchlight makes the shadows
+appear like the knights are forever marching up the stairs in and endless
+procession.  The second floor of the tower continues to the north and to the
+west.  
+~
+0 262152 1
+E
+stairway~
+This ornately carved stairway leads up onto the roof of the tower.  
+~
+D0
+~
+~
+0 0 15696
+D3
+~
+~
+0 0 15698
+D4
+This ornately carved stairway leads up onto the roof of the tower.
+~
+stairs~
+0 0 15711
+S
+#15698
+{CSecond floor of Northwest Tower{x~
+This room in the tower can accommodate many archers and keen eyed
+watchmen.  The walls are lined with archer positions that are slightly
+taller than most others around the keep.  The bowmen here appear to use
+stronger longer range bows to fire volleys of arrows upon attacking forces
+below.  The observation points look out over the plains to the west where an
+approaching army is most likely to come from.  A spiral staircase stands to
+the north whilst another staircase stands to the east.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15695
+D1
+~
+~
+0 0 15697
+S
+#15699
+{CTop of the Spiral Staircase{x~
+This is the top of the spiral staircase of the northeast tower of
+Vingaard Keep.  These stairs lead down into the rest of the tower.  The
+spiral staircase winds its way down in an anti-clockwise direction impeding
+any would be attackers leaving them no room on the right hand side to swing
+their weapons.  The tower continues to the south and to the west whilst the
+staircase leads down.  
+~
+0 262152 1
+E
+staircase~
+This staircase descends anti-clockwise to impede right-handed attackers.
+~
+D2
+~
+~
+0 0 15700
+D3
+~
+~
+0 0 15702
+D5
+This staircase descends anti-clockwise to impede right handed attackers.  
+~
+stairs~
+0 0 15677
+S
+#15700
+{CSecond floor of the Northeast Tower{x~
+This room in the tower can accommodate many archers and keen eyed
+watchmen.  The walls are lined with archer positions that are slightly
+taller than most others around the keep.  The bowmen here appear to use
+stronger longer range bows to fire volleys of arrows upon attacking forces
+below.  The observation points look out over the Vingaard river and her
+banks to the west.  It is unlikely that a full-scale assault will take place
+from this direction but any river-borne enemies can be picked off from here.
+A spiral staircase stands to the north whilst another staircase stands to
+the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15699
+D3
+~
+~
+0 0 15701
+S
+#15701
+{CA Sturdy Staircase{x~
+This old yet sturdy stairway leads up onto the roof of the tower itself. 
+The banister supports have been ornately carved to resemble brave knights
+vigilantly standing watch.  The flickering torchlight makes the shadows
+appear like the knights are forever marching up the stairs in and endless
+procession.  The second floor of the tower continues to the north and to the
+east.  
+~
+0 262152 1
+E
+staircase~
+This ornately carved staircase leads up to the roof of the tower.
+~
+D0
+~
+~
+0 0 15702
+D1
+~
+~
+0 0 15700
+D4
+This ornately carved staircase leads up to the roof of the tower.  
+~
+stairs~
+0 0 15715
+S
+#15702
+{CFurther Up in the Northeast Tower{x~
+This hall on the second floor of the northeast watchtower is designed for
+archers and watchmen to spend long shifts watching out over the northern
+plains surrounding Vingaard Keep.  In an all out attack archers here would
+use their longbows to pick off enemies in a flanking attack.  The torches
+set in the wall are kept burning low here to afford the watchmen a better
+view of the outside.  A spiral staircase lies to the east while a second
+staircase stands to the south.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15699
+D2
+~
+~
+0 0 15701
+S
+#15703
+{CTop of the Spiral Staircase{x~
+This is the top of the spiral staircase of the southeast tower of
+Vingaard Keep.  These stairs lead down into the rest of the tower.  The
+spiral staircase winds its way down in an anti-clockwise direction impeding
+any would be attackers leaving them no room on the right hand side to swing
+their weapons.  The tower continues to the north and to the west whilst the
+staircase leads down.  
+~
+0 262152 1
+E
+staircase~
+This spiral staircase descends anti-clockwise to impede right handed
+attackers.  
+~
+D0
+~
+~
+0 0 15706
+D3
+~
+~
+0 0 15704
+D5
+This spiral staircase descends anti-clockwise to impede right handed
+attackers.  
+~
+stairs~
+0 0 15686
+S
+#15704
+{CSecond floor of Southeastern Tower{x~
+This hall on the second floor of the southeast watchtower is designed for
+archers and watchmen to spend long shifts watching out over the southern
+plains surrounding Vingaard Keep.  In an all out attack archers here would
+use their longbows to pick off enemies in a flanking attack.  The torches
+set in the wall are kept burning low here to afford the watchmen a better
+view of the outside.  A spiral staircase lies to the east while a second
+staircase stands to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15705
+D1
+~
+~
+0 0 15703
+S
+#15705
+{CAn Ornate Staircase{x~
+This old yet sturdy stairway leads up onto the roof of the tower itself. 
+The banister supports have been ornately carved to resemble brave knights
+vigilantly standing watch.  The flickering torchlight makes the shadows
+appear like the knights are forever marching up the stairs in and endless
+procession.  The second floor of the tower continues to the south and to the
+east.  
+~
+0 262152 1
+E
+staircase~
+This ornately carved staircase leads up to the tower's roof.
+~
+D1
+~
+~
+0 0 15706
+D2
+~
+~
+0 0 15704
+D4
+This ornately carved staircase leads up to the tower's roof.  
+~
+stairs~
+0 0 15719
+S
+#15706
+{CFurther Up the Southeast Tower{x~
+This room in the tower can accommodate many archers and keen eyed
+watchmen.  The walls are lined with archer positions that are slightly
+taller than most others around the keep.  The bowmen here appear to use
+stronger longer range bows to fire volleys of arrows upon attacking forces
+below.  The observation points look out over the Vingaard river and her
+banks to the west.  It is unlikely that a full-scale assault will take place
+from this direction but any river-borne enemies can be picked off from here.
+A spiral staircase stands to the south whilst another staircase stands to
+the west.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15703
+D3
+~
+~
+0 0 15705
+S
+#15707
+{CAtop the Southwest Tower{x~
+This is the roof of the southwest tower of Vingaard Keep.  The wind howls
+around the battlements that surround the roof in all directions.  A set of
+ornately carved stairs lead down into the tower itself whilst the roof opens
+out to the south and to the west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 15708
+D3
+~
+~
+0 0 15710
+D5
+~
+~
+0 0 15693
+S
+#15708
+{CAtop the Southwest Tower{x~
+Here high above the plains watchmen and troops can see all around
+Vingaard Keep.  The flat stone roof of the southwest tower is protected by
+large battlements that troops can take cover behind should they need to. 
+Longbowmen can be brought up here to fire volleys of arrows down upon the
+southern plains should the keep be attacked by enemies.  The rooftop
+continues to the north and to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15707
+D3
+~
+~
+0 0 15709
+S
+#15709
+{CAtop the Southwest Tower{x~
+Here on the roof of the mighty southwest tower of Vingaard Keep the wind
+howls through the battlements and swirls around the roof.  Lookouts and
+watchmen are often assigned here to watch over the plains to the south and
+to the west.  Archers can be deployed here to fire volleys of arrows down
+onto attacking forces.  The rooftop continues to the north and to the east. 
+~
+0 262144 1
+D0
+~
+~
+0 0 15710
+D1
+~
+~
+0 0 15708
+S
+#15710
+{CAtop the Southwest Tower{x~
+The wind howls around the battlements here high above the western plains.
+The knights of Vingaard Keep assign watchmen to keep vigilant watch over the
+plains to the west ever watchful for the signs of an attacking army. 
+Archers can be brought here to use their longbows to fire deadly volleys of
+arrows down at any approaching enemies.  The rooftop continues to the south
+and to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15707
+D2
+~
+~
+0 0 15709
+S
+#15711
+{CAtop the Northwest Tower{x~
+This is the roof of the northwest tower of Vingaard Keep.  The wind howls
+around the battlements that surround the roof in all directions.  A set of
+ornately carved stairs lead down into the tower itself whilst the roof opens
+out to the north and to the west.  
+~
+0 262144 1
+E
+staircase~
+This ornate staircase leads down into the tower.
+~
+D0
+~
+~
+0 0 15714
+D3
+~
+~
+0 0 15712
+D5
+This ornate staircase leads down into the tower.
+~
+stairs~
+0 0 15697
+S
+#15712
+{CAtop the Northwest Tower{x~
+The wind howls around the battlements here high above the western plains.
+The knights of Vingaard Keep assign watchmen to keep vigilant watch over the
+plains to the west ever watchful for the signs of an attacking army. 
+Archers can be brought here to use their longbows to fire deadly volleys of
+arrows down at any approaching enemies.  The rooftop continues to the north
+and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15713
+D1
+~
+~
+0 0 15711
+S
+#15713
+{CAtop the Northwest Tower{x~
+Here on the roof of the mighty northeast tower of Vingaard Keep the wind
+howls through the battlements and swirls around the roof.  Lookouts and
+watchmen are often assigned here to watch over the plains to the north and
+to the west.  Archers can be deployed here to fire volleys of arrows down
+onto attacking forces.  The rooftop continues to the south and to the east. 
+~
+0 262144 1
+D1
+~
+~
+0 0 15714
+D2
+~
+~
+0 0 15712
+S
+#15714
+{CAtop the Northwest Tower{x~
+Here high above the plains watchmen and troops can see all around
+Vingaard Keep.  The flat stone roof of the northwest tower is protected by
+large battlements that troops can take cover behind should they need to. 
+Longbowmen can be brought up here to fire volleys of arrows down upon the
+northern plains should the keep be attacked by enemies.  The rooftop
+continues to the south and to the west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 15711
+D3
+~
+~
+0 0 15713
+S
+#15715
+{CAtop the Northeast Tower{x~
+This is the roof of the northeast tower of Vingaard Keep.  The wind howls
+around the battlements that surround the roof in all directions.  A set of
+ornately carved stairs lead down into the tower itself whilst the roof opens
+out to the north and to the east.  
+~
+0 262144 1
+E
+staircase~
+This stairway leads down into the tower itself.
+~
+D0
+~
+~
+0 0 15717
+D1
+~
+~
+0 0 15716
+D5
+This stairway leads down into the tower itself.
+~
+stairs~
+0 0 15701
+S
+#15716
+{CAtop the Northeast Tower{x~
+The wind howls around the battlements here high above the Vingaard river.
+The knights of Vingaard Keep assign watchmen to keep vigilant watch over the
+banks of the river to the east ever watchful for enemy infiltrators. 
+Archers can be brought here to use their longbows to fire deadly volleys of
+arrows down at any approaching enemies.  The rooftop continues to the north
+and to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15718
+D3
+~
+~
+0 0 15715
+S
+#15717
+{CAtop the Northeast Tower{x~
+Here high above the plains watchmen and troops can see all around
+Vingaard Keep.  The flat stone roof of the northeast tower is protected by
+large battlements that troops can take cover behind should they need to. 
+Longbowmen can be brought up here to fire volleys of arrows down upon the
+northern plains should the keep be attacked by enemies.  The rooftop
+continues to the south and to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 15718
+D2
+~
+~
+0 0 15715
+S
+#15718
+{CAtop the Northeast Tower{x~
+Here on the roof of the mighty northwest tower of Vingaard Keep the wind
+howls through the battlements and swirls around the roof.  Lookouts and
+watchmen are often assigned here to watch over the plains to the north and
+to the east.  Archers can be deployed here to fire volleys of arrows down
+onto attacking forces.  The rooftop continues to the south and to the west. 
+~
+0 262144 1
+D2
+~
+~
+0 0 15716
+D3
+~
+~
+0 0 15717
+S
+#15719
+{CAtop the Southeastern Tower{x~
+This is the roof of the southeast tower of Vingaard Keep.  The wind howls
+around the battlements that surround the roof in all directions.  A set of
+ornately carved stairs lead down into the tower itself whilst the roof opens
+out to the south and to the east.  
+~
+0 262144 1
+E
+staircase~
+This ornately carved staircase leads down into the tower itself.
+~
+D1
+~
+~
+0 0 15720
+D2
+~
+~
+0 0 15721
+D5
+This ornately carved staircase leads down into the tower itself.  
+~
+stairs~
+0 0 15705
+S
+#15720
+{CAtop the Southeastern Tower{x~
+The wind howls around the battlements here high above the Vingaard river.
+The knights of Vingaard Keep assign watchmen to keep vigilant watch over the
+banks of the river to the east ever watchful for enemy infiltrators. 
+Archers can be brought here to use their longbows to fire deadly volleys of
+arrows down at any approaching enemies.  The rooftop continues to the south
+and to the west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 15722
+D3
+~
+~
+0 0 15719
+S
+#15721
+{CAtop the Southeastern Tower{x~
+Here high above the plains watchmen and troops can see all around
+Vingaard Keep.  The flat stone roof of the southeast tower is protected by
+large battlements that troops can take cover behind should they need to. 
+Longbowmen can be brought up here to fire volleys of arrows down upon the
+southern plains should the keep be attacked by enemies.  The rooftop
+continues to the north and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15719
+D1
+~
+~
+0 0 15722
+S
+#15722
+{CAtop the Southeastern Tower{x~
+Here on the roof of the mighty southeast tower of Vingaard Keep the wind
+howls through the battlements and swirls around the roof.  Lookouts and
+watchmen are often assigned here to watch over the plains to the south and
+the river and plains beyond to the east.  Archers can be deployed here to
+fire volleys of arrows down onto attacking forces.  The rooftop continues to
+the north and to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15720
+D3
+~
+~
+0 0 15721
+S
+#15723
+{GA Dry Patch in the Moat{x~
+This area of the moat is raised above the level of the murky water that
+lies to the north and to the south.  The murky waters are flowing from
+beneath a large floodgate set into the banks of the moat.  The gate is
+nowhere near its full height enabling the knights to flood this part of the
+moat should the need arise.  The keep is built high up on a hill directly to
+the east.  The hill is so steep that it is definitely unscaleable.  A patch
+of the hill appears to be a slightly different color to the rest.  
+~
+0 262144 1
+E
+hill~
+Closer examination of the colored patch of the hill reveals a hidden
+doorway.  
+~
+E
+patch~
+Closer examination of the colored patch of the hill reveals a hidden
+doorway.  
+~
+D1
+Closer examination of the colored patch of the hill reveals a hidden
+doorway.  
+~
+hill~
+1 0 15724
+D4
+~
+~
+0 0 15602
+S
+#15724
+{GA Dark Damp Tunnel{x~
+This tunnel runs underneath the walls of Vingaard Keep.  From the heavily
+booted tracks on the floor of this tunnel it is obvious that a large bulk of
+troops use this tunnel frequently.  The walls have been carved away in
+places to follow the natural walls of the tunnel.  It seems a tunnel has
+existed here long before the keep was built and it was merely widened to
+serve the knight's purpose.  A stone door is set in the west while the
+tunnel leads into a passageway to the east.  
+~
+0 262152 1
+E
+door~
+A heavy stone door has been set to blend with the natural walls.  
+~
+D1
+~
+~
+0 0 15725
+D3
+A heavy stone door has been set to blend with the natural walls.  
+~
+~
+1 0 15723
+S
+#15725
+{CA Secret Passageway{x~
+The natural tunnel below Vingaard Keep has been extended here.  The
+natural tunnel walls blend into man made stonework here.  There are numerous
+tracks around on the floor that were made by booted and heavily armored
+persons.  Torches line the walls here making the tunnel to the east appear
+much darker.  A wooden door stands to the east.  
+~
+0 262152 1
+E
+door~
+This wooden door must lead into the sub ground levels of the keep.  
+~
+D1
+This wooden door must lead into the sub ground levels of the keep.
+~
+wooden~
+1 0 15726
+D3
+~
+~
+0 0 15724
+S
+#15726
+{CA Well Used Corridor{x~
+This corridor appears to be well used and cared for.  The torches lining
+the walls are all burning well and there is little or no dust on the floor. 
+The floor itself is made of stone that has been ground flat for a more
+comfortable walking surface.  The stoneworked walls taper off to form arches
+at the top lending support to whatever lies above.  The corridor continues
+to the north and to the south.  A wooden door is set into the wall to the
+west.  
+~
+0 262152 1
+E
+door~
+The symbol of the Knights of Solamnia is engraved upon this door.  
+~
+D0
+~
+~
+0 0 15727
+D2
+~
+~
+0 0 15728
+D3
+The symbol of the Knights of Solamnia is engraved upon this door.
+~
+wooden~
+1 0 15725
+S
+#15727
+{CA Stony Corridor{x~
+The stoneworked corridor ends here with an exit in every wall.  Pain
+filled cries can be heard coming from the room to the east.  A plain wooden
+door stands to the west.  Dirty booted footprints lead from the corridor
+into the room to the west through the door.  A larger sturdier door stands
+to the north.  The insignia of the armory has been carved into it.  The
+corridor continues off to the south.  
+~
+0 262152 1
+E
+doors~
+A simple plain door stands to the west whilst the door to the north is
+much sturdier.  
+~
+D0
+This sturdy wooden door has the symbol for an armory inscribed upon it.  
+~
+sturdy~
+1 0 15744
+D1
+~
+~
+0 0 15743
+D2
+~
+~
+0 0 15726
+D3
+This is a simple plain wooden door.
+~
+plain~
+1 0 15748
+S
+#15728
+{CA Corner in the Corridor{x~
+The corridor comes to a corner here leading off to the north and
+continuing to the east.  The sounds of busy activities can be heard coming
+from the eastern corridor.  The floor here appears to be worn in slightly by
+the passage of many feet going in the same direction repeatedly.  The worn
+tracks lead off down the eastern corridor and fade out in the direction of a
+door to the south.  
+~
+0 262152 1
+E
+door~
+This is a plain ordinary wooden door.
+~
+D0
+~
+~
+0 0 15726
+D1
+~
+~
+0 0 15729
+D2
+This is a plain ordinary wooden door.
+~
+~
+1 0 15741
+S
+#15729
+{CA Busy Corridor{x~
+This part of the corridor seems to be very busy.  There are servants and
+squires milling around here going through the corridors that run from the
+east to the west.  Squires also appear to be going into a room to the north
+where the sound of metal clashing on metal can be heard.  There is a plain
+wooden door set into the south wall.  
+~
+0 262152 1
+E
+door~
+This is a plain wooden door.
+~
+D0
+~
+~
+0 0 15742
+D1
+~
+~
+0 0 15730
+D2
+This is a plain wooden door.
+~
+~
+1 0 15740
+D3
+~
+~
+0 0 15728
+S
+#15730
+{CA Busy Corner{x~
+This corner of the corridor is very busy.  The corner leads the corridor
+around from the west to the north.  A cell lies to the east surrounded by
+iron bars and chains.  Pleasant smells waft through the air here and seem to
+be coming from the large room to the south.  The sound of pain filled cries
+occasionally splits the air coming from the north.  
+~
+0 262152 1
+E
+bars~
+Heavy iron bars are used here to keep the prisoners in.
+~
+D0
+~
+~
+0 0 15731
+D1
+Heavy iron bars are used here to keep the prisoners in.
+~
+bars~
+1 15733 15737
+D2
+~
+~
+0 0 15738
+D3
+~
+~
+0 0 15729
+S
+#15731
+{DThe Cellblock{x~
+The corridor becomes a cellblock here with a long row of cells used to
+hold local criminals from the surrounding areas and spies or prisoners of
+war awaiting transfer to the High Clerist’s tower for questioning.  The
+cellblock continues to the north and to the south.  A cell surrounded by
+iron bars stands to the east.  
+~
+0 262152 1
+E
+bars~
+These iron bars are designed to hold in prisoners.
+~
+D0
+~
+~
+0 0 15732
+D1
+These iron bars are designed to hold in prisoners.
+~
+bars~
+1 15733 15736
+D2
+~
+~
+0 0 15730
+S
+#15732
+{DThe Cellblock{x~
+The cellblock continues along this part of the corridor.  Another cell
+lies to the east surrounded by thick iron bars to prevent the occupants from
+escaping.  The cellblock runs from the south to the north while the sound of
+a pain filled cry brings attention to a room to the west.  
+~
+0 262152 1
+E
+bars~
+These iron bars are designed to hold in prisoners.
+~
+D0
+~
+~
+0 0 15733
+D1
+These iron bars are designed to hold in prisoners.
+~
+bars~
+1 15733 15735
+D2
+~
+~
+0 0 15731
+D3
+~
+~
+0 0 15743
+S
+#15733
+{DThe Cellblock{x~
+This is the end of Vingaard Keep's cellblock.  It is kept relatively
+clean and is very nice in terms of cellblocks around the rest of the
+continent of Ansalon.  The last cell to the west is usually reserved for the
+most violent of the prisoners thus keeping him or her away from the rest of
+the keep.  The cellblock continues to the south.  
+~
+0 262152 1
+E
+bars~
+These iron bars are designed to hold in prisoners.
+~
+D1
+These iron bars are designed to hold in prisoners.
+~
+bars~
+1 15733 15734
+D2
+~
+~
+0 0 15732
+S
+#15734
+{DA Dark Cell{x~
+Although this cell is simply closed off by iron bars, the shadows seem to
+fall on this cell leaving it in perpetual darkness.  The floor is covered
+with a thick mat of straw and slung on the floor against the far wall is a
+large bag with straw poking through the canvas.  This sack is the only thing
+that passes as a bed.  A bucket stands in the north east corner and is
+chained to the wall on a short chain.  The only way out is through the iron
+bars.  
+~
+0 262153 1
+E
+bars~
+These iron bars are strong enough to keep prisoners locked in.
+~
+D3
+These iron bars are strong enough to keep prisoners locked in.  
+~
+bars~
+1 0 15733
+S
+#15735
+{DA Dark Cell{x~
+Although this cell is simply closed off by iron bars, the shadows seem to
+fall on this cell leaving it in perpetual darkness.  The floor is covered
+with a thick mat of straw and slung on the floor against the far wall is a
+large bag with straw poking through the canvas.  This sack is the only thing
+that passes as a bed.  A bucket stands in the north east corner and is
+chained to the wall on a short chain.  The only way out is through the iron
+bars.  
+~
+0 262153 1
+E
+bars~
+These iron bars are designed to keep you locked up.
+~
+D3
+These iron bars are here to keep you locked in.
+~
+bars~
+1 0 15732
+S
+#15736
+{DA Dark Cell{x~
+Although this cell is simply closed off by iron bars, the shadows seem to
+fall on this cell leaving it in perpetual darkness.  The floor is covered
+with a thick mat of straw and slung on the floor against the far wall is a
+large bag with straw poking through the canvas.  This sack is the only thing
+that passes as a bed.  A bucket stands in the north east corner and is
+chained to the wall on a short chain.  The only way out is through the iron
+bars.  
+~
+0 262153 1
+E
+bars~
+These thick iron bars are designed to keep you in.
+~
+D3
+These thick iron bars are designed to keep you in.
+~
+bars~
+1 0 15731
+S
+#15737
+{DA Dark Cell{x~
+Although this cell is simply closed off by iron bars, the shadows seem to
+fall on this cell leaving it in perpetual darkness.  The floor is covered
+with a thick mat of straw and slung on the floor against the far wall is a
+large bag with straw poking through the canvas.  This sack is the only thing
+that passes as a bed.  A bucket stands in the north east corner and is
+chained to the wall on a short chain.  The only way out is through the iron
+bars.  
+~
+0 262153 1
+E
+bars~
+Heavy iron bars are used here to keep the prisoners in.
+~
+D3
+Heavy iron bars are used here to keep the prisoners in.
+~
+bars~
+1 0 15730
+S
+#15738
+{WThe Kitchens{x~
+The kitchens of Vingaard Keep are extremely large.  Here many cooks and
+assistant chefs are running around preparing several different meals.  There
+are different sections allocated to the serving platters one for each of the
+three orders of the knights and separate trays for the squires, the archers
+and the guards.  There is a small kitchen set up for servants to make their
+own meals after they have finished their duties.  The huge kitchens continue
+to the east and the exit is to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15730
+D1
+~
+~
+0 0 15739
+S
+#15739
+{WThe Kitchens{x~
+This part of the kitchen is where most of the cooking is done.  Several
+cooks are busy preparing food while the chefs are cooking with the prepared
+ingredients.  A large dumbwaiter is set into the south wall.  The pulley
+system that operates it has a series of tags attached to indicate which
+floor the carriage is currently at.  The only way out is back through the
+rest of the kitchen to the west.  
+~
+0 262152 1
+E
+dumbwaiter~
+This ingenious device allows food and drinks to be transported to the
+floors above.  
+~
+E
+pulleys~
+The pulley system has a series of tags attached.  The ones that can be
+made out read: '{YBanquet Hall{x' and '{RHall of the Rose{x'.  
+~
+D3
+~
+~
+0 0 15738
+S
+#15740
+{RThe Wine Cellar{x~
+This rather cold room is full of barrels and wine racks.  The racks are
+filled with bottles.  Those bottles closest to the door appear to be fairly
+new and what little light there is glints off the glass.  As the bottles
+steadily progress away from the door they seem to have more dust covering
+them until the last bottles and those of the eldest vintage are covered with
+thick dust.  
+~
+0 262153 1
+E
+door~
+This is a plain wooden door.
+~
+D0
+This is a plain wooden door.
+~
+~
+1 0 15729
+S
+#15741
+{CThe Servants Quarters{x~
+This large room is not sparse but is not filled with a multitude of
+luxuries either.  Several cots are arranged in neat rows around the room.  A
+small chest lies next to each one.  There are large closets seemingly shared
+by the occupants of four beds.  The closets are filled with servant's
+uniforms.  A wooden door stands to the north.  
+~
+0 262152 1
+E
+door~
+This is a plain wooden door.  
+~
+D0
+This is a plain wooden door.
+~
+~
+1 0 15728
+S
+#15742
+{CThe Training Room{x~
+This is the training room used by squires and some of the lower ranked
+knights.  The instructors here normally teach anyone that wants to learn
+here and do not discriminate against race, class or alignment.  The room is
+decked out with a large mat where various training exercises are taking
+place and a few benches around the walls for eager pupils to watch and learn
+from others.  The only exit is to the south.  
+~
+0 1032 1
+D2
+~
+~
+0 0 15729
+S
+#15743
+{RThe Infirmary{x~
+The source of the agony-filled cries reveals itself here.  This is the
+infirmary where low ranking Knights of the Sword tend to the sick and
+injured.  Among the injured are prisoners from the cellblock to the east and
+others range from servants to squires.  Cots are arranged around the room
+and seem to be in order of seriousness with the most critical patients
+closer to the working area in the centre of the room.  Exits are to the east
+and to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15732
+D3
+~
+~
+0 0 15727
+S
+#15744
+{CThe Armory{x~
+This room is full of sharpened blades and tempered armor.  The pieces are
+all stacked in order and neatly in their places.  The weapons range from
+simple shortswords all the way up to pikes and halberds.  Other weapons take
+their places around the room also.  In the north corner, a single quiver of
+arrows sits away from the other bows and quivers.  The armory continues to
+the east.  
+~
+0 262152 1
+E
+quiver~
+This quiver of bows seems to be attached to the wall strangely.  On
+closer inspection it appears in reality to be a door handle.  
+~
+D0
+This quiver of bows seems to be attached to the wall strangely.  On
+closer inspection it appears in reality to be a door handle.  
+~
+quiver~
+1 0 15746
+D1
+~
+~
+0 0 15745
+D2
+~
+~
+1 0 15727
+S
+#15745
+{CThe Armory{x~
+This part of the armory is similar to the last but here there is a small
+counter set against the back wall.  From here the armorer distributes
+weapons and pieces of armor to those employed at the keep and sells pieces
+to all others.  The armory continues to the west.  
+~
+0 1032 1
+D3
+~
+~
+0 0 15744
+S
+#15746
+{GA Secret Underground Passageway{x~
+This passageway runs beneath the courtyard of Vingaard Keep.  The man
+made tunnel has been shored up by large timber shorings set in regular
+intervals.  The tunnel smells a little damp and musty and the walls appear
+to have lichen and other tenacious plant life clinging to them.  A secret
+door is set into the south wall whilst the tunnel continues to the west.  
+~
+0 262153 1
+E
+door~
+This secret door stands hidden in the south wall.
+~
+D2
+This secret door stands hidden in the south wall.
+~
+secret~
+1 0 15744
+D3
+~
+~
+0 0 15747
+S
+#15747
+{GA Secret Underground Passageway{x~
+This secret passageway has been carved safely into the foundations of an
+obviously large structure.  The walls of the tunnel are dry here and there
+is little sign of any life in this part of the tunnel.  The passageway
+continues to the east whilst a trapdoor leads up into the world above.  
+~
+0 262153 1
+E
+trapdoor~
+This secret trapdoor leads up into the world above.
+~
+D1
+~
+~
+0 0 15746
+D4
+This secret trapdoor leads up into the world above.
+~
+trapdoor~
+1 0 15615
+S
+#15748
+{CThe Guards Barracks{x~
+This room is full of cots and bunks in neat military style rows.  Each
+bunk has a personal chest and closet next to it.  The closets are full of
+the military uniforms used by the guards of the keep.  These are the
+barracks of all the archers and soldiers in the employment of the knights
+who for some reason are not eligible to be considered for knighthood.  In
+times of war these barracks would be full of troops used as foot soldiers. 
+The door leads out to the east and the barracks continue to the north.  
+~
+0 262152 1
+E
+door~
+A plain wooden door.
+~
+D0
+~
+~
+0 0 15749
+D1
+A plain wooden door.
+~
+plain~
+1 0 15727
+S
+#15749
+{CThe Guards Barracks{x~
+This room is used to house all the extra troops employed by the knights
+as foot soldiers in times of war.  During this time however the knights are
+only keeping a minor contingent of extra troops here as guards and archers
+to defend the keep.  The extra space here in the barracks is being used as a
+recreation facility for those off duty guardsmen.  The barracks continue to
+the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15748
+S
+#15750
+{YGrand Hall of Vingaard Keep{x~
+This is the grand hall of Vingaard Keep.  It is here that the Knights of
+Solamnia assemble before formal state occasions.  The hall has ornately
+carved columns reaching up to the vaulted ceilings.  The carvings around the
+columns tell of ancient heroes of the knights.  Ceremonial suits of armor
+stand lining the hallway here as a silent eternal honor guard.  The hallway
+continues to the east while the solid oaken doors lead out to the courtyards
+to the west.  
+~
+0 262152 1
+E
+door~
+These solid oaken doors can be barred from the inside making the keep
+almost impenetrable.  
+~
+D1
+~
+~
+0 0 15751
+D3
+These solid oaken doors can be barred from the inside making the keep
+almost impenetrable.  
+~
+oak~
+1 0 15604
+S
+#15751
+{YThe Hallway of Vingaard Keep{x~
+The splendor of the grand hall is continued here in the main hallway. 
+The ornate carvings on the columns tell of one heroic deed after another. 
+The historical timeline of the knights can almost be traced exactly by
+following the columns one by one.  The ceremonial honor guard of suits of
+armor seem to lead to a room to the south but the hallway continues on to
+the east without them.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15752
+D2
+~
+~
+0 0 15762
+D3
+~
+~
+0 0 15750
+S
+#15752
+{YThe Main Hallway of Vingaard Keep{x~
+This wide hallway that runs the width of the keep has a very ceremonial
+atmosphere.  There are ancestral paintings on the walls of the former
+leaders and great men of the knighthood.  The ornately carved columns depict
+the actions and deeds of these great knights as they climb toward the
+vaulted ceiling.  The grand hallway continues to the west, a smaller but no
+less decorated passageway runs off to the north and a grand staircase stands
+to the east.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15754
+D1
+~
+~
+0 0 15753
+D3
+~
+~
+0 0 15751
+S
+#15753
+{YThe Grand Staircase{x~
+This is a huge and old staircase.  Its steps are carpeted with a thick
+pile rug and the banisters are made of the most exquisite hardwood.  Each
+banister support has been individually carved to resemble a heroic knight
+from the history of the knighthood.  The hallway stretches off to the west
+whilst the staircase leads up past several portraits of former Lords of
+Vingaard.  
+~
+0 262152 1
+E
+stairs~
+This is a grand antique staircase.  
+~
+D3
+~
+~
+0 0 15752
+D4
+This is a grand antique staircase.
+~
+staircase~
+0 0 15770
+S
+#15754
+{YA Corridor of Vingaard Keep{x~
+This corridor is decorated in the antique style of the Knights of
+Solamnia.  Ancestral portraits of minor lords adorn the walls here as well
+as personal heraldry for some of the great families in the knighthood. 
+Broad columns reach up and support the high vaulted ceilings above.  Carved
+on the columns are images of knights in epic battles or performing heroic
+deeds.  The corridor continues to the west whilst the grand hall opens out
+to the south.  A large door stands in the north wall.  
+~
+0 262152 1
+E
+door~
+A large wooden door ornately carved with images of scholarly knights.
+~
+D0
+A large wooden door ornately carved with images of scholarly knights.  
+~
+large~
+1 0 15759
+D2
+~
+~
+0 0 15752
+D3
+~
+~
+0 0 15755
+S
+#15755
+{YThe Corridor's End{x~
+The vast corridor of Vingaard Keep ends here.  The ornate carvings on the
+vast columns here tell of the tales of Huma.  The story climbs with the
+height of the column escalating the glorious tale.  The portraits on the
+wall end with images of the current leaders and lords of the Knighthood and
+spaces are still available for their successors to come.  The hall stretches
+off to the east whilst a set of double doors are set into the north wall.  A
+serene feeling flows from a room to the west.  
+~
+0 262152 1
+E
+doors~
+This set of double wooden doors is ornately decorated with images of
+brave knights.  
+~
+D0
+This set of double wooden doors is ornately decorated with images of
+brave knights.  
+~
+double~
+1 0 15757
+D1
+~
+~
+0 0 15754
+D3
+~
+~
+0 0 15756
+S
+#15756
+{CThe Chapel of the Sword{x~
+This is the family chapel for the Lord of Vingaard Keep.  The walls are
+filled with images of the gods of good; with particular emphasis on the
+triumvirate of gods that watch over the knighthood.  Images and statues of
+Habbakuk and his older twin Kiri-Jolith are treated with great reverence
+here, as are the images of Paladine himself.  An altar set in the west wall
+is adorned with a statue of a bison's head.  A large bison horn lies in
+front of the head, and upon closer examination, appears to have some sort of
+writing upon it.  
+~
+0 8651784 40
+E
+bison~
+This large bison horn appears to be hand crafted out of wood.  It is
+smooth to the touch, and comes to a sharp point at the tip.  At the base of
+the horn, words etched onto it, wrap around it.  They read -
+{x
+{x               'Do not hesitate to call upon me for divine favor.
+{X                        One only needs to say the words -'
+{x
+{x                  In your name, may I be glorious in battle!
+~
+E
+horn~
+This large bison horn appears to be hand crafted out of wood.  It is
+smooth to the touch, and comes to a sharp point at the tip.  At the base of
+the horn, words etched onto it, wrap around it.  They read -
+{x
+{x               'Do not hesitate to call upon me for divine favor.
+{X                        One only needs to say the words -'
+{x
+{x                  In your name, may I be glorious in battle!
+~
+D1
+~
+~
+0 0 15755
+S
+#15757
+{YThe Armory{x~
+This armory has the feel of a museum and not of a working armory.  The
+suits of armor lining the walls and on display are pieces of antique dress
+armor.  There are display cases all around the room filled with interesting
+and beautifully crafted pieces.  The pieces that are out of display cases
+are mounted on dummies in various positions of mock battle.  The armory
+continues to the west whilst a set of double doors stand to the south.  
+~
+0 262152 1
+E
+doors~
+This set of double wooden doors is ornately decorated with images of
+brave knights.  
+~
+D2
+This set of double wooden doors is ornately decorated with images of
+brave knights.  
+~
+double~
+1 0 15755
+D3
+~
+~
+0 0 15758
+S
+#15758
+{YThe Armory{x~
+The museum feel of this armory continues here, as there doesn't appear to
+be a single piece of usable armor or weaponry available.  This section of
+the decorative armory seems to be focused on weapons.  There are ornate
+swords and highly decorative axes lining the walls and mounted in display
+cases.  Shields with the emblems of each of the orders of the knighthood
+hang boldly on the walls surrounded by heraldic shields from notable
+families in the area.  The armory continues to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15757
+S
+#15759
+{YThe Vingaard Library{x~
+This vast room is the main library of Vingaard Keep.  Rows and rows of
+books line the shelves along the walls and aisles.  The air is quiet and
+still, the calming scent of books wafts through the air.  A sense of peace
+washes over all that enter the library as the knowledge of the knights
+stands before them.  A quick glance at an index card shows the library to
+hold books on many subjects from the musings of warrior poets to theories
+and thesis' of warcraft.  The library continues to the east.  
+~
+0 263176 1
+E
+door~
+A large wooden door ornately carved with images of scholarly knights.
+~
+D1
+~
+~
+0 0 15760
+D2
+A large wooden door ornately carved with images of scholarly knights.
+~
+large~
+1 0 15754
+M 100 H 110
+S
+#15760
+{YThe Reading Area{x~
+This part of the Vingaard library is filled with chairs and comfortable
+looking resting places.  Here knights can come and study the wisdom of the
+ancient knights or simply enjoy a good battle from the pen of a long dead
+warrior.  The air in this area is tranquil and calming.  The library
+continues to the west and to the south.  
+~
+0 263176 1
+D2
+~
+~
+0 0 15761
+D3
+~
+~
+0 0 15759
+M 110 H 100
+S
+#15761
+{YThe Study Area{x~
+This part of the library is filled with small desks and writing
+implements.  It seems that knights can come here to study the books and take
+notes or simply relax here in the tranquil and calming atmosphere of the
+library and write a letter.  The smell of the books is really inviting here
+as a bookshelf of particularly old books stands here.  The library continues
+to the north.  
+~
+0 263176 1
+D0
+~
+~
+0 0 15760
+M 105 H 105
+S
+#15762
+{YThe Banquet Hall{x~
+This large hall is filled with tables surrounded by chairs of varying
+sizes.  The backrests on the chairs gain in size as they approach the head
+table to the west.  The symbols of the orders of the knighthood are engraved
+into the backs of the chairs and here where they are the tallest the emblem
+of the rose is carved into them.  The banquet hall continues to the south,
+to the east and to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15751
+D1
+~
+~
+0 0 15769
+D2
+~
+~
+0 0 15765
+D3
+~
+~
+0 0 15763
+S
+#15763
+{YThe Head Tables{x~
+These are the head tables of the banquet hall of Vingaard Keep.  It is
+here that the Lord of Vingaard will sit on state occasions alongside his
+most trusted officials.  The heads of each order would have their places
+here along with any esteemed guests and ambassadors visiting the keep on
+official business.  The tables are raised above the main floor of the hall
+here giving the occupants a commanding view over the whole hall.  The head
+tables continue to the south whilst the banquet hall opens out to the east. 
+~
+0 262152 1
+D1
+~
+~
+0 0 15762
+D2
+~
+~
+0 0 15764
+S
+#15764
+{YThe Head Tables{x~
+The tables here are set upon a raised dais.  This gives the occupants of
+the tables a commanding view over the whole hall.  These head tables are
+lain with the finest dining set in the keep and is used only by the highest
+ranking knights and any visiting ambassadors or dignitaries.  The dais
+slopes down to the east allowing servants easy access to the head tables as
+they constantly refresh drinking glasses and bring food to the tables.  The
+long head table continues to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15763
+D1
+~
+~
+0 0 15765
+S
+#15765
+{YThe Banquet Hall{x~
+From the size of the chairs here and the quality of the cutlery set on
+the tables here in this part of the hall it is clear that high ranking
+knights use this area.  This is confirmed by delicate images of roses carved
+into the backs of the chairs themselves.  There is a large space between the
+tables here and the southern wall.  This space is clearly used by the
+servants as they rush to serve the knights and carry food and drink to the
+head table.  The hall continues to the east and to the head tables to the
+west.  A gap in the tables allows passage to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15762
+D1
+~
+~
+0 0 15766
+D3
+~
+~
+0 0 15764
+S
+#15766
+{YThe Banquet Hall{x~
+This part of the banquet hall has its tables pushed closer together to
+allow a greater number of diners in the hall.  The backs of the chairs seem
+to be of a medium size and are decorated with the symbol of the Knights of
+the Sword.  There is a gap between the tables and the south wall to allow
+the servants access to the rest of the hall.  The hall continues to the east
+and to the west.  The large concentration of tables blocks the way to the
+north.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15767
+D3
+~
+~
+0 0 15765
+S
+#15767
+{YThe Banquet Hall{x~
+This is the eastern end of the banquet hall.  It is the farthest away
+from the head tables and it is often difficult to hear when speeches are
+being made.  The tables here are very close together and the chairs seem
+plain and non-descript.  The emblem of the Knights of the Crown has been
+carved into the center of each table.  The largest feature here is a huge
+dumbwaiter in the south wall.  It appears that servants get the food and
+drink from here as it is sent up from the kitchens below and take it to the
+knights.  The hall continues to the north and to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15768
+D3
+~
+~
+0 0 15766
+S
+#15768
+{YThe Banquet Hall{x~
+This part of the hall has tables pushed quite close together leaving
+little room for luxurious comfort.  The tables are laid with fine cutlery
+but it isn't the nicest cutlery on the face of Krynn.  The chairs are simple
+and plain but each table has the emblem of the crown carved in its center. 
+The hall continues to the south and to the west.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15767
+D3
+~
+~
+0 0 15769
+S
+#15769
+{YThe Banquet Hall{x~
+Here in the banquet hall of Vingaard Keep many knights come for meals but
+it is mainly used for state occasions and grand events.  The tables here are
+set a moderate distance apart allowing for some comfortable movement between
+them.  The chairs are medium sized and carry the emblem of the knights of
+the sword on their backs.  The hall continues to the east and to the west
+whilst the way to the south is blocked by the tables.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15768
+D3
+~
+~
+0 0 15762
+S
+#15770
+{YFirst Floor of the Grand Staircase{x~
+This is a huge and old staircase.  Its steps are carpeted with a thick
+pile rug and the banisters are made of the most exquisite hardwood.  Each
+banister support has been individually carved to resemble a heroic knight
+from the history of the knighthood.  The wall is decorated with portraits
+and heraldry of former Lords of Vingaard and other high ranking knights from
+the area.  The first floor of the keep opens out to the west whilst the
+staircase continues up and down.  
+~
+0 262152 1
+E
+stairs~
+This is a grand antique staircase.  
+~
+D3
+~
+~
+0 0 15771
+D4
+This is a grand antique staircase.
+~
+staircase~
+0 0 15790
+D5
+This is a grand antique staircase.
+~
+staircase~
+0 0 15753
+S
+#15771
+{YThe Second Floor of Vingaard Keep{x~
+The second floor of the keep houses most of the quarters and common
+rooms for the knights themselves.  It is here that the knights of the lower
+orders and their squires come to relax after their duties and shifts.  This
+corridor runs from north to south and is lit by flickering torches held
+tightly in sconces upon the walls.  The carpet is well trodden but emblems
+can still be made out in the embroidery of the pile.  To the east stands a
+massive staircase.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15772
+D1
+~
+~
+0 0 15770
+D2
+~
+~
+0 0 15780
+S
+#15772
+{YA Torchlit Corridor{x~
+This corridor is lit by the flickering torches held tightly in sconces
+along the walls.  A thick carpet is laid upon the floor running the length
+of the corridor.  The main pile is a deep red color with crowns embroidered
+into it in yellow pile.  It appears as though this corridor is devoted to
+the knights of the crown the lowest order in the knighthood.  The corridor
+continues to the south and to the west whilst a door is set in the east
+wall.  
+~
+0 262152 1
+E
+door~
+This wooden door bears the emblem of the crown.
+~
+D1
+This wooden door bears the emblem of the crown.
+~
+wooden~
+1 0 15774
+D2
+~
+~
+0 0 15771
+D3
+~
+~
+0 0 15773
+S
+#15773
+{YA Torchlit Corridor{x~
+This part of the corridor is decorated with the emblems and insignia of
+the Knights of the Crown.  The torchlight from the sconces flickers here
+casting strange moving shadows onto the doors set in each of the walls here.
+The south door is plain and non-descript whilst the north and west doors
+both bear the insignia of the crown.  The corridor continues to the east.  
+~
+0 262152 1
+E
+door~
+This wooden door bears the emblem of the crown.
+~
+E
+plain~
+A plain wooden door.
+~
+D0
+This wooden door bears the emblem of the crown.
+~
+wooden~
+1 0 15777
+D1
+~
+~
+0 0 15772
+D2
+A plain wooden door.
+~
+plain~
+1 0 15787
+D3
+This wooden door bears the emblem of the crown.
+~
+wooden~
+1 0 15779
+S
+#15774
+{YThe Common Room of the Crown{x~
+This rather comfortable looking room has been decked out in the full
+regalia of the Knights of the Crown.  The knights from the lowest order of
+the Knights of Solamnia come here to rest and to interact with their
+brothers in knighthood.  There are chairs arranged in rough communal circles
+around tables where simple card and dice games can be played.  A door leads
+out to the west whilst there appear to be sleeping quarters to the north.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out to the corridors to the west.
+~
+D0
+~
+~
+0 0 15775
+D3
+This wooden door leads out to the corridors to the west.
+~
+wooden~
+1 0 15772
+S
+#15775
+{YKnights of the Crown's Quarters{x~
+This long room is used by the Knights of the Crown as their sleeping
+quarters.  Each knight has his own cot and living space separated from his
+brothers in knighthood by wooden dividers.  The individual spaces include a
+large chest for personal belongings and a small rack for his or her armor
+and weaponry.  The sleeping quarters continue to the west whilst the common
+room opens out to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15774
+D3
+~
+~
+0 0 15776
+S
+#15776
+{YKnights of the Crown's Quarters{x~
+This long room is used by the Knights of the Crown as their sleeping
+quarters.  Each knight has his own cot and living space separated from his
+brothers in knighthood by wooden dividers.  The individual spaces include a
+large chest for personal belongings and a small rack for his or her armor
+and weaponry.  This part of the quarters seems to house slightly larger
+spaces and the trunks have more ornate designs upon them.  It appears that
+the higher-ranking knights share these quarters.  The rest of the quarters
+lie to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15775
+S
+#15777
+{YChapel of the Crown{x~
+This room is filled with regalia associated with the Knights of the Crown
+alongside images of Habbakuk.  Images of Paladine and Kiri-Jolith also
+reside in the room but the images of Habbakuk are placed in the more
+important parts of this chapel.  The Knights of the Crown come here to
+commune with the gods of good, and to focus on their lives and knightly vows.
+A door leads out to the south.  
+~
+0 8651784 32
+E
+door~
+This door leads out into the corridor to the south.
+~
+D2
+This door leads out into the corridor to the south.
+~
+wooden~
+1 0 15773
+M 103 H 110
+S
+#15778
+{YThe Crown Mess Hall{x~
+This is the main part of the mess hall of the Knights of the Crown.  The
+knights use this hall to eat regular meals and also at the end of each shift
+to eat and drink.  The tables are arranged in an orderly fashion and each
+table has the insignia of the crown carved into its center.  The servants
+and squires serve the meals to the knights after preparing the finishing
+touches to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 15779
+S
+#15779
+{YThe Crown Mess Hall{x~
+This is the mess hall of the Knights of the Crown.  It is here that the
+young knights will come to eat most of their meals only using the banquet
+hall on important state occasions.  This part of the hall seems to be mainly
+used by the squires and the servants to make any final preparations to the
+meals before serving them to the knights.  The main Mess Hall is to the
+north whilst a wooden door leads out to the east.  
+~
+0 262152 1
+E
+door~
+This door leads out of the mess hall.
+~
+D0
+~
+~
+0 0 15778
+D1
+This door leads out of the mess hall.
+~
+wooden~
+1 0 15773
+S
+#15780
+{YA Torchlit Corridor{x~
+This corridor is lit by the flickering torches held tightly in sconces
+along the walls.  A thick carpet is laid upon the floor running the length
+of the corridor.  The main pile is a deep red color with swords crowns
+embroidered into it in yellow pile.  It appears as though this corridor is
+devoted to the knights of the sword the second order of the knighthood.  The
+corridor continues to the north and to the west whilst a door is set in the
+east and the south walls.  
+~
+0 262152 1
+E
+door~
+This door is adorned with the emblem of the sword.
+~
+D0
+~
+~
+0 0 15771
+D1
+This door is adorned with the emblem of the sword.
+~
+wooden~
+1 0 15782
+D2
+This door is adorned with the emblem of the sword.
+~
+wooden~
+1 0 15784
+D3
+~
+~
+0 0 15781
+S
+#15781
+{YA Torchlit Corridor{x~
+This part of the corridor is decorated with the emblems and insignia of
+the Knights of the Sword.  The torchlight from the sconces flickers here
+casting strange moving shadows onto the doors set in each of the walls here.
+The north door is plain and non-descript whilst the south door bears the
+insignia of the sword.  The corridor continues to the east.  
+~
+0 262152 1
+E
+door~
+This door bears the insignia of the Knights of the Sword.
+~
+D0
+A plain wooden door.
+~
+plain~
+1 0 15787
+D1
+~
+~
+0 0 15780
+D2
+This door bears the insignia of the Knights of the Sword.  
+~
+wooden~
+1 0 15785
+S
+#15782
+{CThe Mess Hall of the Swords{x~
+This is the mess hall of the Knights of the Sword.  It is here that the
+veteran knights will come to eat most of their meals only using the banquet
+hall on important state occasions.  This part of the hall seems to be mainly
+used by the squires and the servants to make any final preparations to the
+meals before serving them to the knights.  The main Mess Hall is to the
+south whilst a wooden door leads out to the west.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the corridor to the west.  
+~
+D2
+~
+~
+0 0 15783
+D3
+This wooden door leads out into the corridor to the west.
+~
+wooden~
+1 0 15780
+S
+#15783
+{CThe Sword's Mess Hall{x~
+This is the main part of the mess hall of the Knights of the Sword.  The
+knights use this hall to eat regular meals and also at the end of each shift
+to eat and drink.  The tables are arranged in an orderly fashion and each
+table has the insignia of the sword carved into its center.  The chairs
+around the table seem to be quite large and comfortable.  The servants and
+squires serve the meals to the knights after preparing the finishing touches
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 15782
+S
+#15784
+{CThe Sword's Common Room{x~
+This room is used by the veteran Knights of the Sword when they are not
+on duty taking guard shifts or tending to the infirmaries and chapels of the
+keep.  The large plush chairs that furnish this room are arranged in a
+formal manner; each one allowing the occupant some privacy to engage
+in social discord at his own discretion.  Each chair has a companion arm
+table for resting drinks and pipes.  The door to the north provides the only
+exit.  
+~
+0 262152 1
+E
+door~
+This door leads out into the corridor to the north.
+~
+D0
+This door leads out into the corridor to the north.
+~
+wooden~
+1 0 15780
+M 110 H 106
+S
+#15785
+{CKnights of the Sword's Quarters{x~
+These quarters are reserved for members of the second order of the
+knighthood the Knights of the Sword.  The beds appear to be quite
+comfortable and each one is surrounded by ample space sectioned off by thick
+wooden dividers.  Each individual space has its own chest and closet for the
+knight's personal belongings.  It also has stands and racks for the knight's
+ancestral armor and weaponry.  The quarters continue to the west whilst a
+wooden door leads out.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the corridor to the north.
+~
+D0
+This wooden door leads out into the corridor to the north.
+~
+wooden~
+1 0 15781
+D3
+~
+~
+0 0 15786
+S
+#15786
+{CKnights of the Sword's Quarters{x~
+These quarters are reserved for members of the second order of the
+knighthood the Knights of the Sword.  The beds appear to be quite
+comfortable and each one is surrounded by ample space sectioned off by thick
+wooden dividers.  Each individual space has its own chest and closet for the
+knight's personal belongings.  It also has stands and racks for the knight's
+ancestral armor and weaponry.  This part of the quarters appears to contain
+more luxuries and appear to be for the higher ranking members of the order
+of the sword.  The knight's quarters continue to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15785
+S
+#15787
+The Squires Quarters~
+This room is full of small bunks and bedrolls arranged in neat rows.  A
+small chest accompanies each bunk for the occupant to store his own personal
+possessions.  It is clear that these are the quarters of the squires and
+personal manservants to the knights.  Before each trunk is a small heraldic
+shield that represents the family of the knight the squire serves.  From
+these shields it can be seen that most of the squires in this area serve
+knights of the sword.  Doors lead out to the north and to the south whilst
+the quarters continue to the west.  
+~
+0 262152 1
+E
+doors~
+These plain wooden doors lead out into the corridors of the keep.  
+~
+D0
+These plain wooden doors lead out into the corridors of the keep.
+~
+plain~
+1 0 15773
+D2
+These plain wooden doors lead out into the corridors of the keep.
+~
+wooden~
+1 0 15781
+D3
+~
+~
+0 0 15788
+S
+#15788
+The Squires Quarters~
+This room is full of small bunks and bedrolls arranged in neat rows.  A
+small chest accompanies each bunk for the occupant to store his own personal
+possessions.  It is clear that these are the quarters of the squires and
+personal manservants to the knights.  Before each trunk is a small heraldic
+shield that represents the family of the knight the squire serves.  From
+these shields it can be seen that most of the squires in this area serve
+knights of the crown.  The squires quarters continue to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15787
+S
+#15789
+{RChapel of the Rose{x~
+A flowing sense of inner peace washes over all those that enter this
+room.  The room is filled with images of the Knights of the Rose on gallant
+crusades in the name of Paladine.  There are statues and icons of The
+Platinum Dragon all around the room and on the altar at the end of the room.
+There are statues and images of Habbakuk and his elder twin Kiri-Jolith but
+it is clear this chapel is mainly dedicated to Paladine.  The only exit is
+to the east.  
+~
+0 8651784 31
+D1
+~
+~
+0 0 15797
+M 111 H 115
+S
+#15790
+{YSecond Floor of the Grand Staircase{x~
+This is a huge and old staircase.  Its steps are carpeted with a thick
+pile rug and the banisters are made of the most exquisite hardwood.  Each
+banister support has been individually carved to resemble a heroic knight
+from the history of the knighthood.  The wall is decorated with portraits
+and heraldry of former Lords of Vingaard and other high ranking knights from
+the area.  The second floor of the keep opens out to the west whilst the
+staircase leads down to the floors below.  
+~
+0 262152 1
+E
+stairs~
+This is a grand antique staircase.
+~
+D3
+~
+~
+0 0 15791
+D5
+This is a grand antique staircase.
+~
+staircase~
+0 0 15770
+S
+#15791
+{YA Welcoming Corridor{x~
+This corridor is spared no grandeur.  The plush carpet on the floor is
+thick and shows only slight signs of use.  The torches on the walls are of
+the finest quality ensuring that the flames flicker as little as possible
+leaving smooth and even illumination.  A grand staircase stands to the east
+whilst the corridor continues to the west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 15790
+D3
+~
+~
+0 0 15792
+S
+#15792
+{YAn Intersection in the Corridor{x~
+Here two corridors of the second floor of Vingaard Keep intersect with
+each other.  One corridor runs off to the east from here whilst the other
+runs from north to south.  A large set of double doors are set in the wall
+to the west.  The doors are ornately carved showing the exploits of the
+brave knight Huma.  
+~
+0 262152 1
+E
+doors~
+These doors are ornately carved showing the legendary tales of Huma.  
+~
+D0
+~
+~
+0 0 15796
+D1
+~
+~
+0 0 15791
+D2
+~
+~
+0 0 15799
+D3
+These doors are ornately carved showing the legendary tales of Huma.
+~
+double~
+1 0 15793
+S
+#15793
+{RThe Lord of Vingaard's Office{x~
+This office belongs to the Lord of Vingaard.  In days of old when
+Vingaard Keep was the ancestral home of the Knights of Solamnia this was the
+Grand Master's office.  The carpet here is thick and plush and the pile is a
+deep crimson red.  Regalia of the knighthood and its three orders grace the
+walls of this luxurious office.  A large hardwood desk stands in the middle
+of the room with a very large almost throne like chair set across from it. 
+The double doors lead back out to the east whilst there are doors set into
+the north and the south walls.  
+~
+0 262152 1
+E
+desk~
+This desk is exquisitely carved from the finest hardwood available.  
+~
+E
+doors~
+Each door is carved with scenes of brave knights in battle.
+~
+D0
+This door is carved with scenes of brave knights in battle.
+~
+wooden~
+1 0 15794
+D1
+These double doors lead out into the corridor.
+~
+double~
+1 0 15792
+D2
+This door is carved with scenes of brave knights in battle.  
+~
+wooden~
+1 0 15795
+S
+#15794
+{RGrand Master's Private Chapel{x~
+This is the private chapel of the Lord of Vingaard.  It is still referred
+to as the Grand Master's Chapel in honor of its function during the
+ancestral days of the knighthood.  The room is filled with images of knights
+that died in valor and images and statues of the three main gods associated
+with the knights of Solamnia.  A statue of Habbakuk stands among images of
+Knights of the Crown whilst the statue of Kiri-Jolith stands amongst his
+knights of the Sword.  At the head altar a statue of Paladine stands proudly
+among images of Knights of the Rose.  
+~
+0 263176 1
+E
+door~
+These doors lead back into the Lord's office.
+~
+D2
+These doors lead back into the Lord's office.  
+~
+wooden~
+1 0 15793
+M 113 H 112
+S
+#15795
+{RThe Grand Master's Chambers{x~
+These bedchambers are used by the Lord of the keep and his family.  It
+was formally used by the Grand Master of the knights back when this was the
+home of the Knights of Solamnia.  It is still called the Grand Master's
+chambers by the knights and its occupants.  A large and lavish bed lies in
+the center of the room. Ample storage spaces are provided here. The Lord's
+ceremonial armor for state occasions is displayed here.  
+~
+0 262152 1
+E
+armor~
+This is the Lord of Vingaard's ceremonial armor that he wears for state
+occasions only.  
+~
+E
+bed~
+This bed appears very comfortable indeed.
+~
+E
+doors~
+This door leads back into the office to the north.  
+~
+D0
+This door leads back into the office to the north.
+~
+wooden~
+1 0 15793
+S
+#15796
+{YA Finely Decorated Corridor{x~
+This well lit corridor is draped in the finest heraldry and regalia of
+Knights of the Rose the highest order of the Knights of Solamnia.  The thick
+carpets are adorned with embroidered roses that look like they would be
+crushed if they were stepped on.  The torchlight is steady and unflickering
+as the torches burn evenly in their sconces.  The corridor ends in a fine
+wooden door to the north whilst the corridor continues to the south.  
+~
+0 262152 1
+E
+door~
+This door is carved with exquisite images of heroic Knights of the Rose.  
+~
+D0
+This door is carved with exquisite images of heroic Knights of the Rose.
+~
+wooden~
+1 0 15797
+D2
+~
+~
+0 0 15792
+S
+#15797
+{RCommon Room of the Rose{x~
+This room is furnished with luxurious and roomy high backed armchairs. 
+Each one is emblazoned with the family crest of a Knight of the Rose.  The
+chairs are arranged in a fairly social manner each neither facing nor facing
+away from any of the others.  Thus allowing its occupant to be as private or
+as social as he or she wishes.  Two rooms adjoin this room, one to the east
+and one to the west whilst a wooden door leads out to the south.  
+~
+0 262152 1
+E
+door~
+This wooden door leads out into the corridor.
+~
+D1
+~
+~
+0 0 15798
+D2
+This wooden door leads out into the corridor.
+~
+wooden~
+1 0 15796
+D3
+~
+~
+0 0 15789
+S
+#15798
+{RThe Bedchamber of the Rose{x~
+This room is separated into several fairly large cubicles.  Each cubicle
+is almost separated to the point of being a room in itself.  The cubicles
+are all fully furnished with beds and a large chest and closet for personal
+belongings.  Ceremonial armor is displayed in most of the rooms alongside
+stands and racks for day-to-day armor and weapons.  The only exit is to the
+west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 15797
+S
+#15799
+{YA Well Lit Corridor{x~
+This part of the corridor is a little less grand than the others on this
+floor but it is still richly decorated and well carpeted.  The torches on
+the walls are burning evenly and brightly leaving this corridor well lit and
+free from flickering shadows and tricks of the light.  The corridor ends at
+a door to the south whilst it continues on to the north.  
+~
+0 262152 1
+E
+door~
+The carving on this door shows squires dutifully serving knights.  
+~
+D0
+~
+~
+0 0 15792
+D2
+The carving on this door shows squires dutifully serving knights.
+~
+wooden~
+1 0 15800
+S
+#15800
+The Squires Quarters~
+This room houses the squires and servants that serve on this floor of the
+keep.  There are small bunks and bedrolls arranged in neat rows here, each
+accompanied with a small chest for personal possessions and spaces where the
+squire can work at polishing his master's armor.  The quality of the armor
+being worked on and the emblems on the squire's chests indicate that these
+are the squires of the Knights of the Rose and in some cases the Lord of
+Vingaard himself.  The only exit is through the wooden door to the north.  
+~
+0 262152 1
+E
+door~
+This door leads out into the second floor of the keep.  
+~
+D0
+This door leads out into the second floor of the keep.
+~
+wooden~
+1 0 15799
+S
+#0
+
+
+
+#SPECIALS
+M 15724 spec_guard
+M 15733 spec_guard
+M 15734 spec_thief
+M 15741 spec_rloader
+M 15749 spec_guard
+M 15774 spec_guard
+M 15786 spec_guard
+M 15797 spec_guard
+S
+
+
+
+#RESETS
+D 0 15602 1 1
+D 0 15603 3 1
+D 0 15604 1 1
+D 0 15607 0 1
+D 0 15612 2 1
+D 0 15614 2 1
+D 0 15615 5 1
+D 0 15616 1 1
+D 0 15618 0 1
+D 0 15620 1 1
+D 0 15622 3 1
+D 0 15625 1 1
+D 0 15630 3 1
+D 0 15632 2 1
+D 0 15634 0 1
+D 0 15638 2 1
+D 0 15645 0 1
+D 0 15647 3 1
+D 0 15649 1 1
+D 0 15652 3 1
+D 0 15658 1 1
+D 0 15660 0 1
+D 0 15661 2 1
+D 0 15665 0 1
+D 0 15666 2 1
+D 0 15668 1 1
+D 0 15670 3 1
+D 0 15673 1 1
+D 0 15674 3 1
+D 0 15676 2 1
+D 0 15678 0 1
+D 0 15682 2 1
+D 0 15683 0 1
+D 0 15685 3 1
+D 0 15687 1 1
+D 0 15690 3 1
+D 0 15723 1 1
+D 0 15724 3 1
+D 0 15725 1 1
+D 0 15726 3 1
+D 0 15727 0 1
+D 0 15727 3 1
+D 0 15728 2 1
+D 0 15729 2 1
+D 0 15730 1 2
+D 0 15731 1 2
+D 0 15732 1 2
+D 0 15733 1 2
+D 0 15734 3 2
+D 0 15735 3 2
+D 0 15736 3 2
+D 0 15737 3 2
+D 0 15740 0 1
+D 0 15741 0 1
+D 0 15744 0 1
+D 0 15744 2 1
+D 0 15746 2 1
+D 0 15747 4 1
+D 0 15748 1 1
+D 0 15750 3 1
+D 0 15754 0 1
+D 0 15755 0 1
+D 0 15757 2 1
+D 0 15759 2 1
+D 0 15772 1 1
+D 0 15773 0 1
+D 0 15773 2 1
+D 0 15773 3 1
+D 0 15774 3 1
+D 0 15777 2 1
+D 0 15779 1 1
+D 0 15780 1 1
+D 0 15780 2 1
+D 0 15781 0 1
+D 0 15781 2 1
+D 0 15782 3 1
+D 0 15784 0 1
+D 0 15785 0 1
+D 0 15787 0 1
+D 0 15787 2 1
+D 0 15792 3 1
+D 0 15793 0 1
+D 0 15793 1 1
+D 0 15793 2 1
+D 0 15794 2 1
+D 0 15795 0 1
+D 0 15796 0 1
+D 0 15797 2 1
+D 0 15799 2 1
+D 0 15800 0 1
+M 0 15749 10 15604 2
+E 0 15745 0 20
+E 0 15741 0 6
+M 0 15800 15 15605 1
+E 0 15800 0 20
+M 0 15800 15 15606 1
+E 0 15800 0 20
+M 0 15608 1 15608 1
+M 0 15609 1 15609 1
+M 0 15800 15 15610 1
+E 0 15800 0 20
+M 0 15749 10 15612 1
+E 0 15744 0 20
+E 0 15741 0 6
+M 0 15800 15 15619 1
+E 0 15800 0 20
+M 0 15800 15 15628 1
+E 0 15800 0 20
+M 0 15800 15 15637 1
+E 0 15800 0 20
+M 0 15640 1 15640 1
+M 0 15800 15 15655 1
+E 0 15800 0 20
+M 0 15800 15 15658 1
+E 0 15800 0 20
+M 0 15749 10 15663 2
+E 0 15745 0 20
+E 0 15741 0 6
+M 0 15749 10 15671 1
+E 0 15745 0 20
+E 0 15741 0 6
+M 0 15800 15 15679 1
+E 0 15800 0 20
+M 0 15749 10 15680 1
+E 0 15745 0 20
+E 0 15742 0 5
+M 0 15800 15 15688 1
+E 0 15800 0 20
+M 0 15749 10 15688 1
+E 0 15744 0 20
+E 0 15742 0 5
+M 0 15800 15 15702 1
+E 0 15800 0 20
+M 0 15724 1 15724 1
+E 0 15699 0 20
+E 0 15700 0 6
+E 0 15701 0 5
+E 0 15702 0 13
+E 0 15704 0 8
+E 0 15703 0 12
+E 0 15705 0 11
+E 0 15706 0 15
+M 0 15733 1 15733 1
+G 0 15733 0
+E 0 15734 0 20
+M 0 15734 2 15734 1
+M 0 15734 2 15736 1
+M 0 15741 10 15738 1
+M 0 15739 1 15739 1
+E 0 15739 0 20
+M 0 15741 10 15740 1
+M 0 15741 10 15741 2
+M 0 15742 1 15742 1
+M 0 15743 1 15743 1
+M 0 15745 1 15745 1
+G 0 15745 0
+G 0 15744 0
+G 0 15743 0
+G 0 15742 0
+G 0 15741 0
+M 0 15749 10 15748 1
+E 0 15741 0 6
+E 0 15744 0 20
+M 0 15749 10 15749 1
+E 0 15745 0 20
+E 0 15741 0 6
+M 0 15800 15 15750 1
+E 0 15800 0 20
+M 0 15756 1 15756 1
+M 0 15741 10 15764 1
+M 0 15741 10 15766 1
+M 0 15741 10 15767 1
+M 0 15800 15 15769 1
+E 0 15800 0 20
+M 0 15774 8 15774 4
+E 0 15699 0 20
+E 0 15700 0 6
+E 0 15701 0 5
+E 0 15702 0 13
+E 0 15703 0 12
+E 0 15704 0 8
+E 0 15705 0 11
+E 0 15706 0 15
+M 0 15774 8 15776 2
+E 0 15706 0 15
+E 0 15705 0 11
+E 0 15699 0 20
+M 0 15774 8 15778 1
+E 0 15699 0 20
+E 0 15700 0 6
+E 0 15701 0 5
+E 0 15702 0 13
+E 0 15703 0 12
+E 0 15704 0 8
+E 0 15705 0 11
+E 0 15706 0 15
+M 0 15774 8 15779 1
+E 0 15699 0 20
+E 0 15700 0 6
+E 0 15701 0 5
+E 0 15702 0 13
+E 0 15703 0 12
+E 0 15704 0 8
+E 0 15705 0 11
+E 0 15706 0 15
+M 0 15786 4 15783 1
+E 0 15707 0 20
+E 0 15709 0 6
+E 0 15711 0 5
+E 0 15713 0 13
+E 0 15715 0 12
+E 0 15717 0 8
+E 0 15719 0 15
+E 0 15705 0 11
+M 0 15786 4 15784 1
+E 0 15707 0 20
+E 0 15709 0 6
+E 0 15711 0 5
+E 0 15713 0 13
+E 0 15715 0 12
+E 0 15717 0 8
+E 0 15719 0 15
+E 0 15705 0 11
+M 0 15786 4 15785 1
+E 0 15707 0 20
+E 0 15709 0 6
+E 0 15711 0 5
+E 0 15713 0 13
+E 0 15715 0 12
+E 0 15717 0 8
+E 0 15719 0 15
+E 0 15705 0 11
+M 0 15786 4 15786 1
+E 0 15705 0 8
+E 0 15719 0 15
+E 0 15707 0 20
+M 0 15741 10 15787 1
+M 0 15800 15 15787 1
+E 0 15800 0 20
+M 0 15741 10 15788 1
+M 0 15800 15 15788 2
+M 0 15793 1 15793 1
+E 0 15790 0 20
+E 0 15791 0 6
+E 0 15792 0 5
+E 0 15705 0 11
+E 0 15793 0 12
+M 0 15797 2 15797 1
+E 0 15705 0 11
+E 0 15710 0 6
+E 0 15712 0 5
+E 0 15714 0 13
+E 0 15716 0 12
+E 0 15718 0 8
+E 0 15720 0 15
+E 0 15708 0 20
+M 0 15797 2 15798 1
+E 0 15708 0 20
+E 0 15705 0 11
+E 0 15720 0 15
+E 0 15710 0 6
+E 0 15712 0 5
+E 0 15714 0 13
+E 0 15716 0 12
+E 0 15718 0 8
+M 0 15800 15 15800 1
+E 0 15800 0 20
+M 0 15741 10 15800 1
+S
+
+
+
+#SHOPS
+15608 0 0 0 0 0 110 89 0 23
+15745 0 0 0 0 0 105 90 7 19
+0
+
+
+
+#MOBPROGS
+#15724
+if isgood $n
+if isimmort $n
+emote falls to his knees.
+say Greetings you Majesty.
+say my humblest apologies for blocking your path.
+mob echoaround $n $n leaves eastward.
+mob transfer $n 15725
+else
+say Greetings $n
+say You may proceed, go peacefully.
+mob echoaround $n $n leaves eastward.
+mob transfer $n 15725
+endif
+endif
+if isneutral $n
+if isimmort $n
+emote bows reverently.
+say Greetings $n.
+say Please pass through your grey Highness.
+mob echoaround $n $n leaves eastward.
+mob transfer $n 15725
+else
+say Greetings $n.
+say I'm afraid I cannot let you pass for you are impure.
+endif
+endif
+if isevil $n
+if isimmort $n
+emote looks at you in utter fear and loathing.
+emote spits on the floor before moving to allow you to pass.
+mob echoaround $n $n leaves eastward.
+mob transfer $n 15725
+else
+say Impure scum.
+say Foul servant of evil you must be destroyed.
+mob kill $n
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

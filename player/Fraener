@@ -1,0 +1,1935 @@
+#PLAYER
+Name Fraener~
+Surname Jormungand~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1380608138
+LogO 1415581963
+Vers 10
+Act  DGTe
+Desc {DStanding before you is a creature born of pure evil. A spawn of a
+metallic dragon egg, the draconian. This specific draconian stands at
+exactly seven feet tall. A {ggreenish{D-{Ygold{D tint reflects off of his
+metallic scales, not completely revealing if he was birthed from a
+corrupted green dragon egg, or gold. The answer can immediatly be
+understood, no wings protruding from his back at all, revealing that this
+is the most powerful of all the draconian races: an Aurak draconian. A
+short tail can occasionally be noticed passing back and forth. The
+metallic scales are protected buy a light set of clothing, of dark black
+color. It fits to his tall, muscular frame perfectly. He wears loose black
+pants, with a slit in the back so that his tail may protrude effortlessly
+through. A neatly polished set of scaled-male armor clings to his frame,
+overtop the shirt. It bears an unusual color of deep {rred{D. It seems
+some alchemical, or magical, approach was taken to dye this armor with
+{Rblood{D,possibly from enemies past to this vile creature. Clasped
+overtop this {rblood{D-{rstained{D plate mail is a deep grey cloak, that
+hangs all the way to the scaled beasts feet. Once again, the cloak is
+split in the back, to the bottom, so that his tail may carelessly
+protrude. The robes are decorated in whorls and runes. The beast's {Rblood
+red{D eyes peer out of the deep grey hood that drapes loosely over his
+tough, scaled face, his sharp fangs occasionally finding their way to the
+veiw of those surrounding him as he snarls unto the world. Short, sharp
+black horns jut out of the beasts head, the deep blackest color of
+obsidian. Two slits can be seen at the end of this beast's snout,
+obviously how he breaths. They rest overtop his mouth, which is filled
+with tooth after tooth of razor sharpness. They seem a bit blackened,
+possibly by the draconian's breath weapon, which can be led to believe to
+be fire. Sharp obsidian colored claws wrap around a tall black staff, in
+the beast's right hand. The staff stands at about six feet, not coming to
+the full height of the draconian. Atop the perfectly crafted staff, it
+begins to jut outward in an odd, ovular, shape. It creates an opening, yet
+still clings to whatever lies within. In this particular staff, a deep
+{dpurple{D jewel is afixed within the "cage" of the staff, the source of
+its power. {x
+~
+Prom {b[{BFraener{b %h/%H %m/%M %v/%V %X %B] ~
+Race draconian~
+Org 10
+Devotee 10
+Sex  1
+Cla  14
+Hmtown 0
+Levl 100
+recall_point 14320
+Levscale 30
+Xptolev  1196900
+Sec  0
+Plyd 88971
+Not  1390434707 1382804331 0 1393400363 1393400357
+Scro 0
+Room 14320
+HMV  3967 3967 2392 2392 902 902
+Steel 93436
+Gold 1772
+Bank 0
+Exp  16257300
+AfBy BOc
+AfBy2 Y
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2228224
+Comm NO
+Pos  8
+Save  -77
+Alig  -682
+Ethos 2
+Hit   93
+Dam   84
+ACs -702 -717 -707 -682
+Attr 16 13 13 17 11 10
+AMod 15 5 3 18 7 5
+Pass FrFW77BNEKn12~
+Titl  the High Wizard of Conjuration~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 5
+HMVP 2627 1367 752
+Cnd  0 34 38 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {Y'~
+Alias ` c 'detect presence'~
+Sk 1 'acid blast'
+Sk 73 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'control weather'
+Sk 83 'create food'
+Sk 1 'create spring'
+Sk 93 'create water'
+Sk 1 'detect good'
+Sk 93 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'incendiary cloud'
+Sk 81 'glitterdust'
+Sk 1 'orb of containment'
+Sk 89 'gate'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 95 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 75 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 86 'summon'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 79 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 89 'dagger'
+Sk 1 'whip'
+Sk 91 'dodge'
+Sk 5 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'parry'
+Sk 11 'second attack'
+Sk 93 'convoke swarm'
+Sk 100 'glide'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'wind wall'
+Sk 65 'gust of wind'
+Sk 1 'unseen servant'
+Sk 1 'cantrip'
+Sk 70 'unholy armor'
+Sk 1 'iceblast'
+Sk 1 'brew'
+Sk 75 'scribe'
+Sk 46 'battle tactics'
+Sk 85 'knock'
+Sk 25 'fast healing'
+Sk 100 'common'
+Sk 70 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 1 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 70 'kender tongue'
+Sk 70 'minotaur tongue'
+Sk 70 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 55 'meditation'
+Sk 71 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 90 'detect presence'
+Sk 64 'mooncloak'
+Sk 9 'surge'
+Sk 78 'endure'
+Sk 3 'rabbit summon'
+Sk 1 'thunderclap'
+Sk 87 'trance'
+Sk 85 'alarm'
+Sk 1 'staff'
+Sk 70 'unholyrite'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 86 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+Affc 'gaseous form'   0  91   3 -25  17          0
+Affc 'gaseous form'   0  88   3   7  18          0
+Affc 'invisibility'   0  99 106   0   0          2
+Affc 'mooncloak'   6  99  27   0   0   16777216
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill bark skin~
+ShD  a pill of bark skin~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 209 0 0 0
+Spell 1 'bark skin'
+End
+
+#O
+Vnum 11968
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 9531
+Nest 1
+Cond 100
+Wear -1
+Cost 2070
+End
+
+#O
+Vnum 9531
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+End
+
+#O
+Vnum 1625
+Nest 1
+Name mask wolf~
+ShD  ({DCursed{X) mask of the {yWolf{X~
+ExtF 262152
+Cond 97
+Wear -1
+Cost 14500
+Val  18 18 18 16 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2567
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 5915
+Nest 1
+Cond 100
+Wear -1
+Time 373
+Cost 3450
+Spell 1 'looking glass'
+Spell 2 'alter reality'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 97
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring silver ~
+ShD  ({CSilver{X) ({RStolen{X) a ring~
+Desc A small silver band lies forgotten before you.~
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name crystal ring~
+ShD  ({BWater filled{X) a {ccrystal {xring~
+Desc A crystal ring lies before you, water swirling around within.~
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name pendant turtle dragon silver~
+ShD  ({CSilver{X) a makeshift pendant '{gDragon Turtle{X'~
+Desc A makeshift pendant lies on the ground before you. Different medals combined to shape a Dragon Turtle.~
+ExtF 786432
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name captain cloak~
+ShD  ({yWorn{X) ({bDrenched{X) a Captain's Cloak~
+Desc A cloak lies on the ground before you, many years of use visible on its damp material.~
+ExtF 786432
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  97
+Cost 970
+Val  26 26 26 22 0
+Affc 'cultural artistry'   1  87  -1  -4  25          0
+End
+
+#O
+Vnum 19002
+Enchanted
+Nest 0
+Name armguard blood soaked~
+ShD  a set of {rblood-stained{X armguards~
+Desc A set of dark armguard lies before you, darkened by the blood of battles past.~
+ExtF 17301504
+Cond 97
+Wear 13
+Cost 8000
+Affc 'reserved'   0 115  -1 -60  17          0
+Affc 'reserved'   0 115  -1  17  18          0
+Affc 'reserved'   0 115  -1  17  19          0
+Affc 'reserved'   0 115  -1 400  12          0
+Affc 'reserved'   0 115  -1 400  13          0
+End
+
+#O
+Vnum 1250
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+ExtF 17039424
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  86
+Cost 860
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 12267
+Nest 0
+Cond 98
+Wear 20
+Cost 4710
+End
+
+#O
+Vnum 3000
+Nest 0
+Name container dirty water disgusting~
+ShD  a container of disgusting and {ydirty{x {bwater{X~
+Desc A large container of a yellowish, nasty liquid lies before you.~
+Cond 100
+Wear -1
+Cost 67
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 11878
+Nest 0
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 16304
+Nest 0
+Name bag jars~
+ShD  ({RBloody{X) ({rDripping{X) a bag of jars~
+Desc A large dripping, blood stained bag lies before you, forgotten.~
+Cond 100
+Wear -1
+Cost 275
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a magmin's blood~
+Desc A jar of a magmin's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a magmin's blood~
+Desc A jar of a magmin's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a half-elf's blood~
+Desc A jar of a half-elf's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a half-elf's blood~
+Desc A jar of a half-elf's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#END

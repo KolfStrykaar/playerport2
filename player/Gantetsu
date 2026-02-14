@@ -1,0 +1,979 @@
+#PLAYER
+Name Gantetsu~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1380935159
+LogO 1397861659
+Vers 10
+Act  CDFGTe
+Desc A hooded figura leaning on a traveler's staff is here. He is wearing long
+and smudged robes, sugesting that he might be on the road from quite some
+time. A pair of old sandals protect his feet... but barely... the holes in
+it are to big to give any kind of protection from the hardness of the
+road. He has long hair, and the color at the tips that aren't covered by
+the hood's protection is somewhat auburn...
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e %B %a{r>{x ~
+Race human~
+Devotee 8
+Sex  1
+Cla  12
+Hmtown 0
+Levl 27
+recall_point 3001
+Levscale 30
+Xptolev  527
+Sec  0
+Plyd 127844
+Not  1383251103 1382804331 0 1383043412 1380939622
+Scro 58
+Room 1943
+HMV  514 514 566 566 259 259
+Steel 15
+Gold 1260
+Bank 3000
+Exp  85073
+AfBy T
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2949120
+Comm NO
+Pos  8
+Prac 20
+Trai 10
+Save  -8
+Alig  -46
+Ethos 2
+ACs 40 28 34 80
+Wimp  50
+Attr 15 21 17 13 21 13
+AMod 2 15 21 4 14 0
+Pass Gab4W8uYjkXt2~
+Titl  the Caster of Cantrips~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 27
+HMVP 464 466 259
+Cnd  0 45 11 0
+QuestPnts 901
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 27 'blindness'
+Sk 100 'burning hands'
+Sk 63 'cancellation'
+Sk 1 'cause serious'
+Sk 62 'charm person'
+Sk 1 'detect good'
+Sk 77 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 1 'farsight'
+Sk 1 'flamestrike'
+Sk 94 'levitate'
+Sk 1 'orb of containment'
+Sk 1 'gate'
+Sk 86 'giant strength'
+Sk 79 'haste'
+Sk 1 'life transfer'
+Sk 1 'mind shatter'
+Sk 1 'heat metal'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 81 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 100 'magic missile'
+Sk 88 'pass door'
+Sk 1 'aid'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 86 'refresh'
+Sk 1 'sleep'
+Sk 70 'slow'
+Sk 1 'flesh to stone'
+Sk 1 'teleport'
+Sk 63 'weaken'
+Sk 1 'word of recall'
+Sk 1 'flaming shield'
+Sk 93 'dagger'
+Sk 1 'whip'
+Sk 7 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 93 'mount'
+Sk 1 'break enchantment'
+Sk 1 'sympathy'
+Sk 1 'cantrip'
+Sk 1 'feeblemind'
+Sk 1 'binding'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'flame rune'
+Sk 1 'frost rune'
+Sk 1 'shocking rune'
+Sk 3 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 4 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 36 'attunement'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'sleepless curse'
+Sk 63 'surge'
+Sk 87 'endure'
+Sk 1 'taunt'
+Sk 1 'fumble'
+Sk 1 'empowerment'
+Sk 1 'garble'
+Sk 1 'shallow breath'
+Sk 1 'chaos flux'
+Sk 1 'gravity flux'
+Sk 1 'torment'
+Sk 10 'trance'
+Sk 1 'waterlungs'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'enlarge'
+Sk 1 'shrink'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'endure'   0  26   4  -8  25          0
+Affc 'levitate'   0  24   3   0   0     524288
+Affc 'empowerment'   0  92   8   3   5          0
+Affc 'attunement'   0  86   8   3   3          0
+Affc 'attunement'   0  87   8   3   4          0
+End
+
+#O
+Vnum 1246
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 96
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 96
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 91
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 94
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 91
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 97
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 98
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 94
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 64
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 97
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3767
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 97
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16261
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1915
+Nest 1
+ExtF 16777728
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10703
+Nest 1
+Cond 100
+Wear -1
+Cost 1860
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 10660
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 10721
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16261
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10703
+Nest 1
+Cond 100
+Wear -1
+Cost 1860
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 16289
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'giant strength'
+Spell 3 'haste'
+End
+
+#O
+Vnum 16289
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'giant strength'
+Spell 3 'haste'
+End
+
+#O
+Vnum 16364
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 67
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  300 92 0 0 0
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 919
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 1626
+Nest 0
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 10967
+Nest 0
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear 7
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 11218
+Nest 0
+Cond 90
+Wear -1
+Cost 200
+End
+
+#END

@@ -1,0 +1,749 @@
+#AREADATA
+Name Hall of Knowledge~
+Builders Gilean~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 2900 2950
+Credits Gilean~
+Security 9
+End
+
+
+
+#MOBILES
+#2900
+guardian aesthetic order~
+a Guardian of the Aesthetic Order~
+A Guardian of the Aesthetic Order stands here, guarding the Hall of Knowledge.
+~
+Standing here with his head slightly lowered, this man's only assignment
+to the Aesthetic Order is to protect it from anyone who dares to intrude
+upon the Hall of Knowledge.  He wears only a dark red robe, held closed with a
+thin rope tied around his waist.  The hood of his robe is pulled over his
+head and half of his face.  The lower half of his face is too hard to make
+out, the pulled over hood creating a shadow to conceal himself.  His hands
+are concealed in the folds of his robe, making it difficult to tell whether
+or not he carries a weapon, uses magic, or simply uses a style of fighting
+similar to monks.  
+~
+human~
+ABNR DF 0 0
+88 88 132d29+1601 88d10+85 25d3+34 pound
+-32 -32 -32 -14
+FINU AB CD 0
+stand stand male 1800
+AHMV ABCDEFGHIJK M unknown 9
+#2905
+healer priest cleric~
+A cleric of Gilean~
+A humble cleric of Gilean stands here, ready to attend to your needs.
+~
+A kindly older man, dressed in a simple hooded robe of gray linen, the
+small silver medallion at his throat proclaims him as one of Gilean's chosen
+servants.  
+~
+human~
+ABQUa DFZa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+FS ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#2910
+junior aesthetic~
+a junior Aesthetic~
+A junior Aesthetic stands behind the counter, sorting surplus inventory.
+~
+Recently promoted from mere Scribe, but not yet ready to take his place
+in the Great Library, this junior Aesthetic hones his organizational skills
+(and occasionally his patience) sorting and cataloguing the Hall's
+warehouse; selling off the surplus items to generate revenue for the Hall
+and order new supplies for the Library.  
+~
+human~
+ABUY DFZ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M flesh 0
+#2921
+roland trainer scholar~
+Roland~
+Roland, Head Scholar of the Hall, stands here ready to instruct you.
+~
+A retired Aesthetic, Roland is in his fifties and serves as the head
+instructor.  He has aged well; streaks of grey in his thick dark hair and
+lines of care framing his eyes the only apparent clues to his age.  His
+studies have encompassed all matters both martial and magical, and he has
+chosen to spend his retirement sharing his knowledge with others.  
+~
+human~
+ABJKb DFVZc 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M flesh 0
+#0
+
+
+
+#OBJECTS
+#2900
+fountain statue~
+a fountain of Gilean~
+A beautiful gray marble fountain sits here, filled with crystal clear water.~
+marble~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#2901
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#2902
+massive oak shelf~
+a massive bookshelf~
+A massive oak bookshelf stretches the entire length of the hall.~
+oak~
+container OS 0 0
+150 0 0 20 0
+0 0 0 P
+#2903
+book herbal guide~
+"An Herbalist's Guide to Krynn"~
+A book entitled "An Herbalist's Guide to Krynn" rests here.~
+parchment~
+treasure SY 0 AO
+0 0 0 0 0
+0 1 0 P
+E
+guide~
+Travelers throughout the land have long used herbs as a vital tool,
+whether for medicinal purposes or for more inherent magical qualities. 
+Painstaking research has shown that there are a variety of sources to be
+found in several different regions throughout Krynn.  The following
+information, based upon the field reports of our fellow scholar
+Adrastos, lists the currently known species of herbal variants.  
+ 
+SOLAMNIA
+Just east of Palanthas lies a small shop run by a woman known as Uronia.
+Within, one may find select from a Red herb known to induce a state of
+battle frenzy, a Purple herb granting exceptional speed, a Pinkish herb
+that likewise bestows great strength, and a Yellow herb favored by mages;
+often used to improve their powers of observation.
+ 
+NERAKA
+The dragonarmies and servants of the Dark Queen often make use of herbal
+lore to increase their abilities, and several vendors may be found
+throughout the capital city. Herbs of recall are used to transport troops
+to a specified location, but often exact a demanding toll on the health
+of the user; these may be found in any of the city's Quarters.
+
+Similarly, several of the Quarters have attempted to develop their own
+versions of these herbs, naming them after their respective Quarters.
+However, the process has proved to be even more unstable; while many
+carry the same health risk, instead of sending the user to a central
+destination, the magic seems to teleport the user to a random location!
+Of these ill-conceived mixtures, the Red Quarters herb seems to be the
+only partial success in that while the teleport is still random, no loss
+of health has been shown to occur.
+
+Servants of the Queen also favor what have come to be known as Herbs of
+Power, and may be found in most Quarters of the city. These herbs serve to
+invigorate the user; making them less weary and augmenting their strength.
+Herbalists in the Black and White Quarters of the city have been especially
+successful with this recipe, and their versions of the herb have been known
+to augment speed as well.
+
+As a final note - Beware of Merchants claiming to offer Healing herbs! Many
+scholars have reported purchasing these remedies in good faith, only to
+discover that they have no effect! In addition, many have also reported
+their food supply poisoned, perhaps tainted by some chemical reaction while
+being stored in close proximity.
+~
+#2904
+book herbal guide~
+"An Herbalist's Guide to Krynn Vol.II"~
+A book entitled "An Herbalist's Guide to Krynn Vol.II" rests here.~
+parchment~
+treasure SY 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+guide~
+Travelers throughout the land have long used herbs as a vital tool,
+whether for medicinal purposes or for more inherent magical qualities.
+Painstaking research has shown that there are a variety of sources to be
+found in several different regions throughout Krynn.  The following
+information, based upon the field reports of our fellow scholar
+Adrastos, lists the currently known species of herbal variants.
+ 
+ABASINIA AND OTHERS
+Dedicated researchers of herb lore may find themselves traveling far and
+wide to complete their studies; often finding themselves in strange and
+disreputable places, searching for that one elusive gem of knowledge...
+ 
+One such example lies in the crime-ridden city of Port O' Call. Infamous
+for it's reputation as a home to pirates, smugglers, and thieves it
+nonetheless holds a few precious secrets. One of these is a vendor known
+as Mareen. Specializing in imported items of questionable origin, she
+offers the sale of a Brown herb highly prized by many spellcasters
+for its ability to enhance the intellect; enabling them to better
+attune themselves to magical energies.
+ 
+While many consider Kender to be little more than a nuisance, surprisingly
+Kendermore itself is home to some of the most skilled herbalists on Krynn.
+One such kender herbalist has discovered a Red herb unparalleled in it's
+vision-enhancing capabilities. Likewise, his White herbs' medicinal uses
+in both healing and refreshing rival that of many clerics! Indeed, many
+priests traveling abroad consider the Yellow herb offered by the kender
+to be sacred in many religions; those who partake of it have reported
+feelings of protection and divine favor. The Green herb is also useful for
+traveling through dangerous lands, warding the user against evil and
+making them extremely difficult to be seen.
+ 
+Finally, those traveling through the wasteland known as the Plains of Dust
+would do well to seek out a Wanderer who makes his home there. Having spent
+many years in the harsh climate, he has discovered a Root essential to
+desert survival. While it comes at a price, this root is known to have
+many beneficial qualities; not only invigorating the user, but also giving
+them increased strength to weather the harsh conditions as well as enabling
+them to travel more quickly.
+~
+#2905
+pit donation cedar chest~
+the donation chest~
+A sturdy cedar donation chest sits to one side of the altar.~
+cedar~
+container OS 0 0
+10000 0 0 10000 10000
+0 0 0 P
+#2906
+wooden staff guardian aesthetic order~
+a Guardian Staff of the Aesthetic Order~
+A smooth wooden staff lies here, with the symbol of a book etched onto it.~
+wood~
+weapon BJKPQSY 0 ANZ
+staff 9 11 thwack IM
+90 4 900 P
+A
+4 4
+A
+3 2
+#2907
+park bench~
+a comfortable park bench~
+A comfortable park bench sits here among the greenery.~
+oak~
+furniture SY 0 0
+AB 0 EHK BD BD
+0 50 0 P
+#2909
+gateway portal mist wall~
+the swirling mists~
+A swirling portal of sparkling grey mist is set into the back wall.~
+energy~
+portal AO 0 0
+0 0 D BEGHIJKLMN 0
+0 0 0 P
+#2910
+golden scales~
+a set of {YGolden {xScales~
+A set of golden balance scales lies here, glowing softly.~
+gold~
+treasure GJKY 0 AO
+0 0 0 0 0
+35 2 1500 P
+A
+19 3
+A
+18 3
+#2911
+tattoo red circle~
+a tattoo of a {RRed {xCircle~
+A magical tattoo bearing the symbol of Lunitari lies here.~
+ink~
+tattoo JKMPSUYZa 0 AR
+0 0 0 0 0
+40 0 10000 P
+A
+5 -2
+A
+1 -1
+A
+12 100
+A
+20 -3
+#2912
+tooled leather backpack shoulder pack~
+a Tooled {yLeather {xShoulder Pack~
+An exquisitely crafted backpack sits here, bearing the emblem of an open book.~
+tooled leather~
+container GSYa 0 ASc
+500 A 0 150 100
+35 2 6500 P
+A
+17 -5
+#2913
+tattoo book~
+a tattoo of an open {CBook{x~
+A magical tattoo bearing the symbol of an open book sits here, glowing softly.~
+ink~
+tattoo IJKMPSUYZa 0 AR
+0 0 0 0 0
+40 0 10000 P
+A
+19 -2
+A
+2 -1
+A
+13 50
+A
+4 3
+A
+3 1
+#2914
+igraine heresy scroll~
+a scroll entitled "Igraine's Heresy"~
+A tightly bound scroll sits here, tied with gray ribbon.~
+parchment~
+treasure S 0 AO
+0 0 0 0 0
+0 1 0 P
+E
+scroll~
+({ywritten along the top margin{x): "After working for some time with my
+fellow Aesthetics, I have uncovered some legends surrounding the ancient
+ogres from the Age of Dreams.  Most of the legends, notably those of the
+ogre downfall, focus on an ogre called Igraine, and what later became known
+as 'Igraine's Heresy'..."
+ 
+Igraine's Heresy: In the year 6320 to 5980 PC, Governor Igraine gave his
+slaves freedom and tried to explain the evil of slavery to all other ogres.
+He was arrested for heresy, but freed by his followers.  As Igraine and his
+followers fled the capital, the first human revolt occurred in the ogre
+nation which led to the fall of ogre civilization.  As the revolt occurred,
+all ogres were cursed and lost their intelligence and beautiful forms,
+becoming brutish fighters and the ogres we know of today.
+ 
+Igraine and his followers fled the ogre nation and escaped to the Spine of
+Taladas; a chain of islands far north of Ansalon.  They were blessed by the
+good gods and became known as the Irda.  Igraine then handed over the
+leadership of the Irda to his daughter and later became a wisdom spirit
+to guide later generations of Irda.
+
+Legends also surround the fact that Sargonnas also warned a small number of
+the ogres, led by a great warlord called Doom. Doom led his warriors away
+from the capitol before the curse befell the ogres, and they retained their
+intelligence and form. Doom's ogres became known as the Nzunta, and chose
+to hunt the Irda who they believe had destroyed their people.
+ 
+The Nzunta still hunt for the Irda to this day....
+ 
+{CScribed this day - Eleventh Watch, Day of Majere
+4th, Month of Sargonnas 373 AC
+Quinn Navarre{x
+~
+#0
+
+
+
+#ROOMS
+#2900
+At the Fountain of Knowledge~
+Here a large intersection connects the separate wings of the Hall. 
+Bookshelves continue to line a vast circular chamber, surrounding a common
+area lined with tables where members may study in peace.  In the center of
+the room stands a finely crafted fountain adorned with a statue of Gilean. 
+A richly embroidered carpet stretches down each of the four major hallways. 
+Looking at the delicate stitchwork, you realize that what seemed at first to
+be an intricate design is actually tiny lettering; the names of all of the
+Aesthetics both past and present stretch into the distance, each hallway
+representing an Age in the history of Krynn.  
+~
+0 16777224 19
+D0
+~
+~
+0 0 2901
+D1
+~
+~
+0 0 2902
+D2
+~
+~
+0 0 2903
+D3
+~
+~
+0 0 2904
+S
+#2901
+Along the Hall of Despair~
+This hall is dedicated to the present Age of Krynn.  The west wall is
+filled with accounts of the Time of Darkness; from Takhisis' discovery of
+Istar through the Dwarfgate Wars and reawakening of the dragons of Krynn. 
+The east wall likewise contains the stories of the various peoples of Krynn
+throughout the Time of Dragons; including the creation of the Draconian
+race, the corruption of Silvanesti and the War of the Lance.  Reports also
+abound of Raistlin Majere's attempt at Godhood, as well as the birth of the
+Knights of Takhisis.  To the west lie the training grounds, while the hall
+continues north toward the chapel.  
+~
+0 16777224 19
+D0
+~
+~
+0 0 2905
+D2
+~
+~
+0 0 2900
+D3
+~
+~
+0 0 2921
+S
+#2902
+Along the Hall of Starbirth~
+This passage is devoted to the dawning of the world, and the subsequent
+arrival of the Gods.  Little is known about this period, other than tales
+told in ballads and folk songs from the Age of Dreams, and what little
+remains of the racial folklore and clerical histories not destroyed in the
+Cataclysm. To your left is displayed a copy of the {GLifescroll{x of Song;
+the scrolls recounting tales of the All-Saints War, the birth of Dragons and
+the creation of the Graygem.  The scroll itself was penned by the elven bard
+Quivalen Soth and gifted to Astinus near the end of the Age of Light. 
+Currently on loan from the Great Library, it stands open to all that wish to
+learn more of the origins of Krynn and it's Gods.  
+~
+0 16777224 19
+E
+lifescroll~
+"...  And thus it was that the first races were born unto the world: the
+graceful Elves, beloved of Good; the beautiful Irda, powerful and cruel; and
+the short-lived humans, filled with ambition and the desire to excel - Each
+race created with equal capacity to love and hate, to build and destroy..." 
+
+"...  And the Gods, having ended their quarreling, sealed their agreements
+by bringing forth children to work in harmony: the three moons of Krynn;
+Solinari the {WWhite{x, Lunitari the {RRed{x, and Nuitari the {DDark{x..."
+
+"... thus Reorx, having been tricked by Hiddukel into crafting a gemstone to
+anchor Neutrality to the world, sought to capture a fragment of Chaos, thus
+ensuring the gem would have power enough to maintain the Balance.  Chaos
+instead became trapped within the Graygem, which Reorx hid upon the surface
+of Lunitari in hopes of secreting his mistake.  Knowing nothing of this,
+Lunitari and her brothers set about harnessing the power of the Graygem to
+bring their own gift to the world: the gift of Magic..."  
+~
+D1
+~
+~
+0 0 2906
+D3
+~
+~
+0 0 2900
+S
+#2903
+Along the Hall of Might~
+The volumes lining this hallway represent the legacy of Istar in its
+glory days and the coming of the Cataclysm.  From the founding of the first
+Hill Dwarf settlements and the growing isolation of elven society to the
+Kingpriest's rise to power and the damnation of Lord Soth, each tome
+contained on these shelves stands as a warning that even the forces of Light
+may yet bring destruction upon the world if left to grow /too/ powerful...  
+~
+0 16777224 19
+D0
+~
+~
+0 0 2900
+D2
+~
+~
+0 0 2908
+S
+#2904
+Along the Hall of Dreams~
+The tomes along this hall, preserved by magical means, seem to radiate a
+sense of history.  Detailing events both famous and obscure, accounts of the
+Irda, Dragon Wars and the founding of the Silvanesti sit alongside treatises
+on the lesser-known sea elves and grueling accounts of the Kinslayer Wars
+and rise of the Qualinesti nation.  It is said that somewhere amongst these
+shelves, one may find an original copy of the legendary Swordsheath scroll,
+as well as the blueprints for the High Clerist's tower, penned by Vinas
+Solamnus himself...  An immense set of double doors inlaid with cut glass
+lie to the west, leading into the Garden of Tranquility.  
+~
+0 16777224 19
+D1
+~
+~
+0 0 2900
+D3
+~
+~
+0 0 2907
+S
+#2905
+Before the Altar of Learning~
+Here the faithful of Gilean come to pay their respects; each day reading
+passages from the chronicles of Astinus and discussing the lessons to be
+learned from history.  Homage is paid to the Keeper of the Tobril by each
+member sharing some new bit of wisdom or information learned that day.  The
+chapel itself is simple and unassuming, resembling a modest lecture hall. 
+Just behind the podium sits a sculpture of the Tobril; carved from
+smoky-grey quartz and resting atop an altar of veined grey marble.  
+~
+0 25165848 30
+D2
+~
+~
+0 0 2901
+S
+#2906
+The Hall of Knowledge - Foyer~
+You find yourself standing within the fabled Halls of Knowledge; a place
+that only those devoted to the Order of the Book and the pursuit of
+knowledge may enter.  Smiles of welcome and quiet greetings from passing
+scholars make you feel right at home.  Bound stacks of parchments and dusty
+tomes ranging in topic from tactical analyses of major battles to local
+customs and recipes surround you at every turn, lining the walls from floor
+to ceiling.  Here and there, scribes and junior Aesthetics can be seen
+busily recording and cataloging fresh reports from Aesthetics all over the
+world.  To the east lies the main entrance and the Great Library of
+Palanthas, while the west corridor leads further into the main hall.  
+~
+0 16777224 19
+D1
+~
+~
+0 0 2911
+D3
+~
+~
+0 0 2902
+S
+#2907
+In the Gardens of Tranquility~
+Entering this immense outdoor pavilion, one cannot help but be swept
+away by it's beauty and grandeur.  Lush greenery surrounds you everywhere.
+Herbalists from all over Krynn having donated specimens of every type of
+flora in existence to be studied and appreciated in lavish arrangements and
+carefully maintained greenhouses.  At the far end of the garden can be seen
+a small amphitheatre where Sebastius and his Traveling Players of Gilean
+sometimes perform for the entertainment and education of all who reside
+within the Hall.  
+~
+0 0 19
+D1
+~
+~
+0 0 2904
+M 150 H 125
+S
+#2908
+Along the Hall of Might~
+The volumes lining this hallway represent the legacy of Istar in its
+glory days and the coming of the Cataclysm.  Here can be found myriad
+accounts of the last days of Istar, and the Night of Doom.  An alabaster
+pedestal near the end of the hall proudly displays an exact miniature
+replica of the original city of Istar, rescued from the city's ruins beneath
+the Blood Sea during the War of the Lance.  To the east lies a sizable
+warehouse where members of the Order may purchase various items, while to
+the south an imposing stone archway leads to a magical portal.  
+~
+0 16777224 19
+D0
+~
+~
+0 0 2903
+D1
+~
+~
+0 0 2910
+D2
+~
+~
+0 0 2909
+S
+#2909
+The Gate of Souls~
+Named for Gilean himself, this circular chamber serves as the nexus of
+travel for the order of Aesthetics, enabling them to traverse the land via a
+magical portal rather than braving dangerous roads and treacherous mountain
+passes.  Here scribes, historians, and teachers mill about in a flurry of
+activity; whether leaving on assignments, returning to record and share
+their experiences, or simply bring in fresh reams of parchment for the Great
+Library of Palanthas.  
+~
+0 16777224 19
+D0
+~
+~
+0 0 2908
+S
+#2910
+The Repository~
+Once the main living area for the Aesthetic Order, this immense space was
+converted for usage as a warehouse after the Aesthetics took up residence in
+the Great Library itself.  At the front of the warehouse stands a broad
+counter next to a wall of shelves where surplus items are kept for resale. 
+Here one may find several items of common use by the Aesthetic Order to aid
+them in their travels.  
+~
+0 16777224 19
+D3
+~
+~
+0 0 2908
+S
+#2911
+Outside the Halls of Knowledge~
+Arriving at the entrance to the Halls of Knowledge, one cannot help but
+feel a slight sense of awe at the legacies contained within.  Here followers
+of Gilean gather to both seek and share wisdom, keeping constant vigil over
+Krynn's most valuable records and precious historical documents.  An ornate
+stone archway bearing symbols and elements of craftsmanship from every major
+race upon Krynn stands in the middle of a massive open book, sculpted by
+dwarven stonemasons.  
+~
+0 16777224 19
+D1
+~
+~
+0 0 2912
+D3
+~
+~
+0 0 2906
+S
+#2912
+{CDown a Private Corridor{x~
+The foot traffic here seems to pick up a bit, though the general
+atmosphere remains hushed.  Nearby, a group of scholarly types engage in
+animated discussion, nodding in greeting as you pass by.  To the south, the
+chamber darkens into a shadowy looking passage; while to the west, a small
+flight of steps leads to a large stone edifice with an open archway. 
+Through the arch, more scholars come and go, stopping occasionally to chat
+with others dressed in what appear to be guard uniforms.  
+~
+0 16777224 19
+D2
+~
+~
+0 0 2913
+D3
+~
+~
+0 0 2911
+S
+#2913
+{CAlong a Winding Passage{x~
+As you step into this seemingly endless corridor, your senses are
+momentarily overwhelmed as the walls around you appear to fall away into -
+space.  Rounding gradually into a tunnel, the hallway has been seamlessly
+blended by master stonesmiths into shining black obsidian.  Along the walls
+and ceiling, the surface has been inset with small magical glowstones
+representing the constellations of Krynn's night sky; the overall effect
+leaving you feeling as though you were traveling through the very cosmos...
+~
+0 16777224 19
+D0
+~
+~
+0 0 2912
+D3
+~
+~
+0 0 3103
+S
+#2921
+The Training Centre~
+This training facility is used for to prepare various field agents for
+their assignments.  Members gather here to further their learning and
+improve themselves in body and mind, whether spellcasters, soldiers or
+masters of song.  Guest lectures are frequently given by everyone from
+Solamnic Knights to Black Robed mages; for in this sanctum of education,
+knowledge knows no distinction.  Amidst the clashing of weapons and displays
+of magic, a middle aged man approaches you and smiles warmly.  
+~
+0 16777224 19
+D1
+~
+~
+0 0 2901
+S
+#0
+
+
+
+#SPECIALS
+M 2900 spec_orgguard
+S
+
+
+
+#RESETS
+O 0 2900 0 2900
+M 0 2900 6 2900 1
+E 0 2906 0 20
+O 0 2902 0 2901
+P 0 2903 1 2902 1
+P 0 2904 1 2902 1
+O 0 2902 0 2902
+O 0 2902 0 2903
+O 0 2902 0 2904
+P 0 2914 1 2902 1
+M 0 2905 1 2905 1
+O 0 2905 0 2905
+M 0 2900 6 2905 1
+E 0 2906 0 20
+O 0 2907 0 2907
+M 0 2900 6 2907 1
+E 0 2906 0 20
+O 0 2902 0 2908
+M 0 2900 6 2908 1
+E 0 2906 0 20
+O 0 2909 0 2909
+M 0 2910 1 2910 1
+G 0 2911 0
+G 0 2913 0
+G 0 2912 0
+G 0 2910 0
+M 0 2900 6 2911 1
+E 0 2906 0 20
+M 0 2921 1 2921 1
+M 0 2900 6 2921 1
+E 0 2906 0 20
+S
+
+
+
+#SHOPS
+2910 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

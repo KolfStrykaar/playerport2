@@ -1,0 +1,1511 @@
+#PLAYER
+Name Lokil~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1407989522
+LogO 1422544140
+Vers 10
+Act  CDEGHQTe
+Desc Standing here is a tall and muscular man dressed in mix matched armor. 
+His hair has an auburn hue to it and is cut very short.  His eyes are the
+color of Vallenwood and there is a small scar along his jawline.  
+~
+Prom <{W%h{rhp {W%m{rm {W%v{rmv {W%X{rtnl>{y%B{x ~
+Race human~
+Devotee 16
+Sex  1
+Cla  5
+Hmtown 0
+Levl 87
+recall_point 3001
+Levscale 30
+Xptolev  288548
+Sec  0
+Plyd 980414
+Not  0 0 0 0 0
+Scro 22
+Room 3005
+HMV  2796 2796 580 580 803 803
+Steel 1605
+Gold 374104
+Bank 40750
+Exp  6651102
+Deaths 9
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4128768
+Comm NO
+Pos  8
+Prac 93
+Save  -21
+Alig  1000
+Ethos 0
+Hit   69
+Dam   77
+ACs -216 -195 -250 -151
+Attr 27 13 20 20 24 13
+AMod 5 5 9 15 7 5
+Pass LoHHNPYPboaYI~
+Titl  the Bringer of the Flame~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 250
+HMVP 2356 305 653
+Cnd  0 63 7 0
+QuestPnts 50
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 94 'frenzy'
+Sk 97 'protection evil'
+Sk 97 'axe'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 100 'polearm'
+Sk 76 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 78 'bash'
+Sk 2 'berserk'
+Sk 1 'dirt kicking'
+Sk 75 'disarm'
+Sk 93 'dodge'
+Sk 100 'enhanced damage'
+Sk 82 'hand to hand'
+Sk 100 'kick'
+Sk 96 'parry'
+Sk 75 'rescue'
+Sk 75 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 1 'break weapon'
+Sk 5 'counter'
+Sk 100 'critical strike'
+Sk 1 'deathgrip'
+Sk 76 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 78 'mount'
+Sk 1 'nerve pinch'
+Sk 75 'caltrops'
+Sk 1 'battle tactics'
+Sk 75 'wear chain'
+Sk 1 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 1 'haggle'
+Sk 100 'common'
+Sk 1 'lore'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'guard'
+Sk 1 'mounted combat'
+Sk 75 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 75 'finger break'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'polish'
+Sk 75 'shatter shield'
+Sk 75 'company might'
+Sk 77 'company valor'
+Sk 75 'company honor'
+Sk 1 'arrow deflection'
+Affc 'frenzy'   0  86  18  70  17          0
+Affc 'frenzy'   0  86  18  14  19          0
+Affc 'frenzy'   0  85  18  14  18          0
+Affc 'bless'   0  70  20 -10  25          0
+Affc 'bless'   0  68  20  10  18          0
+Affc 'enlightenment'   6  69  14   3   4          0
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 94
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  79
+Cost 790
+Val  16 16 16 12 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 94
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 17505
+Nest 0
+ExtF 0
+Cond 100
+Wear 19
+Cost 30000
+End
+
+#O
+Vnum 17505
+Nest 0
+ExtF 0
+Cond 100
+Wear 18
+Cost 30000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 99
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 100
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 17555
+Nest 0
+ExtF 0
+Cond 98
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262144
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 91
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 1914
+Nest 0
+Name Pumpkin bag~
+ShD  a {Ypumpkin{x bag~
+Desc a bag made out of a pumpkin.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  35
+Cost 5300
+Val  1060 1 -1 100 0
+End
+
+#O
+Vnum 10893
+Nest 1
+Name spider web~
+ShD  (Tangled) a {WSpider{x Web~
+Desc A tangled spider web is here.~
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'heal'
+End
+
+#O
+Vnum 10893
+Nest 1
+Name spider web~
+ShD  (Tangled) a {WSpider{x Web~
+Desc A tangled spider web is here.~
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'heal'
+End
+
+#O
+Vnum 10893
+Nest 1
+Name spider web~
+ShD  (Tangled) a {WSpider{x Web~
+Desc A tangled spider web is here.~
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'heal'
+End
+
+#O
+Vnum 10893
+Nest 1
+Name spider web~
+ShD  (Tangled) a {WSpider{x Web~
+Desc A tangled spider web is here.~
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'heal'
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name (Edible) an Ice-Cold Beer~
+ShD  ({yEdible{x) an {bIce-Cold{x {yBeer{x~
+Desc You drink several beers at your 4th of July party. Unfortunately, they make you do foolish things and you grab the clothes from your parent's dresser. You feel awfully silly don't you?~
+Cond 100
+Wear -1
+Lev  51
+Cost 500
+Val  25 13 -1 -1 -1
+Spell 1 'change sex'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name Love Candy~
+ShD  A {RLove{x Candy~
+Desc A candy wrapped on some colourful paper was left here.~
+Cond 100
+Wear -1
+Lev  51
+Cost 0
+Val  51 300 0 0 0
+Spell 1 'luck'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name ghost candy~
+ShD  a ghost candy~
+Desc A candy with the shape of a ghost was left here.~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 179 0 0 0
+Spell 1 'wraithform'
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5778
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5778
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3017
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16208
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 90
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 11268
+Nest 1
+Cond 100
+Wear -1
+Cost 11000
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16102
+Nest 1
+ExtF 17563648
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16208
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16366
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 97
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 98
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 1
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 91
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 17553
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 75
+Cond 100
+Wear -1
+Cost 10000
+Val  3 10 14 28 74
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 75
+Cond 92
+Wear -1
+Cost 10000
+Val  3 10 14 28 73
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 92
+Wear -1
+Cost 0
+Val  8 10 12 21 73
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 0
+Cond 80
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 97
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 16459
+Nest 1
+Cond 43
+Wear -1
+Cost 77
+Val  1 5 16 3 74
+End
+
+#O
+Vnum 3805
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 75
+Cond 97
+Wear -1
+Cost 10000
+Val  3 10 14 28 64
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Val  1000 5 0 1000 0
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion quench potion sate~
+ShD  a potion of quench, sate~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  15 340 296 -1 -1
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  42
+Cost 0
+Val  42 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  42
+Cost 0
+Val  42 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  42
+Cost 0
+Val  42 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  42
+Cost 0
+Val  42 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 17551
+Nest 0
+ExtF 0
+Cond 100
+Wear 13
+Cost 100
+End
+
+#O
+Vnum 17552
+Nest 0
+ExtF 0
+Cond 100
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 17550
+Nest 0
+ExtF 0
+Cond 99
+Wear 5
+Cost 100
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+ExtF 786432
+Cond 97
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+ExtF 786432
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11144
+Nest 0
+ExtF 262152
+Cond 100
+Wear -1
+Cost 3845
+Val  2 9 13 11 78
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 11144
+Nest 0
+ExtF 262152
+Cond 96
+Wear 24
+Cost 3845
+Val  2 9 10 11 76
+End
+
+#O
+Vnum 9826
+Nest 0
+ExtF 1310720
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19007
+Nest 0
+Cond 100
+Wear -1
+Time 644
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 3015
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 13700
+Enchanted
+Nest 1
+ExtF 36163
+Cond 100
+Wear -1
+Cost 1000
+Val  1 11 12 3 81993
+Affc 'enchant weapon'   0 100  -1   6  18          0
+Affc 'enchant weapon'   1 100  -1   6  19          0
+Affc 'reserved'   1 100  -1   1   5          0
+Affc 'reserved'   1 100  -1   2   1          0
+End
+
+#O
+Vnum 3158
+Enchanted
+Nest 1
+ExtF 1090
+Cond 100
+Wear -1
+Cost 500
+Val  1 11 12 3 65609
+Affc 'enchant weapon'   0 100  -1   4  18          0
+Affc 'enchant weapon'   1 101  -1   6  19          0
+Affc 'reserved'   1 101  -1   1   2          0
+End
+
+#O
+Vnum 3158
+Enchanted
+Nest 1
+ExtF 1091
+Cond 100
+Wear -1
+Cost 500
+Val  1 11 12 3 65610
+Affc 'enchant weapon'   0 100  -1   5  18          0
+Affc 'enchant weapon'   1 101  -1   7  19          0
+Affc 'reserved'   1 101  -1   1   2          0
+End
+
+#O
+Vnum 11600
+Enchanted
+Nest 1
+ExtF 67
+Cond 100
+Wear -1
+Cost 1000
+Val  1 11 12 1 98377
+Affc 'enchant weapon'   0 100  -1   6  18          0
+Affc 'enchant weapon'   1 100  -1   6  19          0
+End
+
+#O
+Vnum 13700
+Enchanted
+Nest 1
+ExtF 36163
+Cond 100
+Wear -1
+Cost 1000
+Val  1 11 12 3 81994
+Affc 'enchant weapon'   0 100  -1   5  18          0
+Affc 'enchant weapon'   1 100  -1   5  19          0
+Affc 'reserved'   1 100  -1   1   5          0
+Affc 'reserved'   1 100  -1   2   1          0
+End
+
+#O
+Vnum 11600
+Enchanted
+Nest 1
+ExtF 67
+Cond 100
+Wear -1
+Cost 1000
+Val  1 11 12 1 98378
+Affc 'enchant weapon'   0 100  -1   7  18          0
+Affc 'enchant weapon'   1 100  -1   7  19          0
+End
+
+#O
+Vnum 14007
+Enchanted
+Nest 1
+ExtF 2643
+Cond 100
+Wear -1
+Lev  100
+Cost 850
+Val  1 9 16 1 32845
+Affc 'enchant weapon'   0 100  -1   6  18          0
+Affc 'enchant weapon'   1 100  -1   6  19          0
+End
+
+#O
+Vnum 14007
+Enchanted
+Nest 1
+ExtF 2643
+Cond 100
+Wear -1
+Lev  100
+Cost 850
+Val  1 9 16 1 32846
+Affc 'enchant weapon'   0 100  -1   5  18          0
+Affc 'enchant weapon'   1 100  -1   5  19          0
+End
+
+#O
+Vnum 12188
+Nest 0
+ExtF 8
+Cond 100
+Wear 20
+Cost 0
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 919
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#END

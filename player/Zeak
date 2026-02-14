@@ -1,0 +1,313 @@
+#PLAYER
+Name Zeak~
+Surname Starburn~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1412196323
+LogO 1412196838
+Vers 10
+Act  CDGQSTe
+Prom {r%h/{R%H {W%B {b%m/{B%M {g%v/{G%V {Y%X ~
+Race draconian~
+Sex  1
+Cla  11
+Hmtown 0
+Levl 3
+recall_point 3001
+Levscale 30
+Xptolev  1144
+Sec  0
+Plyd 515
+Not  0 0 0 0 0
+Scro 22
+Room 3116
+HMV  52 52 132 132 86 112
+Steel 20
+Gold 200
+Bank 0
+Exp  3306
+AfBy Oc
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm LNO
+Pos  8
+Prac 9
+Save  -1
+Alig  -748
+Ethos 1
+Hit   1
+ACs 84 84 84 99
+Attr 16 13 18 17 11 10
+AMod 2 2 4 1 4 0
+Pass ZeOUOdZqpnpJ2~
+Titl  the Brute~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 0
+HMVP 52 132 112
+Cnd  0 65 65 0
+QuestNext 2
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'chill touch'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect good'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 76 'magic missile'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'protection good'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'acid breath'
+Sk 75 'dagger'
+Sk 1 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 100 'glide'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'shadow walk'
+Sk 1 'animate corpse'
+Sk 1 'fear'
+Sk 1 'horrid wilting'
+Sk 1 'paralysis'
+Sk 1 'vampiric touch'
+Sk 1 'undead disruption'
+Sk 1 'nightmare'
+Sk 1 'cavorting bones'
+Sk 1 'enervation'
+Sk 1 'remove paralysis'
+Sk 1 'cantrip'
+Sk 1 'disintegrate'
+Sk 1 'wraithform'
+Sk 1 'word of death'
+Sk 1 'coldfire'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'drain rune'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 1 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 1 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'dark taint'
+Sk 1 'drain blood'
+Sk 1 'forget'
+Sk 1 'forgedeath'
+Sk 1 'preservation'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'preserve dead'
+Sk 1 'ray of fatigue'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'boil blood'
+Sk 1 'great wasting'
+Sk 1 'coldlight'
+Sk 1 'resist cold'
+Sk 1 'deadeye'
+Sk 1 'renew bones'
+Sk 1 'breath of the dead'
+Sk 1 'intensify death'
+Sk 1 'deafness'
+Sk 1 'trance'
+Sk 1 'staff'
+Sk 1 'unholyrite'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 3760
+Nest 0
+Cond 100
+Wear 0
+Cost 5
+Val  0 0 189 0 0
+End
+
+#O
+Vnum 3761
+Nest 0
+Cond 100
+Wear 5
+Cost 5
+End
+
+#O
+Vnum 3762
+Nest 0
+Cond 100
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 99
+Wear 20
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3763
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 21
+Cost 1140
+End
+
+#END

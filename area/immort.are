@@ -1,0 +1,1930 @@
+#AREADATA
+Name immortal area~
+Builders None~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 1200 1299
+Credits Immortals~
+Security 1
+End
+
+
+
+#MOBILES
+#1200
+fizban~
+Fizban the Fabulous~
+Fizban the Fabulous is wandering about, trying to find his damn hat.
+~
+An old, befuddled wizard stands before you.  Clad in gray robes from
+head to toe, he's topped off with frazzled white hair and his signature
+pointy hat, which he always seems to have lost.  His face and eyes indicate
+a great age and wisdom with his years, and is adorned with a great white
+beard and mustache.  Around his waist are a couple simple pouches and vials,
+ready for use.  He carries no armorments, save a simple wooden staff.  
+~
+human~
+AB DFJ 1000 0
+200 200 300d66+7281 200d10+85 57d3+71 blast
+-86 -86 -86 -44
+ACDEFHIJKLM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1201
+monk~
+A {yMonk{x of {DMorgion{x is here.~
+A {yMonk{x is here selling items to members of the {DBlack Order{x.
+~
+A {yMonk{x of {DMorgion{x is here selling items to members of the {DBlack Order{x.
+~
+human~
+AB 0 -750 0
+40 40 60d13+365 40d10+85 11d3+18 none
+-9 -9 -9 -1
+IN ABCDEFGHIJKLMOPQRTXY 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1202
+monk~
+a {DDark Monk{x~
+A {DDark Monk{x is here selling items to the {DDark Order{x.
+~
+~
+human~
+AB 0 0 0
+40 40 60d13+365 40d10+85 11d3+18 none
+-9 -9 -9 -1
+0 ABCDEFGHIKLMNOPQRTXYZ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#1203
+nomocro~
+Nomocron~
+Nomocron, Named the First of the Court of Undeath is here.
+~
+Standing here is a black armored knight.  He stands up to a height of
+seven feet flat.  Hair that has lost all pigment spills out of the helm to
+his shoulders.  Glowing eyes of icy blue color gently give off small flames.
+The suit of black armor is formed around an individual with obvious form and
+muscle.  A black cloak drapes over his shoulders and drags on the ground
+behind him, just barely covering an obsidian sword to his side, glowing with
+green light.  
+~
+modron~
+ABOQ HJNV -1000 0
+140 150 1d1+21000 100d100+10000 4d100+200 divine
+-100 -100 -100 -70
+CDEFKQR BLMNPQ CDHIJK 0
+stand stand male 100000
+H ABCGHJK M unknown 0
+#1204
+Yergas~
+Yergas~
+Yergas the {RGoddess{x of {DNight{x stands here waiting for her mistress.
+~
+Before you is a beautiful elven mage.  She is dressed in all red just
+like her mistress.  Her eyes are a piercing {Ggreen{x, her hair is like a
+river of {Rfire{x.  Her beauty is like none before.  
+~
+elf~
+ABJKRSTace CDFGHJNPVZb 0 0
+1 1 2d2+10 1d10+85 1d2+5 wrath
+8 8 8 9
+CEFIKLNO ACDJQR BEH M
+stand stand female 2147483647
+CEHKMV ABCDEFGHIJK M unknown 0
+F vul Z
+F for A
+#1205
+pony Slash~
+Slash the Pony~
+Slash the pony stands here, his black coat shining.
+~
+You look at a black pony.  You see a metal saddle of some kind, with gold
+symbol encrusted on the side.  If you look closely is the symbol of {RReorx{X. 
+He is phenotype, with stocky body, dense bones, round shape and well-sprung
+ribs.  He has a short head, large eyes, small ears and the legs are
+proportionately shorter.  He has strong hooves and a heavier silver hair
+coat, seen in a thicker mane and tail.  
+~
+horse~
+ABDJKRSTace CDEFGHNOPZbc 0 0
+106 1000 1000d33+1000 101d10+85 1000d33+1000 bite
+-38 -38 -38 -17
+CHI ADEFGHIKLMNOPQRTXYZ 0 BJS
+stand stand male 0
+GV ACDEFHJK M unknown 7
+F off F
+F for A
+F par LQ
+M GIVE 1205 1835~
+#1206
+cleric aurak draconian~
+an Aurak draconian in a cleric's garb~
+Standing hunched over a thick, gnarled staff, an Aurak draconian lingers here, looking out from behind cloudy yellow eyes.
+~
+~
+silvanesti~
+AB GOc -1000 0
+60 60 90d20+1093 60d10+85 17d3+25 divine
+-18 -18 -18 -6
+CFKO AB B 0
+stand stand none 75000
+AHMV ABCDEFGHIJKWX L unknown 4
+F aff J
+#1207
+behemoth~
+Behemoth~
+An ancient Behemoth, the paragon of nature, towers here.
+~
+Here towers a monstrosity beyond the imagination.  Some creature,
+standing at least three hundred feet in height.  Compared to the rest of its
+body, it has short and stubby legs, and walks like a gorilla upon wickedly
+immense talons, spanning to be at least fifty feet in length.  It has
+mottled grey fur, crimson red eyes and black slits for pupils.  A row of
+jagged teeth jut from its lower jaw and over its lips.  The creature has a
+large hunch to its back, and its body is completely rippling with muscles. 
+Its feet, as well, carry large talons, only themselves twenty feet in
+length.  
+~
+unique~
+AR HJNOVc 0 0
+120 150 1d1+13999 1d1+9999 20d20+200 slash
+-90 -90 -90 -120
+ACDFHKOR BCLMPQ FGHIJKO ENZ
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#1208
+red eared slider turtle~
+A small turtle~
+Here is a small turtle known as a red eared slider basking in the sunlight.
+~
+Here is a small turtle known as a red eared slider.  Their name comes
+from the strip of red color located on the head of the turtle where the ears
+of a creature would normally be.  This little turtle looks content, raising
+its head high and relaxing in the sun's rays.  
+~
+unique~
+A 0 0 0
+1 1 2d2+10 1d10+85 1d2+5 bite
+8 8 8 9
+0 R 0 0
+stand stand none 0
+GXa ABCDEFHKQU T unknown 0
+#1209
+naruub na'ruub scarab creature beast~
+Na'Ruub the Scarab Beast~
+A monstrous creature similar to a scarab is here.
+~
+Here stands a monstrous scarab creature.  Its carapace is pitch black
+with a luster of dark midnight blue in light.  The base of the creature
+stays true to the form of a scarab, while its front half curves upward
+similar to a preying mantis.  Its spiked claws akin to large scissors,
+though folded in harmlessly like a mantis when not in use.  The creature
+also sports a stag horn, insect wings that poke out from under the back of
+the shell, antennae, and mandibles.  
+~
+centipede~
+A JVZc -1000 0
+101 101 1d1+3999 1d1+3999 8d21+101 slash
+-125 -100 -125 -125
+ACDFHKNO ABLPQ CDK RT
+stand stand male 0
+ABGHOZ ABCDEFKLUVWY L unknown 0
+F res FI
+F vul E
+#1210
+priest hidd~
+a Priest of Hiddukel~
+A Priest of Hiddukel stands here before you, looting your pockets.
+~
+~
+human~
+ABJKQab V -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1209 100~
+#1211
+dispatahl~
+Dispatahl, Lord of the Steel Tower~
+Dispatahl, Lord of the {DSteel Tower{x is here.
+~
+The demon you see before you looks mostly human except for its noticeable
+differences.  Obviously with male characteristics he stands to a height of
+fifteen feet tall.  He is powerfully muscular and his skin is the color of
+polished steel.  His face is devoid of any facial hair and he has a square
+jaw.  Two small black horns point out of his forehead and red glowing eyes
+filled with demonic purpose gaze with hatred.  Long, fine black hair spills
+from his head and past his shoulders where two massive demonic wings sprout.
+He wears overly extravagant black and red finery appearing to be worth a
+kingdom's fortune even to the untrained eye.  He wields a gigantic spiked
+mace almost half his size.  
+~
+unique~
+AQRT DFGHOV -1000 0
+113 120 1d1+11999 1d1+6665 66d3+160 claw
+-120 -110 -120 -50
+DEFIKN ABHLPQ CDIK JNY
+stand stand male 30000000
+HJM ABCDEFGHPUVW L unknown 0
+#1212
+Luin the {RHigh Mage{x of {MBalance{x~
+Luin~
+Luin the {RHigh Mage{x of {MBalance{x stands here.
+~
+Before you stands a beautiful human woman, clad in {Rvelvet red{x robes. 
+This woman looks gentle in nature.  This beautiful woman before you has a
+very girlish features, she looks to be quite young in age as well.  Though
+this girl looks young she is not some frail creature, she in fact has a belt
+about her waist lined with powerful spell pouches and darts.  
+~
+draconian~
+A Oc 0 0
+102 102 153d34+1857 102d10+85 29d3+39 none
+-38 -38 -38 -17
+0 P EM 0
+stand stand female 2147483647
+AHMV ABCDEFGHJKPQUVWX M unknown 0
+#1213
+Shaka~
+Shaka the {cSilver{x Dragon~
+Shaka the {cSilver{x Dragon, is here.
+~
+This silver dragon seems very similar to the white dragons though his scales are like silver mirrors, his wings are more curved than a white's, and he has two talons on its wings rather than the single talon of most dragons. He has two long smooth silver horns with black tips, pointing up and back from the head he also has a pronounced sharp frill under the chin, which has the rough appearance of a goatee.{/He smells like rain.
+~
+dragon~
+ABDJKRSTace DEFGHJNOPTVZbc 1000 0
+102 1000 501d66+9091 500d10+85 100d20+200 frbite
+-228 -228 -228 -123
+EFIKLNO ADEIJNQRY EHIM M
+stand stand male 2147483647
+ACEHKMVZ ABCDEFGHIJKPQUVWX M unknown 0
+F res B
+F vul FI
+M GREET 1213 100~
+#1214
+Pale women~
+a raven-haired woman~
+A beautiful woman with raven-black hair and unblemished skin stands here.
+~
+~
+none~
+AB 0 -1000 0
+900 200 300d66+7281 200d10+85 50d100+500 none
+-86 -86 -86 -44
+0 EFGHIJKLMNOPQRTXYZ 0 0
+stand stand none 0
+I 0 M unknown 0
+#1215
+cleric tribunal~
+a Tribunal cleric~
+A cleric of the Holy Tribunal stands here, ready to pass judgement.
+~
+This devout individual is in his mid fifties, clad in a {Bsky blue{x
+robe.  A {Wsilver{x Medallion of Faith graces his throat, his thinning hair
+showing traces of gray.  Having proved himself in lifelong service to the
+Healer Goddess, Mishakal, he now serves as a member of the Tribunal; a
+select group of worshippers chosen to serve as the voice of the goddess upon
+the mortal plane.  
+~
+human~
+ABQ CDFHNc 1000 0
+120 120 180d40+3277 120d10+85 34d3+45 divine
+-47 -47 -47 -22
+EFJN ABDLNQ C 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1216
+large rat~
+a Large Rat~
+A large rat sits here.
+~
+~
+none~
+A 0 0 0
+10 10 15d3+92 10d10+85 2d5+8 none
+4 4 4 6
+0 0 0 0
+stand stand none 2147483647
+0 0 M unknown 0
+#1217
+tiny tester~
+tiny tester~
+The tiny tester is here
+~
+~
+human~
+AB 0 0 0
+50 50 75d16+456 50d10+85 14d3+21 none
+-14 -14 -14 -4
+0 Z 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK T unknown 0
+#1218
+test dummy~
+test dummy~
+You see Chem's test dummy here
+~
+~
+none~
+AI 0 0 0
+121 121 243d40+3667 121d10+85 40d3+65 none
+-72 -72 -72 -47
+0 0 0 0
+stand stand none 2147483647
+0 0 M unknown 0
+#1219
+Test Dummy 2~
+Chem's Dummy 2~
+You see Chem's second dummy here.
+~
+~
+none~
+ADIRS 0 0 0
+125 125 251d41+3787 125d10+85 41d3+67 none
+-75 -75 -75 -49
+0 D 0 0
+stand stand none 0
+0 0 M unknown 0
+#1220
+Dhervarah~
+Dhervarah~
+Dhervarah - the {bEmissary{X of the {cStorm{X is here.
+~
+Eyes of emerald green peer out from an older elven face. The elf's 
+complexion is dark blue, with a spray of lighter freckles across his nose and 
+forehead. Golden hair hangs over his face where it is too short to be pulled 
+back where the rest is gathered at the nape of his neck. There are lines 
+creasing his face, and while his features are those angular of a sea elf, his 
+gauntness simply adds to his aged look.
+ 
+Though he is obviously not crippled by age, seen by his confident posture 
+and the firm muscle filling out his slender form, he appears weathered and
+haggard, as though the years have not been kind to him. Over his chest, he
+wears a sleeveless leather guard that is secured by leather straps over his
+shoulders and around his torso. Beneath the armor, he wears a black shirt
+that hugs his skin and covers all but his forearms and neck. His legs are
+similarly clothed, with dark pants that are covered by sleek, hard leather
+guards on his shins, knees, and thighs, granting him ample movement and
+protection.
+
+Around his forearms are leather straps that hold a few small pouches, and 
+what skin can be seen on both arms is covered with intricate, seemingly self-
+inflicted scars depicting images and symbols of Zeboim. On his feet he wears 
+sandal-like shoes that are held to his feet in a similar fashion to the straps 
+on his arms, with a thin rubber sole protecting his feet. A pair of sheathed 
+daggers rest in plain sight at his hip.
+~
+dargonesti~
+AB JPQb -1000 0
+110 110 165d36+3004 110d10+85 31d3+41 punch
+-42 -42 -42 -19
+EFIKNQ BCKLMR B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 10
+#1221
+Kisla mother~
+Kisla~
+Kisla - the High {GDruid{x of {gChislev{x is here.
+~
+In front of you this beautiful elven woman from the top of her head to her perfectly shaped toes. She stands about five feet four inches tall. Her form is perfectly proportionate. Starting from the top of her head you would notice {YGolden locks {xof wavy hair with a rainbow of butterflys holding it up in places on her head. Strands of hair line her face bringing your eyes with the stands. Notice her soft lips, naturally the color of a beautiful {rrose{X.
+~
+kagonesti~
+A J 1000 0
+100 100 1d5+10000 0d0+0 12d30+150 slap
+-70 -70 -70 -70
+CDEFKN BCDKLMQR I 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#1244
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#1260
+Elven Druid~
+An Elven Druid~
+An Elven Druid stands here, contemplating everything.
+~
+Dressed in a forest-green cloak with inlaid gold designes, is an Elven
+druid, giving the aid of his knowledge and wisdom to all, while still living
+his life as one with nature.  His hair is a cascading flow of gold, his eyes
+deep blue.  His skin excedingly fair, and his voice intoxicating as wine. 
+Appearing as mostElves do, as weak, he has an air of strength about him, and
+even gives off a sense of importance and awe.  
+~
+elf~
+ABJKQRab J 1000 0
+100 100 50d50+500 50d50+5000 10d50+100 none
+-5 -5 -5 -5
+CDEFGHIKNO 0 JN 0
+stand stand male 10
+AHLMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#1265
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 IX 0 0
+stand stand none 0
+0 0 M unknown 0
+#1270
+noble steed unicorn chis~
+{xA Unicorn of Chislev~
+A noble steed, a Unicorn of Chislev, stands here.
+~
+A beautiful white Unicorn, an almost blinding white, stands before you. 
+On it's hind end, a mark resembling a golden branch has been branded.  The
+Unicorn's mane appears soft and perfectly straight, as if it had been
+brushed for hours and washed in berry oils.  The Unicorn even has a very
+pleasant odor about it, not an overpowerful smell, but rather one that is
+lightly pleasant to the senses.  Upon it's forehead is a great, long horn. 
+The horn is the color of a pearl, a milky white with a dazzling array of
+colors that resemble a rainbow, lightly swirling in with the white.  
+~
+horse~
+ABDIN SYZ 0 0
+1 1 2d2+10 1d10+85 1d2+5 beating
+8 8 8 9
+H 0 0 0
+stand stand none 0
+AGV ACDEFJKLQ L unknown 0
+F off FI
+#1280
+jailor human man guard prison~
+a prison guard~
+A prison guard stands here keeping an eye on you.
+~
+Here stands a prison guard with a very large frame.  His hair is cut
+short and his face is cleanly shaved.  He barely ever moves or speaks.  He
+only keeps a watchful eye on you.  
+~
+human~
+AB DF 0 0
+100 100 150d33+1821 100d10+85 28d3+38 beating
+-37 -37 -37 -16
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M RANDOM 1281 100~
+M SPEECH 1280 release me!~
+#1298
+mexican worker jorge~
+Jorge~
+A Mexican worker stands here picking vegetables.
+~
+~
+human~
+A 0 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#1299
+Testie~
+testie~
+Testie stands here looking proud
+~
+~
+human~
+A 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 1299 100~
+#0
+
+
+
+#OBJECTS
+#1200
+leveling orb~
+a {WLeveling{x {YOrb{x~
+WOW a leveling orb, WOW...~
+crystal~
+gem AGSUY 0 AQ
+0 0 0 0 0
+1 2 5 P
+A
+13 50
+A
+5 30
+A
+4 30
+A
+3 30
+#1201
+tome astinus book~
+the Tome of Astinus~
+A large leather bound book lays here.~
+leather~
+treasure UW 0 A
+0 0 0 0 0
+0 0 20 P
+#1202
+double drum ddrum~
+({yDwarven{X) a double-headed drum~
+Here lies a moderately large, doubleheaded drum, the drumhead is crafted of fine bat membrane, and the wood is a fine red color.  Intricate bat-like designs meld along the fine wood, and small forge-hammerlike drumsticks lay in tow at the sides.~
+wood~
+instrument Ge A AO
+0 0 0 0 0
+80 4 800 P
+A
+27 4
+A
+12 200
+A
+20 5
+#1203
+crown takhisis~
+the crown of Takhisis~
+A very beautiful but evil crown sits in the dust~
+unknown~
+treasure UW 0 A
+0 0 0 0 0
+0 0 20 P
+#1204
+grey gem~
+the grey gem~
+A mysterious grey gem floats here in the middle of the room~
+unknown~
+treasure UW 0 A
+0 0 0 0 0
+0 0 20 P
+#1205
+spell book Fistandantilus~
+the spell book of Fistandantilus~
+A black and silver bound spell book sits here giving off an evil aura~
+unknown~
+treasure UW 0 A
+0 0 0 0 0
+0 0 20 P
+#1206
+restring coupon~
+a {RR{WE{MS{BT{YR{GI{bN{wG{x coupon~
+This coupon is good for changing the short and long descriptions of an item as well as its name~
+unknown~
+trash e 0 A
+0 0 0 0 0
+0 0 35 P
+#1207
+home coupon~
+a {YHome{x coupon~
+This coupon will send you home to your recall. Simply eat it.~
+unknown~
+pill e 0 A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 50 P
+E
+home~
+A few words can me made out 'EAT ME'.
+~
+E
+coupon~
+A few words can be made out 'EAT ME'
+~
+O EAT 1207 100~
+#1208
+true faith coupon~
+a {CTrue Faith{x coupon~
+This coupon is good for setting your alignment to desired setting~
+unknown~
+trash e 0 A
+0 0 0 0 0
+0 0 200000 P
+#1209
+makeover coupon~
+a {BMake Over{x coupon~
+A coupon good for restringing 20 items~
+unknown~
+trash e 0 AX
+0 0 0 0 0
+0 0 500 P
+#1210
+Great Axe Wrath~
+({DUnholy{x) ({REvil{x) Great-axe of {DWrath{x~
+A huge great-axe with an evil aura is here.~
+steel~
+weapon ETYa A ANPc
+axe 10 18 wrath DEIJLMNOPQS
+123 15 1000000 P
+#1211
+quest note~
+a {MQuest{x note~
+This note is good for 3 restrings.~
+unknown~
+trash e 0 A
+0 0 0 0 0
+0 0 100 P
+#1212
+scimitar kingfisher~
+the "{BKingfisher's {WHelm{x"~
+A flawless scimitar lies here, inscribed with the symbol of Habbakuk.~
+platinum~
+weapon IKLTY 0 ANPc
+sword 15 15 wrath DELO
+123 10 0 P
+#1213
+staff lightstaff white magic~
+({WDivine{x) the {GLight{xstaff of {WWhite Magic{x~
+A 20 inch long silver hilt that emits two beams of light from its extremities in two opposite directions, giving this weapon the look of a staff, is here humming.{/An elegant weapon for a more civilized age.{/~
+magical fire~
+weapon ABGIKLSY 0 ANc
+staff 10 16 magic DEIKLMNOS
+121 4 500 P
+A
+22 -10
+A
+23 -10
+A
+24 -10
+A
+25 -100
+A
+20 -500
+A
+17 -50
+#1214
+harvester souls sickle~
+a sickle called "The {DHarvester{x of {YSouls{x"~
+A large sickle made of bone lies here, radiating the chill of the grave.~
+obsidian~
+weapon EJLY 0 ANc
+sword 15 15 slash CDEHIKLMNOP
+123 0 0 P
+A
+19 500
+A
+18 500
+A
+20 -500
+#1215
+staff misha blue crystal~
+the Staff of Mishakal~
+A shimmering staff of purest blue crystal lies here, glowing softly.~
+crystal~
+weapon AIKLY 0 ANc
+staff 15 15 thwack OQ
+123 4 0 P
+#1216
+hammer reorx~
+the {DHammer{x of {RReorx{x~
+A massive warhammer lies here, imbued with the strength of the gods.~
+unknown~
+weapon IJKTY A ANc
+mace 11 14 crush BDEGHIKMNS
+126 50 0 P
+A
+25 -10
+A
+24 -10
+A
+23 -10
+A
+22 -10
+A
+21 -10
+A
+25 -10
+A
+20 -500
+O GET 1216 1216~
+#1217
+blade axe justice~
+axe of {WJustice{x~
+A platinum axe lies here upon the floor, forgotten.~
+platinum~
+food AIKLY 0 ANPc
+0 0 0 0 0
+120 20 0 P
+A
+18 40
+A
+19 30
+A
+13 550
+A
+19 200
+#1218
+sleeping bag~
+a sleeping bag~
+A long, heavy sleeping bag lies here, inviting you to sleep inside it.~
+unknown~
+furniture e 0 A
+A DFGHIJ IL BD BD
+0 1 500 P
+#1219
+disease cloud flail~
+{yDisease {DCloud{x~
+A heavy rusted flail lays on the ground.~
+bone~
+weapon CEHIJSTY 0 ANPc
+flail 15 15 wrath HP
+123 2 0 P
+#1220
+staff gilean~
+({WHoly{x) the Staff of Gilean~
+A staff of smoky quartz lies here, the essence of light and dark swirling within it.~
+smoky quartz~
+weapon GHISTY 0 ANPc
+staff 15 15 divine EILMPQ
+123 0 0 P
+#1221
+clear brook~
+a {Ccrystal clear{x brook~
+A {Ccrystal clear{x brook winds its way through the trees.~
+soil~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#1222
+wrath pala~
+({CAncient{X) {RWrath{X of {WPaladine{X~
+This is {WPaladine's{X {RWrath!{X~
+unknown~
+weapon ABGIXY 0 ANPc
+dagger 16 16 wrath ABCDEGH
+108 0 10000000 P
+O GET 1222 1222~
+#1223
+staff black moon~
+({DObsidian{X) Staff of the {DBlack Moon{X~
+Standing straight up in mid air is a staff made from obsidian. It radiates the darkest of black magic, and is inscribed with many runes and depictions of the Black Moon.~
+unknown~
+weapon EG 0 ANO
+staff 15 15 wrath AGINP
+122 1 0 P
+#1224
+red moon magic~
+the {rMagic{x of the {RRed Moon{x~
+A field of crackling energy sits here, imbued with the power of Lunitari.~
+magic~
+weapon IJKSY 0 ANc
+exotic 15 15 magic IM
+123 0 0 P
+#1225
+throne~
+the {DThrone{x of {yMorgion{x~
+A large obsidian throne sits here, covered in rotting furs.~
+obsidian~
+furniture EO 0 0
+A ABCDEHJKPQ EHJ 0 BD
+0 0 0 P
+#1226
+basking rock~
+a basking rock~
+Here is a basking rock in the middle of the brook.~
+stone~
+furniture O 0 0
+BD BD DGJ BD BD
+0 14 0 P
+#1227
+stone fountain~
+a stone drinking fountain~
+A stone drinking fountain sits here in the middle of the room.~
+stone~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#1228
+mishakal altar white~
+a white limestone altar~
+A white limestone altar rests upon a raised dais in the center of the temple, with a clear bowl carved into the top and filled with crystal blue water.~
+crystal~
+fountain S 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#1229
+tattoo hiddukel~
+a tattoo of hiddukel~
+A tattoo of Hiddukel lies here.~
+ink~
+treasure MZ 0 AV
+0 0 0 0 0
+10 0 0 P
+#1230
+mace crusher hope~
+the {DCrusher{x of {bHope{x~
+A powerful heavy mace of blackened steel lies here, glowing with a cold light.~
+adamantite~
+weapon CEGJLTY 0 ANc
+exotic 15 15 wrath ABGHPQ
+123 1 0 P
+E
+sword~
+This wicked looking blade is of the blackest steel; forged in the fires
+of the Lords of Doom.  Glowing with a malevolent aura, its pommel is
+comprised of five intertwined dragon heads.  
+~
+#1231
+earring corruption hiddukel~
+{xEarring of {cCorruption{x~
+A brilliant earring lies here.~
+gold~
+treasure ABGMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1232
+hiddukel mark devotion~
+mark of devotion to Hiddukel~
+A mark of devotion to Hiddukel lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1233
+ashes ash death~
+{xAshes of Death~
+A Pile of ashes lie here.~
+magic~
+treasure GMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1234
+mark devotion chemosh~
+mark of devotion to Chemosh~
+A mark of devotion to Chemosh lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1235
+holy symbol mishakal~
+{xHoly Symbol of Mishakal~
+The Holy Symbol of Mishakal lies here.~
+gold~
+treasure ABIMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1236
+mark devotion mishakal~
+mark of devotion to Mishakal~
+A Mark of Devotion to Mishakal lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1237
+mark knowledge~
+the {mEternal {WLight{x of Knowledge~
+The ever-burning light of Knowledge lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1238
+mark devotion gilean~
+mark of devotion to Gilean~
+A Mark of Devotion to Gilean lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1239
+mark tattoo platinum dragon~
+{xTattoo of a Platinum Dragon~
+A Tattoo of a Platinum Dragon lies here.~
+magic~
+treasure BMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1240
+mark devotion paladine~
+mark of devotion to Paladine~
+A Mark of Devotion to Paladine lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1241
+mark martial valor~
+{xMark of Martial Valor~
+A Mark of Martial Valor lies here.~
+magic~
+treasure AMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1242
+mark devotion habbakuk~
+mark of devotion to Habbakuk~
+A Mark of Devotion to Habbakuk lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1243
+earing prosperity~
+{xEaring of Prosperity~
+The Earing of Prosperity lies here.~
+gold~
+treasure ABMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1244
+mark devotion shinare~
+mark of devotion to Shinare~
+A Mark of Devotion to Shinare lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1245
+pendant wisdom~
+{x Pendant of Wisdom~
+The Pendant of Wisdom lies here.~
+platinum~
+treasure ABMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1246
+mark devotion majere~
+mark of devotion to Majere~
+A Mark of Devotion to Majere lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1247
+branch raving beauty~
+{xBranch of Raving Beauty~
+The Branch of Raving Beauty lies here.~
+wood~
+treasure BMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1248
+mark devotion branchala~
+mark of devotion to Branchala~
+A Mark of Devotion to Branchala lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1249
+boils disease~
+{xBoils of Disease~
+Some Boils of Disease lie here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1250
+mark devotion morgion~
+mark of devotion to Morgion~
+A Mark of Devotion to Morgion lies here.~
+magic~
+trash EMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1251
+golden branch nature~
+{yGolden Branch{x of Nature~
+The {yGolden Branch{x of Nature lies here.~
+wood~
+treasure ABMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1252
+mark devotion chislev~
+mark of devotion to Chislev~
+A Mark of Devotion to Chislev lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1253
+searing scorch flame~
+{xSearing Scorch of {RFlame{x~
+A Searing Scorch of Flame lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1254
+mark devotion sirrion~
+mark of devotion to Sirrion~
+A Mark of Devotion to Sirrion lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1255
+embodiment destruction~
+{xEmbodiment of Destruction~
+An Embodiment of Destruction lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1256
+mark devotion sargonnas~
+mark of devotion to Sargonnas~
+A Mark of Devotion to Sargonnas lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1257
+mark holy justice~
+{xHoly Mark of Justice~
+The Mark of Holy Justice lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1258
+mark devotion kiri kiri-jolith~
+mark of devotion to Kiri-Jolith~
+A Mark of Devotion to Kiri-Jolith lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1259
+golden bracelet life~
+{YGolden Bracelet{x of Life~
+The Golden Bracelet of Life lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1260
+mark devotion zivilyn~
+{xmark of devotion to Zivilyn~
+A Mark of Devotion to Zivilyn lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1261
+scorch hatred~
+{xScorch of Hatred~
+The Scorch of Hatred lies here.~
+magic~
+treasure EMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1262
+mark devotion takhisis~
+mark of devotion to Takhisis~
+A Mark of Devotion to Takhisis lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1263
+rage storm~
+{xRage of a Storm~
+The Rage of a Storm lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1264
+mark devotion zeboim~
+mark of devotion to Zeboim~
+A Mark of Devotion to Zeboim lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1265
+scar battle~
+{xScar of Battle~
+The Scar of Battle lies here.~
+magic~
+treasure MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1266
+mark devotion reorx~
+mark of devotion to Reorx~
+A Mark of Devotion to Reorx lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1267
+essence red magic~
+{xEssence of {rRed Magic{x~
+The Essence of Red Magic lies here.~
+magic~
+treasure GMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1268
+mark devotion lunitari~
+mark of devotion to Lunitari~
+A Mark of Devotion to Lunitari lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1269
+shadow black magic~
+{xShadow of {DBlack Magic{x~
+The Shadow of Black Magic lies here.~
+magic~
+treasure GMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1270
+devotion mark nuitari~
+mark of devotion to Nuitari~
+A Mark of Devotion to Nuitari lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1271
+radiance white magic~
+{xRadiance of {WWhite Magic{x~
+The Radiance of White Magic lies here.~
+magic~
+treasure AGMSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1272
+mark devotion solinari~
+mark of devotion to Solinari~
+A Mark of Devotion to Solinari lies here.~
+magic~
+trash MSTYZa 0 V
+0 0 0 0 0
+1 0 0 P
+#1273
+swing~
+a simple swing~
+A simple swing is here, swaying back and forth in the wind.~
+unknown~
+furniture 0 0 P
+A ABCFGHIJ E 0 0
+0 0 0 P
+#1274
+magic white moon~
+the Magic of the White Moon~
+A field of crackling energy sits here, imbued with the power of Solinari.~
+magic~
+weapon 0 0 AN
+exotic 15 15 magic IOQ
+123 5 0 P
+#1288
+character free boost ticket wedding chis ziv hero~
+a wedding gift - hero's ticket~
+This ticket is good for boosting two mortal characters of any level, class, etc. to level 101.~
+paper~
+treasure OTa 0 A
+0 0 0 0 0
+110 0 0 P
+#1299
+draft papers~
+({yAuthentic{x) Draft Papers~
+A yellowed scroll rests here, marked with the wax seal of Palanthas.~
+parchment~
+trash S 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+papers~
+The scroll reads: "The bearer of these papers is hereby consigned into
+the service of the Palanthas Militia, and is to report to the nearest
+Solamnic officer at once.  Failure to abide by this lawful writ, or the
+orders of said Solamnic representatvie shall be punishable by imprisonment."
+ 
+Signed,
+Amothous, Lord Mayor of Palanthas
+~
+E
+scroll~
+The scroll reads: "The bearer of these papers is hereby consigned into
+the service of the Palanthas Militia, and is to report to the nearest
+Solamnic officer at once.  Failure to abide by this lawful writ, or the
+orders of said Solamnic representatvie shall be punishable by imprisonment."
+ 
+Signed,
+Amothous, Lord Mayor of Palanthas
+~
+#0
+
+
+
+#ROOMS
+#1200
+{cThe Solamnic Courthouse{x~
+This massive courthouse stands as a testament to craftsmanship.  The
+chairs, desks, and walls are all of a dark, rich oak.  At either end of the
+room are several rows of pews allowing for the audience to have a
+comfortable seating.  In the front, two distinct desks with several chairs
+exist for the prosecution and the defense.  The only place within the middle
+is the bench, for the judge to sit.  A variety of banners are placed at the
+walls, proudly displaying the Solamnic crests of the Crown, Rose, and Sword.
+Furthermore, an assortment of torches burn brightly, snuffing out the
+darkness.  
+~
+0 33596428 2
+S
+#1201
+{xThe {WVoid {xof {yPeace{x~
+The room does not exist in the conventional sense.  Rather, it more of an
+empty white void, with gravity virtually nonexistent.  If left for a length
+of time, objects will drift in a downward direction, only to be forced back 
+into position by a strange magical force.  At the center is a piece of liquid
+amber in a vaguely humanoid shape.
+~
+0 4 0
+S
+#1202
+The Red Moon~
+A gentle breeze stirs the dry, red powdery dust from the surface of the
+moon.  The dust swirls around a simple table and chairs sitting on the plain
+before you.  The chairs look comfortable and inviting as if the owner is
+inviting a weary traveler to sit and rest awhile.  
+~
+0 524316 0
+S
+#1203
+Majere's Training Room~
+All around you there is blackness, lighted with the glow of stars in the
+distance.  Although there are no visible walls, ceiling, or for that matter
+even a floor you get the sense you are in a room of vast porportions. 
+Scattered around you are numerous training dummies for various fighting
+styles.  Off to the side is a small wooden bench for visitors to sit on.  It
+is hard and uncomfortable like everything else in this room.  
+~
+0 566284 2
+S
+#1204
+Sirrion's {YWorkshop{X~
+A brightly lit workshop is suddenly before you.  The walls of the room
+are made solid by magic, allowing nothing but what is allowed in to enter
+the working space.  To the east side of the workshop is a table with some
+silverly liquid bubbling in a flash, and slowly dripping out into a phial. 
+On the other side a forge is constantly going, again by magic, keeping heat
+on something held in it by tongs.  A closer look reveals this thing is
+bubbling.  In the center is a flame that seems to go through every color of
+the visible cycle, even green, but doesn't give off heat.  Ancient books
+line the other two sides, except where diagrams have been drawn, on the wall
+and the floor, with esoteric runes, used for some unknown purpose.  
+~
+0 12 0
+S
+#1205
+Reorx's Forge~
+You are standing in front of a huge Forge.  The massive walls are made of
+precious metals and the ceiling is made with the material that formed the
+stars.  An immense heat emanates from the furnace, giving you the feeling
+that its fire will never end.  An iron anvil sits in the center of the room
+with a smithy's hammer on top.  A cooling pool stands near the corner, the
+waters calm and waveless.  You are standing in the place where Krynn was
+forged.  
+~
+0 1089548 25
+M 30000 H 30000
+S
+#1206
+Before the World Tree~
+You find yourself in a large, open field of tall green grass.  The land
+is lit a breath taking color of orange from the setting sun, and on the
+opposite end of the horizon, twinkling stars and the violet hues of the
+night sky can be seen.  In front of you, like one colossal skyscraper, a
+tree of size beyond the capability of words to describe is here.  It is
+Zivilyn, the Tree of Life.  
+~
+0 40972 3
+M 30000 H 30000
+S
+#1207
+Emergency Storage room~
+Many Kender have donated very large amounts of stuff to this room in
+times of need.  Some donated money, "whats money good for when you can find
+so many things for free?"  They say.  Some Kender just plain ran out of room
+for their own stuff, so they donate it to here.  
+~
+0 32772 0
+S
+#1208
+The Hall of Sargonnas~
+As one ventures through a pair of blackened metal doors, one will notice
+two lush velvet, crimson banners streaming down from the top of the stone
+crafted ceiling, moving towards the floor, each brilliantly emblazoned with
+a condor, flying near an exploding volcano.  Weapons of masterful crafts are
+on display amongst shelves across the east and western sides of the room. 
+Along a carpet of black cloth that rolls forwards to the north, towards the
+streaming banners, are statues of various minotaur and humans, all of them
+in an elegant fighting pose.  Obsidian pillars support the ceiling, and
+carved into them are works of art, most of which are some of his most devote
+followers performing their vengeful deeds in his name.  An obsidian throne
+sits upon a raised platform, intricatly carved of obsidian and onyx, with
+rubies embedded into key parts of the throne, and a crimson cushion upon
+which he sits.  Should he find anyone in his favor, he may give them some of
+his battle prowess, and his teachings...  
+~
+0 40972 0
+S
+#1209
+Hiddukel's Lair~
+Walls made of Black Gold inset with sparkling jewels, encircle you as you
+find yourself in some sort of Unknown Lair.  An overwhelming power of Greed
+starts to corrupt your mind, making you feel very eager to start picking at
+the walls in hopes of becoming rich.  Slightly out of place, a back wall is
+lined with chains and shackles dangling down; skeletons of past slaves still
+cuffed to them.  Rich purple drapes with gold stitched lining can be seen
+drooped all over the place, giving you the feeling of divine wealth and
+power.  
+~
+0 44572684 11
+S
+#1210
+{WThe Meeting Room of the Gods{X~
+You stand in a massive hall.  The ceiling is so high you can not see its
+end.  The floor is made of black obsidian and the walls Red rose marble.  A
+white light penetrates the darkness of the ceiling and iluminates the room. 
+~
+0 18915340 0
+S
+#1211
+Takhisis's Abyss~
+A bleak and desolate place, nothing but a flat grey emptiness can be seen
+in any direction.  The dismal sky is equally grey and featureless; the air
+around you stale and oppressive.  A deep feeling of despair pierces your
+soul, to be replaced only by an even more frightening apathy.  Beginning to
+lose the will even to move, you find yourself struggling to remember how you
+even came to be here...  
+~
+0 2138124 16
+S
+#1212
+{GH{Yabbaku{GK{x's Mountain Top Resort~
+This wonderful spa/resort is high up in the tropical mountains of some
+island deep in the Courrain Ocean.  Elven and human women run around the
+place serving, pampering, and entertaining guests from all over krynn.  At
+times, the lesser gods from other realms come here to enjoy the same sights
+and sounds the mortals enjoy here.  A soft and warm ocean breeze flows
+through the trees here; rustling the tall palms in an almost harmonious
+pattern.  
+~
+0 33796 1
+M 99 H 99
+S
+#1213
+{WSolinari's Moon Base{x~
+You feel lighter, as if the gravity has changed. You look around and you see
+everywhere weird contraptions as well as many consoles filled with hundreds
+of flashing lights with different {yc{ro{bl{mo{cu{Gr{Rs{X upon them. 
+{X  Millions of books and scrolls, mainly spell books are organized by name and
+content in countless mile-long bookshelves, here and there some metallic life
+forms of some kind, much more sophisticated and well behaved to be gnomish
+inventions, roam free picking up books and putting them on their rightful
+place. The light of the room is being provided by a wide skylight and by some
+glowing {ccrystals{X.
+{X  On your left you notice a messy desk facing a huge window. As you look outside
+through it you see a desolated white dust plain, but what catches your
+attention is the {Ddark sky{X, no {cblue{X, no {Wclouds{X you see only two moons and a
+huge orb like thing floating in the back...
+ 
+You take a wild guess...
+ 
+That is Krynn...
+~
+0 59768844 47
+M 30000 H 30000
+S
+#1214
+Throne Room of Chemosh~
+The darkness of this hall nearly has a physical form.  The ground is soft
+like grave soil and bones can be felt breaking under foot.  Huge pillars
+made from the bones of those who have died in service to Chemosh stand in
+rows leading up to a massive throne made of bronze.  The presence of various
+tortured spirits lurk within this place, and from time to time, they
+writhe within the pillars of bone.  At the end of this great hall sits a
+massive throne made of bronze.  Piled around the throne are skulls of
+various races, and atop the throne suspended in the air, is Chemosh's
+constellation.  Muffled cries of pain and suffering can be heard from the
+aura around it and the faces of the tortured dead emerge from it's surface
+from time to time.  Emblazoned on the back of the throne is a giant ram's
+skull, the horns twisted and curled in a horrible fashion.  The sense of
+death that comes from this place can be directly felt.  
+~
+0 40972 0
+S
+#1215
+The Hall of the Healer~
+Limestone makes up the entirety of the foundation to this open temple
+area, which expands graciously until coming to an abrupt end at all four
+sides.  Beyond the white stone, calm blue water laps at the steps of the
+temple, surrounding the area entirely and leaving the temple isolated with
+nothing on the horizon.  White pillars rise up to support the high ceiling,
+allowing the breeze to blow through the temple's spacious area.  There is
+little else of notice, save for the various depictions of Mishakal carved
+into many of the pillars.  Unless one were to swim for miles, there does not
+seem to be an obvious way out of this little piece of paradise, though why
+one would want to leave might be beyond the imagination.  
+~
+0 2138124 0
+S
+#1216
+Shinare's Factory~
+This huge factory is filled with machines of all description from
+throughout time.  This is clearly an homage to the Queen of industry
+herself.  Large golden griffins watch over the workers here waiting to
+consume the slovenly.  
+~
+0 2138124 0
+S
+#1217
+Kiri-Jolith's Domain~
+Various weapons of war surround this great hall, filling nearby weapon
+racks. A huge table lies in front of you, with military maps positioned
+all over it and small figurines placed on them.  Banners drape down from the
+ceiling, and torches are lined all along the sides of the marble hall. 
+Sculptures of Sword Knights line the walls, their names inscribed onto their
+shields.  A white marble throne sits underneath a massive sculpture of a
+Minotaur, carved out of the base.  A fountain carved into the image of Huma
+and his Dragon stands in the center of the Hall, water trickling from the
+Dragon's mouth.
+~
+0 40972 1
+M 30000 H 30000
+S
+#1218
+{rThe Infinite Layers of the Abyssal Hells{x~
+The most horrible and terrifying place in all of existence known to man -
+the Abyss.  It is measured in layers which are boundless and infinite.  Its
+planar traits are the stuff of chaos and evil.  For the most part it is a
+smoldering pit of fire which makes home for an untold number and variety of
+demons.  The terrain is ever changing, however, and it is possible for one
+stretch of the realm to be vastly different from the last.  Lost souls who
+made their wicked ways in life find themselves here to be tortured into
+basic divine energy for demons to feed from for all eternity.  It is known
+that Takhisis herself makes her home here in the Abyss and is one of the
+greater forces at work here on this plane.  If that weren't enough, demon
+lords that closely match the power of gods also reside here, forever
+plotting diabolical schemes against mortals and gods alike to one day be the
+greatest of powers.  
+~
+0 32780 0
+S
+#1219
+{yBronze{x Tower of {DMorgion{x~
+Gazing out of the glassless windows of the tower would reveal the Abyss,
+in all of its hellish horror.  The screams of tortured spirits and maddening
+whispers of unseen demons pierce the eternal darkness.  Louder still is the
+buzzing of all manner of carrion.  One should be cautious with their step,
+else they indirectly find the scurrying, squeaking rats that call the bronze
+tower their home.  The surrounding air reeks of decay -- as if a grave had
+been left open for its rotting contents to fester.  Tattered banners of
+mildewed fabric line the walls, bearing all the wretched symbols of the Dark
+Pantheon.  A plethora of scriptures composed on charred skin litter of the
+ground, barely visible against the black marble floor.  At the end of the
+room resides a large throne, built of stacked corpses in various stages of
+decay and covered in rotting furs.  The bodies are in a permanent stage of
+rigor mortis, bones sticking out like spikes in open fractures.  The throne
+is obviously the centerpiece, with the only sources of illumination being
+two eternally burning torches that singe at the flesh.  
+~
+0 2138124 36
+M 1000 H 1000
+S
+#1220
+{dGilean's Library{x~
+Books line the cavernous walls of this chamber from floor to ceiling;
+stretching beyond sight.  Rolling ladders line the massive shelves, and
+gargantuan tables as large as vallenwood trunks groan under the weight of
+piles of books, ledgers, and other assorted stacks of loose papers,
+parchments and the like.  Every now and again, the form of Gilean himself
+can be seen wandering to and fro, as he tries to sort out the entire
+accumulated knowledge of Krynn.  
+~
+0 40972 0
+S
+#1221
+Chislev's Glade of Nature's Harmony~
+Nature abounds here.  Tall, soaring trees stretch high into the air
+around this peaceful glade, which is absolutely teeming with life.  Small
+birds flitter in and out of the green branches, while the cool hum of
+insects wafts through the light breeze.  A brook babbles as it crosses
+through one side of the clearing, falling over ancient water-tumbled rocks
+and winding its path back into the trees.  Animals wander openly in and out
+of the glade, and the cries of all manner of beasts can be frequently heard.
+Every now and again, a tree even begins to move.  These are the animated
+wood creatures that serve the Goddess of the Natural World.  This is a place
+of Nature at rest; ever changing and ever cycling, where the contrivances of
+the industrial world seem so distant as to not even exist.  
+~
+0 40972 3
+M 30000 H 30000
+S
+#1222
+The Description Room~
+Welcome to the Description Room.  You have been placed here because you
+either have no description, or your description does not meet the minimum
+requirements.  Please read {WHELP DESC{x carefully, and restrict your
+description to things that can be SEEN.  You are not writing a history of
+your character but rather a physical description.  All descriptions must be
+a MINIMUM of 4 full lines after formatting.  {BWhen you are finished, send a
+PRAY to have any available Immortal check your description and release you{x.
+~
+0 2130956 0
+S
+#1223
+Nuitari's Laboratory~
+Here in this room is an immense amount of books.  Books of all sizes and
+length.  Three of the walls are covered in book shelves stacked with books. 
+In the middle of the room is a large obsidian table, with the instruments
+needed for research of all kinds.  The walls are made of the blackest
+obsidian ever seen.  There are black flame candles in the middle of each
+wall, casting an eerie shadow across the room.  The floor is bare except for
+the marks of failed experiments, scorch marks and blood stains to say th he
+least.  Hanging from the very high ceiling is a black crystal chandelier,
+lit with black flames.  There is no exit to be seen in the dark and dreary
+laboratory.  The chandelier protrudes from the center of a depiction of the
+black moon on the ceiling of the room.  The fourth and final wall in the
+room houses a large closet area, the door to the closet is wide open
+revealing a over large room filled with spell components.  The room also
+holds other dark objects used in the research of black magic.  
+~
+0 40972 0
+S
+#1224
+{bZeboim's Grotto{X~
+This dark cave feels much smaller than it is thanks to the lack of a good
+light source.  The waters are cold and heavy here, but the gift of breathing
+may be granted by the fickle goddess who dwells here.  Her throne of bone,
+dead coral, and shattered shells is organized into an impressive display of
+what appears to be the fins of a giant sea creature.  Only around this place
+are there any lights, in the form of glowing crystals on pedestals.  
+~
+0 8430605 43
+S
+#1225
+The Streets of Nowhere~
+You stand in a vacant lot, sand at your feet.  The harsh wind here sends
+dirt flying into your eyes.  The air is moist, yet the ground is not damp.  
+~
+0 8388628 41
+D5
+It's an iron manhole, just pull it, and it will open.
+~
+manhole~
+1 0 1226
+S
+#1226
+{CA Cold Crystal Cavern{x~
+This part of the mountain has a wondrous formation of natural crystals. 
+The walls, ceiling and floor are all lined in crystal growth.  Stalagmites
+and stalactites that grow here are also made of wondrous and transparent
+crystal.  There is no one solid color to the beautiful gems that grow here. 
+Hues of {rred{x, {mpurple{x, {bblue{x, {Mpink{x, {Yyellow{x, {Ccyan{x, {ggreen{x and all sorts of other
+wondrous colors can be found in this beautiful cavern.
+~
+0 4195340 5
+D0
+~
+~
+0 0 1227
+D4
+It's an iron manhole, just push it, and it will open.
+~
+~
+1 0 1225
+S
+#1227
+A Garden in the Center of the Earth~
+Though you are deep undergroud, you can feel the touch of {Ggreen{x grass
+brushing against your feet.  Wow a lustful garden has appeared in front of
+you.  Beautiful trees of {Ggre{yen{x, red {droses{x too, a babbling
+{Cbrook{x with clear water and even birds and animals can be found here. 
+{/It looks as if you are in an enchanted forest, clearly some god had his
+hand on creating this place.  
+~
+0 50331648 3
+E
+rose~
+A beautiful red rose is here releasing an awesome fragrance.  
+~
+D2
+~
+~
+0 0 1226
+M 500 H 500
+S
+#1230
+{yA Dimly-Lit Shack{X~
+The air in this shack seems heavy with moisture, making the dim
+surroundings seem to press in closely.  Hanging on the walls are a
+collection of carvings, some rather crude, but all depicting forms of the
+Sea Goddess.  Wooden tables and shelves line the walls, and in the center of
+the room is a cushioned seat comprised of a wicker frame and oblong pillow. 
+On the far wall, the only wall devoid of decor or shelving, there is a very
+odd, hollow crystalline formation holding some kind of liquid.  It is
+enormous, capable of holding at least an entire person.  
+~
+0 17335308 0
+E
+crystalline liquid~
+The crystalline formation is a pale white hue.  In the low light, a muted
+spectrum of color is reflected, but the surface is translucent, and the
+contents concealed behind a milky sheen.  The water held within, upon closer
+inspection, is no more than seawater.  
+~
+S
+#1257
+Unused~
+~
+0 2138116 0
+S
+#1275
+~
+~
+0 4 0
+S
+#1280
+A Damp Jail~
+You find yourself inside of a small, damp jail.  Iron bars prevent you
+from escaping.  Only a small trough lies here for you to keep yourself
+hydrated.  There doesn't even appear to be a cot for you to rest on.  The
+only thing keeping you company and from going insane is the Warden standing
+just on the other side of the bars, and the prison guard standing right here.
+ 
+{x  A large sign is bolted into the wall.
+~
+0 2401292 0
+E
+sign~
+You are being punished for the heinous crimes you have commited. Once your
+sentence is up, you may be released back into society.
+ 
+To get out of jail, you must SAY outloud: release me!
+ 
+Be sure to become visible so the Guard can release you. To do this, type VIS.
+Yes, punctuation can make a difference. The length of your sentence is
+however long you're affected by shackles.
+~
+S
+#1299
+{CArmory of the Gods{x~
+You have walked straight into a glorious white marble room.  Pillars of
+white marble and purple velvet carpet line this rectangular room.  There are
+no other decorations within this room.  At the very end, a lone pile of
+glorious golden weapons and armor shine brilliantly.  Getting closer you
+make out more and figure that these are the weapons of the gods.  
+~
+0 2129932 0
+S
+#0
+
+
+
+#SPECIALS
+M 1209 spec_executioner
+M 1210 spec_hometownchanger
+M 1213 spec_breath_frost
+M 1260 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 1225 5 1
+D 0 1226 4 1
+O 0 1273 0 1202
+M 0 1212 1 1202 1
+M 0 1205 1 1205 1
+M 0 1210 1 1209 1
+M 0 1213 1 1213 1
+E 0 1213 0 20
+M 0 1214 1 1214 1
+E 0 1214 0 20
+O 0 1228 0 1215
+O 0 1221 0 1221
+M 0 1221 1 1221 1
+O 0 1227 0 1222
+M 0 1220 1 1224 1
+O 0 1221 0 1227
+M 0 1280 1 1280 1
+S
+
+
+
+#SHOPS
+1201 0 0 0 0 0 150 75 0 23
+1202 0 0 0 0 0 0 0 3 23
+1214 0 0 0 0 0 100 100 0 0
+0
+
+
+
+#MOBPROGS
+#1205
+if org $n 'conclave'
+say I just hate mages. What do you want from here?
+say Don't bother to answer.
+echoaround $n $N Just disappears.
+mob transfer $n 9072
+else
+ if org $n 'holyorder'
+ say Mishakal follower? Do i look like Mishakal?!
+ echoaround $n $N Just disappears.
+ mob transfer $n 3054
+ else 
+  if org $n 'solamnic'
+  say Such a beautiful creature, all shining and all. Pffffff.
+  echoaround $n $N Just disappears.
+  mob transfer $n 15775
+  else 
+   if org $n 'artisans'
+   say My Master, welcome. How may i serve you?
+   mob transfer $n 400
+   else 
+    if org $n 'forester'
+    say A walking tree? What else will i see on my life? 
+    echoaround $n $N Just disappears.
+    mob transfer $n 2979
+    else 
+     if org $n 'kot'
+     say A Dark Queen follower.. Are you sure about your choices? 
+     say Go think about that.
+     echoaround $n $N Just disappears.
+     mob transfer $n 12287
+     else 
+      if org $n 'blackorder'
+      say Don't tell me, your another fish?
+      say Go swim.
+      echoaround $n $N Just disappears.
+      mob transfer $n 1671
+      else 
+       if org $n 'aesthetic'
+       say Why are you caring that book?
+       Say do i look like someone that want's to read?
+       echoaround $n $N Just disappears.
+       mob transfer $n 16338
+       else 
+        if org $n 'undead'
+        say Are you kidding me? You can even stand straitgh.
+        say Go to your God.
+        echoaround $n $N Just disappears.
+        mob transfer $n 4838
+        else 
+         if org $n 'thieves'
+ say I can't even say what you are.
+ echoaround $n $N Just disappears.
+ mob transfer $n 1815
+ else 
+  if org $n 'mercenary'
+  say You came here cause of my head.
+  say You wish.
+  echoaround $n $N Just disappears.
+  mob transfer $n 3350
+  else
+   say Go find out some GOD for you. 
+   say You are nothing around here.
+   echoaround $n $N Just disappears.
+   mob transfer $n 410
+  endif
+ endif
+endif
+       endif
+      endif
+     endif
+    endif
+   endif
+  endif
+ endif
+endif
+endif
+~
+#1209
+say Hello....
+pause 50
+say I have paused for 50 pulses!
+pause 100
+say I now have paused for 100 pulses!
+~
+#1213
+if name $n 'Solinari'
+say Hello master, have you brought me a treat?
+else
+say Greetings, What brings you to my presence?
+break
+endif
+endif
+~
+#1260
+~
+#1280
+if affected $n shackles
+say Your sentence hasn't expired yet!
+say When I see the prison wardens have removed your shackles, I shall release you at your request.
+break
+else
+mob echoat $n $I nods and utters a few arcane words.
+mob echoat $n {x
+mob transfer $n 3054
+endif
+~
+#1281
+if objhere bread
+break
+else
+MOB OLOAD 17537 1 room
+endif
+~
+#1299
+if isimmort $n 
+bow $n 
+else
+if level $n < 15
+say hello 
+else
+laugh $n
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#1205
+if name $n reorx
+break
+endif
+obj echo You are trying to pick up {RReorx{x's Hammer, but the power of {Reorx{x makes $n step back.
+obj force $n drop wrath
+obj echo {RReorx'{xs Hammer suddenly vanishes before your eyes!
+obj otransfer reorx 1205
+~
+#1207
+obj sendhome $n
+~
+#1213
+if name $n solinari
+break
+endif
+obj echo You are trying to pick up the {GLight{xstaff of {WWhite Magic{x, but the power of the almighty Solinari makes $n step back.
+obj force $n drop lightstaff
+obj echo the {GLight{xstaff of {WWhite Magic{x suddenly vanishes before your eyes!
+obj otransfer lightstaff Solinari
+obj echo the {GLight{xstaff of {WWhite Magic{x says 'Hey Solinari, It's dangerous to go alone pick me up, common hurry.'
+~
+#1216
+if name $n reorx
+break
+endif
+obj echo You are trying to pick up Reorx's Hammer, but the power of {RReorx{x makes you step back.
+obj force $n drop hammer
+obj echo {RReorx'{xs Hammer suddenly vanishes before your eyes!
+obj otransfer hammer 1205
+~
+#1222
+if name $n paladine
+break
+endif
+obj echo The awesome power of {WPaladine's{X {RWrath{X compells $n to drop the weapon!
+obj force $n drop wrath
+obj echo {WPaladine's{X {RWrath{X suddenly vanishes before your eyes!
+obj otransfer pala 1200
+~
+#1248
+if isnpc $n
+obj force $n drop $i
+endif
+~
+#1257
+if name $n lunitari
+break
+endif
+obj echo The red staff magically slips through $n hands and falls to the floor!
+obj force $n drop 001
+obj echo The long red staff stands up and opens a hole on the ground, vanishing through it.
+obj otransfer 001 1257
+~
+#0
+
+#ROOMPROGS
+#1200
+~
+#0
+
+#$

@@ -1,0 +1,1623 @@
+#PLAYER
+Name Adamastor~
+Surname Xino~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1051529683
+LogO 1400620024
+Vers 10
+Act  CDGHQTe
+Desc Before you stands a huge minotaur, tall and with a skin hard has a rock
+
+and coloured in a myst of brown and red. He has the biggest battleaxe
+
+you've ever seen. He treats the weapon like he's good, old, faythfull
+
+friend. He is one of the living part of the natures power. He's breath
+
+just takes your's away...
+
+~
+Prom {R%h/%H {B%m/%M {G%v/%V {W%g {y%X {D%a{x %e{R>{x ~
+Race minotaur~
+Sex  1
+Cla  3
+Hmtown 0
+Levl 81
+recall_point 3001
+Levscale 30
+Xptolev  297920
+Sec  0
+Plyd 950771
+Not  1127989835 1126774572 0 1394924092 1126774569
+Scro 78
+Room 3369
+HMV  1941 1941 326 326 580 580
+Steel 1071
+Gold 29192
+Bank 22891
+Exp  4233630
+AfBy T
+Deaths 6
+FlagTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1572864
+Comm NO
+Pos  8
+Prac 3
+Reward_timer 98
+Save  -21
+Alig  614
+Ethos 1
+Hit   39
+Dam   54
+ACs -287 -253 -352 -216
+Wimp  300
+Attr 29 20 19 18 23 10
+AMod 12 2 6 7 3 2
+Pass AdzSStNiA4COE~
+Titl  the Master of Iron~
+Pretit ~
+Pnts 15
+TSex 1
+LLev 261
+HMVP 1666 286 580
+Cnd  0 24 24 100
+QuestPnts 30
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 95 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 75 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 94 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 80 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 81 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 1 'sharpen'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 92 'battle tactics'
+Sk 75 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'minotaur tongue'
+Sk 50 'recall'
+Sk 75 'bow'
+Sk 75 'bind wounds'
+Sk 100 'breakneck'
+Sk 100 'guard'
+Sk 100 'headbutt'
+Sk 76 'mounted combat'
+Sk 75 'impale'
+Sk 100 'cleave'
+Sk 94 'trammel'
+Sk 94 'flank attack'
+Sk 94 'staff'
+Sk 1 'eyerub'
+Sk 94 'finger break'
+Sk 77 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'levitate'   0  88  71   0   0     524288
+Affc 'shrink'   0  91  67  -1  30          0
+Affc 'giant strength'   0  84  43   4   1          0
+Affc 'enlarge'   0  83  39   1  30          0
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 94
+Wear 18
+Cost 30000
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 94
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 88
+Mat  oak~
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11212
+Nest 0
+Cond 95
+Wear 1
+Cost 50
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Mat  stone~
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 17547
+Nest 0
+ExtF 16777216
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 12233
+Nest 0
+ExtF 0
+Cond 97
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 17552
+Nest 0
+Cond 100
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4640
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name glass vial potion potion~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  38
+Cost 500
+Val  19 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name glass vial potion potion~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  38
+Cost 500
+Val  19 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name glass vial potion potion~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  38
+Cost 500
+Val  19 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name glass vial potion potion~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  38
+Cost 500
+Val  19 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name glass vial potion potion~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  38
+Cost 500
+Val  19 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 10105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 1208
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 156 0 0 0
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 9868
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 11969
+Nest 0
+ExtF 0
+Cond 100
+Wear 12
+Cost 96
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Mat  leather~
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 17553
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8711
+Nest 1
+ExtF 524288
+Cond 100
+Wear -1
+Cost 7955
+Val  8 13 11 34 41
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 1
+ExtF 0
+Cond 17
+Wear -1
+Cost 46000
+Val  4 8 18 8 64
+End
+
+#O
+Vnum 8711
+Nest 1
+ExtF 524288
+Cond 100
+Wear -1
+Cost 7955
+Val  8 13 11 34 41
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 99
+Wear -1
+Cost 15500
+Val  2 10 10 33 13
+End
+
+#O
+Vnum 10611
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 1895
+Nest 0
+ExtF 0
+Cond 100
+Wear 5
+Cost 4500000
+End
+
+#O
+Vnum 1627
+Nest 0
+Cond 99
+Wear -1
+Cost 15500
+Val  2 10 10 33 13
+End
+
+#O
+Vnum 13715
+Nest 0
+ExtF 0
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 95
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 17551
+Nest 0
+Cond 97
+Wear 13
+Cost 100
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 79
+Wear 19
+Cost 30000
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 0
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 91
+Mat  oak~
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 98
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 98
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 17555
+Nest 0
+Cond 100
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 9826
+Nest 0
+Cond 79
+Wear 20
+Lev  43
+Cost 12000
+Val  5 5 27 25 106
+End
+
+#O
+Vnum 11212
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#END

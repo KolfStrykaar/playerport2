@@ -1,0 +1,1677 @@
+#PLAYER
+Name Shogun~
+Surname Gum~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1216975988
+LogO 1399317252
+Vers 10
+Act  CDGTe
+Desc A tall, heavy figure stands before you. His body is covered by a vest made
+of animal skin stained with blood, in one of his hands he holds a huge
+bloodstained axe and in the other you can see a shield made of bones.
+~
+Prom {R%h/%H {B%m/%M {G%v/%V {W%g {y%X {D%a{x %e{R>{x ~
+Race ogre~
+Devotee 13
+Sex  1
+Cla  6
+Hmtown 0
+Levl 98
+recall_point 3001
+Levscale 30
+Xptolev  727917
+Sec  0
+Plyd 1263915
+Not  1388019326 1221065822 0 0 1298827134
+Scro 78
+Room 4860
+HMV  3537 3537 736 736 709 709
+Steel 87950
+Gold 3146020
+Bank 242800
+Exp  14418233
+AfBy DF
+Deaths 12
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2031616
+Comm NO
+Pos  8
+Prac 63
+Trai 10
+Save  -86
+Alig  -1000
+Ethos 0
+Hit   72
+Dam   71
+ACs -485 -490 -486 -462
+Wimp  200
+Attr 24 14 16 17 30 10
+AMod 15 5 11 15 12 0
+Pass Shh2uiLX3Amqg~
+Titl  the Master of Brute Strength~
+Pretit ~
+Pnts 6
+TSex 1
+LLev 337
+HMVP 2672 321 709
+Cnd  0 31 63 0
+QuestPnts 63
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 58 'flail'
+Sk 100 'mace'
+Sk 97 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 85 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 69 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 1 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 1 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'whirlwind'
+Sk 100 'butcher'
+Sk 100 'ravage bite'
+Sk 1 'dual wield'
+Sk 100 'mount'
+Sk 17 'nerve pinch'
+Sk 24 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'common'
+Sk 100 'ogre tongue'
+Sk 91 'lore'
+Sk 50 'recall'
+Sk 1 'bind wounds'
+Sk 82 'breakneck'
+Sk 100 'guard'
+Sk 68 'headbutt'
+Sk 100 'shield rush'
+Sk 3 'mounted combat'
+Sk 100 'cleave'
+Sk 100 'sidestep'
+Sk 4 'entwine'
+Sk 100 'staff'
+Sk 2 'eyerub'
+Sk 49 'finger break'
+Sk 1 'execute'
+Sk 1 'earpunch'
+Sk 1 'brainjar'
+Sk 4 'rupture organ'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'arrow deflection'
+Affc 'frenzy'   0  92   9  16  18          0
+Affc 'frenzy'   0  95   9  16  19          0
+Affc 'frenzy'   0  97   9  80  17          0
+End
+
+#O
+Vnum 1256
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 94
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 96
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 97
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 97
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name tattooed Intracate black rose Thorns~
+ShD  ({rIntracate{x)({rTattooed{x) {DBlack {rRose  {xIntwined in {rThorns{x~
+Desc a sleeve of tattooes riped from the flesh of its owner lies here.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 91
+Mat  wool~
+Wear 13
+Lev  89
+Cost 890
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262144
+Cond 88
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5833
+Nest 0
+ExtF 262144
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 98
+Wear -1
+Cost 6500
+Val  500 5 0 150 100
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 8
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  plant~
+Wear -1
+Lev  100
+Cost 1000
+Val  1 10 14 1 0
+End
+
+#O
+Vnum 12262
+Nest 1
+ExtF 10
+Cond 92
+Wear -1
+Cost 0
+Val  1 5 26 3 77
+End
+
+#O
+Vnum 9405
+Nest 1
+Name demon sword merciless~
+ShD  {Dthe demon sword '{rMerciless{x{D'{w'{x~
+Desc An unholy sword rests here, emitting an evil glow.~
+Cond 84
+Wear -1
+Cost 0
+Val  1 10 12 11 33358
+End
+
+#O
+Vnum 12251
+Nest 1
+ExtF 16779870
+Cond 100
+Wear -1
+Cost 4435
+Val  4 10 13 7 100
+End
+
+#O
+Vnum 12251
+Nest 1
+ExtF 16779870
+Cond 100
+Wear -1
+Cost 4435
+Val  4 10 13 7 100
+End
+
+#O
+Vnum 12251
+Nest 1
+Cond 93
+Wear -1
+Cost 4435
+End
+
+#O
+Vnum 2602
+Nest 1
+ExtF 1034
+Cond 100
+Wear -1
+Cost 1000
+Val  1 8 20 3 65792
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 49
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 94
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11331
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11331
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 72
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 1
+ExtF 17039957
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 1
+ExtF 17039957
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1854
+Nest 1
+Cond 94
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 14550
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14551
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 1
+Cond 100
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 12233
+Nest 1
+ExtF 0
+Cond 99
+Wear -1
+Cost 94
+End
+
+#O
+Vnum 9426
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12266
+Nest 1
+Cond 100
+Wear -1
+Cost 94
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Maerty's blood~
+Desc A jar of Maerty's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 82
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 88
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 16366
+Nest 1
+Cond 91
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2972
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  5 12 13 21 106
+End
+
+#O
+Vnum 9059
+Nest 1
+ExtF 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9059
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 1
+ExtF 0
+Cond 94
+Wear -1
+Cost 46000
+Val  4 8 18 8 73
+End
+
+#O
+Vnum 9831
+Nest 1
+Cond 94
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 3011
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 81
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear -1
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 9059
+Nest 0
+ExtF 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12251
+Nest 0
+ExtF 8
+Cond 75
+Wear -1
+Cost 4435
+Val  4 10 13 7 101
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 99
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 97
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 76
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 92
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 2954
+Nest 0
+ExtF 262144
+Cond 85
+Wear 12
+Cost 500
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 95
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 12221
+Nest 0
+Cond 86
+Wear -1
+Cost 4830
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 94
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 9405
+Nest 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 14278
+Nest 0
+Cond 97
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 8711
+Nest 0
+Cond 99
+Wear -1
+Cost 7955
+End
+
+#O
+Vnum 8711
+Nest 0
+Cond 100
+Wear -1
+Cost 7955
+End
+
+#O
+Vnum 9413
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9413
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  43 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 14007
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 94
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 97
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 76
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 5700
+Nest 0
+Name war axe~
+ShD  a war axe~
+Desc A huge axe which looks like it's seen war lies here.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 87
+Mat  steel~
+Wear 20
+Lev  110
+Cost 1100
+Val  5 10 16 9 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

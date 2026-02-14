@@ -1,0 +1,1290 @@
+#PLAYER
+Name Agoneizar~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1307852414
+LogO 1392765001
+Vers 10
+Act  CDGHQTe
+Desc A horrifying minotaur, at least by normal standards, stands before you.
+The grotesque creature stands to be eight feet in height, clad in some
+vile, black and red robes.  The creature's head is stripped of flesh,
+showing bare bone that appears charred, blackish and cracked.  Two great
+horns protrude from the top of his head, curling like that of a ram's and
+ending in vicious sharp points.  In place of normal teeth, sinister sharp
+teeth like that of a dragon's line the mouth of this unsightly creature.
+This minotaur's black robes do well to cover up most other features of its
+body.  From the ends of the robe's sleeves, strong hands with brown fur
+hang relaxed.  Two large black demon wings eject from his back, whether
+folded up against it or spread out to fly or intimidate depending.  Blood
+stains the beautiful fabric of his black robes here and there, seeming to
+have been on the material for a long time now.  No weapon or other
+possession seems apparent, but it would be easy enough to assume that
+there are a lot of places to hide possessions from underneath the robes of
+this minotaur.  Finally, an odd quirk to this creature is that he seems to
+be lightly chanting, just audible enough to hear but not enough to
+determine what it is he says.  This chanting seems to continue, even when
+the jaws of this creature's skull aren't moving at all...
+~
+Prom {D<%hhp %mm %vmv %B %b %X %x> ~
+Race minotaur~
+Sex  1
+Cla  11
+Hmtown 0
+Levl 81
+recall_point 3001
+Levscale 30
+Xptolev  188256
+Sec  0
+Plyd 174309
+Not  1376538652 1372452251 0 1376689430 1320239992
+Scro 22
+Room 3350
+HMV  2519 2519 1488 1488 594 594
+Steel 2196
+Gold 31019
+Bank 0
+Exp  4343294
+AfBy DJ
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3473408
+Comm BNO
+Pos  8
+Prac 7
+Save  -5
+Alig  -1000
+Ethos 0
+Hit   27
+Dam   36
+ACs -197 -203 -199 -167
+Attr 15 15 11 10 15 10
+AMod 7 37 45 11 38 0
+Pass AgvdXznVfeA5Q~
+Titl  the Quencher of Hope~
+Pretit ~
+Pnts 15
+TSex 1
+LLev 23
+HMVP 2074 1148 594
+Cnd  0 53 53 100
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias as c 'undead disruption'~
+Sk 100 'acid blast'
+Sk 78 'armor'
+Sk 75 'blindness'
+Sk 75 'burning hands'
+Sk 75 'chill touch'
+Sk 75 'curse'
+Sk 75 'demonfire'
+Sk 75 'detect good'
+Sk 75 'detect magic'
+Sk 75 'detect poison'
+Sk 81 'dispel magic'
+Sk 75 'energy drain'
+Sk 75 'orb of containment'
+Sk 75 'harm'
+Sk 75 'life transfer'
+Sk 75 'infravision'
+Sk 76 'invisibility'
+Sk 75 'know alignment'
+Sk 75 'magic missile'
+Sk 100 'aid'
+Sk 75 'plague'
+Sk 75 'poison'
+Sk 76 'protection good'
+Sk 75 'teleport'
+Sk 75 'weaken'
+Sk 75 'word of recall'
+Sk 77 'acid breath'
+Sk 100 'dagger'
+Sk 75 'whip'
+Sk 100 'bash'
+Sk 84 'dodge'
+Sk 95 'enhanced damage'
+Sk 75 'envenom'
+Sk 84 'parry'
+Sk 82 'second attack'
+Sk 75 'traject'
+Sk 75 'mount'
+Sk 100 'shadow walk'
+Sk 75 'animate corpse'
+Sk 76 'fear'
+Sk 75 'horrid wilting'
+Sk 75 'paralysis'
+Sk 75 'vampiric touch'
+Sk 100 'undead disruption'
+Sk 75 'nightmare'
+Sk 75 'cavorting bones'
+Sk 84 'enervation'
+Sk 75 'remove paralysis'
+Sk 75 'cantrip'
+Sk 78 'disintegrate'
+Sk 100 'wraithform'
+Sk 1 'word of death'
+Sk 75 'coldfire'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 75 'battle tactics'
+Sk 75 'knock'
+Sk 75 'drain rune'
+Sk 79 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 79 'meditation'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 76 'recall'
+Sk 100 'dark taint'
+Sk 75 'drain blood'
+Sk 1 'forget'
+Sk 75 'forgedeath'
+Sk 75 'preservation'
+Sk 75 'seal door'
+Sk 75 'unseal door'
+Sk 75 'jab'
+Sk 75 'detect presence'
+Sk 75 'preserve dead'
+Sk 75 'ray of fatigue'
+Sk 75 'surge'
+Sk 78 'endure'
+Sk 75 'boil blood'
+Sk 75 'great wasting'
+Sk 75 'coldlight'
+Sk 75 'resist cold'
+Sk 100 'deadeye'
+Sk 75 'renew bones'
+Sk 96 'breath of the dead'
+Sk 75 'intensify death'
+Sk 75 'deafness'
+Sk 85 'trance'
+Sk 76 'staff'
+Sk 75 'unholyrite'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 75 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'deadeye'   0  69  36   0   0        512
+Affc 'deadeye'   0  71  36   0   0          8
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 108 0 0 0
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 54
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2288
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262208
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 5063
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 4768
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1238
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1626
+Nest 0
+Cond 98
+Wear 11
+Cost 10270
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 7758
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name }~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 15212
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 283
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 4488
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2433
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3000
+Nest 1
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3093
+Nest 0
+ExtF 17072130
+Cond 100
+Wear 20
+Cost 900
+Val  10 9 11 37 4356
+End
+
+#END

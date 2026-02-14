@@ -1,0 +1,6005 @@
+#AREADATA
+Name Solanthus~
+Builders Paladine~
+Continent Solamnia~
+Controlby 1~
+Faction 250~
+Sector 0
+VNUMs 5600 5799
+Credits Paladine~
+Security 9
+End
+
+
+
+#MOBILES
+#5600
+mangy mutt~
+a mangy mutt~
+A mangy mutt is growling at you.
+~
+In front of you is a medium sized dog.  The fur on the dog is quite
+scruffy and torn, with many patches of fur missing from various parts of
+the dog's body.  The looks of the dog alone make it look all mangy and
+mean, and most definitely something that should be messed with.  
+~
+fido~
+ACFGH 0 0 0
+5 5 11d2+51 5d10+85 1d5+7 claw
+5 5 5 7
+FHR 0 0 C
+stand stand either 0
+ABGV ACDEFHJKQUV S unknown 0
+#5601
+archer~
+an archer~
+An archer is in this tower, bow and arrow ready to pick off intruders.
+~
+This archer has is concentrating quite intensely on keeping the city of
+Solanthus from harm.  The archer doesn't even notice you enter the room as
+the archer is quite focused on gazing out one of the many windows of this
+tower, with bow and arrow cocked, ready for action.  
+~
+half-elf~
+AB J 600 0
+15 15 23d5+137 15d10+85 4d3+10 punch
+2 2 2 5
+0 0 B 0
+stand stand either 50
+AHMV ABCDEFGHIJK M unknown 0
+#5602
+knight solanthus~
+a knight of Solanthus~
+A knight of Solanthus is patrolling this fine city.
+~
+A proud knight of the fine city of Solanthus stands here, wearing shiny
+armor that gleams in the light.  On the knight's side, and ready, is a sword
+made for the knights who guard the city of Solamnia.  The blade which hangs
+from the knight's side is polished to a shiny steel luster, along as the
+rest of this knight's fine armor.  
+~
+human~
+AGT 0 750 0
+25 25 38d8+228 25d10+85 7d3+13 punch
+-2 -2 -2 3
+CK 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK M unknown 0
+#5603
+hired guardsman~
+a hired guardsman~
+A hired guardsman is here, standing guard.
+~
+This is a big, burly guardsman.  Although he is not wearing any armor, or
+carrying any weapons, the muscles which ripple throughout his body and arms
+give fair warning to those who dare cross him.  He stands tall, and proud to
+be defending the fine city of Solanthus from the Dragonarmies of the Dark
+Queen.  
+~
+human~
+ABT 0 400 0
+20 20 30d6+183 20d10+85 5d4+11 punch
+0 0 0 4
+CFKO 0 E 0
+stand stand male 100
+AHMV ABCDEFGHIJK M unknown 0
+#5604
+dragonarmy officer~
+a dragonarmy officer~
+A tall dragonarmy officer is storming through here.
+~
+Trudging around the city like he OWNS the place, this loyal servant of
+Takhisis goes about wreaking havoc on the general populace.  Although you
+could try and have a chat with him, the blood streaked armor and weapons he
+wields with great precision speak for him.  
+~
+draconian~
+AGT Oc -1000 0
+40 40 60d13+365 40d10+85 11d3+18 punch
+-9 -9 -9 -1
+EFHIKMU P BEM 0
+stand stand male 500
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+#5605
+captain solanthus guard~
+The Captain of the Solanthus Guard~
+The Captain of the Solanthus guards is here, on watch for criminals.
+~
+Young and arrogant, this Captain of the Guard initially comes of as
+pushy.  He goes about hunting down criminals by scouring the city himself,
+walking the streets, keeping things safe.  The captain is dressed in little
+armor, only what appear to be clothes, but the sword that hangs openly by
+his side, hilt ready to be drawn, speaks openly for his abilities.  
+~
+human~
+AG FHJNVZc 1000 0
+130 130 195d43+3550 130d10+85 37d3+48 punch
+-52 -52 -52 -25
+ACDEFHIJKNO ABP CDKN 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#5606
+knight templar~
+the knight templar~
+A knight templar stands here, looking for bad people.
+~
+Standing tall in his shining steel armor, this Knight Templar controls
+entrance into the city via the gate.  He looks at you with a weary eye, as
+he checks your face and stature against his documents.  He stands tall, with
+his muscular body supporting his grand armor, and the huge, pointed
+warhammer by his side looks like it could easily bash someone's brains out. 
+~
+human~
+ABQ DFN 1000 0
+125 125 188d41+3412 125d10+85 35d3+46 punch
+-50 -50 -50 -24
+ACDEFHIJKNO AB 0 L
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#5607
+lily knight tak~
+a {DKnight{x of the {bLily{x~
+A {DKnight{x of the {bLily{x patrols the streets here.
+~
+Sent from Neraka, this dark knight is part of the occupation force.  Well
+armed and well trained, he attends to his duties with single-minded purpose.
+~
+human~
+AGMT O -1000 0
+80 90 135d30+1639 90d10+85 25d3+35 slash
+-33 -33 -33 -14
+CEHIJK ABM GJN 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 5607 100~
+#5608
+skull knight tak~
+a {WSkull {DKnight{x~
+A {DKnight{x of the {WSkull{x patrols here, in service to his Queen.
+~
+This skull knight is part of the occupation force, sent here to aid the
+Knights of the Lily in their conquest.  
+~
+human~
+AGMQ DHO -1000 0
+90 100 150d33+1821 100d10+85 28d3+38 crush
+-37 -37 -37 -16
+FJKNU ABM ENQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 5607 100~
+#5609
+thorn knight tak~
+a {DKnight{x of the {rThorn{x~
+A {rThorn {DKnight{x patrols here, murmuring words of dark magic.
+~
+This knight wears a tabard of gray over his armor.  An elite
+complimentary detachment of knights, these Thorn Knights lend the power of
+their dark magics to the forces occupying the town.  
+~
+human~
+AGMR DOV -1000 0
+95 105 158d35+1911 105d10+85 30d3+40 magic
+-40 -40 -40 -18
+AFJNU ABM CHIJ 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 5607 100~
+#5610
+gandred shopkeeper bartender~
+Gandred~
+Gandred, the bartender stands ready to serve you.
+~
+A grizzled looking man in his early 40's, Gandred Martellen was once a
+Sergeant in the Solanthus militia.  Despite his age, his frame still boasts
+considerable muscle, and his brawny forearms proudly display many battle
+scars.  Having chosen to retire after the Siege of Solanthus, he now runs
+this establishment as a safe haven where citizens may come to gather and
+celebrate the return of their freedom.  
+~
+human~
+ABT 0 750 0
+120 120 180d40+3277 120d10+85 34d3+45 none
+-47 -47 -47 -22
+FIJN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5620
+city registrar solanthus~
+the Registrar~
+The city registrar stands here, sorting through applications.
+~
+A grizzled looking man of middle age stands here, sorting through a large
+stack of parchment.  His fingers are stained with ink, and leave occasional
+streaks as he absently scratches the back of his neck.  His expression is
+friendly, though his eyes are deeply wrinkled due to squinting at various
+forms for hours on end.  Scanning the pages with practiced ease, he proceeds
+to stamp forms with one hand while holding them in place with a large hook;
+a souvenir of his soldiering days.  
+~
+human~
+AB 0 750 0
+120 120 180d40+3277 120d10+85 34d3+45 punch
+-47 -47 -47 -22
+F ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5626
+smithy herusan dalntin~
+Herusan Dalntin~
+A hard working smithy pounds away at a piece of hot metal.
+~
+A well-muscled man beats on a red-hot piece of metal.  Beads of sweat
+roll down his face, and his skin is tan from the continuous exposure to the
+flames.  He is wearing a sleeveless shirt and a worn leather apron that
+covers most of his body, exposing only from his well chiseled shoulders up. 
+~
+human~
+AB HJV 750 0
+200 200 300d66+7281 200d10+85 57d3+71 slice
+-86 -86 -86 -44
+EFK ABCD 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK M unknown 0
+#5630
+priestess shin~
+A Priestess of Shinare~
+A priestess stands here, dressed in red silk robes embroidered in gold
+~
+A priestess stands before an altar made of gold.  She is dressed in fine
+silken robes, with the holy symbol of Shinare, a griffon’s wing, embroidered
+in gold.  Standing tall and proud, she tends to the altar of her Goddess
+with pride.  
+~
+human~
+ABQ 0 0 0
+200 200 300d66+7281 200d10+85 57d3+71 divine
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK M unknown 0
+#5645
+gelron shopkeeper~
+Gelron~
+Gelron stands behind the counter, waiting to sell you something.
+~
+This is a common looking fellow who has decided to set up a quaint little
+shop in town.  He doesn't appear to have much knowledge about the smithing
+items he is selling, but that concerns him not, only the bottom dollar, like
+the true businessman.  
+~
+human~
+AB 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#5664
+Osiris~
+Osiris~
+Osiris is here, walking about the store.
+~
+Tall and stunningly beautiful, this elf has made her home here in
+Solanthus.  She is quite obviously the curator of this fine place, as she
+wanders about the store inspecting her wares, and throwing out things that
+have gone bad.  Osiris has the typical features one would expect from an
+elf, with her piercing green eyes, pointed ears, and she is stunningly
+beautiful.  
+~
+elf~
+AB J 300 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#5674
+banker teller~
+A busy bank teller~
+A bank teller stands behind the counter, waiting to take your money
+~
+Dressed in black pants and a white shirt with a black vest, a bank teller
+stands behind the counter, busily tending to his work.  His dark hair is cut
+short, and his brown eyes carefully watch the money as he goes about his
+business.  
+~
+human~
+ABde HV 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+CEFIKN ABCD 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#5706
+armorer solanthus~
+an armorer of Solanthus~
+An armorer stands here, inspecting some newly made armor.
+~
+A tall, muscular man stands here, inspecting a piece of armor.  His tan
+skin seems to offset his blonde hair and pale blue eyes.  He is wearing an
+simple tunic and pants, mostly covered by a leather apron.  His dark leather
+boots are pitted from the molten metal he forges his fine armor from.  
+~
+human~
+AB J 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#5721
+krougin jeweler~
+Krougin~
+Krougin is here, holding a pretty gem.
+~
+In front of you is a small, green goblin, which haunches down a little
+bit.  He is wearing very little, only a tan leather cloth over his lower
+half, and nothing covering up the upper half of his body.  Overall, this
+goblin looks like he has been through many an adventure, as he has scars and
+marks all over his face and chest.  As you examine his face, you can see his
+sharp, pointy teeth, and his ears which have many piercings and rings
+through them.  
+~
+goblin~
+AB J -200 0
+200 200 300d66+7281 200d10+85 57d3+71 bite
+-86 -86 -86 -44
+FHN ABCDZ 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK S unknown 0
+F res Q
+F vul C
+M GRALL 5721 100~
+M SPEECH 5720 yes~
+M BRIBE 5722 40000~
+#5737
+adept misha~
+an adept of Mishakal~
+An adept of Mishakal is here, healing the wounded.
+~
+In front of you is a solemn looking woman that stands in the temple,
+alone, with her hands held together, and her hood draped over her face.  She
+is clothed in some very beautiful robes with a blue infinity symbol on the
+back of them.  As you enter the temple, she looks up for a moment, giving
+you a glimpse of her stunningly beautiful features, then she looks back
+down, saying nothing.  
+~
+half-elf~
+ABQVYa H 0 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F aff J
+F res B
+#5774
+old conjuror guildmaster~
+the conjuror guildmaster~
+An old and wizened conjuror of things is here.
+~
+An old and decrepit man stands here in the hall.  It is hard to determine
+why someone else was not appointed for this job.  As you look upon him, you
+can see a very old man, wrinkled, with a long white beard and moustache with
+white scraggly hair that sprouts out from underneath his hat.  He has a cane
+that he leans on, his back hunched as he leans on it, dependant on it's
+support.  
+~
+human~
+ABJKRb 0 -300 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5775
+skeleton necromancer guildmaster~
+the necromancer guildmaster~
+A skeleton is here, grinning at you evilly
+~
+As you look upon the figure in looming in front of you, it is easily
+determined that this is no ordinary being.  This creature is one of the
+undead, a walking skeleton of just bones held together by arcane magics with
+a luminous skull that is endlessly grinning with an evil grin that corrupts
+the mind and soul of those not of the necromancers or undead.  
+~
+unique~
+ABJKORb 0 -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 bite
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCGHI M unknown 0
+#5776
+young woman enchanter guildmaster~
+the enchanter guildmaster~
+A young woman is here, practicing on enchanting something different.
+~
+In front of you is a young woman who is sitting at a bench of some sort. 
+She does not notice you come in as she continues to sit on the bench as
+magical sparks flow freely from her hands and fingertips into an item that
+is lying on the table in front of her.  She works her hands quickly and
+nimbly around it, enchanting it with her powerful magics.  
+~
+human~
+ABJKRb 0 500 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5777
+dragon illusionist guildmaster~
+the illusionist guildmaster~
+A very large dragon looks at you with an intimidating and fierce look.
+~
+Ack!  It's a dragon!!!  As you look upon the fierceness and toughness of
+the dragon, shaking in your boots as you gaze up at its immense body and
+head with its rock hard emerald scales and ruby eyes with it's ever so
+ominous claws, it suddenly begins to change before your very eyes.  The
+dragon changes itself into a woman who appears in her prime, as she has
+fooled you with her powers of illusion.  
+~
+dragon~
+ABJKRb JT -100 0
+200 200 401d66+8081 200d10+85 66d3+105 grep
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F res BEH
+F vul FI
+#5778
+man battlemage guildmaster~
+the battlemage guildmaster~
+A man who looks like he is in his prime is here, trying some new magics.
+~
+This young battlemage is very adept at both sword and spell, and is here
+to teach you how to balance your skills in both arts.  
+~
+human~
+ABJKRb 0 -500 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5779
+woman cleric guildmaster~
+the cleric guildmaster~
+In front of you is a beautiful woman blessed in the arts of healing
+~
+You are in no doubt that this guildmaster is truly close to your god; she
+has a peaceful, loving look.  You notice that she is surrounded by a white
+aura.  
+~
+human~
+ABJKQb H 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5780
+shady person thief guildmaster~
+the thief guildmaster~
+A shady looking person stands here.
+~
+This shady person is almost completely out of your sight when you first
+walk into the room.  You suddenly catch him out of the corner of your eye
+then he is gone for a moment.  Shortly, he appears in front of you, wearing
+a brown cloak that covers his body and face as he hands you back your
+belongings and awaits to train you in the fine arts of thievery.  
+~
+human~
+ABJKSb 0 -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5781
+warrior guildmaster~
+the warrior guildmaster~
+A hardened warrior, toughened by years of battle, is waiting to train you.
+~
+He wears hard leather armor over a well-muscled frame.  His deep
+penetrating eyes seem to look right through you.  He smiles as he judges
+your skill and motions you to the back of the room.  
+~
+human~
+ABJKTb 0 700 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5782
+woman bard guildmaster~
+the bard guildmaster~
+A young woman sits upon a stool here, playing a sad, soft melody.
+~
+Sitting upon a stool is this young looking elven woman, who sits with
+her instrument of choice, the flute, in her hands.  Currently, she is using
+the flute to play a sad, soft melody that brings sadness to your heart.  She
+looks over your way for a moment as you walk in, but then goes back to
+playing her tune, not missing a single note.  
+~
+elf~
+ABJKb J 750 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#5783
+woman expert knight guildmaster~
+the knight guildmaster~
+An expert knight in full armor is waiting to train you.
+~
+As you look upon the figure tat looms before you, dressed in the full
+armor of a knight, you take a good look at the figure, from head to toe.  As
+you look at the face and helmet, you can see her beautiful and flawless
+complexion with her piercing light blue eyes and harmless looks.  
+~
+human~
+ABJKb 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5784
+ogre barbarian guildmaster~
+the barbarian guildmaster~
+An ugly, slightly stunted ogre that is wielding a large battleaxe waits to train you.
+~
+Standing(?)  In front of you is a slightly stunted ogre that leans
+backwards a little bit.  All over his body, there are scares, scratches,
+deep and presumably painful wounds, and other deformities that make this
+ogre look quite displeasing.  In his left hand, he is wielding a great battle
+axe that looks like it is way oversized for someone of his stature.  As you
+come up to him, he only grunts, and nods slightly.  
+~
+ogre~
+ABJKb 0 -750 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK L unknown 0
+F res HI
+F vul K
+#5785
+elderly woman guildmaster~
+the druid guildmaster~
+An elderly woman is here, sitting in a chair.
+~
+Sitting in front of you is a woman who is most notably elderly, as seen by
+the wrinkles upon her face.  She is sitting here in the corner quietly
+contemplating the meanings of existence.  As you enter her presence, she
+looks up at you with her wrinkled face, and gives you a warm and welcoming
+smile.  
+~
+half-elf~
+ABJKQb J 600 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#5786
+elven ranger guildmaster~
+the ranger guildmaster~
+An odd sort of elven type fellow is here.
+~
+Standing here is a somewhat short odd looking fellow with pointy ears. 
+He grins at you, giving you a feeling of unease.  He wears a brown cloak,
+and leather vest with a finely crafted bow strapped to his back.  Upon his
+hands are a pair of black leather gloves, with the fingers cut off.  
+~
+elf~
+ABJKb J 300 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#5787
+shadowy figure assassin guildmaster~
+the assassin guildmaster~
+A shadowy figure lurks in the darkness.
+~
+You barely catch a small glimpse of this woman in the dark corner of the
+room, before she vanishes from your sight.  You cannot distinguish where she
+is, for she is a master of her skill, and trade.  After a few moments, she
+appears in front of you, after she has distinguished that you also have the
+same trade as she does.  She speaks to you "You have much to learn, for that
+was just a simple trick."  
+~
+human~
+ABJKSb PQV -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJK M unknown 0
+M DELAY 5788 100~
+M GRALL 5787 100~
+#5788
+person spellfilcher guildmaster~
+the spellfilcher guildmaster~
+A tall person is here, practicing some weird magic.
+~
+Here before you is a tall human of lanky stature.  He is looking away
+from you, off to the side of the building where there is a wooden practice
+dummy with loot on it.  He points to the dummy and causes the loot to fly
+over to him and land in his hands.  
+~
+human~
+ABJKRb 0 100 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5790
+bounty pirate~
+a mean looking pirate~
+A mean looking pirate waits for you to place a bounty.
+~
+In front of you is a big, burly, mean looking pirate who is no pushover
+in stature.  His big, burly arms compliment the rest of his body and
+cutthroat stature, and a mean looking sharp sword hangs clearly by his side.
+On his head he is wearing the classic black pirate hat with a skull and
+crossbones on it.  
+~
+human~
+ABL 0 -800 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5791
+gelgis questmaster~
+Gelgis~
+Gelgis, the questmaster, is waiting to give quests to the worthy.
+~
+An elderly man is in this room, sitting in an exquisitely crafted chair,
+rocking back and forth in it slightly.  As you enter the room, he removes a
+wooden pipe that is in his mouth and looks at you for a moment, then places
+the pipe back into his mouth, nodding at you slightly.  
+~
+human~
+AB 0 750 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5793
+blacksmith guildmaster~
+the blacksmith guildmaster~
+The blacksmith guildmaster is here, waiting to train you.
+~
+~
+dwarf~
+ABJKb J 0 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res LQ
+F vul R
+#5796
+caravan guard solanthus~
+a caravan guard~
+A caravan guard is here keeping watch over the merchants.
+~
+~
+human~
+ABNT CHN 1000 0
+125 125 188d41+3412 125d10+85 35d3+46 slash
+-50 -50 -50 -24
+DEHKLT AB CP 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#5600
+small quiver~
+a small quiver~
+A small quiver lies here on the ground, discarded.~
+leather~
+quiver S 0 AKc
+10 2 7 0 0
+10 3 50 P
+#5601
+wooden bow~
+a wooden bow~
+A small wooden bow lies here, discarded.~
+wood~
+weapon S 0 ANX
+bow 2 7 pierce 0
+10 4 90 P
+#5602
+solanthus plate mail~
+Solanthus platemail~
+Here lies a full set of platemail, used by the guards of Solanthus.~
+steel~
+armor 0 0 ADY
+ABC AC ABD B 0
+25 20 200 P
+#5603
+solanthus steel arm guards~
+a pair of steel armguards~
+A pair of steel arm guards lie here, emblazoned with the seal of the Solanthus Guard.~
+steel~
+armor 0 0 AIY
+ABC AC ABD B 0
+25 9 150 P
+#5604
+tight leather gloves~
+a pair of tight leather gloves~
+A pair of tight-fitting leather gloves lie here in the dust.~
+leather~
+armor S 0 AHY
+AC ABC BC B 0
+25 2 100 P
+#5605
+solanthus city guard leggings~
+Solanthus City guard leggings~
+A pair of Solanthus City Guard leggings are lying here, ready for use.~
+steel~
+armor 0 0 AFY
+ABC AC ABD B 0
+25 13 175 P
+#5606
+solanthus steel boots~
+a pair of Solanthus steel boots~
+A pair of standard issue Solanthus Guard boots lie here.~
+steel~
+armor 0 0 AGY
+BC C BD B 0
+25 7 75 P
+#5607
+solanthus guard sword~
+a Solanthus guard sword~
+A Solanthus Guard's sword lies here, forgotten by its owner.~
+steel~
+weapon 0 0 ANY
+sword 4 7 slash 0
+25 6 250 P
+#5608
+leather material~
+a piece of leather~
+A cut piece of leather suitable for raw material lies here.~
+leather~
+raw_material S 0 A
+0 0 0 0 0
+0 1 200 P
+#5609
+tool kit~
+a tool kit~
+A tool kit used to make arrows sits here, unused.~
+wood~
+tool_kit S 0 AO
+0 0 0 0 0
+0 0 400 P
+#5610
+iron tips raw material~
+some iron tips~
+A set of iron tips sits here, unused.~
+iron tips~
+raw_material 0 0 AO
+0 0 0 0 0
+0 1 70 P
+#5611
+iron ingot bar material~
+an iron ingot~
+A bar of smelted iron sits here, waiting to be forged into something useful.~
+iron~
+raw_material 0 0 A
+0 0 0 0 0
+0 1 342 P
+#5612
+bloody axe~
+a {rbloody{x axe~
+Here lies an axe, its sharp head smeared with {rblood{x.~
+steel~
+weapon 0 0 ANZ
+axe 7 8 chop D
+55 8 100 P
+#5613
+dragon army plate mail~
+a suit of Dragonarmy platemail~
+Here lies a suit of armor worn by one of the Dark Queen's warriors.~
+steel~
+armor JL 0 ADZ
+ACD ABD AE D C
+55 20 700 P
+#5614
+holy vengeance blade sword~
+{WHoly {RVe{rngean{Rce{x~
+A well-honed blade of platinum lies here, radiating a holy power.~
+platinum~
+weapon ADGIK 0 ANZ
+sword 11 11 slash OQ
+110 10 0 P
+#5615
+leather belt~
+a leather belt~
+A small leather belt lies buried under the dust.~
+leather~
+armor S 0 ALX
+BCE DE ABCE CE 0
+115 2 50 P
+#5616
+tattered shirt~
+a tattered shirt~
+A shirt lies here, tattered and torn.~
+cloth~
+armor S 0 ADc
+CE CE CE E 0
+115 0 10 P
+#5617
+dirty pants~
+dirty pants~
+A pair of REALLY dirty pants lie here... eew, they sure are scummy!~
+cloth~
+armor S 0 AF
+AE BE AE BD 0
+80 0 0 P
+A
+20 -2
+A
+18 5
+A
+19 3
+A
+5 1
+#5618
+huge war hammer mace~
+a huge warhammer~
+A huge, spiked warhammer lies on the ground.~
+iron~
+weapon 0 0 ANb
+mace 7 8 smash 0
+55 8 550 P
+#5619
+comfortable chain tunic shirt~
+a comfortable chain tunic~
+A shirt of comfortable looking chain armor lies here.~
+steel~
+armor 0 0 ADY
+ABCD CD BCD D B
+55 16 550 P
+#5620
+shot whiskey~
+a shot of whiskey~
+A small glass sits here, smelling strongly of alcohol.~
+glass~
+drink S 0 AO
+10 10 'whisky' 0 0
+30 1 20 P
+#5621
+mug hobgoblin hooch~
+a mug of Gandred's "Hobgoblin Hooch"~
+A ceramic mug containing a foul looking swamp-colored liquid sits here.~
+ceramic~
+drink S 0 AO
+15 15 'local specialty' 0 0
+30 1 25 P
+#5622
+large stone fountain memorial~
+the Solanthus memorial fountain~
+A large stone fountain has been erected in the center of the square.~
+stone~
+fountain S 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+fountain~
+This stately looking fountain bears the image of a Solamnic Knight
+leading a charge.  At his right stands a mage preparing to cast a spell.  A
+ranger aims his bow toward the sky, while a cleric blesses them all. 
+Symbolic of the various orders that banded together to free Solanthus from
+the tyranny of the Dark Queen, this fountain stands in perpetual tribute to
+those that fought, died, and sacrificed for Solanthus' cause.  
+~
+#5623
+table booth bar~
+a table in the Common Room~
+A number of vacant booths and tables surround the main bar.~
+oak~
+furniture 0 0 P
+CE FJKLO D 0 0
+0 0 0 P
+#5662
+sun rod light~
+a sunrod~
+A sunrod lies here, giving off an almost blinding light.~
+fire opal~
+light SY 0 AO
+0 0 CDEF 0 0
+0 0 150 P
+#5663
+hide water flask~
+a water flask~
+A large water flask, made from the best hides, lies here.~
+skin~
+drink S 0 AO
+100 100 'water' 0 0
+0 2 90 P
+#5664
+jerked chicken~
+a piece of jerked chicken~
+A piece of jerked chicken is here.~
+flesh~
+food S 0 A
+BD 0 0 0 0
+0 1 75 P
+#5665
+whetstone stone whet~
+a whetstone~
+A whetstone lies here.~
+stone~
+wetstone SY 0 AO
+0 0 0 0 0
+0 1 100 P
+#5669
+steel mace~
+a steel mace~
+A steel mace of human design sits here~
+steel~
+weapon 0 0 ANc
+mace 7 7 crush 0
+50 6 12345 P
+#5670
+sword finely crafted~
+a finely crafted sword~
+A well made sword lies here, strong and sturdy looking~
+steel~
+weapon 0 0 ANc
+sword 3 12 slash 0
+30 6 7500 P
+#5671
+ivory long bow~
+an {Wivory{x longbow~
+It seems that someone left their longbow here.~
+ivory~
+weapon SY 0 ANZ
+bow 2 22 pierce 0
+40 4 11000 P
+#5672
+sturdy quiver~
+a sturdy quiver~
+A sturdy looking quiver lies on the ground.~
+tooled leather~
+quiver S 0 AKc
+20 2 22 0 0
+40 3 1000 P
+#5673
+axe steel~
+a steel axe~
+A well made axe sits here, its blade gleaming.~
+steel~
+weapon 0 0 ANc
+axe 7 8 chop D
+55 5 13456 P
+#5700
+forge preloader~
+forge preloader~
+This object is the Forge preloader object. DO NOT TOUCH. THIS MEANS YOU.~
+unknown~
+trash 0 0 Ac
+0 0 0 0 0
+0 0 0 P
+#5701
+venison steak~
+a venison steak~
+A roasted slab of meat lies here.~
+flesh~
+food S 0 A
+BE 0 0 0 0
+40 1 30 P
+#5704
+ring antiquity~
+({CAncient{x) ring of antiquity~
+Here in the dust lies a ring which looks very old.~
+platinum~
+armor 0 0 ABc
+AB AB AB A 0
+20 1 5500 P
+#5705
+enchanted plate mail~
+enchanted platemail~
+A suit of platemail lies here, emitting a faint glow.~
+steel~
+armor AGY 0 ADc
+CD BD E BD 0
+50 10 15000 P
+#5706
+steel plate gauntlets~
+a pair of steel gauntlets~
+A pair of polished steel gauntlets lies here~
+steel~
+armor 0 0 AHc
+BD D BCD BC C
+45 7 8000 P
+#5707
+skull cap~
+a skull cap~
+An average sized skullcap lies upside down on the floor.~
+steel~
+armor 0 0 AEYc
+ABC AC ABD AB 0
+30 2 6700 P
+#5708
+feathers~
+some feathers~
+The feathers of a bird lie on the ground.~
+feathers~
+trash 0 0 AO
+0 0 0 0 0
+0 0 70 P
+#5709
+steel raw material~
+a piece of steel material~
+This piece of steel looks good for raw materials.~
+steel~
+raw_material 0 0 A
+0 0 0 0 0
+0 1 100 P
+#5710
+blacksmith hammer~
+a blacksmith's hammer~
+A blacksmith's hammer sits here, unused.~
+iron~
+bhammer Y 0 ANc
+0 0 0 0 0
+0 3 400 P
+#5711
+furnace~
+a furnace~
+A furnace sits in the room, its fires blazing.~
+stone~
+furnace 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5712
+cooling barrel~
+a cooling barrel~
+A cooling barrel sits here, filled with water.~
+wood~
+barrel 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5713
+grinder~
+a grinder~
+This rudimentary grinder stands upright.~
+stone~
+grinder 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5714
+large anvil~
+a large anvil~
+This is a large, black, heavy-looking anvil.~
+iron~
+anvil 0 0 AOP
+0 0 0 0 0
+21 10 0 P
+#5715
+magical blue fire~
+a magical blue fire~
+Some magical blue fire sits here.~
+magical fire~
+trash GSY 0 0
+0 0 0 0 0
+0 0 0 P
+#5716
+chunk raw material~
+a chunk of something material~
+This chunk of something material looks good for raw materials.~
+unknown~
+raw_material 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#5718
+white pearl~
+a small white pearl~
+A small white pearl lies here.~
+pearl~
+pill S 0 AO
+100 'word of recall' 'reserved' 'reserved' 'reserved'
+20 0 700 P
+#5719
+red bloodstone~
+a red bloodstone~
+Here lies a stone that is red as blood.~
+gemstone~
+pill GS 0 AO
+75 'heal' 'cure critical' 'reserved' 'reserved'
+45 2 6000 P
+#5720
+ring flame fire~
+the ring of flame~
+This ring appears to have fire emanating from it.~
+brass~
+jewelry GY 0 ABc
+0 0 0 0 0
+25 1 500 P
+A
+27 2
+#5721
+black sapphire~
+a black sapphire~
+A black sapphire lies here, emanating a cold radiance.~
+sapphire~
+warp_stone S 0 AO
+0 0 0 0 0
+20 2 1000 P
+#5722
+clear sphere~
+a clear sphere~
+A clear sphere lies here, forgotten.~
+crystal~
+wand GSTYa 0 AO
+75 10 10 'mooncloak' 0
+45 0 0 P
+E
+sphere~
+As you look at the sphere, it looks like just another ordinary sphere
+which is clear.  As you continue gazing into it, however, you can see a very
+faint swirling motion of blue particles.  
+~
+E
+clear~
+As you look at the sphere, it looks like just another ordinary sphere
+which is clear.  As you continue gazing into it, however, you can see a very
+faint swirling motion of blue particles.  
+~
+#5733
+hearty stew bowl~
+a hearty bowl of stew~
+A bowl of thick, gravy-like stew sits here steaming.~
+wood~
+food S 0 AO
+BCE 0 0 0 0
+45 1 45 P
+#5735
+roasted chicken~
+an entire roasted chicken~
+A fire roasted bird carcass sits here, large enough to feed several.~
+flesh~
+food S 0 A
+DF 0 0 0 0
+60 5 150 P
+#5737
+donation chest~
+a donation chest~
+A beautifully crafted chest is here, awaiting your kind donations.~
+steel~
+container O 0 P
+100000 0 0 100000 50
+1 0 0 P
+#5740
+bright green apple~
+a bright green apple~
+This bright green apple sure does look juicy!~
+plant~
+food S 0 AO
+ABC 0 0 0 0
+0 1 0 P
+O EAT 5740 100~
+#5741
+piece paper scroll~
+a piece of paper~
+A short piece of paper lies here. Perhaps it could be useful?~
+paper~
+scroll S 0 AO
+0 '' '' '' 'reserved'
+0 0 0 P
+#5742
+small pouch~
+a small pouch~
+A small pouch lies here.~
+cloth~
+container S 0 AO
+10 AC 0 10 100
+2 0 20 P
+#5743
+sunrod sun rod light~
+a sunrod~
+A sunrod lies here, giving off a blinding light.~
+fire opal~
+light SY 0 AO
+0 0 CEFGHI 0 0
+10 1 100 P
+#5744
+jar black bile~
+a jar of black bile~
+An open jar lies here, full of foul smelling black bile.~
+clay~
+potion S 0 AO
+10 'poison' 'curse' 'reserved' 'reserved'
+8 2 80 P
+#5745
+small dagger~
+a small dagger~
+This small dagger looks like it would fit perfect in someone's shoe.~
+steel~
+weapon 0 0 ANW
+dagger 2 10 stab 0
+15 2 150 P
+#5746
+slice bread~
+a slice of bread~
+A slice of bread lies here, discarded.~
+unknown~
+food S 0 AO
+A 0 0 0 0
+0 0 0 P
+#5747
+tasty water bottle~
+some tasty water~
+Here lies a bottle of clear water.~
+glass~
+drink S 0 AO
+5 5 'water' 0 0
+1 0 10 P
+#5748
+black berries~
+some blackberries~
+A bunch of blackberries is here, half smashed.~
+plant~
+food S 0 AO
+A 0 0 0 0
+0 0 0 P
+#5749
+traveler clothes~
+traveler’s clothes~
+Here lies a set of plain traveler’s clothes.~
+cloth~
+armor S 0 AKc
+BC BC BC B 0
+25 1 250 P
+#5750
+coil rope~
+fifty feet of rope~
+Here lies fifty feet of rope, coiled up, and ready for the taking.~
+burlap~
+trash S 0 AO
+0 0 0 0 0
+0 10 0 P
+#5751
+bright red fire orb~
+orb of fire~
+Here lies a bright red orb, which appears to be made of fire.~
+fire opal~
+staff GSY 0 AO
+15 5 5 'fireball' 0
+30 1 300 P
+#5752
+lead pipe~
+a lead pipe~
+This lead pipe looks useful for bashing with.~
+lead~
+weapon 0 0 ANc
+exotic 4 6 pound 0
+22 4 0 P
+#5753
+climbing gear~
+climbing gear~
+A set of climbing gear has been forgotten here.~
+leather~
+armor S 0 AHc
+BC D BC B 0
+25 2 250 P
+#5754
+piece cheese~
+a piece of cheese~
+Here lies a yummy piece of cheese.~
+unknown~
+food S 0 AO
+AC 0 0 0 0
+0 0 0 P
+#5755
+slab beef~
+a slab of beef~
+A slab of premium cut beef is on the ground.~
+flesh~
+food S 0 AO
+D 0 0 0 0
+5 0 50 P
+#5756
+warped rune stone~
+a warped runestone~
+Here lies a strangely shaped stone, with many carvings engraved into it.~
+stone~
+warp_stone S 0 AO
+0 0 0 0 0
+0 1 0 P
+#5757
+lengthy scroll parchment~
+a lengthy scroll~
+A pretty big rolled up piece of parchment lies here.~
+parchment~
+scroll S 0 AO
+10 'quench' 'sate' 'reserved' 'reserved'
+27 0 270 P
+#5758
+yellow potion~
+a yellow potion~
+There is a yellow colored potion on the ground.~
+glass~
+potion GS 0 AO
+25 'change sex' 'deafness' 'curse' 'reserved'
+27 0 270 P
+#5759
+large polearm~
+a large polearm~
+A large polearm is standing upright in the corner.~
+iron~
+weapon 0 0 ANZ
+polearm 2 22 thrust F
+40 8 400 P
+#5760
+sack gold~
+a sack of gold!~
+Here lies a sack of gold, ready for the looting!~
+gold~
+money 0 0 A
+ABDG 0 0 0 0
+0 0 0 P
+#5761
+dirty rags~
+dirty rags~
+Some dirty rags are on the ground.~
+cloth~
+armor S 0 ADc
+B B B 0 0
+5 0 0 P
+#5762
+ice crystal~
+an {cice{x crystal~
+A beautiful ice crystal lies on the ground.~
+ice~
+jewelry GS 0 ABc
+0 0 0 0 0
+30 0 300 P
+A
+1 1
+A
+19 3
+#5763
+bottle vodka~
+a bottle of vodka~
+An open bottle lies here, smelling like strong alcohol.~
+glass~
+drink S 0 AO
+10 10 'vodka' 0 0
+0 1 0 P
+#5764
+plain jacket~
+a jacket~
+A plain jacket lies on the ground.~
+cloth~
+armor S 0 AKc
+AD AD AD AC 0
+40 1 400 P
+#5765
+small berry~
+a small berry~
+A small, plump berry rests on the ground.~
+plant~
+food S 0 AO
+A 0 0 0 0
+0 0 0 P
+#5766
+large box~
+a large box~
+A large box sits in the room, taking up a good deal of space.~
+wood~
+container S 0 AO
+50 AC 0 50 100
+27 0 270 P
+#5767
+pair gloves~
+a pair of gloves~
+A pair of gloves lies on the ground, forgotten.~
+leather~
+armor S 0 AHc
+C BC AC A 0
+23 1 230 P
+#5768
+symbol hiddukel~
+a symbol of Hiddukel~
+A Symbol of the God of Deception lies on the ground.~
+gold~
+jewelry EIJ 0 ACc
+0 0 0 0 0
+0 0 0 P
+F
+A 0 24 O
+#5769
+ray deceit weapon~
+{CRay{W of {DDeceit{X~
+A wicked-looking weapon sits in the corner.~
+crystal~
+wand GSY 0 AO
+60 25 25 'energy drain' 0
+60 2 600 P
+#5770
+steel pieces~
+a few pieces of steel~
+A few pieces of steel are here, ready for the looting!~
+steel~
+money 0 0 A
+CDEFHJ 0 0 0 0
+0 0 700 P
+#5771
+paladine surprise~
+{WPaladine's{x {CS{Wu{Rr{Dp{Br{Mi{Ys{Ge{x~
+{WPaladine's{x {CS{Wu{Rr{Dp{Br{Mi{Ys{Ge{x (Heheh... Beware.)~
+gold~
+money 0 0 A
+DFGHIJ 0 0 0 0
+0 0 0 P
+#5772
+pale blue light orb~
+a pale blue light~
+An orb lies here, shedding a pale blue light.~
+magical fire~
+light GSY 0 AO
+0 0 EF 0 0
+10 0 100 P
+#5773
+food rations~
+food rations~
+Some food rations are lying about.~
+unknown~
+food S 0 AO
+AC 0 0 0 0
+0 0 0 P
+O EAT 5773 100~
+#5774
+grappling hook~
+a grappling hook~
+A grappling hook lies on the ground.~
+iron~
+trash 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#5775
+piece garbage~
+a piece of garbage~
+Someone littered the place with this piece of garbage.~
+paper~
+trash S 0 AO
+0 0 0 0 0
+0 0 0 P
+#5776
+moldy banana~
+a moldy banana~
+A moldy banana has been left here to rot.~
+plant~
+food S 0 AO
+C 0 0 A 0
+0 0 0 P
+#5777
+large leather belt~
+a large belt~
+A very large belt is lying on the ground~
+leather~
+armor S 0 ALZ
+D BD AD C A
+39 2 390 P
+#5778
+smelly pants~
+smelly pants~
+There are some REALLY smelly pants here.~
+cloth~
+trash S 0 AFc
+0 0 0 0 0
+0 0 0 P
+#5779
+whet stone whetstone~
+a whetstone~
+A whetstone has been kicked into a corner.~
+stone~
+wetstone S 0 AO
+0 0 0 0 0
+0 1 0 P
+#5780
+quiver arrows~
+a quiver of arrows~
+A quiver of arrows lies here.~
+wood~
+quiver S 0 AK
+30 2 7 0 0
+10 8 100 P
+#5787
+assassins dagger~
+an assassin's dagger~
+A dagger fit for an assassin lies here.~
+steel~
+weapon EJY 0 ANc
+dagger 6 30 stab DH
+100 3 0 P
+#5794
+stone grinder~
+a large grinder~
+A large grinder stands next to the cooling pool.~
+stone~
+grinder 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5795
+cooling pool~
+the cooling pool~
+A stone pool has been placed near the furnace.~
+stone~
+barrel 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5796
+public furnace~
+the furnace~
+A furnace has been erected here for public use.~
+stone~
+furnace 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5797
+light mug ale~
+a mug of light ale~
+A mug of amber colored ale sits here, forgotten.~
+wood~
+drink S 0 AO
+10 10 'ale' 0 0
+30 1 10 P
+#5798
+everlasting yum tea~
+an everlasting cup of yum yum tea~
+A small cup sits here, full of yum yum tea.~
+ceramic~
+drink STYa 0 AO
+9999 9999 'tea' 0 0
+10 1 20 P
+#5799
+map solanthus~
+a map of Solanthus~
+A map of Solanthus lies here.~
+vellum~
+map S 0 AO
+0 0 0 0 0
+1 0 50 P
+E
+map~
+1
+                               ^
+                               |
+                              -|-
+                  |--------|   |    |---|
+                 -|        |   |-   |   |
+               -|          |   |    | |-
+             -|    2     3-|---|----| |
+            |      |           |      |
+          |--------|---|-------|------|-|
+        |-             |            |   |
+      |-   4  |--------|--------|   5   |
+    |-     |  |        |        |     |-
+    |      |  |   Cleft Spires  |   6-|
+    |      |--|--|--------------|     |
+     -|    |     |        7         |-
+       -|  |-8   |        |         |
+    -|  |  |     |--------|------|--|
+9<---|--|----|----              -|
+     |  |    |   |            -|
+        |    10  |          -|11 12 13 14 15 16 17 18
+        |        |        -|  |  |  |  |  |  |  |  |
+         -|      |      -|----|--|--|--|--|--|--|--|--|
+          |--    |    -|      |  |  |  |  |  |  |  |  |
+             |---|---|        19 20 21 22 23 24 25 26 27
+                 |
+                -|-
+                ||
+                 V
+                 28
+1  North Entrance      2  Temple of Paladine     3  General Goods
+4  Solanthus Trust     5  Exotic Jewels          6  Temple of Mishakal
+7  Trusted Defender    8  Forging Smithy         9  West Entrance
+10 Temple of Shinare   11 Battlemage Guild       12 Cleric Guild
+13 Thief Guild         14 Barbarian Guild        15 Druid Guild
+16 Ranger Guild        17 Assassin Guild         18 Spellfilcher Guild
+19 Warrior Guild       20 Bard Guild             21 Knight Guild
+22 Conjuror Guild      23 Necromancer Guild      24 Enchanter Guild
+25 Illusionist Guild   26 Bounty Room            27 Gelgis's Place
+28 The South Gate
+~
+#0
+
+
+
+#ROOMS
+#5600
+The White Stag Tavern~
+This modest tavern is a newer addition to the city, having been
+commissioned by the Town Council during the reconstruction.  A large common
+area boasts a long table along the western wall, some semi-private booths at
+the eastern end, and a series of smaller round tables throughout.  To the
+north lies the main bar and kitchen area; kept busy at all hours by the
+constant influx of travelers and citizens alike.  More often than not, a few
+members of the town guard may be seen taking up residence during their off
+hours.  
+~
+0 262156 1
+D2
+~
+~
+0 0 5632
+S
+#5601
+South Entrance of Solanthus~
+This is the Southern entrance into the city.  It is one of the least
+traveled entrances into the city by whoever decides to come into the city.
+The ground here feels like normal ground, because it is not traveled all
+that much.  In the distance to the north is a bridge.  To the south, lie the
+Garnet Mountains.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 1800
+S
+#5602
+By the South Bridge Into Solanthus~
+This path is a less traveled path to get into the city.  As such, the
+path seems quite new and in good condition.  The ground here feels like
+normal ground, because it is not traveled all that much.  To the west lies a
+Guard Barracks, the east a Watch Tower, and to the north, is the Northern
+bridge into the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5606
+D1
+~
+~
+0 0 5603
+D2
+~
+~
+0 0 5601
+D3
+~
+~
+0 0 5604
+S
+#5603
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5602
+S
+#5604
+Guard Barracks~
+These barracks are the typical army barracks that one would find.  In the
+barracks are lines of uncomfortable looking beds with small boxes lying at
+their feet.  The inside of the barracks are quite dark and gloomy, and
+therefore, one cannot make out much detail of the inside.  The Barracks
+continue south, while the Southern entrance is to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 5605
+S
+#5605
+Guard Barracks~
+These barracks are the typical army barracks that one would find.  In the
+barracks are lines of uncomfortable looking beds with small boxes lying at
+their feet.  The inside of the barracks are quite dark and gloomy, and
+therefore, one cannot make out much detail of the inside.  The Barracks
+continue to the north 
+~
+0 262152 1
+D0
+~
+~
+0 0 5604
+S
+#5606
+South Bridge to Solanthus~
+The path that is currently being traversed is the Southern bridge into
+the great city of Solanthus.  In quite a few places the bridge is old and
+rickety, and makes loud creaking noises when you step on it.  To the south
+is the Southern entrance, while the city of Solanthus is north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 5602
+S
+#5607
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5723
+D3
+~
+~
+0 0 5608
+S
+#5608
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5607
+D3
+~
+~
+0 0 5609
+S
+#5609
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The South Bridge is to the south, while Radke Avenue is to the
+north, and the Grand March continues to the east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5696
+D1
+~
+~
+0 0 5608
+D2
+~
+~
+0 0 5606
+D3
+~
+~
+0 0 5610
+S
+#5610
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5609
+D3
+~
+~
+0 0 5611
+S
+#5611
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5610
+D3
+~
+~
+0 0 5612
+S
+#5612
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5613
+D1
+~
+~
+0 0 5611
+S
+#5613
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the south or west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5612
+D3
+~
+~
+0 0 5614
+S
+#5614
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5613
+D3
+~
+~
+0 0 5615
+S
+#5615
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5616
+D1
+~
+~
+0 0 5614
+S
+#5616
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the south or west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 5617
+S
+#5617
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5618
+D1
+~
+~
+0 0 5616
+S
+#5618
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  The east, lies
+the entrance into the Mercenary Clan, a place where anyone, of any race or
+occupation, may come to place steel coins on peoples' heads.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5626
+D1
+~
+~
+0 0 13201
+D2
+~
+~
+0 0 5617
+S
+#5619
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5622
+S
+#5620
+Office of the Registrar~
+This small building is home to most of the city's day to day operations. 
+Dealing with everything from road maintenance to vendor licenses, the front
+office has been reserved for the City Registrar.  Responsible for keeping
+track of the populace and taking a yearly census, several scribes can be
+seen sorting, copying and filing all manner of official documentation. 
+Piled atop the front desk sits a large stack of citizenship applications.  
+
+*A large SIGN has been tacked to the wall next to the stack.*
+~
+0 262156 1
+E
+sign~
+{x /--\__________________________________/--\
+{x! oo !                                !    !
+{x \__/----------------------------------\__/
+{x    |                                    |
+{x    |        {yWelcome to Solanthus{x        |
+{x    |                                    |
+{x    |  {rIf you wish to become a Citizen{x   |
+{x    | {rof Solanthus, you must first make{x  |
+{x     \  {rSure you have 5,000 steel coins.{x \
+{x      \                                   \
+{x      | {rThen simply tell me you want{x       |
+{x      |     {rto live in Solanthus{x           |
+{x      |                                    |
+{x      | {r[{GHint{r: Using the SAY cmd, say:]{x    |
+{x      |   {yI wish to live in Solanthus{x      |
+{x      |                                    |
+{x      /--\______________________________/--\
+{x     ! oo !                            !    !
+{x      \__/------------------------------\__/
+~
+D1
+~
+~
+0 0 5745
+S
+#5621
+West Entrance of Solanthus~
+This is the Western entrance into the city.  It is by far the most
+traveled entrance into the city by whomever decides to come into the city. 
+The ground here is quite hard from the years of beating in and traveling by
+the many people that come into the city.  In the distance to the east is a
+bridge.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5622
+D3
+~
+~
+0 0 4601
+S
+#5622
+By the West Bridge Into Solanthus~
+This path is the most traveled path to get into the city.  As such, the
+path is well traveled and beaten by many years of use by various people
+going into the city.  The ground here feels quite hard because of the years
+of beatings it has taken.  To the north is some Guard Barracks, the south a
+watch tower, and to the east is the Western bridge into the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5624
+D1
+~
+~
+0 0 5625
+D2
+~
+~
+0 0 5619
+D3
+~
+~
+0 0 5621
+S
+#5623
+Guard Barracks~
+These barracks are the typical army barracks that one would find.  In the
+barracks are lines of uncomfortable looking beds with small boxes lying at
+their feet.  The inside of the barracks are quite dark and gloomy, and
+therefore, one cannot make out much detail of the inside.  The Barracks
+continue to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5624
+S
+#5624
+Guard Barracks~
+These barracks are the typical army barracks that one would find.  In the
+barracks are lines of uncomfortable looking beds with small boxes lying at
+their feet.  The inside of the barracks are quite dark and gloomy, and
+therefore, one cannot make out much detail of the inside.  The Barracks
+continue to the west, while the Western entrance is to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5622
+D3
+~
+~
+0 0 5623
+S
+#5625
+West Bridge to Solanthus~
+The path that is currently being traversed is the Southern bridge into
+the great city of Solanthus.  In quite a few places the bridge is old and
+rickety, and makes loud creaking noises when you step on it.  To the west is
+the Western entrance, while the city of Solanthus is east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5626
+D3
+~
+~
+0 0 5622
+S
+#5626
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new. The West Bridge lies to the west, while Fien Avenue is to the
+east, and the Grand March continues to the north and south.
+~
+0 262144 1
+D0
+~
+~
+0 0 5633
+D1
+~
+~
+0 0 5627
+D2
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5625
+S
+#5627
+Fien Avenue~
+Fien Avenue is one of the most traveled streets in the city, and as
+such, has many imperfections such as potholes and cracks running through the
+street.  In various places along the street are some old looking buildings
+that serve some unknown purpose.  To the west is the Grand March, and Fien
+Avenue continues to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5628
+D3
+~
+~
+0 0 5626
+S
+#5628
+Fien Avenue~
+Fien Avenue is one of the most traveled streets in the city, and as
+such, has many imperfections such as potholes and cracks running through the
+street.  In various places along the street are some old looking buildings
+that serve some unknown purpose.  To the north is Akoi Avenue, and Fien
+Avenue continues to the east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5668
+D1
+~
+~
+0 0 5629
+D3
+~
+~
+0 0 5627
+S
+#5629
+Fien Avenue~
+Fien Avenue is one of the most traveled streets in the city, and as
+such, has many imperfections such as potholes and cracks running through the
+street.  In various places along the street are some old looking buildings
+that serve some unknown purpose.  To the south is a small but rich looking
+temple, and Fien Avenue continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5631
+D2
+~
+~
+0 0 5630
+D3
+~
+~
+0 0 5628
+S
+#5630
+Temple of Shinare~
+This temple has been erected in the name of the goddess of industrial
+wealth, Shinare.  As such, the temple is very ornate and rich looking on the
+inside.  There is some wonder why none of it has been stolen from inside of
+the temple, but the answer is obvious that nobody steals from the temple and
+comes out alive.  The exit of the temple is north.  
+~
+0 8651784 33
+D0
+~
+~
+0 0 5629
+S
+#5631
+Fien Avenue~
+Fien Avenue is one of the most traveled streets in the city, and as
+such, has many imperfections such as potholes and cracks running through the
+street.  In various places along the street are some old looking buildings
+that serve some unknown purpose.  Fien Avenue continues to the east or west.
+~
+0 262144 1
+D1
+~
+~
+0 0 5632
+D3
+~
+~
+0 0 5629
+S
+#5632
+Fien Avenue~
+Fien Avenue is one of the most traveled streets in the city, and as
+such, has many imperfections such as potholes and cracks running through the
+street.  In various places along the street are some old looking buildings
+that serve some unknown purpose.  To the east is Radke Avenue, and Fien
+Avenue continues to the west.  A newer looking building stands to the north;
+a sign above reads: 'The White Stag'.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5600
+D1
+~
+~
+0 0 5699
+D3
+~
+~
+0 0 5631
+S
+#5633
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5634
+D2
+~
+~
+0 0 5626
+S
+#5634
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the south or west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5633
+D3
+~
+~
+0 0 5635
+S
+#5635
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5636
+D1
+~
+~
+0 0 5634
+S
+#5636
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the south or west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5635
+D3
+~
+~
+0 0 5637
+S
+#5637
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5638
+D1
+~
+~
+0 0 5636
+S
+#5638
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5640
+D2
+~
+~
+0 0 5637
+S
+#5639
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5759
+S
+#5640
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5641
+D2
+~
+~
+0 0 5638
+S
+#5641
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5642
+D2
+~
+~
+0 0 5640
+S
+#5642
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5643
+D3
+~
+~
+0 0 5641
+S
+#5643
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5644
+D2
+~
+~
+0 0 5642
+S
+#5644
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5646
+D3
+~
+~
+0 0 5643
+S
+#5645
+Ye Olde Smithy Shoppe~
+The Ye Olde Smithy Shoppe is known for its fine smithing items
+throughout the city of Solanthus.  All along the walls are shelves that hold
+some of the various smithing items on display that the shop has to offer. 
+On the far wall from the door, there is a counter where the goods are sold. 
+The exit of the shop is to the west.  
+~
+0 262144 1
+D3
+~
+~
+0 0 5651
+S
+#5646
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5647
+D2
+~
+~
+0 0 5644
+S
+#5647
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5648
+D3
+~
+~
+0 0 5646
+S
+#5648
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5649
+D2
+~
+~
+0 0 5647
+S
+#5649
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the north is Lance Street, and the Grand March continues to
+the east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5650
+D1
+~
+~
+0 0 5709
+D3
+~
+~
+0 0 5648
+S
+#5650
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  The Grand March is to the south, and Lance Street
+continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5651
+D2
+~
+~
+0 0 5649
+S
+#5651
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and west.  To the east,
+there is a building with a sign over it's doorway.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5653
+D1
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 5650
+S
+#5652
+Temple of Paladine~
+This temple has been erected in the name of the father of good and master
+of law, Paladine.  As such, the temple is quite ornate with various designs,
+and murals on the walls of the inside.  All inside the temple are various
+signs of Paladine, including symbols, tapestries, robes, jewelry, and the
+like.  In the center of this temple room, lies a very large, intricate
+statue of a platinum Dragon.  
+~
+0 8651784 31
+E
+dragon~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+E
+platinum~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+D2
+~
+~
+0 0 5710
+S
+#5653
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5654
+D2
+~
+~
+0 0 5651
+S
+#5654
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5655
+D3
+~
+~
+0 0 5653
+S
+#5655
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5656
+D2
+~
+~
+0 0 5654
+S
+#5656
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5657
+D3
+~
+~
+0 0 5655
+S
+#5657
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5658
+D2
+~
+~
+0 0 5656
+S
+#5658
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5659
+D2
+~
+~
+0 0 5657
+S
+#5659
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5660
+D3
+~
+~
+0 0 5658
+S
+#5660
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5661
+D3
+~
+~
+0 0 5659
+S
+#5661
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5662
+D3
+~
+~
+0 0 5660
+S
+#5662
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5661
+D2
+~
+~
+0 0 5663
+S
+#5663
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5662
+D2
+~
+~
+0 0 5665
+S
+#5664
+General Goods~
+The General Goods store is a little side shop that sells various items
+for travelers.  All along the walls are shelves that hold some of the
+various goods on display that the shop has to offer.  On the far wall from
+the door, there is a counter where the goods are sold.  The exit of the shop
+is to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5665
+S
+#5665
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  To the west is a building with a sign hanging over
+it's doorway, and Lance Street continues east and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 5663
+D1
+~
+~
+0 0 5667
+D3
+~
+~
+0 0 5664
+S
+#5666
+Falling.....~
+f
+   a
+    l
+     l
+      i
+       n
+        g
+         !
+
+As you start to climb down the steep spire, your weight causes your foot and
+handholds to collapse beneath you, sending you plummeting all the way down to
+the bottom. At the bottom of the spire a little door opens underneath you,
+revealing a bed of very sharp spikes as nothing impedes your descent down,
+impaling you on the spikes. You are DEAD!!!
+~
+0 2400260 1
+R GREET 5666 100~
+S
+#5667
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5757
+D3
+~
+~
+0 0 5665
+S
+#5668
+Akoi Avenue~
+Akoi Avenue is a small side street that looks quite bad.  The street
+itself is quite decrepit, and in need of major overhaul.  None the less,
+people still walk Akoi Avenue, wearing it down farther then it already is. 
+Along this street are various sized buildings and constructions.  To the
+south is the Grand March, and Akoi Avenue continues to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5669
+D2
+~
+~
+0 0 5628
+S
+#5669
+Akoi Avenue~
+Akoi Avenue is a small side street that looks quite bad.  The street
+itself is quite decrepit, and in need of major overhaul.  None the less,
+people still walk Akoi Avenue, wearing it down farther then it already is. 
+Along this street are various sized buildings and constructions.  To the
+east is a building with a sign over its doorway, and Akoi Avenue continues
+to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5671
+D1
+~
+~
+0 0 5670
+D2
+~
+~
+0 0 5668
+S
+#5670
+The Forging Smithy~
+The Forging Smithy is known for their fine weaponry throughout the city
+of Solanthus.  All along the walls are shelves that hold some of the various
+weapons on display that the shop has to offer.  On the far wall from the
+door, there is a counter where the goods are sold.  The exit of the shop is
+to the west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5669
+S
+#5671
+Akoi Avenue~
+Akoi Avenue is a small side street that looks quite bad.  The street
+itself is quite decrepit, and in need of major overhaul.  None the less,
+people still walk Akoi Avenue, wearing it down farther then it already is. 
+Along this street are various sized buildings and constructions.  Akoi
+Avenue continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5672
+D2
+~
+~
+0 0 5669
+S
+#5672
+Akoi Avenue~
+Akoi Avenue is a small side street that looks quite bad.  The street
+itself is quite decrepit, and in need of major overhaul.  None the less,
+people still walk Akoi Avenue, wearing it down farther then it already is. 
+Along this street are various sized buildings and constructions.  To the
+east is the Cleft Spires, and Akoi Avenue continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5673
+D1
+~
+~
+0 0 5675
+D2
+~
+~
+0 0 5671
+S
+#5673
+Akoi Avenue~
+Akoi Avenue is a small side street that looks quite bad.  The street
+itself is quite decrepit, and in need of major overhaul.  None the less,
+people still walk Akoi Avenue, wearing it down farther then it already is. 
+Along this street are various sized buildings and constructions.  To the
+north is a building that looks quite secure, and Akoi Avenue continues to
+the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5674
+D2
+~
+~
+0 0 5672
+S
+#5674
+Solanthus Trust~
+The Solanthus Trust is known for being the most secure bank throughout
+the city of Solanthus.  On the west wall is a very large vault with huge
+locks on it.  On the far wall from the door, there is a counter where
+transactions are made.  The exit of the bank is to the south.  
+~
+0 1310728 1
+D2
+~
+~
+0 0 5673
+S
+#5675
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  To the west is Akoi Avenue, and the Cleft
+Spires continue to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5676
+D3
+~
+~
+0 0 5672
+S
+#5676
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the north,
+east, or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5694
+D1
+~
+~
+0 0 5677
+D3
+~
+~
+0 0 5675
+S
+#5677
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 0
+D1
+~
+~
+0 0 5678
+D3
+~
+~
+0 0 5676
+S
+#5678
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  To the south is Radke Avenue, and the
+Cleft Spires continue to the east or west.  
+~
+0 262144 0
+D1
+~
+~
+0 0 5679
+D2
+~
+~
+0 0 5702
+D3
+~
+~
+0 0 5677
+S
+#5679
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5680
+D3
+~
+~
+0 0 5678
+S
+#5680
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5681
+D3
+~
+~
+0 0 5679
+S
+#5681
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5682
+D3
+~
+~
+0 0 5680
+S
+#5682
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the north or
+west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5683
+D3
+~
+~
+0 0 5681
+S
+#5683
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the north or
+south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5684
+D2
+~
+~
+0 0 5682
+S
+#5684
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the north or
+south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5685
+D2
+~
+~
+0 0 5683
+S
+#5685
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the south or
+west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5684
+D3
+~
+~
+0 0 5686
+S
+#5686
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5685
+D3
+~
+~
+0 0 5687
+S
+#5687
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the east or
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5686
+D3
+~
+~
+0 0 5688
+S
+#5688
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue in all
+directions.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5695
+D1
+~
+~
+0 0 5687
+D2
+~
+~
+0 0 5689
+D3
+~
+~
+0 0 5690
+S
+#5689
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5688
+D5
+~
+~
+0 0 5666
+S
+#5690
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5688
+D3
+~
+~
+0 0 5691
+S
+#5691
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5690
+D3
+~
+~
+0 0 5692
+S
+#5692
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5691
+D2
+~
+~
+0 0 5693
+S
+#5693
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue north or south. 
+~
+0 262144 1
+D0
+~
+~
+0 0 5692
+D2
+~
+~
+0 0 5694
+S
+#5694
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  The Cleft Spires continue north or south. 
+~
+0 262144 1
+D0
+~
+~
+0 0 5693
+D2
+~
+~
+0 0 5676
+S
+#5695
+Cleft Spires~
+The Cleft Spires is a natural V shaped indented formation, which was
+originally formed by a fissure that opened up here many years ago.  The
+Cleft is quite wide, and can be comfortably walked on without any worries. 
+The Cleft itself is a brown rock color, with hints of red and various shiny
+parts that are embedded into it.  To the north is the Grand March, and the
+Cleft Spires continue to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5713
+D2
+~
+~
+0 0 5688
+S
+#5696
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  The Grand March is to the south, and Radke
+Avenue continues north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5697
+D2
+~
+~
+0 0 5609
+S
+#5697
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the city
+by a great deal after the war.  Along this street are various statues of the
+nobleman after whom the street gets it's namesake, which are poised in
+various different postures.  Radke Avenue continues north or south, while a
+larger road to the east heads toward the Solanthus Trade Exchange.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5698
+D1
+~
+~
+0 0 5796
+D2
+~
+~
+0 0 5696
+S
+#5698
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  Radke Avenue continues north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5699
+D2
+~
+~
+0 0 5697
+S
+#5699
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  Fien Avenue is to the west, and Radke Avenue
+continues north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5700
+D2
+~
+~
+0 0 5698
+D3
+~
+~
+0 0 5632
+S
+#5700
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  Nelson Avenue is to the east, and Radke
+Avenue continues north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5701
+D1
+~
+~
+0 0 5703
+D2
+~
+~
+0 0 5699
+S
+#5701
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  Radke Avenue continues north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5702
+D2
+~
+~
+0 0 5700
+S
+#5702
+Radke Avenue~
+Radke Avenue was named after a great nobleman who helped restore the
+city by a great deal after the war.  Along this street are various statues
+of the nobleman after whom the street gets it's namesake, which are poised
+in various different postures.  The Cleft Spires are to the north, and Radke
+Avenue continues south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5678
+D2
+~
+~
+0 0 5701
+S
+#5703
+Nelson Avenue~
+Nelson Avenue is a significant, yet small, side street in Solanthus. 
+This street is the southern link from the east side of the city, into the
+middle, where someone can go where they please.  Along the street in various
+places, is bloom of various colors and sizes, helping to brighten the city
+up some.  To the west is Radke Avenue, and Nelson Avenue continues east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5704
+D3
+~
+~
+0 0 5700
+S
+#5704
+Nelson Avenue~
+Nelson Avenue is a significant, yet small, side street in Solanthus. 
+This street is the southern link from the east side of the city, into the
+middle, where someone can go where they please.  Along the street in various
+places, is bloom of various colors and sizes, helping to brighten the city
+up some.  Nelson Avenue continues east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5705
+D3
+~
+~
+0 0 5703
+S
+#5705
+Nelson Avenue~
+Nelson Avenue is a significant, yet small, side street in Solanthus. 
+This street is the southern link from the east side of the city, into the
+middle, where someone can go where they please.  Along the street in various
+places, is bloom of various colors and sizes, helping to brighten the city
+up some.  To the north is a building with a sign over its doorway, and
+Nelson Avenue continues east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5706
+D1
+~
+~
+0 0 5707
+D3
+~
+~
+0 0 5704
+S
+#5706
+The Trusted Defender~
+The Trusted Defender is known for their fine armory throughout the city
+of Solanthus.  All along the walls are shelves that hold some of the various
+armory on display that the shop has to offer.  On the far wall from the
+door, there is a counter where the goods are sold.  The exit of the shop is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5705
+S
+#5707
+Nelson Avenue~
+Nelson Avenue is a significant, yet small, side street in Solanthus. 
+This street is the southern link from the east side of the city, into the
+middle, where someone can go where they please.  Along the street in various
+places, is bloom of various colors and sizes, helping to brighten the city
+up some.  Nelson Avenue continues east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5708
+D3
+~
+~
+0 0 5705
+S
+#5708
+Nelson Avenue~
+Nelson Avenue is a significant, yet small, side street in Solanthus. 
+This street is the southern link from the east side of the city, into the
+middle, where someone can go where they please.  Along the street in various
+places, is bloom of various colors and sizes, helping to brighten the city
+up some.  To the east is the Grand March, and Nelson Avenue continues west. 
+~
+0 262144 1
+D1
+~
+~
+0 0 5731
+D3
+~
+~
+0 0 5707
+S
+#5709
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5649
+S
+#5710
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the north is a large temple, and the Grand March continues to
+the east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5652
+D1
+~
+~
+0 0 5711
+D3
+~
+~
+0 0 5709
+S
+#5711
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5712
+D3
+~
+~
+0 0 5710
+S
+#5712
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5713
+D3
+~
+~
+0 0 5711
+S
+#5713
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the south is the Cleft Spires, and the Grand March continues
+to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5714
+D2
+~
+~
+0 0 5695
+D3
+~
+~
+0 0 5712
+S
+#5714
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5715
+D3
+~
+~
+0 0 5713
+S
+#5715
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5717
+D3
+~
+~
+0 0 5714
+S
+#5716
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the north is Lance Street, and the Grand March continues to
+the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5757
+D2
+~
+~
+0 0 5717
+S
+#5717
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north, east, or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5716
+D1
+~
+~
+0 0 5718
+D3
+~
+~
+0 0 5715
+S
+#5718
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5719
+D3
+~
+~
+0 0 5717
+S
+#5719
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or west.  To the north,
+lies the Temple of the Holy Order, also known as the Alcove of the Stars.  
+~
+0 262144 1
+D0
+~
+~
+0 0 862
+D1
+~
+~
+0 0 5720
+D3
+~
+~
+0 0 5718
+S
+#5720
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the south is a building with a sign hanging over it's
+doorway, and the Grand March continues to the east or west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5722
+D2
+~
+~
+0 0 5721
+D3
+~
+~
+0 0 5719
+S
+#5721
+Exotic Jewels~
+Exotic Jewels is known for their fine jewelry throughout the city of
+Solanthus.  All along the walls are shelves that hold some of the various
+jewelry on display that the shop has to offer.  On the far wall from the
+door, there is a counter where the goods are sold.  The exit of the shop is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5720
+S
+#5722
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the north is Lance Avenue, and the Grand March continues to
+the east or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5744
+D1
+~
+~
+0 0 5743
+D3
+~
+~
+0 0 5720
+S
+#5723
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5724
+D2
+~
+~
+0 0 5607
+S
+#5724
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5725
+D3
+~
+~
+0 0 5723
+S
+#5725
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5726
+D2
+~
+~
+0 0 5724
+S
+#5726
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the east is Guild Lane, and the Grand March continues to the
+north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5727
+D1
+~
+~
+0 0 5765
+D3
+~
+~
+0 0 5725
+S
+#5727
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5728
+D2
+~
+~
+0 0 5726
+S
+#5728
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5729
+D3
+~
+~
+0 0 5727
+S
+#5729
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5730
+D2
+~
+~
+0 0 5728
+S
+#5730
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5731
+D3
+~
+~
+0 0 5729
+S
+#5731
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the west is Nelson Avenue, and the Grand March continues to
+the south or east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5732
+D2
+~
+~
+0 0 5730
+D3
+~
+~
+0 0 5708
+S
+#5732
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5733
+D3
+~
+~
+0 0 5731
+S
+#5733
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5734
+D2
+~
+~
+0 0 5732
+S
+#5734
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5735
+D2
+~
+~
+0 0 5733
+S
+#5735
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west, and there is a
+looming gate to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5736
+D1
+~
+gate~
+1 0 5792
+D3
+~
+~
+0 0 5734
+S
+#5736
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5738
+D2
+~
+~
+0 0 5735
+S
+#5737
+Temple of Mishakal~
+This temple has been erected in the name of the goddess of healing,
+Mishakal.  As such, the temple is very beautiful with various murals on the
+walls of the inside.  All inside the temple are various signs of the great
+goddess, including symbols, tapestries, robes, jewelry, and the like.  The
+exit of the temple is east. Directly in the middle of the temple, lies a metal
+stand, holding a large white bowl of water. Around the base of the bowl, words
+have been etched into it.
+ 
+(** Note: Go down, if you wish to go to Newbie School. You will not be able
+to go down after level 5)
+~
+0 8651784 29
+E
+bowl~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read -
+{x
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+E
+water~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read -
+{x
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+D1
+~
+~
+0 0 5738
+D5
+~
+~
+0 0 3757
+S
+#5738
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  To the west is a very beautiful temple, and the Grand March
+continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5739
+D2
+~
+~
+0 0 5736
+D3
+~
+~
+0 0 5737
+S
+#5739
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the east or south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5740
+D2
+~
+~
+0 0 5738
+S
+#5740
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5741
+D3
+~
+~
+0 0 5739
+S
+#5741
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5742
+D2
+~
+~
+0 0 5740
+S
+#5742
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5743
+D2
+~
+~
+0 0 5741
+S
+#5743
+Grand March~
+The street that is currently being traveled has quite a few signs of wear
+and tear already, as it is the most used street in the city.  The street
+goes around to all areas of Solanthus, and is the main thoroughfare for the
+entire city.  All along this street are various buildings that still look
+quite new.  The Grand March continues to the south or west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5742
+D3
+~
+~
+0 0 5722
+S
+#5744
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  The Grand March is to the south, and Lance Street
+continues north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5745
+D2
+~
+~
+0 0 5722
+S
+#5745
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south, while a
+stout, official-looking building sits to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5746
+D2
+~
+~
+0 0 5744
+D3
+~
+~
+0 0 5620
+S
+#5746
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5747
+D2
+~
+~
+0 0 5745
+S
+#5747
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5748
+D3
+~
+~
+0 0 5746
+S
+#5748
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5749
+D2
+~
+~
+0 0 5747
+S
+#5749
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5748
+D3
+~
+~
+0 0 5750
+S
+#5750
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5749
+D3
+~
+~
+0 0 5751
+S
+#5751
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5750
+D3
+~
+~
+0 0 5752
+S
+#5752
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5751
+D2
+~
+~
+0 0 5753
+S
+#5753
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5752
+D2
+~
+~
+0 0 5754
+S
+#5754
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5753
+D2
+~
+~
+0 0 5755
+S
+#5755
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5754
+D3
+~
+~
+0 0 5756
+S
+#5756
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  Lance Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5755
+D3
+~
+~
+0 0 5757
+S
+#5757
+Lance Street~
+All along this street are trees of many shapes and sizes, making this
+street the scenic route into the city.  All throughout the treetops, various
+birds sing their sweet melodies, making this street seem quite peaceful. 
+The street itself is still in excellent condition, as though it has been
+remade quite recently.  The North Bridge is to the North, while the Grand
+March is to the south, and Lance Street continues east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5758
+D1
+~
+~
+0 0 5756
+D2
+~
+~
+0 0 5716
+D3
+~
+~
+0 0 5667
+S
+#5758
+North Bridge to Solanthus~
+The path that is currently being traversed is the Northern bridge into
+the great city of Solanthus.  In quite a few places the bridge is old and
+rickety, and makes loud creaking noises when you step on it.  In front of
+you, to the south, is the great city of Solanthus, while a Small Island is
+to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5759
+D2
+~
+~
+0 0 5757
+S
+#5759
+A Small Island~
+This is a little watch island in the middle of a small lake.  All around,
+this little island is surrounded by water, making an ideal place to catch
+any shady people.  The island has a single tree on it, along with soft
+ground.  To the east is a watchtower, while bridges leaving the island are
+to the south and north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5760
+D1
+~
+~
+0 0 5639
+D2
+~
+~
+0 0 5758
+S
+#5760
+North Bridge to Solanthus~
+The path that is currently being traversed is the Northern bridge into
+the great city of Solanthus.  In quite a few places the bridge is old and
+rickety, and makes loud creaking noises when you step on it.  To the north
+is the Northern entrance, while a Small Island is to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5762
+D2
+~
+~
+0 0 5759
+S
+#5761
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5762
+S
+#5762
+Before the North Bridges Into Solanthus~
+This path is an averagely traveled path to get into the city.  As such,
+the path seems quite new and in good condition.  The ground here feels like
+normal ground, because it is not traveled all that much.  To the west and
+east are watch towers, and to the south are the Northern bridges into the
+city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5764
+D1
+~
+~
+0 0 5763
+D2
+~
+~
+0 0 5760
+D3
+~
+~
+0 0 5761
+S
+#5763
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the west.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5762
+S
+#5764
+North Entrance of Solanthus~
+This is the Northern entrance into the city.  It is an averagely
+traveled entrance into the city by whomever decides to come into the city. 
+The ground here feels like normal, average ground that has some light tracks
+in it from the traffic it receives.  In the distance to the south is a
+bridge.  
+~
+0 262144 1
+D0
+~
+~
+0 0 13751
+D2
+~
+~
+0 0 5762
+S
+#5765
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  The Grand March is to the west, while Guild Lane continues
+to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5766
+D3
+~
+~
+0 0 5726
+S
+#5766
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5778
+D1
+~
+~
+0 0 5767
+D2
+~
+~
+0 0 5781
+D3
+~
+~
+0 0 5765
+S
+#5767
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5779
+D1
+~
+~
+0 0 5768
+D2
+~
+~
+0 0 5782
+D3
+~
+~
+0 0 5766
+S
+#5768
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5780
+D1
+~
+~
+0 0 5769
+D2
+~
+~
+0 0 5783
+D3
+~
+~
+0 0 5767
+S
+#5769
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5784
+D1
+~
+~
+0 0 5770
+D2
+~
+~
+0 0 5774
+D3
+~
+~
+0 0 5768
+S
+#5770
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5785
+D1
+~
+~
+0 0 5771
+D2
+~
+~
+0 0 5775
+D3
+~
+~
+0 0 5769
+S
+#5771
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5786
+D1
+~
+~
+0 0 5772
+D2
+~
+~
+0 0 5776
+D3
+~
+~
+0 0 5770
+S
+#5772
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north and south are training facilities.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5787
+D1
+~
+~
+0 0 5773
+D2
+~
+~
+0 0 5777
+D3
+~
+~
+0 0 5771
+S
+#5773
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the east and west, while to the
+north are some training facilities, and to the south is a small shack.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5788
+D1
+~
+~
+0 0 5789
+D2
+~
+~
+0 0 5790
+D3
+~
+~
+0 0 5772
+S
+#5774
+Conjuror Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5769
+S
+#5775
+Necromancer Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5770
+S
+#5776
+Enchanter Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5771
+S
+#5777
+Illusionist Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5772
+S
+#5778
+Battlemage Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5766
+S
+#5779
+Cleric Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5767
+S
+#5780
+Thief Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5768
+S
+#5781
+Warrior Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5766
+S
+#5782
+Bard Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5767
+S
+#5783
+Knight Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the north.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5768
+S
+#5784
+Barbarian Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5769
+S
+#5785
+Druid Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5770
+S
+#5786
+Ranger Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5771
+S
+#5787
+Assassin Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5772
+S
+#5788
+Spellfilcher Guild Hall~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5773
+S
+#5789
+Guild Lane~
+Guild Lane is named for all the various training facilities and buildings
+that it holds.  All along this path, there are constructs of various sizes,
+shapes, and forms that serve as facilities of training.  The road here is
+quite beaten and worn, by the many classes of beings that travel it to
+obtain training.  Guild Lane continues to the west, while to the south is a
+small building.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5793
+D2
+~
+~
+0 0 5791
+D3
+~
+~
+0 0 5773
+S
+#5790
+A Small Shack~
+This place is very small, only about big enough to hold the basics and
+about 3 people.  Plastered about the shack are large WANTED signs of anybody
+who has a bounty on their head.  The room itself is sort of dark, with the
+only illumination coming from the main door, and a small crack in the corner
+of the ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5773
+S
+#5791
+A Small Building~
+This building is a somewhat small building, there is only enough room to
+hold a very few people in the building at once.  Along the wall, pictures of
+criminals and lost objects are hanging.  Perhaps you will have to hunt one
+of these criminals or, find one of the lost treasures.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5789
+S
+#5792
+East Gate of Solanthus~
+There is a looming gate standing here, built soon after the War of the
+Lance had ended.  The large gate stands about 15 stones tall, and is made
+from a combination of fine wood, steel, and other metals.  The gate's posts
+are carved with ornate insignias of the gods of Krynn.  Here at the gate,
+are other travelers, merchants, and citizens forming a line for entry into
+the city.  From here, one can wait, and attempt entry, or go back east, to
+the Outskirts of Solanthus.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5794
+D1
+~
+~
+0 0 4703
+D2
+~
+~
+0 0 5795
+D3
+~
+gate~
+1 0 5735
+S
+#5793
+Guild of Blacksmiths~
+The inside of this building shows some obvious signs of use over the
+years that it has been in use.  All inside this building are various places
+for people to train themselves in various arts and skills, and a large safe
+area in one corner for any magics to be used.  Along the floor are various
+tapestries for those who wish to rest, meditate, or otherwise.  The exit is
+to the south.  
+~
+0 263176 1
+D2
+~
+~
+0 0 5789
+S
+#5794
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the south.  
+~
+0 262148 1
+D2
+~
+~
+0 0 5792
+S
+#5795
+Watch Tower~
+This is one of the watchtowers that guard the city of Solanthus.  From
+up here in the tower, one can get a good look at what is going in and out of
+the city.  In the tower is a barrel of arrows, presumably for times that the
+arrows may be needed.  The watchtower itself is quite beat up from several
+attacks on it from the post war.  The tower exits to the north.  
+~
+0 262148 1
+D0
+~
+~
+0 0 5792
+S
+#5796
+Solanthus Trade Exchange~
+This large open area has been set aside to accomodate the number of
+travelling artisans from all over Ansalon who visit the city to sell their
+wares and services.  A number of merchant stalls have been erected around
+the perimiter, with a large public forge near the western end.  Here,
+various smiths, jewellers, leatherworkers and other craftsmen compare their
+handiwork and compete for patrons before moving on to the next town.
+~
+0 262144 1
+D3
+~
+~
+0 0 5697
+S
+#0
+
+
+
+#SPECIALS
+M 5600 spec_fido
+M 5603 spec_guard
+M 5604 spec_rloader
+M 5605 spec_executioner
+M 5606 spec_guard
+M 5608 spec_cast_cleric
+M 5609 spec_cast_mage
+M 5620 spec_hometownchanger
+M 5737 spec_cast_adept
+M 5791 spec_questmaster
+M 5796 spec_guard
+S
+
+
+
+#RESETS
+D 0 5735 1 1
+D 0 5792 3 1
+M 0 5610 1 5600 1
+G 0 5701 0
+G 0 5733 0
+G 0 5735 0
+G 0 5797 0
+G 0 5620 0
+G 0 5621 0
+O 0 5623 0 5600
+M 0 5603 20 5601 1
+M 0 5603 20 5602 1
+M 0 5603 20 5603 1
+M 0 5601 7 5603 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5603 20 5604 1
+M 0 5603 20 5605 1
+M 0 5602 25 5607 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5612 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5603 20 5619 1
+M 0 5601 7 5619 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5620 1 5620 1
+M 0 5603 20 5621 1
+M 0 5603 20 5622 1
+M 0 5603 20 5623 1
+M 0 5603 20 5624 1
+M 0 5604 5 5626 1
+E 0 5613 0 5
+E 0 5612 0 20
+M 0 5602 25 5628 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5630 1 5630 1
+M 0 5602 25 5635 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5636 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5604 5 5638 1
+E 0 5613 0 5
+E 0 5612 0 20
+M 0 5603 20 5639 1
+M 0 5601 7 5639 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5602 25 5640 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5642 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5644 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5645 1 5645 1
+G 0 5710 0
+G 0 5709 0
+G 0 5714 0
+G 0 5708 0
+G 0 5610 0
+G 0 5611 0
+G 0 5609 0
+G 0 5608 0
+M 0 5602 25 5648 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5650 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5652 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5656 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5657 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5659 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5664 1 5664 1
+G 0 5664 0
+G 0 5663 0
+G 0 5665 0
+G 0 5662 0
+G 0 5799 0
+M 0 5602 25 5665 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5626 1 5670 1
+G 0 5670 0
+G 0 5669 0
+G 0 5673 0
+G 0 5671 0
+G 0 5672 0
+M 0 5602 25 5673 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5674 1 5674 1
+M 0 5602 25 5675 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5604 5 5679 1
+E 0 5613 0 5
+E 0 5612 0 20
+M 0 5602 25 5680 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5682 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5693 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5695 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5696 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5605 1 5700 1
+E 0 5614 0 20
+E 0 5615 0 17
+E 0 5616 0 5
+E 0 5617 0 8
+M 0 5602 25 5701 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5705 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5706 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5706 1 5706 1
+G 0 5706 0
+G 0 5705 0
+G 0 5707 0
+G 0 5704 0
+M 0 5604 5 5709 1
+E 0 5612 0 20
+E 0 5613 0 5
+M 0 5602 25 5714 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+O 0 5622 0 5717
+M 0 5721 1 5721 1
+G 0 5720 0
+G 0 5721 0
+G 0 5719 0
+G 0 5718 0
+M 0 5602 25 5722 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5604 5 5724 1
+E 0 5612 0 20
+E 0 5613 0 5
+M 0 5602 25 5728 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5735 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5736 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5603 18 5737 1
+M 0 5737 1 5737 1
+O 0 5737 0 5737
+M 0 5604 5 5738 1
+E 0 5612 0 20
+E 0 5613 0 16
+M 0 5602 25 5743 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5749 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5602 25 5755 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5603 20 5759 1
+M 0 5603 20 5761 1
+M 0 5601 7 5761 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5603 20 5762 1
+M 0 5603 20 5763 1
+M 0 5601 7 5763 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5602 25 5767 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5774 1 5774 1
+M 0 5775 1 5775 1
+M 0 5776 1 5776 1
+M 0 5777 1 5777 1
+M 0 5778 1 5778 1
+M 0 5779 1 5779 1
+M 0 5780 1 5780 1
+M 0 5781 1 5781 1
+M 0 5782 1 5782 1
+M 0 5783 1 5783 1
+M 0 5784 1 5784 1
+M 0 5785 1 5785 1
+M 0 5786 1 5786 1
+M 0 5787 1 5787 1
+E 0 5787 0 20
+M 0 5788 1 5788 1
+M 0 5602 25 5789 1
+E 0 5602 0 5
+E 0 5603 0 13
+E 0 5604 0 12
+E 0 5605 0 8
+E 0 5606 0 11
+E 0 5607 0 20
+M 0 5790 1 5790 1
+M 0 5791 1 5791 1
+M 0 5606 1 5792 1
+E 0 5618 0 20
+E 0 5619 0 5
+M 0 5793 1 5793 1
+M 0 5603 20 5794 1
+M 0 5601 7 5794 1
+E 0 5600 0 16
+E 0 5601 0 20
+M 0 5603 20 5795 1
+M 0 5601 7 5795 1
+E 0 5600 0 16
+E 0 5601 0 20
+O 0 5794 0 5796
+O 0 5795 0 5796
+O 0 5796 0 5796
+M 0 5796 2 5796 2
+S
+
+
+
+#SHOPS
+5610 0 0 0 0 0 100 100 0 23
+5626 5 5 5 5 39 150 75 0 23
+5645 0 0 0 0 0 150 75 0 23
+5664 0 0 0 0 0 125 75 0 23
+5706 0 0 0 0 0 150 75 0 23
+5721 0 0 0 0 0 125 80 0 23
+0
+
+
+
+#MOBPROGS
+#5606
+if isgood $n
+say Good day to you, $n.
+mob gtransfer $n 5735
+break
+endif
+if isneutral $n
+emote eyes $n cautiously as he lets $m pass.
+mob gtransfer $n 5735
+break
+endif
+if level $n < 80
+say Be gone with you, fiend of darkness!
+mob echo $I banishes $n from sight.
+mob gtransfer $n 3054
+else
+say Die, you fiend of darkness!
+mob cast 'dispel magic' $n
+mob cast 'paralysis' $n
+kill $n
+endif
+~
+#5607
+if isgood $n
+if isvisible $n
+glare $n
+MOB ZECHO {RA loud voice cries out "For the glory of the Queen! ATTACK!!"{x
+MOB KILL $n
+endif
+peer
+endif
+~
+#5720
+say NO! You can't have it! It's mine!
+mob echo $i throws back his head and cackles evilly!
+emote tightens his clutches around his gem, and holds it close to himself.
+~
+#5721
+emote looks at $n wearily.
+say Aye, $n, are you wanting my pretty jewel?
+~
+#5722
+say Ah, ya pay a pretty piece of steel for my pretty stone..
+mob echo $i greedily takes the steel from $n's hand!
+say Here then. Stone pretty, yes?
+mob oload 5722
+give clear $n
+~
+#5723
+MOB REMEMBER $n
+say Lots of pretties! Pretty mine get!
+MOB ECHO $i hops down from the stool and slowly walks into the back.
+MOB GOTO 1200
+if objhere 1210
+get marbles
+endif
+MOB DELAY 2
+~
+#5724
+MOB GOTO 5721
+MOB ECHO $i has arrived.
+if hastarget $i
+and isvisible $q
+else
+MOB ECHO $i simply scratches his head.
+if carries $i marbles
+MOB JUNK marbles
+MOB AT 1200 MOB OLOAD 1210
+MOB AT 1200 drop marbles
+endif
+MOB FORGET
+break
+endif
+if carries $i marbles
+say Here, pretty, yes?!
+give marbles $q
+else
+say Forgot pretties, at least I still have my pretties!
+endif
+~
+#5774
+~
+#5787
+mob echo Someone notices you enter the room before you can do anything and disappears into the darkness.
+mob echo .
+hide
+mob echo You enter the room, looking around for signs of your guildmaster.
+mob echo Suddenly, you get pulled back and a sharp dagger is held tightly up to your neck.
+mob echo A few nerve-racking seconds pass.....
+mob delay 2
+~
+#5788
+mob echo The blade that is held up to your neck lowers slowly...
+say Be fortunate that you are an assassin, such as myself. How do you know, you ask? After years in this trade, you know who your fellow assassins are.
+~
+#0
+
+#OBJPROGS
+#5606
+~
+#5610
+obj force $n emote looks over at you, winks, then uncorks the bottle, and quaffs what looks like nothing.
+obj echo $n suddenly disappears from sight!
+~
+#5706
+if rand 75
+    if ispc $N
+    or ischarm $N
+    or mobs < 1
+        break
+    endif
+obj echo The $i begins singing loudly!
+obj echo The loud singing of $i cause $N to get annoyed and attack $n!
+obj force $N kill $n
+endif
+~
+#5740
+OBJ ECHOAT $n The apple you just ate exploded inside you!
+OBJ DAMAGE $n 50 50
+OBJ ECHOAROUND $n $n burps loudly after eating $I. Must be good.
+~
+#5773
+OBJ ECHOAT $n Yuck! Those rations sure tasted damn nasty!
+~
+#5797
+if isimmort $n
+break
+endif
+OBJ ECHOAT $n Poison. You are DEAD!!
+OBJ DAMAGE $n 10000 10000 lethal
+~
+#5798
+if isimmort $n
+break
+else
+OBJ ECHOAT $n It's deadly poison! You slump over, dead!
+slay $n
+endif
+~
+#0
+
+#ROOMPROGS
+#5666
+room echoat $n You have been impaled on the spikes!
+room damage $n 10000 15000 lethal
+~
+#5778
+if class $n battlemage
+break
+else
+room echoat $n You are not welcome here. This hall is for Battlemages only.
+room echoat $n You suddenly find yourself back on the street.
+room transfer $n 5766
+room force $n look
+endif
+~
+#0
+
+#$

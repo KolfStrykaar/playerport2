@@ -1,0 +1,1452 @@
+#PLAYER
+Name Mayerik~
+Surname Nightshade~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1094753562
+LogO 1421478586
+Vers 10
+Act  CDGHQTe
+Desc Here stands a small male Half-elf dressed all in {Dblack{ . He has {Ggreen
+eyes{ , {Yblond hair{ , {Ddark skin{  and his face has some freckles. He
+is wilding a small wicked dagger and he is adicted on pokects and  passing
+his tongue over his dagger.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e{r>{x %B ~
+Race half-elf~
+Religion 1
+Sex  1
+Cla  2
+Hmtown 0
+Levl 97
+recall_point 3001
+Levscale 30
+Xptolev  889759
+Sec  0
+Plyd 1880907
+Not  1420281656 1395959842 0 1410808993 1298827134
+Scro 98
+Room 4860
+HMV  2177 2177 648 648 878 878
+Steel 88051
+Gold 3452058
+Bank 260600
+Exp  13219391
+AfBy FJOP
+AfBy3 O
+Deaths 17
+FlagTot 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3014656
+Comm NOQ
+Pos  8
+Prac 29
+Trai 10
+Reward_timer 18
+Save  -45
+Alig  -1000
+Ethos 0
+Hit   49
+Dam   52
+ACs -396 -394 -405 -331
+Wimp  300
+Attr 28 19 31 30 29 16
+AMod 9 1 2 22 5 5
+Pass YoFlstEcb0n4E~
+Titl  the Thief of Life~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 515
+HMVP 1770 323 728
+Cnd  0 46 50 0
+QuestPnts 391
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 18 'detect poison'
+Sk 98 'infravision'
+Sk 100 'dagger'
+Sk 74 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 74 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 79 'demand'
+Sk 100 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 92 'mount'
+Sk 84 'pickpocket'
+Sk 1 'mountjack'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 93 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 98 'pick lock'
+Sk 100 'sneak'
+Sk 95 'steal'
+Sk 50 'recall'
+Sk 87 'disguise'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 18 'strip'
+Sk 100 'taunt'
+Sk 89 'eavesdrop'
+Sk 100 'evade'
+Sk 75 'boobytrap'
+Sk 75 'disarm traps'
+Sk 100 'staff'
+Sk 5 'eyerub'
+Sk 100 'instruct'
+Sk 56 'evade spell'
+Affc 'detect hidden'   0  95  80   0   0         32
+Affc 'divine favor'   7  96  12   0   0      16384
+Affc 'sneak'   0  96  86   0   0      32768
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 91
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 85
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 262145
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  55
+Cost 950
+Val  12 12 12 8 0
+Affc 'cultural artistry'   0  54  -1  17  13          0
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262144
+Cond 88
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 96
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 98
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 88
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 88
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 88
+Mat  wool~
+Wear 13
+Lev  101
+Cost 1010
+Val  21 21 21 17 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 91
+Mat  iron~
+Wear 10
+Lev  101
+Cost 1010
+Val  21 21 21 17 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 88
+Mat  iron~
+Wear 9
+Lev  101
+Cost 1010
+Val  21 21 21 17 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 17555
+Nest 0
+ExtF 0
+Cond 92
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1208
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  37
+Cost 0
+Val  18 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  37
+Cost 0
+Val  18 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  37
+Cost 0
+Val  18 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill giant strength~
+ShD  a pill of giant strength~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 55 0 0 0
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 12240
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16457
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 92
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 96
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 98
+Wear 4
+Cost 0
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3368
+Nest 0
+ExtF 262152
+Cond 100
+Wear 5
+Cost 500
+Val  25 25 25 22 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 99
+Wear 3
+Cost 0
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10877
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10877
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1895
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16809994
+Cond 100
+Wear -1
+Cost 800
+Val  2 8 20 2 201
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16779800
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 12
+End
+
+#O
+Vnum 12093
+Nest 1
+ExtF 16777822
+Cond 100
+Wear -1
+Cost 5100
+Val  2 9 16 11 78
+End
+
+#O
+Vnum 11144
+Nest 1
+ExtF 17039452
+Cond 57
+Wear -1
+Cost 3845
+Val  2 9 13 11 77
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 90
+Wear -1
+Cost 13485
+Val  2 10 11 33 77
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Name knife slaying~
+ShD  ({rBloodstained{x) Knife of Slaying~
+Desc A thin knife stained by countless years of bloodletting lies here.~
+ExtF 16777224
+Cond 35
+Wear -1
+Cost 0
+Val  2 9 16 1 77
+End
+
+#O
+Vnum 3075
+Nest 0
+Cond 91
+Wear -1
+Cost 420
+End
+
+#O
+Vnum 5700
+Nest 0
+Name stone dagger~
+ShD  a stone dagger~
+Desc There appears to be a dagger rudimentaly cut from stone.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 44
+Mat  stone~
+Wear 20
+Lev  110
+Cost 1100
+Val  2 10 16 2 81
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

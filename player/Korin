@@ -1,0 +1,400 @@
+#PLAYER
+Name Korin~
+Surname Icentus~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1417633919
+LogO 1419512142
+Vers 10
+Act  CDEFGQTe
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  1
+Cla  11
+Hmtown 0
+Levl 15
+recall_point 3001
+Levscale 30
+Xptolev  3527
+Sec  0
+Plyd 60244
+Not  1417639648 1395959842 0 0 1153022619
+Scro 22
+Room 3261
+HMV  166 166 283 283 184 184
+Steel 72
+Gold 4204
+Bank 0
+Exp  25273
+AfBy J
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2949120
+Comm NOZ
+Pos  8
+Prac 22
+Trai 1
+Alig  -758
+Ethos 0
+ACs 65 71 53 74
+Attr 13 22 16 13 13 16
+AMod 0 0 0 1 1 0
+Pass Kok1FHSUrBhMQ~
+Titl  the Murderous~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 14
+HMVP 166 283 184
+Cnd  0 45 45 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 80 'armor'
+Sk 75 'blindness'
+Sk 100 'burning hands'
+Sk 92 'chill touch'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 76 'detect good'
+Sk 78 'detect magic'
+Sk 75 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 75 'orb of containment'
+Sk 1 'harm'
+Sk 1 'life transfer'
+Sk 75 'infravision'
+Sk 75 'invisibility'
+Sk 76 'know alignment'
+Sk 77 'magic missile'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 75 'protection good'
+Sk 75 'teleport'
+Sk 75 'weaken'
+Sk 1 'word of recall'
+Sk 1 'acid breath'
+Sk 83 'dagger'
+Sk 75 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'shadow walk'
+Sk 1 'animate corpse'
+Sk 1 'fear'
+Sk 1 'horrid wilting'
+Sk 1 'paralysis'
+Sk 1 'vampiric touch'
+Sk 1 'undead disruption'
+Sk 1 'nightmare'
+Sk 1 'cavorting bones'
+Sk 77 'enervation'
+Sk 1 'remove paralysis'
+Sk 83 'cantrip'
+Sk 1 'disintegrate'
+Sk 1 'wraithform'
+Sk 1 'word of death'
+Sk 75 'coldfire'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'drain rune'
+Sk 78 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 75 'dwarven tongue'
+Sk 75 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 75 'kagonesti tongue'
+Sk 75 'dargonesti tongue'
+Sk 75 'dimernesti tongue'
+Sk 75 'kender tongue'
+Sk 75 'minotaur tongue'
+Sk 75 'ogre tongue'
+Sk 75 'draconian tongue'
+Sk 81 'meditation'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 75 'recall'
+Sk 75 'dark taint'
+Sk 1 'drain blood'
+Sk 1 'forget'
+Sk 1 'forgedeath'
+Sk 1 'preservation'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 77 'jab'
+Sk 1 'detect presence'
+Sk 1 'preserve dead'
+Sk 1 'ray of fatigue'
+Sk 75 'surge'
+Sk 75 'endure'
+Sk 75 'boil blood'
+Sk 1 'great wasting'
+Sk 75 'coldlight'
+Sk 1 'resist cold'
+Sk 75 'deadeye'
+Sk 1 'renew bones'
+Sk 1 'breath of the dead'
+Sk 1 'intensify death'
+Sk 1 'deafness'
+Sk 77 'trance'
+Sk 75 'staff'
+Sk 1 'unholyrite'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'armor'   0  11   2 -20  17          0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 32 0 0 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 5758
+Nest 0
+Cond 100
+Wear -1
+Time 455
+Cost 270
+Spell 1 'change sex'
+Spell 2 'deafness'
+Spell 3 'curse'
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 380
+Val  0 0 62 0 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#END

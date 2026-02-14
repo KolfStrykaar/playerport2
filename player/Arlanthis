@@ -1,0 +1,1673 @@
+#PLAYER
+Name Arlanthis~
+Surname Breeze~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1266813079
+LogO 1421985764
+Vers 10
+Act  CDEGHLQT
+Desc Before you stands a blonde haired man of average build and size.
+Grey streaks run through his head and though his flesh is youthful,
+the wrinkles around his eyes and look on his face tell a story of much seen.
+An old man in the body of a middle aged one, his voice still carries in the wind hope's melody.
+Articulate and well versed, his ways are no stranger to the taverns and orders of Krynn.
+Once loved, then despised, now on the road to Redemption. You stand in the presence of a living legend.
+On his head is a plumed golden helm, his body covered in matching golden plates.All very detailed in the design.
+Around his waist is a short sword with a golden hilt and on his back a bag of instruments and a silver staff
+with solamnic markings.
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Org 3
+Religion 14
+Sex  1
+Cla  4
+Hmtown 0
+Levl 101
+recall_point 4838
+Levscale 30
+Xptolev  1283650
+Sec  0
+Plyd 3850546
+Not  1420281656 1395959842 0 1410808993 1379084822
+Scro 22
+Room 3054
+HMV  3432 3432 1650 1650 909 909
+Steel 2906
+Gold 17310833
+Bank 261042790
+Exp  17453200
+AfBy DFO
+Deaths 2
+FlagTot 0 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 2 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 3014656
+Comm NOQd
+Pos  8
+Save  -34
+Alig  1000
+Ethos 2
+Hit   78
+Dam   76
+ACs -502 -510 -520 -468
+Wimp  100
+Attr 23 15 19 18 21 26
+AMod 17 5 8 17 10 5
+Pass ArcIvqGFlHxrU~
+Titl  - {BLegendary{  {WBard{ ~
+Pretit Sir{x~
+Pnts 0
+TSex 1
+LLev 509
+HMVP 2146 880 759
+Cnd  0 46 46 0
+QuestPnts 17
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias 9 9~
+Alias 7 7~
+Alias 5 5~
+Alias 4 4~
+Alias 0 play song of nightmares~
+Sk 100 'dispel magic'
+Sk 100 'summon'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 95 'polearm'
+Sk 75 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 22 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 95 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 56 'trip'
+Sk 100 'second attack'
+Sk 100 'counter'
+Sk 100 'deathgrip'
+Sk 89 'dual wield'
+Sk 100 'play music'
+Sk 100 'mount'
+Sk 1 'battle tactics'
+Sk 100 'wear chain'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'solamnic tongue'
+Sk 100 'lore'
+Sk 91 'sneak'
+Sk 100 'scrolls'
+Sk 51 'recall'
+Sk 99 'chant of battle'
+Sk 100 'chords of dissonance'
+Sk 70 'battlecry'
+Sk 70 'charge'
+Sk 70 'pardon'
+Sk 70 'backup'
+Sk 97 'tumble'
+Sk 67 'trammel'
+Sk 100 'serenade'
+Sk 75 'taunt'
+Sk 100 'bravado'
+Sk 100 'lull'
+Sk 77 'pacify'
+Sk 70 'riposte'
+Sk 96 'redirect'
+Sk 70 'pivot block'
+Sk 100 'acrobatics'
+Sk 100 'rally'
+Sk 100 'staff'
+Sk 2 'eyerub'
+Sk 63 'smother'
+Sk 100 'instruct'
+Sk 75 'singing'
+Sk 100 'dancing strike'
+Affc 'detect hidden'   0  79  15   0   0         32
+Affc 'detect invis'   0  81  15   0   0          8
+End
+
+#O
+Vnum 1257
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 5617
+Enchanted
+Nest 0
+Name pair black dragon scale leggings~
+ShD  a pair of {Dblack{x dragon scale leggings~
+Desc An ages old pair of leggings rests here, discarded and covered in mud and grit.~
+Cond 97
+Wear 8
+Cost 0
+Affc 'reserved'   1  80  -1  -2  20          0
+Affc 'reserved'   1  80  -1   5  18          0
+Affc 'reserved'   1  80  -1   3  19          0
+Affc 'reserved'   1  80  -1   1   5          0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name solid wall faceplate~
+ShD  a solid wall faceplate with no eye openings~
+Desc A solid fall faceplate with no eye openings sits here.~
+ExtF 17039435
+Cond 97
+Wear 7
+Cost 14500
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 2653
+Nest 0
+Name silver flute~
+ShD  a {WSilver{X flute~
+Desc A silver flute lies on the ground.~
+Cond 100
+Wear 21
+Cost 1470
+End
+
+#O
+Vnum 17850
+Nest 0
+Name solamnic dragonskin armor~
+ShD  Superior {cSolamnic{X Dragonskin Armor~
+Desc A finely made suit of Dragonskin armor sits here.~
+ExtF 17039360
+Cond 99
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 1911
+Nest 0
+Name duty helm~
+ShD  {WDuty{X~
+Desc The griffon wings clearly mark this as a {cSolamnic{X helm.~
+ExtF 25166155
+Cond 97
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 9400
+Nest 0
+Name solamnic cloak~
+ShD  a {cSolamnic{X cloak~
+Desc A finely woven but frayed cloth cloak, the border deteailed with little swords and zigzagging geometric shapes.~
+ExtF 17039425
+Cond 90
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+Name solamnic cloak~
+ShD  a {cSolamnic{X cloak~
+Desc A finely woven but frayed cloth cloak, the border deteailed with little swords and zigzagging geometric shapes.~
+ExtF 17039425
+Cond 89
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name simple ring~
+ShD  a simple {cring{X~
+Desc A simple ring with the name "Arlanthis" inscribed on the inside.~
+ExtF 16777280
+Cond 95
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name simple ring~
+ShD  a simple {cring{x~
+Desc A simple ring with the name "Arlanthis" inscribed on the inside.~
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 16462
+Nest 0
+Name black ankle sheath~
+ShD  a {Dblack{x ankle {Dsheath{x~
+Desc A black ankle sheath sits here, long forgotten and lost.~
+ExtF 25166155
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name black ankle sheath~
+ShD  a {Dblack{x ankle {Dsheath{x~
+Desc A black ankle sheath sits here, long forgotten and lost.~
+ExtF 25166155
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 1916
+Nest 0
+Name black belt~
+ShD  a {Dblack{x belt~
+Desc This simple black belt rests on the ground, discarded and long forgotten.~
+ExtF 17039616
+Cond 98
+Wear 17
+Cost 0
+Val  39 39 39 39 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name black shimmering cape~
+ShD  a {Dblack shimmering{x cape~
+Desc A shimmering black cape sits here. ~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 88
+Mat  brass~
+Wear 14
+Lev  82
+Cost 820
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0  72  -1  26  13          0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name black leather shoes~
+ShD  some {Dblack leather{x shoes~
+Desc Some black leather shoes sit here, old and worn.~
+Cond 96
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Name black gloves~
+ShD  a pair of {Dblack{x gloves~
+Desc A pair of black silk gloves sit here. ~
+ExtF 262152
+Cond 97
+Wear 12
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name black dragon scale~
+ShD  a pair of {Dblack{x dragon scale arm guards~
+Desc Arm guards with the Breeze Family Crest etched into them rest here. ~
+ExtF 25182664
+Wt   1
+Cond 97
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 9426
+Enchanted
+Nest 0
+Name bloody black robes~
+ShD  some {rbloody{x {Dblack{x robes~
+Desc Some bloody black robes sit here.~
+ExtF 0
+Cond 97
+Wear 16
+Cost 0
+Affc 'reserved'   1 110  -1  20  12          0
+Affc 'reserved'   1 110  -1  -2  20          0
+Affc 'reserved'   1 110  -1   6  18          0
+Affc 'reserved'   1 110  -1   6  19          0
+Affc 'reserved'   0 110  -1   0   0      16384
+End
+
+#O
+Vnum 16457
+Nest 0
+Name shroud darkness~
+ShD  {DShroud{x of {DDarkness{x~
+Desc The Shroud of Darkness sits here. ~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll knock~
+ShD  a scroll of knock ~
+Cond 100
+Wear -1
+Lev  70
+Cost 133
+Val  35 219 -1 -1 0
+Spell 1 'knock'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll eagle eye~
+ShD  a scroll of eagle eye~
+Cond 100
+Wear -1
+Lev  70
+Cost 157
+Val  35 423 -1 -1 0
+Spell 1 'eagle eye'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 587
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 587
+Spell 1 'identify'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll knock~
+ShD  a scroll of knock ~
+Cond 100
+Wear -1
+Lev  70
+Cost 162
+Val  35 219 -1 -1 0
+Spell 1 'knock'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll lock~
+ShD  a scroll of lock ~
+Cond 100
+Wear -1
+Lev  70
+Cost 102
+Val  35 446 -1 -1 0
+Spell 1 'lock'
+End
+
+#O
+Vnum 2635
+Nest 1
+Name demonic cheeseburger burger~
+ShD  a {DDemonic{x {YCheeseburger{x~
+Desc Here lies a pretty delicious looking cheeseburger... but you swear it has teeth.  Eat it before it eats you!~
+Cond 100
+Wear -1
+Cost 225
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer golden~
+ShD  ({yArtifact{x) a {Ygolden{x bracer~
+Desc A golden bracer, obviously well-aged, rests here. ~
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name golden bracer artifact~
+ShD  ({yArtifact{x) a {Ygolden{X bracer~
+Desc Glowing with a strange aura, a bracer that is obviously ages old sits here.~
+ExtF 262144
+Cond 100
+Wear 18
+Cost 0
+Val  36 37 37 39 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Name tattered bard bag~
+ShD  a {Dtattered{x bard's {Ybag{x~
+Desc You see a comfortable looking bag of intruments.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15196
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  83
+Cost 0
+Val  5 9 9 21 131072
+Affc 'cultural artistry'   5  73  -1   0   0     131072
+End
+
+#O
+Vnum 14278
+Nest 1
+ExtF 67895298
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2633
+Nest 1
+Name jelly bean candy~
+ShD  a multi colored jelly bean~
+Desc A jelly bean that glows different colors.~
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 2633
+Nest 1
+Name jelly bean candy~
+ShD  a multi colored jelly bean~
+Desc A jelly bean that glows different colors.~
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 2633
+Nest 1
+Name jelly bean candy~
+ShD  a multi colored jelly bean~
+Desc A jelly bean that glows different colors.~
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 2633
+Nest 1
+Name jelly bean candy~
+ShD  a multi colored jelly bean~
+Desc A jelly bean that glows different colors.~
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 14007
+Nest 1
+ExtF 16780126
+Cond 98
+Wear -1
+Cost 850
+Val  1 9 16 1 32846
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 780
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 780
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 780
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1268
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Crysania's blood~
+Desc A jar of Crysania's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 196 13 0 0
+End
+
+#O
+Vnum 3005
+Nest 1
+Name edge song glory~
+ShD  Edge of {WSong{x and {BGlory{x~
+Desc You see a phantom looking stick shimmering in and out of existence here.~
+ExtF 0
+Cond 68
+Wear -1
+Cost 0
+Val  10 14 11 7 82017
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil~
+ShD  a potion of cloak of evil~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 393 -1 -1 -1
+Spell 1 'cloak of evil'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Alea, Captain of the Guard's blood~
+Desc A jar of Alea, Captain of the Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of an elven zombie's blood~
+Desc A jar of an elven zombie's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 918
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1620
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1305
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1602
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1044
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1089
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11706
+Nest 1
+Cond 100
+Wear -1
+Cost 190
+Spell 3 'word of recall'
+End
+
+#O
+Vnum 1206
+Nest 1
+Name jar oil white~
+ShD  ({WPure{x) a jar of {WWhite Oil{x~
+Desc A jar full of a clear substance produces its own light. Even in the darkness!~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a fat merchant's blood~
+Desc A jar of a fat merchant's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill change sex~
+ShD  a pill of change sex~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 13 0 0 0
+Spell 1 'change sex'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill change sex~
+ShD  a pill of change sex~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 13 0 0 0
+Spell 1 'change sex'
+End
+
+#O
+Vnum 16310
+Nest 1
+Cond 100
+Wear -1
+Cost 28
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2595
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2280
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1710
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2910
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2655
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1545
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2775
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5190
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4530
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5130
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4950
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2820
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  (USED) a Make Over coupon~
+Desc A coupon good for restringing 11 items - Paladine~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9400
+Nest 1
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Arlanthis's blood~
+Desc A jar of Arlanthis's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 17724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5850
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 19006
+Nest 0
+Name solamnic staff~
+ShD  a {cSolamnic{x Staff~
+Desc A staff that wears the emblem of the Solamnics sits here, forgotten.~
+ExtF 17055746
+Cond 87
+Wear 20
+Cost 1200000
+Val  10 12 13 13 32869
+End
+
+#O
+Vnum 3346
+Enchanted
+Nest 0
+Name violin sorrow~
+ShD  the {DViolin{x of {DSorrow{x~
+Desc The legendary epic instrument sits here. ~
+ExtF 524881
+Cond 100
+Wear -1
+Cost 380
+Affc 'reserved'   0 105  -1 150  13          0
+Affc 'reserved'   0 105  -1  15  18          0
+Affc 'reserved'   0 105  -1  15  19          0
+Affc 'reserved'   0 105  -1 -100  17          0
+Affc 'reserved'   0 105  -1 -10  25          0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 14545
+Enchanted
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Affc 'reserved'   0  20  -1   0   0  134217728
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 13701
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13700
+Nest 0
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1421985764
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Arlanthis'.
+~
+Sex  1
+HMV  117 117 142 142 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

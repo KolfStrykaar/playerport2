@@ -1,0 +1,5415 @@
+#AREADATA
+Name Lemish~
+Builders Reorx~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 700 850
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+lord tyrion man~
+Lord Tyrion~
+The mysterious Lord Tyrion stands before you.
+~
+The man before you is the much sought after Lord Tyrion, commander of the
+Knights of Takhisis that control Lemish.  His piercing blue eyes send a
+shiver to the very core of your soul.  A pain builds in your chest until you
+are forced to look away or suffer endlessly.  The man is a model of how any
+dark knight should look like, from his muscled body to his mastery of the
+sword.  
+~
+human~
+AGT HO -800 0
+32 32 48d10+292 32d10+85 9d3+15 slash
+-5 -5 -5 1
+K 0 BC 0
+stand stand male 320
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#701
+draconian commander kron~
+Commander Kron~
+A draconian wearing the rank of commander stares at you.
+~
+The draconian stares at you with his one good eye.  The right side of his
+face reveals a healed scar the runs from his missing eye down to his throat.
+His scales shimmer with slight silver undertones.  Some would say he is a
+sivak, while others do not quite know what type of dragon egg he spawned
+from.  
+~
+draconian~
+AGT OTc -1000 0
+31 31 47d10+283 31d10+85 8d3+15 claw
+-5 -5 -5 1
+HMN Q BGIP 0
+stand stand male 310
+HMV ABCDEFGHJKPQUVX L unknown 0
+F imm P
+F res EM
+F for A
+F par W
+#702
+man subcommander rypton~
+Subcommander Rypton~
+A man wearing the rank of a subcommander stands here.
+~
+A human male with little facial hair reads over a clipboard held in his
+hand.  It is his duty to ensure that all patrol reports are logged, and any
+trouble that is reported is quickly dealt with.  He is second in command of
+the dark knights that garrison this city, with Lord Tyrion being the overall
+commander.  
+~
+human~
+AGT 0 -850 0
+29 29 44d9+264 29d10+85 8d3+14 slash
+-4 -4 -4 2
+0 0 GL 0
+stand stand male 290
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#703
+hobgoblin commander drakan~
+Commander Drakan~
+A hobgoblin wearing the rank of commander picks his nose.
+~
+Commander Drakan is said to have gotten his name by slaying a handful of
+baby dragons and eating them for breakfast.  He is not very smart but he
+still somehow manages to keep his hobgoblin unit in check.  His favorite
+weapon of choice is a heavy flail with razor sharp barbs that have been
+dipped into poison.  
+~
+hobgoblin~
+ABT J -1000 0
+30 30 45d10+274 30d10+85 8d3+15 pound
+-4 -4 -4 1
+C 0 LQ 0
+stand stand male 300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+F par Y
+#704
+man follower lily~
+a Follower~
+A follower wears the symbol of a death lily on his armor.
+~
+A dark knight dressed in black armor with engraved pictures of death
+lilies.  His watchful eye glances over everyone in sight.  Any quick
+movements, made by the passing populace, are closely monitored.  He does not
+stand in one place, for too long, as he continues on his patrol.  
+~
+human~
+AGT 0 -500 0
+18 18 27d6+164 18d10+85 5d3+11 pound
+0 0 0 4
+0 0 0 0
+stand stand male 180
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#705
+soldier lancer man~
+a lancer~
+A soldier walks by armed with a lance.
+~
+A dark knight stands off to the side armed, not with a sword but, with a
+lance.  He carries a footman's lance that is almost black in color with a
+reddish tint to it.  He stands ready in case Solamnic forces decide to
+invade the city from the backs their metallic dragons.  The knight glances
+into the sky each time a cloud passes overhead.  
+~
+human~
+AGT O -500 0
+15 15 23d5+137 15d10+85 4d3+10 pierce
+2 2 2 5
+0 0 0 0
+stand stand male 150
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#706
+man supplicant knight~
+a supplicant~
+A supplicant dressed in mismatching armor stands here.
+~
+For every dark knight that has earned the right to wear the lily, one
+must first prove his worth on the battlefield.  The soldier is handed any
+armor that is available until a custom suit of armor is forged for them. 
+For now, he is merely fodder for his commander's enemies.  
+~
+human~
+AGT O -500 0
+12 12 18d4+110 12d10+85 3d4+9 slash
+3 3 3 6
+FI 0 0 0
+stand stand male 120
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#707
+slave guard hobgoblin~
+a slave guard~
+A hobgoblin guards the slaves that are to be sold in the market.
+~
+A hobgoblin with reddish-brown hide keeps the prisoners in line.  He
+wields a nasty looking morning star, and openly displays the weapon to the
+prisoners under guard.  His pieces of leather armor are black in color and
+his other garments are blood red and bright yellow in color.  
+~
+hobgoblin~
+AGT J -1000 0
+21 21 32d7+192 21d10+85 6d3+12 pound
+0 0 0 4
+O 0 LQ 0
+stand stand male 210
+HMV ABCDEFGHIJK M unknown 0
+F for A
+F par Y
+#708
+torturer hobgoblin~
+a torturer~
+A hobgoblin stands wielding the tools of a trained torturer.
+~
+A hobgoblin with gray hide and glowing yellow eyes licks a sharp dagger
+with evil glee.  This show of glee can sometimes strike fear into a poor
+soul that will soon experience the art of interrogation.  His pieces of
+leather armor are black in color and his other garments are lime green and
+blood red in color.  
+~
+hobgoblin~
+AGS J -1000 0
+24 24 36d8+219 24d10+85 6d4+13 pierce
+-1 -1 -1 3
+KR 0 LQ 0
+stand stand male 240
+HMV ABCDEFGHIJK M unknown 0
+F for A
+F par Y
+#709
+hobgoblin impaler female~
+An Impaler~
+A female hobgoblin grins as she impales a prisoner with a pike.
+~
+A hobgoblin with brown hide and dull yellow eyes grins at her prisoner. 
+She enjoys striking fear into a poor soul that will soon be impaled upon a
+pike, for spying on the dark knights.  Her pieces of leather armor are black
+in color and her other garments are sky blue and blood red in color.  
+~
+hobgoblin~
+AGS J -1000 0
+27 27 41d9+246 27d10+85 7d3+14 pierce
+-3 -3 -3 2
+N 0 LQ 0
+stand stand female 270
+HMV ABCDEFGHIJKY M unknown 0
+F for A
+#710
+draconian combat engineer ~
+a combat engineer~
+A draconian wears the insignia of a combat engineer.
+~
+A draconian surveys the surrounding area and then studies a piece of
+parchment in his clawed hand.  The daily reports turned in at the
+headquarters, by patrolling commanders, are looked over and then complied
+into a list.  The list is then given to the engineers to review and make
+plans for the needed repairs.  
+~
+draconian~
+AGT Oc -1000 0
+28 28 42d9+255 28d10+85 8d3+14 claw
+-3 -3 -3 2
+D Q BGL 0
+stand stand male 280
+HMV ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res EM
+F for A
+#711
+trooper draconian elite~
+An Elite Trooper~
+One of the draconian elite troopers stands here.
+~
+A draconian surveys the surrounding area for signs of troublemakers.  The
+trooper is on hand to control trouble spots that crop up all over the
+city.  The trooper wears chain mail that compliments his tough, scaly skin. 
+He is armed with a heavy sword that can shatter bone as well as cleave
+flesh.  
+~
+draconian~
+AGT Oc -1000 0
+30 30 45d10+274 30d10+85 8d3+15 claw
+-4 -4 -4 1
+DK Q BGL 0
+stand stand male 300
+HMV ABCDEFGHJKPQUVX L unknown 0
+F imm P
+F res EM
+F for A
+F par W
+#712
+skull cardinal draconian~
+a skull cardinal~
+A draconian wears the rank of a skull cardinal.
+~
+A draconian that had a vision of using the arts of clerical magic in
+order to secure power for himself stands here.  Unlike other dark knights,
+those of the skull have the virtue of patience.  The actions of this
+draconian are performed in secrecy. His patrols bring him information
+about the mood of city and any factions within the knighthood.  
+~
+draconian~
+AGQT OTc -1000 0
+32 32 48d10+292 32d10+85 9d3+15 claw
+-5 -5 -5 1
+HK Q BGJ 0
+stand stand male 320
+HMV ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res EM
+F for A
+#713
+grave digger man~
+a grave digger~
+A grave digger walks by carrying an old pick.
+~
+A middle aged man, wears coveralls and a hat tilted back to allow the
+breeze to cool his sweating forehead.  He has a spade shovel for digging the
+graves of the dearly departed.  His job sometimes takes him late into the
+night, so that is why he always brings a lantern with him.  No matter how
+dry the ground is, the gravedigger always seems bring some of his work home
+with him.  
+~
+human~
+AGT 0 200 0
+15 15 23d5+137 15d10+85 4d3+10 pound
+2 2 2 5
+0 0 0 0
+stand stand male 150
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#714
+weaponsmith smith lukas dwarf hylar~
+Lukas~
+A dwarf with the look of Hylar descent stands behind the counter.
+~
+A dwarf who looks to have a Hylar bloodline pounds away at his forge. 
+The dark knights supply him with more business than in any other realm as
+long as he keeps his nose out of their affairs.  For those who know him
+well, he has been known to lend aid when it cannot be traced back to him.  
+~
+hylar~
+ABT J 250 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+0 ABCD 0 0
+stand stand male 1000
+HMV ABCDEFGHIJK S unknown 0
+F vul IR
+F for A
+#715
+armorer topaz half elf~
+Topaz~
+A half-elf stands at a workbench working on a piece of armor.
+~
+A half-elf is bent over a workbench putting the finishing touches on his
+latest work.  Peering up from his work, a half-elf flashes you a friendly
+smile and is prepared to make you a good offer.  His arms are well muscled
+from the years of hammering out pieces of armor.  The garrison ensures that
+his business will not slacken for a time.  
+~
+half-elf~
+ABT J 200 0
+50 50 75d16+456 50d10+85 14d3+21 pierce
+-14 -14 -14 -4
+0 ABCD 0 0
+stand stand male 1000
+HMV ABCDEFGHIJK M unknown 0
+F res B
+F for A
+#716
+scared citizen woman~
+a scared citizen~
+A young woman quickly walks by constantly looking over her shoulder.
+~
+This citizen is just an average commoner working hard just to make a
+living.  Some would call her a member of the working class, but she is
+barely better off than those who live in the run down huts are.  Her clothes
+are a little worn and a look of worry crosses her face to be walking the
+streets so openly.  
+~
+human~
+AG 0 0 0
+9 9 14d3+82 9d10+85 2d4+8 slap
+5 5 5 6
+0 0 0 0
+stand stand female 90
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#717
+slave trader minotaur~
+a Slave Trader~
+A minotaur calls out for bids on the next slave to be sold.
+~
+A minotaur with reddish-brown colored hide snorts at the stench of so
+many lesser creatures in the same area.  If it weren’t for the amount of money
+he will receive from the sale of these creatures, he would earn his wealth
+as a warrior.  His horns are sharp, and indeed could gore a man in a quick
+thrust or two.  
+~
+minotaur~
+ABT 0 -400 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+I ABCD 0 0
+stand stand male 0
+HMV ABCDEFGHIJK L unknown 0
+F res HI
+F vul K
+F for A
+#718
+barbarian amazon warrior woman~
+an amazon warrior~
+A barbarian woman wearing very little stands ready for action.
+~
+A young beautiful barbarian woman wears very few garments of clothing and
+armor that cover her assets.  Her attitude towards her situation held within
+check as she bides her time.  She is a skilled warrior who does not need a
+man to protect her.  
+~
+human~
+AIT FP 200 0
+25 25 38d8+228 25d10+85 7d3+13 pierce
+-2 -2 -2 3
+I 0 0 0
+stand stand female 0
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#719
+kagonesti tracker elf~
+A Kagonesti tracker~
+An elf wearing buck skins and braids in his hair studies the ground.
+~
+This male Kagonesti wears very few garments of clothes, and nearly
+nothing for armor.  His attitude towards his situation seems outwardly calm.
+He is an experienced tracker and knows the virtue of patience.  His tan
+tunic and tan britches allow him to better blend in with woodland
+surroundings.  
+~
+kagonesti~
+AIM JZ 200 0
+20 20 30d6+183 20d10+85 5d4+11 pierce
+0 0 0 4
+N 0 0 0
+stand stand male 0
+HMV ABCDEFGHIJK M unknown 0
+F res I
+F for A
+#720
+half elf rogue~
+a half-elf rogue~
+A half elf stands in the shadows watching those who pass by.
+~
+A rough looking fellow stands off in the shadows licking his lips in a
+rather sick way.  To call him disturbed would be true, since he would really
+like to take his victims coin and then send them to the abyss for his
+troubles.  He is plainly dressed and only wears a leather tunic for
+protection.  
+~
+half-elf~
+AIS FJP 100 0
+15 15 23d5+137 15d10+85 4d3+10 pierce
+2 2 2 5
+0 0 B 0
+stand stand male 0
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#721
+dark warrior woman~
+a dark warrior~
+A dark warrior trains in the skills of the Dark Knights.
+~
+A veteran who is a master of the art of warfare has not always been a
+dark knight.  She has vowed to train the skills of all whom approach her in
+no matter which god they worship.  Her breastplate is engraves with images
+of death and the symbol of the death lily.  She is here to help one PRACTICE
+their skills.  
+~
+human~
+ABKTb H -800 0
+130 130 195d43+3550 130d10+85 37d3+48 pound
+-52 -52 -52 -25
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#722
+skull paladin knight~
+a Skull Paladin~
+A Skull Paladin offers his skills to strengthen the dark knights.
+~
+Looking as he has seen many battles he wears the armor of a knight with
+ease.  As a member of the garrison force, his duties are to ensure that
+those of the knighthood become not only physically stronger but mentally as
+well.  A warrior who is dumber than a rock has no place within the ranks of
+the dark knights.  He is here to help one TRAIN their abilities.  
+~
+human~
+ABJQ H -850 0
+130 130 195d43+3550 130d10+85 37d3+48 pound
+-52 -52 -52 -25
+0 ABCD 0 0
+stand stand male 0
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#723
+knight thorn seer~
+a Seer~
+The seer may sell you a potion if the price is right.
+~
+This Knight of the Thorn wears robes that gray in color.  These robes are
+similar to those worn by every other mage that has ever practiced the arts
+of magic.  Since the ways of magic seldom pay very well, a mage must use his
+knowledge to sell potions and other magic in order to earn a living.  
+~
+human~
+ABR D -850 0
+130 130 195d43+3550 130d10+85 37d3+48 magic
+-52 -52 -52 -25
+0 ABCD 0 0
+stand stand male 0
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#724
+grete man one eyed~
+One Eyed Grete~
+An old man with one good eye stands behind a bar.
+~
+He appears rather bored as he lends over the counter top of the bar.  His
+shirt is stained with dried dark ale.  Other than selling spirits to thirsty
+dark knights, his only source of enjoyment is collecting the money of a
+posted bounty.  A BOUNTY poster has been tacked up behind the bar.  
+~
+human~
+ABLT 0 -250 0
+130 130 195d43+3550 130d10+85 37d3+48 pound
+-52 -52 -52 -25
+0 ABCD 0 0
+stand stand male 0
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#725
+man prisoner impaled~
+an impaled prisoner~
+A man hangs impaled upon a pike and is close to death.
+~
+A man with a long drooping mustache hangs onto the realm of the living. 
+He was found spying on the dark knights and was sentenced impalement upon a
+pike as a message to other outsiders.  It is one thing to meet one's enemy
+on the battlefield, but to sneak around in the shadows shows little honor.  
+~
+human~
+AB 0 500 0
+5 1 2d2+10 1d10+85 1d2+5 pound
+8 8 8 9
+0 0 0 0
+stand stand male 50
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#726
+cook woman~
+a cook~
+A woman slaves over a stove preparing meal after meal.
+~
+A middle-aged woman with short wavy hair and sky blue eyes appears to be
+cooking up and serving a tasty smelling soup.  This is only the first course
+of a seven-course meal.  As you continue to watch, she looks up for only a
+moment and waves a spoon at you before getting back to work.  
+~
+human~
+AB 0 400 0
+12 12 18d4+110 12d10+85 3d4+9 pound
+3 3 3 6
+0 0 0 0
+stand stand female 120
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#727
+woman servant~
+a servant~
+A young woman going about her duties.
+~
+Young woman dressed in very revealing clothes, wipes the sweat from her
+eyes.  As a servant she is responsible for preparing meals, making the beds
+and keeping the manor clean.  Some even attend Lord Tyrion on a personal
+level.  
+~
+human~
+AG 0 400 0
+12 12 18d4+110 12d10+85 3d4+9 slap
+3 3 3 6
+0 0 0 0
+stand stand female 120
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#728
+guest nobleman man~
+a guest~
+A young nobleman is here on a visit to see Lord Tyrion.
+~
+A young nobleman with the wealth and influence that can help support has
+been asked to stay as a guest of Lord Tyrion.  His clothes are made of
+flowing silks that are black and gray in color.  His hair is a shock of
+fiery red and his eyes are as black as opals.  
+~
+human~
+AG 0 100 0
+15 15 23d5+137 15d10+85 4d3+10 pound
+2 2 2 5
+0 0 0 0
+stand stand male 150
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#729
+gnome guild member~
+a guild member~
+A gnome discusses the plans of his newest design.
+~
+A gnome stands pointing out details to a board with a blueprint of some
+new invention.  As a member of the committee, this gnome must be prepared to
+explain the workings of his invention to those gathered.  With so many
+different minds at work, the explanation of these designs could take at
+least a month.  
+~
+gnome~
+AB 0 300 0
+15 15 23d5+137 15d10+85 4d3+10 pound
+2 2 2 5
+0 0 C 0
+stand stand male 150
+AHMV ABCDEFGHIJK S unknown 0
+#730
+sleeping woman ~
+a sleeping woman~
+A woman lies sleeping among the unkempt bed sheets.
+~
+A long hair beauty lies sleeping in a bed after having a good time.  She
+is only wearing a bed sheet and seems to be in bliss.  One can imagine that
+she was armed with a wink, a giggle, and of course her good looks to be able
+to end up in Lord Tyrion's bed.  These are her tools of her trade and she
+seems rather successful at it.  
+~
+human~
+AB 0 50 0
+16 16 24d5+146 16d10+85 4d4+10 slap
+1 1 1 5
+0 0 0 0
+sleep stand female 160
+AHMV ABCDEFGHIJK M unknown 0
+#731
+ghost~
+a ghost~
+A ghost without any actual shape moans at you.
+~
+As the ghost stops to look at you, the faint appearance of a woman can be
+seen.  She looks like she might have been beautiful and it is sad that her
+spirit cannot find rest.  As you stare at her, its appearance changes to
+that of how she must have looked when she died.  Her face is half beaten and
+blood pours forth from the gashes in her skin.  
+~
+human~
+AGO PU 0 0
+15 15 23d5+137 15d10+85 4d3+10 pierce
+2 2 2 5
+0 BLMPQ 0 0
+stand stand female 150
+HILM ABCDEFGHIJK M unknown 0
+F for AV
+#732
+knight gate warden ~
+a gate warden~
+A dark knight oversees the security of the city gates.
+~
+A dark knight holds a piece of slate as he records those that enter and
+possible troublemakers.  His stance reveals that he could draw his weapon
+at a moments notice for his eyes are cold and calculating.  His black dyed
+armor is covered with scenes of death and has a death lily engraved into it.
+~
+human~
+ABT O -700 0
+25 25 38d8+228 25d10+85 7d3+13 pound
+-2 -2 -2 3
+K 0 0 0
+stand stand male 200
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#741
+shopkeeper woman~
+a shopkeeper~
+A young woman stands behind a booth selling her wares.
+~
+A young woman with fiery red hair that dangles half way down her back
+offers you a smile.  Her eyes are the color emeralds that sparkle with a
+strong inner strength.  Of course in this city it could be that she actually
+hungers to part you from you wealth.  While her dress is plain, the cloth is very well made and looks almost new.  
+~
+human~
+AB 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 slap
+-4 -4 -4 1
+0 ABCD 0 0
+stand stand female 1000
+HMV ABCDEFGHIJKQV M unknown 0
+F for A
+#742
+priest man~
+a priest~
+A priest stands here performing a ritual.
+~
+This priest has a hate filled look in his eyes as he chants out against
+the spirits that have taken up residence in this section of the city.  Only
+those with an evil heart have ever fallen ill in the city, and with the dark
+knights now in control of the streets, the officials demanded that the
+priest do something about this illness.  
+~
+human~
+ABQ O -850 0
+10 10 15d3+92 10d10+85 2d5+8 pound
+4 4 4 6
+0 0 0 0
+stand stand male 100
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#743
+boy black robe~
+a boy~
+A boy dressed in a black robe stands here.
+~
+A young boy swings an orb filled with burning incense out in front of
+him.  He walks before the priest as to provide a lure for the spirits to
+attack and give the priest time to call forth his goddess to purge the
+spirit from this realm.  The boy nervously looks around him hoping the tales
+of these spirits is just a story.  
+~
+human~
+AB 0 -350 0
+6 6 9d2+55 6d10+85 1d6+7 pound
+6 6 6 7
+0 0 0 0
+stand stand male 60
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#745
+grieving man~
+a grieving man~
+A man dressed in his best clothes stands here.
+~
+A well-dressed man stands here with his arm around a woman who is crying
+on his shoulder.  He steadies the woman who has been weakened by lack of
+sleep and loss of appetite.  The look in his eye echoes that which the woman
+so plainly feels.  He must be strong for her or neither of them would be
+able to cope with their loss.  
+~
+human~
+AB 0 0 0
+8 8 12d2+73 8d10+85 2d4+7 pound
+5 5 5 7
+0 0 0 0
+stand stand male 80
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#746
+grieving woman crying~
+a grieving woman~
+A crying woman dressed mostly in black stands here.
+~
+An average looking woman stands here crying on the shoulder of a well
+dressed man.  She holds some flowers that will soon be placed on a grave. 
+Her loss seems very clear and her by the look in her eyes, she has not slept
+in quite some time.  Her clothes look wrinkled, worn, slept in, and her hair
+is long and tangled.  
+~
+human~
+AB 0 0 0
+8 8 12d2+73 8d10+85 2d4+7 slap
+5 5 5 7
+0 0 0 0
+stand stand female 80
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#747
+pallbearer man~
+a pallbearer~
+A pallbearer walks along carrying a casket upon his shoulder.
+~
+A man has a grim face as he walks along with the coffin carried open his
+shoulder.  The man is of average build and wears a black ribbon around his
+upper left arm.  His step is slow and is in step with his fellows as they
+carry their burden to the city's graveyard.  With his free hand, he wipes
+away a single tear from the corner of his eye before it has a chance to roll
+down his cheek.  
+~
+human~
+AB 0 0 0
+10 10 15d3+92 10d10+85 2d5+8 pound
+4 4 4 6
+0 0 0 0
+stand stand male 100
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#749
+flower seller woman~
+a flower seller~
+A young woman stands here selling flowers.
+~
+A young human woman smiles as she arranges flowers in different
+arrangements.  Her flowers are for any occasion but many of her customers
+buy them to lay upon the graves in the graveyard.  She is dressed in a
+simple green dress and has a red ribbon keeping her hair pulled back.  
+~
+human~
+AB 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 slap
+-4 -4 -4 1
+0 ABCD 0 0
+stand stand female 300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#751
+ox oxen~
+an ox~
+An ox stands harnessed to a wagon that is stuck in the mud.
+~
+An ox stands sinking into a patch of muddy red clay.  It pulls on its
+harness that is attached to a yoke that is attached to a wagon that is
+sinking into the mud as well.  The poor animal just cannot budge the wagon
+and calmly ignores the driver's colorful display of cursing.  Its tail
+swishes back and forth to fend off the flies that are buzzing around it.  
+~
+horse~
+AB 0 0 0
+6 6 9d2+55 6d10+85 1d6+7 pound
+6 6 6 7
+0 0 0 0
+stand stand male 60
+AGV ACDEFJKLQ L unknown 0
+F aff Z
+F off FHI
+#752
+driver~
+a driver~
+A driver stands in his wagon cursing his fate.
+~
+A middle age man stands on the floorboards of a draft wagon cursing what
+the fates have dealt him.  He is dressed in plain browns, dark greens, and
+wears a straw hat.  Some would mistake him for a farmer, except for the fact
+the iron ore is not something a farmer would plant and harvest from a field.
+~
+human~
+AB 0 0 0
+9 9 14d3+82 9d10+85 2d4+8 pound
+5 5 5 6
+0 0 0 0
+stand stand male 90
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#763
+jerin woman shopkeeper~
+Jerin~
+Jerin stands behind the booth selling her wares.
+~
+A young woman with fiery red hair that dangles half way down her back
+offers you a smile.  Her eyes are the color emeralds that sparkle with a
+strong inner strength.  Of course in this city it could be that she actually
+hungers to part you from you wealth.  While her dress is plain, the cloth is very well made and looks almost new.
+~
+human~
+AB 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 pound
+-4 -4 -4 1
+0 ABCD 0 0
+stand stand female 300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#764
+man shopkeeper~
+a shopkeeper~
+An older man stands behind a booth selling his wares.
+~
+An older gentleman with long, blond hair and a short beard stands here
+watching the people who wander by.  His eyes are black as coal and almost
+unnerving to match his gaze for too long.  He wears a white shirt with the
+sleeves rolled up and a pair of rough wool pants.  He wears a leather apron
+over his clothes to keep them as clean as possible.  
+~
+human~
+AB 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 pound
+-4 -4 -4 1
+0 ABCD 0 0
+stand stand male 300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#791
+geranki miser banker changer~
+a banker~
+Geranki the miser is filling in for the banker and money changer.
+~
+Geranki is a miser of an old man who winces every time he has to pay for
+anything.  His clothes have patches over worn out sections and tattered
+around the edges.  His shoes are travel worn and his belt could fall apart
+at anytime.  His hair and beard are long, shaggy and is in need of a
+combing.  
+~
+human~
+ABde 0 0 0
+32 32 48d10+292 32d10+85 9d3+15 pound
+-5 -5 -5 1
+0 ABCD 0 0
+stand stand male 320
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#849
+dark priest takhis~
+a dark priest~
+A dark priest dedicated to the service of {WTakhisis{x stands here.
+~
+An elf that craved unending power has turned away from his Silvanesti up
+bringing and has embraced the power of the Dark Queen.  This priest stands
+her preaching the ways of his queen and will lend his touch to heal for a
+handful of steel.  He is dressed in flowing black robes with runes of the
+color of graphite sown into his sleeves.  
+~
+silvanesti~
+ABQa HJ -1000 0
+35 35 53d11+319 35d10+85 10d3+16 pound
+-6 -6 -6 0
+0 ABCD 0 0
+stand stand male 100
+HMV ABCDEFGHIJK M unknown 0
+F res B
+F for A
+#0
+
+
+
+#OBJECTS
+#700
+claymore rune engraved sword knights takhisis~
+a rune-engraved {WKnights{x of {DTakhisis{x claymore~
+A rune-engraved {WKnights{x of {DTakhisis{x claymore lies here.~
+steel~
+weapon AJ 0 ANZ
+sword 4 9 cleave 0
+32 10 320 P
+A
+1 1
+A
+5 1
+E
+rune engraved claymore~
+This sword is massive.  It is about as long as a man is tall.  The blade
+is about 4 inches in width, with a five headed dragon engraved in the base
+of the blade.  The grip is wrapped with leather, and bound with strong wire.
+There is an onyx set into the pommel.  
+~
+#701
+steel war hammer knights takhisis mace~
+a steel {WKnights{x of {DTakhisis{x warhammer~
+A {WKnights{x of {DTakhisis{x warhammer lies here, made of durable steel.~
+steel~
+weapon J 0 ANZ
+mace 5 7 pound 0
+30 7 300 P
+E
+steel war hammer~
+This sturdy hammer is typical of the weapons coming from the Knights of
+Takhisis armory.  Being sturdy and well crafted, it is used by many of the
+Dark Knights.  On the striking face of the hammer is a depiction of the five
+headed dragon, the symbol of Takhisis.  The opposite side of the hammer's
+head has a 4 inch spike protruding from it, used mainly for stabbing.  
+~
+#702
+steel broad sword knights takhisis~
+a steel {WKnights{x of {DTakhisis{x broadsword~
+A {WKnights{x of {DTakhisis{x broadsword lies here, made of durable steel.~
+steel~
+weapon J 0 ANY
+sword 4 7 slash 0
+28 7 280 P
+E
+steel broad sword~
+This broad sword is the standard issue weapon given to each of the new
+Knights.  It is a well crafted, high quality sword, with an edge that will
+easily and cleanly slice through the toughest leather.  The handle has been
+wrapped with sharkskin to enable the Knight to keep a firm grip.  
+~
+#703
+footman flail knights takhisis~
+a {WKnights{x of {DTakhisis{x footman's flail~
+A {WKnights{x of {DTakhisis{x footman's flail lies here.~
+steel~
+weapon J 0 ANY
+flail 4 8 pound H
+30 6 300 P
+E
+footman flail~
+This flail consists of a three foot handle, ending in three chains.  Each
+of the chains has a small, spike studded ball attached to it.  The flail is
+a weapon commonly seen being carried by a footman in the Knight of Takhisis
+infantry.  
+~
+#704
+polished long sword knights takhisis~
+a polished {WKnights{x of {DTakhisis{x longsword~
+A polished {WKnights{x of {DTakhisis{x longsword lies here.~
+steel~
+weapon J 0 ANZ
+sword 4 5 slash 0
+18 6 180 P
+E
+polished long sword~
+This longsword is carried by the Knights out on patrol.  They are sturdy
+longswords drawn from the Dark Knight armory.  It is very plain, except for
+the highly polished blade.  
+~
+#705
+footman lance knights takhisis polearm~
+a {WKnights{x of {DTakhisis{x footman's lance~
+A {WKnights{x of {DTakhisis{x footman's lance lies here.~
+ironwood~
+weapon JS 0 ANY
+polearm 3 7 pierce F
+15 7 150 P
+E
+footman lance~
+This lance is approximately 8 feet long.  It is made from ironwood with a
+solid steel barb on the stabbing end, and an iron cap on the opposite end. 
+The lance has been painted midnight black.  
+~
+#706
+spiked mace knights takhisis~
+a {WKnights{x of {DTakhisis{x spiked mace~
+A {WKnights{x of {DTakhisis{x spiked mace lies here.~
+steel~
+weapon J 0 ANY
+mace 4 4 pound 0
+12 6 120 P
+E
+spiked mace~
+This mace is of average quality.  It has a large head, about the size of
+a human skull.  The head is covered in numerous sharp spikes.  
+~
+#707
+morning star knights takhisis flail~
+a {WKnights{x of {DTakhisis{x morning star~
+A {WKnights{x of {DTakhisis{x morning star lies here.~
+steel~
+weapon J 0 ANY
+flail 4 6 pound 0
+21 8 210 P
+E
+morning star~
+The morning star is an oversized mace.  The head of the morning star is
+as large as a dwarf's, and the spikes on the head average about four inches
+long.  From end to end, the morning star is about four and a half feet long.
+~
+#708
+skinning knife knights takhisis dagger~
+a {WKnights{x of {DTakhisis{x skinning knife~
+A {WKnights{x of {DTakhisis{x skinning knife lies here.~
+steel~
+weapon J 0 ANX
+dagger 5 5 pierce 0
+24 2 240 P
+E
+skinning knife~
+This small knife is standard issue to everyone in the Knights of
+Takhisis.  It has a slightly curved blade, and a small gem set in the
+pommel.  This one is slightly scratched, and has obviously been used.  
+~
+#709
+pike polearm knights takhisis~
+a {WKnights{x of {DTakhisis{x pike~
+A {WKnights{x of {DTakhisis{x pike lies here.~
+steel~
+weapon J 0 ANZ
+polearm 5 6 pierce F
+27 8 270 P
+E
+pike polearm~
+This polearm is a sturdy weapon usually given to footsoldiers.  It is a
+bit taller than the average sized man, and has a vicious hook on the
+business end.  
+~
+#710
+heavy sword knights takhisis~
+a {WKnights{x of {DTakhisis{x heavy sword~
+A heavy {WKnights{x of {DTakhisis{x sword lies here.~
+steel~
+weapon J 0 ANZ
+sword 5 6 cleave 0
+28 8 280 P
+E
+heavy sword~
+This heavy sword is smaller than a claymore, but larger than the standard
+broadsword.  The blade is straight as an arrow, and sharp as a razor.  The
+crosspiece and handle are shaped like a dragon, wings spread in flight.  
+~
+#711
+heavy mace knights takhisis~
+a {WKnights{x of {DTakhisis{x heavy mace~
+A {WKnights{x of {DTakhisis{x heavy mace lies here.~
+steel~
+weapon J 0 ANZ
+mace 3 12 crush 0
+30 10 300 P
+E
+heavy mace~
+This mace is used for heavy warfare.  It is heavier than most other
+maces, and has a much thicker handle.  The head of the mace is ridged, and
+there are small protrusions evenly spaced around it.  
+~
+#712
+rusty pick axe~
+a rusty pick axe~
+A rusty pick axe lies here.~
+iron~
+weapon 0 0 ANY
+axe 3 5 pierce 0
+12 5 120 G
+E
+rusty pickaxe axe~
+Covered in rust, this pickaxe has seen much better days.  The blade of
+the axe is pitted and has a lot of rust damage.  The wooden handle of the
+axe is almost completely rotten.  
+~
+#713
+breast plate knights takhisis~
+a {WKnights{x of {DTakhisis{x breastplate~
+A {WKnights{x of {DTakhisis{x breastplate lies here.~
+steel~
+armor AJ 0 ADY
+D BC CD AB 0
+30 20 300 P
+A
+4 1
+A
+12 50
+E
+plate breast~
+This large breastplate is the commonly worn by Knights.  The face of the
+breast plate has a large death lily engraved upon it.  There are various
+swirls surrounding the lily, and a small five headed dragon beneath it.  The
+entire plate has been covered in black polish.  
+~
+#714
+breast plate knights takhisis~
+a {WKnights{x of {DTakhisis{x breastplate~
+A {WKnights{x of {DTakhisis{x breastplate lies here.~
+steel~
+armor AJ 0 ADY
+ABC AC ABD B 0
+28 20 280 P
+A
+2 1
+A
+13 15
+E
+plate breast~
+This large breastplate is the commonly worn by Knights.  The face of the
+breast plate has a large death lily engraved upon it.  There are various
+swirls surrounding the lily, and a small five headed dragon beneath it.  The
+entire plate has been covered in black polish.  
+~
+#715
+knight takhisis ankle guard~
+a {WKnights{x of {DTakhisis{x ankle guard~
+A {WKnights{x of {DTakhisis{x ankle guard lies here.~
+steel~
+armor AJ 0 ATY
+BC C BD AB 0
+30 2 300 P
+A
+2 1
+A
+27 1
+E
+ankle guard~
+This small steel band is designed to be worn around the ankles.  It is to
+protect the ankles from blades, arrows, and blunt weapons.  There is a death
+lily engraved on the outside of it.  
+~
+#716
+knights takhisis chain shirt~
+a {WKnights{x of {DTakhisis{x chain shirt~
+A {WKnights{x of {DTakhisis{x chain shirt lies here.~
+iron~
+armor J 0 ADY
+ABC B BC 0 0
+15 17 150 P
+E
+chain shirt~
+This chain shirt is made of very small interlocking chain links.  The
+chain links have all been dyed black, and there is a small badge on the
+shirt with an engraved death lily.  
+~
+#717
+knight takhisis leggings~
+a pair of {WKnights{x of {DTakhisis{x leggings~
+A pair of {WKnights{x of {DTakhisis{x leggings lie here.~
+steel~
+armor J 0 AFc
+ABC C BC 0 0
+15 13 150 P
+E
+leggings~
+These steel leggings are made to be strapped to the legs with leather
+ties.  The leggings are made of thick, contoured, steel plates.  There are
+vines and swirls engraved into the plates.  The leggings have been dyed
+black.  
+~
+#718
+knights takhisis sleeves~
+a pair of {WKnights{x of {DTakhisis{x sleeves~
+A pair of {WKnights{x of {DTakhisis{x sleeves lie here.~
+steel~
+armor J 0 AIY
+ABC C BC 0 0
+15 9 150 P
+E
+sleeves~
+These steel sleeves are made to be strapped to the arms with leather
+ties.  The sleeves are made of thick, contoured, steel plates.  There are
+vines and swirls engraved into the plates.  The elbow cap has a small spike
+protruding from it.  The sleeves have been dyed black.  
+ 
+ 
+~
+#719
+knight takhisis wrist guard~
+a {WKnights{x of {DTakhisis{x wrist guard~
+A {WKnights{x of {DTakhisis{x wrist guard lies here.~
+steel~
+armor J 0 AMY
+BC AB AC 0 0
+15 7 150 P
+E
+wrist guard~
+Made of steel, these bracers are made to both protect and support the
+wrists and forearms.  The bracers are about three inches wide, and have been
+dyed black.  There is an intricately chiseled death lily and vines set into
+the face of the wrist guard.  
+~
+#720
+knights takhisis leather ankle guard~
+a {WKnights{x of {DTakhisis{x leather ankle guard~
+A {WKnights{x of {DTakhisis{x leather ankle guard lies here.~
+leather~
+armor JS 0 ATY
+A AB B 0 0
+10 1 100 P
+E
+leather ankle guard~
+This small leather band is designed to be worn around the ankles.  It is
+to protect the ankles from small weapons.  There is a death lily painted on
+the outside of it.  
+~
+#721
+knights takhisis shoulder pad leather~
+a {WKnights{x of {DTakhisis{x leather shoulder pad~
+A pair of {WKnights{x of {DTakhisis{x shoulder pads lie here.~
+leather~
+armor JS 0 ASY
+AB AC C 0 0
+10 3 100 P
+E
+leather shoulder pad~
+These thick shoulder pads are made of leather pockets, with cushioning
+sewn into them.  They are held in place on the shoulders with thick leather
+straps.  The leather has been dyed a deep black color.  
+~
+#722
+knight takhisis neck guard~
+a {WKnights{x of {DTakhisis{x neck guard~
+A {WKnights{x of {DTakhisis{x neck guard lies here.~
+iron~
+armor J 0 ACc
+AC 0 AC 0 0
+10 7 100 P
+E
+neck guard~
+This neck guard is made from stout iron.  It is just enough protection
+to prevent the wearer from being decapitated.  There is nothing adorning the
+neck guard, and it looks very plain.  
+~
+#723
+knights takhisis gauntlets~
+{WKnights{x of {DTakhisis{x gauntlets~
+A pair of {WKnights{x of {DTakhisis{x gauntlets lie here.~
+steel~
+armor J 0 AHY
+AC B AC 0 0
+10 7 100 P
+E
+gauntlets~
+These gauntlets are a common variety.  They are large metal gloves made
+to protect the wearers hands.  This particular gauntlets have small spikes
+set into the knuckles.  The gauntlets have been dyed a dark black color.  
+~
+#724
+knight takhisis tunic~
+a {WKnights{x of {DTakhisis{x tunic~
+A {WKnights{x of {DTakhisis{x tunic lies here.~
+studded leather~
+armor J 0 ADY
+BC D ABC A 0
+20 8 200 P
+E
+tunic~
+This studded leather tunic is commonly issued to footsoldiers in the
+infantry.  It is made of hard boiled leather with small iron studs sewn in
+to protect the wearer.  The leather and studs have been dyed black.  
+~
+#725
+knight takhisis arm guard~
+a pair of {WKnights{x of {DTakhisis{x arm guards~
+A pair of {WKnights{x of {DTakhisis{x arm guards lie here.~
+studded leather~
+armor J 0 AIc
+BC D ABC A 0
+20 4 200 P
+E
+arm guard~
+These studded arm guards are made to be strapped to the arms with leather
+ties.  The sleeves are made of thick leather bands woven together.  There
+are vines and swirls byed into the bands.  The sleeves have been dyed black.
+~
+#726
+knight takhisis wrist guard~
+a {WKnights{x of {DTakhisis{x wrist guard~
+A {WKnights{x of {DTakhisis{x wrist guard lies here.~
+studded leather~
+armor J 0 AMY
+AC ABC BC A 0
+20 3 200 P
+E
+wrist guard~
+Made of boiled studded leather, these bracers are made to both protect
+and support the wrists and forearms.  The wrist guards are about three
+inches wide, and have been dyed black.  There is an intricately painted
+death lily and vines set into the face of the wrist guard.  
+~
+#727
+knight takhisis boots~
+a pair of {WKnights{x of {DTakhisis{x boots~
+A pair of {WKnights{x of {DTakhisis{x boots lie here.~
+studded leather~
+armor JS 0 AGY
+AC ABC BC A 0
+20 3 200 P
+E
+boot~
+This military style boots are made from high quality leather.  They are
+laced up the front, and have been polished black to a brilliant shine.  
+~
+#728
+knight takhisis vest~
+a {WKnights{x of {DTakhisis{x vest~
+A {WKnights{x of {DTakhisis{x vest lies here.~
+banded leather~
+armor JS 0 ADZ
+D AD AD B 0
+28 6 280 P
+E
+vest~
+This simple vest is worn in place of a heavier breastplate.  When stealth
+and mobility are required, this is what the Knights wear.  It is made of
+black banded leather, and has no adornments.  
+~
+#729
+knights takhisis chain coif~
+a {WKnights{x of {DTakhisis{x chain coif~
+A {WKnights{x of {DTakhisis{x chain coif lies here.~
+steel~
+armor J 0 AEZ
+D AC ABC B 0
+28 10 280 P
+E
+coif chain~
+Made of interlinked chains, this coif is designed to to protect the
+wearer's head, neck, and shoulders.  Only the wearer's face is visible
+through the opening.  The chains have been painted black.  
+~
+#730
+knight takhisis face guard~
+a {WKnights{x of {DTakhisis{x face guard~
+A {WKnights{x of {DTakhisis{x face guard lies here.~
+leather~
+armor JS 0 AUc
+C BC AC B 0
+28 1 280 P
+E
+face guard~
+Fitting to the front of a helmet, this leather face guard will protect
+the wearer from small weapons.  There is a six inxh slit running
+horizontally through the face guard to allow the wearer to see out.  
+~
+#731
+knights takhisis chain girdle~
+a {WKnights{x of {DTakhisis{x chain girdle~
+A {WKnights{x of {DTakhisis{x chain girdle lies here.~
+steel~
+armor J 0 ALZ
+D AC ABC B 0
+28 5 280 P
+E
+chain girdle~
+Made to protect the midsection from arrows and swords, this girdle is
+simply a long band of chain mail.  It is made from the same chain links as
+standard chain mail, and has been painted black.  It is tied in the rear
+with black leather thongs.  
+~
+#732
+rabbit snare trap~
+a rabbit snare~
+A snare designed to catch rabbits sits here.~
+linen~
+trap 0 0 AO
+'snare'
+10 1 100 P
+E
+rabbit snare~
+This simple trap is made of a length of rope that is tied to a strong yet
+supple rod that is driven into the ground.  
+~
+#733
+leather net trap~
+a leather net~
+A net made of leather lies here.~
+soft leather~
+trap 0 0 AO
+'net'
+15 2 150 P
+E
+net trap~
+This trap consists of a large net.  The net is made oven leather strips
+woven and knotted together.  The corners of the net have strong twine coming
+from it.  
+~
+#734
+open pit trap~
+a pit trap~
+An open pit stands before you.~
+soil~
+trap 0 0 AO
+'pit'
+20 1 200 P
+E
+pit trap~
+This trap kit consists of numerous sharped sticks, designed to be set
+into the bottom of a shallow pit.  
+~
+#735
+poison gas trap~
+a poison gas~
+A puff of poison gas rolls over the ground.~
+air~
+boobytrap 0 0 AO
+'poison'
+10 1 100 P
+E
+poison trap~
+This gas trap is nothing more than a small glass vial with a trapped gas
+in it.  The gas has a faint greenish color to it.  The gas is held in the
+vial by a small blue dyed cork stopper.  
+~
+#736
+arrow trap spring loaded~
+a spring loaded arrow~
+A strange looking arrow lies here. ~
+pine~
+boobytrap 0 0 AO
+'arrow'
+15 1 150 P
+E
+spring arrow trap~
+This trap was designed by the Theiwar dwarves.  It is made of a small
+reciever with a spring actuated firing mechanism.  The trigger is pulled by
+a tripwire that can be set a few feet from the reciever.  
+~
+#737
+small red stick trap~
+a small red stick~
+A small red stick lies here.~
+unknown~
+boobytrap 0 0 AO
+'explosive'
+20 1 200 P
+E
+red stick trap~
+One of the few gnomish-made contraptions ever found useful, this
+explosive can be used a variety of ways.  The gnomes originally used it for
+fishing, thinking it would be easier to blow the fish into the boat.  The
+thieves that currently utilize this explosive use it for reasons far more
+sinister.  
+~
+#738
+cure potion green brew bottle~
+a potion of cure poison~
+A {Ggreen{x bubbling brew in a potion bottle sits here.~
+glass~
+potion S 0 AO
+15 'cure poison' 'reserved' 'reserved' 'reserved'
+15 1 900 P
+E
+potion cure poison~
+This small vial is filled with a green liquid that bubbles continuosly. 
+The potion is held in the vial with a wax topped cork.  
+~
+#739
+potion bottle clear protection minor~
+a potion of minor protection~
+A bubbling clear liquid in a potion bottle sits here.~
+glass~
+potion S 0 AO
+20 'sanctuary' 'reserved' 'reserved' 'reserved'
+20 1 900 P
+E
+potion protection minor clear~
+This small vial is filled with a clear liquid that bubbles continuosly. 
+The potion is held in place by a cork dyed the color black.  
+~
+#740
+red potion bottle combat readiness~
+a potion of combat readiness~
+A potion bottle with a thick red liquid sits here.~
+glass~
+potion S 0 AO
+40 'haste' 'frenzy' 'reserved' 'reserved'
+15 1 1400 P
+E
+combat readiness red potion~
+This small vial is filled with a thick red liquor.  The liquid faintly
+resembles blood.  The mixture is held in the vial with a cork dyed the color
+red.  
+~
+#741
+folded note troop movement~
+a folded note~
+A blood stained note lies here.~
+vellum~
+map 0 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+note troop movement~
+------------------------------
+|       Troop Movement       |
+| 3 companies of knights     |
+| fortifications, depot      |
+| draco, hobgob, humans      |
+| mysterious commander       |
+| scared {rcitizens{x            |
+| random rotating {rpatrols{x    |
+| prisoners: slaves {ror death{x |
+------------------------------{x
+~
+#742
+engraved seal~
+an engraved seal~
+An engraved piece of steel covered in blood lies here. ~
+steel~
+treasure 0 0 AO
+0 0 0 0 0
+1 1 20 P
+E
+engraved seal~
+At a quick glace it resembles a standard steel coin.  If one were to hold
+it at just the right angle then the seal of the Solamnic Knights can be
+clearly seen.  The coin is covered in dried blood and must of cost someone
+dearly for losing it.  
+~
+#743
+wooden water bucket~
+a bucket of water~
+A wooden bucket filled with water sits here.~
+wood~
+drink 0 0 AO
+6 3 'water' 0 0
+1 1 10 P
+E
+bucket water~
+This simple bucket can hold about 6 gallons of water.  The bucket itself
+is in good condition, the wood not showing any rotting.  
+~
+#744
+liquid gold shot glass whisky~
+a shot of liquid gold~
+A shot glass filled with smooth-tasting whisky sits here.~
+glass~
+drink 0 0 AO
+2 2 'whisky' 0 0
+5 1 50 P
+E
+shot liquid gold whiskey~
+This small glass holds about one and a half ounces of whiskey.  Favored
+by the more disreputable townfolk, it is guaranteed to pack a punch.  
+~
+#745
+bowl spiced stew~
+a small bowl of spiced stew~
+A small bowl of spiced stew sits here.~
+ceramic~
+food 0 0 AO
+BD 0 0 0 0
+5 1 100 P
+E
+spiced stew~
+A simple meal, this spiced stew is a favorite of the townsfolk of Lemish.
+It consistes of potatoes, carrots, and chunks of spiced meat.  
+~
+#747
+wooden pine casket~
+a casket~
+A wooden casket made out of pine rests here.~
+pine~
+container 0 0 A
+1 AC 0 10 0
+10 10 20 P
+E
+wooden pine casket~
+The casket is a simple one.  It is made of strong pine planks, held
+together with iron nails.  The casket is painted a black color, and can
+accomadate a large humanoid.  
+~
+#748
+body boy child male~
+a boy's body~
+The body of young male child lies here in peace.~
+flesh~
+trash 0 0 A
+0 0 0 0 0
+1 10 0 P
+E
+body boy~
+This small boy has been dressed in the finest clothes he owned.  He has
+been scrubbed clean, and had his hair trimmed.  The boy's hands are folded
+together over his chest.  
+~
+#749
+white lilies flowers arrangement~
+a bunch of white lilies~
+An arrangement of white lilies lies here.~
+plant~
+jewelry 0 0 AO
+0 0 0 0 0
+1 1 5 P
+E
+white lilies~
+The flowers look freshly cut.  The petals of the lilies are white as pure
+snow.  The stems of the lilies are tied together with a simple black ribbon.
+~
+#750
+red roses arrangement flowers~
+a bunch of red roses~
+An arrangement of red roses lies here.~
+plant~
+jewelry 0 0 AO
+0 0 0 0 0
+1 1 5 P
+E
+roses red~
+These roses are freshly cut.  The petals are as red as freshly spilled
+blood.  The thorns have been trimmed from the stems, and the roses are tied
+together with a black ribbon.  
+~
+#751
+blue tulips arrangement~
+a bunch of blue tulips~
+An arrangement of blue tulips lies here.~
+plant~
+jewelry 0 0 AO
+0 0 0 0 0
+1 1 5 P
+E
+blue tulip~
+The tulips are a bright blue color, almost like the sky.  The tulips are
+quite fresh, and are not wilted at all.  
+~
+#760
+tin lantern light~
+a tin lantern~
+A small lantern made out of tin sits here.~
+tin~
+light 0 0 AO
+0 0 DEFG 0 0
+5 1 50 P
+E
+tin lantern~
+This small lantern is well crafted and sturdy.  It is made from beaten
+tin, and is a little soot stained.  The latch on the lantern door squeaks a
+little when it is opened.  This lantern will provide sufficient light in the
+dark.  
+~
+#761
+copper lantern light~
+a copper lantern~
+A lantern made of durable copper sits here.~
+copper~
+light 0 0 AO
+0 0 EFGH 0 0
+10 1 100 P
+E
+copper lantern~
+This small lantern is well crafted and sturdy.  It is made from molded
+copper, and quite clean.  There doesn't seem to be any defects with the
+lantern.  It will provide adequate light in the dark.  
+~
+#762
+barrel cranberry juice~
+a barrel of cranberry juice~
+A barrel of red, bitter liquid stands here.~
+oak~
+drink 0 0 AO
+8 8 'cranberry juice' 0 0
+5 2 70 P
+E
+barrel cranberry juice~
+This small wooden cask is filled with cranberry juice.  There is a small
+spout on the side that dispenses the juice.  
+~
+#763
+spiced apple pie~
+a spiced apple pie~
+A spiced apple pie sits here sending steam into the air.~
+unknown~
+food 0 0 A
+BD 0 0 0 0
+5 1 50 P
+E
+spiced apple pie~
+This pie is freshly baked, and still gives off steam.  The crust is a
+golden brown color, and it barely covers the apples inside.  The apples are
+a mixture of red, green, and yellow apples.  The pie plate can barely hold
+all of the apples under the crust.  
+~
+#764
+bowl red beans rice~
+a bowl of red beans and rice~
+A bowl with rice that is covered with red beans sits here.~
+unknown~
+food 0 0 A
+ABCD 0 0 0 0
+5 1 75 P
+E
+red beans rice~
+This small bowl is filled with hot white rice.  On top of the rice is a
+rather large spoonful of big, fat, red beans.  
+~
+#765
+hickory smoked ham~
+a hickory smoked ham~
+A tasty smoked ham with the scent of hickory sits here.~
+unknown~
+food 0 0 A
+ABCD 0 0 0 0
+5 1 75 P
+E
+hickory smoked ham~
+This ham has just been pulled from the smoker.  It is a nice dark color,
+and the bone sticks out of it enough to hold on to.  
+~
+#766
+spiked flail knights takhisis~
+a {WKnights{x of {DTakhisis{x spiked flail~
+A {WKnights{x of {DTakhisis{x spiked flail lies here.~
+iron tips~
+weapon 0 0 ANY
+flail 2 7 pound 0
+10 5 100 P
+E
+spiked flail knight takhisis~
+This spiked flail is nothing more than a long handle with a chain
+attatched to the end.  The other end of the chain has a steel ball the size
+of a man's skull.  The ball is covered in large, sharp spikes.  The entire
+weapon has been dyed a dark black color, and has the symbol of the Knights
+of Takhisis etched around the handle.  
+~
+#767
+knights takhisis poleaxe polearm~
+a {WKnights{x of {DTakhisis{x poleaxe~
+A {WKnights{x of {DTakhisis{x poleaxe lies here.~
+steel~
+weapon 0 0 ANZ
+polearm 3 6 cleave F
+10 12 120 P
+E
+takhisis knight poleaxe~
+This poleaxe is commonly used by footsoldiers and gate guards.  It is
+nothing more than a large axe head on a long, sturdy wooden pole.  It has a
+massive reach, but it is a slow weapon.  The axe head has been etched with
+the Knights of Takhisis symbol.  
+~
+#768
+knights takhisis barbed whip~
+a {WKnights{x of {DTakhisis{x barbed whip~
+A {WKnights{x of {DTakhisis{x barbed whip lies here.~
+iron tips~
+weapon 0 0 ANY
+whip 4 4 tail 0
+10 2 110 P
+E
+barbed whip takhisis knight~
+This whip is made from black leather.  The striking end has been plated
+with steel.  Each one of the tiny plates has a set of barbs protruding from
+it.  
+~
+#785
+fountain~
+a fountain~
+A {Wfountain{x with crystal clear {Cwater{x stands here.~
+stone~
+fountain 0 0 0
+-1 -1 'water' 0 0
+1 0 0 P
+E
+fountain~
+This fountain is typical of most fountains found in various cities.  It
+has a large circular base where the water pools, and a large spire with
+spouts that shower the water out.  The entire structure is made of hardened
+white alabaster.  The water is cool and clear.  
+~
+#832
+notice post sign~
+an auction block notice~
+A {Ynotice{x is tacked to a post here.~
+paper~
+map 0 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign notice~
+--------------------------------------------------------------------
+|                                                                  |
+| Type LIST to see what I have for sale.                           |
+| Type BUY and the slave you wish to purchase for your enjoyment.  |
+|                                                                  |
+|                                                                  |
+|     Sorry no refunds on slaves who do not please your needs!     |
+|                                                                  |
+--------------------------------------------------------------------
+~
+E
+post~
+--------------------------------------------------------------------
+|                                                                  |
+| Type LIST to see what I have for sale.                           |
+| Type BUY and the slave you wish to purchase for your enjoyment.  |
+|                                                                  |
+|                                                                  |
+|     Sorry no refunds on slaves who do not please your needs!     |
+|                                                                  |
+--------------------------------------------------------------------
+~
+#850
+spoon~
+a spoon~
+A spoon lies here, dripping bits of soup.~
+wood~
+trash 0 0 AO
+0 0 0 0 0
+5 1 50 P
+E
+spoon~
+This simple spoon is made of tin.  It is very dirty, and it has a bit of
+soup dripping from it.  
+~
+#0
+
+
+
+#ROOMS
+#700
+Road to Lemish~
+The gate, into the city, can be seen just towards the south.  Dark
+knights stand outside of the gate, checking all that enter and leave.  The
+road here resembles that of a city street, for the path has been set with
+cobbled stone.  The road is not the only sign of work in progress, for many
+tree stumps can be seen in the surrounding fields.  
+~
+0 0 2
+D1
+~
+~
+0 0 701
+D2
+~
+~
+0 0 739
+S
+#701
+Road to Lemish~
+The nearest tree line is a hundred yards beyond the edge of the open
+fields.  This open area, that surrounds the city, is full of wild grasses
+and tree stumps.  The paved roadway continues towards the east and west,
+with the north wall towering overhead.  The banners of the dark knights fly
+high overhead on the north wall.  
+~
+0 0 2
+D1
+~
+~
+0 0 703
+D3
+~
+~
+0 0 700
+S
+#702
+Center of Main Street~
+You stand in the middle of Main street in the city of Lemish.  Knights
+clad in dark armor patrol the streets.  Main street continues to the north
+and is constantly patrolled.  The road to the east, Guards way, is
+controlled and patrolled by nasty, hobgoblin knights.  The road to the west,
+Sunset street, runs north and south near the western wall.  
+~
+0 262148 1
+D0
+~
+~
+0 0 704
+D1
+~
+~
+0 0 780
+D3
+~
+~
+0 0 723
+S
+#703
+Road to Lemish~
+With the north wall looming overhead, many eyes carefully watch the
+surrounding area.  The paved road continues, towards the east and west, also
+under the watchful eye of the dark knights.  The forest recently lost many
+large trees, from the looks of so many tree stumps sitting in the open
+fields that surround the city.  
+~
+0 0 2
+D1
+~
+~
+0 0 761
+D3
+~
+~
+0 0 701
+S
+#704
+Main Street~
+This small street heads east and south.  Small houses and huts surround
+you.  People continue to go about their business while trying to ignore the
+dark knights as they give their neighbors a hard time.  One does not live
+long or a quiet life if you interfere with the knights that garrison the
+city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 705
+D2
+~
+~
+0 0 702
+S
+#705
+Main Street~
+This section of Main street continues to the east and west.  The houses
+here are small and some are little more than run down huts.  The citizens
+try to go about their business without attracting unwanted attention of the
+dark knights patrolling the street.  The presence of these knights makes it
+almost impossible to take a stroll down a quite lane without being
+questioned and bullied.  
+~
+0 262144 1
+D1
+~
+~
+0 0 706
+D3
+~
+~
+0 0 704
+S
+#706
+Main Street~
+As you walk along the street, you notice that there are very few people. 
+You see a pair of knights walking with their hands on their sword hilts. 
+Knights wander around chatting about things they had done and seen today. 
+Many citizens turn around and head another direction when they see so many
+knights boasting about their deeds and adventures.  
+~
+0 262144 1
+D0
+~
+~
+0 0 707
+D3
+~
+~
+0 0 705
+S
+#707
+Main Street~
+Knights mill about here relaxing and talking about their exploits.  They
+eye you, pondering if they should come and bother you.  They obviously
+decide that it is not worth their effort, and turn back to their
+conversation.  A mother tries to keep the cries from her baby muffled for
+fear the knights will put the baby to death for breaking the noise
+ordinance.  
+~
+0 262148 1
+D0
+~
+~
+0 0 708
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 706
+S
+#708
+Main Street~
+The cobbled road snakes from the south and creeps along towards the east.
+The shutters of the homes here are bolted shut as are the doors.  Further up
+the street an armed patrol is pounding on a door and demanding entry.  With
+a boom, the door caves in and the patrol swarms into the home.  Moments
+later the street is full of broken furniture and angry guards as they
+reappear empty handed.  
+~
+0 262144 1
+D1
+~
+~
+0 0 709
+D2
+~
+~
+0 0 707
+S
+#709
+Main Street~
+The street is devoid of citizens but still teems with life with the
+knights that patrol the streets.  The greed of keeping their way of life
+unchanged, is the reason many citizens give for allowing the knights to
+garrison the city.  These people have no love for the Solamnic knights and
+see the power of these dark knights as a strong ally.  The street continues
+to the north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 712
+D3
+~
+~
+0 0 708
+S
+#710
+Headquarters of the Knights of Takhisis~
+When the dark knights first occupied this city, their base of operations
+was set up here.  Now that Lord Tyrion has moved into his manor house, only
+dispatch orders and subcommanders enter this building.  Many of the more
+important messages are sent over to the manor house promptly.  Most of the
+activity centers around the commanders of the patrols reporting in to go on
+duty or ending their watch shift.  
+~
+0 262152 1
+D1
+~
+~
+1 0 712
+S
+#711
+Center Avenue~
+The sides of the roadway are flanked by well trimmed hedge rows.  These
+rows stand a good seven tall and block all view towards the north and south.
+It feels like you are walking down a quite hallway, with walls made from
+living plants and the sky as the ceiling.  Every few yards a lone post
+stands to either side of the roadway with a lit lantern hanging from it.  
+~
+0 262144 1
+D1
+~
+~
+0 0 785
+D3
+~
+~
+0 0 712
+S
+#712
+Before the Headquarters of the Knights of Takhisis~
+The headquarters for the Knights of Takhisis looms towards the west.  The
+road known as Center avenue branches off to the east, while Main street
+continues to the north and south.  Towering over the surrounding buildings
+towards the north is the great manor of Lord Tyrion.  The strength of the
+garrison seems to double in strength as many guards enter and leave the
+building to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 713
+D1
+~
+~
+0 0 711
+D2
+~
+~
+0 0 709
+D3
+An oak door with iron bars stands here.
+~
+~
+1 0 710
+S
+#713
+Outside of the West Entrance~
+The western entrance to Lord Tyrion's manor stands to the east.  An
+ivory white door with polished, brass fittings stands there.  Well trimmed
+hedges flank the door on both sides and a path made of limestone leads to
+the door.  The road towards the west leads to the draconian barracks and the
+only smithies in the city.  The road of Main street continues to the north
+and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 715
+D1
+An ivory white door with polished brass fittings stands here.
+~
+~
+1 0 756
+D2
+~
+~
+0 0 712
+D3
+~
+~
+0 0 737
+S
+#714
+A Hobgoblin Barracks~
+The barracks is split into a eating hall as well as a place to sleep.  On
+one side of the room stand rows of tattered cots that have animal skins
+piled on top of them.  On the other side is the eating area which has a few
+tables and benches.  A great pit sits in a corner with a huge iron kettle
+hanging over it as well as a makeshift chimney of sorts.  
+~
+0 8 1
+D2
+~
+~
+0 0 743
+S
+#715
+Main Street~
+In most cities the road known as Main street would be full of chatting
+citizens both rich and poor.  This street however is devoid of most of that
+sort of life.  The only people about are those citizens quickly going about
+their business and the dark knights of Takhisis.  These knights did not
+conquer the city, for it's citizens chose freely to join forces with these
+dark servants.  
+~
+0 262144 1
+D2
+~
+~
+0 0 713
+D3
+~
+~
+0 0 716
+S
+#716
+Main Street~
+This part of Main street runs towards the east and west.  It is only one
+route that will lead an adventurer to many destinations, like the Sunset
+gate which stands in the north western part of the city.  This street also
+will lead the explorer to the center of the city, where on could see the
+great manor of Lord Tyrion or perhaps the headquarters for the knights that
+garrison the city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 715
+D3
+~
+~
+0 0 717
+S
+#717
+Main Street~
+For a city of average size, it is odd that so few citizens do not walk
+around more freely.  It was by their choice that the dark knights entered
+the city.  This agreement kept the people from watching their homes fall to
+the torch and kept their heads upon their shoulders.  The people's greed for
+power and hate for the Solamnics drove their choice.  The least they could
+do is walk around, greet their new saviors, and praise Takhisis for these
+fine works.  
+~
+0 262144 1
+D0
+~
+~
+0 0 718
+D1
+~
+~
+0 0 716
+S
+#718
+Main Street~
+The road here runs to the south and west, and connects Lily avenue to
+the east.  Knights clad in dark armor either walk around in a relaxed
+setting or patrol the streets for unwanted spies.  The knights of Solamnia
+would love to know the size and strength of the garrison in this city.  From
+what you have seen so far, that information could possibly encourage them to
+make an expedition into the dwarven realms.  
+~
+0 262144 1
+D1
+~
+~
+0 0 799
+D2
+~
+~
+0 0 717
+D3
+~
+~
+0 0 719
+S
+#719
+Main Street~
+The cobbled street runs towards the north and east.  The homes here look
+abandoned for many doors have been shattered, and no one is about.  It would
+appear that not all the residents of Lemish openly welcomed the dark knights
+into their fair city.  Those who did welcome these forces of darkness try
+not to be too cheerful around the knights.  Any show of happiness causes the
+patrol to be curious of that person's glee, and must find out what devious
+plan that person must be planning.  
+~
+0 262144 1
+D0
+~
+~
+0 0 720
+D1
+~
+~
+0 0 718
+S
+#720
+Main Street~
+Main street heads to the north and south, with small houses on either
+side of the street.  People try to go about their business without
+attracting unwanted attention of the dark knights patrolling the street.  An
+old man backs up into the wall of one of the surrounding buildings as a
+patrol nears.  He stands on trembling knees and keeps his head bowed, not
+wanting his drug induced eyes to come into eye contact of the dark knights.  
+~
+0 262144 1
+D0
+~
+~
+0 0 721
+D2
+~
+~
+0 0 719
+S
+#721
+Main Street~
+Main street runs to the west and south, with very few buildings on either
+side.  This road joins another road a little further towards the west known
+as Sunset street.  Towering over the buildings stands the Sunset gate in the
+distant northwest.  Looking towards the distant south and east, the top
+story of a great manor can be seen.  The sounds of marching echoes down the
+street as dark knights constantly patrol all over the city.  
+~
+0 262144 1
+D2
+~
+~
+0 0 720
+D3
+~
+~
+0 0 722
+S
+#722
+Sunset Street~
+Towards the north stands the great west gate, better known as the Sunset
+gate.  Sunset street continues toward the south and Main street merges from
+the east.  The protective walls of the city can be seen off towards the
+west.  These walls make the city feel more like a prison with all the dark
+knights walking about.  These knights seem annoyed by any signs of happiness
+outside of their own ranks.  
+~
+0 262144 1
+D0
+~
+~
+0 0 738
+D1
+~
+~
+0 0 721
+D2
+~
+~
+0 0 731
+S
+#723
+Sunset Street~
+The road here bends from the east and turns towards the north.  Many of
+the homes here have been given to the dark knights to serve as officer
+quarters.  The different divisions of the army have separate barracks to keep
+fights down to a minimum.  The homes reflect the wealth of the former
+owners, some being wealthy merchants while others were just greedy home
+owners who rented their rooms to travelers.  
+~
+0 262144 1
+D0
+~
+~
+0 0 724
+D1
+~
+~
+0 0 702
+S
+#724
+Pikes of Death~
+The road that travels to the north and south is lined on either side with
+tall posts.  These posts are nine feet tall and are topped with a spike that
+is crusted in blood.  At the base of some of these posts, lie the remains of
+tattered cloth and sun bleached bones.  Others reek of death for corpses
+have been impaled upon them and the remains of some poor souls hang from
+them.  A {Ysign{x has been nailed to one of the posts.  
+~
+0 262144 1
+E
+sign~
+-------------------------------------------------------
+| For the crime of spying on the Knights of Takhisis, |
+|                                                     |
+|             DEATH BY IMPALEMENT!                    |
+|                                                     |
+|   A curse on all of those who serve the light.      |
+-------------------------------------------------------
+~
+D0
+~
+~
+0 0 725
+D2
+~
+~
+0 0 723
+S
+#725
+The Gallows~
+A tree's limbs have been all cut away save one.  This tree serves as the
+gallows for people the dark knights deem as a threat.  A platform has been
+built at the base of the tree.  The platform extends a few feet above the
+ground and has two bags filled with sand hanging underneath.  Two ropes hang
+from the limb, and are directly over the same spots where the bags hang
+underneath.  A black ribbon is tied around what look like a handle near the
+base of the tree.  The road of Sunset street continues towards the north
+and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 726
+D2
+~
+~
+0 0 724
+S
+#726
+Sunset Street~
+As the road continues to the north and south, one can see that many
+wagons have rumbled down this road.  The road has two worn down places in
+the stones where a countless number of heavy wagons have used this road. 
+The dark knights that control this city are in constant need of supplies. 
+The amount of food, clothing, weapons and armor is a staggering number to
+most people.  For a simple garrison of troops, the inflow of supplies
+amounts to surplus stockpiling for a distant army.  
+~
+0 262144 1
+D0
+~
+~
+0 0 727
+D2
+~
+~
+0 0 725
+S
+#727
+Sunset Street~
+The road cuts through a vacant lot that only has an overgrown foundation
+and pieces of trash.  By the size of the foundation, the structure that was
+built here could of been quite a large building.  The foundation is some
+fifty feet wide, sixty feet long and still has the hearth stones for two
+fireplaces.  What the building looked like, how many stories tall it was, or
+even how it was destroyed is unknown.  
+~
+0 262144 1
+D0
+~
+~
+0 0 728
+D2
+~
+~
+0 0 726
+S
+#728
+Intersection of Sunset Street and Trooper Ave~
+The road of Sunset street runs towards the north and south, while Trooper
+avenue continues towards the east and west.  The echo of a hammer striking
+steel drifts from the west, while the sounds of hissing come from the east. 
+The only armorer and weaponsmith allowed to work in the city have their
+shops set up towards the west.  The dark knights that patrol this area are
+mainly draconian with maybe a stray human or hobgoblin in the mix.  
+~
+0 262148 1
+D0
+~
+~
+0 0 729
+D1
+~
+~
+0 0 735
+D2
+~
+~
+0 0 727
+D3
+~
+~
+0 0 732
+S
+#729
+Sunset Street~
+Towards the north and south runs Sunset street.  Just towards the south
+Trooper avenue can be seen joining Sunset street.  This road way is quieter
+than most other places in the city.  Not many patrols overlap their routes
+in this section of the city.  Draconians that are in the ranks of the dark
+knights also have a barracks in this section of the city.  They are fewer in
+number but their presence still sends a shiver down the spine of most
+citizens.  
+~
+0 262144 1
+D0
+~
+~
+0 0 730
+D2
+~
+~
+0 0 728
+S
+#730
+Sunset Street~
+Here Sunset street opens up to the north and south.  Many of the homes
+here are little more than huts and shacks.  The constant patrols from the
+dark knights disrupt many efforts to repair these homes.  One home stands
+out like a beacon among the other dingy buildings, for it is mainly royal
+blue in color with it's trim work outlined in pink.  It had originally been
+trimmed in red, but the owner soon changed his mind and tried the paint over
+the red with white paint.  Since the white paint was much thinner it did not
+completely cover the red.  
+~
+0 262144 1
+D0
+~
+~
+0 0 731
+D2
+~
+~
+0 0 729
+S
+#731
+Sunset Street~
+A few homes sit isolated from the rest of the city here on Sunset street.
+The road runs to the north and south with little to look at.  The patrol
+routes taken by the dark knights overlap for effectiveness.  Just as one
+patrol leaves the immediate area another patrol enters giving little peace
+of mind for those with a guilty conscious.  
+~
+0 262144 1
+D0
+~
+~
+0 0 722
+D2
+~
+~
+0 0 730
+S
+#732
+Lit Forges~
+The road comes to a dead end, but those looking to buy some of the best
+equipment around have come to the right place.  The dark knights allow these
+smithies to remain open, and can sometimes get a most sought after weapon or
+piece of armor if they have saved up the pay they have received.  The shop
+of Topaz the armorer stands to the north, while the shop of Lukas the
+weaponsmith stands to the south.  
+~
+0 262144 1
+D0
+A sign with the picture of a shield hangs over the doorway.
+~
+~
+0 0 734
+D1
+~
+~
+0 0 728
+D2
+A sign with the picture of a sword hangs over the doorway.
+~
+~
+0 0 733
+S
+#733
+Lukas, the Weaponsmith~
+You are standing in the display room of the world renown weaponsmith
+Lukas.  Unlike most businesses, Lukas has prospered by the occupation of
+Lemish.  The Dark knights require a lot of weapons and pay him well for his
+work.  The shop is neat and organized with the most eye catching weapons
+displayed upon pillows of velvet.  
+~
+0 8 1
+D0
+~
+~
+0 0 732
+S
+#734
+Topaz, the Armorer~
+In a city controlled by a powerful army, an armorer must be able to meet
+the needs of most any patron that enters his shop.  The honor of supplying
+the dark knights is not one given lightly.  The shop is well stocked in many
+types of armor that range from leather to banded mail.  A {Wforge{x stands
+near the north wall, while a {yworkbench{x stands along the west wall.  The
+doorway that leads back into the street is to the south.  
+~
+0 8 1
+E
+workbench~
+A workbench made from the evergreen trees that grow outside of the city
+stands here.  It is covered with tools, pieces of leather, and a couple of
+polishing clothes.  The workbench has many smaller boxes sitting on top of
+it, filled with a range of metal fasteners, metal rings of various sizes,
+and pieces of parchment with names and items written on them.  
+~
+E
+forge~
+The forge stands with it's coals banked but warm enough to start forging
+at anytime.  The forge is made from blocks of basalt, that were imported
+from Mount Nevermind.  Most would pick granite as a building material, but
+the basalt has already felt the heat of liquid flame from depths within the
+heart of Krynn.  
+~
+D2
+~
+~
+0 0 732
+S
+#735
+Troopers Ave~
+The homes that dot this neighborhood belong to those who provide a
+service for the dark knights.  Many of the apprentices that work at the
+forges live in this area.  The knights show these specialists a sign of
+respect by only harassing them once a month.  These cases of harassment
+usually happen the day after they receive their pay.  Some have even been
+able to delay the event by almost a full week.  When the knights found that
+they had been tricked, the young apprentice wished he had never been born.  
+~
+0 262144 1
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 751
+D3
+~
+~
+0 0 728
+S
+#736
+Trooper Ave~
+To the north stands the barracks of the draconian troopers who have a
+separate division within the ranks of the dark knights.  Few citizens ever
+linger in these streets for a story has been told time and again.  It is
+said that a couple of children and drunk old man were taken from the
+streets, only to reappear as the dinner for these scaly beasts.  The road
+outside of this barracks of terror continues towards the east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 848
+D1
+~
+~
+0 0 737
+D3
+~
+~
+0 0 735
+S
+#737
+Trooper Ave~
+To the east Main street can be seen while this road continues towards the
+west.  This section of the city is patrolled mainly by draconian troopers. 
+With the city garrisoned such as it is, the patrols conducted by the dark
+knights are aimed at locating and capturing Solamnic spies as well as to
+keep the soldiers from becoming too bored.  An idle army would lose its
+usefulness by drinking the taverns dry and darkening the streets with
+needless bloodshed.  
+~
+0 262144 1
+D1
+~
+~
+0 0 713
+D3
+~
+~
+0 0 736
+S
+#738
+Sunset Gate~
+Here stands the great Sunset gate, named so because the sun sets in the
+west.  The founders of the city were bored with the standard name of the
+west gate and wanted something different.  The dark knights post a heavy
+guard here, for the city of Solanthus and its Solamnic knights loom over the
+horizon.  The sounds of footsteps pacing back and forth can be heard from
+overhead, as the sentries keep an eye out for any signs of travelers on the
+road.  
+~
+0 262148 1
+D1
+~
+~
+0 0 741
+D2
+~
+~
+0 0 722
+D3
+~
+~
+0 0 739
+S
+#739
+Outside Sunset Gate~
+You are standing outside the Sunset gate of the small city of Lemish. 
+The knights of Takhisis patrol the area with a sharp eye, questioning anyone
+they feel like bothering.  Those who enter the city must beware not to anger
+the knights, for no matter where you run, the guards will attack enemies on
+sight.  A few travelers are escorted into the guard house to the south for
+not having the sense to keep their mouths shut.  
+~
+0 4 4
+D0
+~
+~
+0 0 700
+D1
+An iron gate towers overhead here.
+~
+~
+0 0 738
+D2
+~
+~
+0 0 740
+S
+#740
+Guard House~
+You are standing in the middle of the guard house.  Off to one side is a
+small holding cell for people awaiting transport to the city jail.  The head
+guard sits at his desk ignoring the pleas for release from his victims. 
+Most of them look like simple commoners who did little but give the knights
+a cross look.  The knights have little to no tolerance for those who break
+their laws.
+~
+0 262152 1
+D0
+~
+~
+0 0 739
+S
+#741
+Mourning Ave~
+Some of the locals say that this strip of road was named for the fact
+that the sun's rays seem to always shine down upon this street in the
+daytime.  Others would argue that it is not the sun that gives it the name
+Mourning avenue, but for the fact that this city's graveyard is located
+along this roadway.  Whatever the reason, it can honesty be said that this
+street is indeed a beauty to behold.  Any source of light has a way of
+reflecting off pieces of the landscape and bringing a delightful play of
+light to ones eye.  
+~
+0 262144 1
+D1
+~
+~
+0 0 742
+D3
+~
+~
+0 0 738
+S
+#742
+Mourning Ave~
+A priest walks along the road followed by two younger boys in freshly
+pressed black robes.  A sickness has taken some of the citizens of this
+section of the city, and the priest performs rituals to purge the area of
+the disease.  The young boys scatter ashes in the wake of the priest's
+passing as part of the ritual.  
+~
+0 262144 1
+D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 741
+S
+#743
+Mourning Ave~
+A barracks for a hobgoblin unit stands to the north as the road here
+continues toward the east and west.  The street reeks of decaying meat and
+other forms of smelly trash.  The cobblestone road is caked in dried blood
+and is littered with bones and scraps of cloth.  Most of the citizens that
+used to live here have either moved or somehow got invited as a hobgoblin
+dinner guest.  
+~
+0 262144 1
+D0
+~
+~
+0 0 714
+D1
+~
+~
+0 0 744
+D3
+~
+~
+0 0 742
+S
+#744
+Mourning Ave~
+Most of the buildings here have been painted red in color.  Nobody knows
+or can even guess at what the reason could possibly be.  The digging of a
+trench around these buildings has also been started, and is three quarters
+of the way through.  Some have wondered if these building have been selected
+to be a sort of defense against an invasion, but to why paint them a color
+that stands out is a complete mystery.  
+~
+0 262144 1
+D1
+~
+~
+0 0 745
+D3
+~
+~
+0 0 743
+S
+#745
+Mourning Ave~
+The building to the north before the coming of the dark knights was
+dedicated to the acts of goodness and kindness.  Now the powers of evil have
+taken hold and it has become a den for the Dark Lady's followers.  The
+street is quiet for very few citizens travel here, and for this reason the
+patrolling knight also limit their travels here.  
+~
+0 262144 1
+D0
+~
+~
+0 0 849
+D1
+~
+~
+0 0 746
+D3
+~
+~
+0 0 744
+S
+#746
+Intersection on Mourning Ave and Mason Street~
+A building with a banner of black hanging out of an upper story window
+stands nearby.  A grieving couple stands just outside of the doorway as they
+turn to leave the home.  The man wearing his best set of clothes has a black
+ribbon tied around his arm, while a woman that is mostly dressed in black
+clings to his right arm.  
+~
+0 262144 1
+D1
+~
+~
+0 0 747
+D2
+~
+~
+0 0 796
+D3
+~
+~
+0 0 745
+S
+#747
+Mourning Ave~
+Citizens stand aside as four men walk by carrying a casket upon their
+shoulder.  The casket is not an elaborate piece of craftsmanship, but rather
+a simple wooden box made out of pine.  A couple of drunk knights even
+applaud at the sight of the funeral procession.  If not for their
+overwhelming presence, the knights would have found themselves assaulted by
+all sides.  The onlookers could only openly glare at these dark terrors.  
+~
+0 262144 1
+D0
+~
+~
+0 0 748
+D1
+~
+~
+0 0 749
+D3
+~
+~
+0 0 746
+S
+#748
+Entrance to the Graveyard~
+You are walking along a small, narrow path, weeds have over grown the
+path and it's very dark here.  To the west you can hear the moaning of the
+wind as it sweeps through the graveyard.  The path continues through a rusty
+iron fence that rings around the grounds of the graveyard.  A rusty gate
+that has fallen off its hinges lies amongst the weeds.  
+~
+0 5 1
+D2
+~
+~
+0 0 747
+D3
+~
+~
+0 0 792
+S
+#749
+Mourning Ave~
+A rusty iron fence stands on the north side of the road.  A lonely howl
+pierces the air as well as one's nerve for the faint of heart.  Through the
+mist you can see the shadows of figures moving about and shapes that could
+be headstones.  The south side is a little more cheery for there is a
+brightly painted wooden {Ystall{x standing there.  
+~
+0 262144 1
+E
+stall~
+A simple {ywooden{x stall stands here painted in many different colors.  The
+base of the stall is {ggreen{X in color with blades of {Ggrass{x painted in
+a brighter shade.  Among the green field a couple of beautiful
+{Ysunflowers{x stand tall.  The upper half is painted in a {Csky blue{x. 
+And words {RFresh Flowers{x stands out against the blue sky.  
+~
+D1
+~
+~
+0 0 750
+D3
+~
+~
+0 0 747
+S
+#750
+Mourning Ave~
+A building stands to the north with a sign hanging over the doorway.  The
+sign has the image of two evenly stacked piles of silver coins that are
+standing apart.  The windows of the building have iron bars mounted over
+them, which is a great for keeping thieves out but rather terrible if one is
+trapped inside.  
+~
+0 262144 1
+D0
+~
+~
+0 0 791
+D1
+~
+~
+0 0 752
+D3
+~
+~
+0 0 749
+S
+#751
+Sign of the Sky Dragons~
+The Gnomish Committee of Aeronautical Recreation of Dragons in Flight
+holds their guild meetings in this building.  The guild was established for
+gnomes who have the life quest of building a working model of how a dragon
+flies.  If the dark knights were not bad enough for the citizens of Lemish,
+this group would be a holy terror if the same knights did not keep their
+experimenting ways in check.  
+~
+0 12 1
+D0
+~
+~
+0 0 735
+S
+#752
+Mourning Ave~
+To either side of the narrow stone roadway, the ground consists of thick,
+red clay.  The south side is dry and very well packed down from the many
+feet that have tread upon the surface of it.  The north side is a different
+story altogether, for it is a thick layer of mud.  A wagon too wide for the
+road has become stuck in the mud as well as a pair of oxen.  An angry driver
+stands in his {ywagon{x cursing the gods for his misfortune.  
+~
+0 262144 1
+E
+wagon~
+A wagon loaded in heavy, iron ore sits sinking in thick, sticky red clay.
+The wagon has sunk down to it's axle and would take an act from the gods to
+move it again.  The only other way would be to wait for the road to dry
+completely out and then dig it out.  
+~
+D1
+~
+~
+0 0 836
+D3
+~
+~
+0 0 750
+S
+#753
+Outside the Grand Manor~
+Before you lies the majestic entrance of this fine manor.  The door is
+plated with platinum with gold {Yengravings{x.  The stoop is made of a green
+marble with sharp edges and is smooth to the touch.  The outer walls are of
+a red brick, with white marble used as trim work around the doorway and
+window seals.  Stone griffins flank either side of the doorway as do well
+trimmed hedges.  
+~
+0 262144 1
+E
+engravings~
+The engravings are written in the flowing hand of the elves, as well as that
+of common.  The elven arcs across the top of the door, while the common
+tongue arcs in a reverse curve below it forming a circle.  The engravings
+state "Welcome to the Manor of Lord Tyrion, May {WTakhisis{x show you the
+way."  The seal of the Knights of {WTakhisis{x is engraved in the center of
+the flowing script.
+~
+D0
+A door encased in platinum with engravings of gold stands before you.
+~
+~
+1 0 804
+D2
+~
+~
+0 0 785
+S
+#754
+The End of a Feud~
+The homes that once faced each other were almost identical in appearance
+and design.  The home owners had been life long friends until a love affair
+drove a wedge between them.  This wedge soon became outright hate that
+ended in tragedy, for one of the homes burned to the ground leaving only one
+of the former friends alive.  The friend died shortly after leaving only his
+abandoned home to stand as a reminder to the community.  
+~
+0 262144 1
+D0
+~
+~
+0 0 836
+D2
+~
+~
+0 0 755
+S
+#755
+The Mysteries of Life and Death.~
+A hedge row, one living the other dead, stands to either side of the
+roadway.  A deep rooted elm tree, also one living the other dead, towers
+over each hedge row.  The mystery lies as to why both sides only have one
+living thing.  The living plantings are the most green and healthy looking
+creations that could have been planted by Zivilyn.  The dead plantings are
+black and brittle as if touched by the hand of Chemosh.  
+~
+0 262144 1
+D0
+~
+~
+0 0 754
+D2
+~
+~
+0 0 837
+S
+#756
+The West Foyer~
+You are standing in the west-side entrance of Lord Tyrion's Estate.  A
+guard stands here checking people in for their appointments.  The floor is
+tiled in a green marble that has been polished to a mirror finish.  A
+crystal chandelier dangles high above the center of the room.  It's many
+candles cast their light throughout the room.  An open doorway on the north
+side of the room leads into a carpeted room with many chairs.  
+~
+0 8 1
+D0
+~
+~
+0 0 800
+D3
+~
+~
+1 0 713
+S
+#757
+South Street~
+Towards the south a strange wooden structure stands, while the roadway
+continues to the north and west.  A rain barrel stands near the structure to
+collect the water that runs off the rooftop.  To the north, knights stand
+guard duty over the supply depot.  Most of the knights that patrol this area
+are draconian and work to keep the surrounding area well maintained.  
+~
+0 262144 1
+D0
+Dark knights stand watch over an area that holds vital resources for the
+garrison and the army.  
+~
+~
+0 0 837
+D2
+A wooden structure with an opening stands over the roadway.  The seal of
+the Third Engineering Corps is mounted above the opening.  
+~
+~
+0 0 758
+D3
+~
+~
+0 0 787
+S
+#758
+Keeping Dry~
+As a way to prove their skill, the Third Engineering Corps designed and
+built this covered walkway that covers the entire roadway.  A whole
+company of troops could assemble in the street with room to spare.  Many
+human commanders did not think the feat proved anything but a waste of
+resources.  
+~
+0 262152 1
+D0
+~
+~
+0 0 757
+D1
+~
+~
+0 0 847
+D2
+~
+~
+0 0 759
+S
+#759
+South Street~
+The roadway here is very well maintained since the Draconian engineers
+are quartered in this area.  An odd looking wooden structure has been
+constructed to the north.  The great Sunrise gate can be seen towering over
+the surrounding area to the area.  The breeze carries with it the scents of
+the a breath of fresh air.  
+~
+0 262144 1
+D0
+A wooden structure with an opening stands over the roadway.  The seal of
+the Third Engineering Corps is mounted above the opening.  
+~
+~
+0 0 758
+D2
+~
+~
+0 0 760
+S
+#760
+Sunrise Gate~
+Towards the east stands the great Sunrise gate, named so because the sun
+rises in the east.  The founders of the city were bored with the standard
+name of the east gate and wanted something unique.  The dark knights post a
+light guard here, for the city of Solanthus and its Solamnic knights would
+most likely attack from the north first.  The sounds of foot steps pacing
+back and forth can be heard as the sentries keep an eye out for any signs of
+travelers on the road.  
+~
+0 262144 1
+D0
+~
+~
+0 0 759
+D2
+~
+~
+0 0 763
+D3
+~
+~
+0 0 767
+S
+#761
+Road to Lemish~
+Open fields surround the city, giving knights on watch ample time to spot
+an enemy and sound the alarm.  This open area also allows archers a sizable
+killing ground, in which they can rain death upon their enemies.  Dark
+banners fly high overhead on the battlements, which overlook a roadway that
+continues towards the east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 762
+D3
+~
+~
+0 0 703
+S
+#762
+Road to Lemish~
+The road runs through open fields, which surround the city.  These fields
+ensure that an enemy can be detected long before they attack.  The north
+gate has been turned into a wall and a secondary road has been built towards
+the west.  The main road, which leads to Solanthus, can be seen just towards
+the north.  Figures can be seen standing amongst the top of the battlements.
+~
+0 0 2
+D0
+~
+~
+0 0 4736
+D3
+~
+~
+0 0 761
+S
+#763
+Small Market~
+The walls of the Sunrise gate tower over the surrounding area towards the
+north.  The stalls that offer a few goods for citizens and travelers alike
+stand scattered about.  The citizens here walk around doing their daily
+business fretfully aware of the knights in dark armor watching their every
+move.  Those citizens that show their fears too openly are taken away for
+questioning.  A booth named {RRed Eye Jerin's{x has a selection of traps on
+display.  
+~
+0 262144 1
+D0
+~
+~
+0 0 760
+D2
+~
+~
+0 0 764
+D3
+~
+~
+0 0 766
+S
+#764
+Small Market~
+This is the only place the citizens of Lemish seem to come alive.  The
+knights patrol this area but gave up trying to keep Kender out.  Many of
+these Kender passed the word that the knights were playing a game and hence
+the number of Kender grew to that of a small army.  As soon as the knights
+stopped trying to keep the Kender out, the Kender lost interest and wandered
+off to explore elsewhere.  The stalls that offer a few goods for citizens
+and travelers alike stand scattered about.  The booth named {GMac's Tasty
+Pies{x has a couple steaming pies and other goods to offer.  The path
+throughout the market continue towards the north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 763
+D3
+~
+~
+0 0 765
+S
+#765
+Small Market~
+The walls of the Slave market tower over the surrounding area towards the
+west.  A small door, almost the same color as the wall, stands in the
+shadows.  One wealthy nobleman looks around before entering the door and
+closing it behind him.  The stalls that offer a few goods for citizens and
+travelers alike stand scattered about.  One booth, the {YFlint and Steel{x,
+has a couple of lanterns and other goods to offer.  The path throughout the
+market continues towards the north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 766
+D1
+~
+~
+0 0 764
+D3
+An outline of a door that blends in with the surrounding wall stands here.  
+~
+~
+1 0 832
+S
+#766
+A Large Intersection~
+You are standing at a four way intersection, to the east and south the
+small marketplace begins.  To the west, Slave way leads to where the traders
+sell prisoners for profit.  Beggars sit on the street corners, and knights
+clad in dark armor patrol the busy intersection.  A beggar that bothers the
+patrolling knight could easily be sold as a slave or worse.  
+~
+0 262144 1
+D0
+~
+~
+0 0 767
+D1
+~
+~
+0 0 763
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 769
+S
+#767
+Sunrise Avenue~
+To the east the massive Sunrise tower reaches high into the sky.  Some of
+the dark knights, usually the draconians, are rather proud that the gate is
+strong and well built.  Others know nothing about building and do not
+understand the big deal about the gate.  An intersection just towards the
+south looks rather busy at the moment.  
+~
+0 262144 1
+D1
+~
+~
+0 0 760
+D2
+~
+~
+0 0 766
+D3
+~
+~
+0 0 768
+S
+#768
+Sunrise Avenue~
+Citizens walk along this roadway in either direction.  Some carry food
+stuffs that they bought at the market, or even have slaves in tow carrying
+their goods for them.  A dark knight of the Thorn is said to be able to cast
+a spell over even the most resistant slave in order to claim them down. 
+After such a spell is cast, the slave will do virtually anything to please
+their new master.  
+~
+0 262144 1
+D1
+~
+~
+0 0 767
+D3
+~
+~
+0 0 771
+S
+#769
+Slave Way~
+The entrance into the slave market stands just {ysouth{x through an open
+door way.  It looks to have served as a possible gate before the draconian
+engineers designed some of the city's defenses.  To the {gnorth{x one can get a
+drink a dark ale, and even place a bounty on someone you do not like at the
+same time.  The road here continues towards the east and west as well.  
+~
+0 262144 1
+D0
+The entrance a run down bar can be seen, you might be able to post a
+bounty here.  
+~
+~
+0 0 850
+D1
+~
+~
+0 0 766
+D2
+The entrance to the slave market can be seen.
+~
+~
+0 0 831
+D3
+~
+~
+0 0 772
+S
+#770
+Center Avenue~
+You travel along the roadway that leads into the center of the city.  The
+roadway also connects to Main street and Sunrise avenue.  Most who travel
+this street do so to pay a visit to Lord Tyrion himself.  Most say that he
+is a gentle, caring man, even though he is the commander of the garrison
+that is based in Lemish.  Very few have actually seen Lord Tyrion and some
+say he does not exist at all.  
+~
+0 262144 1
+D2
+~
+~
+0 0 771
+D3
+~
+~
+0 0 786
+S
+#771
+Sunrise Avenue~
+The walls of the slave market tower over the surrounding area to the
+south.  The roadway merges northward into Center avenue that leads towards
+the center of the city.  Towards the east, the towering gates of Sunrise
+gate can also be seen.  The dark knights patrol this area with alternating
+displays of strength and might.  
+~
+0 262144 1
+D0
+~
+~
+0 0 770
+D1
+~
+~
+0 0 768
+D2
+~
+~
+0 0 772
+S
+#772
+Slave way~
+As you walk along Slave way, you pass many wagons that stand empty and
+would normally be full of slaves.  Over wagons still contain their captives
+begging to be set free, while other slave look on as if in a daze.  Many of
+the wagon drivers lounge about, drinking to the fortunes they have earned
+today and how much more they will get tomorrow.  
+~
+0 4 1
+D0
+~
+~
+0 0 771
+D1
+~
+~
+0 0 769
+D2
+~
+~
+0 0 773
+D3
+~
+~
+0 0 784
+S
+#773
+Slave way~
+Workers form the slave market busy themselves with the cleaning of the
+slave wagons.  The horses that pull these wagons are unhitched and led off
+to the side where they are watered, feed, and given a good rub down.  The
+dark knights that patrol this area give you a look that says to tread
+lightly unless you would like to be sold as a slave as well.  
+~
+0 262144 1
+D0
+~
+~
+0 0 772
+D2
+~
+~
+0 0 774
+S
+#774
+Guard way~
+Knights mill about here relaxing and talking about their exploits.  They
+eye you, pondering if they should come and bother you.  They obviously
+decide that it is not worth their effort, and turn back to their
+conversation.  To the east is the back entrance into the slave market where
+one could find a good useful servant.  
+~
+0 262144 1
+D0
+~
+~
+0 0 773
+D1
+A plain oaken door stands here.
+~
+~
+1 0 846
+D3
+~
+~
+0 0 775
+S
+#775
+Guard way~
+The walls of the slave market tower off towards the east.  Many of the
+people that travel here are either in search of a good buy, or on a secret
+mission to annoy the dark knights.  Any sane person upon seeing these
+troublesome individuals would turn around and walk away.  Once a guard
+becomes annoyed, he usually does not care where his sword will strike,
+wounding idle citizens and the trouble makers with equal lethalness.  
+~
+0 262144 1
+D1
+~
+~
+0 0 774
+D3
+~
+~
+0 0 776
+S
+#776
+Guard way~
+The streets are awash in recent blood that has been spilled.  The bodies
+of four dead victims lie side by side on the ground face up.  A woman kneels
+at the foot of one of the bodies, crying and cursing all those involved. 
+One of the knights was wounded, while the others look about all the death
+and carnage.  Among the dead is a kender with a money pouch clung to his
+tiny hand, and has a shocked look on his face.  
+~
+0 262144 1
+D1
+~
+~
+0 0 775
+D3
+~
+~
+0 0 777
+S
+#777
+Guard way~
+The barracks to the north houses a unit of hobgoblins.  After a full
+night of drink rum and other spirits, these hobgoblins become a terror in
+the streets.  It has not been unheard of to see a full company of armored
+knight sent in to contain the hobgoblin's fun.  If the trouble makers
+outnumber the drunken hobgoblins, then a commander may hold back his troops
+until the hobgoblins earn their monthly pay for a change.  
+~
+0 262144 1
+D0
+~
+~
+0 0 845
+D1
+~
+~
+0 0 776
+D3
+~
+~
+0 0 778
+S
+#778
+Guard way~
+The foot traffic from Main street and the allure of owning a personal
+slave keeps this section of the city rather busy.  The vagabonds, beggars,
+and general rule breakers have a lot to fear from the dark knights that
+patrol this area.  Those who only annoy the knights are usually just thrown
+in jail for a week, but those that enrage them tend to end up bleeding all
+over the street.  
+~
+0 262144 1
+D1
+~
+~
+0 0 777
+D3
+~
+~
+0 0 779
+S
+#779
+Guard way~
+Any trouble makers that have a record for annoying the dark knights,
+usually find themselves annoying them further in this part of the city. 
+Those that annoy the dark knights one too many times, could end up in the
+slave market to be sold to a rich merchant or nobleman.  Of course that
+would only come about if they had not been killed by the enraged dark
+knights.  
+~
+0 262144 1
+D1
+~
+~
+0 0 778
+D3
+~
+~
+0 0 780
+S
+#780
+Guard way~
+The dark knights that patrol this area are sometimes the roughest and
+cruelest the knights have to offer.  Many of the roadways are patrolled to
+curb the out break of riots and to keep a harsh sense of peace about the
+city.  Those who tend to not want to follow the laws set down by the dark
+knights, often find themselves either dead or sold at the slave market.  
+~
+0 262144 1
+D1
+~
+~
+0 0 779
+D3
+~
+~
+0 0 702
+S
+#781
+Thorn Ave~
+The hair on the back of your neck stands on end as you walk along this
+roadway.  A faint whispering drifts on the breeze as a sense of being
+watched creeps into the back of your mind.  The dark knights that practice
+all the arts of magic are known to reside in this section of the city.  Some
+dark knights feel that this area does not need as heavy a patrolling as
+other parts of the city.  
+~
+0 262144 1
+D1
+~
+~
+0 0 782
+D3
+~
+~
+0 0 707
+S
+#782
+Thorn Ave~
+The gray mages that are also dark knights of Takhisis are said to
+patrol this area.  Many are not trusted by other dark knights outside of
+their own ranks.  Some mages will even sell a potion or two for the right
+amount of coin.  The hair on the back of your neck seems to stand on end as
+you walk along this roadway.  
+~
+0 262144 1
+D1
+~
+~
+0 0 783
+D3
+~
+~
+0 0 781
+S
+#783
+Thorn Ave~
+You get the feeling that the shadows are watching your every move.  The
+dark knights that patrol the streets throughout the city do not even bother
+to come here.  The gray mages or Knights of the Thorn live in this are of
+the city.  Only a fool or brave new comer would even try to annoy one of
+these dark mages.  
+~
+0 262144 1
+D1
+~
+~
+0 0 784
+D3
+~
+~
+0 0 782
+S
+#784
+Thorn Ave~
+The walls of the slave market an just be seen towards the east.  Many of
+those who practice the arts of magic come here to learn the secrets of the
+gray mages.  These dark knights invoke the power of word and mind over the
+use of strength and steel.  They may not be able to live for very long on a
+battlefield, but a successful mage an make an army pay dearly before his
+death.  
+~
+0 262144 1
+D1
+~
+~
+0 0 772
+D3
+~
+~
+0 0 783
+S
+#785
+Before Lord Tyrion's Manor~
+The manor of Lord Tyrion towers over the center of the city.  Two great
+towers stand on either side of the manor, one east and one west, with
+banners flapping in the sky.  The stone work is mostly a red brick, with
+white stone used for the trim work.  The commanders of the dark knights
+usually meet in this manor once a week.  After the meeting has occurred, a
+grand feast is usually held, followed by a ball.  
+~
+0 262144 1
+D0
+~
+~
+0 0 753
+D1
+~
+~
+0 0 786
+D3
+~
+~
+0 0 711
+S
+#786
+Center Avenue~
+The sides of the roadway are flanked by well trimmed hedge rows.  These
+rows stand a good seven tall and block all view towards the north and south.
+It feels like you are walking down a quite hallway, with walls made from
+living plants and the sky as the ceiling.  Every few yards, a post stands
+alone on either side of the roadway with a lit lantern hanging from the
+post.  
+~
+0 262144 1
+D1
+~
+~
+0 0 770
+D3
+~
+~
+0 0 785
+S
+#787
+Skull Ave~
+The dark knights of the Skull that are officers are given the option to
+move into separate quarters.  An officer with any amount of wealth is
+privileged to be allowed these separate quarters.  These officers usually
+purchase slaves in the local market to serve his their servants.  All these
+details are just some of the price that must be paid the live in luxury.  
+~
+0 262144 1
+D1
+~
+~
+0 0 757
+D3
+~
+~
+0 0 788
+S
+#788
+Skull Ave~
+The dark knights of the Skull that are officers are given the option to
+move into separate quarters.  This move is not a cheap one, since no high
+ranking officer would live in a new home without need of a staff or even to
+redecorate.  Even an officer must play the host or even politics at some
+point in time.
+~
+0 262144 1
+D1
+~
+~
+0 0 787
+D3
+~
+~
+0 0 789
+S
+#789
+Skull Ave~
+The dark knights of the Skull that are officers are given the option to
+move into separate quarters.  Those officers with a great deal of personal
+wealth can turn a shack into a virtual palace.  These ranking officers
+usually purchase slaves in the local market to serve his their servants. 
+All these details are just some of the price that must be paid the live in
+luxury.
+~
+0 262144 1
+D1
+~
+~
+0 0 788
+D3
+~
+~
+0 0 790
+S
+#790
+Skull Ave~
+Officers within the ranks of the Skull are given the option to move to
+this section of the city.  Many of the citizen out of the kindness of their
+heart freely gave up their homes to these fine officers.  Some of the
+officers with low funding even allowed the families to live there as
+servants.
+~
+0 262144 1
+D1
+~
+~
+0 0 789
+D3
+~
+~
+0 0 793
+S
+#791
+The Split Silver Pieces Guild~
+The walls are plain panels of wood without any decorations or wall
+hangings.  A shoddy looking table that has seen better days is propped up
+with an old rain barrel and stands in the center of the room.  The table has
+a chair sitting behind it as well as a locked chest.  Empty pouches sit upon
+the top of the table as do stacks of gold coins.  
+~
+0 1048584 1
+D2
+~
+~
+0 0 750
+S
+#792
+Graveyard~
+A path stands here lined with limestone and red tulips.  A brass post
+that tarnished long ago, stands off to the west side of the path.  The post
+holds a lit torch, but the mist that covers the ground seems to only observe
+the light cast by it.  The path continues to the north, the south, the west
+and also branches off towards the east.  
+~
+0 0 11
+D0
+~
+~
+0 0 835
+D1
+~
+~
+0 0 748
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 844
+S
+#793
+Before the Northern Entrance~
+The back door into the wondrous, towering home of Lord Tyrion stands to
+the south.  The doorway is supposed to be guarded but few even bother to
+show up for the assignment.  A dark knight will usually find a good excuse
+as to why they did not show up, but few commanders even bother with the
+follow up report.  
+~
+0 262144 1
+D0
+~
+~
+0 0 794
+D1
+~
+~
+0 0 790
+D2
+An oak door stands before you.
+~
+~
+1 0 817
+S
+#794
+Human Barracks~
+This is the largest of all the barracks that house the dark knights.  It
+is not the neatest, nor the cleanest by far.  The subcommander for this unit
+is rather laid back when it comes to keeping this in a nice, neat order. 
+Since Lord Tyrion moved into his manor, very few inspections are ever done. 
+Those inspections that occur are so far between, that the effects of the
+cleanings soon become a memory.  
+~
+0 262152 1
+D0
+~
+~
+0 0 795
+D2
+~
+~
+0 0 793
+D3
+~
+~
+0 0 797
+S
+#795
+Mason Street~
+Many of the buildings here were built by some of the finest stone masons
+in the region.  Even though the stone was hauled from the distant Garnet
+Mountains, each home has been painted with a stain of different colors. 
+These homes still retain the look and feel of granite, but with the added
+feature of different colors.  
+~
+0 262144 1
+D0
+~
+~
+0 0 796
+D2
+~
+~
+0 0 794
+S
+#796
+Mason Street~
+Many of the buildings here were built by some of the finest stone masons
+in the region.  Even though the stone was hauled from the distant Garnet
+Mountains, these homes have the added feature of being different colors.
+These multicolor homes still retain the appearance and texture of granite.
+Each home stands as tribute to the skill and efforts of their builders.
+~
+0 262144 1
+D0
+~
+~
+0 0 746
+D2
+~
+~
+0 0 795
+S
+#797
+Lily Ave~
+Officers within the ranks of the Lily are given the option to move to
+this section of the city.  Many of the citizens, out of the kindness of
+their hearts, freely gave up their homes to these fine officers.  Some of
+the officers with low funding even allowed the families to live there as
+servants.  
+~
+0 262144 1
+D1
+~
+~
+0 0 794
+D3
+~
+~
+0 0 798
+S
+#798
+Lily Ave~
+The dark knights of the Lily that are officers are given the option to
+move into separate quarters.  Those officers with a great deal of personal
+wealth can turn a shack into a virtual palace.  These ranking officers
+usually purchase slaves in the local market to serve as their servants. 
+~
+0 262144 1
+D1
+~
+~
+0 0 797
+D3
+~
+~
+0 0 799
+S
+#799
+Lily Ave~
+The dark knights of the Lily that are officers are given the option to
+move into separate quarters.  This move is not a cheap one, since no high
+ranking officer would live in a new home without need of a staff or even to
+redecorate.  Even an officer must play the host or even politics at some
+point in time.  
+~
+0 262144 1
+D1
+~
+~
+0 0 798
+D3
+~
+~
+0 0 718
+S
+#800
+The Waiting Room~
+Those who appointments are lower on the list of priorities are asked to
+sit and wait to be summoned.  A nervous citizen sits lightly in one of the
+many leather chairs wringing his hands and looking around at the gathered
+visitors.  Another visitor appears to be a woman of great importance, for
+she is dressed in polished armor and has two guards standing behind her. 
+For those who find sitting to be too boring will find a library open to
+them.  The open doorway to the east is of most interest, for a grand stair
+case can be seen.  It would indeed be an honor if one were to get a look at
+the famous Lord Tyrion himself.  
+~
+0 8 1
+D0
+~
+~
+0 0 801
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 756
+D3
+~
+~
+0 0 803
+S
+#801
+A Connecting Hallway~
+You walk along a hallway with many beautiful mural of age from long ago. 
+The paintings depict mages casting spells on a battlefield, minotaur
+storming a fortress, and pointy eared elves flaunting their power over the
+rest of Krynn.  One painting even has the image of what an Irda of legend is
+believed to have looked like.  Through an open doorway towards the south, a
+carpeted room filled with many chairs can be seen.  Servants carrying
+buckets enter and leave through a doorway towards the west.  
+~
+0 8 1
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+D3
+~
+~
+0 0 805
+S
+#802
+In the Kitchens~
+The amount of activity in an average kitchen is usually limited to the
+fixing of small meal.  This kitchen is fully staffed with three cooks and
+many hand servants.  This kitchen does not just serve a breakfast, lunch, or
+dinner but it also must have food prepared for unexpected dinner guests. 
+Lord Tyrion is known to call for a great feast at the drop of a hat, that
+sends the staff on mad dash to comply to the Lord's whims.  A servant hefts
+a bucket filled with steaming water before leaving through the doorway
+towards the west.  Another servant arrives from a set of stairs carrying a
+stack of plates over to one of the cooks.  
+~
+0 8 1
+D0
+~
+~
+0 0 817
+D1
+A plain looking door stands before you.
+~
+~
+1 0 808
+D2
+~
+~
+0 0 804
+D3
+~
+~
+0 0 801
+D5
+~
+~
+0 0 811
+S
+#803
+The Library~
+The walls are covered from floor to ceiling with shelves upon which are
+stuffed with many books.  The histories of many races, the ages of Krynn and
+the Knights of Takhisis are only a few subjects that can be found.  An open
+doorway towards the east reveals a carpeted room filled many chairs.  A
+couple of visitors waiting for their appointments can be found in here
+reading to pass the time away.  
+~
+0 8 1
+D0
+A wooden doors stands before you.
+~
+~
+1 0 805
+D1
+~
+~
+0 0 800
+S
+#804
+The Grand Staircase~
+You stand before red carpeted staircase that is the center piece of the
+room.  The main door that leads outside stands on the south side of the
+room.  A room full of chairs as well as a few people can be seen through an
+open doorway towards the west.  The smells of food cooking drifts from the
+north and a hallway can be seen off towards the east.  A small door can be
+found behind the staircase built into the floor.  
+~
+0 8 1
+D0
+~
+~
+0 0 802
+D1
+~
+~
+0 0 807
+D2
+A door encased in platinum stands before you.
+~
+~
+1 0 753
+D3
+~
+~
+0 0 800
+D4
+~
+~
+0 0 814
+D5
+A small trap door has been built into the floor behind the grand staircase.
+~
+~
+1 0 813
+S
+#805
+Rest and Relaxation~
+Six stone cut tubs sit evenly spaced out throughout the room.  A wooden
+stool stands beside each tub so one can sit down while scrubbing themselves
+clean.  The tubs are then filled with steaming, hot water for the bather to
+soak their aches and pains away.  A curtain can be placed around the tubs to
+give guests their own privacy.  
+~
+0 8 1
+D1
+~
+~
+0 0 801
+D2
+A wooden doors stands before you.
+~
+~
+1 0 803
+S
+#806
+The Trophy Room~
+For a man who is a virtual mystery for the common citizen or even low
+ranking dark knight the man seems to have a taste for hunting.  Like the
+walls of a library that are filled with books, the walls here are covered
+with mounted heads of many slain creatures from the far edges of Krynn. 
+Even the body of a stuffed grizzly bear has found a way into the man's
+collection.  
+~
+0 8 1
+D0
+~
+~
+0 0 807
+S
+#807
+A Long Hallway~
+Laughter and boastful stories echo through the doorway towards the north.
+A grand staircase covered in red, velvet carpet can also be seen through a
+doorway towards the west.  The corridor of the hallway continues off towards
+the east and a strange looking room quietly stands empty to the south.  The
+walls rather colorful with lower panels of hand carved cherry, to the upper
+panels of engraved blocks of red marble.  
+~
+0 8 1
+D0
+~
+~
+0 0 808
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 806
+D3
+~
+~
+0 0 804
+S
+#808
+The Feasting Hall~
+Banners with Lord Tyrion's crest adorn the walls along with those of the
+Knights of Takhisis.  A long wooden table stands near the north which is
+the place of honor.  The table has thirteen chairs arranged on one side of
+it, with the middle one empty.  The rest of the room is filled many smaller
+tables arranged in rows.  Even with the absence of the Lord of the manor,
+the gathered guests loudly talk amongst themselves and even laugh at the
+wild tales that are spoken aloud.  A pretty servant gathers up a stack full
+of dirty dishes before carrying them downstairs.  
+~
+0 8 1
+D2
+~
+~
+0 0 807
+D3
+A plain looking door stands before you.
+~
+~
+1 0 802
+D5
+~
+~
+0 0 812
+S
+#809
+A Bend in the Corridor~
+The hallway is rather richly adorned, but so is the whole manor.  The
+walls are split into two sections, with a lower panel and an upper panel. 
+The lower panels are hand carved pieces of cherry oak, while the upper half
+contains blocks of a red marble.  With the red walls as a background, a
+great mural has also been painted onto the upper half of the walls.  On one
+side the Knights of {WTakhisis{x are depicted owning the field of battle,
+while on the other shows the bloody remains of some slain enemy.  
+~
+0 8 1
+D0
+~
+~
+0 0 810
+D3
+~
+~
+0 0 807
+S
+#810
+The Ball Room~
+Three crystal chandeliers dangle above the tiled floor shedding their
+light across the entire room.  Banners with Lord Tyrion's crest adorn the
+walls, as do portraits of great heroes from long forgotten ages gone by. 
+One portrait depicts the Dark Queen herself, while another is said to be
+that of the Lord himself.  Only those who are closest within the circle of
+his command are known to have seen him in person.  
+~
+0 8 1
+D2
+~
+~
+0 0 809
+S
+#811
+The Wash Room~
+All the plates, dishes, pots, and pans that are used either in fixing the
+meals or in eating these meals will end up here to be cleaned.  The only
+pieces of cooking equipment that do not move are the giant, cast iron
+cauldrons.  Once a stack of dishes have been cleaned, they are stacked and
+carried back up the stairs to use for the next meal.  
+~
+0 8 1
+D1
+~
+~
+0 0 812
+D4
+~
+~
+0 0 802
+S
+#812
+The Lower Kitchens~
+Noise and laughter echo down the stairs that lead up to the Feasting
+Hall.  Lord Tyrion is said to be an excellent host by his guests.  Some of
+the serving staff would say he is more like a heartless tyrant that could
+change his mind in a wink of an eye.  It is here in the lower kitchen, that
+second and even third helpings are kept warm for the often hungry guest.  If
+it were not for the fact that the wine cellar was located elsewhere, the
+guests would take it into their minds to come down here and raid the wine
+stocks.  
+~
+0 8 1
+D3
+~
+~
+0 0 811
+D4
+~
+~
+0 0 808
+S
+#813
+The Wine Cellar~
+Casks, bottles and barrels of the finest wine in all of Krynn is said to
+be stored in this very room.  The vintages range from New Port of '21 to a
+special blend of the Triple R of '33.  There seems to be enough stored in
+here to keep a massive army happy for years to come.  Only the creaking of
+hinges and the watchful eye of the manor guard have kept the supply of wine
+in safe hands.  
+~
+0 9 1
+D4
+A small trap door has been built into the ceiling here.
+~
+~
+1 0 804
+S
+#814
+The Second Floor Landing~
+A set of stairs with red carpet allow a person to either go down or up
+to the next floor.  A small well lit hallway leads off towards the east and
+west.  A stained {Cglass{x window stands at the top of the landing encased with
+shimmering gold.  Two brass lanterns are mounted onto the wall to either
+side of the landing clearly lighting the steps.  
+~
+0 8 1
+E
+north glass stain window~
+Encased in shimmering gold, a window made of stain glass stands large as
+life itself.  The figure of a Knight of Takhisis holding forth a gleaming
+sword is depicted.  The figure has a foot on top of a fallen enemy, and a
+five headed dragon hovers overhead.
+~
+D1
+~
+~
+0 0 820
+D3
+~
+~
+0 0 815
+D4
+~
+~
+0 0 824
+D5
+~
+~
+0 0 804
+S
+#815
+A Smaller Hallway~
+This smaller hallway is barely large enough for three people to fit
+through.  An open doorway stands towards the west and the hallway continues
+towards the south.  The walls are split into a lower and upper panel, with
+hand carved cherry oak along the bottom and rose red marble above that. 
+These walls would be a welcoming sight for a guest to see, either when
+waking to a new morning or going to a warm bed.  
+~
+0 8 1
+D1
+~
+~
+0 0 814
+D2
+~
+~
+0 0 816
+D3
+~
+~
+0 0 819
+S
+#816
+A Smaller Hallway~
+This smaller hallway is barely large enough for three people to fit
+through.  The walls are split into a lower and upper panel, with hand carved
+cherry oak along the bottom and rose red marble above that.  These walls
+would be a welcoming sight for a guest to see, either when waking to a new
+morning or going to a warm bed.  A door with a golden door knob stands
+towards the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 815
+D3
+A door with flowing engravings and a golden door knob stands here.
+~
+~
+1 0 818
+S
+#817
+The Back Entrance~
+The outline of a door can be seen through the shadows on the north side
+of the room.  A row of wooden pegs is mounted on a wall, most of which have
+a cloak or coat of some sort hanging from them.  Muddy foot prints can be
+seen leading from the door to an open doorway towards the south.  Bits of
+conversation and the smells of cooking food drift through the open doorway. 
+~
+0 8 1
+D0
+~
+~
+1 0 793
+D2
+~
+~
+0 0 802
+S
+#818
+A Guest Bedroom~
+There is much to look at, from the silk covered walls to a bed that is
+large enough to fit four people side by side.  The walls are covered with
+hanging tapestries that depict the heroes that have served the Dark Queen. 
+The floor is covered with rugs made from the hides of bears slain by Lord
+Tyrion himself.  A door with golden hinges stands towards the east.  
+~
+0 8 1
+D1
+A door with flowing engravings and golden hinges stands here.
+~
+~
+1 0 816
+S
+#819
+Stairwell to the Sunset Tower~
+High overhead, a staircase spirals ever upward.  The walls are a dull
+grey and lit with torches set in sconces.  A guard stands duty at the bottom
+of these stairs with a grim look on his face.  Other guards get to at least
+have some entertainment in watching visitors come and plea like fools to see
+Lord Tyrion.  An open doorway stands to the east that leads back into a
+smaller hallway.  
+~
+0 8 1
+D1
+~
+~
+0 0 815
+D4
+~
+~
+0 0 829
+S
+#820
+A Smaller Hallway~
+This smaller hallway is barely large enough for three people to fit
+through.  An open doorway stands towards the east and the hallway continues
+towards the south.  The walls are little more than plain wooden panels with
+little decor.  This is not the sort of welcoming sight a guest would want to
+see and must be where the servants stay.  
+~
+0 8 1
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 814
+S
+#821
+A Smaller Hallway~
+This smaller hallway is barely large enough for three people to fit
+through.  The walls are little more than plain wooden panels with little
+decor.  This is not the sort of welcoming sight a guest would want to see
+and must be where the servants stay.  A plain looking door stands towards
+the east.  
+~
+0 8 1
+D0
+~
+~
+0 0 820
+D1
+A plain looking wooden door stands here.
+~
+~
+1 0 822
+S
+#822
+The Servant's Quarters~
+There is not much to look at for the walls are plain and many beds crowd
+this small room.  The servants that work for Lord Tyrion are not given much
+and must work hard for what they have.  Their Lord is tyrant to all but the
+nobles that eat at his tables and petition for his favor.  These walls have
+been covered with old silken robes that were thrown out by the tyrant.  
+~
+0 8 1
+D3
+A plain wooden door stands here.
+~
+~
+1 0 821
+S
+#823
+Stairwell to the Sunrise Tower~
+High overhead, a staircase spirals ever upward.  The walls are a dull
+grey and lit with torches set in sconces.  A guard stands duty at the bottom
+of these stairs with a grim look on his face.  Other guards get to at least
+have some entertainment in watching visitors come and plea like fools to see
+Lord Tyrion.  An open doorway stands to the west that leads back into a
+smaller hallway.
+~
+0 8 1
+D3
+~
+~
+0 0 820
+D4
+~
+~
+0 0 827
+S
+#824
+Top of the Stairs~
+You stand at the top of a set stairs that is flanked by two oak doors. 
+A railing has been built around the top of the stairs to keep one from
+falling after a long night of drinking.  A guard snaps to attention until he
+realizes you are not Lord Tyrion and growls a curse in your direction.  A
+door with a silver knob stands to the north, while one with a brass knob
+stands to the south.  
+~
+0 8 1
+D0
+An oaken door with a silver knob stands here.
+~
+~
+1 0 826
+D2
+An oaken door with a brass knob stands here.
+~
+~
+1 0 825
+D5
+~
+~
+0 0 814
+S
+#825
+Lord Tyrion's Bed Chambers~
+The bed is not one of a great lord, but that of a lowly commander.  The
+bed is unkempt and it's covers are in disarray.  A woman lies sprawled out
+amongst the bed covers asleep and rather unclothed.  A suit of battle armor
+sits on a rack that stands in the corner.  Many weapons hang from wooden
+pegs that are mounted on the wall.  An oak door stands to the north.  
+~
+0 8 1
+D0
+An oaken door with brass hinges stands here.
+~
+~
+1 0 824
+S
+#826
+Lord Tyrion's Private Study~
+The room does not have many books on its shelves, but does have a table
+in the center of the room.  Scattered across the top of this table are maps,
+and dispatches from different commanders of the Knights of Takhisis.  A
+chair sits in a shadowed corner with its back turned towards the oak door
+that stands to the south.  
+~
+0 8 1
+D2
+An oaken door with silver hinges stands here.
+~
+~
+1 0 824
+S
+#827
+Inside the Sunrise Tower~
+A set of stairs spiral down into the darkness, only lit by a few torches
+set in sconces.  A guard stands duty at the top of these stairs with a grim
+look on his face.  Other guards get to at least have some entertainment in
+watching visitors come and plea like fools to see Lord Tyrion.  An open
+doorway stands to the east that leads to a what looks like a terrace.  
+~
+0 8 1
+D1
+~
+~
+0 0 828
+D5
+~
+~
+0 0 823
+S
+#828
+Overlooking the East Side of Lemish~
+You stand upon an open terrace that looks over the eastern half of the
+city of Lemish.  Off in the distance, the top of the Sunrise gate can be
+seen.  From here one can see the movements of those in the streets below or
+even of a possible visitor coming from over the horizon.  A tall iron pole
+anchored into the center of the platform flies a banner with the crest of
+the Lord Tyrion.  An open doorway stands towards the west leading back into
+the tower.  
+~
+0 0 1
+D3
+~
+~
+0 0 827
+S
+#829
+Inside the Sunset Tower~
+A set of stairs spiral down into the darkness, only lit by a few torches
+set in sconces.  A guard stands duty at the top of these stairs with a grim
+look on his face.  Other guards get to at least have some entertainment in
+watching visitors come and plea like fools to see Lord Tyrion.  An open
+doorway stands to the west that leads to a what looks like a terrace.  
+~
+0 8 1
+D3
+~
+~
+0 0 830
+D5
+~
+~
+0 0 819
+S
+#830
+Overlooking the West Side of Lemish~
+You stand upon an open terrace that looks over the western half of the
+city of Lemish.  Off in the distance, the top of the Sunset gate can be
+seen.  From here one can see the movements of those in the streets below or
+even of a possible visitor coming from over the horizon.  A tall iron pole
+anchored into the center of the platform flies a banner with the crest
+of the Knights of Takhisis.  An open doorway stands towards the east leading
+back into the tower.  
+~
+0 0 1
+D1
+~
+~
+0 0 829
+S
+#831
+Entrance to the Slave Market~
+Before you stands the Great Slave Market of Lemish, where many wealthy
+people stand in line to purchase a pass to enter the market.  One noble's
+argument with the ticket salesman is so loud and draws so much attention,
+that an army of stomping dwarves could sneak in.  Several knights stand
+dressed in ceremonial armor, cannot help but roll their eyes because of the
+misery of some the city's filthy rich.  
+~
+0 8 1
+D0
+~
+~
+0 0 769
+D2
+~
+~
+0 0 832
+S
+#832
+The Auction Block~
+A wooden stage has been built to parade the slaves before gathered
+buyers.  The few guards that are on hand are only there to ensure the slaves
+do not get rowdy and try anything foolish.  Some of the slaves broke the
+laws of the dark knights and will pay the price for it.  Most of the buyers
+are those with wealth or just enough money to make someone else live in
+shame.  
+~
+0 4104 1
+D0
+~
+~
+0 0 831
+D1
+The outline of a door can be seen here.
+~
+~
+1 0 765
+D2
+~
+~
+0 0 834
+S
+#833
+Pet Storage~
+The storage area for pets sold at the Auction Block.
+~
+0 4 0
+S
+#834
+Holding Pens~
+Large metal cages have been built to handle the processing of the
+prisoners that will be sold.  Most of these slaves did little more than not
+know the laws of the city and tried to defend themselves.  Only those that
+are strong enough or pretty enough to bring in coin to the coffers are
+brought here.  The rest met a worse fate or better depending on one's view
+of it by going to the great beyond.  
+~
+0 8 1
+D0
+~
+~
+0 0 832
+D3
+~
+~
+0 0 846
+S
+#835
+Graveyard~
+The rows of graves are laid out symmetrically and in even numbers.  Some
+four rows of evenly spaced head stones number at thirty per row.  In some
+ways it looks like the military had a hand in laying out the plots.  The
+grounds here are in need of a good cutting.  The overgrown path wanders
+towards the south and the west.  
+~
+0 0 11
+D2
+~
+~
+0 0 792
+D3
+~
+~
+0 0 838
+S
+#836
+Corner of Mourning Ave and South Street~
+The east wall looms over the smaller buildings that line the sides of the
+street.  The city of Lemish as very few enemies that would invade from the
+east.  The city's main defensive walls were built on the north and west side
+of the city.  The roadway here continues towards the south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 754
+D3
+~
+~
+0 0 752
+S
+#837
+The Supply Depot~
+The roadway here is in constant need of maintenance and repair due to
+the high amount of activity in this area.  Most of the army's building and
+construction supplies are staged, received, and stock piled here.  Some of
+the items range from nailing spikes, to cut timber, and even the wagons and
+carts to move them.  Citizens are allowed to come here and add to the
+supplies or even file a request for any unwanted surplus available.  
+~
+0 262144 1
+D0
+~
+~
+0 0 755
+D2
+~
+~
+0 0 757
+S
+#838
+Graveyard~
+The sound of a long howl, echoes throughout the graveyard.  The plot
+before you seems to be a family one, for the largest stone has the name of
+Relitsar.  A low wall of white marble encircles the family plot that has
+enough space for one maybe two more graves.  A beaten down path trails off
+towards the west, south and east.  
+~
+0 0 11
+D1
+~
+~
+0 0 835
+D2
+~
+~
+0 0 844
+D3
+~
+~
+0 0 839
+S
+#839
+Graveyard~
+As the mist rolls across the ground, one has the eerie feeling of being
+watched.  Some of the grave markers have crumbled because of age or
+vandalism.  Some though are neatly mowed, with fresh flowers and a beautiful
+head stone made of pink quartz.  The overgrown path leads off towards the
+south and east.  
+~
+0 0 11
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 840
+S
+#840
+Graveyard~
+The creaking of an elm tree is only one of the sounds that haunt this
+place.  The graves here are sunken into the ground and overgrown with weeds
+and creeping vines.  Few of the grave markers are made of actual stone. 
+Many of them are little more than slim pieces of wood with names carved into
+them.
+~
+0 0 11
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 844
+D2
+~
+~
+0 0 841
+S
+#841
+Graveyard~
+The plots here are few and far between with lots of room for future use. 
+A couple of grave diggers are walking from the south with a shovel and pick
+over their shoulders.  One is carrying a lantern while the other carries his
+lunch in a pail.  Their work does not seem to dampen their spirit in this
+place.  One tells the other a bawdy tale about two women and a drunk priest.
+~
+0 0 11
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 842
+S
+#842
+Graveyard~
+Not all the sections of this graveyard bring a peace to ones spirit. 
+Instead they send an uncontrollable shiver up your spine, for the place
+fills you with dread.  The grasses look to have been burned away here, and
+only the wildest weeds are able to grow in the parched earth.  Among these
+weeds are creeping vines with many sharp thorns that will draw blood at the
+slightest touch.  
+~
+0 0 11
+D0
+~
+~
+0 0 844
+D1
+~
+~
+0 0 843
+D3
+~
+~
+0 0 841
+S
+#843
+Graveyard~
+For some who could not afford a marker, other items were used instead.  A
+sword with its blade thrust into the ground and a rusting helm perched on
+top of it serves as a marker for one such grave.  A sky blue ribbon, now
+tattered for the winds and weather, has been tied to the hilt.  The sword is
+plain looking, but is in far better condition than the helm for the only
+rust upon it comes from the helmet itself.
+~
+0 0 11
+D0
+~
+~
+0 0 792
+D3
+~
+~
+0 0 842
+S
+#844
+Graveyard~
+The path has been lined with limestone to create an easy to see path
+through the graveyard.  Every grave is also outlined with the limestone and
+each has a flower placed of the grave.  The path is well mowed and the
+bushes in the area are all trimmed.  The path continues lies open to every
+direction.  
+~
+0 0 11
+D0
+~
+~
+0 0 838
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 842
+D3
+~
+~
+0 0 840
+S
+#845
+Hobgoblin Barracks~
+The barracks is split into a eating hall as well as a place to sleep.  On
+one side of the room stand rows of tattered cots that have animal skins
+piled on top of them.  On the other side is the eating area which has a few
+tables and benches as chairs.  A great pit sits in a corner with a huge iron
+kettle hanging over it as well as a make shift chimney of sorts.
+~
+0 0 0
+D2
+~
+~
+0 0 777
+S
+#846
+Backdoor into the Slave Market~
+With all of the haggling and commotion going on at the main entrance, a
+backdoor was installed to allow the slave traders a speedy exit.  The door
+is not easily seen at first, for it blends into the surrounding walls.  An
+open doorway can be seen, towards the east, leading to a holding area.  
+~
+0 8 1
+D1
+~
+~
+0 0 834
+D3
+The outline of a door stands before you.
+~
+~
+1 0 774
+S
+#847
+Draconian Barracks~
+Most of the draconians are part of an engineering corps, so the barracks
+that they now live in was built by their hand.  Depending on the resources
+they had on hand when they were building their new homes, some are either
+made with cut timber or cut stone.  By their nature and their jobs, these
+draconians are by far more efficient and organized than the human dark
+knights.  
+~
+0 262152 1
+D3
+~
+~
+0 0 758
+S
+#848
+Draconian Barracks~
+Most of the draconians are part of an engineering corps, so the barracks
+that they now live in was built by their own hands.  Depending on the
+resources they had on hand when they were building their new homes, some are
+either made with cut timber or cut stone.  By their nature and their jobs,
+these draconians are by far more efficient and organized than the human dark
+knights.  
+~
+0 0 0
+D2
+~
+~
+0 0 736
+S
+#849
+Temple of the Dark Queen~
+This building was once dedicated to the blue clerics of Mishakal but now
+has become a Temple to the goddess Takhisis.  With the garrisoning of
+the dark knights, this was just one of the many things that were changed. 
+This temple is rather peaceful in a dark, spooky sort of way.  Most of the
+decor is in shades of black with streaks of red, white, green and blue that
+add to the displays of her ever lasting works and evil.  
+~
+0 8388616 42
+D2
+~
+~
+0 0 745
+S
+#850
+Assassins R Us~
+This place looks more like a run down bar rather than a bounty office. 
+The room has a couple of tables that look like they have been broken and
+patched together again many times.  There are no chairs but hard stone
+benches stand scattered about the room.  Neither table has a complete set of
+matching legs, for each looks to be the lone survivor of some long age
+destroyed table.  
+~
+0 8 1
+D2
+~
+~
+0 0 769
+S
+#0
+
+
+
+#SPECIALS
+M 712 spec_cast_cleric
+M 731 spec_ghost
+M 849 spec_priesttakhisis
+S
+
+
+
+#RESETS
+D 0 710 1 1
+D 0 712 3 1
+D 0 713 1 1
+D 0 753 0 1
+D 0 756 3 1
+D 0 765 3 1
+D 0 774 1 1
+D 0 793 2 1
+D 0 802 1 1
+D 0 803 0 1
+D 0 804 2 1
+D 0 804 5 1
+D 0 805 2 1
+D 0 808 3 1
+D 0 813 4 1
+D 0 816 3 1
+D 0 817 0 1
+D 0 818 1 1
+D 0 821 1 1
+D 0 822 3 1
+D 0 824 0 1
+D 0 824 2 1
+D 0 825 0 1
+D 0 826 2 1
+D 0 832 1 1
+D 0 846 3 1
+M 0 732 20 702 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 725 0 13
+E 0 727 0 11
+E 0 726 0 19
+E 0 726 0 18
+M 0 706 24 704 1
+E 0 706 0 20
+E 0 723 0 12
+M 0 716 22 704 1
+M 0 706 24 705 1
+E 0 706 0 20
+E 0 720 0 10
+E 0 720 0 9
+M 0 716 22 705 1
+M 0 706 24 706 1
+E 0 706 0 20
+E 0 721 0 14
+M 0 716 22 706 1
+M 0 706 24 707 1
+E 0 706 0 20
+E 0 723 0 12
+M 0 716 22 707 1
+M 0 706 24 708 1
+E 0 706 0 20
+E 0 720 0 10
+E 0 720 0 9
+M 0 716 22 708 1
+M 0 706 24 709 1
+E 0 706 0 20
+E 0 721 0 14
+M 0 716 22 709 1
+M 0 702 1 710 1
+E 0 702 0 20
+E 0 714 0 5
+M 0 704 16 711 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 706 24 712 2
+E 0 706 0 20
+E 0 723 0 12
+M 0 716 22 712 1
+M 0 706 24 715 1
+E 0 706 0 20
+E 0 720 0 10
+E 0 720 0 9
+M 0 716 22 715 1
+M 0 706 24 716 1
+E 0 706 0 20
+E 0 721 0 14
+M 0 716 22 716 1
+M 0 706 24 717 1
+E 0 706 0 20
+E 0 723 0 12
+M 0 716 22 717 1
+M 0 706 24 718 1
+E 0 706 0 20
+E 0 720 0 10
+E 0 720 0 9
+M 0 716 22 718 1
+M 0 706 24 719 1
+E 0 706 0 20
+E 0 721 0 14
+M 0 716 22 719 1
+M 0 706 24 720 1
+E 0 706 0 20
+E 0 723 0 12
+M 0 716 22 720 1
+E 0 720 0 9
+E 0 720 0 10
+M 0 706 24 722 1
+E 0 706 0 20
+E 0 721 0 12
+M 0 716 22 722 1
+M 0 709 8 723 1
+E 0 709 0 20
+E 0 727 0 11
+M 0 709 8 724 2
+E 0 709 0 20
+E 0 727 0 11
+M 0 725 1 724 1
+G 0 742 0
+G 0 741 0
+M 0 709 8 725 2
+E 0 709 0 20
+E 0 727 0 11
+M 0 709 8 726 1
+E 0 709 0 20
+E 0 727 0 11
+M 0 709 8 727 2
+E 0 709 0 20
+E 0 727 0 11
+M 0 706 24 729 2
+E 0 706 0 20
+E 0 721 0 12
+M 0 716 22 729 1
+M 0 706 24 730 2
+E 0 706 0 20
+E 0 720 0 10
+E 0 720 0 9
+M 0 716 22 730 1
+M 0 706 24 731 2
+E 0 706 0 20
+E 0 721 0 14
+M 0 716 22 731 1
+M 0 714 1 733 1
+G 0 767 0
+G 0 768 0
+G 0 766 0
+M 0 715 1 734 1
+G 0 730 0
+G 0 725 0
+G 0 722 0
+G 0 717 0
+M 0 711 16 735 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 711 16 736 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 711 16 737 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 732 20 738 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 725 0 13
+E 0 727 0 11
+E 0 726 0 19
+E 0 726 0 18
+M 0 732 20 739 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 725 0 13
+E 0 727 0 11
+E 0 726 0 19
+E 0 726 0 18
+M 0 732 20 740 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 725 0 13
+E 0 727 0 11
+E 0 726 0 19
+E 0 726 0 18
+M 0 705 14 741 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 742 1 742 1
+M 0 743 2 742 2
+M 0 705 14 743 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 705 14 745 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 745 1 746 1
+M 0 746 1 746 1
+M 0 747 4 747 1
+G 0 747 0
+P 0 748 1 747 1
+M 0 747 4 747 4
+M 0 749 1 749 1
+G 0 749 0
+G 0 750 0
+G 0 751 0
+M 0 713 4 750 1
+E 0 712 0 20
+M 0 729 4 751 4
+M 0 752 1 752 1
+M 0 751 2 752 2
+M 0 710 12 754 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 710 12 755 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 704 16 756 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 710 12 757 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 710 12 758 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 710 12 759 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 732 20 760 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 725 0 13
+E 0 727 0 11
+E 0 726 0 19
+E 0 726 0 18
+M 0 763 1 763 1
+G 0 734 0
+G 0 737 0
+G 0 736 0
+G 0 733 0
+G 0 735 0
+G 0 732 0
+M 0 764 2 764 1
+G 0 765 0
+G 0 764 0
+G 0 763 0
+M 0 741 2 765 1
+G 0 762 0
+G 0 761 0
+G 0 760 0
+M 0 707 14 769 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+M 0 704 16 770 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 707 14 771 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+M 0 707 14 772 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+M 0 707 14 773 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+M 0 708 8 774 2
+E 0 708 0 20
+M 0 716 22 774 1
+M 0 708 8 775 2
+E 0 708 0 20
+M 0 716 22 775 1
+M 0 708 8 776 2
+E 0 708 0 20
+M 0 716 22 776 1
+M 0 708 8 777 2
+E 0 708 0 20
+M 0 716 22 777 1
+M 0 708 8 778 2
+E 0 708 0 20
+M 0 716 22 778 1
+M 0 708 8 779 2
+E 0 708 0 20
+M 0 716 22 779 1
+M 0 708 8 780 2
+E 0 708 0 20
+M 0 716 22 780 1
+M 0 705 14 781 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 705 14 782 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 705 14 783 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 723 1 783 1
+G 0 740 0
+G 0 738 0
+G 0 739 0
+M 0 705 14 784 2
+E 0 705 0 20
+E 0 719 0 19
+E 0 719 0 18
+M 0 704 16 785 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+O 0 785 0 785
+M 0 704 16 786 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 712 16 787 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 712 16 788 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 722 1 788 1
+M 0 712 16 789 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 712 16 790 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 791 1 791 1
+M 0 713 4 792 1
+E 0 712 0 20
+M 0 721 1 798 1
+M 0 728 4 800 1
+M 0 711 16 800 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 727 6 801 1
+E 0 743 0 21
+M 0 727 6 802 1
+E 0 743 0 21
+M 0 726 2 802 1
+E 0 850 0 21
+M 0 704 16 803 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 727 6 805 1
+E 0 743 0 21
+M 0 728 4 806 1
+M 0 712 16 806 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 704 16 808 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 728 4 810 1
+M 0 727 6 811 1
+E 0 743 0 21
+M 0 727 6 812 1
+M 0 726 2 812 1
+E 0 850 0 21
+M 0 711 16 813 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 704 16 814 2
+E 0 704 0 20
+E 0 716 0 5
+E 0 718 0 13
+M 0 728 4 818 1
+M 0 711 16 819 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 727 6 820 1
+M 0 727 6 822 1
+M 0 711 16 823 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 712 16 824 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 730 1 825 1
+M 0 700 1 826 1
+E 0 700 0 20
+M 0 712 16 827 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 17
+M 0 712 16 829 2
+E 0 712 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 707 14 831 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+O 0 832 0 832
+M 0 717 1 832 1
+M 0 718 1 833 1
+M 0 719 1 833 1
+M 0 720 1 833 1
+M 0 707 14 834 2
+E 0 707 0 20
+E 0 724 0 5
+E 0 726 0 18
+E 0 726 0 19
+M 0 731 10 835 2
+M 0 710 12 836 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 710 12 837 2
+E 0 710 0 20
+E 0 729 0 5
+M 0 731 10 838 2
+M 0 713 4 839 1
+E 0 712 0 20
+M 0 713 4 840 1
+E 0 712 0 20
+M 0 731 10 841 2
+M 0 713 4 841 1
+E 0 712 0 20
+M 0 731 10 842 2
+M 0 731 10 843 2
+M 0 731 10 844 2
+M 0 703 1 845 1
+E 0 703 0 20
+E 0 713 0 5
+M 0 701 1 847 1
+E 0 715 0 10
+E 0 715 0 9
+E 0 701 0 20
+M 0 711 16 848 2
+E 0 711 0 20
+E 0 728 0 5
+E 0 731 0 11
+M 0 849 1 849 1
+M 0 724 1 850 1
+G 0 745 0
+G 0 744 0
+S
+
+
+
+#SHOPS
+714 5 0 0 0 0 100 70 0 23
+715 9 0 0 0 0 100 70 0 23
+717 0 0 0 0 0 100 100 0 23
+723 10 26 3 2 0 100 100 0 23
+724 17 0 0 0 0 100 100 0 23
+741 0 0 0 0 0 100 100 0 23
+749 0 0 0 0 0 100 100 0 23
+763 0 0 0 0 0 100 100 0 23
+764 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

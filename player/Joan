@@ -1,0 +1,632 @@
+#PLAYER
+Name Joan~
+Surname Reviladare~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1304281789
+LogO 1391453539
+Vers 10
+Act  CDGTe
+Desc Here stands a half-elven male.  He has short brown hair and baby blue
+eyes.  He wears a white leather tunic that impresses on a lithe but toned
+muscular chest well.  He has a dark olive skin complexion that matches
+with his height of five feet, seven inches and weight of around the late
+one-hundreds.  He wears cotton pants that are dyed tan.  On his feet he
+wears black boots held with buckle and strap, with a dagger placed
+strategically in his right boot.
+~
+Prom {G<%hhp %mm %vmv %B %b %X %x> ~
+Race half-elf~
+Sex  1
+Cla  4
+Hmtown 0
+Levl 62
+recall_point 3001
+Levscale 30
+Xptolev  71128
+Sec  0
+Plyd 100350
+Not  1304551453 1304533697 0 1304447515 1304447521
+Scro 22
+Room 3095
+HMV  1692 1692 789 789 494 494
+Steel 6454
+Gold 138573
+Bank 0
+Exp  1097922
+AfBy DFJ
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2359296
+Comm BNO
+Pos  8
+Prac 435
+Trai 17
+Reward_timer 77
+Save  -13
+Alig  -1000
+Ethos 0
+Hit   20
+Dam   31
+ACs -167 -166 -174 -113
+Attr 13 15 13 13 13 19
+AMod 5 35 33 16 34 0
+Pass JoCIBwFd10x0E~
+Titl  the Player~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 27
+HMVP 1177 594 494
+Cnd  0 36 36 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; {W--=={CVibrated{W by the {CHeavens{W==--~
+Sk 1 'dispel magic'
+Sk 1 'summon'
+Sk 46 'dagger'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 1 'polearm'
+Sk 2 'shield block'
+Sk 91 'sword'
+Sk 1 'whip'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 100 'enhanced damage'
+Sk 11 'hand to hand'
+Sk 62 'kick'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'counter'
+Sk 1 'deathgrip'
+Sk 1 'dual wield'
+Sk 100 'play music'
+Sk 1 'mount'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'lore'
+Sk 1 'sneak'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 1 'chant of battle'
+Sk 1 'chords of dissonance'
+Sk 1 'tumble'
+Sk 1 'trammel'
+Sk 1 'serenade'
+Sk 1 'taunt'
+Sk 6 'bravado'
+Sk 1 'lull'
+Sk 1 'pacify'
+Sk 1 'redirect'
+Sk 1 'acrobatics'
+Sk 1 'rally'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'singing'
+Sk 1 'dancing strike'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 380
+Val  0 0 198 0 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 97
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 97
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 764
+End
+
+#O
+Vnum 13715
+Nest 0
+Cond 86
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1125
+End
+
+#O
+Vnum 15211
+Nest 0
+Name black tunic~
+ShD  a {Dblack{x tunic~
+Desc Here lies a simple black tunic.~
+ExtF 17039424
+Cond 94
+Wear 5
+Cost 2650
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 96
+Wear 19
+Cost 28950
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 99
+Wear 18
+Cost 16950
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 99
+Wear 11
+Cost 1238
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 91
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 94
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 84
+Wear 20
+Cost 46000
+End
+
+#O
+Vnum 2651
+Nest 0
+Cond 100
+Wear 21
+Cost 1050
+End
+
+#O
+Vnum 2653
+Nest 0
+Cond 100
+Wear -1
+Cost 1268
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 393
+End
+
+#O
+Vnum 15196
+Nest 0
+Name silver ring~
+ShD  a {Csilver{x ring~
+Desc Here lies a casual silver ring.~
+Cond 100
+Wear 2
+Cost 10425
+End
+
+#O
+Vnum 15196
+Nest 0
+Name silver ring~
+ShD  a {Csilver{x ring~
+Desc Here lies a casual silver ring.~
+Cond 100
+Wear 1
+Cost 10425
+End
+
+#O
+Vnum 10977
+Nest 0
+Cond 100
+Wear 15
+Cost 5850
+End
+
+#O
+Vnum 10595
+Nest 0
+Cond 50
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 16364
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name @~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 65
+Cond 100
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 1854
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 16
+Cost 75000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#END

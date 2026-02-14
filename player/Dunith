@@ -1,0 +1,848 @@
+#PLAYER
+Name Dunith~
+Surname Siegehammer~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1300507484
+LogO 1408139669
+Vers 10
+Act  CDGQT
+Desc This dwarf is a fine example of dwarven culture.  Locked away in a suit
+of fullplate made of adamantine, not many personal features could be
+told about this dwarf.  A fine black beard, braided in silver and
+gold clasps, drapes over the front of his stout belly.  A red cloak
+with gold trim hands from his neck, bearing the symbol of a hammer
+smashing down a castle wall.  A large metal girth surround his waist
+that bears the same sigil.  Both sword and axe are strapped to his
+right side, well kept as any warrior should keep.  A dagger is placed
+on the right right shin of his armor.  In his left hand he hold a
+large drinking mug big enough for an ogre.  Despite its obvious weight,
+he never seems to put it down.
+~
+Prom {x<{RDUNITH{D %hhp %mm %vmv %B %b {RDUNITH{x> ~
+Race neidar~
+Org 7
+Religion 18
+Sex  1
+Cla  3
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 211040
+Not  1376538652 1372452251 0 1376689430 1338685529
+Scro 22
+Room 3005
+HMV  4429 4429 1071 1071 902 902
+Steel 13192
+Gold 6894
+Bank 0
+Exp  16259300
+AfBy JO
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1900544
+Comm BNOY
+Pos  8
+Prac 10
+Save  -46
+Alig  -2
+Ethos 0
+Hit   72
+Dam   63
+ACs -504 -515 -519 -463
+Wimp  339
+Attr 17 12 14 10 15 10
+AMod 14 4 6 9 10 5
+Pass DumLSkxnmjUqY~
+Titl  - The {DGuardian{x of the {rForge{x~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 36
+HMVP 3229 326 752
+Cnd  0 29 29 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias as lunge arthelias~
+Alias ; ; >>>{RDO {YYOU {GREQUIRE {WBEER!?{X<<<~
+Alias ad lunge cyrus~
+Alias aq 'By Reorx's Hammer, I shall never give up!~
+Sk 70 'calm'
+Sk 1 'frenzy'
+Sk 100 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 83 'mace'
+Sk 9 'polearm'
+Sk 52 'shield block'
+Sk 87 'spear'
+Sk 97 'sword'
+Sk 1 'whip'
+Sk 23 'bash'
+Sk 74 'berserk'
+Sk 45 'dirt kicking'
+Sk 45 'disarm'
+Sk 76 'dodge'
+Sk 100 'enhanced damage'
+Sk 82 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 67 'rescue'
+Sk 34 'trip'
+Sk 86 'second attack'
+Sk 60 'third attack'
+Sk 44 'fourth attack'
+Sk 75 'break weapon'
+Sk 50 'counter'
+Sk 88 'critical strike'
+Sk 16 'sharpen'
+Sk 76 'whirlwind'
+Sk 100 'lunge'
+Sk 23 'dual wield'
+Sk 13 'mount'
+Sk 70 'sympathy'
+Sk 79 'nerve pinch'
+Sk 49 'caltrops'
+Sk 46 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 100 'wear plate'
+Sk 32 'fast healing'
+Sk 100 'common'
+Sk 100 'dwarven tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 46 'bind wounds'
+Sk 46 'breakneck'
+Sk 75 'guard'
+Sk 75 'headbutt'
+Sk 31 'mounted combat'
+Sk 1 'impale'
+Sk 94 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 70 'vortex'
+Sk 1 'staff'
+Sk 78 'eyerub'
+Sk 77 'finger break'
+Sk 75 'earpunch'
+Sk 75 'tonguecut'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 75 'heroic demise'
+Sk 75 'joust'
+Sk 75 'shatter shield'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 1265
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 275
+End
+
+#O
+Vnum 14510
+Nest 0
+Cond 97
+Wear 21
+Cost 343
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 279
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 279
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 279
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 279
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 96
+Wear -1
+Cost 7900
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039429
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039429
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Name tattoo royal forge guard~
+ShD  a Tattoo of the {RRoyal{x {DForge{x Guard~
+Desc The artwork for a tattoo of the royal forge guard lies here.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name dragonlance~
+ShD  a dragonlance~
+Desc This is one of the legendary Silver DragonLances!~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   20
+Cond 100
+Mat  silver~
+Wear -1
+Lev  110
+Cost 1100
+Val  8 10 16 34 16
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 5700
+Nest 0
+Name axe siegehammer hammer~
+ShD  The {rAxe{x of {DSiegehammer{x~
+Desc Here lies the axe of Forge Guardian Dunith Siegehammer.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 72
+Mat  steel~
+Wear 20
+Lev  110
+Cost 1100
+Val  5 10 16 9 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 10721
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11970
+Nest 0
+Name adamantine breastplate plate hearth guard~
+ShD  ({DAdamantine{x) {DBreastplate{x of the {rHearth Guard{x~
+Desc Here lies an adamantine dwarven breastplate.~
+ExtF 16777216
+Cond 100
+Wear 5
+Cost 96
+End
+
+#O
+Vnum 5700
+Nest 0
+Name adamantine helm visor~
+ShD  an {DAdamantine{x Helm Visor~
+Desc Here lies a visor to attach to the front of a fullhelm.~
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  76
+Cost 760
+Val  16 16 16 12 0
+Affc 'cultural artistry'   1  90  -1  -5  25          0
+End
+
+#O
+Vnum 1911
+Nest 0
+Name dwarven fullhelm helm~
+ShD  ({DAdamantine{x) a {DDwarven{x Fullhelm~
+Desc Here lies a very thick plated adamantine fullhelm.~
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 19002
+Nest 0
+Name adamantine vambraces hearth guard~
+ShD  ({DAdamantine{x) {DVambraces{x of the {rHearth Guard{x~
+Desc Here lies a pair of adamantine dwarven vambraces.~
+ExtF 524288
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 1916
+Nest 0
+Name adamantine plated girth~
+ShD  ({DAdamantine{x) a Plated {DDwarven{x Girth~
+Desc Here lies a heavy adamantine plated girth.~
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name adamantine dwarven gauntlets~
+ShD  ({DAdamantine{x) {DDwarven Gauntlets{x~
+Desc Here lies a pair of adamantine dwarven gauntlets.~
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  101
+Cost 1010
+Val  21 21 21 17 0
+Affc 'cultural artistry'   0  91  -1  35  13          0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name adamantine dwarven greaves~
+ShD  ({DAdamantine{x) {DDwarven Greaves{x~
+Desc Here lies a pair of adamantine dwarven greaves.~
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name adamantine bulwark mountain king~
+ShD  ({DAdamantine{x) {DBulwark{x of the {WMountain King{x~
+Desc Here lies an amazingly large kite shield of adamantine and dwarven craft.~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer dwarven lords~
+ShD  a Bracer of the {DDwarven{x {WLords{x~
+Desc Here lies a bracer of the dwarven lords.~
+ExtF 17039617
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer dwarven lords~
+ShD  a Bracer of the {DDwarven{x {WLords{x~
+Desc Here lies a bracer of the dwarven lords.~
+ExtF 17039617
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5617
+Nest 0
+Name adamantine dwarven fullplate plate leggings~
+ShD  ({DAdamantine{x) {DDwarven Fullplate Leggings{x~
+Desc Here lies a pair of adamantine dwarven leggings.~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name adamantine dwarven pauldrons~
+ShD  ({DAdamantine{x) a Pair of {DDwarven Pauldrons{x~
+Desc Here lies a pair of bulky dwarven pauldrons.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  76
+Cost 760
+Val  16 16 16 12 0
+Affc 'cultural artistry'   1  90  -1  -5  25          0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#END

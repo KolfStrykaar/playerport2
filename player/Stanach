@@ -1,0 +1,692 @@
+#PLAYER
+Name Stanach~
+Surname Battlehammer~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1149990306
+LogO 1421221378
+Vers 10
+Act  CDGHTe
+Desc A 4 foot creature stands here. A red beard covers most of his face but over his right eye there can be seen a scar which makes him close his eye somewhat. His body is heavily armored what, due to his small stature is somewhat funny. A handle of a weapon can be seen protruding from his belt, and his hands seem ready to react towards it at any time.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e %B %a{r>{x ~
+Race hylar~
+Sex  1
+Cla  3
+Hmtown 4
+Levl 49
+recall_point 10664
+Levscale 30
+Xptolev  22448
+Sec  0
+Plyd 44268
+Not  1421221375 1412588290 0 1412588292 1313232299
+Scro 48
+Room 17733
+HMV  1206 1206 210 210 400 400
+Steel 765
+Gold 58789
+Bank 2800
+Exp  434752
+AfBy J
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 327680
+Comm NO
+Pos  8
+Prac 78
+Trai 25
+Save  -2
+Alig  471
+Ethos 0
+Hit   15
+Dam   15
+ACs 24 19 10 73
+Attr 17 12 18 10 25 10
+AMod 1 11 17 5 10 0
+Pass StVoP/h9ftMN.~
+Titl  the Greater Demon Slayer~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 10
+HMVP 1141 210 400
+Cnd  0 5 5 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 35 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 2 'shield block'
+Sk 96 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 34 'berserk'
+Sk 1 'dirt kicking'
+Sk 4 'disarm'
+Sk 1 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 100 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 90 'second attack'
+Sk 57 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 5 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'dwarven tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 100 'guard'
+Sk 13 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'attunement'   0  83  73   3   4          0
+Affc 'attunement'   0  82  73   3   3          0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 17710
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 100
+Wear 4
+Cost 400
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 97
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 10965
+Nest 1
+Cond 100
+Wear -1
+Cost 1380
+End
+
+#O
+Vnum 13715
+Nest 1
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  1 7 9 3 73
+End
+
+#O
+Vnum 13715
+Enchanted
+Nest 1
+ExtF 1346
+Cond 50
+Wear -1
+Lev  39
+Cost 0
+Val  1 4 20 3 73
+Affc 'enchant weapon'   1  78  -1   7  18          0
+Affc 'enchant weapon'   1  78  -1   7  19          0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 108 0 0 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 95
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3366
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 100
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 100
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 9829
+Nest 0
+ExtF 75
+Cond 86
+Wear 20
+Cost 10000
+Val  3 10 14 28 73
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 75
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#END

@@ -1,0 +1,782 @@
+#PLAYER
+Name Yaeruun~
+Surname Kherr~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1378330043
+LogO 1415321414
+Vers 10
+Act  CDGHQTe
+Desc Hair of deep russet brown sprouts from this lithe man's head, traveling
+down the sides of his face and onto his cheeks and chin. Atop his head,
+the hair is less than an inch in length; unruly and unkempt. Along his
+cheeks, his facial hair is kept just beyond that of a shadow, and seems
+much better maintained than the mess of hair above.
+
+His features are sharp, with a hooked elven nose, but a strong human jaw.
+Small hazel eyes seem always to be narrowed, as though he looks out upon
+the world with a sense of constant scrutiny. His ears come to a sharp
+point, but not nearly to the extent of a full-blooded elf's would.
+
+Around his neck, he wears a tall collar that could easily be slipped
+upward to conceal the bottom half of his face. His clothing is mostly
+loose-fitting cloth of dark reds and browns, with black leather armor
+pieces protecting his forearms and chest. A belt with many pouches sits
+comfortably over his hips, home also to a pair of matching sheaths.
+
+On his back, a third sheath rests; a buckle securing the strap that runs
+over his chest to hold it in place. This sheath is larger than the two
+upon his belt, housing a curved one-handed sword. Soft leather fingerless
+gloves cover his hands, and boots with string wrapping around them front
+to back cover his feet, up to his shins. He carries himself with a
+confident air, almost to the point of arrogance.
+~
+Prom <%h/%H> <%m/%M> <%v/%V>{X %X %B %b ~
+Race half-elf~
+Sex  1
+Cla  9
+Hmtown 2
+Levl 22
+recall_point 2659
+Levscale 30
+Xptolev  22
+Sec  0
+Plyd 68628
+Not  1381404491 1381456876 0 1380415335 1380415333
+Scro 22
+Room 17857
+HMV  478 478 199 199 230 230
+Steel 3387
+Gold 552
+Bank 0
+Exp  66978
+AfBy HJ
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3932160
+Comm NO
+Pos  8
+Prac 3
+Save  -2
+Alig  -723
+Ethos 0
+ACs 18 8 -2 64
+Attr 13 15 20 16 21 16
+AMod 4 9 20 8 10 0
+Pass YaBehozirFWO2~
+Titl  the Learner of Stealth~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 11
+HMVP 378 149 230
+Cnd  0 60 22 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {g@{y:::}{W===[ {YYaeruun{X {W]===>{x :~
+Sk 75 'detect hidden'
+Sk 1 'detect poison'
+Sk 1 'haste'
+Sk 1 'infravision'
+Sk 1 'axe'
+Sk 87 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 76 'shield block'
+Sk 1 'spear'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 79 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 78 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 86 'kick'
+Sk 1 'trip'
+Sk 77 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 75 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 75 'peek'
+Sk 1 'pick lock'
+Sk 77 'sneak'
+Sk 50 'recall'
+Sk 1 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 75 'tumble'
+Sk 1 'scout'
+Sk 1 'second backstab'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+Affc 'sanctuary'   0  34   2   0   0        128
+Affc 'armor'   0  28   0 -20  17          0
+Affc 'attunement'   0  72  50   3   3          0
+Affc 'attunement'   0  70  50   3   4          0
+Affc 'giant strength'   0  73  49   4   1          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 68
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 93
+Wear 20
+Lev  26
+Cost 800
+Val  2 3 8 11 73
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#END

@@ -1,0 +1,667 @@
+#PLAYER
+Name Korven~
+Surname Blhoodbath~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1285645637
+LogO 1404662729
+Vers 10
+Act  DGHQRT
+Desc Floating before you is a wraithlike being, with the physical features of a
+silvanesti. Pointed ears, give away his elven lineage. Violet eyes stare
+out into Krynn, tainted by the dark magic that has been suffered unto
+him.{/{/Numerous black cloaks slump around the form before you, layer
+after layer of torn and ripped cloaks visible. Thrown over all of them is
+an elegant, velvet black robe, that of which belonging to the Mages of the
+Conclave. His pale skin is visible when not in his ghostly form. His left
+hand adorns a small black band around his middle finger, the pale
+complexion of his skin almost intesified when compared to another color.
+It's bony, frail looking stature shows that this is no physical fighter.
+What stands out the most amongst this being is his right arm. Though the
+sleeves of the robe fall at a normal length, what is revealed underneath
+it is most frightening. Instead of his left hand counterpart, a skeletal
+visage jutts out from the sleeve. It moves perfectly as his other does,
+the physicalities of skin and muscle absent. It's yellow tinted and
+stained bone visible to all. Adorning this skeletal arm, shown through one
+of the many rips and tears of the cloaks upon this nightmarish being, is a
+bracelett. Small draconic claws linked together, binded by an utmost evil,
+to form a bracelet clings with an icy grip to the necromancer's wrist,
+just above where his hand would start. Upon the middle of the skeletal
+bracelet, embedded within is a sickly green jewel. Magic radiates from
+within, almost giving off an aura of pure evil.
+~
+Prom ({DKorven {G%h/%H-Hp {R%m/%M-Mana{x %B) ~
+Race silvanesti~
+Sex  1
+Cla  11
+Hmtown 0
+Levl 101
+recall_point 3210
+Levscale 30
+Xptolev  1284650
+Sec  0
+Plyd 451060
+Not  1378940657 1372452251 0 1378278149 1298827134
+Scro 0
+Room 3005
+HMV  3162 3242 2158 2158 897 899
+Steel 5356
+Gold 63
+Bank 1900000
+Exp  17452200
+AfBy JO
+Deaths 4
+FlagTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Comm NOQ
+Pos  8
+Save  -79
+Alig  -998
+Ethos 0
+Hit   125
+Dam   69
+ACs -352 -356 -357 -334
+Attr 15 18 13 15 13 16
+AMod 16 5 3 21 5 5
+Pass DiWhipWMee8AI~
+Titl  the Almighty Lord of Darkness~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 110
+HMVP 2372 1558 749
+Cnd  0 0 56 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias prayer say Cloak of Darkness, shelter me in your dark embrace!~
+Alias z gt {c~
+Alias clan clan {D~
+Sk 96 'acid blast'
+Sk 100 'armor'
+Sk 75 'blindness'
+Sk 75 'burning hands'
+Sk 75 'chill touch'
+Sk 75 'curse'
+Sk 81 'demonfire'
+Sk 83 'detect good'
+Sk 78 'detect magic'
+Sk 75 'detect poison'
+Sk 80 'dispel magic'
+Sk 75 'energy drain'
+Sk 75 'orb of containment'
+Sk 75 'harm'
+Sk 75 'life transfer'
+Sk 76 'infravision'
+Sk 100 'invisibility'
+Sk 75 'know alignment'
+Sk 75 'magic missile'
+Sk 94 'aid'
+Sk 82 'plague'
+Sk 75 'poison'
+Sk 86 'protection good'
+Sk 77 'teleport'
+Sk 75 'weaken'
+Sk 84 'word of recall'
+Sk 85 'acid breath'
+Sk 100 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 75 'envenom'
+Sk 100 'parry'
+Sk 98 'second attack'
+Sk 75 'traject'
+Sk 92 'mount'
+Sk 100 'shadow walk'
+Sk 76 'animate corpse'
+Sk 100 'fear'
+Sk 75 'horrid wilting'
+Sk 97 'paralysis'
+Sk 75 'vampiric touch'
+Sk 98 'undead disruption'
+Sk 80 'nightmare'
+Sk 78 'cavorting bones'
+Sk 75 'enervation'
+Sk 75 'remove paralysis'
+Sk 78 'cantrip'
+Sk 77 'disintegrate'
+Sk 100 'wraithform'
+Sk 100 'word of death'
+Sk 75 'coldfire'
+Sk 75 'brew'
+Sk 76 'scribe'
+Sk 78 'battle tactics'
+Sk 82 'knock'
+Sk 75 'drain rune'
+Sk 97 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 80 'dark taint'
+Sk 84 'drain blood'
+Sk 76 'forget'
+Sk 75 'forgedeath'
+Sk 75 'preservation'
+Sk 89 'seal door'
+Sk 75 'unseal door'
+Sk 100 'jab'
+Sk 97 'detect presence'
+Sk 75 'preserve dead'
+Sk 75 'ray of fatigue'
+Sk 75 'surge'
+Sk 88 'endure'
+Sk 75 'boil blood'
+Sk 75 'great wasting'
+Sk 78 'coldlight'
+Sk 96 'resist cold'
+Sk 96 'deadeye'
+Sk 76 'renew bones'
+Sk 100 'breath of the dead'
+Sk 92 'intensify death'
+Sk 75 'deafness'
+Sk 100 'trance'
+Sk 100 'staff'
+Sk 78 'unholyrite'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 95 'endure disease'
+Sk 82 'lock'
+Sk 61 'mark of origin'
+Affc 'armor'   0  32   7 -20  17          0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name Lily knight's bracer~
+ShD  a {bLily {WKnight's{x bracer~
+Desc A steel bracer bearing the sybol of the Lily rests here before you.~
+ExtF 262152
+Cond 88
+Wear 19
+Cost 250000
+Val  43 44 44 46 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name Lily knight's bracer~
+ShD  a {bLily {WKnight's{x bracer~
+Desc A steel bracer bearing the sybol of the Lily rests here before you.~
+ExtF 262152
+Cond 88
+Wear 18
+Cost 250000
+Val  43 44 44 46 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 19006
+Nest 0
+ExtF 17858560
+Cond 100
+Wear 20
+Cost 1200000
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262144
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 19008
+Nest 0
+Name black vest~
+ShD  a {Dblack{x vest~
+Desc A black vest with many hidden pockekts lays here neatly folded before you.~
+ExtF 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 1916
+Enchanted
+Nest 0
+Name thick leather sword belt~
+ShD  a thick {yleather{x sword {Dbelt{x~
+Desc A thick leather sword belt, will oiled and maintained, has been left here.~
+ExtF 17043904
+Cond 100
+Wear 17
+Cost 750000
+Affc 'reserved'   0 107  -1  27  18          0
+Affc 'reserved'   0 107  -1  27  18          0
+Affc 'reserved'   1 110  -1  25  13          0
+Affc 'reserved'   1 110  -1   5  19          0
+Affc 'reserved'   1 110  -1   2   1          0
+Affc 'reserved'   1 110  -1   2   2          0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#END

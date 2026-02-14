@@ -1,0 +1,611 @@
+#PLAYER
+Name Maelyn~
+Surname Silvis~
+MaskedIp ~
+Lokprot ~
+Email tennyo243@gmail.com~
+Id   1320615674
+LogO 1415321439
+Vers 10
+Act  CDGQTe
+Desc Bleached hair hangs about a strong-featured elven face. Whatever heritage
+attributes to the long, sharp nose and strong cheekbones of this girl
+seems lost, however. It is no matter if she was once a noble -- she now
+wears naught but a simple, black dress that hides most of her pale skin
+from sight. The craftmanship of this dress is skilled, as though made
+custom, for her. There is very little else of note on this elven
+girl's person, except for a sturdy leather collar around her long neck.
+ 
+She stands tall for an elven girl, about half a head shorter than an
+average human man. Her build is thin, but her hips have a strong curve to
+them, revealing her age to be well into womanhood for one of her kind.
+Her blue eyes are clear and bright with an intelligence that is uncanny
+for a girl of her status, though her demeanor is of a spirit broken down
+by abuse.
+~
+Prom {G<%h/%H> {c<%m/%M> {D<%v/%V> {W%X{x %B %b ~
+Race silvanesti~
+Sex  2
+Cla  14
+Hmtown 0
+Levl 31
+recall_point 3001
+Levscale 30
+Xptolev  8247
+Sec  0
+Plyd 291272
+Not  1370649486 1330770530 0 1371014583 1322335557
+Scro 22
+Room 17857
+HMV  548 548 486 486 280 280
+Steel 20695
+Gold 591
+Bank 0
+Exp  109803
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1703936
+Comm NO
+Pos  8
+Prac 7
+Save  -2
+Alig  1000
+Ethos 2
+ACs 38 28 18 84
+Wimp  49
+Attr 11 29 19 13 23 16
+AMod 4 10 20 8 10 0
+Pass MaYix/LU7QPP2~
+Titl  the Student of Invocation~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 80
+HMVP 498 486 280
+Cnd  0 26 22 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 82 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 3 'burning hands'
+Sk 1 'call lightning'
+Sk 2 'control weather'
+Sk 100 'create food'
+Sk 82 'create spring'
+Sk 92 'create water'
+Sk 1 'detect good'
+Sk 77 'detect invis'
+Sk 76 'detect magic'
+Sk 75 'detect poison'
+Sk 75 'dispel magic'
+Sk 78 'incendiary cloud'
+Sk 75 'glitterdust'
+Sk 1 'orb of containment'
+Sk 88 'gate'
+Sk 1 'life transfer'
+Sk 75 'infravision'
+Sk 76 'invisibility'
+Sk 75 'know alignment'
+Sk 100 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 1 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 75 'protection evil'
+Sk 1 'recharge'
+Sk 5 'refresh'
+Sk 75 'summon'
+Sk 75 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 88 'dagger'
+Sk 1 'whip'
+Sk 75 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'convoke swarm'
+Sk 1 'traject'
+Sk 80 'mount'
+Sk 1 'wind wall'
+Sk 75 'gust of wind'
+Sk 1 'unseen servant'
+Sk 87 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'knock'
+Sk 76 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 81 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 79 'detect presence'
+Sk 1 'mooncloak'
+Sk 86 'surge'
+Sk 1 'endure'
+Sk 78 'rabbit summon'
+Sk 1 'thunderclap'
+Sk 88 'trance'
+Sk 1 'alarm'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+Affc 'giant strength'   0  73  50   4   1          0
+Affc 'attunement'   0  71  50   3   4          0
+Affc 'attunement'   0  67  50   3   3          0
+Affc 'rabbit summon'   0  28   1   0   0          0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 97
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3701
+Nest 1
+Cond 99
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3708
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 100
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 380
+Val  0 0 174 0 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 292 0 0 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3381
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+Val  3 0 26 0 0
+End
+
+#O
+Vnum 6
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3202
+Nest 0
+Cond 100
+Wear 23
+Cost 5000
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 100
+Wear -1
+Cost 27750
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 100
+Wear -1
+Cost 40750
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#PET
+Vnum 6
+Name rabbit small~
+LogO 1415321439
+Sex  1
+HMV  35 35 111 111 100 100
+Act  ABI
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  70 70 70 80
+Attr 10 11 11 13 11 11
+AMod 0 0 0 0 0 0
+End
+#END

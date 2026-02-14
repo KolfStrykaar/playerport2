@@ -1,0 +1,529 @@
+#PLAYER
+Name Vasper~
+Surname Braeg~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1387330211
+LogO 1391062666
+Vers 10
+Act  CDEFGQTe
+Desc An ugly mastiff-nosed human adolescent stands with a resonant sneer
+toward most all he comes in contact.  He is short, stout, clean-shaven and
+has collected a piece-mail collection of dark plate-armor.  He wields a
+vicious axe, in a loop off his back.  There is no pagentry in his gait, no
+grace in his movement.  Total deliberation, heavy-handed, direct, and
+uncompromising.  He is young, but he is focused on becoming older.  
+~
+Prom <%hhp %mm %vmv %xX> ~
+Race human~
+Devotee 16
+Sex  1
+Cla  5
+Hmtown 2
+Levl 16
+recall_point 2659
+Levscale 30
+Xptolev  2174
+Sec  0
+Plyd 61365
+Not  0 0 0 0 0
+Scro 22
+Room 779
+HMV  72 309 22 138 125 190
+Steel 794
+Gold 1312
+Bank 0
+Exp  29726
+Deaths 5
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3670016
+Comm NOQ
+Pos  4
+Alig  -545
+Ethos 1
+ACs 6 31 -13 89
+Attr 18 13 20 13 14 13
+AMod 0 0 0 0 2 0
+Pass Va7YnYuGZNE9w~
+Titl  the Valet~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 13
+HMVP 309 138 190
+Cnd  0 56 56 0
+QuestPnts 92
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'protection evil'
+Sk 92 'axe'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 78 'shield block'
+Sk 1 'spear'
+Sk 41 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 12 'dodge'
+Sk 96 'enhanced damage'
+Sk 6 'hand to hand'
+Sk 19 'kick'
+Sk 46 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 79 'second attack'
+Sk 69 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 100 'wear chain'
+Sk 60 'wear leather'
+Sk 78 'wear plate'
+Sk 76 'fast healing'
+Sk 5 'haggle'
+Sk 100 'common'
+Sk 1 'lore'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'guard'
+Sk 1 'mounted combat'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'polish'
+Sk 1 'shatter shield'
+Sk 1 'company might'
+Sk 1 'company valor'
+Sk 1 'company honor'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 2566
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 2522
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+Val  5 5 0 0 0
+End
+
+#O
+Vnum 11294
+Nest 0
+Cond 100
+Wear 15
+Cost 1000
+End
+
+#O
+Vnum 9809
+Nest 0
+Cond 100
+Wear 4
+Cost 2000
+End
+
+#O
+Vnum 9806
+Nest 0
+Cond 100
+Wear 8
+Cost 2500
+End
+
+#O
+Vnum 9804
+Nest 0
+Cond 100
+Wear 6
+Cost 2500
+End
+
+#O
+Vnum 9809
+Nest 0
+Cond 97
+Wear 3
+Cost 2000
+End
+
+#O
+Vnum 16285
+Nest 0
+Cond 99
+Wear 17
+Cost 70
+End
+
+#O
+Vnum 16278
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16278
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16278
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16278
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16278
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  0 0 2 0 0
+End
+
+#O
+Vnum 16277
+Nest 0
+Cond 100
+Wear 0
+Cost 300
+End
+
+#O
+Vnum 2566
+Nest 0
+Cond 100
+Wear 21
+Cost 150
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 14
+Cost 100
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 11280
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 17839
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 720
+Nest 0
+Cond 100
+Wear 10
+Cost 100
+End
+
+#O
+Vnum 720
+Nest 0
+Cond 98
+Wear 9
+Cost 100
+End
+
+#O
+Vnum 719
+Nest 0
+Cond 100
+Wear 19
+Cost 150
+End
+
+#O
+Vnum 716
+Nest 0
+Cond 100
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 718
+Nest 0
+Cond 100
+Wear 13
+Cost 150
+End
+
+#O
+Vnum 723
+Nest 0
+Cond 100
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 2516
+Nest 0
+Cond 82
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 727
+Nest 0
+Cond 100
+Wear 11
+Cost 200
+End
+
+#PET
+Vnum 718
+Name barbarian amazon warrior woman~
+LogO 1391062666
+Desc A young beautiful barbarian woman wears very few garments of clothing and
+armor that cover her assets.  Her attitude towards her situation held within
+check as she bides her time.  She is a skilled warrior who does not need a
+man to protect her.  
+A neck tag says 'I belong to Vasper'.
+~
+Sex  2
+HMV  342 403 214 214 100 100
+AfBy FPS
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -20 -20 -20 30
+Attr 20 16 17 17 19 17
+AMod 0 0 0 0 0 0
+End
+#END

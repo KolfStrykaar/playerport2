@@ -1,0 +1,1325 @@
+#PLAYER
+Name Uundiel~
+Surname Rinsar~
+MaskedIp ~
+Lokprot ~
+Email chrisw@kwc.edu~
+Id   1232214275
+LogO 1415242089
+Vers 10
+Act  DGILMTe
+Desc {DA dark figure stands before you. Shrouded in complete mystery you cannot
+make out what exactly it is. A large hood is pulled over the beings face.
+The face can still be seen though, but it is blocked by a mask... A
+suprisingly perfect made mask, drawn from the depths of magic. It is that
+of a wolf, and forms to the creature's face perfectly, and tightly. There
+are no strings, it sets upon the face with a magical bind. {X He hides his
+face, and everything very well.
+~
+Prom {W[Uundiel %h/%H %m/%M %v/%V %e %B] ~
+Race half-elf~
+Org 4
+Religion 16
+Sex  1
+Cla  9
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1433900
+Sec  0
+Plyd 1680271
+Not  1393400406 1382804331 0 1393400407 1379278350
+Scro 0
+Room 3006
+HMV  2492 2492 486 486 850 850
+Steel 6927
+Gold 14139
+Bank 0
+Exp  19511000
+AfBy FJ
+AfBy3 HM
+Deaths 22
+FlagTot 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1114112
+Comm NO
+Pos  8
+Save  -5
+Alig  -1000
+Ethos 0
+Hit   5
+Dam   5
+ACs 100 100 100 100
+Attr 13 15 14 16 13 16
+AMod 0 0 0 5 0 5
+Pass Uuz8dr.wX8zA.~
+Titl  the Whisper in the Night~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 215
+HMVP 2342 336 700
+Cnd  0 17 45 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 007 003 004 004
+Colourd     012 007 002 007 007
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias z gt {b<<<({DShade {xof {YAeleth{b)>>>, '{M~
+Alias prayer say I have given myself over to Hatred, empower me to unleash my wrath!~
+Sk 93 'detect hidden'
+Sk 1 'detect poison'
+Sk 89 'haste'
+Sk 1 'infravision'
+Sk 26 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 15 'mace'
+Sk 28 'polearm'
+Sk 10 'shield block'
+Sk 8 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 94 'dirt kicking'
+Sk 1 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 87 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'deathgrip'
+Sk 38 'demand'
+Sk 87 'circlestab'
+Sk 100 'dual wield'
+Sk 78 'mount'
+Sk 83 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 1 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'peek'
+Sk 89 'pick lock'
+Sk 100 'sneak'
+Sk 54 'recall'
+Sk 70 'battlecry'
+Sk 100 'strangle'
+Sk 65 'cutthroat'
+Sk 100 'assassinate'
+Sk 70 'backup'
+Sk 100 'tumble'
+Sk 1 'scout'
+Sk 90 'second backstab'
+Sk 94 'taunt'
+Sk 100 'eavesdrop'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 91 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+Affc 'preach'   7  98  28   0   0       4096
+Affc 'detect hidden'   0  78  41   0   0         32
+Affc 'instruct'   7  98  18   0   0        128
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5700
+Nest 1
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+ExtF 67108872
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 100
+Mat  leather~
+Wear -1
+Lev  86
+Cost 860
+Val  7 4 26 4 0
+Affc 'cultural artistry'   1  76  -1   0   0   67108864
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4920
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5730
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5730
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5730
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5730
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5730
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 0
+Cond 99
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 12093
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 9832
+Nest 1
+ExtF 262144
+Cond 99
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19002
+Nest 1
+ShD  a pair of {DDark{x Sleeves~
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  22
+Cost 0
+Val  22 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  22
+Cost 0
+Val  22 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 5423
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 3818
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 13314
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({cUsed{x) a {cMake Over{x coupon~
+Desc A coupon good for restringing VI more items.{/Solinari~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5700
+Nest 0
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+ExtF 134217728
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 97
+Mat  leather~
+Wear 20
+Lev  86
+Cost 860
+Val  7 4 22 4 2
+Affc 'cultural artistry'   5  76  -1   0   0          2
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 98
+Mat  plant~
+Wear -1
+Lev  97
+Cost 970
+Val  1 8 16 1 16
+Affc 'cultural artistry'   5  87  -1   0   0         16
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 89
+Wear -1
+Cost 7400
+Val  2 9 12 1 74
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10106
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  22
+Cost 0
+Val  22 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  22
+Cost 0
+Val  22 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3092
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 16102
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#END

@@ -1,0 +1,3145 @@
+#AREADATA
+Name mud school~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 3700 3799
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#3700
+librarian old man~
+a librarian~
+A bespectacled old man stands here
+~
+He's big and bad.  Don't mess with him.
+~
+human~
+ABGQTV CH 1000 0
+200 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3701
+chained prisoner criminal~
+a chained criminal~
+A prisoner stands here, chained to the wall at the throat.
+~
+The man standing before you has a large, collar made of steel wrapped
+around his neck.  A long chain runs from the strap, to the back wall. 
+Although he's chained and cannot escape, there's enough leeway for him to
+move about the room, even fight if he has to.  
+~
+human~
+AB Cd 0 0
+3 1 2d2+10 1d10+85 1d2+5 punch
+8 8 8 9
+AN AB CD 0
+stand stand male 5
+ABHMSVc ABCDEFGHIJK M unknown 0
+#3702
+prisoner chained criminal man~
+a chained criminal~
+A prisoner stands here, chained to the wall.
+~
+The man standing before you has a large, collar made of steel wrapped
+around his neck.  A long chain runs from the strap, to the back wall. 
+Although he's chained and cannot escape, there's enough leeway for him to
+move about the room, even fight if he has to.  
+~
+human~
+ABU d 0 0
+1 1 2d2+10 1d10+85 1d2+5 punch
+8 8 8 9
+0 AB 0 0
+stand stand male 10
+AHMV ABCDEFGHIJKQU M unknown 0
+#3703
+chained criminal prisoner~
+a chained criminal~
+A prisoner stands here, chained to the back wall.
+~
+The man standing before you has a large, collar made of steel wrapped
+around his neck.  A long chain runs from the strap, to the back wall. 
+Although he's chained and cannot escape, there's enough leeway for him to
+move about the room, even fight if he has to.  
+~
+human~
+ABHU d 0 0
+1 0 1d1+7 1d1+99 1d2+0 punch
+10 10 10 10
+O AB 0 C
+stand stand male 10
+AHMV ABCDEFGHIJKQU M unknown 0
+#3704
+prisoner chained criminal rabid~
+a rabid criminal~
+A rabid prisoner is chained here to the wall.
+~
+The man standing before you has a large, collar made of steel wrapped
+around his neck.  A long chain runs from the strap, to the back wall. 
+Although he's chained and cannot escape, there's enough leeway for him to
+move about the room, even fight if he has to.  This particular criminal
+appears to be foaming at the mouth.  Dark, red circles rim around his eyes. 
+~
+human~
+ABFU d 0 0
+2 0 1d1+7 1d1+99 1d4+0 punch
+10 10 10 10
+K AB 0 C
+stand stand male 10
+AHMV ABCDEFGHIJKQU M unknown 0
+#3705
+prisoner chained criminal man~
+a chained criminal~
+A prisoner stands here, chained to the southern wall.
+~
+The man standing before you has a large, collar made of steel wrapped
+around his neck.  A long chain runs from the strap, to the back wall. 
+Although he's chained and cannot escape, there's enough leeway for him to
+move about the room, even fight if he has to.  
+~
+human~
+ABFHU d 0 0
+1 0 1d1+7 1d1+99 1d3+0 punch
+10 10 10 10
+J AB 0 C
+stand stand male 10
+AHMV ABCDEFGHIJKQU M unknown 0
+#3706
+man large criminal prisoner~
+a large prisoner~
+An overly large prisoner is chained here to the wall.
+~
+An overly large man stands here, chained to the back wall.  His size is
+quite impressive, could very well be mistook as an Ogre if he was lingering
+in shadows dark enough to hide his human features.  Large beads of sweat
+trail down his face, his eyes firmly locked onto yours.  His look is that of
+a hardened criminal, ready to kill anyone without blinking an eye.  
+~
+human~
+ABU JZ 0 0
+3 1 2d2+20 1d1+99 1d4+1 punch
+8 8 8 10
+N AB 0 C
+stand stand male 25
+AHMV ABCDEFGHIJKQU M unknown 0
+#3707
+adept chaos god~
+the adept of Chaos~
+An adept of the supreme God, Chaos, is here snickering softly.
+~
+He is big and bad.  Don't mess with him.  
+~
+human~
+ABGJKQTVb CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3708
+adept paly~
+the adept of Paladine~
+An adept of Paladine is here, contemplating your progress.
+~
+He is big and bad.  Don't mess with him.
+~
+human~
+ABGQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3709
+rabbit~
+the rabbit~
+A rabbit is bouncing around here.
+~
+The rabbit smiles at you, completely harmless!
+~
+rabbit~
+AGHU Y 100 0
+3 1 3d2+11 1d10+85 1d2+5 bite
+8 8 8 8
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK T unknown 0
+#3710
+lizard~
+the lizard~
+A lizard slithers up to you.
+~
+It smiles at you, and tries to eat your leg.
+~
+lizard~
+AGU Yd -100 0
+3 0 2d2+20 1d1+99 1d4+1 bite
+8 8 8 10
+R 0 L I
+stand stand either 0
+AGXc ACDEFHKQV S unknown 0
+#3711
+boar~
+the boar~
+A boar tries to run you over.
+~
+It grunts at you.
+~
+pig~
+AGU Y 0 0
+5 1 3d3+30 1d1+99 1d6+1 charge
+7 7 7 9
+CDFR 0 0 0
+stand stand either 0
+AGV ACDEFHJK S unknown 0
+#3712
+fox~
+the fox~
+A fox is here staring at you.
+~
+Its fur might be worth money.
+~
+fox~
+AGHU Z 100 0
+1 1 1d1+12 1d1+99 1d3+1 bite
+8 8 8 10
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV S unknown 0
+#3713
+snail~
+the snail~
+A snail is trying to get out of your way.
+~
+You don't see much but slime about it.
+~
+centipede~
+AGU YZd 0 0
+2 1 3d2+11 1d10+85 1d2+5 digestion
+3 3 3 2
+0 0 FI E
+stand stand none 0
+ABGOQc ACFHKM T unknown 0
+#3714
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+school monster~
+AFTU Z 0 0
+10 1 5d5+55 1d1+99 1d6+3 bite
+5 5 5 8
+EKM AB HI C
+stand stand none 50
+AMV ABCDEFHJKQU L unknown 0
+#3715
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+bear~
+AGU 0 0 0
+8 1 4d4+44 1d1+99 1d6+2 claw
+6 5 6 7
+CDEOR 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV L unknown 0
+#3716
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU Z 0 0
+8 4 6d2+37 4d10+85 1d4+6 bite
+7 7 7 8
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFJKQV M unknown 0
+#3717
+old man white wrinkled~
+a wrinkled old man~
+A wrinkled old man is stocking the shelves with an array of items.
+~
+He is big and bad.  Don't mess with him.  This old man has long white
+hair that extends down past the small of his back, with a matching beard
+that is nearly as long.  Although the hair on his face hides most of his
+features, a few wrinkles can still be seen below the eyes and on his
+forehead.  Despite his age, he still climbs up ladders to stock the shelves,
+and thrives on the tales of the young adventurers who come to him for
+supplies.  
+~
+human~
+ABV C 1000 0
+30 30 45d10+274 30d10+85 8d3+15 beating
+-4 -4 -4 1
+F ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#3718
+scholar astinus~
+a scholar of Astinus~
+A scholar of Astinus is here, ready to train you.
+~
+He is big and bad.  Don't mess with him.
+~
+human~
+ABCJQTV C 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3719
+scholar astinus~
+a scholar of Astinus~
+A scholar of Astinus is here, waiting to aid you in your skills and spells.
+~
+He is big and bad.  Don't mess with him.
+~
+human~
+ABCKQTV C 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3720
+escaped convict man human~
+an escaped convict~
+An escaped convict stands here, holding something in his hand.
+~
+The look on this man's face is priceless.  He still bears a metal collar
+around his neck, only a few pieces of chain link attached to it.  It would
+appear as if he somehow broke free of his restraints.  Killing this criminal
+would be doing the great city of Palanthas a favor.  He's holding something
+in his hand, holding it close to his body as if to protect it.  
+~
+human~
+ABU J 0 0
+4 1 2d4+30 1d1+99 1d6+1 punch
+8 8 8 10
+EFN AB 0 C
+stand stand male 30
+AHMV ABCDEFGHIJKQU M unknown 0
+#3721
+gerry shopkeeper bard~
+Gerry the retired Bard~
+The shopkeeper is here idly playing a snippet of some catchy piece of music.
+~
+Gerry's hair is neatly trimmed back and pulled into a ponytail.  His
+salt and pepper color, goes a bit grayer around the temples and into his
+goatee.  His figure is still maintained, although he is getting a little
+more flesh around his mid-section.  Sharp blue eyes dance with light and
+intelligence.  He looks a little tired and a bit agitated; he seems quite
+worn out and very busy.  Perhaps in talking to him, he might have a job.  
+~
+human~
+AB 0 0 0
+100 100 150d33+1821 100d10+85 28d3+38 tail
+-37 -37 -37 -16
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#3700
+sub issue mace~
+a sub issue mace~
+You see a sub issue mace here.~
+wood~
+weapon SU 0 ANc
+mace 1 6 pound 0
+1 5 250 P
+A
+18 1
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3701
+sub issue dagger~
+a sub issue dagger~
+You see a sub issue dagger here.~
+iron~
+weapon U 0 ANc
+dagger 1 4 pierce 0
+0 3 210 P
+A
+18 1
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3702
+sub issue sword~
+a sub issue sword~
+You see a sub issue sword here.~
+iron~
+weapon U 0 ANc
+sword 1 6 slash 0
+1 4 360 P
+A
+18 1
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3703
+newbie vest~
+a {Mnewbie{x vest~
+You see a newbie vest here.~
+cloth~
+armor SU 0 ADc
+A A A 0 0
+0 3 144 P
+A
+4 1
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Palanthas Armory
+~
+#3704
+newbie shield~
+a {Mnewbie{x shield~
+You see a newbie shield here.~
+wood~
+armor SU 0 AJc
+A A A 0 0
+0 5 108 P
+A
+2 1
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3705
+newbie cloak~
+a {Mnewbie{x cloak~
+You see a newbie cloak here.~
+cloth~
+armor SU 0 ACc
+A A A 0 0
+0 1 72 P
+A
+1 1
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3706
+newbie helmet~
+a {Mnewbie{x helmet~
+You see a newbie helmet here.~
+cloth~
+armor SU 0 AEc
+A A A 0 0
+0 2 72 P
+A
+4 2
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3707
+newbie leggings~
+a pair of {Mnewbie{x leggings~
+You see a pair of newbie leggings here.~
+cloth~
+armor SU 0 AFc
+A A A 0 0
+0 2 72 P
+A
+5 1
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3708
+newbie boots~
+a pair of {Mnewbie{x boots~
+You see a pair of newbie boots lying here.~
+cloth~
+armor SU 0 AGc
+A A A 0 0
+0 1 72 P
+A
+2 1
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3709
+newbie gloves~
+a pair of {Mnewbie{x gloves~
+You see a pair of newbie gloves here.~
+cloth~
+armor SU 0 AHc
+A A A 0 0
+0 1 72 P
+A
+2 1
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3710
+newbie sleeves~
+a pair of {Mnewbie{x sleeves~
+You see a pair of newbie sleeves here.~
+cloth~
+armor SU 0 AIc
+A A A 0 0
+0 1 72 P
+A
+1 1
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3711
+newbie cape~
+a {Mnewbie{x cape~
+You see a newbie cape here.~
+cloth~
+armor SU 0 AKc
+A A A 0 0
+0 1 72 P
+A
+5 1
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3712
+newbie belt~
+a {Mnewbie{x belt~
+You see a newbie belt here.~
+cloth~
+armor SU 0 ALc
+A A A 0 0
+0 0 72 P
+A
+3 2
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3713
+newbie bracer~
+a {Mnewbie{x bracer~
+You see a newbie bracer here.~
+cloth~
+armor SU 0 AMc
+A A A 0 0
+0 1 48 P
+A
+5 1
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Armory
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+iron~
+key P 0 A
+0 0 0 0 0
+0 2 0 P
+#3715
+large leather book~
+a large leather book~
+You see a large leather book with the seal of Palanthas on it.~
+vellum~
+treasure GSU 0 AO
+0 0 0 0 0
+0 4 1140 P
+A
+4 1
+A
+5 1
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Palanthas Military Academy
+~
+#3716
+war banner light~
+a war banner~
+A war banner is on the floor here.~
+cloth~
+light AGS 0 A
+0 0 DGH 0 0
+0 1 380 P
+A
+17 -1
+A
+20 -1
+E
+banner~
+This is the official Palanthas war banner to see you through the darkest realm!
+~
+#3717
+sub issue spear~
+a sub issue spear~
+You see a sub issue spear here.~
+wood~
+weapon SU 0 ANc
+spear 1 6 thrust 0
+1 6 111 P
+A
+18 1
+E
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3718
+sub issue staff~
+a sub issue staff~
+You see a sub issue staff here.~
+wood~
+weapon SU 0 ANc
+staff 1 5 pound F
+1 2 290 P
+A
+18 2
+A
+19 1
+E
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3719
+sub issue axe~
+a sub issue axe~
+You see a sub issue axe here.~
+iron~
+weapon U 0 ANc
+axe 1 6 chop 0
+1 6 350 P
+A
+18 1
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3720
+sub issue flail~
+a sub issue flail~
+You see a sub issue flail here.~
+iron~
+weapon U 0 ANc
+flail 1 5 crush 0
+1 7 310 P
+A
+19 1
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3721
+sub issue whip~
+a sub issue whip~
+You see a sub issue whip here.~
+leather~
+weapon U 0 ANc
+whip 2 2 whip 0
+1 2 330 P
+A
+18 2
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3722
+sub issue glaive polearm~
+a sub issue glaive~
+You see a sub issue glaive here.~
+wood~
+weapon SU 0 ANc
+polearm 1 7 slash F
+1 10 183 P
+A
+19 1
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Palanthas Foundry
+~
+#3723
+map krynn~
+a map of krynn~
+A large, detailed map lies here.~
+vellum~
+map S 0 A
+0 0 0 0 0
+0 0 2 P
+E
+map~
+{x
+{D                    []============================[]{x
+{D                     |    Continent of Ansalon    |{x
+{D                    []============================[]{x
+{x
+{G                                               __----\{x
+{G                                            ___/      \_{x
+{G                                             /        \       _-\{x
+{G       {WZeboims Deep{G  /\__--/\__      __   / {C(3){G^^        }       }  .{x
+{G                    |          \----/  \-/    ^          } _/}   \/   |\_-{x
+{G                     \_  ^   {C(2){G^            ^^      ___/ / /         [{C(14){G}{x
+{G             |^^^-\    \  ^^   ^^    ^^    ^^^      |_---/ /           \-/{x
+{G              \   /_   /  ^^^  ^{C(16){G^^^   ^^               }{x
+{G             ./^^    |  /  ^^{C(8){G^     ^^^  ^^^^    ^ ^^^  _/{x
+{G            \_ ^^ ^ /    ^^   ^^    ^^^^   ^{C(4){G^^^   _/   {WBlood{G     /| }{x
+{G      _/-^\  / ^^  ^\  ^ {WSolamnia{G      ^^^  ^  ^^^   [      {WSea{G    / } }{x
+{G     |  {C(1){G\ \_--__/  /   ^   ^^      {C(15){G ^^^    ^^   /       {C(13){G  /  }  \|{x
+{G      \ ^^^\       _  \     ^^^          /--^>        \__           }  }{x
+{G    /\_/^^ /  /--/^ \  \_    /--\        }   /           ^\___-----/  /{x
+{G   (_  __/^  /       ) (__--/    \--_---/   /                         ){x
+{G     \/     /_ ^^^  _/          /\    {WNew{G  |_                 {C(11){G  _  }{x
+{G             /^^   ]_    /\__--/  \--  {WSea{G _/^^     |\  {C(6){G       /( /{x
+{G            /  ^^^  /   /{WAbanasinia{G\  __/ ^^^     | \-\   ]\---/ [/{x
+{G            ^^^  /   ^^^{C(5){G^      ]/    ^^^   ^^ \   \-_/{x
+{G             \____/    / ^^^^ ^       \|     ^^{C(10){G^  \_    _{x
+{G   {WSirrion{G            | ^^^^^ ^^           ^^^  ^^^     \--/ \_{x
+{G     {WSea{G         /---\/ ^{C(9){G^^^  {WPlains of{G ^^    ^^^           \{x
+{G                /         ^^^^^     {WDust{G    ^^                  }{x
+{G                    ^^^^^^^^^{C(12){G^                           }{x
+{G                 \---\   ^^^^^    {C(7){G               /---\_____/{x
+{G                      \__---___                   _/{x
+{G                              _]     ^^^^^^^^    ({x
+{G                     /----___/   ^^^ {WIcewall{G ^^   \__--\_{x
+{G                  _-/          ^^^^^ {WGlacier{G ^^ ^^       \___{x
+{G                 /              ^^^^^^^^^^^^^^^ ^^           ^\{x
+
+{r1.  {CMt. Nevermind{x          {r9.  {CQualinesti{x
+{r2.  {CPalanthas{x              {r10. {CSilvanesti{x
+{r3.  {CKalaman{x                {r11. {CKendermore{x
+{r4.  {CNeraka{x                 {r12. {CThorbardin{x
+{r5.  {CSolace{x                 {r13. {CIstar{x
+{r6.  {CBalifor{x                {r14. {CMithas{x
+{r7.  {CTarsis{x                 {r15. {CSanction{x
+{r8.  {CSolanthus{x              {r16. {CVingaard Keep{x
+~
+#3724
+newbie orb knowledge~
+a {Mnewbie orb{x of {Wknowledge{x~
+A crystal orb that radiates knowledge floats here.~
+crystal~
+gem AGPSUY 0 AQ
+0 0 0 0 0
+1 2 5 P
+A
+4 1
+A
+5 1
+A
+13 50
+#3725
+newbie light knowledge~
+a {Mnewbie {Wlight{x of knowledge~
+A staff that exudes an aura of knowledge is propped here.~
+energy~
+light AGPSUY 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 5 10 P
+A
+3 1
+#3726
+newbie ring~
+a {Mnewbie{x ring~
+A ring that exudes an aura of power is here.~
+gold~
+armor AUY 0 ABc
+AC AC AC AC 0
+1 0 300 P
+A
+2 1
+A
+5 1
+#3727
+biscuit newbie~
+a {Mnewbie{x biscuit~
+A tasty looking biscuit lies here.~
+unknown~
+food PSUY 0 A
+AC AC 0 0 0
+1 1 1 P
+#3728
+burlap newbie sack~
+a small {Mnewbie{x sack~
+A small burlap sack lies here on the ground.~
+burlap~
+container SY 0 A
+150 A 0 12 0
+1 3 5 P
+#3729
+newbie flask~
+a {Mnewbie{x flask~
+A small flask filled with water is here.~
+tin~
+drink PUY 0 A
+100 100 'water' 0 0
+1 1 0 P
+#3730
+sub issue bow~
+a sub issue bow~
+You see a sub issue bow here.~
+wood~
+weapon SU 0 ANc
+bow 1 2 thwack 0
+1 2 310 P
+#3731
+used drum~
+a used drum~
+A used drum lies here waiting to be banged.~
+skin~
+instrument S 0 AOc
+0 0 0 0 0
+1 1 10 P
+#3732
+tarnished jingle bells~
+tarnished jingle bells~
+A set of tarnished jingle bells lies on the ground.~
+brass~
+instrument 0 0 AOc
+0 0 0 0 0
+1 1 5 P
+#3733
+tin kazoo~
+a tin kazoo~
+A small, tin kazoo lies here.~
+tin~
+instrument 0 0 AOc
+0 0 0 0 0
+1 1 5 P
+#3734
+old beat fiddle~
+an old, beat up fiddle~
+An old, beat-up fiddle lies here.~
+maple~
+instrument S 0 AOc
+0 0 0 0 0
+2 1 20 P
+#3735
+old banjo~
+an old banjo~
+An old bango lies here unused.~
+wood~
+instrument S 0 AOc
+0 0 0 0 0
+2 1 20 P
+#3736
+sub issue exotic staff~
+a sub-issue staff~
+You see a sub-issue staff lying here.~
+wood~
+weapon SU 0 ANc
+exotic 1 2 thwack 0
+0 2 300 P
+#3737
+drinking fountain~
+a drinking fountain~
+A drinking fountain spews forth water here.~
+stone~
+fountain OS 0 P
+-1 -1 'water' 0 0
+1 0 0 P
+#3760
+blood wax candle~
+a {rbloodwax{x candle~
+A candle dripping wax made from {rblood{x lies here.~
+wax~
+light AGS 0 A
+0 0 DGH 0 0
+0 1 5 P
+A
+20 -1
+A
+17 -1
+#3761
+long flowing black robe~
+a long {Dblack{x robe~
+A long, flowing {Dblack robe{x lies discarded here.~
+cloth~
+armor GSU 0 ADc
+A A A 0 0
+0 3 5 P
+A
+4 1
+#3762
+black cloth boots~
+a pair of {Dblack{x cloth boots~
+A pair of {Dblack{x cloth boots lie here on the ground.~
+cloth~
+armor SU 0 AGc
+A A A 0 0
+0 1 10 P
+#3763
+book dead~
+the {mBook{x of the {DDead{x~
+A book constructed of flesh and blood, lies here.~
+flesh~
+treasure EGJLS 0 AO
+0 0 0 0 0
+0 1 20 P
+E
+book~
+The Necromancer
+
+ The necromancer is a loner.  He prefers to surround himself with the
+dead (and undead), not with the living.  He rarely subordinates himself
+to anyone and would prefer to rule his own kingdom of the dead.  He may,
+however, employ (or force into servitude) such devoted agents of
+destruction as ogres, hobgoblins and others.  Even animals smell the
+necromancer's devotion to death and try to avoid him wherever possible.
+The necromancer will need the services of the living, however, if he
+wishes to erect a temple of death (see below) and so it is handy to have
+a few around.
+
+ The necromancer detests sunlight and open places (except moonless nights).
+He is furtive and reclusive as townsfolk distrust and abhor the necromancer
+and all that he stands for.  A low-level necromancer will probably need to
+live in a town so as to have access to the materials he needs to practice
+his art.  Attempts to maintain secrecy are hampered by the loathsome
+nature of the necromancer's work and so, in effect, for each level the
+necromancer progresses, he loses 1 charisma point as his aura of death
+becomes more and more palpable, until it reaches zero.  This loss also helps
+represent the growing suspicion of acquaintances, and the general reaction
+of people as he becomes imbued with death.  Long before his charisma reaches
+zero, however, he is usually chased from the town he is residing and starts
+a solitary life.
+~
+E
+dead~
+The Necromancer
+
+ The necromancer is a loner.  He prefers to surround himself with the
+dead (and undead), not with the living.  He rarely subordinates himself
+to anyone and would prefer to rule his own kingdom of the dead.  He may,
+however, employ (or force into servitude) such devoted agents of
+destruction as ogres, hobgoblins and others.  Even animals smell the
+necromancer's devotion to death and try to avoid him wherever possible.
+The necromancer will need the services of the living, however, if he
+wishes to erect a temple of death (see below) and so it is handy to have
+a few around.
+
+ The necromancer detests sunlight and open places (except moonless nights).
+He is furtive and reclusive as townsfolk distrust and abhor the necromancer
+and all that he stands for.  A low-level necromancer will probably need to
+live in a town so as to have access to the materials he needs to practice
+his art.  Attempts to maintain secrecy are hampered by the loathsome
+nature of the necromancer's work and so, in effect, for each level the
+necromancer progresses, he loses 1 charisma point as his aura of death
+becomes more and more palpable, until it reaches zero.  This loss also helps
+represent the growing suspicion of acquaintances, and the general reaction
+of people as he becomes imbued with death.  Long before his charisma reaches
+zero, however, he is usually chased from the town he is residing and starts
+a solitary life.
+~
+#3764
+shimmering silver orb~
+a shimmering {Csilver{x orb~
+A shimmering {wsilver orb{x has been left here.~
+magic~
+light AGSY 0 A
+0 0 DGH 0 0
+0 1 5 P
+A
+17 -1
+A
+20 -1
+#3765
+long silver robe~
+a long {Csilver{x robe~
+A long {Csilver{x robe lies here.~
+cloth~
+armor SU 0 ADc
+A A A 0 0
+0 3 5 P
+#3766
+shimmering cloth boots~
+a pair of shimmering {wcloth boots{x~
+A pair of shimmering {wboots{x lies here discarded.~
+cloth~
+armor SU 0 AGc
+A A A 0 0
+0 1 10 P
+#3767
+book enchantment~
+the {WBook{x of {cEnchantment{x~
+A large book with a {wsilver{x binding lies here.~
+leather~
+treasure GS 0 AO
+0 0 0 0 0
+0 1 20 P
+E
+book~
+{x
+{w      ___________________   ___________________{x
+{w  .-/|  {D01{w   --**--      \ /      --**--   {D02{w  |\-.{x
+{w  ||||                    :                    ||||{x
+{w  ||||   {WPartial list of{w  :   {WKnown Cantrips{w   ||||{x
+{w  ||||                    :                    ||||{x
+{w  ||||   {yWhispering{w       :   {yMusic{w            ||||{x
+{w  ||||   {yFlower{w           :   {yGlow{w             ||||{x
+{w  ||||   {yAura{w             :   {ySmoke{w            ||||{x
+{w  ||||   {yBouquet{w          :   {yWarm{w             ||||{x
+{w  ||||   {yFireworks{w        :   {yRainbow{w          ||||{x
+{w  ||||   {yJuggle{w           :   {yDizzy{w            ||||{x
+{w  ||||   {yWind{w             :   {yLaugh{w            ||||{x
+{w  ||||                    :                    ||||{x
+{w  ||||___________________ : ___________________||||{x
+{w  ||/====================\:/====================\||{x
+{w  `----------------------___---------------------''{x
+~
+E
+enchantment~
+{x
+{w      ___________________   ___________________{x
+{w  .-/|  {D01{w   --**--      \ /      --**--   {D02{w  |\-.{x
+{w  ||||                    :                    ||||{x
+{w  ||||   {WPartial list of{w  :   {WKnown Cantrips{w   ||||{x
+{w  ||||                    :                    ||||{x
+{w  ||||   {yWhispering{w       :   {yMusic{w            ||||{x
+{w  ||||   {yFlower{w           :   {yGlow{w             ||||{x
+{w  ||||   {yAura{w             :   {ySmoke{w            ||||{x
+{w  ||||   {yBouquet{w          :   {yWarm{w             ||||{x
+{w  ||||   {yFireworks{w        :   {yRainbow{w          ||||{x
+{w  ||||   {yJuggle{w           :   {yDizzy{w            ||||{x
+{w  ||||   {yWind{w             :   {yLaugh{w            ||||{x
+{w  ||||                    :                    ||||{x
+{w  ||||___________________ : ___________________||||{x
+{w  ||/====================\:/====================\||{x
+{w  `----------------------___---------------------''{x
+~
+#3768
+lantern~
+a lantern~
+An ordinary lantern lies here.~
+tin~
+light AG 0 A
+0 0 DGH 0 0
+0 1 5 P
+A
+17 -1
+A
+20 -1
+#3769
+loose shirt~
+a loose shirt~
+A loose shirt lies on the ground here.~
+cloth~
+armor SU 0 ADc
+A A A 0 0
+0 0 5 P
+A
+4 1
+#3770
+shabby leather boots~
+a pair of shabby leather boots~
+A pair of old leather boots lie on the ground here.~
+leather~
+armor SU 0 AGc
+A A A 0 0
+0 2 10 P
+#3771
+book discipline combat~
+the {MBook {xon {RDiscipline{x~
+A small book on the art of combat lies here.~
+leather~
+treasure S 0 AO
+0 0 0 0 0
+0 1 10 P
+E
+discipline~
+{x
+Creative military discipline demands at least four practices in order to
+achieve the decisive point in war.
+{x
+1. Shift the context
+{x
+Given the confusing details of any war at hand, one must be able
+to shift ones perception about what war is, what war means, how
+war is to be conducted. The creative leader will see in the war
+new contours and a shape different from any other ever fought. A
+scandalous new vision of war emerges from this perception. This
+'gestaltshift' then allows the compass for operational mobility
+a making way for a thousand 'points of maneuver'.
+{x
+2. Anticipate wars costs
+{x
+War, like creativity, is not free. Every action initiated
+for beneficial results has consequences that incur costs.
+Every creative action presupposes destruction, expense.
+The exercise of grappling with limitations, paradoxically,
+liberates the creative mind. Providing solutions to the
+problems of supply is its mtier.
+{x
+3. Communicate an intimate vision
+{x
+The creative military commander must communicate the new
+vision of war to all constituencies entangled in the war
+effort; troops, allies, political operators, enemies, etc.
+The message should be appropriate to, and limited by, the
+recipients specialized role in the war. A corollary: the
+successful warrior must be an 'intimate,' as well as a
+'collective,' communicator. War itself gravitates toward
+collective truths, and these truths are not subtle enough
+to win a war. Creative solutions, which do win wars, thrive
+upon intimate dialogue between a personal inner vision and
+the happenstance of outer realities.
+{x
+4. Take time to meditate
+{x
+Regular disengagement from the hurly-burly of wars exigencies
+aligns operational details under the command of the new vision.
+Meditative time allows for the 'falling into place' of wars
+unpredictable happenstance into the new order of war, its shifted
+context.
+~
+E
+book~
+Creative military discipline demands at least four practices in order to
+achieve the decisive point in war.  
+ 
+1. Shift the context
+{x
+Given the confusing details of any war at hand, one must be able
+to shift ones perception about what war is, what war means, how
+war is to be conducted. The creative leader will see in the war
+new contours and a shape different from any other ever fought. A
+scandalous new vision of war emerges from this perception. This
+'gestaltshift' then allows the compass for operational mobility
+a making way for a thousand 'points of maneuver'.
+ 
+2. Anticipate wars costs
+
+War, like creativity, is not free. Every action initiated
+for beneficial results has consequences that incur costs.
+Every creative action presupposes destruction, expense.
+The exercise of grappling with limitations, paradoxically,
+liberates the creative mind. Providing solutions to the
+problems of supply is its mtier. 
+ 
+3. Communicate an intimate vision
+{x
+The creative military commander must communicate the new
+vision of war to all constituencies entangled in the war
+effort; troops, allies, political operators, enemies, etc.
+The message should be appropriate to, and limited by, the
+recipients specialized role in the war. A corollary: the
+successful warrior must be an 'intimate,' as well as a 
+'collective,' communicator. War itself gravitates toward
+collective truths, and these truths are not subtle enough
+to win a war. Creative solutions, which do win wars, thrive
+upon intimate dialogue between a personal inner vision and
+the happenstance of outer realities.
+ 
+4. Take time to meditate
+{x
+Regular disengagement from the hurly-burly of wars exigencies
+aligns operational details under the command of the new vision.
+Meditative time allows for the 'falling into place' of wars
+unpredictable happenstance into the new order of war, its shifted
+context.
+~
+#3772
+crystal orb~
+a {Wcrystal{x orb~
+A piece of crystal in the shape of an orb, lies here.~
+crystal~
+light AGS 0 A
+0 0 DGH 0 0
+0 1 5 P
+A
+20 -1
+A
+17 -1
+#3773
+blue ornate robe~
+an ornate {Bblue{x robe~
+A long {Bblue{x ornate robe lies here.~
+cloth~
+armor SU 0 ADc
+A A A 0 0
+0 3 10 P
+#3774
+sandals pair worn~
+a pair of sandals~
+A well-worn pair of sandals lie here.~
+soft leather~
+armor SU 0 AGc
+A A A 0 0
+0 2 10 P
+#3775
+book spiritualism~
+the {yBook{x on {WSpiritualism{x~
+A large book with clerical designs and holy symbols lies here.~
+paper~
+treasure GIS 0 AO
+0 0 0 0 0
+0 1 10 P
+E
+book~
+Within every man, woman, and child lies a route to the one true path of 
+the Healing Hand. Those who know Her, know only truth.  Evil is naught 
+but the animalistic urges to obtain the worldly through greed and 
+disregard of the greater well being, and those who fall prey to their 
+primitive desires are those who shall never know truth nor happiness.
+
+Only by forsaking these instincts shall one's soul know salvation. Those 
+who seek true salvation turn to the embrace of our Lady 
+Mishakal, for if you know Her, She shall guide you.  She appears to us 
+most commonly as a beautiful woman in excellent health and physical
+condition. Her flawless skin radiates a golden light unless she wishes
+to disguise herself. Even if she has dampened her radiance, her latent
+power often deepens the natural blues in objects around her blue
+blossoms, blue lakes, blue eyes, and so forth. She wears a robe and
+carries no armor or weaponry except for her glowing blue crystal staff.
+~
+E
+spiritualism~
+Within every man, woman, and child lies a route to the one true path of 
+the Healing Hand. Those who know Her, know only truth.  Evil is naught 
+but the animalistic urges to obtain the worldly through greed and 
+disregard of the greater well being, and those who fall prey to their 
+primitive desires are those who shall never know truth nor happiness.
+
+Only by forsaking these instincts shall one's soul know salvation. Those 
+who seek true salvation turn to the embrace of our Lady 
+Mishakal, for if you know Her, She shall guide you.  She appears to us 
+most commonly as a beautiful woman in excellent health and physical
+condition. Her flawless skin radiates a golden light unless she wishes
+to disguise herself. Even if she has dampened her radiance, her latent
+power often deepens the natural blues in objects around her blue
+blossoms, blue lakes, blue eyes, and so forth. She wears a robe and
+carries no armor or weaponry except for her glowing blue crystal staff.
+~
+#3776
+clawed overshoes over shoes~
+a pair of clawed overshoes~
+A pair of shoes with claws strapped to the bottoms has been left here.~
+iron tips~
+armor U 0 AGc
+A A A 0 0
+0 2 10 P
+#3777
+hand lamp~
+a hand lamp~
+A hand lamp with a small silver {wmirror{x lies here.~
+tin~
+light A 0 A
+0 0 DGH 0 0
+0 1 5 P
+A
+17 -1
+A
+20 -1
+#3778
+soft silenced leather armor~
+silenced armor~
+A soft piece of leather armor lies here.~
+soft leather~
+armor SU 0 ADc
+A A A 0 0
+0 4 5 P
+A
+4 1
+#0
+
+
+
+#ROOMS
+#3700
+Great Doors of the Palanthas Library~
+You find yourself at the entrance to the great Library of Palanthas, the
+center point of learning how to begin your new adventures, as well as the
+history of Krynn.  This place is the beginning where new travelers must
+learn how to move around and interact with the things around them.  This
+area is relatively safe, but even here one may face dangers.  To the north,
+new adventurers can begin learning by reading various instructional signs. 
+Please head NORTH into the Hall of Knowledge ("Newbie School").
+ 
+A sign warns: 'THE HALL OF KNOWLEDGE CANNOT BE ENTERED PAST LEVEL 5.'
+Smaller words of advice are below the warning (type 'LOOK SIGN' to read them).
+~
+0 2228232 0
+E
+sign~
+A sign warns: 'THE HALL OF KNOWLEDGE CANNOT BE ENTERED PAST LEVEL 5.'
+ 
+In smaller writing below are additional words of advice:
+
+To see more about what lies in a direction, one may 'look <direction>'
+to see what terrain generally lies ahead, or 'scan <direction>' to see
+who is lurking that way.
+
+A person may move around by typing the direction one wishes to go:
+north, south, east, west, up, or down.
+
+Doors can be closed, locked, or secret.  Secret doors will not show up
+in the normal exit list.  The room description usually gives hints, or
+one can try going in a direction without a listed exit.
+~
+D0
+You see the doorway into the Mud School Building.
+~
+~
+0 0 3757
+D2
+~
+~
+1 0 3744
+S
+#3701
+The Educational Path in the Hall of Knowledge~
+This portion of the hall, is reserved for the use of new, young
+adventurers.  While the walls and floor are constructed of the same white
+marble as the rest of the hall, the path to enlightenment is lit by the
+sunlight from adjacent windows during the day, covered lamps by night.  The
+marble slabs, which make up this wing of the Hall of Knowledge, also seem to
+have been crafted in the same style as a church, though appear to be more
+recent in design.  Despite the numerous priests which walk through this
+hallway, a peaceful quiet lingers, a testament to the well-placed acoustics
+and the hushed tones used in respect for the study of others.  To the west,
+a small shop outfits new adventurers who may have misplaced their equipment.
+ 
+{x  A small sign with details about equipment stands here.
+~
+0 131084 0
+E
+sign~
+Adventurers need equipment to survive.  All characters begin
+with a vest, a shield, and a weapon.  Items can be acquired
+from defeated foes.
+
+To get things:
+To pick up items on the ground, type 'get <item>'.
+To pick up items off a dead body, type 'get <item> corpse'.
+
+To wear things:
+To wear, hold, or wield every open slot that can be filled
+with inventory items, type 'wear all'.
+To hold a light source, type 'hold <item>'.
+To wield a weapon, type 'wield <weapon>'.
+To wield a second weapon, type 'dual <weapon>'.
+To wear most things, type 'wear <item>'.
+
+To list equipment:
+Type 'inv' to see items being carried in inventory, but not worn.
+Type 'eq' to see a list of equipment currently being worn.
+ 
+In the beginners' area, most equipment is not affected by size
+or WEAR type restrictions.  In the regular world of Krynn, 
+things may not fit so easily, and some things cannot be worn
+without the proper skills, such as 'WEAR LEATHER', 'WEAR CHAIN',
+and 'WEAR PLATE'.
+~
+D0
+~
+~
+0 0 3702
+D2
+You see a path into another room.
+~
+~
+0 -1 3757
+D3
+~
+~
+0 0 3707
+S
+#3702
+The Educational Path in the Hall of Knowledge~
+This small path in the hall continues through the educational area. 
+While the walls and floor are constructed of the same white marble as the
+rest of the hall, the path to enlightenment is lit by the sunlight from
+adjacent windows during the day, covered lamps by night.  The marble slabs,
+which make up this wing of the Hall of Knowledge, also seem to have been
+crafted in the same style as a church, though appear to be more recent in
+design.  To the east, a small instrument shop for young bards with musical
+aspirations is open to the elements.  
+ 
+{x  A large sign of importance stands by the path.
+~
+0 131084 0
+E
+sign~
+The immortals ask you to please read the rules (type: 'rules').  Know
+them, understand them, follow them...  The mission statement and the tenets
+can be read by typing 'help mission' and 'help tenets' .  These largely
+define the game.  Please read these to understand the nature of LoK.  
+~
+D0
+~
+~
+0 0 3703
+D1
+~
+~
+0 0 3708
+D2
+~
+~
+0 0 3701
+S
+#3703
+The Educational Path in the Hall of Knowledge~
+This small path in the hall continues through the educational area. 
+While the walls and floor are constructed of the same white marble as the
+rest of the hall, the path to enlightenment is lit by the sunlight from
+adjacent windows during the day, covered lamps by night.  The marble slabs,
+which make up this wing of the Hall of Knowledge, also seem to have been
+crafted in the same style as a church, though appear to be more recent in
+design.  To the west, the faint sound of splashing water reaches your ears.
+~
+0 131084 0
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+D0
+~
+~
+0 0 3704
+D2
+~
+~
+0 0 3702
+D3
+~
+~
+0 0 3709
+S
+#3704
+The Educational Path in the Hall of Knowledge~
+This small path in the hall continues through the educational area. 
+While the walls and floor are constructed of the same white marble as the
+rest of the hall, the path to enlightenment is lit by the sunlight from
+adjacent windows during the day, covered lamps by night.  The marble slabs,
+which make up this wing of the Hall of Knowledge, also seem to have been
+crafted in the same style as a church, though appear to be more recent in
+design.  To the east, lies an open doorway leading into a prison cell.  The
+possibility of escape is a common thought, however, prisoners are chained to
+the walls by their throat.  The chances of escape are at a staggering zero. 
+ 
+{x  A large sign that reads 'WARNING' has been posted here.
+~
+0 131084 0
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The next lesson is running away. There is a criminal to the east of here.
+He might be too strong for you to kill, so go 'EAST' from here, then
+'CONSIDER' him, then 'KILL' him. After a while, type 'FLEE' to escape
+from him. Watch your Hit Points, make sure they don't get down too
+low, otherwise you could die a senseless death.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next room, head 'NORTH'
+~
+D0
+~
+~
+0 0 3705
+D1
+~
+~
+0 0 3710
+D2
+~
+~
+0 0 3703
+S
+#3705
+The Educational Path in the Hall of Knowledge~
+This small path in the hall continues through the educational area. 
+While the walls and floor are constructed of the same white marble as the
+rest of the hall, the path to enlightenment is lit by the sunlight from
+adjacent windows during the day, covered lamps by night.  The marble slabs,
+which make up this wing of the Hall of Knowledge, also seem to have been
+crafted in the same style as a church, though appear to be more recent in
+design.  The sounds of screams comes distinctively from the north, a path
+which leads into the Halls' Dungeons.  To the south, the Hall of Knowledge
+continues on with its educational path.  
+~
+0 131084 0
+E
+sign~
+~
+D0
+~
+~
+0 0 3711
+D2
+~
+~
+0 0 3704
+S
+#3706
+The Age Of Starbirth~
+If you find yourself in this room, please notify an Immortal, or write a
+NOTE if one is not present.  
+~
+0 2138116 0
+S
+#3707
+The Novice Outfitters of Krynn~
+A small wooden building neatly displays all gear that a novice adventurer
+might require for very reasonable prices.  The golden yellow of the shop
+gives a bright, cheerful display.  A wide assortment of clothing, armor,
+weapons, and items are neatly packaged and ready to be sold.  The doorway to
+the east has no door and is wide open for travelers at all hours of the day
+and night.  
+ 
+{x  A sign hangs on the wall.
+~
+0 131084 0
+E
+sign~
+Shopping can be extremely important to a new adventurer.  Be wary, though,
+the starting gold is very limited and the expenses can be plentiful.
+
+If one does lose equipment and is less than 5th level, type 'outfit' to
+get some replacement sub issue gear, otherwise it can be purchased here.
+
+To find out what a shopkeeper offers, type 'list'.
+If two or more shopkeepers are in the room, type list <number>.
+To purchase something off the list type 'buy <item>'.
+If you wish to buy more than one of the item, type 'buy <amount>*<item>'.
+
+When multiple items of the same name are listed, type 'buy X.item', where X
+is the position of the item in a list of that name.  So if there are two
+swords, buy 2.sword will buy the second sword. If you want to buy multiples of
+an item, use an * symbol, (buy 5*pie will buy 5 pies).  These can be combined
+into (for example) buy 2*2.shield, as long as the * is first. This would buy
+2 swords total, of the second sword on the item list.
+~
+D1
+~
+~
+0 0 3701
+S
+#3708
+The Aspiring Bard~
+This ramshackle wooden building looks to be barely holding together and
+hasn't been dusted in ages.  But each instrument appears to get regular use
+and a lot of attention.  The shelves are laden with instruments of various
+types.  The doorway to the west stands open.  
+ 
+{x  A sign on the wall gives instructions for playing instruments.
+~
+0 131084 0
+E
+sign~
+Bards can play a variety of instruments on Krynn.  There are several
+types of instruments in the cities, most playable, some for amusement. 
+Playing an instrument allows a Bard a lot of leeway for creativity.
+
+The Bard must hold the instrument in his or her hands.  There is no
+need to specify the instrument you'll be playing, since only one can
+be held at a time.
+
+To see a list of available songs one can play, type 'song'.
+
+To play a song, type 'play <complete song name>' You must type out
+the full name of the song, capitol letters are not required, but
+abbreviations will not always work. Here's an example:
+
+Type:  'hold harp'
+{x       'play song of revelation'
+
+Result: You play a melody on a golden harp.
+{x        You begin singing the Song of Revelation.
+
+Songs cannot be targeted to anyone or anything at all. Depending on
+what song it is, it will automatically affect the desired target it
+is meant to. Read the help files for each song prior to playing them
+as you wouldn't want to accidentally play a song that causes a fight
+to breakout amongst the people in the room with you without being
+ready to defend yourself.
+~
+D3
+~
+~
+0 0 3702
+S
+#3709
+A Large Drinking Fountain~
+The room, although fairly large in size, is nearly completely occupied by
+the very large drinking fountain rising up from the floor.  The white marble
+walls are slightly colored orange, perhaps from the constant condensation. 
+Flowering bushes and miniature trees from all over Ansalon bring a
+delightful bouquet of smells which changes with each step taken.  {x A
+wooden sign stands here next to the fountain.  
+~
+0 131084 0
+E
+sign~
+At lakes and fountains, one can either drink by typing 'drink fountain'
+or if one has a drink container like a jug or waterskin, fill a container
+and carry the liquid on them by typing: 'fill <container>', where
+<container> is a specific container carried by the person.  
+~
+D1
+~
+~
+0 0 3703
+S
+#3710
+A Jail Cell~
+This prison cell is, surprisingly, quite clean.  A small cot is bolted to
+the wall, its sheets clean and the bed made.  There's two small buckets in
+the room, each in opposite corners.  One of the buckets is filled with
+drinking water, the other with human waste.  The floor is smooth and cold to
+the touch.  A small food tray lies on the ground, tipped upside down, its
+contents scattered about.  
+~
+0 131080 0
+E
+sign~
+Remember, don't fight the prisoner to the bloody end!  Just type 'KILL
+PRISONER' and then type 'FLEE' whenever you are ready to get out of the
+battle.  Just make sure to flee BEFORE your Hitpoints get too low, risking
+the chance of getting killed.  
+~
+D3
+~
+~
+0 0 3704
+S
+#3711
+Entrance to the Hall of Dungeons~
+The path which leads through the Hall of Knowledge begins and ends here,
+depending on which direction a person is coming from.  To the south, young
+adventurers may travel down the Educational Path to learn more about
+important information needed to survive in this cruel world.  Young
+adventurers may head north, into the Dungeons of Palanthas, to get their
+first real taste of blood.  
+~
+0 131084 0
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, head north.
+~
+D0
+~
+~
+0 0 3712
+D2
+~
+~
+0 0 3705
+S
+#3712
+The Hall of Dungeons, Dungeon Masters Room.~
+You find yourself standing in the center of the Dungeon.  To the north,
+east and west, lay conjoining hallways with prisoners chained to the walls. 
+They are criminals who were put on trial for crimes so heinous, they aren't
+allowed to be spoken about openly amongst the public citizens of Palanthas. 
+There doesn't appear to be any guards on post to keep an eye on them.  It's
+as if the prisoners were left down here to die.  Perhaps they have something
+useful to wear. Once you have attained the next higher level, or feel confident
+enough with your skills, you may head down deeper into the Dungeons, where
+criminals who committed even more serious crimes can be found.
+ 
+{x  A very LARGE sign has been posted here.
+~
+0 131084 0
+E
+sign~
+Welcome to the Dungeons of Palanthas.
+ 
+Here, a few criminals who have been charged with very serious crimes, have
+been chained to the walls and left here to die. There are no Guards keeping
+post, so the criminals are open to killin'.
+ 
+Before you start your slaughter, there are a few things you must know.
+ 
+First, you need to know about the AUTO command (See 'help auto'). If you
+wish to get the equipment off the corpses of your enemies automatically,
+then you need to make sure that you have AUTOLOOT turned ON.
+ 
+If you wish to get all the Steel and Gold coins automatically, you need to
+make sure that you have AUTOGOLD on.
+ 
+If you do not have these options turned on, and you SACRIFICE the corpse,
+all items that the corpse contained will be lost. Not sacrificing the corpse
+without these options turned on, will leave them in there. You may get ALL
+of the items at once, or you may get them INDIVIDUALLY.
+ 
+To get an Object from a corpse, simply type: GET <desired object> CORPSE
+To get EVERYTHING all at once, type: GET ALL CORPSE
+ 
+When you are done with the corpse, you can either choose to leave it, allowing
+it to rot on it's own with time, or you may SACRIFICE the corpse to your God.
+ 
+Between combat, you may need to rest or sleep to regenerate Hit Points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings, which can be bad in some cases because some Mobs are
+aggressive and will attack you at will. Other mobs, later in the game, can
+actually TRACK you down if you didn't finish off the kill. It's easy to get
+away from these hunting, pissed off mobiles, but not keeping a weary eye open
+can cost you your life.
+~
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 3713
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 3716
+D2
+~
+~
+0 0 3711
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 3714
+D5
+You see the next station below.
+~
+~
+0 -1 3717
+S
+#3713
+A Dungeon Cell~
+The prison cell is surprisingly, quite clean.  There's a small cot bolted
+to the wall, its sheets clean and the bed made up.  There's two small
+buckets in the room, each in opposite corners.  One of the buckets is filled
+with drinking water, the other with human waste.  The floor is smooth and
+cold to the touch.  A small food tray lies on the ground, tipped upside
+down, its contents scattered about.  
+ 
+{x  There is a small sign hanging on the wall.
+~
+0 131080 0
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D2
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3714
+A Hallway Through The Dungeon~
+Although this clearly is not an actual dungeon cell, and merely a hallway
+serving as a means to get to a cell, prisoners have been chained to the
+walls here as well, due to overcrowding.  The chains that restrain them, are
+just short enough so that if you walk directly down the middle of the hall,
+they can't reach you.  There are a few buckets with filled with water and a
+few filled with human waste lying about.  There doesn't appear to be any
+trays of food.  The hall continues on to the west, leading into an actual
+cell.  The hallway also continues east, leading back into the Dungeon
+Masters room.  
+ 
+{x  A small sign hangs on the wall.
+~
+0 131080 1
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D1
+You see the Cage Room.
+~
+~
+0 -1 3712
+D3
+~
+~
+0 0 3715
+S
+#3715
+A Dungeon Cell~
+The prison cell is surprisingly, quite clean.  There's a small cot bolted
+to the wall, its sheets clean and the bed made up.  There's two small
+buckets in the room, each in opposite corners.  One of the buckets is filled
+with drinking water, the other with human waste.  The floor is smooth and
+cold to the touch.  A small food tray lies on the ground, tipped upside
+down, its contents scattered about.  
+ 
+{x  A small sign has been posted on the wall.
+~
+0 131080 0
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D1
+~
+~
+0 0 3714
+S
+#3716
+A Dungeon Cell~
+The prison cell is surprisingly, quite clean.  There's a small cot bolted
+to the wall, its sheets clean and the bed made up.  There's two small
+buckets in the room, each in opposite corners.  One of the buckets is filled
+with drinking water, the other with human waste.  The floor is smooth and
+cold to the touch.  A small food tray lies on the ground, tipped upside
+down, its contents scattered about.  
+ 
+{x  A small sign has been posted on the wall.
+~
+0 131080 0
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D3
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3717
+Deep into the Dungeon~
+Being down below ground level would normally seem cooler to most,
+however, down here it would seem as if some kind of furnace was burning. 
+The air lingers with a foul stench, coming from an adjacent room to the
+east.  A ladder rests against the western wall, leading back up into the
+upper portion of the dungeon.  
+~
+0 131084 0
+D1
+~
+~
+0 0 3719
+D4
+~
+~
+0 -1 3712
+S
+#3718
+Unused~
+~
+0 2138116 0
+S
+#3719
+Deep in the Dungeons~
+The walls here in this part of the dungeon are fairly rough and even
+crumbling in some places.  A foul stench lingers in the air, nearly making
+you gag.  The source of the putrid odor appears to be coming from below,
+where a large pit serving as a dungeon cell lies.  A ladder leading down
+barely protrudes out from the dark pit. To the east lies a door and
+back to the west, lies another part of the dungeon.  
+~
+0 131084 0
+E
+sign~
+Down of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+~
+D1
+You see the next station of Mud School.
+~
+door~
+1 3714 3721
+D3
+~
+~
+0 0 3717
+D5
+~
+~
+0 0 3720
+M 200 H 200
+S
+#3720
+A Dark Cell Pit~
+This darkened pit serves as a very crude dungeon cell.  Only the most evil
+of all criminals ever get the luxury of being chained down here.  The walls
+are bare and there is no furniture, not even a cot to sleep on down here. 
+Glancing around the room, no buckets of water can be found either, nor any
+buckets to hold human waste.  The prisoners here are forced to live in their
+own filth.  The chains on these prisoners are much shorter than the ones up
+above, giving these criminals less room to move about.  Only a ladder on the
+opposite side of the prisoner leads up and out of here.  
+~
+0 131081 0
+D4
+~
+~
+0 0 3719
+S
+#3721
+Outside the Palanthas Dungeon~
+You find yourself outside of the Palanthas Dungeon, yet still below
+ground level.  To the north, lies some sort of gate which leads to a
+different part of Palanthas.  The ground leading to the gate rises up at a
+very steep climb.  All around you, large walls of cement and rock prevent
+you from going in any other direction.  Looking back in the direction in
+which took you here, to the west, lays a strong wooden door.  To the north
+also lays a strong wooden door which leads out into the arena.  
+~
+0 131080 0
+E
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+You see the Arena ahead.
+~
+gate~
+1 -1 3722
+D3
+~
+~
+1 0 3719
+S
+#3722
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3723
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3728
+D1
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3724
+South West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3725
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3726
+South East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3725
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3727
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3728
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3729
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3728
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3730
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3735
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3729
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3731
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 3
+D0
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3730
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3732
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3733
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3738
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3734
+Center of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  There is a BIG SIGN here.  
+~
+0 8 0
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3729
+D3
+~
+~
+0 0 3733
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+D5
+You see a dark murky dungeon below.
+~
+grate~
+1 -1 3748
+S
+#3735
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3740
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3730
+D3
+~
+~
+0 0 3734
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3736
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3735
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3737
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3738
+D2
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3738
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3743
+D1
+~
+~
+0 0 3739
+D2
+~
+~
+0 0 3733
+D3
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3739
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3744
+D1
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3734
+D3
+~
+~
+0 0 3738
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3740
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3745
+D1
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3739
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3741
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D0
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3740
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3742
+North West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3743
+D2
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3743
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  You can barely see the ceiling.  You feel as if you are being
+watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3744
+D2
+~
+~
+0 0 3738
+D3
+~
+~
+0 0 3742
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3744
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3745
+D2
+~
+~
+0 0 3739
+D3
+~
+~
+0 0 3743
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3745
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D1
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3744
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3746
+North East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 8 0
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3745
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3747
+Glowing Tunnel~
+If you find yourself in this room, notify an Immortal or write a NOTE if
+one is not present.  
+~
+0 2138116 0
+S
+#3748
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+D0
+You see the north wall.
+~
+~
+0 0 3750
+D1
+You see the east wall.
+~
+~
+0 0 3753
+D2
+You see the south wall.
+~
+~
+0 0 3755
+D3
+You see the west wall.
+~
+~
+0 0 3752
+D4
+You see safety!
+~
+grate~
+1 -1 3734
+S
+#3749
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D1
+You see the north wall.
+~
+~
+0 0 3750
+D2
+You see the south wall.
+~
+~
+0 0 3752
+S
+#3750
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D1
+You see the northeast corner.
+~
+~
+0 0 3751
+D2
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D3
+You see the northwest corner.
+~
+~
+0 0 3749
+S
+#3751
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D2
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the north wall.
+~
+~
+0 0 3750
+S
+#3752
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D0
+You see the north west corner.
+~
+~
+0 0 3749
+D1
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D2
+You see the southwest corner.
+~
+~
+0 0 3754
+S
+#3753
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D0
+You see the northeast corner.
+~
+~
+0 0 3751
+D2
+You see the southeast corner.
+~
+~
+0 0 3756
+D3
+You see the center of the dungeon.
+~
+~
+0 0 3748
+S
+#3754
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D0
+You see the north wall.
+~
+~
+0 0 3752
+D1
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3755
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D0
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D1
+You see the southeast corner.
+~
+~
+0 0 3756
+D3
+You see the southwest corner.
+~
+~
+0 0 3754
+S
+#3756
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack
+of any windows in the area explains the smell around you.  
+~
+0 9 0
+D0
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3757
+The Educational Path in the Hall of Knowledge~
+This small path in the glade is part of an educational area.  Many of
+Krynn's citizens can give useful information by talking to them.  By typing
+'list', one can see a list that a shopkeeper has for sale.  By continuing to
+read the signs and heading north, one can learn more about how to maneuver
+around Krynn.  To the east, a Guild Hall has arrayed itself for practicing
+by eager new entrants.  To the west, a trainer awaits with new material for
+those who wish to become stronger, faster, and smarter.  The trainer, along
+with the guildmaster in the Guild Hall, is willing to train unlearned
+individuals in the various classes available.
+
+A sign has been placed here. (type 'look sign' to read it).
+~
+0 131084 1
+E
+sign~
+The brackets <> around the words below indicate a word that one can
+specify particular to the preferred target, NOT actual symbols that
+one must type in.
+
+Basic Commands:
+{x  look <target>  - examine signs, items, monsters, and people.
+{x  get <item>     - pick up an object
+{x  who            - see a list of all the visible players
+{x  score or sco   - information about the character
+
+Communication Commands:
+{x  say <message> - this will cause one to say something aloud to the room.
+{X
+{X  pray <text> - this command allows one to contact all online immortals.
+{x                Read 'help pray' before using this command.
+{x
+{x  tell <player> <text> - this command allows one to send a private OOC
+{x       message to anyone in the world no matter where they are.  The name
+{x       of the player can be abbreviated. Ex.: 'tell Hiddukel Hello!'
+{x       can be abbreviated by typing 'tell hidd Hello!'.
+{x
+Visit the training rooms to increase attributes and to hone your
+skills and spells, by heading to the WEST and EAST of here and follow
+the instructions.  After that, return here and continue north.
+
+Important: Read 'Help Newbie'
+~
+D0
+You see the next station of Mud School.
+~
+~
+0 0 3701
+D1
+You see Zump's Guild Room.  Go there to practice your skills.
+~
+~
+0 0 3759
+D2
+You see the entrance to Mud School.
+~
+~
+0 0 3700
+D3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0 0 3758
+S
+#3758
+The Novice Adventurer's Training Hall~
+This training hall is filled with many different accoutrements that
+people could use to better themselves.  Large weights, body wraps, many
+different books, and a variety of odds and ends designed to help one improve
+oneself, are organized throughout the hall.  To the east, the room opens
+back out to the path through the Hall of Knowledge.  
+ 
+A sign gives directions on how to use the training hall.
+~
+0 131084 1
+E
+sign~
+Welcome to the Novice Adventurer's Training Hall.
+
+This place is one where personal attributes can be increased through
+rigorous training. To train an attribute, one needs trains. To find out
+how many training sessions one has, type 'train'.
+
+To train a specific attribute, type 'train attribute' where attribute
+is the first 3 letters of the attribute to be increased. Type 'help train'
+for more information.
+
+(STR) Strength - Affects how much one can carry and damage dealt out.
+(INT) Intelligence - Affects mana and how quickly one can learn skills.
+(WIS) Wisdom - Affects how many practice sessions one gains at each level.
+(DEX) Dexterity - Affects how often one gets hit.
+(CON) Constitution - Affects how many hitpoints one gains per level.
+(CHR) Charisma - Shows how attractive one appears to others.
+
+Training halls are open to all classes and are not restrictive on
+membership.
+
+To see a character's status, type 'sco' for score.
+~
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 3757
+S
+#3759
+The Guild of Knowledge~
+You step into the guild section of the library.  It is lined with books
+dedicated to training people in the arts of combat. There are rows and rows
+of combat related books and training weapons that can be rented for a short
+time to allow the public to sharpen their skills in combat.  
+ 
+There is a sign on the wall
+~
+0 131084 1
+E
+sign~
+Welcome to the Guild of Knowledge
+ 
+This place is one where anyone may come to sharpen their skills and spells.
+To practice skills and spells, one needs practices first. To find out what
+skills and spells you can practice, and to find out how many practice
+sessions you have left, type 'practice'
+ 
+To practice specific skills and spells, type 'practice <skill or spell>'
+The brackets are not to be typed, they are there only to indicate a
+specific target you must type in.
+ 
+Practicing a skill or spell will increase your percentage <%> of that skill
+or spell up to a maximum of 75%. To increase spells and skills higher than
+75%, one must actually use the skill or spell throughout one's adventures.
+For every 1 practice, your skill will go up that percentage based mostly
+on how well your intelligence is <INT>. If you haven't done so already,
+it is suggested that you go back west and head west once more into the
+Training hall first. If you have a low INT, then it will cost you
+more Practices to get a skill or spells' percentage up.
+ 
+Once you are done here, head back west into the Hall of Knowledge.
+~
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 3757
+S
+#3760
+A Safe Room~
+You are in a safe room, away from all the mean rabbits and snails of the
+Arena.  You can rest here, and go up back to the entrance to the temple of
+Paladine.  
+~
+0 12 0
+D4
+You see the Temple of Palanthas.
+~
+~
+0 0 3001
+S
+#3761
+The Age of Dreams~
+If you find yourself in this room, notify an Imm, or write a NOTE if one
+is not present.  
+~
+0 2138116 0
+S
+#3762
+The Time of Light~
+If you find yourself in this room, notify an Imm, or write a NOTE to
+immortals about it.  
+~
+0 2138116 0
+S
+#3763
+The Time of Knights~
+If you find yourself in this room, notify an Imm, or write a NOTE to
+immortals about it.  
+~
+0 2138116 0
+S
+#3764
+The Age of Might~
+If you find yourself in this room, notify an Imm, or write a NOTE to
+immortals about it.  
+~
+0 2138116 0
+S
+#3765
+The Age of Despair~
+If you find yourself in this room, notify an Imm, or write a NOTE to
+immortals about it.  
+~
+0 2138116 0
+S
+#3766
+The Time of Dragons~
+If you find yourself in this room, notify an Imm, or write a NOTE to
+immortals about it.  
+~
+0 2138116 0
+S
+#3767
+A large map room~
+If you find yourself in this room, notify an Immortal, or write a NOTE if
+one is not present.  
+~
+0 2138116 0
+S
+#0
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept
+M 3708 spec_cast_adept
+M 3709 spec_animal
+M 3714 spec_fido
+S
+
+
+
+#RESETS
+D 0 3700 2 1
+D 0 3719 1 2
+D 0 3721 0 1
+D 0 3721 3 2
+D 0 3734 5 1
+D 0 3748 4 1
+M 0 3717 1 3707 1
+G 0 3700 0
+G 0 3701 0
+G 0 3702 0
+G 0 3703 0
+G 0 3704 0
+G 0 3705 0
+G 0 3706 0
+G 0 3707 0
+G 0 3708 0
+G 0 3709 0
+G 0 3710 0
+G 0 3711 0
+G 0 3712 0
+G 0 3713 0
+G 0 3715 0
+G 0 3716 0
+G 0 3717 0
+G 0 3718 0
+G 0 3719 0
+G 0 3720 0
+G 0 3721 0
+G 0 3722 0
+G 0 3723 0
+G 0 3724 0
+G 0 3725 0
+G 0 3726 0
+G 0 3727 0
+G 0 3728 0
+G 0 3729 0
+G 0 3730 0
+M 0 3721 1 3708 1
+G 0 3731 0
+G 0 3732 0
+G 0 3733 0
+G 0 3734 0
+G 0 3735 0
+O 0 3737 0 3709
+M 0 3701 1 3710 1
+M 0 3707 1 3712 1
+M 0 3704 1 3713 1
+E 0 3707 0 8
+E 0 3712 0 17
+M 0 3705 1 3714 1
+E 0 3708 0 11
+E 0 3713 0 18
+M 0 3703 1 3715 1
+E 0 3706 0 6
+E 0 3711 0 16
+M 0 3702 1 3716 1
+E 0 3705 0 3
+E 0 3705 0 4
+M 0 3717 1 3718 1
+G 0 3138 0
+G 0 3031 0
+M 0 3708 1 3719 1
+M 0 3706 1 3720 1
+E 0 3709 0 12
+E 0 3710 0 13
+E 0 3713 0 18
+G 0 3714 0
+M 0 3720 1 3721 1
+E 0 3715 0 21
+M 0 3713 5 3724 5
+M 0 3712 3 3726 3
+M 0 3711 1 3726 1
+M 0 3711 1 3726 1
+M 0 3709 4 3734 4
+M 0 3710 3 3742 3
+M 0 3711 3 3746 3
+M 0 3714 1 3749 1
+M 0 3715 2 3751 2
+M 0 3716 2 3754 2
+M 0 3718 1 3758 1
+M 0 3719 1 3759 1
+S
+
+
+
+#SHOPS
+3717 5 15 17 19 9 100 100 0 23
+3721 0 0 0 0 37 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

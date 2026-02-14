@@ -1,0 +1,759 @@
+#PLAYER
+Name Malakyth~
+Surname Torgoth~
+Email none~
+Id   1049745037
+LogO 1076078982
+Vers 10
+Act  CDGHRT
+Desc Before you stands a dark figure in robes, as he walks it seems like the
+shadows follow and protect him from everyone who tries to look at him, but
+still you can see that he is tall and his eyes... his eyes are dark, dark
+like the night of the underworlds... From the little you see, you can
+figure out that he is not a warrior but still he seems to be someone we
+don't want to face...
+Some sort of power emanates from his body and makes you feel
+uncomfortable...
+~
+Prom {r%h/%H {b%m/%M {g%v/%V {y%X {w%e{r> ~
+Race silvanesti~
+Org 2
+Devotee 20
+Sex  1
+Cla  11
+Hmtown 0
+Levl 76
+recall_point 3001
+Levscale 30
+Xptolev  175492
+Sec  0
+Plyd 1102318
+Not  1075158830 1075299898 0 1075299894 1075299901
+Scro 22
+Room 3000
+HMV  1155 1221 285 1060 552 553
+Steel 984
+Gold 30
+Bank 12900
+Exp  3000108
+AfBy BDEFGJ
+Deaths 29
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3538944
+Comm NO
+Pos  8
+Prac 49
+Trai 1
+Save  -11
+Alig  -991
+Ethos 2
+Hit   29
+Dam   32
+ACs -434 -434 -434 -344
+Wimp  150
+Attr 20 25 22 17 22 16
+AMod 5 2 9 12 6 2
+Pass MaPs//dEHA1EA~
+Titl  - The Bringer of Death~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 300
+HMVP 996 1040 553
+Cnd  0 54 64 0
+QuestPnts 458
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 95 'blindness'
+Sk 95 'burning hands'
+Sk 70 'change sex'
+Sk 1 'chill touch'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 98 'detect good'
+Sk 77 'detect magic'
+Sk 75 'detect poison'
+Sk 100 'dispel magic'
+Sk 81 'energy drain'
+Sk 1 'orb of containment'
+Sk 91 'harm'
+Sk 89 'life transfer'
+Sk 97 'infravision'
+Sk 99 'invisibility'
+Sk 77 'know alignment'
+Sk 95 'magic missile'
+Sk 100 'aid'
+Sk 99 'plague'
+Sk 75 'poison'
+Sk 100 'protection good'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 98 'word of recall'
+Sk 88 'acid breath'
+Sk 100 'dagger'
+Sk 92 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 88 'traject'
+Sk 79 'mount'
+Sk 100 'shadow walk'
+Sk 86 'animate corpse'
+Sk 91 'fear'
+Sk 100 'horrid wilting'
+Sk 53 'paralysis'
+Sk 100 'vampiric touch'
+Sk 100 'undead disruption'
+Sk 81 'nightmare'
+Sk 84 'cavorting bones'
+Sk 100 'enervation'
+Sk 88 'remove paralysis'
+Sk 100 'cantrip'
+Sk 81 'disintegrate'
+Sk 100 'wraithform'
+Sk 1 'word of death'
+Sk 87 'coldfire'
+Sk 75 'brew'
+Sk 87 'scribe'
+Sk 76 'battle tactics'
+Sk 89 'knock'
+Sk 90 'drain rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 93 'scrolls'
+Sk 43 'staves'
+Sk 81 'wands'
+Sk 50 'recall'
+Sk 70 'cloak of starlight'
+Sk 100 'dark taint'
+Sk 96 'drain blood'
+Sk 1 'forget'
+Sk 78 'forgedeath'
+Sk 75 'preservation'
+Sk 75 'seal door'
+Sk 76 'unseal door'
+Sk 85 'jab'
+Sk 98 'detect presence'
+Sk 75 'preserve dead'
+Sk 75 'ray of fatigue'
+Sk 100 'surge'
+Sk 90 'endure'
+Sk 76 'boil blood'
+Sk 88 'great wasting'
+Sk 94 'coldlight'
+Sk 93 'resist cold'
+Sk 100 'deadeye'
+Sk 79 'renew bones'
+Sk 100 'breath of the dead'
+Sk 100 'intensify death'
+Sk 82 'deafness'
+Sk 100 'trance'
+Sk 99 'gift'
+Sk 100 'staff'
+Sk 75 'unholyrite'
+Sk 1 'eyerub'
+Affc 'invisibility'   0  76  87   0   0          2
+Affc 'unholy armor'   6  73   6 -53  17          0
+Affc 'detect magic'   0  70  37   0   0         16
+Affc 'detect good'   0  72  38   0   0         64
+End
+
+#O
+Vnum 15213
+Nest 0
+Cond 100
+Wear 0
+Cost 5000
+End
+
+#O
+Vnum 17505
+Enchanted
+Nest 0
+ExtF 65
+Cond 58
+Mat  steel~
+Wear 19
+Lev  44
+Cost 30000
+Affc 'enchant armor'   1  35  -1  -5  17          0
+Affc 'reserved'   1  40  -1   2  19          0
+Affc 'reserved'   1  40  -1   1  18          0
+End
+
+#O
+Vnum 17505
+Enchanted
+Nest 0
+ExtF 65
+Cond 64
+Mat  steel~
+Wear 18
+Lev  43
+Cost 30000
+Affc 'enchant armor'   1  35  -1  -5  17          0
+Affc 'reserved'   1  40  -1   2  19          0
+Affc 'reserved'   1  40  -1   1  18          0
+End
+
+#O
+Vnum 17507
+Enchanted
+Nest 0
+ExtF 65
+Cond 76
+Mat  steel~
+Wear 8
+Lev  43
+Cost 40000
+Affc 'enchant armor'   1  35  -1  -4  17          0
+Affc 'reserved'   1  40  -1   2   2          0
+Affc 'reserved'   1  40  -1   1  18          0
+Affc 'reserved'   1  40  -1   1  19          0
+End
+
+#O
+Vnum 715
+Enchanted
+Nest 0
+ExtF 577
+Cond 95
+Wear 10
+Lev  33
+Cost 300
+Affc 'enchant armor'   1  35  -1  -5  17          0
+Affc 'reserved'   1  30  -1   1  27          0
+Affc 'reserved'   1  30  -1   1   2          0
+End
+
+#O
+Vnum 2956
+Nest 0
+Cond 97
+Mat  bone~
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 10619
+Nest 0
+Cond 88
+Mat  tin~
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 91
+Mat  oak~
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Enchanted
+Nest 0
+Cond 94
+Mat  oak~
+Wear 3
+Cost 0
+Affc 'reserved'   1  55  -1   4  19          0
+Affc 'reserved'   1  55  -1  50  13          0
+End
+
+#O
+Vnum 730
+Nest 0
+Cond 98
+Wear 7
+Cost 280
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 98
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 17551
+Enchanted
+Nest 0
+Cond 91
+Mat  silver~
+Wear 13
+Cost 100
+Affc 'reserved'   1  60  -1  -1  20          0
+Affc 'reserved'   1  60  -1   2   1          0
+Affc 'reserved'   1  60  -1   2  18          0
+Affc 'reserved'   1  60  -1   3  19          0
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 94
+Mat  gold~
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 17547
+Nest 0
+ExtF 16777216
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 5833
+Enchanted
+Nest 0
+Name black hooded cloak~
+ShD  {R(Bloody) {DBlack Hooded Cloak{x~
+Desc Here lies a black hooded cloak.~
+Cond 97
+Mat  oak~
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 17510
+Nest 0
+Cond 91
+Mat  steel~
+Wear 15
+Cost 60000
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 100
+Mat  silver~
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 97
+Mat  silver~
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 17551
+Nest 1
+Cond 100
+Mat  silver~
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 17547
+Nest 1
+ExtF 16777216
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 17555
+Nest 1
+Cond 100
+Mat  silver~
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 14510
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 92
+Mat  love~
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3048
+Nest 0
+Name black robes mage~
+ShD  {y(Gold Trimmed) {DBlack Robes{X~
+Desc Here lies the Black Robes of a Mage~
+ExtF 0
+Cond 97
+Mat  gold~
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1270
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 11892
+Nest 0
+Cond 100
+Wear 22
+Cost 121
+End
+
+#O
+Vnum 16180
+Nest 0
+ExtF 2576
+Cond 18
+Wear 20
+Cost 4600
+Val  0 6 10 7 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+Val  20 40 0 1 0
+End
+
+#O
+Vnum 16100
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+Val  200 184 0 0 0
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 57
+End
+
+#END

@@ -1,0 +1,616 @@
+#PLAYER
+Name Auran~
+Surname Bellerand~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1374628630
+LogO 1389654335
+Vers 10
+Act  CDGQTe
+Desc Here stands a young human boy perhaps just barely at the age to wander
+out on his own.  He stands up to a height of five feet, six inches and
+appears to be a lighter weight male of his species.  The boy is slender but
+shows some muscle tone to his body.  He has white skin, short and ruffled
+brown hair and blue eyes.  He wears a basic white button up cotton shirt and
+blue cotton pants.  He wears brown leather boots on his feet and uses a
+brown leather belt to support his pants.  He carries on his possession a
+wooden staff, a longsword attached on his left waist and a dagger attached
+to his right.  A coin pouch hangs on his right side and a backpack for
+carrying other equipment is worn on his back.  
+~
+Prom <%hhp %mm %vmv %B %b %X %x> ~
+Race human~
+Org 5
+Religion 8
+Sex  1
+Cla  4
+Hmtown 0
+Levl 51
+recall_point 3001
+Levscale 30
+Xptolev  4298
+Sec  0
+Plyd 38072
+Not  0 0 0 0 0
+Scro 22
+Room 17765
+HMV  1355 1355 727 727 414 414
+Steel 6840
+Gold 96892
+Bank 0
+Exp  524552
+AfBy H
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1441792
+Comm NO
+Pos  8
+Prac 260
+Trai 15
+Save  -19
+Alig  48
+Ethos 0
+Hit   46
+Dam   37
+ACs -219 -216 -234 -179
+Attr 15 13 13 13 13 35
+AMod 6 37 36 13 35 0
+Pass AuYo2yHk1ZFxc~
+Titl  the Lyricist~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 10
+HMVP 915 502 414
+Cnd  0 22 22 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias as tell kanis 'cure critical'~
+Alias ad tell krisantilith a 'mind shatter' ~
+Sk 75 'dispel magic'
+Sk 75 'summon'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 75 'shield block'
+Sk 93 'sword'
+Sk 100 'whip'
+Sk 1 'disarm'
+Sk 83 'dodge'
+Sk 100 'enhanced damage'
+Sk 77 'hand to hand'
+Sk 100 'kick'
+Sk 93 'parry'
+Sk 68 'trip'
+Sk 96 'second attack'
+Sk 1 'counter'
+Sk 1 'deathgrip'
+Sk 92 'dual wield'
+Sk 81 'play music'
+Sk 1 'mount'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 77 'fast healing'
+Sk 73 'haggle'
+Sk 75 'hide'
+Sk 100 'common'
+Sk 1 'lore'
+Sk 75 'sneak'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 77 'chant of battle'
+Sk 1 'chords of dissonance'
+Sk 70 'warding'
+Sk 70 'truefire'
+Sk 80 'tumble'
+Sk 61 'trammel'
+Sk 77 'serenade'
+Sk 46 'taunt'
+Sk 77 'bravado'
+Sk 1 'lull'
+Sk 1 'pacify'
+Sk 70 'banish'
+Sk 70 'salvation'
+Sk 1 'redirect'
+Sk 87 'acrobatics'
+Sk 1 'rally'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'singing'
+Sk 1 'dancing strike'
+Affc 'sanctuary'   0  95   6   0   0        128
+Affc 'aid'   0  96  13  10  18          0
+Affc 'bless'   0  96  96  12  18          0
+Affc 'bless'   0  97  96 -12  25          0
+Affc 'warding'   0  49   3 -75  17          0
+Affc 'chant of battle'   0  22   3   2   1          0
+Affc 'chant of battle'   0  22   3   2   2          0
+Affc 'chant of battle'   0  23   3 -10  17          0
+Affc 'dragon skin'   0  99   7 -40  17          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 97
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 99
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 13715
+Nest 0
+ExtF 256
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3345
+Nest 0
+Cond 100
+Wear 21
+Cost 450
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 100
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 9830
+Nest 0
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name @~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 94
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 99
+Wear 2
+Cost 15000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 98
+Wear 1
+Cost 15000
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 15211
+Nest 0
+ExtF 17039424
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 9832
+Nest 0
+ExtF 17039369
+Cond 89
+Wear -1
+Cost 7040
+Val  7 5 23 29 1
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16777224
+Cond 32
+Wear -1
+Lev  40
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 10684
+Nest 0
+Cond 94
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 1245
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16777224
+Cond 41
+Wear 20
+Lev  40
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#END

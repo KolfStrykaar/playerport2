@@ -1,0 +1,447 @@
+#PLAYER
+Name Teaweasel~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1391664489
+LogO 1394766294
+Vers 10
+Act  CDEFGHQTe
+Desc Tall, slender, his youth hangs on him like morning dew on a spring leaf. 
+He hasnt seen much of the cycle of the seasons, but he has followed the rise
+and fall of the moon, and watched both war, and fire set his ecosystem
+adrift.  He seeks knowledge.  He seeks remedy.  And if he cant find them, He
+seeks retribution.  
+~
+Prom <%hhp %mm %vmv> ~
+Race kagonesti~
+Devotee 11
+Sex  1
+Cla  7
+Hmtown 3
+Levl 18
+recall_point 17650
+Levscale 30
+Xptolev  4331
+Sec  0
+Plyd 42429
+Not  0 0 0 0 0
+Scro 22
+Room 13311
+HMV  280 280 303 303 202 202
+Steel 19
+Gold 2092
+Bank 0
+Exp  53719
+AfBy J
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2621440
+Comm NOQ
+Pos  8
+Alig  859
+Ethos 0
+ACs 24 10 17 66
+Attr 14 11 30 15 13 16
+AMod 3 3 4 5 7 0
+Pass Tebohbnak3.tk~
+Titl  the Islandwalker~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 10
+HMVP 230 288 202
+Cnd  0 40 50 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'create rose'
+Sk 1 'fireproof'
+Sk 1 'orb of containment'
+Sk 1 'life transfer'
+Sk 63 'storm of vengeance'
+Sk 1 'teleport'
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 15 'spear'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 11 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 13 'kick'
+Sk 7 'parry'
+Sk 1 'trip'
+Sk 16 'second attack'
+Sk 1 'sharpen'
+Sk 1 'deathgrip'
+Sk 1 'mount'
+Sk 1 'badberry'
+Sk 32 'goodberry'
+Sk 1 'breath of nature'
+Sk 1 'druidstaff'
+Sk 1 'earthmeld'
+Sk 73 'windspirit'
+Sk 48 'stonespirit'
+Sk 1 'summon insects'
+Sk 1 'natures embrace'
+Sk 1 'natures warmth'
+Sk 1 'pillify'
+Sk 1 'herbal discern'
+Sk 70 'bark skin'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 16 'battle tactics'
+Sk 32 'wear leather'
+Sk 19 'fast healing'
+Sk 6 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'drow tongue'
+Sk 100 'kagonesti tongue'
+Sk 47 'lore'
+Sk 1 'pick lock'
+Sk 100 'sneak'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'pass without trace'
+Sk 16 'purify'
+Sk 50 'jab'
+Sk 1 'sweep attack'
+Sk 1 'vermin plague'
+Sk 1 'vortex'
+Sk 1 'detect presence'
+Sk 1 'scout'
+Sk 1 'sticks to snakes'
+Sk 22 'quiet movement'
+Sk 1 'surge'
+Sk 60 'endure'
+Sk 79 'sparkshot'
+Sk 1 'sunray'
+Sk 1 'trance'
+Sk 29 'waterlungs'
+Sk 1 'fireseed'
+Sk 1 'immolation'
+Sk 1 'pine needles'
+Sk 69 'staff'
+Sk 1 'eyerub'
+Sk 1 'wrath of nature'
+Sk 100 'instruct'
+Sk 1 'call of the wild'
+Sk 1 'tame'
+Sk 1 'entangle'
+Sk 1 'plant growth'
+Sk 1 'treeform'
+Sk 1 'quicksand'
+Sk 1 'windtalk'
+Sk 1 'wilderness lore'
+Sk 1 'beastspite'
+Affc 'bark skin' -16435  18   8 -29  17          0
+Affc 'windspirit'   0  18  17   1   2          0
+Affc 'stonespirit'   0  18  18   1   5          0
+End
+
+#O
+Vnum 1252
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 11218
+Nest 0
+Cond 90
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 48 0 0 0
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 9
+Cost 150
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 100
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 2527
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 11266
+Nest 0
+Cond 96
+Wear 20
+Cost 500
+End
+
+#O
+Vnum 11277
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 11277
+Nest 0
+Cond 100
+Wear 0
+Cost 100
+Val  0 0 5 0 0
+End
+
+#O
+Vnum 9010
+Nest 0
+Cond 100
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 9010
+Nest 0
+Cond 100
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  23 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  23 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  23 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  23 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  23 5 0 0 0
+End
+
+#END

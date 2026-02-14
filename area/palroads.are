@@ -1,0 +1,3111 @@
+#AREADATA
+Name Palanthian Roads~
+Builders Hiddukel~
+Continent Solamnia~
+Controlby 1~
+Faction 250~
+Sector 0
+VNUMs 900 1199
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#902
+black wyvern~
+a black wyvern~
+A small black Wyvern stands here keeping it's eyes upon you.
+~
+A creature very similar to a dragon except it only has four limbs, 2 legs
+and 2 wings.  It is much smaller than a dragon as well, just a bit bigger
+than a baby dragon.  It's eyes appear to be glowing a fiery red, as it
+stares at you in return, waiting for you to make the first move.  
+~
+wyvern~
+AG DFT -250 0
+35 35 71d11+354 35d10+85 11d3+22 bite
+-13 -13 -13 -6
+CFH L C S
+stand stand none 900
+ABGZ ACDEFHJKQVX L unknown 0
+#918
+uronia herbalist~
+Uronia the Herbalist~
+Uronia the Herbalist stands here waiting to sell you something.
+~
+Long wavy brown hair flows down to her frail shoulders.  Long pointy
+ears protrude, giving away her identity.  Her lips purse together at your
+approach, in anticipation that you'll purchase something from her.  
+~
+elf~
+AB DFJ 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 Z
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#922
+blymyr~
+Blymyr~
+Blymyr stops tinkering and waddles over to you, a grin playing across his face.
+~
+Black soot covers him from head to toe.  Through the dirt and grime, he
+appears to be very young, with short brown hair and black eyes.  A simple
+pair of leather boots, a set of trousers and a thick leather apron is all
+that he wears.  A large grin from ear to ear portrays across his face as he
+extends a hand to greet you.  
+~
+gnome~
+ABC DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 beating
+-91 -91 -91 -60
+FHJ ABCD 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#923
+diltheediy cook~
+Diltheediy the Cook~
+Diltheediy the Cook stands in the back, cooking up some fatty foods.
+~
+A short, fat woman she is, with long, braided red hair streaming down
+close to the dirt floor.  Her skin is a yellowish color, kind of flaky it
+seams.  Her eyes shine the color of deep red blood, wicked, yet soft.  
+~
+human~
+AB 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 digestion
+-91 -91 -91 -60
+CE ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#925
+cadarelle~
+Cadarelle~
+Cadarelle sits behind a small counter, repairing an old leather boot.
+~
+Age seams to be getting the best of this small, frail old woman.  Long
+and straight black hair with many shades of grey flows down to the small of
+her back.  A thick pair of spectacles are delicately wrapped around her
+head, framing her face as she examines a leather boot she appears to be
+repairing.  
+~
+human~
+ABC DFJ 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 scratch
+-91 -91 -91 -60
+IN ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#926
+usuen dwarf bartender~
+Usuen the Bartender~
+Usuen the Bartender stands here serving fresh beer and ale.
+~
+He is fairly tall for a dwarf with a fat build.  Short brown hair covers
+his head in a messy fashion.  His skin is a grayish color which appears to be
+also quite oily.  A set of large, deep brown eyes appear to be staring back
+at you.  
+~
+dwarf~
+ABC J 5 0
+150 150 301d50+4546 150d10+85 50d3+80 crush
+-91 -91 -91 -60
+CDJN ABCD LQ R
+stand stand male 5000
+AHMV ABCDEFGHIJK S unknown 0
+#945
+antelope~
+an antelope~
+An antelope stands here munching on some grass.
+~
+With horns and spots over coarse, brown hair, this beast is the spit and
+image of an antelope.  
+~
+fox~
+AG Z 150 0
+27 23 35d7+210 23d10+85 6d3+12 charge
+-1 -1 -1 3
+CDF 0 0 0
+stand stand male 450
+AGV ACDEFHJKQV M unknown 0
+F off H
+#953
+street cleaner~
+a street cleaner~
+A street cleaner stands here picking out the weeds in the road.
+~
+You find yourself looking at a middle aged human, bent over and picking
+out the weeds protruding from the cracks in the cobblestone street.  The
+only thing he carries is a small bag in which he puts the weeds he's picked
+into.  
+~
+human~
+AB V 250 0
+25 25 51d8+253 25d10+85 8d3+17 chop
+-7 -7 -7 -1
+IJQ 0 0 0
+stand stand male 1200
+AHMV ABCDEFGHIJK M unknown 0
+#956
+elderly woman~
+an elderly woman~
+An elderly woman stands towards the back of the room, preparing a meal.
+~
+Her hair has long since turned white.  Wrinkles seem to have gotten the
+best of her, as well as old age, for she moves with speed that of a turtle. 
+She hums a gentle tune as she prepares a delicious meal.  
+~
+human~
+AB Hd 0 0
+20 20 41d6+203 20d10+85 6d3+15 beating
+-3 -3 -3 0
+0 0 0 0
+stand stand female 900
+AHMV ABCDEFGHIJK M unknown 0
+#959
+red robed mage~
+a {Rred{x robed mage~
+A {Rred{x robed mage stands here waiting to train magic users of all colors.
+~
+Although he dons the robes of the red moon Lunitari, he's still willing
+to aid all magic users of any color robe.  His dark blue eyes gleam with
+power and strength.  His hands, gently clasped behind his back as he awaits
+for you to stop staring and get training.  
+~
+human~
+ABKRb 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 magic
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#960
+highly trained knight~
+a highly trained knight~
+A highly trained knight stands here waiting to aid others in swordplay.
+~
+He dons a set of shiny silver armor and sports a well trimmed black
+mustache.  In his left hand he holds a large silver shield and in his right
+hand, he wields a well polished longsword.  He waits for you to stop staring
+at him so you may begin your training.  
+~
+human~
+ABKTb 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#961
+cloaked assassin~
+a well cloaked Assassin~
+A well cloaked Assassin stands here, offering his services to newcomers.
+~
+A thick black cloak completely covers his entire form, only a small
+opening in the hood shows his face, scarred and almost deformed.  In a
+flash, he produces a dagger seemingly out of nowhere and now stands behind
+you, blade to your throat.  
+~
+human~
+ABKb DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 thrust
+-91 -91 -91 -60
+BDEHN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#964
+cleric mishy~
+a cleric of Mishakal~
+A cleric of Mishakal stands here waiting to aid you in your training.
+~
+A white aura surrounds he delicate body.  Long blonde hair flows down all
+about her slender shoulders.  She holds an ancient staff of Mishakal,
+offering all she can to aid you in your skills and spells.  
+~
+human~
+ABKQb 0 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+N ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#983
+nasty troll~
+a mean troll~
+A mean and nasty looking troll stands here taunting you to do battle.
+~
+A foul smell emanates from his unclean body.  His fat chubby fingers are
+wrapped tightly around a short sword.  Aside from looking like he hasn't
+bathed in almost a decade, his face seems to have taken a beating.  Lumps
+and bruises cover his cheeks and forehead, as if he's just got in a fight. 
+Perhaps he just fell off the ugly tree and landed squarely on his head.  
+~
+troll~
+AB FJOc -250 0
+10 10 15d3+92 10d10+85 2d5+8 slice
+4 4 4 6
+JN 0 BE HK
+stand stand male 856
+ABHMV ABCDEFGHIJKUV L unknown 0
+F off D
+#985
+draconian guard~
+a Draconian guard~
+A mean looking Draconian guard stands here.
+~
+A rather mean looking Draconian stands here, its eyes flare dangerously,
+and it clacks its jaws as you approach, before pulling its weapon free and
+rushing toward you!!  
+~
+draconian~
+AGT Oc -1000 0
+35 35 53d11+319 35d10+85 10d3+16 claw
+-6 -6 -6 0
+EF Q ELP 0
+stand stand none 0
+AHMVX ABCDEFGHIJKPQUVWX L unknown 0
+F imm P
+F res M
+#990
+sivak draconian~
+A sivak draconian~
+A sivak draconian stands here waiting to fight someone.
+~
+Polished silver scales cover his entire body.  Along with his scaly body,
+he has a short, stubby tail and a lizard snout.  Large wings expand from his
+back, large enough to aid him in flying.  Razor sharp claws protrude from
+his massive hands, a weapon all by itself.  
+~
+draconian~
+ABT JOTc -1000 0
+45 45 68d15+410 45d10+85 12d3+20 claw
+-12 -12 -12 -2
+DHMNQR Q EIP 0
+stand stand male 2100
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res M
+#993
+bozak draconian~
+a bozak~
+A bozak draconian stands here looking fearsome.
+~
+Large wings protrude from his hunched back, although they don't appear to
+be large enough to sustain flight.  He has a bronze scaly hide, with a
+lizard like snout.  His razor sharp claws appear to be large enough to crush
+a human head with ease.  
+~
+draconian~
+ABQ JOVc -750 0
+35 35 53d11+319 35d10+85 10d3+16 claw
+-6 -6 -6 0
+EFJQR Q EJNP 0
+stand stand male 1800
+AHMVZ ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res M
+#1000
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#0
+
+
+
+#OBJECTS
+#900
+red herbs~
+{rred{x herbs~
+Some red herbs lie carelessly on the ground.~
+plant~
+pill S 0 AO
+10 'frenzy' '' '' ''
+15 2 500 P
+#901
+yellow herb~
+{Yyellow{x herbs~
+Some yellow herbs lie scattered about carelessly.~
+plant~
+pill S 0 AO
+15 'detect magic' 'detect invis' '' ''
+20 1 1200 P
+#902
+pinkish herbs~
+{Mpinkish{x herbs~
+Some pinkish herbs lie scattered about carelessly on the ground.~
+plant~
+pill S 0 AO
+16 'giant strength' 'reserved' 'reserved' 'reserved'
+18 2 1050 P
+#903
+purple herbs~
+{mpurple{x herbs~
+A few purple herbs lie scattered about carelessly on the ground.~
+plant~
+pill S 0 AO
+20 'haste' '' 'reserved' 'reserved'
+25 2 1400 P
+#904
+sugar cream puff~
+a sugar cream puff~
+A fatty sugar cream puff lies here, waiting to fatten you up.~
+unknown~
+food 0 0 AO
+ACD BD 0 0 0
+5 1 650 P
+#905
+large box~
+a large box~
+A large box lies in the middle of the room.~
+hickory~
+container O 0 0
+3000 0 0 3000 3000
+0 0 0 P
+E
+box~
+" LOST AND FOUND "
+~
+#906
+gate cube~
+a gate cube~
+A gate cube lies here.~
+gemstone~
+warp_stone PT 0 AO
+0 0 0 0 0
+10 5 250 P
+#907
+long coat~
+a Long coat~
+A long coat with many pockets lies crumpled on the ground.~
+cloth~
+container SY 0 AK
+3 E 0 3 10
+15 10 250 P
+#908
+slice roast beef~
+a slice of roast beef~
+A slice of delicious roast beef lies here.~
+unknown~
+food 0 0 AO
+ADE CE 0 0 0
+5 2 980 P
+#909
+slab pork~
+a slab of pork~
+A slab of pork, the other other white meat, lies here.~
+unknown~
+food 0 0 AO
+ABCD ACD 0 0 0
+5 2 700 P
+#910
+glass beer~
+a glass of beer~
+A glass of beer lies here, better get it before it spills.~
+glass~
+drink 0 0 AO
+2 2 'beer' 0 0
+0 1 450 P
+#911
+bottle distilled spirits~
+a bottle of distilled spirits~
+A bottle of distilled spirits lies here.~
+glass~
+drink 0 0 AO
+4 4 'firebreather' 0 0
+0 2 650 P
+#912
+shot rum~
+a shot of rum~
+A shot of rum nearly spills on the ground here.~
+glass~
+drink 0 0 AO
+1 1 'rum' 0 0
+10 1 960 P
+#913
+mug ale~
+a mug of ale~
+A mug of ale has been drunkenly discarded here.~
+wood~
+drink 0 0 AO
+3 3 'ale' 0 0
+8 2 850 P
+#914
+speed boots~
+boots of speed~
+A pair of boots appears to blur before your eyes.~
+leather~
+armor BSY 0 AGY
+AB AC C 0 0
+15 2 1500 P
+A
+2 3
+E
+boot speed~
+It is hard to tell exactly what these boots look like.  They are moving
+way too fast to get a good look.  They are made of strong leather and have
+some indistinguishable runes marked on them.  
+~
+#915
+comfortable walking shoes~
+a pair of walking shoes~
+A comfortable pair of shoes can be seen before you.~
+soft leather~
+armor SY 0 AGY
+AC ABC BC B 0
+25 2 1350 P
+A
+14 50
+E
+walking shoes~
+Made of extremely soft leather, these walking shoes are perfect for
+travelers.  The soles are made of thick black leather, and the upper is made
+of soft, supple leather that has been dyed brown.  
+~
+#916
+exploding staff~
+an exploding staff~
+An odd staff of Gnomish design lies here.~
+maple~
+staff SVY 0 AO
+10 2 1 'fireball' 0
+25 5 1200 P
+E
+exploding staff~
+This staff is obviously of gnomish design.  There are knobs and switches
+all over it.  The staff is more of a pipe than a staff and there is no
+telling what is inside of the pipe.  
+~
+#917
+water fountain~
+a water fountain~
+A large water fountain spurts out water into the road.~
+stone~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+water~
+{B                      .      .       .       .{x
+{B  .   .       .          .      . .      .         .          .    .{x
+{B         .       .         .    .   .         .         .            .{x
+{B    .   .    .       .         . . .        .        .     .    .{x
+{B .          .   .       .       . .      .        .  .              .{x
+  {B    .  .    .  .       .     . .    .       . .      .   .        .{x
+{B .   .       .    . .      .    . .   .      .     .          .     .{x
+   {B .            .    .     .   . .  .     .   .               .{x
+    {B .               .  .    .  . . .    .  .                 .{x
+                       {B . .  .  . . .  . .{x
+                           {B . . . . . .{x
+                             {B . . . .{x
+                               I . I
+                 _______________III_______________
+                /    .       .       .       .    \
+               ( --- .  ---  .  ---  .  ---  . --- )
+                 \SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS/
+                    \ ======================= /
+                        \SSSSSSSSSSSSSSSSS/
+                     ________\       /________
+                    (=+=+=+=+=+=+=+=+=+=+=+=+=)
+                     -------------------------
+ 
+~
+E
+fountain~
+{B                      .      .       .       .{x
+{B  .   .       .          .      . .      .         .          .    .{x
+{B         .       .         .    .   .         .         .            .{x
+{B    .   .    .       .         . . .        .        .     .    .{x
+{B .          .   .       .       . .      .        .  .              .{x
+  {B    .  .    .  .       .     . .    .       . .      .   .        .{x
+{B .   .       .    . .      .    . .   .      .     .          .     .{x
+   {B .            .    .     .   . .  .     .   .               .{x
+    {B .               .  .    .  . . .    .  .                 .{x
+                       {B . .  .  . . .  . .{x
+                           {B . . . . . .{x
+                             {B . . . .{x
+                               I . I
+                 _______________III_______________
+                /    .       .       .       .    \
+               ( --- .  ---  .  ---  .  ---  . --- )
+                 \SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS/
+                    \ ======================= /
+                        \SSSSSSSSSSSSSSSSS/
+                     ________\       /________
+                    (=+=+=+=+=+=+=+=+=+=+=+=+=)
+                     -------------------------
+~
+#919
+gnimsh instant fortress~
+{x Gnimsh's instant fortress~
+Gnimsh seems to have dropped something here, a fortress of some sort.~
+granite~
+furniture GSY 0 AO
+A DEFHIJL IL ABC ABC
+40 25 3500 P
+E
+gnimsh instant fortress~
+This fortress is a gnomish wonder.  Meaning its a wonder it works..... 
+The fortress is made of thin granite tiles that are easy to carry.  The
+tiles interlock together once the user finds some level ground to build it
+on.  
+~
+#923
+glazed chicken~
+a glazed chicken~
+A glazed chicken lies on the ground.~
+unknown~
+food 0 0 AO
+ABF AF 0 0 0
+5 2 1300 P
+E
+glazed chicken~
+The steam is still rising from this freshly basted, roasted, and glazed
+chicken.  There is plenty of meat on this golden brown chicken.  
+~
+#1000
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+100 0 0 P
+#0
+
+
+
+#ROOMS
+#1024
+The Abandoned Temple of the Mantis~
+This humble monastery has fallen into disrepair; the monks that once
+resided here having been driven out by the Seekers prior to the War of the
+Lance.  The very picture of simple living, citizens of Dart still visit now
+and again for a small respite from their hard working day.  Local children
+tend to the weeds and occasionally take home a stone for good luck; the
+adults pay more attention to the shrine dedicated to Majere, believing that
+if their faith remains strong, the monks will one day return.  
+~
+0 8388608 34
+D2
+~
+~
+0 0 965
+S
+#1025
+Before a Dark Altar~
+Shadows hang dark and oppressive in this chamber, seeming to stifle what
+little light is cast by the few sputtering torches mounted in the walls.  An
+evil-looking altar stands at the chambers edge as a testament to the Queen
+of Darkness.  Here, the draconians of the citadel come to worship their dark
+Mistress and offer their devotions to her cause.  
+~
+0 8388617 42
+D3
+~
+~
+0 0 995
+S
+#900
+Along a dirt road~
+You find yourself standing among a well traveled dirt road.  To the west,
+the eastern gates of Palanthas start to come into full view and leading
+east, the dirt road continues through a rough patch of field.  A small
+lizard crawls nearby, flickering it's wicked tongue.  
+~
+0 0 2
+D1
+~
+~
+0 0 901
+D3
+~
+~
+0 0 3053
+S
+#901
+Along a dirt road~
+A few lizards scatter across the road, flickering their tongue in a
+wicked manner.  The road is comprised of hard packed dirt, a for sure sign
+of a well traveled one.  The road heads out to the east and west.  Heading
+west will take you back to the great city of Palanthas, and heading east
+takes you further along the road and eventually up to the great Dragon Blue
+Heights.  
+~
+0 0 2
+D1
+~
+~
+0 0 902
+D3
+~
+~
+0 0 900
+S
+#902
+Along a dirt road~
+A few lizards scatter across the road, flickering their tongue in a
+wicked manner.  The road is comprised of hard packed dirt, a for sure sign
+of a well traveled one.  The road heads out to the east and west.  Heading
+west will take you back to the great city of Palanthas, and heading east
+takes you further along the road and eventually up to the great Dragon Blue
+Heights.  
+~
+0 0 2
+D1
+~
+~
+0 0 903
+D3
+~
+~
+0 0 901
+S
+#903
+Along a dirt road~
+A few lizards scatter across the road, flickering their tongue in a
+wicked manner.  The road is comprised of hard packed dirt, a for sure sign
+of a well traveled one.  The road heads out to the east and west.  Heading
+west will take you back to the great city of Palanthas, and heading east
+takes you further along the road and eventually up to the great Dragon Blue
+Heights.  
+~
+0 0 2
+D1
+~
+~
+0 0 904
+D3
+~
+~
+0 0 902
+S
+#904
+Along a dirt road~
+A few lizards scatter across the road, flickering their tongue in a
+wicked manner.  The road is comprised of hard packed dirt, a for sure sign
+of a well traveled one.  The road heads out to the east and west.  Heading
+west will take you back to the great city of Palanthas, and heading east
+takes you further along the road and eventually up to the great Dragon Blue
+Heights.  
+~
+0 0 2
+D1
+~
+~
+0 0 905
+D3
+~
+~
+0 0 903
+S
+#905
+Before the Dragon Blue Heights~
+The dirt road appears to be rather narrow here.  Looking on eastward, the
+great Blue Dragon Heights can be made out, standing tall, it's peak reaching
+into and above the clouds.  A trail can clearly be made out heading up along
+it's side.  To the west, the dirt road continues on westward, leading to the
+fabled city of Palanthas.  
+~
+0 0 2
+D1
+~
+~
+0 0 906
+D3
+~
+~
+0 0 904
+S
+#906
+At the base of Dragon Blue Heights~
+Before you looms the towering Blue Dragon Heights.  Thick trees crawl up
+it's base, leading all the way to the top, somewhere up in the clouds.  The
+deafening sounds of nature fill your ears, the sounds of birds chirping and
+squirrels frolicking to and fro.  The trail appears to head north, up the
+slowly climbing up the side of the mountains.  It also leads west, down a
+well traveled dirt road leading all the way to Palanthas.  
+~
+0 0 4
+D0
+~
+~
+0 0 907
+D3
+~
+~
+0 0 905
+S
+#907
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense parameter.  The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D0
+~
+~
+0 0 908
+D2
+~
+~
+0 0 906
+S
+#908
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense parameter.  The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D0
+~
+~
+0 0 909
+D2
+~
+~
+0 0 907
+S
+#909
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense parameter.  The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D0
+~
+~
+0 0 910
+D2
+~
+~
+0 0 908
+S
+#910
+Up around an impasse~
+Coming around a bench up the side of the Blue Dragon Heights, the path
+seems to be quite difficult to travel upon.  Large sticks and thick patches
+of brush tangle all about your feet.  In both directions, the trail appears
+to be heading downwards, further along the Dragon Blue Heights.  
+~
+0 0 5
+D1
+~
+~
+0 0 911
+D2
+~
+~
+0 0 909
+S
+#911
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense perimeter. The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D1
+~
+~
+0 0 912
+D3
+~
+~
+0 0 910
+S
+#912
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense perimeter.  The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D1
+~
+~
+0 0 913
+D3
+~
+~
+0 0 911
+S
+#913
+Along Dragon Blue Heights~
+The trail appears to be sloping up into the side of the mountain, making
+travel a bit difficult, with the thick trees and heavy brush acting as the
+mountains defense perimeter.  The sounds of nature echo throughout the
+lands, birds chirping, crickets croaking and many other creatures, known and
+unknown to mankind, making all sorts of noises.  
+~
+0 0 5
+D1
+~
+~
+0 0 914
+D3
+~
+~
+0 0 912
+S
+#914
+Along Dragon Blue Heights~
+Vast trees loom all around you, as well as the towering mountains of Dragon
+Dragon Blue Heights.  The road appears to be snaking along side the
+mountain, but not on it, making it easier to walk upon.  The sounds of birds
+chirping and the occasional squirrel darting to and fro, fills your ears.  
+~
+0 0 5
+D1
+~
+~
+0 0 915
+D3
+~
+~
+0 0 913
+S
+#915
+Along Dragon Blue Heights~
+Vast trees loom all around you, as well as the towering mountains of
+Dragon Blue Heights.  The road appears to be snaking along side the
+mountain, but not on it, making it easier to walk upon.  The sounds of birds
+chirping and the occasional squirrel darting to and fro, fills your ears.  
+~
+0 0 5
+D1
+~
+~
+0 0 916
+D3
+~
+~
+0 0 914
+S
+#916
+Along Dragon Blue Heights~
+Vast trees loom all around you, as well as the towering mountains of
+Dragon Blue Heights.  The road appears to be snaking along side the
+mountain, but not on it, making it easier to walk upon.  The sounds of birds
+chirping and the occasional squirrel darting to and fro, fills your ears.  
+~
+0 0 5
+D1
+~
+~
+0 0 917
+D3
+~
+~
+0 0 915
+S
+#917
+The only intersection in Ash~
+You find yourself at an intersection of one of the smallest villages in
+all of Krynn.  The village of Ash is compromised of two buildings, one to
+the north and one to the south.  To the east appears to only be a dead end
+of some sort, the road well blocked by massive boulders and fallen trees. 
+To the west, lies a smooth road leading into and in between Dragon Blue
+Heights, a vast and formidable mountain range.  
+~
+0 0 1
+D0
+~
+~
+0 0 918
+D1
+~
+~
+0 0 920
+D2
+~
+~
+0 0 919
+D3
+~
+~
+0 0 916
+S
+#918
+Herbal mixes and fixes~
+Towards the back of this small room sits a domed oven, an open fire, and
+several braziers tended by one very busy youth.  Rich fragrances of spices,
+heated fats, and oils all seam to overflow from the boiling pots.  Shelves
+line the walls with countless vials, pots, stoppered jars of stone and
+glass, and exquisite hand-blown bottles filled with herbs of every color.  
+~
+0 1032 1
+D2
+~
+~
+0 0 917
+S
+#919
+Lost and Found~
+A simple room made of a dirt floor and four white stone walls.  A large
+box in the center of the room, with the words reading "Lost and Found"
+written upon it.  
+~
+0 1032 1
+D0
+~
+~
+0 0 917
+S
+#920
+Outside the town of Ash~
+Before you looms large oak trees, their branches hanging over the road,
+shading it from most natural sources of light.  Large boulders are mixed
+into the dirt of the foothills that lead into the Palanthas mountain range. 
+A wooden sign is planted into the ground that indicates that you are close to
+the city of Ash, but no smoke or sound emits from the small village.  
+~
+0 0 5
+D1
+~
+~
+0 0 1018
+D3
+~
+~
+0 0 917
+S
+#921
+An intersection in Yarus~
+You find yourself standing in the middle of an intersection.  This
+intersection lies in the small village named Yarus.  Four tents can be seen,
+the only thing which seems to make up this village.  To the east, fried
+foods seem to be lingering out of the tent and to the west, surprising
+explosions can be heard, among other odd and curious noises.  
+~
+0 0 1
+D0
+~
+~
+0 0 13707
+D1
+~
+~
+0 0 923
+D2
+~
+~
+0 0 924
+D3
+~
+~
+0 0 922
+S
+#922
+A Gnome Tent~
+Upon entering this tent, contraptions and devices of the most odd designs
+nearly engulf you completely.  Metal spiders with long legs, miniature
+catapults, small contraptions with steam leaking out of them everywhere and
+many other weird inventions rest, walk around or make loud shrieking noises
+all over the room.  The room is so cluttered, it's a wonder as to how
+someone could possibly make their way about without tripping over something.
+Amongst the rubble of contraptions, a small and very dirty little man sits
+in what you think is the back; screwdriver in hand and tinkering around
+with a small metal box.  
+~
+0 8 1
+D1
+~
+~
+0 0 921
+D2
+~
+~
+0 0 925
+S
+#923
+A Food Stand~
+The smell of an assortment of fried foods and baked goods completely
+prostrate this small tent room from any other odors that may be present. 
+Glazed chickens hang from a wire rope that stretches across the room.  Large
+pies appear to be sitting out cooling off and many other foods sit around on
+tables and anywhere else they can be placed without the worry of ants
+getting to them.  
+~
+0 8 1
+D2
+~
+~
+0 0 926
+D3
+~
+~
+0 0 921
+S
+#924
+An intersection in Yarus~
+You find yourself standing in the middle of an intersection.  This
+intersection lies in the small village named Yarus.  Four tents can be seen,
+the only thing which seems to make up this village.  To the east, laughter
+and drunken singing can be hear, and to the west, the smell of leather
+bursts out into the open air.  
+~
+0 0 1
+D0
+~
+~
+0 0 921
+D1
+~
+~
+0 0 926
+D2
+~
+~
+0 0 13708
+D3
+~
+~
+0 0 925
+S
+#925
+Shoe and Boot Tent~
+Upon entering the tent, an eerie green light illuminates the room, giving
+you a clear display of a large rack completely filled with boots and shoes
+of all types.  The tent is made of canvas and the floor or dirt, sure signs
+of a makeshift shop, with a small wooden desk resting in the back of the
+room.  There appears to be two flaps leading out, one to the north and the
+other to the east.  
+~
+0 8 1
+D0
+~
+~
+0 0 922
+D1
+~
+~
+0 0 924
+S
+#926
+A Beer Garden~
+The sounds of laughter and drunken singing echo throughout this fairly
+large tent you have stumbled upon.  It appears to be some sort of beer
+garden, with patrons of all races standing around, drinking themselves
+pie-eyed.  A few tables made from Vallenwood trunks lie about serving as
+tables, with trunks from smaller trees serving as chairs.  There only
+appears to be one man doing the serving, a short little dwarf as a matter of
+fact.  
+~
+0 8 1
+D0
+~
+~
+0 0 923
+D3
+~
+~
+0 0 924
+S
+#927
+Vingaard Road~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on east leading to
+Palanthas, and west into the depths of the Vingaard Forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 3052
+D3
+~
+~
+0 0 928
+S
+#928
+Vingaard Road~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on east and west,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 927
+D3
+~
+~
+0 0 929
+S
+#929
+Vingaard Trail~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on east and west,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 928
+D3
+~
+~
+0 0 930
+S
+#930
+Vingaard Trail~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on east and west,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 929
+D3
+~
+~
+0 0 931
+S
+#931
+An Intersection in the Vingaard Forest~
+You find yourself standing at an intersection, your path blocked from any
+further progress to the west.  The path is only distinguishable as a band of
+crushed grass and broken twigs stretching away from you in patches.  Large
+trees lean over you, blocking out much of the light.  A rustling sound comes
+from the undergrowth, but you see nothing.  The road continues on to the
+north, south and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 932
+D1
+~
+~
+0 0 930
+D2
+~
+~
+0 0 967
+S
+#932
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 933
+D2
+~
+~
+0 0 931
+S
+#933
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 934
+D2
+~
+~
+0 0 932
+S
+#934
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 935
+D2
+~
+~
+0 0 933
+S
+#935
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D0
+~
+~
+0 0 936
+D2
+~
+~
+0 0 934
+S
+#936
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  The road
+leads west into a small section of the Vingaard Mountains and back south
+into it's thick forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 935
+D3
+~
+~
+0 0 937
+S
+#937
+Vingaard Mountains~
+You find yourself standing upon a short rise in the ground.  It appears
+to be a part of the Vingaard mountains, with sharp jagged rocks sticking up,
+inviting the careless traveler to trip and fall upon their death.  The path
+continues to slope down to the east and ventures upwards to the west.  
+~
+0 0 5
+D1
+~
+~
+0 0 936
+D3
+~
+~
+0 0 938
+S
+#938
+Vingaard Mountains~
+You find yourself standing upon a short rise in the ground.  It appears
+to be a part of the Vingaard mountains, with sharp jagged rocks sticking up,
+inviting the careless traveler to trip and fall upon their death.  Standing
+at what appears to be the peak, the trail slopes downward back into the
+thick forest.  
+~
+0 0 5
+D1
+~
+~
+0 0 937
+D3
+~
+~
+0 0 939
+S
+#939
+Vingaard Mountains~
+You find yourself standing upon a short rise in the ground.  It appears
+to be a part of the Vingaard mountains, with sharp jagged rocks sticking up,
+inviting the careless traveler to trip and fall upon their death.  The path
+continues to slope down westward and rises up to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 938
+D3
+~
+~
+0 0 940
+S
+#940
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  The road
+leads east into a small section of the Vingaard mountains and back north
+into it's thick forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 941
+D1
+~
+~
+0 0 939
+S
+#941
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 942
+D2
+~
+~
+0 0 940
+S
+#942
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 943
+D2
+~
+~
+0 0 941
+S
+#943
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 944
+D2
+~
+~
+0 0 942
+S
+#944
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 945
+D2
+~
+~
+0 0 943
+S
+#945
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D0
+~
+~
+0 0 946
+D2
+~
+~
+0 0 944
+S
+#946
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D0
+~
+~
+0 0 947
+D2
+~
+~
+0 0 945
+S
+#947
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 948
+D2
+~
+~
+0 0 946
+S
+#948
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 949
+D2
+~
+~
+0 0 947
+S
+#949
+Before the City of Dart~
+To the north, a short brick wall with no gates, just an opening looms
+before you.  A small sign has been posted in the dirt.  To the south, the
+road heads on into the great Vingaard forest, dark and uninviting.  
+~
+0 0 2
+D0
+~
+~
+0 0 950
+D2
+~
+~
+0 0 948
+S
+#950
+Central Dart~
+Tightly fitted cobblestones stretch wide along this street.  The stones
+are clean and well kept.  A few wooden posts with torches serve as street
+lights.  The street breaks off into four directions, leading to other parts
+of the town.  The town is quiet, almost appearing deserted.  
+~
+0 262144 1
+D0
+~
+~
+0 0 953
+D1
+~
+~
+0 0 951
+D2
+~
+~
+0 0 949
+D3
+~
+~
+0 0 952
+S
+#951
+Dartho District~
+You find yourself amidst the eastern district of the town.  The road is
+made of closely fitted cobblestone, with a few weeds poking through the
+cracks, an obvious sign this part of the city is not well groomed.  To the
+south, a small door emitting nothing but sheer darkness with a small dagger
+painted on top, gives evidence of the assassin's guild.  
+~
+0 262144 1
+D0
+~
+~
+0 0 962
+D2
+~
+~
+0 0 961
+D3
+~
+~
+0 0 950
+S
+#952
+Dartha District~
+You find yourself in the western district of the town.  The road is made
+of closely fitted cobblestone, with a few weeds poking through the cracks,
+an obvious sign this part of the city is not well groomed.  To the south
+lies the always alert and ready to fight, Knights Guild.  The road continues
+on to the north and to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 957
+D1
+~
+~
+0 0 950
+D2
+~
+~
+0 0 960
+S
+#953
+Central Dart~
+Tightly fitted cobblestones stretch wide along this street.  The stones
+are clean and well kept.  A few wooden posts with torches serve as street
+lights.  The street breaks off into four directions, leading to other parts
+of the town.  The town is quiet, almost appearing deserted.  
+~
+0 262144 1
+D0
+~
+~
+0 0 954
+D1
+~
+~
+0 0 962
+D2
+~
+~
+0 0 950
+D3
+~
+~
+0 0 957
+S
+#954
+Northern Dart~
+Tightly fitted cobblestones stretch wide along this street.  The stones
+are clean and well kept.  A few wooden posts with torches serve as street
+lights.  A large wall to the north blocks any further progress.  The street
+leads south, east and west into other districts.  
+~
+0 262144 1
+D1
+~
+~
+0 0 965
+D2
+~
+~
+0 0 953
+D3
+~
+~
+0 0 955
+S
+#955
+Dartha District~
+You find yourself in the western district of the town.  The road is made
+of closely fitted cobblestone, with a few weeds poking through the cracks,
+an obvious sign this part of the city is not well groomed.  To the west lies
+a small house, the street continuing on to the east and to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 954
+D2
+~
+~
+0 0 957
+D3
+~
+~
+0 0 956
+S
+#956
+A Citizen's House~
+You find yourself amidst a house owned by one of the Citizens of Dart.  A
+simple house it is, being of only one room.  The walls and ceiling have been
+painted a sky blue and the floor has been tiled in white.  A few pictures
+hang on the walls and a few chairs with a table in the center make up the
+majority of the furniture.  A house that would for surely bore a kender to
+death.  
+~
+0 262152 1
+D1
+~
+~
+0 0 955
+S
+#957
+Dartha District~
+You find yourself in the western district of the town.  The road is made
+of closely fitted cobblestone, with a few weeds poking through the cracks,
+an obvious sign this part of the city is not well groomed.  The road breaks
+into an intersection, leading in all directions to other parts of the town. 
+~
+0 262144 1
+D0
+~
+~
+0 0 955
+D1
+~
+~
+0 0 953
+D2
+~
+~
+0 0 952
+D3
+~
+~
+0 0 958
+S
+#958
+Dartha District~
+You find yourself in the western district of the town.  The road is made
+of closely fitted cobblestone, with a few weeds poking through the cracks,
+an obvious sign this part of the city is not well groomed.  The road
+continues on to the east and to the south, an open door with a few mystical
+signs above it, invite all whom practice the art of magic.  
+~
+0 262144 1
+E
+sign~
+The sign above the door reads: Spellfilchers Only!
+~
+D1
+~
+~
+0 0 957
+D2
+~
+~
+0 0 959
+S
+#959
+The Spellfilcher Guild~
+Spices and incense burn throughout the room, filling the air with an
+assortment of odors, some pleasant others overwhelming.  The room is
+composed of six walls, each with many arcane runes etched upon them.  A few
+glowing orbs illuminate the room enough for even a goblin to see its
+contents.  There doesn't appear to be any furniture at all, just the Guild's
+Master.  
+~
+0 263176 1
+D0
+~
+~
+0 0 958
+S
+#960
+The Knight's Guild~
+Large one-handed and two-handed swords dangle from the walls, as well as
+an assortment of shields and other various weapons.  A few practice dummies,
+made of hard leather and straw, lie about ready to aid a Knight in his
+fighting skills.  Students appear to be dueling one another in the back of
+the room, filling the air with the sharp sound of metal clanging together.  
+~
+0 263176 1
+D0
+~
+~
+0 0 952
+S
+#961
+The Assassin's Guild~
+Darkness surrounds you as you find yourself standing amidst the center of
+the Assassin's Guild.  A few daggers have been glued to plaques, with a few
+words written below and hang upon the walls.  Looking through the sheet of
+darkness and more closely at the back wall, it appears to have an array of
+trophies, although they appear to be heads.  Heads from previous
+assassinations to prove the Guild's strength and courage.  
+~
+0 262153 1
+D0
+~
+~
+0 0 951
+S
+#962
+Dartho District~
+You find yourself amidst the eastern district of the town.  The road is
+made of closely fitted cobblestone, with a few weeds poking through the
+cracks, an obvious sign this part of the city is not well groomed.  The
+street is an intersection, leading off into all four directions.  
+~
+0 262144 1
+D0
+~
+~
+0 0 965
+D1
+~
+~
+0 0 963
+D2
+~
+~
+0 0 951
+D3
+~
+~
+0 0 953
+S
+#963
+Dartho District~
+You find yourself amidst the eastern district of the town.  The road is
+made of closely fitted cobblestone, with a few weeds poking through the
+cracks, an obvious sign this part of the city is not well groomed.  To the
+south is an open doorway, with a painting of Mishakal over it, a sure sign
+of the Cleric's Guild.  
+~
+0 262144 1
+D2
+~
+~
+0 0 964
+D3
+~
+~
+0 0 962
+S
+#964
+The Cleric's Guild~
+A few figurines of Mishakal stand perched upon a few shelves that line
+the walls of the room.  A golden aura emanates from a soft, pulsating orb
+floating in the center, giving light to the room.  Towards the back, a bunch
+of incense sticks have been ignited, filtering through the air with their
+strong musky scent.  
+~
+0 262152 1
+D0
+~
+~
+0 0 963
+S
+#965
+Dartho District~
+You find yourself amidst the eastern district of the town.  The road is
+made of closely fitted cobblestone, with a few weeds poking through the
+cracks, an obvious sign this part of the city is not well groomed.  The
+sounds of animals being slaughtered can be heard coming from over in the
+eastern direction.  The main road continues on to the west and south, while
+a dirt path leads north toward an abandoned monastery.  
+~
+0 262144 1
+D0
+~
+~
+0 0 1024
+D1
+~
+~
+0 0 966
+D2
+~
+~
+0 0 962
+D3
+~
+~
+0 0 954
+S
+#966
+A Butcher's Shop~
+The floor of this shop is slick with blood.  Hanging above the butcher's
+counter are pieces of animals, butchered into choice cuts.  In the back of
+the shop you can see sides of pigs and cows and deer waiting to be cut into
+manageable pieces.  Nothing you buy here is cooked, so the citizens of Dart
+find this a cheaper way to get a meal, since they're not paying for the
+preparation, only the meat itself 
+~
+0 262152 1
+D3
+~
+~
+0 0 965
+S
+#967
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 931
+D3
+~
+~
+0 0 968
+S
+#968
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D1
+~
+~
+0 0 967
+D3
+~
+~
+0 0 969
+S
+#969
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D1
+~
+~
+0 0 968
+D3
+~
+~
+0 0 970
+S
+#970
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D1
+~
+~
+0 0 969
+D3
+~
+~
+0 0 971
+S
+#971
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D1
+~
+~
+0 0 970
+D2
+~
+~
+0 0 972
+S
+#972
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 971
+D2
+~
+~
+0 0 973
+S
+#973
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  To the south, it appears the ground
+starts to get a little mushy, perhaps a swamp lies up ahead.  
+~
+0 0 3
+D0
+~
+~
+0 0 972
+D2
+~
+~
+0 0 974
+S
+#974
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  To the north, the ground appears to be
+a bit mushy, perhaps a swamp lies up ahead.  
+~
+0 0 3
+D0
+~
+~
+0 0 973
+D2
+~
+~
+0 0 8301
+S
+#975
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+south leading through the Vingaard forest and to the north, through a murky
+bog.  
+~
+0 0 3
+D0
+~
+~
+0 0 8314
+D2
+~
+~
+0 0 976
+S
+#976
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever.  
+~
+0 0 3
+D0
+~
+~
+0 0 975
+D2
+~
+~
+0 0 977
+S
+#977
+Vingaard Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  The road continues on north and south,
+snaking through the Vingaard forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 976
+D2
+~
+~
+0 0 978
+S
+#978
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 977
+D2
+~
+~
+0 0 979
+S
+#979
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D0
+~
+~
+0 0 978
+D1
+~
+~
+0 0 980
+S
+#980
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever 
+~
+0 0 3
+D1
+~
+~
+0 0 981
+D3
+~
+~
+0 0 979
+S
+#981
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever 
+~
+0 0 3
+D2
+~
+~
+0 0 982
+D3
+~
+~
+0 0 980
+S
+#982
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever 
+~
+0 0 3
+D0
+~
+~
+0 0 981
+D3
+~
+~
+0 0 983
+S
+#983
+Vingaard Forest~
+Through the majestic trees of these thick woods, the deep earthiness of
+the forest permeates your senses, while a gentle hum of magic in the air
+pulses low and vibrant.  A shy nymph peeks inquisitively at you from behind
+a tree before disappearing with a titter.  All the lingering beauty of this
+thick forest conspires to charm you into staying here forever 
+~
+0 0 3
+D1
+~
+~
+0 0 982
+D3
+~
+~
+0 0 984
+S
+#984
+Vingaard Forest~
+Small, pink stones line both sides of the dirt path, clearly marking the
+way.  Stately trees rise up on both sides of the well-formed path, their
+boughs heavily laden with pretty pink blossoms.  The blossoms are strewn all
+over the path, blown from their home by the gentle breeze.  What is most
+enchanting about this place, however, is the butterflies which flutter
+throughout the trees, attracted by the sweet smelling blossoms.  Thousands
+of them dance in the light, their shimmering wings casting a myriad of
+rainbow hues throughout.  
+~
+0 0 3
+D1
+~
+~
+0 0 983
+D2
+~
+~
+0 0 985
+S
+#985
+Entrance into the Draco Citadel~
+You stand within the entrance to a great citadel.  The area about you
+smells strange, not pleasant, nor foul, just...  Different.  Massive torches
+hang from either side of the doorway, giving off strange shadows.  Halls
+extend from here to the south, west, and east, leading further into the
+citadel.  Heading north will take you out of this eerie place.  
+~
+0 12 0
+D0
+~
+~
+0 0 984
+D1
+~
+~
+0 0 986
+D2
+~
+~
+0 0 988
+D3
+~
+~
+0 0 987
+S
+#986
+A Narrow Hall~
+The air here is stagnant and the smell is similar to that of old books,
+not something exactly pleasing.  To the south, a small passage continues on,
+getting darker and darker.  Looking up, the ceiling doesn't appear to be all
+there, only a few parts which haven't collapsed.  
+~
+0 0 0
+D2
+~
+~
+0 0 995
+D3
+~
+~
+0 0 985
+S
+#987
+The Red Carpeted Hallway~
+The floor here is covered in plush red carpet, and the walls hold mounted
+torches, which cast an eerie feeling about the place.  No other source of
+light is visible.  The hall leads out of the Citadel to the east, and into
+another of the Citadel to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 985
+D2
+~
+~
+0 0 992
+S
+#988
+A Wide Hall~
+The hallway here is quite enormous, almost big enough for a dragon to
+squeeze through, with only two torches to light the entire length of it. 
+Air toward the southern end of the hall is much colder.  To the north,
+another hall extends out into the open entrance of the citadel.  Eerie
+shadows flit back and forth across the domed ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 985
+D2
+~
+~
+0 0 989
+S
+#989
+A Cold Hall~
+The air in this passage is unusually cold, and you cannot suppress a
+shiver.  To the north and south are smaller halls, above each turn is a
+torch, which burns brightly.  Two other passageways lead off to the east and
+west, down into separate hallways.  
+~
+0 8 1
+D0
+~
+~
+0 0 988
+D1
+~
+~
+0 0 993
+D2
+~
+~
+0 0 996
+D3
+~
+~
+0 0 990
+S
+#990
+An Intersection ~
+The hallway breaks into a three-way intersection here.  To the west lies
+an entrance into the Sivak barracks.  The door appears to be open, from
+which you can hear shuffling noises coming from with-in.  Back to the east,
+and north, red carpeted halls continue on throughout other areas of the
+citadel.  
+~
+0 8 0
+D0
+~
+~
+0 0 992
+D1
+~
+~
+0 0 989
+D3
+~
+~
+0 0 991
+S
+#991
+The Sivak Barracks~
+You find yourself standing inside a large barracks.  Along the walls lie
+dozens of beds, with mounted weapons racks above each of them.  A desk with
+a simple oak chair sits at the front of the room.  The only exit out is back
+east.  
+~
+0 8 1
+D1
+~
+~
+0 0 990
+S
+#992
+A Hallway~
+The hallway continues on north and south here.  Along the walls, the
+torches become closer and closer together, providing more comfortable light
+in the otherwise dim passage.  To the south, the hallway turns east and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 987
+D2
+~
+~
+0 0 990
+S
+#993
+A Cold Hall~
+The air is quite chilly in this region of the citadel.  The hall leads
+off into three different directions.  To the east, a large door with sounds
+of a commotion coming through comes into view, merely covered with a large
+black, velvet cloak.  The hallway continues on to the north and west,
+leading into other areas of the citadel.  
+~
+0 8 0
+D0
+~
+~
+0 0 995
+D1
+~
+~
+0 0 994
+D3
+~
+~
+0 0 989
+S
+#994
+The Bozak Barracks~
+You find yourself inside a barracks, with numerous beds lining up against
+the walls.  There are two desks in the room, one at either end and piled
+high with papers.  A few lanterns hang upon the walls, lighting up the room
+with a soft glow.  A few empty weapon racks sit towards the entrance.  
+~
+0 8 1
+D3
+~
+~
+0 0 993
+S
+#995
+A Small Side Passage~
+The short passage in which you find yourself in, is rather large, perhaps
+large enough for even a dragon to pass through with ease.  The air begins to
+grow colder to the south, where a larger hall joins with this one.  A
+darkened archway beckons to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 986
+D1
+~
+~
+0 0 1025
+D2
+~
+~
+0 0 993
+S
+#996
+A Passage~
+A passage branches away from the main hall here, slightly smaller, the
+torches on the wall are also spread further and further apart from each
+other, once more making the light here dim and unsettling.  
+~
+0 8 0
+D0
+~
+~
+0 0 989
+D2
+~
+~
+0 0 997
+S
+#997
+A Spiral Staircase~
+A large, stone staircase spirals up here, vanishing into the inky
+blackness above.  The sounds of swords can be clearly heard from above, and
+snarls of anger.  To the north, the hall joins with the rest of the citadel.
+~
+0 8 0
+D0
+~
+~
+0 0 996
+D4
+~
+~
+0 0 998
+S
+#998
+The Training Floor~
+You find yourself standing inside a training center of some sort.  Wooden
+dummies have been strategically placed about the room.  Large fighting
+circles have been painted upon the stone floor, barely visible through the
+pools of blood.  
+~
+0 8 0
+D0
+~
+~
+0 0 1000
+D1
+~
+~
+0 0 1004
+D2
+~
+~
+0 0 999
+D5
+~
+~
+0 0 997
+S
+#999
+The Training Office~
+The room you find yourself in is what appears to be an office of some
+sort.  In one corner of the room, an elaborate oak desk with what appears to
+be a training schedule, lies empty.  Large windows give a clear view of a
+courtyard below.  Two open doors lead back into the training complex, one to
+the north and the other to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 998
+D1
+~
+~
+0 0 1005
+S
+#1000
+The Training Floor~
+The floor around you is covered in blood stains, both inside and outside
+the painted fighting circles.  Racks of dulled weapons can be seen laying
+upon the western side of the room, showing more than their fare share of
+use.  
+~
+0 8 0
+D0
+~
+~
+0 0 1001
+D1
+~
+~
+0 0 1003
+D2
+~
+~
+0 0 998
+S
+#1001
+Hand-to-Hand Combat Room~
+There is a large red circle painted on the floor.  Whether it is red
+paint or blood, is too hard to tell without a proper taste.  In the center
+of the circle, footprints show expertly performed moves.  The circle here is
+much larger than all the others among this training complex.  No weapons or
+armor can be seen here, perhaps this is where hand to hand combat is
+performed.  
+~
+0 8 0
+D1
+~
+~
+0 0 1002
+D2
+~
+~
+0 0 1000
+S
+#1002
+The Training Complex~
+This part of the training complex has a row of nine dolls, crafted out of
+wood, straw and cloth.  Each of them has countless punctures in the most
+lethal areas of a human's body.  Looking more closely, it appears that the
+dolls are NOT made of cloth and wood at all, but rather actual human skin
+and human bones.  
+~
+0 8 0
+D2
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 1001
+S
+#1003
+A White Painted Circle~
+You find yourself inside a white painted circle, likely used for
+practicing sword manual and other weapon routines with a sparring partner. 
+The ground is flecked with spots of blood and the stone floor is chipped
+beyond recognition.  
+~
+0 8 0
+D0
+~
+~
+0 0 1002
+D2
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 1000
+S
+#1004
+Another Stairwell~
+Another stairwell made of white stone extends up from here, leaving
+behind the gruesome and bloody training grounds.  The air, once again,
+appears to get colder going up.  
+~
+0 8 0
+D0
+~
+~
+0 0 1003
+D2
+~
+~
+0 0 1005
+D3
+~
+~
+0 0 998
+D4
+~
+~
+0 0 1006
+S
+#1005
+A Dusty Corner~
+This area of the training grounds appears to be rarely used, with dust
+and cobwebs littering the walls, floor and ceiling.  There are piles of
+broken weapon lying in the corner, along with a few pieces of battered armor
+well beyond repair.  
+~
+0 8 0
+D0
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 999
+S
+#1006
+A Cold Platform~
+The hard stone landing of the stairs is frigid cold, the air around you
+enough to chill your blood.  Your breath can be seen faintly as you exhale. 
+Towards the south, the area is shrouded in darkness, though occasionally a
+deep, crackling breath can be heard along with a resounding thud.  
+~
+0 8 0
+D2
+~
+~
+0 0 1007
+D5
+~
+~
+0 0 1004
+S
+#1007
+A Cold Platform~
+The air is much colder here than it is to the north, and it appears to
+get only worse the further south one travels.  The stone floor beneath your
+feet is almost like ice, being just as cold, slick with blood.  Whispers
+seam to surround you, teasing and irritating.  
+~
+0 0 0
+D0
+~
+~
+0 0 1006
+D2
+~
+~
+0 0 1008
+S
+#1008
+A Great Library Entrance~
+The air in here is abruptly warm and comfortable, unlike the rigid cold
+in the passageway to the north.  There are torches which also give this
+place light.  Looking around more clearly, you find yourself not inside a
+Dragon Lair, but rather inside some sort of library.  A few people gently
+tip toe across the floor, head down inside a book, reading while they walk. 
+The library extends to the east, west and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 1007
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1009
+S
+#1009
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D1
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1010
+S
+#1010
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D1
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1011
+S
+#1011
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D0
+~
+~
+0 0 1010
+D1
+~
+~
+0 0 1012
+S
+#1012
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D1
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1011
+S
+#1013
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D0
+~
+~
+0 0 1008
+D1
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1012
+S
+#1014
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D1
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1013
+S
+#1015
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D0
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1014
+S
+#1016
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1017
+S
+#1017
+A Great Library~
+Crafted out of stone, this library is a substantial structure.  Sturdy
+mahogany shelves line the walls.  Colorful slivers of book covers stare out
+at you from the bookshelves.  People sit at tables, studying the texts they
+have found here, while others prefer to borrow them to read at their
+leisure.  There are woven mats on the floor for sitting on, laying on, and
+relaxing on.  
+~
+0 8 0
+D1
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1008
+S
+#1018
+Northern Mountain Road~
+This part of the mountainous road through the Palanthas range has some
+oak trees that linger over the road.  However, just off the road are many
+caverns and hiding places for those banished from the great city of
+Palanthas, or those that wish to pray on travelers passing by.  Mt.  {x
+Solinari is the highest peek in the area, and it is rumored that White Mages
+gather there to be close to the white moon during the summer months.  
+~
+0 0 5
+D1
+~
+~
+0 0 1019
+D3
+~
+~
+0 0 920
+S
+#1019
+Northern Foothills Road~
+You now stand in the foothills of the Palanthas mountain range with the
+hard road to Ash leading west and the flat road towards Kalaman leading
+east.  The vegetation here is light, and in the winter the road is closed
+off making the pass impossible.  You can easily see how valuable the High
+Clerist Tower is to this region when you see the narrow path that leads into
+the mountains here.  No army would take this route, and taking a wagon up
+this road would be five times as long.  
+~
+0 0 4
+D1
+~
+~
+0 0 1020
+D3
+~
+~
+0 0 1018
+S
+#1020
+Northern Solamnic Plains Road~
+The northern plains of Solamnia begin to raise as foothills form to the
+west.  A crossroads marker is oddly placed here with a rusty iron cage
+hanging from a massive oak.  In the days before the Cataclysm, Knights of
+the Sword would punish criminals to time in the cages.  An old path leads
+into the wilds of the north to the tomb of Sir Heth, but it appears nobody
+has paid homage to that hero for hundreds of years.  
+~
+0 0 2
+D1
+~
+~
+0 0 1021
+D3
+~
+~
+0 0 1019
+S
+#1021
+Northern Solamnic Plains Road~
+The road travels along the Vingaard River past the capital of
+Nightlund, called Maelgoth.  However the city, if you could call it
+that, appears to be well under funded by those behind the throne of
+Solamnia.  People tend to hide when adventurers near, and when they can be
+seen under their dark wool cloaks their skin is pale and faces sunken from
+malnutrition.  If any plan to camp here tonight, they will have to do it out
+in the wild with the cattle that graze the lands to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 1020
+S
+#1022
+Northern Solamnic Plains Road~
+You find yourself crossing the flat lands of Nightlund.  If their
+was an area that was lacking even the occasional rolling hill, this would be
+that land.  The ground is fertile and if it weren't for the harsh winters
+farmers and barbarians would be drawn to it.  The air here is crisp with two
+large rivers surrounding the Solamnic province.  Burning lanterns from
+watchtowers built out of sturdy wood can be seen at night in the distance as
+young Knights man their post in the northern wilds.  
+~
+0 0 2
+D1
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1021
+S
+#1023
+Northern Solamnic Plains Road~
+Just outside the city of Kalaman you find yourself standing over a stone
+bridge that crosses the Vingaard River.  Great plains can be viewed as far as
+the eye can see into an area known as Estwilde.  A strong breeze can be felt
+coming from the northern bay that the locals call Qualmish, or the North
+Shore.  It is not uncommon for heavy amounts of fog to cover this area in
+the early morning and late night, but during the day very little disrupts
+the view from the bridge.  
+~
+0 0 2
+D1
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 1022
+S
+#0
+
+
+
+#SPECIALS
+M 902 spec_nasty
+M 945 spec_rloader
+M 953 spec_janitor
+M 959 spec_cast_mage
+M 983 spec_nasty
+M 993 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 902 5 902 1
+M 0 902 5 905 1
+M 0 902 5 908 1
+M 0 902 5 910 1
+M 0 902 5 912 1
+M 0 902 5 914 1
+O 0 917 0 917
+M 0 918 1 918 1
+G 0 900 0
+G 0 901 0
+G 0 902 0
+G 0 903 0
+O 0 905 0 919
+P 0 906 0 905 1
+P 0 907 0 905 1
+M 0 922 1 922 1
+G 0 916 0
+G 0 919 0
+M 0 923 1 923 1
+G 0 923 0
+G 0 904 0
+G 0 908 0
+G 0 909 0
+M 0 925 1 925 1
+G 0 914 0
+G 0 915 0
+M 0 926 1 926 1
+G 0 910 0
+G 0 911 0
+G 0 912 0
+G 0 913 0
+M 0 945 6 934 1
+M 0 983 5 935 1
+M 0 983 5 938 1
+M 0 945 6 943 1
+M 0 953 4 953 1
+M 0 953 4 954 1
+M 0 956 1 956 1
+M 0 953 4 958 1
+M 0 959 1 959 1
+M 0 960 1 960 1
+M 0 961 1 961 1
+M 0 953 4 963 1
+M 0 964 1 964 1
+M 0 945 6 967 1
+M 0 945 6 971 1
+M 0 983 5 973 1
+M 0 983 5 975 1
+M 0 945 6 977 1
+M 0 983 5 978 1
+M 0 945 6 979 1
+M 0 983 4 983 1
+M 0 990 10 988 1
+M 0 993 6 989 1
+M 0 990 10 990 2
+M 0 993 6 993 1
+M 0 990 10 996 2
+M 0 993 6 998 2
+M 0 990 10 1000 2
+M 0 990 10 1003 1
+M 0 990 10 1004 2
+M 0 993 6 1006 2
+S
+
+
+
+#SHOPS
+918 0 0 0 0 19 100 100 8 22
+922 0 0 0 0 8 100 100 0 23
+923 0 0 0 0 19 100 100 0 23
+925 0 0 0 0 9 100 100 0 23
+926 0 0 0 0 17 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

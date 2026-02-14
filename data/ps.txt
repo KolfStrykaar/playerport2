@@ -1,0 +1,6 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+jacob    1545376  0.0  0.0  89800  9816 ?        Ss   18:36   0:00 /usr/lib/systemd/systemd --user
+jacob    1545378  0.0  0.0 571436  3652 ?        S    18:36   0:00 (sd-pam)
+jacob    1617891  1.6  0.2 147340 73300 ?        S    20:19   2:23 valgrind --xml=yes -q --show-error-list=yes ../src/rom 6100
+jacob    1652093  0.0  0.0  12804  2908 ?        S    22:44   0:00 sh -c ps xu > ../data/ps.txt
+jacob    1652094  0.0  0.0  47708  3744 ?        R    22:44   0:00 ps xu

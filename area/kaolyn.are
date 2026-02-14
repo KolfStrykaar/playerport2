@@ -1,0 +1,1640 @@
+#AREADATA
+Name Kaolyn~
+Builders Reorx~
+Continent Solamnia~
+Sector 0
+VNUMs 13600 13699
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#13600
+horax insect~
+an insect~
+An insectiod known as a horax, walks towards you.
+~
+~
+centipede~
+AG Z 0 0
+40 40 60d13+365 40d10+85 11d3+18 pierce
+-9 -9 -9 -1
+0 0 FI E
+stand stand male 400
+ABGO ACK M unknown 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#13600
+Westgate~
+Twenty wide stone steps, cut into the rocky ground, lead to a marble arch
+that frames the Westgate.  Off to the side of the stairs, a steep ramp has
+been built.  A wench and pulley is mounted at the top of the ramp to help
+with heavy loads.  At the base of the stairs, a stream of water flows
+through a crack in the mountside.  Iron bars have been installed around the
+crack, and will not allow anything bigger than a rat the pass through them. 
+~
+0 12 1
+D1
+~
+~
+0 0 13601
+D3
+~
+~
+0 0 13698
+S
+#13601
+Community of Spar~
+The community of Spar is built inside a single, huge cavern.  The cavern
+is alive with the sounds water dripping down the walls.  The dripping water
+adds a musical background that can not be found in most surface dwelling
+cities.  The path ways to the east and south lead further into the city, the
+path to the north leads to a delving and the path to the west leads to the
+Westgate.  
+~
+0 8 1
+D0
+~
+~
+0 0 13602
+D1
+~
+~
+0 0 13611
+D2
+~
+~
+0 0 13604
+D3
+~
+~
+0 0 13600
+S
+#13602
+Thrax Delving~
+This mine that now stands abandoned, had once been the a major marble
+quarry for the kingdom of Kaolyn.  The tunnel has been cut to a near prefect
+ten feet wide and twelve feet in height.  The walls are smooth to the touch,
+and the ground has a pair of metal rails running the length of the tunnel.  
+~
+0 9 5
+D1
+~
+~
+0 0 13603
+D2
+~
+~
+0 0 13601
+S
+#13603
+Thrax Delving~
+The tunnel's walls are crumbled, and metal tracks disappear into the
+depths of the now flooded tunnel floor.  The sound of water dripping down
+the walls creates a constant reminder that the water has not released its
+hold upon this mine.  
+~
+0 9 7
+D3
+~
+~
+0 0 13602
+S
+#13604
+Market Place~
+The street is a series of interlocking cut marble, polished to a gleening
+shine.  Sturdy wooden stalls have been built for the human merchants that
+visit the dwarven realm.  The wares on display range from exotic foods, to
+hard to find smithing supplies, and the latest fashions from as far west as
+Ergoth.  
+~
+0 8 1
+D0
+~
+~
+0 0 13601
+D1
+~
+~
+0 0 13613
+D2
+~
+~
+0 0 13605
+S
+#13605
+Dhaxum Delving~
+The entrance to this delving is dark and has the look of not being
+visited often.  A layer of dust, covers the floor, and only a single set of
+footprints can be seen leading to the east, while a set of mine car tracks
+lead to the south.  The walls, with moss growing in various spots, appear to
+take on a blackish, green color.  
+~
+0 13 5
+D0
+~
+~
+0 0 13604
+D1
+~
+~
+0 0 13609
+D2
+~
+~
+0 0 13606
+S
+#13606
+Dhaxum Delving~
+The color of the walls change from blackish, green to that of a brownish,
+red.  An iron banded door can be seen to the west, and a set of mine cart
+tracks, continues down the tunnel to the north and south.  
+~
+0 9 5
+D0
+~
+~
+0 0 13605
+D2
+~
+~
+0 0 13607
+D3
+~
+~
+1 0 13608
+S
+#13607
+Abandoned Dreams~
+The hard lines of the tunnel, that had once marked the precision of
+dwarven miners, has faded under the growth of yellow fungi and pale, green
+moss.  The wall sparkles in some places, as light catches the visible facets
+of glittering crystals.  
+~
+0 9 5
+D0
+~
+~
+0 0 13606
+S
+#13608
+Foremen's Office~
+The room has long been abandoned, and dust covers the furnishing within. 
+A desk probably made if oak, sits decaying from the dampness of the tunnels,
+and the moss growing along its legs.  Along the walls, shelves cut into the
+wall, piles of rust and debris can be seen.  
+~
+0 9 5
+D1
+~
+~
+1 0 13606
+S
+#13609
+Dhaxum Delving~
+The color of the walls change from blackish, green to that of a brownish,
+red.  A trail of foot prints lead toward the south, where the wall has
+crumbled a bit.  This tunnel also heads back to the main tunnel, towards the
+west.  
+~
+0 9 5
+D2
+~
+~
+0 0 13610
+D3
+~
+~
+0 0 13605
+S
+#13610
+A Bloody Scene~
+The walls have turned in color, to that of a blackish green.  The wall to
+the north is crumbled, and does not look to have been brought down by
+skilled dwarven miners.  The trail of footprints ends here, with blood
+splattered all over the floor, and joining walls.  Bits of rotting cloth,
+and broken bones are the only evidence that someone had been here.  
+~
+0 9 5
+D0
+~
+~
+0 0 13609
+S
+#13611
+Streets of Spar~
+The city is built upon pillars of stone that were, at one time, submerged
+under the surface of the lake.  The lake was then drained and stones were
+added to the shallower areas.  The added stone created a path way to some of
+the natural pillars, while other required the building of wooden bridges to
+span the gap between them.  
+~
+0 8 1
+D1
+~
+~
+0 0 13612
+D2
+~
+~
+0 0 13613
+D3
+~
+~
+0 0 13601
+S
+#13612
+A Spanning Bridge~
+Since the city of Spar was built on islands of stone, wooden bridges,
+wide enough to allow two wagons to pass side by side, were built to span the
+gap between them.  A flowing stream of water, known as the Gem River, runs a
+course at the base of the stone pillars that support the city.  
+~
+0 8 1
+D2
+~
+~
+0 0 13614
+D3
+~
+~
+0 0 13611
+S
+#13613
+A Spanning Bridge~
+Since the city of Spar was built on islands of stone, wooden bridges,
+wide enough to allow two wagons to pass side by side, were built to span the
+gap between them.  A flowing stream of water, known as the Gem River, runs a
+course at the base of the stone pillars that support the city.  
+~
+0 8 1
+D0
+~
+~
+0 0 13611
+D1
+~
+~
+0 0 13614
+D3
+~
+~
+0 0 13604
+S
+#13614
+House of Steel~
+Three waterfalls send their foaming water into the lake that stands below
+the city of Spar.  The minting of steel coins is done in this very same
+building.  Most of that coin is traded to the human traders that enter
+through the Westgate.  The steel coins that are produced here have the image
+of Chisel Loremaster, and the reverse is stamped with a symbol for the
+current decade.  
+~
+0 1048584 1
+D0
+~
+~
+0 0 13612
+D1
+~
+~
+0 0 13615
+D3
+~
+~
+0 0 13613
+S
+#13615
+Allek Delving~
+The sounds picks and hammers striking rock echo through the tunnel, tells
+of the activity of local miners.  The floor of the tunnel is well graded; to
+give mine carts a flat surface to move across.  Massive wooden columns,
+reinforced with steel banding, support the walls.  An equally massive wooden
+beam, also reinforced with steel banding, supports the ceiling of the
+tunnel.  
+~
+0 8 5
+D0
+~
+~
+0 0 13616
+D3
+~
+~
+0 0 13614
+S
+#13616
+Allek Delving~
+The reinforced steel banding, that is afixed to the support beams, is
+covered in a light coating of reddish dust.  The air here is damp, which
+allows green moss to grow along the base of the walls.  A deposit of a
+metalic yellow can be seen in the wall.  
+~
+0 8 5
+D1
+~
+~
+0 0 13617
+D2
+~
+~
+0 0 13615
+S
+#13617
+Allek Delving~
+The sounds picks and hammers striking rock echo through the tunnel, tells
+of the activity of local miners.  The floor of the tunnel is well graded; to
+give mine carts a flat surface to move across.  Massive wooden columns,
+reinforced with steel banding, support the walls.  An equally massive wooden
+beam, also reinforced with steel banding, supports the ceiling of the
+tunnel.  
+~
+0 8 5
+D2
+~
+~
+0 0 13618
+D3
+~
+~
+0 0 13616
+S
+#13618
+Allek Delving~
+This mining tunnel leads from the west, where the echos of picks strike
+rock drifts, and opens into a large cavern to the east.  A massive, stone
+door hung on well oiled hinges stands open to the east, leading to the
+walled fortress of Garnet Thax.  
+~
+0 8 5
+D0
+~
+~
+0 0 13617
+D1
+~
+~
+2 0 13619
+S
+#13619
+Garnet Thax~
+A massive, stone door hung on well-oiled hinges stands open to the west,
+leading outside of the walled fortress of Garnet Thax.  The walls are made
+of marble, some fifteen feet thick and are inlaid with gems and precious
+metals; creates a corridor that continues to the north and south.  A stone
+staircase, carpeted in red and set at the east wall, continues upwards to
+the next level.  
+~
+0 8 0
+D0
+~
+~
+2 0 13626
+D2
+~
+~
+2 0 13620
+D3
+~
+~
+2 0 13618
+D4
+~
+~
+0 0 13693
+S
+#13620
+South West Guard Post~
+This room has two doors, one to the north and other to the east that can
+be closed and barred in case of an invasion.  The interior walls have the
+same thickness and strength as the outer walls, making an attacker's job a
+bit more difficult.  The west and south walls contain arrow slits, as well
+as racks of equipment to support the garrison.  
+~
+0 8 0
+D0
+~
+~
+2 0 13619
+D1
+~
+~
+2 0 13621
+S
+#13621
+Garnet Thax~
+A massive, stone door hung on well-oiled hinges stands open to the south,
+leading outside of the walled fortress of Garnet Thax.  The walls are made
+of marble, some fifteen feet thick and are inlaid with gems and precious
+metals; creates a corridor that continues to the west, and east.  A door,
+set within interior walls of equal strength to the outer ones, stands open
+to the east and west of the threshold.  
+~
+0 8 0
+D1
+~
+~
+2 0 13622
+D2
+~
+~
+2 0 13627
+D3
+~
+~
+2 0 13620
+S
+#13622
+South East Guard Post~
+This room has two doors, one to the west and other to the north that can
+be closed and barred in case of an invasion.  The interior walls have the
+same thickness and strength as the outer walls, making an attacker's job a
+bit more difficult.  The south wall contains arrow slits, as well as racks
+of equipment to support the garrison.  To the east, an open doorway shows
+the ship movements on the Silvershield River.  
+~
+0 8 0
+D0
+~
+~
+2 0 13623
+D1
+~
+~
+0 0 13631
+D3
+~
+~
+2 0 13621
+S
+#13623
+Garnet Thax~
+The walls are made of marble, some fifteen feet thick and are inlaid with
+gems and precious metals; creates a corridor that continues to the north and
+south.  A door, set within interior walls of equal strength to the outer
+ones, stands open to the north and south of the threshold.  A doorway to the
+east leads to an open loading dock, which overlooks a subterranean lake.  
+~
+0 8 0
+D0
+~
+~
+2 0 13624
+D1
+~
+~
+0 0 13643
+D2
+~
+~
+2 0 13622
+S
+#13624
+North East Guard Post~
+This room has two doors, one to the west and other to the south that can
+be closed and barred in case of an invasion.  The interior walls have the
+same thickness and strength as the outer walls, making an attacker's job a
+bit more difficult.  The east wall contains arrow slits, as well as racks of
+equipment to support the garrison.  To the north, an open doorway shows the
+ship movements on the Fireflow River.  
+~
+0 8 0
+D0
+~
+~
+0 0 13646
+D2
+~
+~
+2 0 13623
+D3
+~
+~
+2 0 13625
+S
+#13625
+Garnet Thax~
+A massive, stone door hung on well-oiled hinges stands open to the north,
+leading outside of the walled fortress of Garnet Thax.  The walls are made
+of marble, some fifteen feet thick and are inlaid with gems and precious
+metals; creates a corridor that continues to the north and south.  A door,
+set within interior walls of equal strength to the outer ones, stands open
+to the west and east of the threshold.  
+~
+0 8 0
+D0
+~
+~
+2 0 13651
+D1
+~
+~
+2 0 13624
+D3
+~
+~
+2 0 13626
+S
+#13626
+North West Guard Post~
+This room has two doors, one to the east and other to the south that can
+be closed and barred in case of an invasion.  The interior walls have the
+same thickness and strength as the outer walls, making an attacker's job a
+bit more difficult.  The north and west walls contain arrow slits, as well
+as racks of equipment to support the garrison.  
+~
+0 8 0
+D1
+~
+~
+2 0 13625
+D2
+~
+~
+2 0 13619
+S
+#13627
+Quarth Delving~
+A massive, stone door hung on well-oiled hinges stands open to the north,
+leading outside of the walled fortress of Garnet Thax.  The walls are white
+in color, for the delving is a marble query of old.  The ground is mostly
+smooth except for two ruts that have been worn down into the surface.  
+~
+0 8 5
+D0
+~
+~
+2 0 13621
+D2
+~
+~
+0 0 13629
+D3
+~
+~
+0 0 13628
+S
+#13628
+Quarth Delving~
+The walls are white in color, for the delving is a marble query of old. 
+The ground is mostly smooth except for two ruts that have been worn down
+into the surface.  A pile of rust can be found in one of the corners of the
+delving, as well as some rotting cloth.  
+~
+0 8 5
+D1
+~
+~
+0 0 13627
+S
+#13629
+Quarth Delving~
+The walls are white in color, for the delving is a marble query of old. 
+Dust falls through the cracks that stretch across the ceiling overhead.  The
+tunnel curves from the north and to the east.  The ground is mostly smooth
+except for two ruts that have been worn down into the surface.  
+~
+0 8 5
+D0
+~
+~
+0 0 13627
+D1
+~
+~
+0 0 13630
+S
+#13630
+Quarth Delving~
+The walls are white in color, for the delving is a marble query of old. 
+The ground is mostly smooth except for two ruts that have been worn down
+into the surface.  Dust falls through the cracks that stretch across the
+ceiling overhead.  The path to the east ends because the tunnel has
+collapsed in this section.  
+~
+0 8 5
+D3
+~
+~
+0 0 13629
+S
+#13631
+Silvershield River~
+~
+0 8 7
+D2
+~
+~
+0 0 13632
+D3
+~
+~
+0 0 13622
+S
+#13632
+Silvershield River~
+~
+0 8 7
+D0
+~
+~
+0 0 13631
+D1
+~
+~
+0 0 13633
+S
+#13633
+Phanx Delving~
+~
+0 8 5
+D1
+~
+~
+0 0 13634
+D3
+~
+~
+0 0 13632
+S
+#13634
+Phanx Delving~
+~
+0 8 5
+D0
+~
+~
+0 0 13635
+D1
+~
+~
+0 0 13636
+D3
+~
+~
+0 0 13633
+S
+#13635
+Phanx Delving~
+~
+0 8 5
+D2
+~
+~
+0 0 13634
+S
+#13636
+Phanx Crossing~
+~
+0 8 7
+D0
+~
+~
+0 0 13637
+D2
+~
+~
+0 0 13638
+D3
+~
+~
+0 0 13634
+S
+#13637
+Phanx Delving~
+~
+0 8 5
+D2
+~
+~
+0 0 13636
+S
+#13638
+Community of Geale~
+~
+0 8 1
+D0
+~
+~
+0 0 13636
+D1
+~
+~
+0 0 13640
+D2
+~
+~
+0 0 13639
+S
+#13639
+Community of Geale~
+~
+0 8 1
+D0
+~
+~
+0 0 13638
+D1
+~
+~
+0 0 13641
+S
+#13640
+Community of Geale~
+~
+0 8 1
+D2
+~
+~
+0 0 13641
+D3
+~
+~
+0 0 13638
+S
+#13641
+Community of Geale~
+~
+0 8 1
+D0
+~
+~
+0 0 13640
+D2
+~
+~
+0 0 13642
+D3
+~
+~
+0 0 13639
+S
+#13642
+Southgate~
+~
+0 8 5
+D0
+~
+~
+0 0 13641
+S
+#13643
+Cerial Crossing~
+The subterranean lake known as the Cerial Crossing, guards the way to the
+Cerial Delving.  Through the mist that hangs over the murky waters,
+torchlight can be seen to the north and also to the south.  A barge sits
+tied to its moorings at a small dock to the north.  
+~
+0 8 7
+D0
+~
+~
+0 0 13644
+D2
+~
+~
+0 0 13645
+D3
+~
+~
+0 0 13623
+S
+#13644
+Cerial Delving~
+Mine carts stand in rows along the wall ready to be filled a days worth
+of ore.  The walls sparkle in crystal colors of green, blue, yellow and
+white.  This delving is in fact a mining operation for gems, and the source
+of some men's greed.  
+~
+0 8 5
+D2
+~
+~
+0 0 13643
+S
+#13645
+Cerial Delving~
+Mine carts stand in rows along the wall ready to be filled a days worth
+of ore.  The walls sparkle in crystal colors of red, purple, light blue and
+black.  This delving is in fact a mining operation for gems.  
+~
+0 8 5
+D0
+~
+~
+0 0 13643
+S
+#13646
+Fireflow River~
+~
+0 8 7
+D1
+~
+~
+0 0 13647
+D2
+~
+~
+0 0 13624
+S
+#13647
+Zhaban Delving~
+~
+0 8 0
+D1
+~
+~
+0 0 13649
+D2
+~
+~
+0 0 13648
+D3
+~
+~
+0 0 13646
+S
+#13648
+Zhaban Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13647
+S
+#13649
+Zhaban Delving~
+~
+0 8 0
+D2
+~
+~
+0 0 13650
+D3
+~
+~
+0 0 13647
+S
+#13650
+Zhaban Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13649
+S
+#13651
+Hydrass Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13652
+D2
+~
+~
+2 0 13625
+S
+#13652
+Hydrass Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13655
+D1
+~
+~
+0 0 13653
+D2
+~
+~
+0 0 13651
+S
+#13653
+Haxx Delving~
+~
+0 8 0
+D2
+~
+~
+0 0 13654
+D3
+~
+~
+0 0 13652
+S
+#13654
+Haxx Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13653
+S
+#13655
+Dorax Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13663
+D2
+~
+~
+0 0 13652
+S
+#13656
+Quarder Delving~
+~
+0 8 0
+D3
+~
+~
+0 0 13663
+S
+#13657
+Lower Dhaxalder Delving~
+~
+0 8 0
+D1
+~
+~
+0 0 13663
+D3
+~
+~
+0 0 13658
+S
+#13658
+Lower Dhaxalder Delving~
+~
+0 8 0
+D1
+~
+~
+0 0 13657
+D2
+~
+~
+0 0 13660
+D3
+~
+~
+0 0 13659
+S
+#13659
+Lower Dhaxalder Delving~
+~
+0 8 0
+D1
+~
+~
+0 0 13658
+S
+#13660
+Upper Dhaxalder Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13658
+D1
+~
+~
+0 0 13661
+S
+#13661
+Upper Dhaxalder Delving~
+~
+0 8 0
+D2
+~
+~
+0 0 13662
+D3
+~
+~
+0 0 13660
+S
+#13662
+Upper Dhaxalder Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13661
+S
+#13663
+Dorax Delving~
+~
+0 8 0
+D0
+~
+~
+0 0 13664
+D1
+~
+~
+0 0 13656
+D2
+~
+~
+0 0 13655
+D3
+~
+~
+0 0 13657
+S
+#13664
+Community of Crystal~
+~
+0 8 0
+D0
+~
+~
+0 0 13667
+D1
+~
+~
+0 0 13686
+D2
+~
+~
+0 0 13663
+D3
+~
+~
+0 0 13665
+S
+#13665
+Community of Crystal~
+~
+0 8 0
+D0
+~
+~
+0 0 13666
+D1
+~
+~
+0 0 13664
+D3
+~
+~
+0 0 13668
+S
+#13666
+Community of Crystal~
+~
+0 8 0
+D1
+~
+~
+0 0 13667
+D2
+~
+~
+0 0 13665
+S
+#13667
+Community of Crystal~
+~
+0 8 0
+D2
+~
+~
+0 0 13664
+D3
+~
+~
+0 0 13666
+S
+#13668
+Connecting Tunnel~
+~
+0 8 0
+D0
+~
+~
+0 0 13669
+D1
+~
+~
+0 0 13665
+D3
+~
+~
+0 0 13681
+S
+#13669
+Community of Rubicon~
+~
+0 8 0
+D0
+~
+~
+0 0 13670
+D1
+~
+~
+0 0 13671
+D2
+~
+~
+0 0 13668
+D3
+~
+~
+0 0 13672
+S
+#13670
+Community of Rubicon~
+~
+0 8 0
+D1
+~
+~
+0 0 13673
+D2
+~
+~
+0 0 13669
+S
+#13671
+Community of Rubicon~
+~
+0 8 0
+D0
+~
+~
+0 0 13673
+D3
+~
+~
+0 0 13669
+S
+#13672
+Connecting Tunnel~
+~
+0 8 0
+D1
+~
+~
+0 0 13669
+D2
+~
+~
+0 0 13682
+S
+#13673
+Community of Emera~
+~
+0 8 0
+D0
+~
+~
+0 0 13674
+D1
+~
+~
+0 0 13677
+D2
+~
+~
+0 0 13671
+D3
+~
+~
+0 0 13670
+S
+#13674
+Community of Emera~
+~
+0 8 0
+D1
+~
+~
+0 0 13676
+D2
+~
+~
+0 0 13673
+D3
+~
+~
+0 0 13675
+S
+#13675
+Dualgates~
+~
+0 8 0
+D1
+~
+~
+0 0 13674
+S
+#13676
+Dualgates~
+~
+0 8 0
+D2
+~
+~
+0 0 13677
+D3
+~
+~
+0 0 13674
+S
+#13677
+Community of Facet~
+~
+0 8 0
+D0
+~
+~
+0 0 13676
+D1
+~
+~
+0 0 13680
+D2
+~
+~
+0 0 13678
+D3
+~
+~
+0 0 13673
+S
+#13678
+Community of Facet~
+~
+0 8 0
+D0
+~
+~
+0 0 13677
+D1
+~
+~
+0 0 13679
+S
+#13679
+Community of Facet~
+~
+0 8 0
+D0
+~
+~
+0 0 13680
+D1
+~
+~
+0 0 13688
+D3
+~
+~
+0 0 13678
+S
+#13680
+Community of Facet~
+~
+0 8 0
+D2
+~
+~
+0 0 13679
+D3
+~
+~
+0 0 13677
+S
+#13681
+Rubicon Warrens~
+~
+0 8 0
+D1
+~
+~
+0 0 13668
+D3
+~
+~
+0 0 13682
+S
+#13682
+Rubicon Warrens~
+~
+0 8 0
+D0
+~
+~
+0 0 13672
+D1
+~
+~
+0 0 13681
+D3
+~
+~
+0 0 13683
+S
+#13683
+Rubicon Warrens~
+~
+0 8 0
+D1
+~
+~
+0 0 13682
+D2
+~
+~
+0 0 13684
+D3
+~
+~
+0 0 13685
+S
+#13684
+Rubicon Warrens~
+~
+0 8 0
+D0
+~
+~
+0 0 13683
+S
+#13685
+Rubicon Warrens~
+~
+0 8 0
+D1
+~
+~
+0 0 13683
+S
+#13686
+Auriculum Warren~
+~
+0 8 0
+D1
+~
+~
+0 0 13687
+D3
+~
+~
+0 0 13664
+S
+#13687
+Auriculum Warren~
+~
+0 8 0
+D0
+~
+~
+0 0 13688
+D3
+~
+~
+0 0 13686
+S
+#13688
+Auriculum Warren~
+~
+0 8 0
+D1
+~
+~
+0 0 13689
+D2
+~
+~
+0 0 13687
+D3
+~
+~
+0 0 13679
+S
+#13689
+Auriculum Warren~
+~
+0 8 0
+D2
+~
+~
+0 0 13690
+D3
+~
+~
+0 0 13688
+S
+#13690
+Auriculum Warren~
+~
+0 8 0
+D0
+~
+~
+0 0 13689
+D1
+~
+~
+0 0 13691
+S
+#13691
+Auriculum Warren~
+~
+0 8 0
+D0
+~
+~
+0 0 13692
+D3
+~
+~
+0 0 13690
+S
+#13692
+Auriculum Warren~
+~
+0 8 0
+D2
+~
+~
+0 0 13691
+S
+#13693
+Governor's Palace~
+~
+0 8 0
+D1
+~
+~
+0 0 13696
+D5
+~
+~
+0 0 13619
+S
+#13694
+Garrison Wing~
+~
+0 8 0
+D2
+~
+~
+1 0 13696
+S
+#13695
+Guest Wing~
+~
+0 8 0
+D0
+~
+~
+1 0 13696
+S
+#13696
+Govenor's Hall~
+~
+0 8 0
+D0
+~
+~
+1 0 13694
+D1
+~
+~
+1 0 13697
+D2
+~
+~
+1 0 13695
+D3
+~
+~
+0 0 13693
+S
+#13697
+Royal Apartments~
+~
+0 8 0
+D3
+~
+~
+1 0 13696
+S
+#13698
+Bridge Across the Sliprock River~
+A stone bridge, some twenty feet wide and one hundred feet in length,
+stands at the foot of a steep path to the Westgate to the east, and also
+spans the wild rapids of the Sliprock River below.  The bridge has piling
+that are ten feet thick, built to withstand the power of the fierce, flow of
+the river.  A winding road leading from the Garnet Mountains to the west is
+a trade route that most human merchants travel when coming into this region.
+~
+0 0 5
+D1
+~
+~
+0 0 13600
+D3
+~
+~
+0 0 13699
+S
+#13699
+Path to Kaolyn~
+The Garnet Mountains tower overhead into the sky, with their ridges of
+hardened stone, presenting a protective wall.  The patch of green grass,
+which grows at the base of the mountains, offers the only color compared to
+the bleak, gray masses of rock.  The ring of stone offers a sense of
+security to many of the dwarves that live in this realm.  
+~
+0 0 5
+D1
+~
+~
+0 0 13698
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13606 3 1
+D 0 13608 1 1
+D 0 13618 1 1
+D 0 13619 0 1
+D 0 13619 2 1
+D 0 13619 3 1
+D 0 13620 0 1
+D 0 13620 1 1
+D 0 13621 1 1
+D 0 13621 2 1
+D 0 13621 3 1
+D 0 13622 0 1
+D 0 13622 3 1
+D 0 13623 0 1
+D 0 13623 2 1
+D 0 13624 2 1
+D 0 13624 3 1
+D 0 13625 0 1
+D 0 13625 1 1
+D 0 13625 3 1
+D 0 13626 1 1
+D 0 13626 2 1
+D 0 13627 0 1
+D 0 13651 2 1
+D 0 13694 2 1
+D 0 13695 0 1
+D 0 13696 0 1
+D 0 13696 1 1
+D 0 13696 2 1
+D 0 13697 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

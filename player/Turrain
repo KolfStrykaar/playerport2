@@ -1,0 +1,2047 @@
+#PLAYER
+Name Turrain~
+Surname Lamkin~
+MaskedIp ~
+Lokprot ~
+Email pedro.alexandre.f.reis@gmail.com~
+Id   1231088018
+LogO 1422395269
+Vers 10
+Act  CDGHQTe
+Desc Standing here before you is a medium sized man.His long flowing black hair 
+dangles about his oblong shaped head. Bushy black eyebrows rest above a set of large
+dark eyes while his medium sized nose looms over small chapped lips.
+From what can be seen from beneath his robes he appears to be well-toned and
+muscular.
+~
+Prom {W<{r%h/%H{W><{b%m/%M{W><{g%v/%V{W><%e> %B ~
+Race human~
+Org 10
+Religion 13
+Sex  1
+Cla  9
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1191782
+Sec  0
+Plyd 1702036
+Not  1420281656 1401021211 0 1415056535 1298827134
+Scro 78
+Room 151
+HMV  2717 2717 982 982 1037 1037
+Steel 80168
+Gold 3388398
+Bank 320000
+Exp  16262418
+AfBy O
+Deaths 9
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4063232
+Comm NO
+Pos  8
+Prac 42
+Trai 53
+Save  -81
+Alig  -1000
+Ethos 0
+Hit   91
+Dam   83
+ACs -309 -322 -316 -277
+Yield  75
+Attr 15 23 18 22 23 13
+AMod 20 5 5 18 3 7
+Pass TuX7EaZlhQkE.~
+Titl  the Whisper in the Night~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 463
+HMVP 1827 332 737
+Cnd  0 62 62 0
+QuestPnts 301
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'haste'
+Sk 100 'infravision'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 3 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 7 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 70 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 97 'counter'
+Sk 100 'critical strike'
+Sk 100 'deathgrip'
+Sk 68 'demand'
+Sk 100 'circlestab'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 70 'unholy armor'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 100 'strangle'
+Sk 70 'cutthroat'
+Sk 100 'assassinate'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 100 'eyerub'
+Sk 100 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 82
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 91
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 80
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786432
+Cond 98
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786432
+Cond 94
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 97
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 1255
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 1952
+Nest 0
+Cond 76
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 98
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 95
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 90
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 100
+Wear 10
+Cost 5250
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 100
+Wear 9
+Cost 5250
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2125
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Cormag's blood~
+Desc A jar of Cormag's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  182 182 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Rylinthai's blood~
+Desc A jar of Rylinthai's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  192 192 13 1 0
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+Val  3 9 13 26 221
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 75
+Cond 87
+Wear -1
+Cost 10000
+Val  3 10 14 28 74
+End
+
+#O
+Vnum 3093
+Nest 1
+ExtF 17073666
+Cond 100
+Wear -1
+Cost 900
+Val  10 9 11 37 4417
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 3 81985
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32838
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of dark army general's blood~
+Desc A jar of dark army general's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  196 196 13 1 0
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777820
+Cond 99
+Wear -1
+Cost 5180
+Val  1 11 14 31 203
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16779866
+Cond 100
+Wear -1
+Cost 5280
+Val  1 11 16 3 78
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12215
+Nest 1
+ExtF 8
+Cond 94
+Wear -1
+Cost 4810
+Val  1 9 16 34 89
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16779802
+Cond 100
+Wear -1
+Cost 900
+Val  2 10 16 2 205
+End
+
+#O
+Vnum 3805
+Nest 1
+ExtF 16779800
+Cond 88
+Wear -1
+Cost 500
+Val  2 7 12 11 206
+End
+
+#O
+Vnum 11144
+Nest 1
+ExtF 17039452
+Cond 95
+Wear -1
+Cost 3845
+Val  2 9 13 11 77
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16779802
+Cond 100
+Wear -1
+Cost 900
+Val  2 10 13 2 205
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 91
+Wear -1
+Cost 15500
+Val  2 10 14 33 77
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Black Dragon's blood~
+Desc A jar of a Black Dragon's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 12093
+Nest 1
+ExtF 16777822
+Cond 100
+Wear -1
+Cost 5100
+Val  2 9 16 11 6
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16779802
+Cond 81
+Wear -1
+Cost 900
+Val  2 10 16 2 205
+End
+
+#O
+Vnum 9832
+Enchanted
+Nest 1
+ExtF 17039427
+Cond 91
+Wear -1
+Lev  56
+Cost 8000
+Val  7 5 19 29 9
+Affc 'enchant weapon'   1  85  -1   8  19          0
+Affc 'enchant weapon'   0  85  -1   8  18          0
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  44 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2800
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3028
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9868
+Nest 1
+Name bloody horned helmet~
+ShD  {rBloody{x Horned {DHelmet{x~
+Desc Here lies a bloodied horned helmet, obviously used in previous battles.~
+ExtF 73
+Cond 94
+Wear -1
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2853
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the {wspectre{x of a {DBlack{x robe mage's blood~
+Desc A jar of the {wspectre{x of a {DBlack{x robe mage's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  98 98 13 0 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 104
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 104
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  45
+Cost 0
+Val  45 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name cloak Darkness evil~
+ShD  ({rEvil{x) The Cloak of {DDarkness{x~
+Desc A cloak with an evil aura lies here.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 94
+Mat  brass~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 1960
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 204 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 204 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 204 0 0 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 17555
+Nest 0
+ExtF 0
+Cond 99
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 19002
+Nest 0
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+ExtF 524288
+Cond 97
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 12093
+Nest 0
+ExtF 16777822
+Cond 63
+Wear 20
+Cost 5100
+Val  2 9 16 11 6
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16779800
+Cond 63
+Wear 24
+Cost 7400
+Val  2 9 12 1 77
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#END

@@ -1,0 +1,1973 @@
+#PLAYER
+Name Xendralix~
+Surname Greenleaf~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1109192415
+LogO 1421221514
+Vers 10
+Act  CDGHT
+Desc Before you stands a mage of the forest. He has green bright eyes and dark
+colored hair. His hands are soft and though at same time,due to his art
+and his care for nature. His skin is burned by the hot sun that warms
+Solace. He has a very delicated face, with a strong light brown beard and
+mustach. He has a long green cloak, covering most part of his body. It
+seems like his cloak is full of all kinds of leafs, with diferent colors
+and diferent designs.
+~
+Prom <%h/%H {Y%m/%M {g%v/%V {y%X {x%e{r>{x %B ~
+Race kagonesti~
+Org 264
+Devotee 11
+Sex  1
+Cla  7
+Hmtown 2
+Levl 86
+recall_point 2659
+Levscale 30
+Xptolev  571356
+Sec  0
+Plyd 1350668
+Not  1382250499 1230588627 0 1303441633 1298827134
+Scro 58
+Room 10128
+HMV  1791 1791 1132 1132 690 690
+Steel 5687
+Gold 429264
+Bank 40000
+Exp  9124344
+AfBy DFJ
+Deaths 10
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 851968
+Comm NOQ
+Pos  8
+Prac 27
+Trai 22
+Reward_timer 99
+Save  -41
+Alig  1000
+Ethos 1
+Hit   23
+Dam   35
+ACs -401 -403 -408 -359
+Wimp  331
+Attr 20 28 25 21 29 16
+AMod 9 7 13 12 7 0
+Pass XeVSd1V0ZoErQ~
+Titl  - The {GArchdruid{x of Abanasinia~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 372
+HMVP 1496 1057 690
+Cnd  0 13 12 0
+QuestPnts 636
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias -say emote warbles in a soft and kind voice, {W~
+Sk 100 'create rose'
+Sk 100 'fireproof'
+Sk 100 'orb of containment'
+Sk 82 'life transfer'
+Sk 100 'storm of vengeance'
+Sk 89 'teleport'
+Sk 100 'dagger'
+Sk 83 'shield block'
+Sk 100 'spear'
+Sk 100 'dirt kicking'
+Sk 1 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 1 'sharpen'
+Sk 100 'deathgrip'
+Sk 100 'mount'
+Sk 100 'badberry'
+Sk 100 'goodberry'
+Sk 100 'breath of nature'
+Sk 100 'druidstaff'
+Sk 100 'earthmeld'
+Sk 100 'windspirit'
+Sk 100 'stonespirit'
+Sk 100 'summon insects'
+Sk 100 'natures embrace'
+Sk 100 'natures warmth'
+Sk 100 'pillify'
+Sk 96 'herbal discern'
+Sk 100 'bark skin'
+Sk 1 'brew'
+Sk 23 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 100 'fast healing'
+Sk 84 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'drow tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'lore'
+Sk 75 'pick lock'
+Sk 100 'sneak'
+Sk 58 'scrolls'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 100 'pass without trace'
+Sk 100 'purify'
+Sk 100 'jab'
+Sk 1 'sweep attack'
+Sk 100 'vermin plague'
+Sk 1 'vortex'
+Sk 100 'detect presence'
+Sk 100 'scout'
+Sk 100 'sticks to snakes'
+Sk 100 'quiet movement'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 100 'sparkshot'
+Sk 100 'sunray'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 75 'trance'
+Sk 100 'waterlungs'
+Sk 100 'fireseed'
+Sk 100 'immolation'
+Sk 100 'pine needles'
+Sk 100 'staff'
+Sk 3 'eyerub'
+Sk 100 'wrath of nature'
+Sk 100 'instruct'
+Sk 70 'eagle eye'
+Sk 100 'call of the wild'
+Sk 100 'tame'
+Sk 100 'entangle'
+Sk 23 'plant growth'
+Sk 100 'treeform'
+Sk 1 'quicksand'
+Sk 1 'windtalk'
+Sk 1 'wilderness lore'
+Sk 1 'beastspite'
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 94
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 91
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 1626
+Nest 0
+Cond 100
+Wear 11
+Cost 13000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 97
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 99
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 2972
+Nest 0
+ExtF 262144
+Cond 91
+Wear 13
+Cost 500
+End
+
+#O
+Vnum 9868
+Nest 0
+ShD  a {Ygolden{x helmet~
+ExtF 0
+Cond 94
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 97
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262144
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name velvet  cloak FOREST~
+ShD  ({gVelvet{x) a {GForest {Wcloak{x~
+Desc Here lies a long velvet green leaf shape cloak.~
+ExtF 262144
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 94
+Mat  iron~
+Wear 10
+Lev  97
+Cost 970
+Val  26 26 26 22 0
+Affc 'cultural artistry'   1  88  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 9
+Lev  97
+Cost 970
+Val  26 26 26 22 0
+Affc 'cultural artistry'   1  88  -1  -4  25          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name herbal pouch~
+ShD  ({MWoven{X) an Herbal Pouch~
+Desc An herbal pouch lies on the ground.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill haste~
+ShD  a pill of haste~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 58 0 0 0
+Spell 1 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 5400
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 6800
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 6560
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 7840
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 7120
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 7960
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion word of recall~
+ShD  a potion of word of recall~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 95 -1 -1 -1
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion word of recall~
+ShD  a potion of word of recall~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 95 -1 -1 -1
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion word of recall~
+ShD  a potion of word of recall~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 95 -1 -1 -1
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion word of recall~
+ShD  a potion of word of recall~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 95 -1 -1 -1
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion word of recall~
+ShD  a potion of word of recall~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 95 -1 -1 -1
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion clear thoughts~
+ShD  a potion of clear thoughts~
+Cond 100
+Wear -1
+Lev  50
+Cost 500
+Val  25 444 -1 -1 -1
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion empowerment~
+ShD  a potion of empowerment~
+Cond 100
+Wear -1
+Lev  41
+Cost 500
+Val  20 346 -1 -1 -1
+Spell 1 'empowerment'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion attunement~
+ShD  a potion of attunement~
+Cond 100
+Wear -1
+Lev  41
+Cost 500
+Val  20 297 -1 -1 -1
+Spell 1 'attunement'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion attunement~
+ShD  a potion of attunement~
+Cond 100
+Wear -1
+Lev  41
+Cost 500
+Val  20 297 -1 -1 -1
+Spell 1 'attunement'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3343
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3185
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3273
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2590
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2398
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill giant strength~
+ShD  a pill of giant strength~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 55 0 0 0
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1377
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3011
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2450
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11129
+Nest 1
+ExtF 16777240
+Cond 98
+Wear -1
+Cost 4240
+Val  0 8 14 26 136
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 2565
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2565
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2565
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2565
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill stonespirit~
+ShD  a pill of stonespirit~
+Cond 100
+Wear -1
+Lev  40
+Cost 0
+Val  40 194 0 0 0
+Spell 1 'stonespirit'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 83
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1887
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+End
+
+#O
+Vnum 1887
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+End
+
+#O
+Vnum 1887
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+End
+
+#O
+Vnum 1882
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'refresh'
+Spell 2 'cure light'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1889
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1888
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 1815
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 1886
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1886
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1886
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1880
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sympathy'
+Spell 2 'cure disease'
+End
+
+#O
+Vnum 1882
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'refresh'
+Spell 2 'cure light'
+End
+
+#O
+Vnum 1882
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'refresh'
+Spell 2 'cure light'
+End
+
+#O
+Vnum 1882
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'refresh'
+Spell 2 'cure light'
+End
+
+#O
+Vnum 1897
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1883
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 1883
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 1882
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'refresh'
+Spell 2 'cure light'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 1890
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'flesh to stone'
+End
+
+#O
+Vnum 5700
+Nest 0
+Name girdle~
+ShD  a girdle~
+Desc A tight leather girdle lies here, forgotten.~
+ExtF 8
+ExtF2 2
+WeaF 268437505
+Ityp 9
+Wt   3
+Cond 96
+Mat  leather~
+Wear 17
+Lev  97
+Cost 970
+Val  26 26 26 22 1
+Affc 'cultural artistry'   1  88  -1  -4  25          0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 94
+Wear 7
+Cost 11020
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 97
+Wear 19
+Cost 30000
+End
+
+#O
+Vnum 17505
+Nest 0
+Cond 95
+Wear 18
+Cost 28200
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1624
+Nest 0
+Cond 98
+Wear 15
+Cost 15000
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 94
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 94
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 1252
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10611
+Nest 0
+Name staff foresters wooden~
+ShD  {WStaff of the {GForesters{x~
+Desc You can see a strange wooden staff laying on the ground.~
+ExtF 1353
+Cond 63
+Wear 20
+Cost 500000
+Val  3 10 14 11 73
+End
+
+#O
+Vnum 1854
+Nest 0
+Cond 100
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  90 5 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1206
+Nest 0
+Name material coupon meteorite fragment {gjade{x~
+ShD  a {gmeteorite{x fragment~
+Desc the fragment of a rock that survived the fall from space is here.{/{YI bet it is made out of some cool alien material.{x ~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 0
+Name material coupon meteorite fragment {rredwood{x~
+ShD  a {rmeteorite{x fragment~
+Desc the fragment of a rock that survived the fall from space is here.{/{YI bet it is made out of some cool alien material.{x ~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 0
+Name material coupon meteorite fragment {rredwood{x~
+ShD  a {rmeteorite{x fragment~
+Desc the fragment of a rock that survived the fall from space is here.{/{YI bet it is made out of some cool alien material.{x ~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#END

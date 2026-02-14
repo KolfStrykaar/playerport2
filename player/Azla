@@ -1,0 +1,662 @@
+#PLAYER
+Name Azla~
+Surname Moall~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1418979030
+LogO 1422504142
+Vers 10
+Act  CDQTe
+Prom {m%h{M%H {m%m{M%M {m%v{M%V {R%X {w%gs {y%sg{x%B%c~
+Race human~
+Sex  2
+Cla  0
+Hmtown 0
+Levl 38
+recall_point 3001
+Levscale 30
+Xptolev  2209
+Sec  0
+Plyd 120552
+Not  1421104637 1421104641 0 1421104644 1421104639
+Scro 38
+Room 2659
+HMV  831 831 154 516 286 341
+Steel 1641
+Gold 21
+Bank 0
+Exp  200191
+AfBy GTVb
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1507328
+Comm MNO
+Pos  8
+Prac 6
+Alig  528
+Ethos 1
+Hit   10
+Dam   12
+ACs 11 3 -7 67
+Attr 20 16 18 28 26 13
+AMod 12 44 54 7 44 4
+Pass AzcwOVFR6lZqw~
+Titl  the Tempter of Fate~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 32
+HMVP 711 376 341
+Cnd  0 23 27 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 100 'armor'
+Sk 1 'burning hands'
+Sk 80 'chill touch'
+Sk 81 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'enchant weapon'
+Sk 1 'fireball'
+Sk 1 'levitate'
+Sk 1 'orb of containment'
+Sk 61 'giant strength'
+Sk 100 'infravision'
+Sk 99 'invisibility'
+Sk 1 'know alignment'
+Sk 100 'magic missile'
+Sk 1 'shocking grasp'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'dagger'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 80 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 12 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'mount'
+Sk 1 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'blade barrier'
+Sk 1 'flyingswords'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'battlestaff'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 1 'lore'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'mounted combat'
+Sk 1 'sweep attack'
+Sk 3 'surge'
+Sk 1 'endure'
+Sk 1 'evade'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'endure disease'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'shrink'
+Sk 1 'clear thoughts'
+Sk 1 'lock'
+Sk 1 'battletide'
+Affc 'detect good'   0  38  33   0   0         64
+Affc 'levitate'   0  99  95   0   0     524288
+Affc 'haste'   0 100  16   4   2    2097152
+Affc 'armor'   0  37  15 -20  17          0
+Affc 'glamour'   0  99  90   4  27          0
+Affc 'empowerment'   0  97  89   3   5          0
+Affc 'attunement'   0  98  89   3   3          0
+Affc 'attunement'   0  99  89   3   4          0
+Affc 'giant strength'   0  36  26   4   1          0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11249
+Nest 0
+Cond 100
+Wear 23
+Cost 2000
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 16192
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 1607
+Nest 0
+Cond 98
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 100
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 1200
+Nest 0
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16233
+Nest 0
+ExtF 16777545
+Cond 99
+Wear -1
+Cost 1350
+Val  3 6 10 34 40
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 9827
+Nest 0
+ExtF 8
+Cond 97
+Wear -1
+Cost 9000
+Val  1 4 26 33 4
+End
+
+#O
+Vnum 11170
+Nest 0
+ExtF 8
+Cond 98
+Wear -1
+Cost 2460
+Val  1 5 14 1 8
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11265
+Nest 0
+Cond 89
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11260
+Nest 0
+Cond 100
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 11263
+Nest 0
+Cond 100
+Wear -1
+Cost 475
+End
+
+#O
+Vnum 19009
+Nest 0
+ExtF 8
+Cond 99
+Wear 20
+Cost 10000
+Val  1 10 11 11 202
+End
+
+#END

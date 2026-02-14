@@ -1,0 +1,757 @@
+#PLAYER
+Name Sophie~
+Surname Rehtael~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1362272764
+LogO 1384716191
+Vers 10
+Act  CDFGQT
+Desc A small gleam of light catches your eye, it is a dull, almost non
+noticeable shine of a worn half-plate chest armor. Taking notice of the
+full figure you can conclude that it is a young woman, no older than say
+twenty. She stands to about five foot one, and carries a spear that is
+about four inches taller than her with her. She looks to weigh no more
+than one hundred and thirteen pounds, and is filled out for a young woman.
+
+Taking notice of the girls face you notice that it is framed with
+{rCrimson{R Red{x hair. Bangs hang down and cover matching colored
+eyebrows, while a bit drapes either side of her face. The rest is pulled
+back into a tail, tied by a black, worn ribbon. Being tied it still
+manages to reach the small of the womans back. Light {GEmerald{x eyes with
+flecks of {YGold{x peer out with a kind gaze.
+
+The womans attire appears to be poor armor, even though it does appear to
+have been made for her, still looks secondhand and old. The half plate
+covers her bussom, and an undershirt of bronze scale covers the rest of
+her torse, but stops at her arms  well before reaching her elbow. Swung
+over her back is a small kite shield, it at one time may have held a
+beautiful crest, now it is chipped and dented off leaving the dull steel
+plain.
+
+The spear held in the girls right hand also looks old, looking closer at
+the tip one can notice it is sharpened to a deadly point, and the wooden
+handle has a leather grip about three and a half feet from the head,
+allowing the girl a sizeable reach. On her waist is a scabbard that holds
+a single, slightly rusted shortsword.
+
+Her legs are covered in simple, tight brown leather leggings,with a
+matching pair of dull brown leather boots.
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Org 3
+Devotee 14
+Sex  2
+Cla  3
+Hmtown 0
+Levl 45
+recall_point 3001
+Levscale 30
+Xptolev  20092
+Sec  0
+Plyd 104012
+Not  1383251103 0 0 1364073483 0
+Scro 22
+Room 3369
+HMV  1090 1090 237 237 357 369
+Steel 902
+Gold 13924
+Bank 4000
+Exp  320908
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 786432
+Comm NO
+Pos  8
+Prac 7
+Alig  -718
+Ethos 0
+Hit   17
+Dam   19
+ACs 53 58 40 88
+Attr 18 13 22 13 30 13
+AMod 4 8 17 3 8 0
+Pass So8Xhs1ETByh6~
+Titl  - {WKnight {Xof the {YCrown{X~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 28
+HMVP 1005 197 369
+Cnd  0 12 52 0
+QuestPnts 349
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 76 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 4 'shield block'
+Sk 77 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 21 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 100 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 83 'second attack'
+Sk 88 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 75 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 75 'lunge'
+Sk 91 'dual wield'
+Sk 83 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 70 'solamnic tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 70 'battlecry'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 81 'guard'
+Sk 1 'headbutt'
+Sk 70 'charge'
+Sk 70 'pardon'
+Sk 70 'backup'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 97
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 99
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 94
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 88
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 79
+Wear 24
+Cost 0
+End
+
+#O
+Vnum 1258
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3011
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 11202
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3777
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 113 0 0
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3707
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 914
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3771
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5798
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  9999 8799 11 0 0
+End
+
+#O
+Vnum 3383
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3383
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3383
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3383
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 16230
+Nest 1
+Cond 98
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 0 0 0
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 97
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 100
+Wear 20
+Cost 10000
+End
+
+#END

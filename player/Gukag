@@ -1,0 +1,285 @@
+#PLAYER
+Name Gukag~
+Surname Deepshield~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1411766140
+LogO 1411776036
+Vers 10
+Act  CDEGQTe
+Desc You see a dwarf, cloaked and hooded in dark rags. The occasional glint of
+steel is apparent through the shifting cloth folds and a weapon hangs 
+from it's waist, a battered shield slung across his back. The few
+areas of visible skin show an unhealthy pallor. A bristly black beard
+pokes out from beneath the hood but the rest of it's face is lost in shadows.
+
+~
+Prom <%hhp %mm %vmv> ~
+Race theiwar~
+Sex  1
+Cla  3
+Hmtown 4
+Levl 6
+recall_point 10664
+Levscale 30
+Xptolev  1580
+Sec  0
+Plyd 9830
+Not  0 0 0 0 0
+Scro 22
+Room 10660
+HMV  127 127 113 113 96 130
+Steel 21
+Gold 161
+Bank 0
+Exp  7220
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Save  -25
+Alig  -748
+Ethos 1
+Hit   25
+ACs 27 40 23 80
+Attr 17 12 13 13 18 10
+AMod 2 0 0 1 3 0
+Pass GuLQjn11.CmW6~
+Titl  the Sentry~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 1
+HMVP 127 113 130
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 59 'mace'
+Sk 1 'polearm'
+Sk 45 'shield block'
+Sk 1 'spear'
+Sk 41 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 57 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 8 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 46 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 6 'fast healing'
+Sk 100 'common'
+Sk 100 'dwarven tongue'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 1 'guard'
+Sk 1 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'bless'   0 181 116  25  18          0
+Affc 'bless'   0 185 116 -25  25          0
+Affc 'armor'   0 197   2 -20  17          0
+End
+
+#O
+Vnum 3771
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 97
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 10626
+Nest 0
+Cond 100
+Wear 20
+Cost 500
+End
+
+#O
+Vnum 10632
+Nest 0
+Cond 100
+Wear 15
+Cost 160
+End
+
+#O
+Vnum 10633
+Nest 0
+Cond 100
+Wear 6
+Cost 75
+End
+
+#O
+Vnum 10634
+Nest 0
+Cond 100
+Wear 11
+Cost 60
+End
+
+#O
+Vnum 10631
+Nest 0
+Cond 99
+Wear 5
+Cost 400
+End
+
+#O
+Vnum 10620
+Nest 0
+Cond 100
+Wear 17
+Cost 50
+End
+
+#O
+Vnum 10621
+Nest 0
+Cond 100
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 10664
+Nest 0
+Cond 100
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 10682
+Nest 0
+Cond 100
+Wear 13
+Cost 200
+End
+
+#END

@@ -1,0 +1,264 @@
+#AREADATA
+Name Temple of Nature~
+Builders Sargonnas~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 500 599
+Credits Sargonnas~
+Security 9
+End
+
+
+
+#MOBILES
+#500
+guardian kagonesti temple nature~
+a Guardian of the Temple~
+A Kagonesti Guardian of the Temple of Nature stands his post here.
+~
+Slender and tall, this Kagonesti stands out even more so than the normal
+Kagonesti would.  His arms, face and entire body, what is visible, is
+covered completely with tribal tattoos.  He doesn't wear a lot of clothing,
+nor armor for that matter, other than a few simple, skimpy pieces of cloth
+to protect vital areas of the body.  He holds a smooth staff with his right
+hand and some kind of tribal beads in his left.  He appears unmoving, only
+slightly averting his eyes to take a quick glance over at anyone who
+approaches the Temple of Nature which he guards.  
+~
+kagonesti~
+ABN DFJNV 1000 0
+88 300 132d29+1601 88d10+85 25d3+34 thrust
+-32 -32 -32 -14
+EHJNU AB CDIJP 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 8
+#510
+golametti healer old elf~
+Golametti the earthen healer~
+An old elf healer, Golametti sits in the corner, healing the injured.
+~
+Looking at this old man, makes you feel right at home, as if you are now
+"ONE" with nature and all it's beauty.  His pointy ears and other elven
+features give away his identity as being of the Kagonesti elves.  In his
+right hand, he holds a willow branch, which seems to glow an eerie white
+glow.  Perhaps donating a few gold coins shall win you the opportunity of
+being rewarded with his healing touch.  
+~
+kagonesti~
+ABa DFJZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 thwack
+-126 -126 -126 -84
+FHN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res I
+#0
+
+
+
+#OBJECTS
+#500
+wooden staff nature~
+a Wooden Staff of Nature~
+A smooth wooden staff with an emblem of a leaf on it, lies here.~
+wood~
+weapon BPSY 0 ANZ
+staff 9 11 thwack Q
+90 3 500 P
+#508
+natural spring~
+a natural spring~
+A natural spring flows here, trickling fresh water into a small pool.~
+soil~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#509
+donation rack shelf shelves wooden~
+the donation rack~
+A number of large wooden shelves, carved into the walls, hold items which are donated.~
+pine~
+container 0 0 P
+10000 0 0 100000000 0
+0 16960 0 P
+#510
+vine portal twisted~
+a {gvine{x portal~
+A portal of twisted {gvines{x stands here.~
+plant~
+portal O 0 P
+0 0 A CDEFGJKLM 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#500
+Entrance to Temple of Nature~
+The entrance to the Temple of Nature is made of a very large tree, nine
+feet wide, and four feet in depth.  The ground is covered by many leaves
+from the tree, all different colors and sizes make the entrance look as
+natural as possible.  Just inside the opening, jars of glow bugs are nestled
+places illuminating the pathway onward.  
+~
+0 8 24
+D1
+~
+~
+0 0 501
+D3
+~
+~
+0 0 2469
+S
+#501
+Atrium Hall - Forester Temple~
+Large trees, at least a hundred feet high, drape over the Temple, giving
+it a natural cover from the elements, a number of huts are located within
+the gathering.  Each holds a special element of the Temple inside.  Perhaps
+a further inspection of the huts is needed?  
+~
+0 8 24
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 505
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 500
+S
+#502
+Safe Haven - Forester Temple~
+A large hut made of tree branches and several bushes make the area seem
+like a comfort zone.  Hammocks are strung throughout the room, while a large
+mass of fireflies hang overhead sending off a soft glow to the area.  A
+number of fellow Foresters rest after long travels, a few sit on benches of
+soft brush, talking of adventures.  
+~
+0 8 24
+D2
+~
+~
+0 0 501
+S
+#503
+Natural Spring - Forester Temple~
+A grassy area with a large natural spring in the middle, fresh clean
+water, from the deepest of wells, pours into a small pool around the spring.
+The large masses of fireflies over head give a soft glow over the area,
+making anyone who enters relaxed and calm.  The soft grass seems inviting
+enough to take a quick nap upon.  
+~
+0 8 24
+D0
+~
+~
+0 0 501
+S
+#504
+Healer's Den - Forester Temple~
+A candle lit room, a number of wild flowers and plants grow here.  An old
+healer sits in the corner among some young trees, tending to what appears to
+be a few potted plants.  The glow of the candle throws shadows over the
+room, giving the feeling of being in a constant "twilight hour" state.  
+~
+0 8 24
+D2
+~
+~
+0 0 505
+S
+#505
+Temple Main Room - Forester Temple~
+Just inside the trunk of an even larger tree this one however, has rooms
+adjoining it.  Lit by the same glow bugs in jars, the room has its own soft
+glowing ambiance.  A passage south leads to the Donation Room, while a wide
+walkway north leads to what is called the Healer's Den.  
+~
+0 8388616 37
+D0
+~
+~
+0 0 504
+D2
+~
+~
+0 0 506
+D3
+~
+~
+0 0 501
+S
+#506
+Donation Room - Forester Temple~
+A simple and easy way to help out a fellow member is the simple exchange
+of items, equipment or weapons.  A simple system has been created to still
+offer help to when no one is around.  The many wooden shelves around the
+room allow anyone to donate at anytime.  
+ 
+{gA sign reads, "Take what you need, share...  So others can do the same."
+~
+0 8 24
+D0
+~
+~
+0 0 505
+S
+#554
+Unused~
+~
+0 2138116 0
+S
+#0
+
+
+
+#SPECIALS
+M 500 spec_orgguard
+S
+
+
+
+#RESETS
+M 0 500 4 500 1
+E 0 500 0 20
+M 0 500 4 502 1
+E 0 500 0 20
+O 0 508 0 503
+M 0 500 4 503 1
+E 0 500 0 20
+M 0 510 1 504 1
+M 0 500 4 505 1
+E 0 500 0 20
+O 0 509 0 506
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

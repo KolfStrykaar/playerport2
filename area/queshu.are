@@ -1,0 +1,674 @@
+#AREADATA
+Name Que-Shu~
+Builders Paladine~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 17401 17500
+Credits Paladine~
+Security 9
+End
+
+
+
+#MOBILES
+#17404
+barbarian drunk~
+a drunk barbarian~
+A barbarian is here drinking ale.
+~
+~
+human~
+ABG 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 pound
+-10 -10 -10 -4
+CDNOU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#17405
+barbarian shaman~
+a barbarian shaman~
+A barbarian shaman is here eyeing you
+~
+~
+human~
+ABGR 0 0 0
+37 37 75d12+374 37d10+85 12d3+23 punch
+-15 -15 -15 -7
+0 B C 0
+stand stand male 0
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#17406
+barbarian~
+a barbarian~
+A barbarian stands here blocking your path
+~
+~
+human~
+ACFG 0 0 0
+35 35 71d11+354 35d10+85 11d3+22 pound
+-13 -13 -13 -6
+CDNOU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#17407
+barbarian cleric~
+the barbarian cleric~
+A barbarian cleric stands here
+~
+~
+human~
+ABQ 0 0 0
+36 36 73d12+364 36d10+85 12d3+23 pound
+-14 -14 -14 -7
+CDNOU B N 0
+stand stand female 300
+AHMV ABCDEFGHIJK M unknown 0
+#17411
+old barbarian~
+an old barbarian woman~
+An Old barbarian woman is here brewing potions for the village
+~
+~
+human~
+AB 0 0 0
+40 40 60d13+365 40d10+85 11d3+18 slap
+-9 -9 -9 -1
+0 ABCD 0 0
+stand stand female 4000
+AHMV ABCDEFGHIJK M unknown 0
+#17412
+barbarian guard~
+a barbarian guard~
+A barbarian guard stands here guarding the chieftain
+~
+~
+human~
+ABGT 0 0 0
+55 55 111d18+1111 55d10+85 18d3+32 pound
+-27 -27 -27 -16
+CDEIJNOU 0 EP 0
+stand stand male 70
+AHMV ABCDEFGHIJK M unknown 0
+#17413
+barbarian guard~
+a barbarian guard~
+A barbarian guard screams and attacks you!
+~
+~
+human~
+ABFGT 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 pound
+-10 -10 -10 -4
+CDEIOU 0 E 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#17415
+barbarian elder~
+the barbarian elder~
+An elder barbarian is standing here
+~
+~
+human~
+ABGR 0 0 0
+50 50 101d16+506 50d10+85 16d3+30 pound
+-24 -24 -24 -14
+CDEHNOU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#17419
+barbarian female~
+a barbarian female~
+A barbarian female is here cooking food for the tribe
+~
+~
+human~
+ABGT 0 0 0
+45 45 91d15+455 45d10+85 15d3+27 punch
+-21 -21 -21 -11
+CFHIJNU 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#17405
+shaman headdress~
+({WFeathered{x) a Shaman's headdress~
+The feathered headdress of a barbarian shaman has been dropped here.~
+feathers~
+armor GS 0 AEc
+E E E CD 0
+55 4 0 P
+A
+4 2
+A
+12 30
+#17407
+barbarian dagger~
+a barbarian dagger~
+A barbarian cleric's dagger has been left here.~
+stone~
+weapon IKSY 0 ANc
+dagger 6 6 pierce D
+35 2 0 P
+#17411
+pink potion~
+a {Mpink{x potion~
+A {Mpink{x potion in a crude bottle lies here on the ground.~
+glass~
+potion GS 0 AO
+15 'armor' 'cure blindness' 'reserved' 'reserved'
+20 5 1000 P
+#17419
+barbarian necklace~
+a barbarian necklace~
+A barbarian necklace has been left here~
+bone~
+jewelry GS 0 ACc
+0 0 0 0 0
+45 10 0 P
+A
+3 3
+A
+4 1
+A
+12 10
+#17420
+large key~
+a large key~
+A large key lays here~
+iron~
+key 0 0 A
+0 0 0 0 0
+0 0 0 P
+#17421
+large club mace~
+a large club~
+A large club has been left here~
+oak~
+weapon GSY 0 ANZ
+mace 7 10 crush H
+60 6 0 P
+A
+2 -1
+A
+19 4
+A
+18 4
+#0
+
+
+
+#ROOMS
+#17408
+Behind the Shrine ~
+You have entered a small room behind the shrine.  This is where the
+clerics come to study.  A large bookcase lies against the east wall filled
+with books on many different subjects.  A fireplace lies in the south wall
+that burns brightly that warms the room to a nice temperature.  A small
+table sits next to the fireplace, covered in papers and a small plate of
+food.  It would be best if you didn't disturb anything.  To the north you
+can still hear the moans of injured men.
+~
+0 4 0
+D0
+~
+~
+0 0 17407
+S
+#17409
+Center Arena ~
+You have entered the large arena.  In he centre is a large pit in which
+two large men are engaged in combat.  Surrounding the pit are large stands
+made of wood.  Many people line the stands and cheer on their favorite
+combatant.  To the north, you can see the beginning of a stone path.  To the
+east and west, you can see large fields.
+~
+0 4 0
+D0
+~
+~
+0 0 17417
+D1
+~
+~
+0 0 17410
+D2
+~
+~
+0 0 17405
+D3
+~
+~
+0 0 17414
+S
+#17410
+East of Arena~
+The sounds of battle are still eminent here.  This seems to be where the
+losers of battles are taken.  You can see men lying on the ground here being
+tended to by their lackeys.  To the north, you can see the guards hut.  A
+loud roar comes from the west.  Moments later, another man is carried in.
+~
+0 4 0
+D0
+~
+~
+0 0 17413
+D2
+~
+~
+0 0 17412
+D3
+~
+~
+0 0 17409
+S
+#17411
+Potion Makers Hut~
+You have entered a barbarian potion maker's hut.  As you enter, you see,
+probably hundreds of crude bottles, with many unknown contents and affects,
+lining the clay shelves.  Standing behind a stone table, you see an old
+female barbarian brewing something over a hot fire.  The fumes coming from
+the black pot almost choke you.  
+~
+0 8 2
+D1
+~
+~
+0 0 17403
+S
+#17412
+Large Hut~
+Upon entering the hut, you are hit with a stench that would make you sick.
+The hut is filled with the bodies of those who did not fare out well in the
+tournament.  A small man stands behind the counter watching your every move.
+To the north you can still hear the groans of men.  
+~
+0 0 0
+D0
+~
+~
+0 0 17410
+S
+#17413
+Guard's Hut~
+You are inside the guards hut.  Beds line the edges of the hut, some are
+occupied by off-duty guards.  A small fireplace lies in the middle of the
+room, which is not lit right now.  It seems to be more for heat than for
+light, as there are many torches throughout the hut.  A weapon rack stands
+near the back wall.  You think it would probably be a bad idea to take
+anything.  A large table lies next to the rack where guards are sitting down
+for a bite to eat.  A guard at the table notices you and gives you an
+unwelcome stare.  Maybe this is not the best place to be.
+~
+0 0 0
+D2
+~
+~
+0 0 17410
+S
+#17414
+West of Arena~
+You are now west of the arena.  This is a large area where the combatants
+come to prepare for their battles.  The men look large and very powerful. 
+You wouldn't want to mess with any of them.  A large stable has been erected
+so the combatants have a place to leave their horses.  Piles of straw and
+hay have been placed by the stable for the horses.  To the north you can see
+the village hall where the combatants go to sign in.  To the south you can
+see a large temple.
+~
+0 0 0
+D0
+~
+~
+0 0 17416
+D1
+~
+~
+0 0 17409
+D2
+~
+~
+0 0 17415
+S
+#17415
+Ancestors' Temple~
+Upon entering the temple, you get the feeling that you are not welcome
+here.  This temple is used by the elders of the village and the chief only. 
+Commoners are not allowed here.  The temple looks as finely crafted as the
+other but the layout is a bit different.  An elder notices you from across
+the room and gives you a stern look.  Maybe you should leave before they
+really get mad. 
+~
+0 0 0
+D0
+~
+~
+0 0 17414
+S
+#17416
+Village Hall~
+Upon entering the village hall, you can see a large table in the centre of
+the room.  Chairs line both sides of the table.  Another chair sits at the
+end of the table, it look to be larger and very finely crafted.  This is
+where the elders come to discuss issues concerning the village.  Large
+torches light the room.  Many people stand near the table signing in for the
+tournament.  A small list has been posted on the wall showing the next
+rounds of the tournament.  To the south, you can see the preparing zone for
+the combatants.
+~
+0 0 0
+D2
+~
+~
+0 0 17414
+S
+#17417
+North of Arena~
+You have entered the north side of the arena.  This is where the victors
+come to celebrate their triumphs.  The smell of ale is strong as the
+combatants congratulate each other.  To the east is a very long hut with a
+large chimney protruding from the top.  The smell of food fills you lungs. 
+To the west is a large temple where the barbarians go to worship their deity
+for strength and wisdom.  To the north is a large stone path.  To the south
+you can see the arena.
+~
+0 0 0
+D0
+~
+~
+0 0 17420
+D1
+~
+~
+0 0 17419
+D2
+~
+~
+0 0 17409
+D3
+~
+~
+0 0 17418
+S
+#17418
+Ancestors' Temple~
+This is the Temple of the Ancestors'.  The temple is well crafted and
+various forms of artwork are displayed throughout.  This is where the people
+of the village come to pray to their deity.  There are a few people here but
+most are watching the tournament.  You recognize a few of the combatants
+from the tournament are here praying to their deity for strength and
+courage.  Torches line the high-vaulted ceiling giving this place a nice
+atmosphere.  To the east you can still hear the cheers of victory. 
+~
+0 0 0
+D1
+~
+~
+0 0 17417
+S
+#17419
+Long Hut~
+You are standing inside the food hut.  It is a very long hut with tables
+lining both sides.  A torch has been placed over every table for light. 
+Near the back, you can see a table much larger than the others.  Food has
+been placed on this table for the combatants and the fans of the tournament.
+The smell fills your lungs and makes your mouth water.  Maybe you should
+stay and get a bite to eat.
+~
+0 0 0
+D3
+~
+~
+0 0 17417
+S
+#17420
+Stone Path~
+You are standing on a large stone path.  Many hours must have been spent
+laying each stone just right.  To the north, you can see a large hut.  To
+the south you san still see men drinking and having a good time.  
+~
+0 0 0
+D0
+~
+~
+0 0 17421
+D2
+~
+~
+0 0 17417
+S
+#17421
+Entrance to Chieftain’s Hut~
+You are standing outside the Chieftain’s hut.  The hut looks very large
+and made from only the finest materials.  A large door stands in the centre
+of the wall.  The door is made of solid wood and bears a large lock on it. 
+The grass around the hut has been recently groomed and you can tell that it
+is kept very neat and tidy.  You can see smoke coming from the chimney which
+means either that the chief is in or has just left.  You get the sense that
+the chief does not take kindly to visitors, and probably wouldn't want you
+to barge right in.  Maybe you should return to the tournament south of here.
+~
+0 0 1
+D0
+~
+~
+1 17420 17422
+D2
+~
+~
+0 0 17420
+S
+#17422
+Inside the Chieftain’s Hut~
+You have entered the Chieftain’s hut.  A fire burns in a large fireplace
+no the north wall.  On the east wall, you can see the Chieftain’s be which has
+nod been made.  A table sits against the west wall with only one chair
+beside it.  You figure that the Chief likes to eat alone.  A large desk sits
+next to the table but looks like it has not been used much lately.  A
+bearskin rug lies on the floor, its eyes staring right at you.  It looks
+to have been a very large bear and rumor has it that the chief killed it
+with his bare hands.  It would be best if you left the hut as who knows what
+might happen if you are caught here.
+~
+0 8 0
+D2
+~
+~
+1 0 17421
+S
+#17401
+Before the Village of Que-Shu~
+This short path just north of the trail which leads to Solace and Xak
+Tsaroth, heads north into a barbarian village called Que-Shu.  Exotic things
+of interest can be found here, or so it is said.  Smoke from fires burning
+inside huts can be seen billowing out.  The path leads back south onto a
+main road.  
+~
+0 0 2
+D0
+~
+~
+0 0 17402
+D2
+~
+~
+0 0 4295
+S
+#17402
+Inside the Village of Que-Shu~
+You have stepped into the barbarian village of Que-Shu.  They are a tribe
+of warrior barbarians that usually life in the northern waste.  This tribe
+however was driven to the edge of the waists by the dragon armies many years
+ago and decided to stay.  Although they live near the city of Solace, they
+do not take kindly to unwanted visitors.  Ever since the dragon armies
+invaded their homeland, they have not trusted other races.  To the north you
+see a dirt road and many clay huts.  To the south, a path leads to different
+parts of these lands.  
+~
+0 0 2
+D0
+~
+~
+0 0 17403
+D2
+~
+~
+0 0 17401
+S
+#17403
+Dirt Street~
+You're walking along a dirt street, looking both east and west you see
+clay huts that the barbarians that live in this village dwell.  To the west,
+you notice a strange looking hut with noxious fumes flowing from its smoke
+hole.  The Dirt Street continues north. 
+~
+0 0 3
+D0
+~
+~
+0 0 17404
+D2
+~
+~
+0 0 17402
+D3
+~
+~
+0 0 17411
+S
+#17404
+Dirt Street~
+You are walking along a primitive dirt road which stretches from the gate
+of the village to the center area of the village.  On both the east and west
+sides of the street you can see clay huts in which the native barbarians
+live in.  Further north down the dirt road you see some larger huts, to the
+south the road leads to the gate of the village.
+~
+0 0 0
+D0
+~
+~
+0 0 17405
+D2
+~
+~
+0 0 17403
+S
+#17405
+Dirt Street ~
+You are at the end of the dirt road.  To the north, you see a sunken
+arena, to the east and west you see large clay huts.  You hear muffled
+hoots and cries from the hut from the west.  The hut to the east seems to be
+larger than most and very strangely shaped. 
+~
+0 4 0
+D0
+~
+~
+0 0 17409
+D1
+~
+~
+0 0 17407
+D2
+~
+~
+0 0 17404
+D3
+~
+~
+0 0 17406
+S
+#17406
+A Noisy Hut~
+The hut seems to be a local tavern, filled with the musty stench of sweat
+and ale.  There are many barbarians in the room, some are drinking ale and
+talking in a foreign language, others seem to be eating the local food.  As
+you walk into the hut all activity seems to stop and all eyes seem to be on
+you.  You don't seem to be welcome here.
+~
+0 4 0
+D1
+~
+~
+0 0 17405
+S
+#17407
+Shrine of the Healing Hand~
+A sense of peace fills this area, radiating from the simple shrine to the
+healing goddess, Mishakal.  Although crude in appearance, it is highly
+revered by the people of this village.  After Goldmoon's return with word of
+the true gods following the War of the Lance, more and more young villagers
+have come to put their faith in Mishakal's blessings.  Each day, the village
+elders come to pay their respects and learn from the goddess' teachings.  
+~
+0 8388612 29
+D2
+~
+~
+0 0 17408
+D3
+~
+~
+0 0 17405
+S
+#0
+
+
+
+#SPECIALS
+M 17412 spec_guard
+M 17415 spec_cast_mage
+M 17404 spec_rloader
+M 17405 spec_cast_mage
+M 17407 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 17421 0 2
+D 0 17422 2 2
+M 0 17411 1 17411 1
+G 0 17411 0
+M 0 17413 4 17413 4
+M 0 17415 2 17415 1
+M 0 17415 2 17418 1
+M 0 17419 1 17419 1
+E 0 17419 0 3
+M 0 17412 1 17421 1
+E 0 17421 0 20
+G 0 17420 0
+M 0 17406 1 17406 1
+M 0 17405 1 17406 1
+E 0 17405 0 6
+M 0 17404 2 17406 2
+M 0 17407 1 17407 1
+E 0 17407 0 20
+S
+
+
+
+#SHOPS
+17411 0 0 0 0 10 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

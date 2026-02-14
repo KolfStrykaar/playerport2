@@ -1,0 +1,1346 @@
+#PLAYER
+Name Vilae~
+Surname Raveneye~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1140543452
+LogO 1738536738
+Vers 10
+Act  DGLMQT
+Desc This man has short blonde hair on the top of his head, parted in the
+latest fashion, and well-groomed.  Steel grey eyes peer out from an average
+face, well-defined features pointing to slightly elven heritage.  Underneath
+a dark {rred{x tunic, he wears a leather breastplate.  Over the tunic is a
+black cloak, visibly expensive and seemingly enchanted against grime and
+dust.  His arms are covered by leather bracers dyed to match the cloak.  A
+short, slightly curved sword is strapped to his back underneath the cloak,
+at a slight angle from his spine.  A similar sword is tied to his waist at a
+horizontal angle, so that his wrist can rest easily upon it while running. 
+Loose black pants, also fashionable and expensive are tied to his waist by
+an elegant {rsash{x that reaches his right knee.  Boots with a hard leather
+plate over the shins are on his feet, padded and nearly silent where they
+touch the ground.  He is about average height for a man, and of slight
+build.  
+~
+Prom {r<%hhp %mm %vmv {W%gg {R%B{x{r>{X ~
+Race half-elf~
+Org 262
+Religion 13
+Sex  1
+Cla  9
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1539150
+Sec  0
+Plyd 2328488
+Not  1406939488 1395959842 0 1405559829 1298827134
+Scro 22
+Room 3369
+HMV  5015 5015 1112 1112 1551 1551
+Steel 4027
+Gold 164135
+Bank 659296
+Exp  20944900
+AfBy DFJO
+Deaths 8
+FlagTot 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3473408
+Comm NOQ
+Pos  8
+Prac 12
+Save  -75
+Alig  -866
+Ethos 0
+Hit   61
+Dam   59
+ACs -498 -502 -499 -474
+Wimp  500
+Yield  500
+Attr 17 17 32 16 32 16
+AMod 9 3 4 18 6 5
+Pass Vigi6ejt.ePoI~
+Titl  the {rAristocrat{x~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 371
+HMVP 4181 562 1401
+Cnd  0 53 17 0
+QuestPnts 190
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell ({rAssa{Dssin{x)~
+Alias ooc say {rOO{DC{x~
+Sk 82 'detect hidden'
+Sk 66 'detect poison'
+Sk 87 'haste'
+Sk 75 'infravision'
+Sk 95 'axe'
+Sk 100 'dagger'
+Sk 81 'flail'
+Sk 1 'mace'
+Sk 100 'polearm'
+Sk 25 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 95 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 76 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 98 'deathgrip'
+Sk 32 'demand'
+Sk 75 'circlestab'
+Sk 100 'dual wield'
+Sk 78 'mount'
+Sk 75 'battle tactics'
+Sk 70 'trophy'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 92 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'peek'
+Sk 78 'pick lock'
+Sk 96 'sneak'
+Sk 52 'recall'
+Sk 100 'strangle'
+Sk 76 'cutthroat'
+Sk 100 'assassinate'
+Sk 70 'backup'
+Sk 99 'tumble'
+Sk 83 'scout'
+Sk 84 'second backstab'
+Sk 100 'taunt'
+Sk 95 'eavesdrop'
+Sk 95 'staff'
+Sk 75 'eyerub'
+Sk 75 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+End
+
+#O
+Vnum 1255
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262152
+Cond 100
+Wear 12
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name form fitting form-fitting leather body suit bodysuit~
+ShD  form-fitting {DLeather{x bodysuit~
+Cond 93
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name small wrist blade wristblade~
+ShD  a small {Dwristblade{x~
+ExtF 262144
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 1916
+Nest 0
+Name brown leather belt various weapons~
+ShD  a {yBrown{x leather belt with various weapons~
+Cond 92
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name small wrist blade wristblade~
+ShD  a small {Dwristblade{x~
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  90
+Cost 900
+Val  25 25 25 21 0
+Affc 'cultural artistry'   1  80  -1  -4  25          0
+End
+
+#O
+Vnum 5617
+Nest 0
+Name black leather pants~
+ShD  {DBlack{x leather pants~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name raven ring~
+ShD  a {DRaven{x ring~
+Cond 99
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name silent padded leather boots~
+ShD  ({DSilent{x) Padded leather boots~
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name concealing silk neck cover~
+ShD  a ({DConcealing{x) Silk neck cover~
+ExtF 786440
+Cond 94
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name black leather choker~
+ShD  a {DBlack{x leather choker~
+ExtF 786440
+Cond 96
+Wear 3
+Cost 13000
+Val  25 24 26 24 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name concealing black metal mask~
+ShD  a ({DConcealing{x) Black metal mask~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 98
+Mat  leather~
+Wear 7
+Lev  74
+Cost 740
+Val  21 21 21 17 0
+Affc 'cultural artistry'   0  64  -1  22  13          0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  90
+Cost 900
+Val  25 25 25 21 0
+Affc 'cultural artistry'   1  80  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  90
+Cost 900
+Val  20 20 20 16 0
+Affc 'cultural artistry'   1  80  -1  -4  25          0
+End
+
+#O
+Vnum 15734
+Nest 0
+Name garrote cord~
+ShD  a {rGarrote{x~
+Desc a cord used for strangling lies here.~
+ExtF 262152
+Cond 90
+Wear -1
+Cost 2210
+Val  7 4 13 4 65536
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 9592
+Nest 0
+ShD  ({DVo{rl{Rca{rn{Dic{x) a hunk of rock~
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 99
+Mat  plant~
+Wear -1
+Lev  100
+Cost 1000
+Val  1 10 14 1 16457
+Affc 'cultural artistry'   5 100  -1   0   0      16384
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3048
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 3836
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 4816
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14278
+Nest 1
+ExtF 67897882
+Cond 97
+Wear -1
+Cost 500
+Val  8 12 14 11 10
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 16777473
+Cond 97
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82017
+End
+
+#O
+Vnum 3029
+Nest 1
+ExtF 2576
+Cond 85
+Wear -1
+Lev  4
+Cost 77
+Val  6 1 7 7 4
+End
+
+#O
+Vnum 1976
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 13205
+Nest 1
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16777226
+WeaF 8193
+Cond 97
+Wear -1
+Cost 900
+Val  2 10 16 2 201
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 99
+Wear -1
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 9869
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16777290
+Cond 100
+Wear -1
+Cost 5280
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777820
+Cond 100
+Wear -1
+Cost 5180
+Val  1 11 14 31 203
+End
+
+#O
+Vnum 11600
+Nest 1
+ExtF 35353
+Cond 99
+Wear -1
+Cost 1000
+Val  1 11 16 1 98304
+End
+
+#O
+Vnum 12160
+Nest 1
+ExtF 16777758
+Cond 100
+Wear -1
+Cost 4790
+Val  1 5 26 1 93
+End
+
+#O
+Vnum 12262
+Nest 1
+Cond 100
+Wear -1
+Cost 4770
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 13 19 33288
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1627
+Nest 1
+Name sharp sword~
+ShD  a ({WSharp{x) Sword-Baton~
+ExtF 17301577
+Cond 92
+Wear -1
+Cost 9378
+Val  2 10 14 33 13
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF 8
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 97
+Mat  steel~
+Wear -1
+Lev  94
+Cost 0
+Val  2 5 23 11 73
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12221
+Nest 1
+ExtF 16777821
+Cond 100
+Wear -1
+Cost 4830
+Val  0 10 14 38 1
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5435
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 3806
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3806
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dirk~
+ShD  a small dirk~
+Desc A sheathed dirk lies on the floor.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  2 10 16 34 16
+Affc 'cultural artistry'   5  97  -1   0   0         16
+End
+
+#O
+Vnum 19006
+Nest 1
+ExtF 152082964
+Cond 99
+Wear -1
+Cost 1200000
+End
+
+#O
+Vnum 3806
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name stone dagger~
+ShD  a stone dagger~
+Desc There appears to be a dagger rudimentaly cut from stone.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 97
+Mat  stone~
+Wear -1
+Lev  101
+Cost 1010
+Val  2 10 16 2 89
+Affc 'cultural artistry'   5 101  -1   0   0         16
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 99
+Mat  steel~
+Wear -1
+Lev  111
+Cost 1110
+Val  2 10 16 11 89
+Affc 'cultural artistry'   5 101  -1   0   0         16
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 91
+Wear -1
+Cost 7400
+Val  2 9 13 1 8
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name long knife~
+ShD  a long knife~
+Desc A long knife lies sheathed on the floor.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 95
+Mat  steel~
+Wear -1
+Lev  97
+Cost 970
+Val  2 8 12 34 16
+Affc 'cultural artistry'   5  87  -1   0   0         16
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 100
+Wear -1
+Cost 8448
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  3 9 13 26 221
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+Val  300 172 0 0 0
+End
+
+#O
+Vnum 17535
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name two sets throwing daggers~
+ShD  Two sets of throwing {Ddaggers{x~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 91
+Mat  wool~
+Wear 13
+Lev  74
+Cost 740
+Val  21 21 21 17 0
+Affc 'cultural artistry'   0  64  -1  22  13          0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name concealing black metal helmet~
+ShD  a ({DConcealing{x) Black metal helmet~
+ExtF 8
+Cond 100
+Wear 6
+Cost 90000
+Val  18 18 16 14 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name leather chest armor~
+ShD  {yLeather{x Chest armor~
+ExtF 262144
+Cond 98
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 2598
+Nest 0
+Name baton wooden oak~
+ShD  a wooden baton~
+Desc A simple wooden baton, made from quality oak lies here.~
+ExtF 150994944
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 0
+ExtF 67
+Cond 89
+Wear -1
+Cost 0
+Val  1 12 11 18 84033
+Affc 'enchant weapon'   1  91  -1   8  19          0
+Affc 'enchant weapon'   0  91  -1   8  18          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name dagger ringwe~
+ShD  a dagger named {bRingwe{x~
+Desc A dagger with a slight blue tinge to the blade, it has a platinum handle with a blue jewel set on the crosspiece.~
+ExtF 536873488
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 98
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  2 10 16 11 16462
+Affc 'deathblade'   1  34  24   0   0  536870912
+Affc 'cultural artistry'   5 100  -1   0   0      16384
+End
+
+#O
+Vnum 13205
+Nest 0
+Cond 100
+Wear 24
+Cost 900
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from A Royal Guard's hide~
+Desc A bag of fine A Royal Guard hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  33
+Cost 5050
+Val  1010 1 -1 100 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name long knife~
+ShD  a long knife~
+Desc A long knife lies sheathed on the floor.~
+ExtF 2576
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  2 10 16 34 16717
+Affc 'runeblade'   5  58  74   0   0        256
+Affc 'cultural artistry'   5 100  -1   0   0      16384
+End
+
+#END

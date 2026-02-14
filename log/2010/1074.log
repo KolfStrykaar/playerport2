@@ -1,0 +1,55 @@
+Sat Feb 27 18:15:30 2010 :: ROM is ready to rock on port 6100.
+Sun Feb 28 00:20:35 2010 :: Sock.sinaddr:  75.135.168.120
+Sun Feb 28 00:20:37 2010 :: EOF encountered on read.
+Sun Feb 28 00:28:03 2010 :: Sock.sinaddr:  204.209.44.14
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Write_to_descriptor: Broken pipe
+Sun Feb 28 00:28:03 2010 :: EOF encountered on read.
+Sun Feb 28 00:28:04 2010 :: EOF encountered on read.
+Sun Feb 28 00:40:59 2010 :: Sock.sinaddr:  110.20.8.202
+Sun Feb 28 00:41:04 2010 :: Loading Pashintra.
+Sun Feb 28 00:41:07 2010 :: Look out, Pashintra@110.20.8.202.optusnet.com.au has connected.
+Sun Feb 28 00:43:45 2010 :: [*****] BUG: Sig handler SIGSEGV
+*** glibc detected *** ../src/rom: double free or corruption (!prev): 0x081fc4f8 ***
+======= Backtrace: =========
+/lib/libc.so.6[0xb7eba8c4]
+/lib/libc.so.6(cfree+0x90)[0xb7ebe370]
+/lib/libc.so.6(fclose+0x134)[0xb7ea9184]
+../src/rom[0x808798f]
+../src/rom[0x8096e87]
+[0xb7fde420]
+../src/rom[0x80a28a2]
+[0x2074736f]
+======= Memory map: ========
+08048000-081e5000 r-xp 00000000 03:02 4440065    /home/mud/lok/waltz/playerport/src/rom
+081e5000-081e6000 rwxp 0019d000 03:02 4440065    /home/mud/lok/waltz/playerport/src/rom
+081e6000-08282000 rwxp 081e6000 00:00 0          [heap]
+b6f00000-b6f21000 rwxp b6f00000 00:00 0 
+b6f21000-b7000000 ---p b6f21000 00:00 0 
+b70eb000-b70f5000 r-xp 00000000 03:02 7913497    /usr/lib/libgcc_s.so.1
+b70f5000-b70f6000 rwxp 00009000 03:02 7913497    /usr/lib/libgcc_s.so.1
+b70f6000-b7105000 r-xp 00000000 03:02 10159735   /lib/libresolv-2.7.so
+b7105000-b7107000 rwxp 0000f000 03:02 10159735   /lib/libresolv-2.7.so
+b7107000-b7109000 rwxp b7107000 00:00 0 
+b7109000-b710d000 r-xp 00000000 03:02 10159732   /lib/libnss_dns-2.7.so
+b710d000-b710f000 rwxp 00003000 03:02 10159732   /lib/libnss_dns-2.7.so
+b710f000-b7118000 r-xp 00000000 03:02 10159776   /lib/libnss_files-2.7.so
+b7118000-b711a000 rwxp 00008000 03:02 10159776   /lib/libnss_files-2.7.so
+b711a000-b7e4f000 rwxp b711a000 00:00 0 
+b7e4f000-b7f95000 r-xp 00000000 03:02 10159762   /lib/libc-2.7.so
+b7f95000-b7f96000 r-xp 00146000 03:02 10159762   /lib/libc-2.7.so
+b7f96000-b7f98000 rwxp 00147000 03:02 10159762   /lib/libc-2.7.so
+b7f98000-b7f9b000 rwxp b7f98000 00:00 0 
+b7f9b000-b7fa4000 r-xp 00000000 03:02 10159736   /lib/libcrypt-2.7.so
+b7fa4000-b7fa6000 rwxp 00008000 03:02 10159736   /lib/libcrypt-2.7.so
+b7fa6000-b7fcd000 rwxp b7fa6000 00:00 0 
+b7fdd000-b7fde000 rwxp b7fdd000 00:00 0 
+b7fde000-b7fdf000 r-xp b7fde000 00:00 0          [vdso]
+b7fdf000-b7ffb000 r-xp 00000000 03:02 10159804   /lib/ld-2.7.so
+b7ffb000-b7ffd000 rwxp 0001b000 03:02 10159804   /lib/ld-2.7.so
+bff5d000-bff75000 rw-p bff5d000 00:00 0          [stack]

@@ -1,0 +1,1209 @@
+#AREADATA
+Name Darken Wood~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 2951 2999
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#2951
+forest guardian~
+forest guardian~
+The Forest Guardian stands here.
+~
+This Forest Guardian stands here to make sure no lowbies go into the
+forest and get toasted.  
+~
+qualinesti~
+AB BDGJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 punch
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M EXALL 2951 3~
+#2952
+white stag~
+a {WWhite{x Stag~
+A large and beautiful {WWhite{x Stag stands here munching on some grass.
+~
+A thick {Wwhite{x fur covers its entire body, from antlers to tail.  This
+beast has to be one of the largest stags ever known to walk the face of
+Krynn.  A light-green aura seems to surround this magnificent beast. 
+Perhaps trying to kill it would not be such a good idea, especially
+considering its antlers look as if they could pierce through solid steel like
+a hot knife through one of Tika's famous hot biscuits.  Peering into its
+eyes, it seems almost as if it's beckoning for you to follow.  Perhaps it
+will lead you through Darken Wood safely.  
+~
+dog~
+AB DFJZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 charge
+-126 -126 -126 -84
+FH ABCD 0 0
+stand stand none 0
+ACDGV ACDEFHJKQW L unknown 0
+F par UV
+M GRALL 2955 100~
+#2979
+grimbough tree~
+the Grimbough Tree~
+The Grimbough Tree stands here, waiting to devour you.
+~
+This tree doesn't look like any normal tree.  Its limbs move about,
+swinging in your direction as if they were alive and trying to attack you. 
+A faint image of a mouth can be seen near the base of the trunk.  Looking
+even closer, you can even make out sharp, razor teeth.  
+~
+doll~
+ABCOT DFHd -1000 0
+120 120 241d40+3637 120d10+85 40d3+65 beating
+-71 -71 -71 -46
+AEFGKN ILMNPQR ES GHJKO
+stand stand none 6500
+CDEMc ABCGHK G unknown 0
+F for J
+M GRALL 2990 75~
+#2990
+centaur keening wind~
+a Centaur of Keening Wind~
+A Centaur of Keening Wind is here looking for a fight.
+~
+Standing tall before you on four legs, is a brute centaur clad in armor.  
+~
+minotaur~
+AGOT JZad -1000 0
+80 70 141d23+1415 70d10+85 23d3+40 crush
+-37 -37 -37 -22
+ADFIJKO BIQ AH K
+stand stand male 3500
+AHMV ABCDEFGHIJK L unknown 0
+F res I
+M GRALL 2990 75~
+#2994
+forestmaster~
+the Forestmaster~
+The Forestmaster of Darken Wood stands here with a sad look.
+~
+~
+kagonesti~
+ABW ADFHJNV 1000 0
+115 110 221d36+3334 110d10+85 36d3+60 wrath
+-64 -64 -64 -41
+EFGHIKQ AB I 0
+stand stand female 6500
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#2951
+sign wooden~
+a wooden sign~
+A large wooden sign has been posted here.~
+wood~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+{x
+{x                        Beware Fellow Travelers,
+{x                        Go west if you dare, You
+{x                        May not be able to return.
+{x                        The trees will swallow you!
+~
+#2954
+jaundiced bone gauntlets set~
+a set of {yjaundiced {Wbone{x gauntlets~
+A set of bone gauntlets lies here, now where's the rest of the set?~
+bone~
+armor GJSY 0 AHZ
+BE ABE BE ACD 0
+80 3 500 P
+A
+12 10
+A
+2 3
+#2956
+jaundiced bone boots pair~
+a pair of {yjaundiced {Wbone{x boots~
+A pair of bone boots lies here, now where's the rest of the set?~
+bone~
+armor JSY 0 AGZ
+AE BE AE ACD 0
+80 3 500 P
+A
+2 -1
+A
+5 3
+#2969
+jaundiced bone helm~
+a {yjaundiced {Wbone{x helm~
+A large bone helm lies here, now where's the rest of the set?~
+bone~
+armor AGJSY 0 AEZ
+BE ABE BE BCD 0
+85 5 500 P
+A
+20 20
+A
+3 2
+#2972
+jaundiced bone vambraces set~
+a set of {yjaundiced {Wbone{x vambraces~
+A set of bone vambraces lies here, now where's the rest of the set?~
+bone~
+armor BGSY 0 AIZ
+BE ABE BE ACD 0
+80 4 500 P
+A
+19 2
+A
+4 2
+A
+3 2
+#2979
+trident submission spear~
+the {rTrident{x of {mSubmission{x~
+A great trident lies here.~
+silver~
+weapon BJTUY 0 AN
+spear 9 13 sting CDEH
+115 4 0 P
+A
+12 35
+A
+13 50
+A
+2 2
+A
+18 5
+A
+19 5
+#2980
+cubic gate box~
+a {Ccubic gate{x~
+A small cubic box lies here glowing magically.~
+magic~
+wand AGJTUY 0 AO
+100 50 50 'teleport' 0
+115 5 0 P
+#2983
+jaundiced bone shield~
+a {yjaundiced {Wbone{x shield~
+A bone shield lies here, now where's the rest of the set?~
+bone~
+armor JSY 0 AJZ
+ABE CE ABE BCD 0
+85 10 1000 P
+A
+2 -1
+A
+17 30
+A
+20 30
+#2990
+fractured femur~
+a fractured femur~
+A fractured femur lies here on the ground.~
+bone~
+weapon GHSY 0 AN
+exotic 4 22 scratch DH
+85 3 500 A
+A
+13 50
+A
+1 2
+A
+19 5
+A
+18 10
+#0
+
+
+
+#ROOMS
+#2951
+Entrance into Darken Wood~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  An old but sturdy
+signpost stands beside a vallenwood tree.  
+~
+0 524292 3
+D1
+~
+~
+0 0 4254
+D3
+~
+~
+0 0 2952
+S
+#2952
+Inside Darken Wood~
+You feel a sense of evil overcome you uncontrollably.  Large vallenwood
+trees loom before you as you enter Darken Wood.  These bleak moorlands
+are where the dark centaurs plant the bodies of their victims, where the
+rotted corpses will rise by moonlight as soulless pumpkin men.  This fetid
+forest has been a large grave of countless creatures, and the choking stench
+of death rises from them.  From between the trees, shadows move.  The chant
+flows between the trunks like water, filling the forest until the rhythms
+flow like waves through the canopy.  The shadows continue through the trees,
+swept along by a melody towards the west.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2951
+D3
+~
+~
+0 0 2953
+S
+#2953
+An Intersection in Darken Wood~
+You are in the eerie domain of Darken Wood.  Ghost lights flicker palely
+about your feet and cast a shadowed eye on a variety of rotting plants and
+animals that cover the forest floor.  The twisted thorn trees groan at your
+approach, and you gradually become aware of a slow hissing that seems to taunt
+you from the cover of darkness.  The trail splits here, heading north and
+south.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2954
+D1
+~
+~
+0 0 2952
+D2
+~
+~
+0 0 2992
+S
+#2954
+A Dark Trail~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2955
+D2
+~
+~
+0 0 2953
+S
+#2955
+Deep in Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D2
+~
+~
+0 0 2954
+D3
+~
+~
+0 0 2956
+S
+#2956
+Along a Dark Path~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2955
+D3
+~
+~
+0 0 2957
+S
+#2957
+Along a Dark Path~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2956
+D3
+~
+~
+0 0 2958
+S
+#2958
+Along a Dark Path~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2959
+D1
+~
+~
+0 0 2957
+S
+#2959
+Around a Dark Corner~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D2
+~
+~
+0 0 2958
+D3
+~
+~
+0 0 2960
+S
+#2960
+Deep Inside Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2959
+D3
+~
+~
+0 0 2961
+S
+#2961
+Deep Inside Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2960
+D2
+~
+~
+0 0 2962
+S
+#2962
+Deep Inside Darken Wood~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2961
+D2
+~
+~
+0 0 2963
+S
+#2963
+Deep Inside Darken Wood~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2962
+D3
+~
+~
+0 0 2964
+S
+#2964
+Deep Inside Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2963
+D3
+~
+~
+0 0 2965
+S
+#2965
+Along a Dark Trail~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2964
+D3
+~
+~
+0 0 2966
+S
+#2966
+Through a Dark Forest~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2965
+D2
+~
+~
+0 0 2967
+S
+#2967
+Along a Dark Trail~
+Everything is black here.  These bleak moorlands are where the dark
+centaurs plant the bodies of their victims, where the rotted corpses will
+rise by moonlight as soulless pumpkin men.  This fetid forest has been a
+large grave of countless creatures, and the choking stench of death rises
+from them.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2966
+D2
+~
+~
+0 0 2968
+S
+#2968
+Along a Dark Trail~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2967
+D2
+~
+~
+0 0 2969
+S
+#2969
+Along a Dark Trail~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2968
+D3
+~
+~
+0 0 2970
+S
+#2970
+Along a Dark Path~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2969
+D2
+~
+~
+0 0 2971
+S
+#2971
+Along a Dark Path~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2970
+D1
+~
+~
+0 0 2972
+S
+#2972
+Around a Dark Corner~
+Everything is black here.  These bleak moorlands are where the dark
+centaurs plant the bodies of their victims, where the rotted corpses will
+rise by moonlight as soulless pumpkin men.  This fetid forest has been a
+large grave of countless creatures, and the choking stench of death rises
+from them.  
+~
+0 524289 3
+D2
+~
+~
+0 0 2973
+D3
+~
+~
+0 0 2971
+S
+#2973
+Along a Dark Trail~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2972
+D2
+~
+~
+0 0 2974
+S
+#2974
+Along a Dark Trail~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2973
+D1
+~
+~
+0 0 2975
+S
+#2975
+Deep in Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2976
+D3
+~
+~
+0 0 2974
+S
+#2976
+Deep in Darken Wood~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2977
+D3
+~
+~
+0 0 2975
+S
+#2977
+Deep in Darken Wood~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D2
+~
+~
+0 0 2978
+D3
+~
+~
+0 0 2976
+S
+#2978
+Near the Grimbough Tree~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  Even through the
+thick fog which seems to cover this land like a thick blanket, a tall dark
+tree can visibly be seen lying to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2977
+D2
+~
+~
+0 0 2979
+S
+#2979
+The Grimbough Tree~
+Everything is black here.  These bleak moorlands are where the dark
+centaurs plant the bodies of their victims, where the rotted corpses will
+rise by moonlight as soulless pumpkin men.  This fetid forest has been a
+large grave of countless creatures, and the choking stench of death rises
+from them.  The ancient Grimbough tree stands before you, towering over every
+other tree within the immediate vicinity.  No other living plant life
+appears to grow here around this enormous, charred-looking horror.  
+~
+0 0 0
+D0
+~
+~
+0 0 2978
+D1
+~
+~
+0 0 2980
+S
+#2980
+Near the Grimbough Tree~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  Even through the
+thick fog which covers this land like a thick blanket, a tall dark tree can
+be seen lying to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 2981
+D3
+~
+~
+0 0 2979
+S
+#2981
+Along a Dark Path~
+Through the majestic vallenwood trees of these ancient woods, the deep
+earthiness of the forest permeates your senses, while a gentle hum of magic
+in the air pulses low and vibrant.  A shy nymph peeks inquisitively at you
+from behind a tree before disappearing with a titter.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2982
+D3
+~
+~
+0 0 2980
+S
+#2982
+Along a Dark Trail~
+Everything is black here.  These bleak moorlands are where the dark
+centaurs plant the bodies of their victims, where the rotted corpses will
+rise by moonlight as soulless pumpkin men.  This fetid forest has been a
+large grave of countless creatures, and the choking stench of death rises
+from them.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2983
+D3
+~
+~
+0 0 2981
+S
+#2983
+Along a Dark Trail~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2984
+D2
+~
+~
+0 0 2982
+S
+#2984
+Along a Dark Trail~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2985
+D2
+~
+~
+0 0 2983
+S
+#2985
+Deep in Darken Wood~
+The forest floor is a thick humus of decaying material and stagnant pools
+that feed the roots of the vallenwood trees.  Little can live in this dark,
+decaying level, the only signs of life are the occasional rustle of a giant
+insect traveling through the layers of decaying materials and the death
+cries of creatures that have fallen into the mess.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2986
+D3
+~
+~
+0 0 2984
+S
+#2986
+Deep in Darken Wood~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+sends up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2987
+D3
+~
+~
+0 0 2985
+S
+#2987
+Deep in Darken Wood~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D1
+~
+~
+0 0 2988
+D3
+~
+~
+0 0 2986
+S
+#2988
+Deep in Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess. 
+~
+0 524289 3
+D1
+~
+~
+0 0 2989
+D3
+~
+~
+0 0 2987
+S
+#2989
+Deep in Darken Wood~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess. 
+~
+0 524289 3
+D0
+~
+~
+0 0 2990
+D3
+~
+~
+0 0 2988
+S
+#2990
+Along a Dark Path~
+From between the trees, shadows move.  The chant flows between the trunks
+like water, filling the forest until the rhythms flow like waves through the
+canopy.  The shadows continue through the trees, swept along by the melody
+towards a clearing.  The forest floor is a thick humus of decaying material
+and stagnant pools that feed the roots of the vallenwood trees.  Little can
+live in this dark, decaying level, the only signs of life are the occasional
+rustle of a giant insect traveling through the layers of decaying materials
+and the death cries of creatures that have fallen into the mess. 
+~
+0 524289 3
+D1
+~
+~
+0 0 2991
+D2
+~
+~
+0 0 2989
+S
+#2991
+Along a Dark Path~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2992
+D3
+~
+~
+0 0 2990
+S
+#2992
+Along a Dark Trail~
+Your uneasiness mounts as you walk along this haunted stretch of road. 
+The mist clears, and you find yourself in a nightmarish forest.  The empty
+husk of a dead nymph lies at your feet, and on either side of you, the trees
+look twisted and tortured into unnatural shapes.  The depths of the forest
+send up a hopeless cry to usher you into the woods that ring the edge
+between the mortal realm and the dark gods.  
+~
+0 524289 3
+D0
+~
+~
+0 0 2953
+D2
+~
+~
+0 0 2991
+S
+#2993
+Unused~
+Here is all of what's left of Darken Wood when it was full of life and
+lush green forest.  
+~
+0 2138116 3
+S
+#2994
+Unused~
+~
+0 2138116 3
+S
+#0
+
+
+
+#SPECIALS
+M 2979 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 2951 1 2951 1
+O 0 2951 0 2951
+M 0 2990 15 2954 1
+E 0 2954 0 12
+M 0 2990 15 2956 1
+G 0 2956 0
+M 0 2990 15 2960 2
+M 0 2990 15 2965 2
+M 0 2990 15 2969 1
+E 0 2969 0 6
+M 0 2990 15 2972 1
+E 0 2972 0 13
+M 0 2979 1 2979 1
+G 0 2980 0
+E 0 2979 0 20
+M 0 2990 15 2979 2
+M 0 2990 15 2983 2
+E 0 2983 0 15
+M 0 2990 15 2987 1
+M 0 2990 15 2990 1
+E 0 2990 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2951
+if level $n > 60
+MOB ECHOAROUND $n $n leaves west.
+MOB GTRANSFER $n 2952
+break
+else
+MOB ECHOAT $n You are suddenly repelled by the power of the evil forest.
+MOB ECHOAROUND $n $n tries to go west, but is repelled by the power of the evil forest.
+break
+endif
+~
+#2952
+if players == 1
+west
+north
+north
+west
+west
+west
+north
+west
+west
+south
+mob echo The stag stops to grab a bite to eat.
+mob delay 10
+break
+endif
+~
+#2953
+mob echo The stag stops eating and looks around before continuing on.
+mob call 2954 null null null
+~
+#2954
+south
+west
+west
+west
+south
+south
+south
+west
+mob echo The stag's eyes glow a {Gbrilliant green{x, blinding you for a second.
+mob echo You suddenly feel dizzy, as if spinning fast.
+mob echo As your vision begins to return, you find yourself being transported somewhere else.
+mob transfer all 2993
+mob goto 2952
+~
+#2955
+if ispc $n
+say Hello...please follow me!
+pause 50
+west
+pause 10
+north
+north
+pause 10
+west
+west
+west
+pause 10
+north
+west
+west
+south
+pause 10
+south
+west
+west
+west
+south
+pause 10
+south
+pause 10
+south
+pause 10
+west
+endif
+~
+#2990
+if isgood $n
+mob echo Death shall eat you alive!
+mob kill $n
+else
+mob echo Death greets your evil presence!
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2951
+if level $n > 60
+ROOM ECHOAROUND $n $n leaves west.
+ROOM GTRANSFER $n 2952
+break
+else
+ROOM ECHOAT $n You are suddenly repelled by the power of the evil forest.
+ROOM ECHOAROUND $n $n tries to go east, but is repelled by the power of the evil forest.
+break
+endif
+~
+#0
+
+#$

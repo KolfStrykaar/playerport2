@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LOK 3D Bridge</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="scene"></canvas>
+      <div class="ambient-glow"></div>
+
+      <aside class="panel hud-panel">
+        <div class="hud-row">
+          <span class="hud-label">Connection</span>
+          <span id="conn-status" class="hud-value">Connecting...</span>
+        </div>
+        <div class="hud-row">
+          <span class="hud-label">HP</span>
+          <div class="meter"><div id="hp-fill" class="meter-fill hp"></div></div>
+          <span id="hp-text" class="meter-text">0%</span>
+        </div>
+        <div class="hud-row">
+          <span class="hud-label">Mana</span>
+          <div class="meter"><div id="mana-fill" class="meter-fill mana"></div></div>
+          <span id="mana-text" class="meter-text">0%</span>
+        </div>
+        <div class="hud-row">
+          <span class="hud-label">Move</span>
+          <div class="meter"><div id="move-fill" class="meter-fill move"></div></div>
+          <span id="move-text" class="meter-text">0%</span>
+        </div>
+      </aside>
+
+      <section class="panel minimap-panel">
+        <h1 id="room-name">Room not synchronized yet</h1>
+        <div class="room-meta">
+          <span id="room-area">Area: -</span>
+          <span id="room-sector">Sector: -</span>
+        </div>
+        <canvas id="minimap-scene"></canvas>
+      </section>
+
+      <section class="panel info-dock-panel">
+        <div class="info-dock-title">Info Panels</div>
+        <div class="info-dock-grid">
+          <button type="button" class="panel-open-btn" data-panel-id="room_description">
+            Room Description
+          </button>
+          <button type="button" class="panel-open-btn" data-panel-id="who_list">Who List</button>
+          <button type="button" class="panel-open-btn" data-panel-id="inventory">Inventory</button>
+          <button type="button" class="panel-open-btn" data-panel-id="channels">Channels</button>
+          <button type="button" class="panel-open-btn" data-panel-id="group">Group</button>
+          <button type="button" class="panel-open-btn" data-panel-id="character_sheet">
+            Character Sheet
+          </button>
+          <button type="button" class="panel-open-btn" data-panel-id="skills">Skills</button>
+          <button type="button" class="panel-open-btn" data-panel-id="spells">Spells</button>
+          <button type="button" class="panel-open-btn" data-panel-id="training">Training</button>
+          <button type="button" class="panel-open-btn" data-panel-id="wiz">Wiz</button>
+        </div>
+      </section>
+
+      <section id="info-panel" class="panel info-panel hidden">
+        <div class="info-panel-header">
+          <div class="info-panel-heading">
+            <h2 id="info-panel-title">Information</h2>
+            <div id="info-panel-subtitle" class="info-panel-subtitle"></div>
+          </div>
+          <div class="info-panel-actions">
+            <button id="info-refresh" type="button">Refresh</button>
+            <button id="info-close" type="button">Close</button>
+          </div>
+        </div>
+        <pre id="info-panel-content"></pre>
+      </section>
+
+      <section class="panel log-panel">
+        <div class="panel-title">MUD Stream</div>
+        <pre id="mud-log"></pre>
+      </section>
+
+      <section class="panel control-panel">
+        <div class="movement-grid">
+          <button type="button" class="move-btn" data-direction="north">N</button>
+          <button type="button" class="move-btn" data-direction="west">W</button>
+          <button type="button" class="move-btn" data-direction="south">S</button>
+          <button type="button" class="move-btn" data-direction="east">E</button>
+          <button type="button" class="move-btn" data-direction="up">U</button>
+          <button type="button" class="move-btn" data-direction="down">D</button>
+        </div>
+
+        <form id="command-form" autocomplete="off">
+          <input id="command-input" type="text" placeholder="Enter MUD command..." />
+          <button type="submit">Send</button>
+        </form>
+
+        <div class="action-row">
+          <button id="enable-protocol" type="button">Enable Protocol 75</button>
+          <button id="refresh-room" type="button">Refresh Room</button>
+        </div>
+      </section>
+    </div>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

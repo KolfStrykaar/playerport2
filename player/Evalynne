@@ -1,0 +1,403 @@
+#PLAYER
+Name Evalynne~
+Surname Drayton~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1413119723
+LogO 1413199189
+Vers 10
+Act  CDEGQTe
+Desc This young woman's face is almost perfectly oval, with only a slight point
+of her chin intruding upon the form.  Her eyes are a deep, lustrous brown
+and are framed only faintly both by lashes and brows, the thinness of which
+serves only to accent the faint glow of her irises.  Her hair is a dark
+auburn, somewhat curly and in a slightly puffy bun just over her brows and
+to the back and sides of her head before falling in a straight yet angular
+fashion to below her face, widening slightly to almost cover the full width
+of her shoulders.  Her facial features are otherwise soft and smooth, and
+her body appears slender and fairly petite.  
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  2
+Cla  1
+Hmtown 2
+Levl 6
+recall_point 2659
+Levscale 30
+Xptolev  1533
+Sec  0
+Plyd 5202
+Not  0 0 0 0 0
+Scro 22
+Room 2645
+HMV  140 140 154 154 130 130
+Steel 0
+Gold 425
+Bank 8
+Exp  7267
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  6
+Prac 3
+Save  -25
+Alig  752
+Ethos 0
+Hit   26
+ACs 59 59 59 80
+Attr 15 16 16 13 13 16
+AMod 2 4 4 5 6 0
+Pass EviQBaHJ8FNe2~
+Titl  the Acolyte~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 1
+HMVP 90 154 130
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 75 'armor'
+Sk 1 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 75 'create food'
+Sk 1 'create spring'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 79 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 45 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 1 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'protection evil'
+Sk 1 'ray of truth'
+Sk 1 'refresh'
+Sk 1 'remove curse'
+Sk 1 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'flail'
+Sk 76 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 75 'recall'
+Sk 1 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 1 'quench'
+Sk 1 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'armor'   0 199   0 -20  17          0
+Affc 'bless'   0 198 193  25  18          0
+Affc 'bless'   0 197 193 -25  25          0
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 98
+Wear 20
+Cost 250
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear 0
+Cost 10
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 97
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3775
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2566
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#END

@@ -1,0 +1,290 @@
+#PLAYER
+Name Elderel~
+Surname Runesmith~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1407702769
+LogO 1407791022
+Vers 10
+Act  CDEFGHQTe
+Desc This grizzled dwarf seems to simply melt into the background effortlessly.
+His quiet humming and musical instrument put everyone around him
+constantly at ease and keep their focus away from him. His clothing and
+equipment seem to be selected for a minimum of attention to further
+enhance the effects of his music.
+~
+Prom <%h/%Hhp %m/%Mma %v/%Vmv>%c~
+Race hylar~
+Sex  1
+Cla  4
+Hmtown 4
+Levl 7
+recall_point 10664
+Levscale 30
+Xptolev  1980
+Sec  0
+Plyd 26037
+Not  1372483048 0 0 0 1298827134
+Scro 22
+Room 10664
+HMV  24 124 20 133 136 136
+Steel 19
+Gold 325
+Bank 0
+Exp  10520
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3866624
+Comm NO
+Pos  8
+Prac 11
+Reward_timer 16
+Alig  0
+Ethos 0
+Hit   1
+ACs 62 62 62 80
+Wimp  50
+Attr 14 17 15 10 15 13
+AMod 3 2 3 5 6 0
+Pass ElJiZdcAbTcxs~
+Titl  the Piper~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 6
+HMVP 124 133 136
+Cnd  0 59 59 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gac GET ALL CORPSE~
+Alias sc score~
+Alias barb play song of barbarians~
+Sk 1 'dispel magic'
+Sk 1 'summon'
+Sk 77 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 1 'disarm'
+Sk 2 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 10 'trip'
+Sk 1 'second attack'
+Sk 1 'counter'
+Sk 1 'deathgrip'
+Sk 1 'dual wield'
+Sk 78 'play music'
+Sk 1 'mount'
+Sk 1 'battle tactics'
+Sk 25 'wear chain'
+Sk 38 'wear leather'
+Sk 1 'fast healing'
+Sk 25 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'dwarven tongue'
+Sk 1 'lore'
+Sk 1 'sneak'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 1 'chant of battle'
+Sk 1 'chords of dissonance'
+Sk 1 'tumble'
+Sk 1 'trammel'
+Sk 1 'serenade'
+Sk 1 'taunt'
+Sk 1 'bravado'
+Sk 1 'lull'
+Sk 1 'pacify'
+Sk 1 'redirect'
+Sk 1 'acrobatics'
+Sk 1 'rally'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'singing'
+Sk 1 'dancing strike'
+Affc 'armor'   0 200  23 -20  17          0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 97
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 94
+Wear 20
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 97
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 97
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 291
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3735
+Nest 0
+Cond 100
+Wear 21
+Cost 19
+End
+
+#END

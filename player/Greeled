@@ -1,0 +1,640 @@
+#PLAYER
+Name Greeled~
+Surname Bregan~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1391318975
+LogO 1394362487
+Vers 10
+Act  CDEFGQTe
+Desc A young minotaur bull towers above you.  His eyes, brown, like his hide,
+gaze broadly over his surroundings.  His markings are common, a brown hide,
+slightly dappled with rough scratches from his "lessons" while training. 
+His horns are jet black, with mottled clumps of gore still attached to their
+tips.  Using his head, is something he prides himself on, though not perhaps
+in the manner that gnome's would.  He hums to himself and seems to enjoy
+rhythm and the music of the city.  
+~
+Prom <%hhp %mm %vmv> ~
+Race minotaur~
+Sex  1
+Cla  3
+Hmtown 0
+Levl 19
+recall_point 3001
+Levscale 30
+Xptolev  75
+Sec  0
+Plyd 41020
+Not  0 0 0 0 0
+Scro 22
+Room 5705
+HMV  316 475 142 142 208 208
+Steel 652
+Gold 82
+Bank 0
+Exp  42625
+AfBy V
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3866624
+Comm NOQ
+Pos  8
+Alig  -723
+Ethos 0
+Hit   4
+Dam   4
+ACs 36 60 37 90
+Attr 20 12 15 10 17 10
+AMod 4 5 7 6 7 0
+Pass GrKcr72Q71Yl.~
+Titl  the Combatant~
+Pretit ~
+Pnts 15
+TSex 1
+LLev 8
+HMVP 410 142 208
+Cnd  0 59 50 100
+QuestPnts 139
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 91 'polearm'
+Sk 16 'shield block'
+Sk 1 'spear'
+Sk 40 'sword'
+Sk 1 'whip'
+Sk 100 'bash'
+Sk 8 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 8 'dodge'
+Sk 93 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 83 'kick'
+Sk 34 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 78 'second attack'
+Sk 69 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 35 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 49 'battle tactics'
+Sk 64 'wear chain'
+Sk 72 'wear leather'
+Sk 36 'wear plate'
+Sk 74 'fast healing'
+Sk 100 'common'
+Sk 100 'minotaur tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 38 'guard'
+Sk 81 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'giant strength'   0   9   6   1   1          0
+Affc 'haste'   0  10   1   1   2    2097152
+End
+
+#O
+Vnum 3768
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 190 0 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 97
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 97
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 21
+Cost 1140
+End
+
+#O
+Vnum 5743
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 99
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 100
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 99
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 32 0 0 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 0 0 0 0
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 0 0 0 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  0 0 193 0 0
+End
+
+#O
+Vnum 3366
+Nest 0
+Cond 100
+Wear -1
+Time 849
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5743
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+Val  0 0 497 0 0
+End
+
+#O
+Vnum 5743
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+Val  0 0 397 0 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1207
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 11291
+Nest 0
+Cond 100
+Wear -1
+Time 444
+Cost 7500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  25
+Cost 0
+Val  25 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  25
+Cost 0
+Val  25 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  25
+Cost 0
+Val  25 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  25
+Cost 0
+Val  25 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 473
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 656
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 936
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 857
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 444
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 866
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 17511
+Nest 0
+Cond 88
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 5707
+Nest 0
+Cond 100
+Wear -1
+Cost 6700
+End
+
+#O
+Vnum 5602
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 5603
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5604
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 100
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 5606
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 5607
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#END

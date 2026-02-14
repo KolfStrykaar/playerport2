@@ -1,0 +1,2295 @@
+#AREADATA
+Name shoikan grove~
+Builders Paladine~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 9400 9499
+Credits Paladine~
+Security 9
+End
+
+
+
+#MOBILES
+#9400
+grove guard~
+{xA Guardian of the Grove~
+A Guardian of the Grove stands here, keeping watch over the grounds.
+~
+~
+human~
+ABGV BDFWZ 0 0
+400 400 801d133+32321 400d10+85 133d3+205 pound
+-261 -261 -261 -177
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+M EXALL 9400 2~
+#9402
+hands~
+a pair of hands~
+A pair of hands reaches out from the muck grabbing at your legs
+~
+Flesh falling off the bones, slime dripping from the fingers, these hands
+are out stretching from the ground.  They claw at anything that comes within
+their reach.  
+~
+modron~
+ABFGO DFJVZc -1000 0
+70 70 141d23+1415 70d10+85 23d3+40 scratch
+-45 -45 -45 -50
+CHORU ABMPQ HIK 0
+stand stand none 0
+L GK S unknown 0
+F off Q
+F imm N
+F for H
+F par ABCHJ
+#9405
+guardian grove warrior~
+a grove guardian ~
+A spectral warrior stands here guarding the grove
+~
+A shell of a former warrior stands here.  Darkness filling the void left
+where the body once was.  Its dark glowing armor casts an eerie light upon
+the trees.  
+~
+modron~
+ACFGOT JTZ -1000 0
+80 80 161d26+1617 80d10+85 26d3+45 pierce
+-44 -44 -44 -28
+EHIKRU ABMNPQ HIK 0
+stand stand none 100
+AH ABCDEFGHIJKPQUVX M unknown 0
+F off Q
+#9411
+thousand undead hands hand~
+{WThousands{x of {yUndead{x hands~
+{WThousands{x of {yUndead{x hands tear at your skin
+~
+~
+modron~
+ABFO DFHJV -1000 0
+300 300 601d100+1181 300d10+85 100d3+155 chill
+-193 -193 -193 -130
+ADHR ABCDMNPQ 0 0
+stand stand none 0
+H G M unknown 0
+F off Q
+F res HIK
+F par ABCHJK
+#9413
+skeleton warrior~
+a skeleton warrior~
+A ghastly skeleton warrior stands here ready to dismember you.
+~
+A former warrior who lost his life to the grove, he now serves as its
+guardian 
+~
+human~
+ABOT DFO -1000 0
+97 97 195d32+1959 97d10+85 32d3+53 slash
+-56 -56 -56 -35
+CFHU BHL 0 JS
+stand stand none 200
+HMV ABCGHI M unknown 0
+F for A
+F par DEFJK
+#9417
+black robe mage spectre~
+the {wspectre{x of a {DBlack{x robe mage~
+The {wspectre{x of the {DBlack{x robe mage who cursed the tower attacks you
+~
+Only a shadow of his former self, the spectre is all that is left of the
+mage who hurled himself from the tower; invoking a curse to protect the
+tower from the Kingpriest.  
+~
+human~
+ABFGOR DFVZc -1000 0
+110 110 221d36+3334 110d10+85 36d3+60 pound
+-64 -64 -64 -41
+AFHKNU AB CD 0
+stand stand male 300
+HLM ABCGH M unknown 0
+F for AV
+F par DEFIJK
+M DEATH 9418 100~
+#9418
+cloth black robe~
+a piece of black cloth~
+A piece of black cloth
+~
+~
+doll~
+AB BPQW 0 0
+400 400 801d133+32321 400d10+85 133d3+205 none
+-261 -261 -261 -177
+0 ABCDILMNPQR S 0
+stand stand none 0
+EJc 0 S cloth 0
+F res E
+F vul GHJKO
+F for M
+F par ABCGHK
+M EXALL 9417 2~
+#9423
+floating eyes~
+the pair of glowing eyes~
+A pair of {RGlowing{x eyes appears and attacks the intruders
+~
+All you can see is a pair of {RRed Glowing{x eyes coming toward you.
+~
+modron~
+ABFGOR JOa -1000 0
+102 102 205d34+2061 102d10+85 34d3+56 chill
+-59 -59 -59 -37
+EFGHKRU ABIKMPQ CHJ 0
+stand stand none 400
+HIL K S unknown 0
+F off Q
+F imm N
+F res IK
+F par ABCGHJ
+M GRALL 9423 100~
+M ENTRY 9423 100~
+M DELAY 9424 100~
+#9426
+tower spectre~
+the tower spectre~
+A tower {wspectre{x floats toward you ready to attack
+~
+Once a mage of the {Dblack robes{x this {wspectre{x is dedicated to
+guarding the tower.  
+~
+modron~
+ABCFGOR JOTVac -1000 0
+105 105 211d35+2121 105d10+85 35d3+57 chill
+-61 -61 -61 -39
+EFGHKRU BIMPQ DHJK 0
+stand stand none 500
+HIL 0 M unknown 0
+F off Q
+F imm N
+F res I
+F par ABCGHJK
+#9449
+tower guardian~
+the tower guardian~
+A tower guardian is here watching you with {RRed{x eyes
+~
+~
+modron~
+ABFGOR DFJVZac -1000 0
+120 120 241d40+3637 120d10+85 40d3+65 claw
+-71 -71 -71 -46
+AEFGHKR ABILMPQ CDHJK 0
+stand stand none 900
+HL 0 M unknown 0
+F off Q
+F imm N
+F res I
+F par ABCGHJK
+M DELAY 9450 100~
+M GRALL 9449 100~
+M DELAY 9450 100~
+#9458
+walking dead decaying corpse~
+the walking dead~
+A decaying corpse lunges toward you
+~
+~
+modron~
+AFOT JO -1000 0
+115 115 231d38+3484 115d10+85 38d3+62 claw
+-68 -68 -68 -43
+CDEFHIJKNOR BIMPQ CFGK 0
+stand stand none 700
+HIM ABCGHJK M unknown 0
+F off Q
+F imm N
+F res HI
+#9463
+summoned demon~
+a summoned demon~
+A summoned demon from the Abyss stands here guarding the tower.
+~
+~
+modron~
+ABFGOQRT JVc -1000 0
+110 110 221d36+3334 110d10+85 36d3+60 none
+-64 -64 -64 -41
+ACDEFGHKMNR BMNPQ CHK I
+stand stand none 200
+H ABCGHJK L unknown 0
+F off Q
+F res I
+#9465
+undead mage~
+the undead mage~
+A long since dead mage jumps toward you
+~
+Skin falling from his bones and eye sockets empty, this undead mage looks
+worse for wear.  
+~
+modron~
+ABFGOR BJOVc -1000 0
+108 108 217d36+3271 108d10+85 36d3+59 punch
+-63 -63 -63 -40
+EFGHKRU ABIMPQ CDJK 0
+stand stand none 600
+HI ABCGH M unknown 0
+F off Q
+F imm N
+F res HI
+F par JK
+#9466
+railing~
+the railing~
+The railing
+~
+~
+modron~
+ABGU BDFJQWZ 0 0
+500 500 1001d166+-15035 500d10+85 166d3+255 none
+-328 -328 -328 -223
+QR ABMNPQ HIJ 0
+stand stand none 0
+EHJ 0 M iron 0
+F res K
+F par ABCGHJK
+M EXIT 9446 3~
+M EXIT 9446 1~
+M EXIT 9446 0~
+#9467
+tower guardian~
+the tower guardian~
+A tower guardian hovers here watching over its master's items.
+~
+It looks like a wisp with {Rred{x eyes glowing at you.
+~
+modron~
+ABFGOR DFJOVZac -1000 0
+115 115 231d38+3484 115d10+85 38d3+62 claw
+-68 -68 -68 -43
+EFGHKORU ABIMPQ CDHJK 0
+stand stand none 0
+HL 0 M unknown 0
+F off Q
+F imm N
+F res I
+F par ABCGHJK
+#9498
+twisted being~
+a twisted and distorted being~
+A twisted and distorted being screams and attacks in a frenzy
+~
+A product of Raistlin's experiments, it has hatred for all "normal"
+things.  
+~
+modron~
+ACFGOT Jac -1000 0
+80 80 161d26+1617 80d10+85 26d3+45 claw
+-44 -44 -44 -28
+ADEHOQRU BMQ C 0
+stand stand none 300
+CHJM ABCDEFGHIJK M unknown 0
+F imm NP
+F res HIK
+#0
+
+
+
+#OBJECTS
+#9400
+chain night jewel nightjewel~
+the {BNightjewel{x~
+A large oval jewel hangs from a golden chain, the stone, a deep midnight blue.~
+opal~
+jewelry ACEGJQSY 0 ACc
+0 0 0 0 0
+105 0 0 P
+A
+17 -10
+A
+13 50
+A
+1 1
+A
+4 2
+A
+19 7
+A
+18 5
+#9405
+unholy sword evil~
+({DGlowing{x) an {wunholy{x sword of {revil{x~
+A sword sits here giving off an unholy aura.~
+steel~
+weapon EJL 0 ANc
+sword 11 11 chill BCP
+105 8 0 P
+A
+19 15
+A
+18 15
+F
+A 0 0 O
+F
+A 0 0 G
+#9413
+black obsidian pole arm polearm~
+({rBloody{x) a {Dblack obsidian{x polearm~
+A black bloodstained polearm is stuck in the ground.~
+obsidian~
+weapon EJSY 0 ANZ
+polearm 14 11 cleave BEF
+110 12 0 P
+A
+18 17
+A
+19 17
+#9426
+black tattered robes~
+some {Dblack{x tattered robes~
+A pile of {Dblack{x tattered robes sits in the dust.~
+cloth~
+armor EGJSY 0 AKY
+ABCE ABCE ABCE ADE 0
+110 2 0 P
+A
+12 20
+A
+20 -2
+A
+18 6
+A
+19 6
+F
+A 0 0 O
+#9430
+red velvet couch~
+a large couch made of {Rred velvet{x~
+A large couch made of {Rred velvet{x sits in the middle of the room.~
+velvet~
+furniture 0 0 P
+C DEFHIJL E BD BD
+0 4000 0 P
+#9449
+abyss portal~
+the portal to the abyss~
+A portal surrounded by five dragon heads stands against the wall.~
+energy~
+portal A 0 P
+0 0 A BDEIKN 0
+0 0 0 P
+#9458
+brass key~
+a large {ybrass{x key~
+A large brass key sits on the ground.~
+brass~
+key Q 0 A
+0 0 0 0 0
+0 0 0 P
+#9462
+copper key~
+a small {ycopper{x key~
+A small copper key is here, partially hidden in the dust.~
+copper~
+key Q 0 A
+0 0 0 0 0
+0 0 0 P
+#9463
+black leather spell book~
+({WSilver bound{x) a {Dblack{x leather spell book~
+A black spellbook lies here, emanating a slight chill.~
+leather~
+treasure GJSY 0 AOc
+0 0 0 0 0
+110 5 0 P
+A
+12 50
+A
+18 3
+A
+19 3
+#9464
+bookcase~
+a large bookcase~
+A large bookcase sits on the wall.~
+walnut~
+container 0 0 P
+600 ACD 9467 600 0
+0 0 0 P
+#9465
+blood dagger~
+a sharp {rblood{x dagger~
+A dagger as red as {rblood{x rests here on the ground.~
+steel~
+weapon G 0 ANX
+dagger 9 12 slice CDH
+110 3 0 P
+A
+18 9
+A
+19 9
+#9466
+small chest~
+a small wooden chest~
+A small wooden chest is here.~
+wood~
+container 0 0 P
+600 ACD 9467 600 0
+0 0 0 P
+E
+chest~
+The chest is a simple chest made from alder.  It has iron strapping and
+a small iron lock placed in the center of the lid.  
+~
+E
+wooden~
+The chest is a simple chest make from alder.  It has iron strapping and
+a small iron lock placed in the center of the lid.  
+~
+#9467
+iron key~
+a small iron key~
+A small piece of iron sits here, partially covered by dust.~
+iron~
+key 0 0 A
+0 0 0 0 0
+0 0 0 P
+#9468
+vial blue~
+({CBubbling{x) a vial of {Bblue{x liquid~
+A vial of blue liquid sits spilling onto the ground here.~
+glass~
+potion GPS 0 A
+90 'sanctuary' 'giant strength' 'armor' 'haste'
+90 3 0 P
+#9469
+oak desk~
+a small oak desk~
+A small oak desk sits against the wall.~
+oak~
+container 0 0 P
+9000 ABCD 9470 9000 0
+0 0 0 P
+#9470
+gold key~
+a small gold key~
+A small gold key shines in the light.~
+gold~
+key P 0 A
+0 0 0 0 0
+0 5 0 P
+#9471
+golden ring~
+a {Ygolden{x ring~
+A golden ring with arcane symbols engraved on it catches the light.~
+gold~
+jewelry GJY 0 ABY
+0 0 0 0 0
+100 1 0 P
+A
+18 5
+A
+19 5
+A
+17 -10
+A
+12 50
+#9498
+boots leather blue~
+a pair of {Bblue{x leather boots~
+A pair of {Bblue{x leather boots sit on the ground here.~
+dyed leather~
+armor GSY 0 AGY
+ABCE ADE DE ABE 0
+110 3 0 P
+A
+18 5
+A
+1 1
+A
+5 1
+A
+2 2
+A
+13 60
+#0
+
+
+
+#ROOMS
+#9400
+Before the grove~
+You stand at the edge of the cursed grove of trees surrounding the High
+Tower of Sorcery in Palanthas.  The twisted and tortured trees seem to bend
+and move, hindering your entrance to this cursed place.  The ground seems to
+move as you step closer, and you watch in horror as decayed hands begin to
+reach out from the rotting ground!  There are no signs of wildlife
+whatsoever in this grove.  All that you can see is death.  Looking past the
+trees you can see the gates to the tower.  Straining your eyes toward the
+gates, you can barely make out a piece of tattered black cloth flapping in
+the breeze.  
+~
+0 5 11
+D0
+~
+~
+0 0 3261
+D2
+~
+~
+0 0 9401
+S
+#9401
+Among the dead trees~
+With your first step inside the grove, a feeling of dread overwhelms you.
+The thick stench of rot fills your nose, darkness starting to envelop you in
+it's wake.  Whispers echo in your ear, taunting you to venture on to your
+death, and rotting hands grab at you from the muck on the ground.  Shadows
+move in between the trees and red glowing eyes seem to watch your every
+move.  
+~
+0 1 11
+D0
+~
+~
+0 0 9400
+D1
+~
+~
+0 0 9402
+D2
+~
+~
+0 0 9404
+D3
+~
+~
+0 0 9403
+S
+#9402
+Lost in the Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9404
+D1
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9401
+D3
+~
+~
+0 0 9405
+S
+#9403
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9404
+D1
+~
+~
+0 0 9402
+D2
+~
+~
+0 0 9401
+D3
+~
+~
+0 0 9403
+S
+#9404
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9402
+D1
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9405
+D3
+~
+~
+0 0 9401
+S
+#9405
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9403
+D1
+~
+~
+0 0 9404
+D2
+~
+~
+0 0 9402
+D3
+~
+~
+0 0 9406
+S
+#9406
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9402
+D1
+~
+~
+0 0 9403
+D2
+~
+~
+0 0 9407
+D3
+~
+~
+0 0 9404
+S
+#9407
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9408
+D1
+~
+~
+0 0 9406
+D2
+~
+~
+0 0 9403
+D3
+~
+~
+0 0 9404
+S
+#9408
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9403
+D1
+~
+~
+0 0 9406
+D2
+~
+~
+0 0 9404
+D3
+~
+~
+0 0 9409
+S
+#9409
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9406
+D1
+~
+~
+0 0 9405
+D2
+~
+~
+0 0 9410
+D3
+~
+~
+0 0 9403
+S
+#9410
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9407
+D1
+~
+~
+0 0 9412
+D2
+~
+~
+0 0 9405
+S
+#9411
+Pulled down into the ground~
+The hands have pulled you down into the muck.  You struggle for your very
+life.  The mud slowly covers your legs and waist then proceeds to your neck.
+Suddenly you realize it has covered your face and head and you have been
+pulled down into an underground hole deep under the grove.  No light
+penetrates the hole.  
+~
+0 5 11
+S
+#9412
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9413
+D1
+~
+~
+0 0 9410
+D2
+~
+~
+0 0 9403
+D3
+~
+~
+0 0 9409
+S
+#9413
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9406
+D1
+~
+~
+0 0 9414
+D2
+~
+~
+0 0 9407
+D3
+~
+~
+0 0 9412
+S
+#9414
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9404
+D1
+~
+~
+0 0 9415
+D2
+~
+~
+0 0 9411
+D3
+~
+~
+0 0 9410
+S
+#9415
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 1 11
+D0
+~
+~
+0 0 9405
+D1
+~
+~
+0 0 9407
+D2
+~
+~
+0 0 9416
+D3
+~
+~
+0 0 9408
+S
+#9416
+Lost in Shoikan Grove~
+As you step between the ghastly trees, the first thing you notice is the
+overwhelming feeling of dread.  Darkness surrounds you and the smell of
+rotten leaves and trees nauseates you.  The ground is wet and soggy, thick
+with mud and brackish water.  Each step you make is hindered by the undead
+hands reaching up through the muck, grabbing at your legs.  You can hear
+terrible whispering in your head.  It speaks of dread and death.  Your
+muscles ache in fear and you use every bit of your energy to keep from
+running in terror.  
+~
+0 5 3
+D0
+~
+~
+0 0 9411
+D1
+~
+~
+0 0 9408
+D2
+~
+~
+0 0 9417
+D3
+~
+~
+0 0 9414
+S
+#9417
+Before the Iron gate~
+You manage to claw your way through the cursed grove.  Before you looms
+the blackened tower, twisted and deformed into a ghastly shadow of it's
+former beauty.  Before you stands the iron gate leading to the outer
+courtyard of the tower.  A tattered black robe hangs from the gate, flapping
+in the breeze.  
+~
+0 1 11
+E
+gate~
+Black as obsidian the iron gate stands strong.  A black robe hangs from
+the gate, remains of the black robe mage who cursed the tower.  
+~
+D0
+~
+~
+0 0 9416
+D2
+~
+iron gate~
+4 0 9418
+S
+#9418
+Inner Courtyard~
+You pass by the iron gate guarding the tower of Palanthas and enter the
+inner courtyard.  The ground is just as dead and desolate here as it was in
+the grove.  All of the vegetation is dead or dying.  The grass is flattened
+and yellow.  There are patches of mud all about the lawn of the courtyard. 
+Before you looms the tower itself.  One large spire flanked by two smaller
+ones.  Twisted and black, they cast an evil shadow over the grove.  
+~
+0 0 11
+D0
+~
+iron gate~
+4 0 9417
+D2
+~
+~
+0 0 9419
+S
+#9419
+Before the Runed Door~
+You stand at the base of the Tower of High Sorcery in Palanthas.  Once a
+beautiful masterpiece of magic.  Silver and gold spires made this the most
+magnificent building in all of Palanthas.  Then came the curse - the death
+of the mage on the gates twisted and distorted the tower into a blackened
+source of evil.  In front of you is a rune-carved door, the only entrance
+into this tower by means other than magic.  
+~
+0 0 11
+E
+door~
+This massive door is carved with many runes and symbols of magic.
+~
+D0
+~
+~
+0 0 9418
+D2
+~
+runed door~
+3 0 9420
+S
+#9420
+The Entrance chamber~
+You step inside the tower, and enter a small chamber.  The walls are bare
+and made of grey stone.  The floor is made of highly polished black marble
+that reflects your image like a mirror.  This room lacks windows, yet is
+illuminated by small spheres of pale blue light, floating near the ceiling. 
+The air is cool, yet you feel no breeze through the hall.  
+~
+0 9 0
+D0
+~
+~
+3 0 9419
+D1
+~
+curtain~
+3 0 9421
+D2
+~
+~
+0 0 9430
+S
+#9421
+Bottom of the Stairs~
+You are standing at the bottom of a massive spiral staircase that leads
+up into the heart of the tower.  Its twisting marble steps rise upward into
+the darkness.  A few magical torches line the grey stone walls, casting
+ominous shadows upon them.  
+~
+0 13 0
+D3
+~
+~
+3 0 9420
+D4
+~
+~
+0 0 9422
+S
+#9422
+Spiral staircase~
+You are going up a spiral staircase that leads to the unknown heights of
+the tower.  Looking up, you see nothing but darkness waiting ahead.  The
+steps are made of polished black marble; the walls, polished grey stone.  A
+few torches light the staircase.  There are also a number of pictures along
+the walls - here is one depicting a man dressed in black robes wearing a red
+stone around his neck...  
+~
+0 9 0
+E
+picture~
+You look closer at the picture and see that the man is a mage, wearing
+black robes trimmed with silver.  The stone around his neck seems to pulsate
+with power.  He has long grey hair and a flowing beard.  The eyes of the man
+seem to pierce your very soul.  
+~
+D4
+~
+~
+0 0 9423
+D5
+~
+~
+0 0 9421
+S
+#9423
+Spiral staircase~
+The stairway continues up and down...  You think.  Peering above you does
+no good, it is still enclosed in darkness.  Were it not for the torches
+along the wall, you would not be able to see the stairs.  You place your hand
+on the wall and notice it is smooth to the touch, like glass.  Even the best
+dwarven stoneworkers could not craft stone this smooth...  You look back the
+way you came and realize the torches have gone out!  Yet the ones near you
+remain lit.  You slowly put your hand near the flame, yet you feel no heat. 
+It is obvious to you that the torches are magical in nature and will keep
+your path lit, so long as the master allows it.  
+~
+0 9 0
+D4
+~
+~
+0 0 9424
+D5
+~
+~
+0 0 9422
+S
+#9424
+Spiral staircase~
+Your footfalls echo as you walk these black marble stairs.  The sound
+travels up and down the entire staircase.  As you continue, you get the
+eerie feeling that someone is watching you.  Flashes of red light appear in
+the corner of your eye, increasing your sense of dread...  
+~
+0 9 0
+D4
+~
+~
+0 0 9425
+D5
+~
+~
+0 0 9423
+S
+#9425
+Spiral staircase~
+You have reached a small landing.  A large black door is embedded into
+the black stone to the north.  The stairs continue up and down into the
+darkness, as the flicker of the magical torches send ghastly shadows up and
+down the staircase.  
+~
+0 9 0
+E
+door~
+The door seems to be made of some petrified black oak.  Symbols of magic
+and runes cover the black surface of the door.  A large silver handle on the
+door is carved in the shape of a dragon's head.  
+~
+E
+black~
+The door seems to be made of some petrified black oak.  Symbols of magic
+and runes cover the black surface of the door.  A large silver handle on the
+door is carved in the shape of a dragon's head.  
+~
+D0
+~
+black door~
+3 0 9426
+D4
+~
+~
+0 0 9427
+D5
+~
+~
+0 0 9424
+S
+#9426
+Central Chamber~
+You have entered a large circular room.  A round table sits in the center
+of the room surrounded by high back chairs.  Pictures of magical beasts and
+mages line the walls in this chamber.  A large viewing basin filled with
+clear water sits in the corner.  
+~
+0 9 0
+D2
+~
+~
+3 0 9425
+S
+#9427
+Spiral staircase~
+The dark stairway continues up and down, or at least that is what you
+think.  Looking down all you can see is darkness - the magical torches seem
+to go out when there is no one near them.  The walls are cold and smooth. 
+It is obvious that the stone was made by magical means.  
+~
+0 9 0
+D4
+~
+~
+0 0 9428
+D5
+~
+~
+0 0 9425
+S
+#9428
+Spiral staircase~
+The darkness of the staircase is only parted by the few magical torches
+lining the walls, their soft glow casting twisted shadows around you.  The
+coldness of the stone seems to penetrate your very soul.  The echoes of your
+steps fill the air, resonating throughout the entire staircase.  
+~
+0 9 0
+D4
+~
+~
+0 0 9429
+D5
+~
+~
+0 0 9427
+S
+#9429
+Spiral staircase~
+The cold grey stone of the walls in the staircase seems to amplify your
+footfalls as you walk the black marble steps.  The magical torches lighting
+the staircase do not lend any heat to warm the chilled air.  
+~
+0 9 0
+D4
+~
+~
+0 0 9432
+D5
+~
+~
+0 0 9428
+S
+#9430
+Audience chamber~
+Here the hallway opens up into the audience chamber.  The place where
+visitors to the tower go to await the arrival of the master.  The room is
+warm and comfortable compared to most within the tower walls.  The light is
+bright and chases the shadows away.  Along one wall is a large couch for
+visitors to relax in.  Many tapestries and paintings of the past hang on the
+walls.  It is well known that this is the most comfortable room in the
+tower.  
+~
+0 9 0
+D0
+~
+~
+0 0 9420
+S
+#9431
+Entrance to Raistlin's Chambers~
+You step from the center tower into a small room.  A small black door
+stands between you and Raistlin's personal chambers.  The only other way
+from here is back out into the spiral staircase.  
+~
+0 9 0
+D0
+~
+~
+1 0 9464
+D3
+~
+hanging rug~
+4 0 9432
+S
+#9432
+Spiral staircase~
+You come to another landing in the massive tower.  On the landing is a
+statue made of obsidian.  It depicts a mage standing, holding a staff and a
+large book.  He seems fairly brawny, unlike most mages you are accustomed to
+seeing.  
+~
+0 9 0
+E
+statue~
+The statue made of obsidian seems to depict the great hero of the second
+dragon war Magus.  He holds his staff and spell book of battle mage spells. 
+~
+D1
+~
+statue~
+4 9458 9431
+D4
+~
+~
+0 0 9433
+D5
+~
+~
+0 0 9429
+S
+#9433
+Spiral staircase~
+The darkness of the staircase is only parted by the few magical torches
+lining the walls, their soft glow casting twisted shadows all around you. 
+The coldness of the stone seems to penetrate your very soul.  The echoes of
+your steps fill the air, resonating through the entire staircase.  
+~
+0 9 0
+D4
+~
+~
+0 0 9434
+D5
+~
+~
+0 0 9432
+S
+#9434
+Spiral staircase~
+Your footfalls echo as you walk the black marble stairs, the sound
+traveling up and down the entire staircase.  As you continue, you get the
+feeling that someone is watching you.  Flashes of red light appear in the
+corner of your eye, increasing your sense of dread...  
+~
+0 9 0
+D4
+~
+~
+0 0 9435
+D5
+~
+~
+0 0 9433
+S
+#9435
+Spiral staircase~
+You find yourself on yet another landing in this seemingly never-ending
+spiral staircase.  There are far more torches here than you have seen in
+other parts of the tower.  A massive black door made of alder stands on the
+west side of this landing.  Darkness lurks upwards and down.  
+~
+0 9 0
+E
+alder~
+This large door is beautifully carved with stars and moons and other
+magical objects.  Made from pure black alder, it stands strong and true
+through the years.  
+~
+E
+black~
+This large door is beautifully carved with stars and moons and other
+magical objects.  Made from pure black alder, it stands strong and true
+through the years.  
+~
+E
+door~
+This large door is beautifully carved with stars and moons and other
+magical objects.  Made from pure black alder, it stands strong and true
+through the years.  
+~
+D3
+~
+door black alder~
+1 0 9436
+D4
+~
+~
+0 0 9437
+D5
+~
+~
+0 0 9434
+S
+#9436
+Entrance to second tower~
+You are standing at the base of another, smaller set of spiral stairs. 
+The stonework and stairs appear to be much newer than the main spiral
+staircase of the central tower.  Upon Raistlin's occupation of the tower, he
+repaired the crumbling turrets and topped the minarets with blood-red
+spires.  
+~
+0 9 0
+D1
+~
+~
+1 0 9435
+D4
+~
+~
+0 0 9454
+S
+#9437
+Spiral staircase~
+You continue to walk the winding spiral staircase.  The cold stone walls
+send chills down your spine and the whisper of your footfalls echoes in your
+ears.  As you walk, the feeling of being watched seems to increase - along
+with the sense of someone breathing down the back of your neck...  In fact
+you could swear that something just brushed up against you - or was it just
+your nerves?  
+~
+0 9 0
+D4
+~
+~
+0 0 9438
+D5
+~
+~
+0 0 9435
+S
+#9438
+Spiral staircase~
+You have reached yet another landing in this seemingly never-ending
+staircase.  The light seems a bit brighter here - more torches seem to light
+this area.  A large red oak door sits to the east.  The black marble stairs
+continue into the darkness both up and down from here.  
+~
+0 9 0
+E
+door~
+The large door is made from red oak and has a silver door handle shaped
+like a dragon's tail.  Small carvings cover the door depicting a scene of
+massive citadel.  And the three moons hovering above it.  
+~
+E
+red~
+The large door is made from red oak and has a silver door handle shaped
+like a dragon's tail.  Small carvings cover the door depicting a scene of
+massive citadel.  And the three moons hovering above it.  
+~
+E
+oak~
+The large door is made from red oak and has a silver door handle shaped
+like a dragon's tail.  Small carvings cover the door depicting a scene of
+massive citadel.  And the three moons hovering above it.  
+~
+D1
+~
+red oak door~
+3 0 9439
+D4
+~
+~
+0 0 9440
+D5
+~
+~
+0 0 9437
+S
+#9439
+Entrance to third tower~
+You are standing at the base of another smaller set of spiral stairs. 
+The stonework and stairs appear to be much newer than the main spiral
+staircase of the central tower.  Upon Raistlin's occupation of the tower, he
+repaired the crumbling turrets and topped the minarets with blood-red
+spires.  
+~
+0 9 0
+D3
+~
+~
+3 0 9438
+D4
+~
+~
+0 0 9459
+S
+#9440
+Spiral staircase~
+You continue to walk the spiral staircase leading deep into the heart of
+the tower.  The cold stone walls lend little comfort from the oppressive
+atmosphere.  
+~
+0 9 0
+D4
+~
+~
+0 0 9441
+D5
+~
+~
+0 0 9438
+S
+#9441
+Spiral staircase~
+Your footfalls echo as you walk these black marble stairs.  The sound
+travels up and down the entire staircase.  As you continue on, you get the
+eerie feeling that someone is watching you.  Flashes of red light appear in
+the corner of your eye, increasing this sense of dread.  
+~
+0 9 0
+D4
+~
+~
+0 0 9442
+D5
+~
+~
+0 0 9440
+S
+#9442
+Spiral staircase~
+You continue to walk the winding spiral staircase.  The cold stone walls
+send chills down your spine and the whisper of your footfalls echoes in your
+ears.  As you walk, the feeling of being watched seems to increase - along
+with the sense of someone breathing down the back of your neck...  In fact
+you could swear that something just brushed up against you - or was it just
+your nerves?  
+~
+0 9 0
+D4
+~
+~
+0 0 9443
+D5
+~
+~
+0 0 9441
+S
+#9443
+Spiral staircase~
+You have reached a small landing.  A large mirror stands against the wall
+with two large magical torches on either side.  The light here seems a
+little /too/ bright, making you a little uneasy...  Although this portion of
+the stairway is well lit, the light seems to center around the mirror and
+does not illuminate the darkened stairway surrounding it.  
+~
+0 9 0
+E
+mirror~
+You step closer to the mirror and peer into it.  To your amazement, there
+is no reflection.  All you can see is darkness.  
+~
+D2
+~
+mirror~
+4 9462 9444
+D4
+~
+~
+0 0 9445
+D5
+~
+~
+0 0 9442
+S
+#9444
+Entrance to Dalamar's chambers~
+Dalamar's chambers are to the left of the staircase, after the
+five-hundred and thirty-ninth step.  The quarters are "sumptuously"
+appointed.  You can see furniture and carpeting through the small archway
+that stands between you and the Arch Mage's chambers.  
+~
+0 9 0
+D0
+~
+~
+4 0 9443
+D1
+~
+~
+0 0 9467
+S
+#9445
+Spiral staircase~
+The darkness of the staircase is only parted by the few magical torches
+lining the walls, their soft glow casting twisted shadows around you.  The
+coldness of the stone seems to penetrate your very soul.  The echoes of your
+steps surround you, resonating throughout the entire staircase.  
+~
+0 0 0
+D4
+~
+~
+0 0 9446
+D5
+~
+~
+0 0 9443
+S
+#9446
+Spiral staircase~
+The cold grey stone of the walls in the staircase seems to amplify your
+footfalls as you walk the black marble steps.  The magical torches lighting
+the staircase do not lend any heat to warm the chilled air.  
+~
+0 0 0
+D4
+~
+~
+0 0 9447
+D5
+~
+~
+0 0 9445
+S
+#9447
+Spiral staircase~
+You come to yet another landing in this spiral staircase that seems to
+never end.  Just when you think you've approached the end, you suddenly
+realize that there is yet another set of stairs to walk.  The cold stone
+pounding on your feet, create echoing foot falls, loud enough to wake the
+dead.  A large tapestry sits on the wall showing the tower at Daltigoth.  
+~
+0 8 0
+E
+tapestry~
+The massive tapestry shows the entire tower at Daltigoth.  Almost every
+detail can be seen in this masterpiece.  
+~
+D1
+~
+tapestry~
+4 0 9449
+D4
+~
+~
+0 0 9448
+D5
+~
+~
+0 0 9446
+S
+#9448
+Spiral staircase~
+Your feet feel like lead as you continue to walk this stone staircase. 
+The twining stairs twist up into the darkness and disappear down into the
+void.  Each sound echoes off the cold stone sending waves of sound up and
+down the walls.  The silence is almost deafening.  
+~
+0 8 0
+D4
+~
+~
+0 0 9450
+D5
+~
+~
+0 0 9447
+S
+#9449
+The Laboratory~
+The great laboratory, dark and shadowy in spite of the amount of windows,
+is lined with bookshelves above the worktables.  In the center is a stone
+table large enough to hold a minotaur - normally twelve feet in height -
+with room to spare.  The focal point of the laboratory is at the very back
+of the chamber, a door of steel surrounded by five dragon heads, the portal
+to the Abyss.  The presence of the portal was not always constant, however. 
+With the abandonment of the tower before the Cataclysm, the portal was moved
+to the fortress of Zhaman.  But with the destruction of Zhaman a century
+later, the portal was returned to Palanthas.  During its absence there was
+only a blank wall.  After the battle of Palanthas, when Raistlin remained in
+the Abyss to prevent the return of the Queen of Darkness, Dalamar covered
+the portal, locked the laboratory and ordered the guardians to allow nobody,
+dead or undead, to enter.  
+~
+0 9 0
+D3
+~
+~
+4 0 9447
+S
+#9450
+Spiral staircase~
+The walls seem to be closing in as you continue up the stone spiral
+staircase.  The smooth grey rock seems to be turning much blacker as you
+ascend the tower.  
+~
+0 8 0
+D4
+~
+~
+0 0 9451
+D5
+~
+~
+0 0 9448
+S
+#9451
+Spiral staircase~
+It seems that you have almost reached the top of the tower.  You can see
+a large landing above you.  The end of this endless staircase seems to have
+almost finally come to an end.  You look down and see the endless darkness
+that you once walked.  
+~
+0 8 0
+D4
+~
+~
+0 0 9452
+D5
+~
+~
+0 0 9450
+S
+#9452
+Spiral staircase~
+Your heart sinks as you realize that there are still more stairs that you
+must travel before you can reach the top of this cursed tower of magic.  It
+seems illusions are abundant.  The darkness that you thought you were out of
+envelops you once again.  
+~
+0 8 0
+D4
+~
+~
+0 0 9453
+D5
+~
+~
+0 0 9451
+S
+#9453
+Top of Spiral Staircase~
+You have come to the top of the spiral staircase.  You step onto a large
+landing made from polished black marble.  An immense door sits on the north
+wall.  The doors appear to be made from simple, blackened wood with red
+marks.  Beside the door, the only exit is down those cursed stairs again.  
+~
+0 8 0
+E
+black~
+You look closer at the door and notice that it is black from being
+charred and the red marks are actually blood.  
+~
+E
+door~
+You look closer at the door and notice that it is black from being
+charred and the red marks are actually blood.  
+~
+D0
+~
+black door~
+3 0 9466
+D5
+~
+~
+0 0 9452
+S
+#9454
+Stairs in second tower~
+You are walking along a small staircase which leads up to the top of the
+second turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9455
+D5
+~
+~
+0 0 9436
+S
+#9455
+Stairs in second tower~
+You are walking along a small staircase which leads up to the top of the
+second turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9456
+D5
+~
+~
+0 0 9454
+S
+#9456
+Stairs in second tower~
+You are walking along a small staircase which leads up to the top of the
+second turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9457
+D5
+~
+~
+0 0 9455
+S
+#9457
+Stairs in second tower~
+You are walking along a small staircase which leads up to the top of the
+second turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9458
+D5
+~
+~
+0 0 9456
+S
+#9458
+Stairs in second tower~
+You have reached the top of the second turret.  Here you enter the
+minaret .  A small arched door leads into the minaret.  The small spiral
+staircase leads down toward the main tower.  
+~
+0 9 0
+D5
+~
+~
+0 0 9457
+S
+#9459
+Stairs in third tower~
+You are walking along a staircase, which leads upwards to the top of the
+third turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9460
+D5
+~
+~
+0 0 9439
+S
+#9460
+Stairs in third tower~
+You are walking along a staircase, which leads upwards to the top of the
+third turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9461
+D5
+~
+~
+0 0 9459
+S
+#9461
+Stairs in third tower~
+You are walking along a staircase, which leads upwards to the top of the
+third turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9462
+D5
+~
+~
+0 0 9460
+S
+#9462
+Stairs in third tower~
+You are walking along a staircase, which leads upwards to the top of the
+third turret of the tower.  The stairs twist and turn upwards toward the
+minarets.  The black marble steps and obsidian wall blocks, send ghastly
+shadows up and down the tower.  
+~
+0 9 0
+D4
+~
+~
+0 0 9463
+D5
+~
+~
+0 0 9461
+S
+#9463
+Stairs in third tower~
+You have reached the top of the second turret.  Here, you enter the
+minaret.  A small arched door leads into the minaret.  The small spiral
+staircase leads down toward the main tower.  
+~
+0 9 0
+D5
+~
+~
+0 0 9462
+S
+#9464
+Raistlin's Study~
+The room is warmed by a large marble fireplace with a cheery orange-red
+blaze.  You look around at all the elaborate decorations, fine furniture
+only the wealthy could afford, and numerous objects of strange and exotic
+interest.  But what most impresses you is Raistlin's enormous collection of
+books on history, philosophy, poetry, and other subjects that line the walls
+To your left, you see a large work table with numerous bottles and arcane
+objects strewn across it.  In front of the fireplace is a large desk, made
+of fine oak, with a strange orb of swirling colors floating next to it.  
+~
+0 9 0
+E
+orb~
+Upon closer observation, you notice the orb is in fact a dragon orb.
+~
+E
+books~
+You see numerous books lining the bookcase.  Some are Raistlin’s
+personal spell books, others books of history.  A few of the books seem to
+have been written by Astinus himself.  Others are books on herbalism and
+poetry.  You notice a small door built inside the bookcase.  
+~
+E
+bookcase~
+You see numerous books lining the bookcase.  Some are Raistlin’s
+personal spell books, others books of history.  A few of the books seem to
+have been written by Astinus himself.  Others are books on herbalism and
+poetry.  You notice a small door built inside the bookcase. 
+~
+D2
+~
+~
+1 0 9431
+D3
+~
+~
+0 0 9465
+S
+#9465
+Raistlin's sleeping chamber~
+You enter this chamber and notice it is as large as his study.  More
+books line the walls of this room and yet another work bench sits on the
+south wall.  Raistlin’s bed, a lavish, king-sized four-poster bed with
+black silk sheets, sits in the north-west corner of the room.  A small chest
+sits at the foot of the bed.  
+~
+0 9 0
+E
+bed~
+The bed is carved from mahogany.  The four posts are shaped like dragons
+with the head curving near the top canopy.  The black sheets are made from
+silk and you notice red under cover sheets.  The canopy is trimmed with
+silver.  
+~
+E
+books~
+The books are various spell and research books.  Many seem very old, but
+still well kept.  
+~
+E
+work~
+The workbench is riddled with burn marks and acid burned areas.  You can
+still see various beakers and vials that once held power magical components.
+~
+E
+bench~
+The workbench is riddled with burn marks and acid burned areas.  You can
+still see various beakers and vials that once held power magical components.
+~
+D1
+~
+~
+0 0 9464
+S
+#9466
+Death Walk~
+You exit through the door and out onto a circular landing that goes
+around the outside of the top of the tower.  Its name, the Death Walk, came
+from the mage who threw himself onto the gates cursing the tower and
+changing it forever.  The tower stood amidst a haunted stand of tall oak
+trees known as Shoikan Grove.  Within the grove was a fence.  Its gates
+originally were of gold and silver, but they blackened with the mage's
+curse.  Likewise, the tower itself changed from the red-streaked white stone
+originally wrested from the ground by the mage-builders to a black marble. 
+Thus the tower stood in stark contrast to the gleaming white marble of the
+rest of Palanthas.  
+~
+0 0 0
+D0
+~
+~
+0 0 9446
+D1
+~
+~
+0 0 9446
+D2
+~
+~
+3 0 9453
+D3
+~
+~
+0 0 9446
+S
+#9467
+Dalamar's Chambers~
+You walk into the Arch mages personal chambers.  A desk, plush carpet,
+fireplace, and bed is all the pieces of furniture that you notice.  A large
+book case sits on the south wall.  It is filled with make colored spell
+books and spell scrolls.  Being this is the resting place of an Arch Mage,
+it seems quite simple.  
+~
+0 9 0
+E
+carpet~
+The carpet is a finely made red weave area rug.  It depicts symbols of
+magic and arcane.  The designs stitched in a burgundy color.  
+~
+E
+bed~
+Unlike the rest of the furniture in the room, the bed is quiet simple.  A
+single size bed with black and silver silk sheets.  
+~
+E
+bookcase~
+The bookcase is made of a fine vallenwood.  It reaches the ceiling and is
+filled with various books of magic and lore.  A few shelves are lined with
+various scroll cases.  
+~
+D3
+~
+~
+0 0 9444
+S
+#9498
+Chamber of Seeing~
+Far below the surface, reachable only via magic, is another room carved
+magically by Raistlin: the Chamber of Seeing.  The small circular room
+centered on a round pool of water that burned with an eternal flame.  
+~
+0 13 0
+S
+#9499
+tower info~
+The greatest of the five Towers of High Sorcery was the one at Palanthas.
+The dragon orbs were first created in this tower.  During the rising fear of
+the mages during the reign of the Kingpriest the Tower of Palanthas was
+abandoned, cursed by its last inhabitant who cast himself from the "Death
+Walk" to the spikes of the gate far below.  This mage bid that the tower be
+left uninhabited until the coming of the master of past and present -
+Raistlin.  The tower stood amidst a haunted stand of tall oak trees known as
+Shoikan Grove.  Within the grove was a fence.  Its gates originally were of
+gold and silver, but they blackened with the mage's curse.  Likewise, the
+tower itself changed from the red-streaked white stone originally wrested
+from the ground by the mage-builders to a black marble.  Thus the tower
+stood in stark contrast to the gleaming white marble of the rest of
+Palanthas.  After Raistlin occupied the tower, he repaired the crumbled
+turrets, topping the minarets with blood-red spires.  The interior of the
+tower was a simple cylinder, hollow in the center from base to peak, with a
+stair spiraling around its edge, broken by occasional narrow landings and
+doors, to rooms.  The stairs begin at ground level, near the ruin-carved
+wooden door which was the only entrance.  Far below the surface, reachable
+on via magic, was another room carved magically by Raistlin: the Chamber of
+Seeing.  The small circular room centered on a round pool of water that
+burned with an eternal flame.  Here dwelled Raistlin's failed creations, the
+Live Ones.  Dalamar's chambers were on the left of the stairs after the
+five-hundred and thirty-ninth step.  The quarters were "sumptuously"
+appointed, though no description was given beyond a table, plush carpet,
+fireplace, and bed.  Raistlin's study was also comfortable, with large
+chairs, wooden tables, a huge fireplace at one end, and a massive desk at
+the opposite end that held the dragon orb.  Books lined the walls, their
+continuity broken only by the window.  The study could have been lower in
+the tower than Dalamar's chambers, however for when Crysania and Caramon
+climbed to the laboratory in the top, the climb seemed so endless that even
+Caramon was exhausted.  Even beyond the level of the laboratory the stair
+continued for two more flights, however.  There it ended at a small, arched
+wooden door - the exit which led to the outer walkway, Death Walk.  The
+great laboratory (shadowy in spite of its windows) was lined with
+bookshelves above the worktables.  In the center was a stone table large
+enough to hold a minotaur - normally twelve feet in height - with room to
+spare.  The focal point of the laboratory was at the very back of the
+chamber, a door of steel surrounded by five dragon heads: the Portal to the
+Abyss.  The presence of the portal was not always constant, however.  With
+the abandonment of the tower before the cataclysm, the portal was moved to
+the fortress of Zhaman.  But with the destruction of Zhaman a century later,
+the portal was returned to Palanthas.  During its absence there was only a
+blank wall.  After the battle of Palanthas, when Raistlin remained in the
+Abyss to prevent the return of the Queen of Darkness, Dalamar covered the
+portal, locked the laboratory, and ordered the guardians to allow none to
+enter.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 9405 spec_cast_undead
+M 9413 spec_cast_undead
+M 9417 spec_cast_mage
+M 9423 spec_cast_undead
+M 9426 spec_cast_mage
+M 9449 spec_cast_undead
+M 9458 spec_cast_undead
+M 9463 spec_breath_fire
+M 9465 spec_cast_mage
+M 9467 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 9417 2 2
+D 0 9418 0 2
+D 0 9419 2 1
+D 0 9420 0 1
+D 0 9420 1 1
+D 0 9421 3 1
+D 0 9425 0 1
+D 0 9426 2 1
+D 0 9431 0 1
+D 0 9431 3 2
+D 0 9432 1 2
+D 0 9435 3 1
+D 0 9436 1 1
+D 0 9438 1 1
+D 0 9439 3 1
+D 0 9443 2 2
+D 0 9444 0 2
+D 0 9447 1 1
+D 0 9449 3 1
+D 0 9453 0 1
+D 0 9464 2 1
+D 0 9466 2 1
+M 0 9400 1 9400 1
+M 0 9402 16 9402 1
+M 0 9402 16 9403 1
+M 0 9402 16 9404 1
+M 0 9402 16 9405 1
+M 0 9405 2 9405 1
+E 0 9405 0 20
+M 0 9402 16 9406 1
+M 0 9402 16 9407 1
+M 0 9402 16 9408 1
+M 0 9402 16 9409 1
+M 0 9402 16 9410 1
+M 0 9411 1 9411 1
+M 0 9402 16 9412 1
+M 0 9402 16 9413 1
+M 0 9413 1 9413 1
+E 0 9413 0 20
+M 0 9402 16 9414 1
+M 0 9402 16 9415 1
+M 0 9402 16 9416 1
+M 0 9418 1 9417 1
+M 0 9423 10 9423 1
+M 0 9423 10 9425 1
+M 0 9426 1 9426 1
+E 0 9426 0 16
+M 0 9423 10 9429 1
+O 0 9430 0 9430
+M 0 9423 10 9435 1
+M 0 9423 10 9441 1
+M 0 9423 10 9443 1
+M 0 9423 10 9447 1
+O 0 9449 0 9449
+M 0 9449 1 9449 1
+G 0 9400 0
+M 0 9423 10 9450 1
+M 0 9423 10 9452 1
+M 0 9458 1 9458 1
+G 0 9458 0
+M 0 9463 1 9463 1
+G 0 9462 0
+O 0 9464 0 9464
+P 0 9463 1 9464 1
+M 0 9465 1 9465 1
+E 0 9465 0 20
+G 0 9467 0
+O 0 9466 0 9465
+P 0 9468 1 9466 1
+M 0 9466 1 9466 1
+O 0 9469 0 9467
+P 0 9471 1 9469 1
+M 0 9467 1 9467 1
+G 0 9470 0
+M 0 9498 5 9498 5
+M 0 9498 5 9498 5
+G 0 9498 0
+M 0 9498 5 9498 5
+M 0 9498 5 9498 5
+M 0 9498 5 9498 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#9400
+if level $n < 90
+mob echoat $n You are overcome with fear and run in terror.
+mob echoaround $n $n Runs from the room in terror.
+mob transfer $n 3261
+else 
+mob echo You hear the entire grove scream in rage as an unwanted enters.
+mob transfer $n 9401
+endif
+~
+#9417
+if mobhere 9417
+mob echoat $n The spectre blocks your path.
+mob echoaround $n A spectre blocks $n's path.
+break
+else
+mob echoat $n As you pass the open gate the robes hanging on the gate spring to life and a spectre appears from nowhere.
+mob echoaround $n As $n passes the open gate the robes hanging on the gate spring to life and a spectre appears from nowhere.
+mob mload 9417
+endif
+~
+#9418
+mob echo With its last life force the spectre lunges toward you and dies at your feet. An unseen force pulls you forward toward the tower.
+MOB GTRANSFER $n 9418
+~
+#9423
+mob echo A pair of {RRed Glowing{x eyes blink at you and pause for a moment.
+mob remember $n
+mob delay 3
+break
+~
+#9424
+mob echoat $q The eyes seem to float closer to you and a fleshless hand reaches out toward you.
+mob echoaround $q The eyes seem to float closer to $n and a fleshless hand reaches out toward $e.
+if rand 50
+mob cast energy $q
+else
+mob echoat $q The eyes' grasp misses you.
+mob echoaround $q The eyes' grasp misses $q.
+endif
+mob kill $q
+mob forget $q
+break
+~
+#9446
+mob echoat $n You step too close to the edge and find yourself plummeting to the grown below!
+mob echoat $n You have {RDied!{x
+mob echoaround $n $n steps too close to the edge if the rail and falls to their death!
+mob damage $n 1800 1800 lethal
+mob damage $n 1800 1800 lethal
+mob damage $n 1800 1800 lethal
+mob damage $n 1800 1800 lethal
+mob damage $n 1800 1800 lethal
+mob damage $n 1800 1800 lethal
+~
+#9449
+mob echo A tower guardian appears before you, eyes glowing a bright {RRed{x.
+mob echoat $n the guardian stares at you.
+mob echoaround $n the guardian stares at $n.
+say No one may enter the master's laboratory.
+say leave now or die.
+mob remember $n
+mob delay 3
+end
+~
+#9450
+mob cast "energy drain" $q
+mob cast "dispel magic" $q
+mob cast "weaken" $q
+mob kill $q
+mob forget $q
+end
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

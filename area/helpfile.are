@@ -1,0 +1,256 @@
+#AREADATA
+Name Help File Area~
+Builders Hiddukel~
+VNUMs 17901 17902
+Credits (IMM) <God> Help Land~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#17901
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#17901
+Help File ROOM~
+~
+0 40972 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#HELPS
+0 1~
+~
+
+102 hedit~
+HEDIT
+ 
+This command is specifically for immortals with security 9 to allow the
+creation or modification of help files.
+ 
+The following commands are used to edit and create help entries
+ 
+{yhedit <command>{x - where command is the name of the help file you wish to edit
+{ytext{x - will put you in the editor
+{ynew <command>{x - will create a new help entry with the keyword command
+{ydone{x - will exit the heditor
+{ydelete{ - deletes the currently viewed help file
+{ynivel <level>{x - will restrict access to the help file to a certain level range.
+ 
+{BPlease note, hedit is very unstable. So please use {yasave changed{B before
+using it{x
+~
+
+102 RENAME~
+RENAME <character you wish to change> <new name>
+ 
+This command is only available at level 109 and 110. It is used to change
+the persons character name. It is an effective command to use for players
+who have no knowledge of creating an acceptable roleplaying name and for
+people who purposely create characters with unacceptable names, such as 
+"Porky" "Ice-T" and so on and so forth.
+~
+
+102 GRAB~
+Syntax: GRAB <item> <char>
+ 
+This level 102 command is a very useful tool to use when someone has an
+item in their inventory and you want to take it, for whatever purpose,
+without having to force them to drop it or take your chances by stealing
+it. What ever the item it is you wish to grab from a character, it MUST
+be in that persons inventory. You can NOT grab items that are being worn
+held or wielded. This a powerful command, please do not over abuse it by
+grabing everything in a persons inventory, leaving them with nothing,
+wondering and complaining that it all disappeared.
+~
+
+103 GUILD~
+Syntax: GUILD <character> <clan name>
+ 
+This skill may only be used by those at level 105. You may change a players
+guild (clan) to whatever you may desire it to be changed to, without the
+hassle of having to wait for a recruiter, leader or God of that particular
+clan to show up to induct the person themself. Instead, using this command,
+you'll be able to change a characters clan to any of the clans available
+to choose from on the appropriate list.
+ 
+'HELP LISTCLAN' will give you a current list of available guilds.
+~
+
+102 TRANSIN~
+Syntax: TRANSIN <text>
+ 
+This neat little command is mostly used in part for a better roleplaying
+enviroment. Type the word TRANSIN followed by a text sentence. When you 
+transfer someone into the same room as you or to anywhere you wish to,
+everyone will see a message appear, almost like a sort of EMOTE. To 
+everyone in the same room as the person, they will see, for example:
+ 
+Schmuck has been summoned by a greater force!
+ 
+Your TRANSIN in this case, would be 'has been summoned by a greater force'
+Schmuck is the name of the character of which you transfered, there is no
+need to add this into your TRANSIN, for the code automaticaly does that.
+Everyones default transin is <name> arrives in a mushroom cloud. You may 
+leave it or change it to your liking. In the example above, you'd simply
+type TRANSIN has been summoned by a greater force. Fairly simple to use.
+~
+
+102 TRANSOUT~
+Syntax: TRANSOUT <text>
+ 
+Identical to TRANSIN, this will display a text to everyone in the room
+when someone is transfered out. You may put in whatever suites your needs,
+however, you must put in a verb as the first word of the text, a verb
+which depicts a person leaving. Examples would be:
+ 
+Disappears / sent back 
+ 
+Those are just two of many you could come up with. For a better
+understanding, also see 'HELP TRANSIN'.
+~
+
+102 VIOLATE~
+Syntax: VIOLATE <character>
+~
+
+102 ORESET~
+Syntax: ORESET <vnum> <args>
+        -no_args               = into room
+        -<obj_name>            = into obj
+        -<mob_name> <wear_loc> = into mob                                      
+ 
+This command MUST be used from inside REDIT. Once in REDIT and an object
+has been created, you may then choose to load it into the resets for
+the room you want it in or mob you want it on by using ORESET.
+You must follow the ORESET with the VNUM of the object you wish to add.
+Anything you add to a room's resets will continue to repop, given that
+it has been removed from the room, so, if you use the ORESET command to
+load an object for yourself, make sure to delete the reset immediately.
+ 
+Type 'HELP RESET' for more information on using resets.
+~
+
+102 DARK~
+~
+
+102 ROOM FLAGS~
+Syntax: ROOM <flag>
+ 
+DARK - This flag will make it so the character is required to have a light s
+ource to see anything inside the room.
+ 
+NO_MOB - This sets the room as PC-only. No Mob will be allowed in the room (very good for an entry to an area, that way your mobs don't wander into other areas)
+ 
+INDOORS - This will set the room as 'indoors' .. usually used with the "inside" sector flag. 
+ 
+ 
+PRIVATE - This will make the room a 'private' room. Only two players (or mobs) can be inside the room at a time. 
+ 
+SAFE - This flag will make it impossible to start a fight in the room. 
+ 
+SOLITARY - Much like the 'private' flag - however only ONE player (or mob) can be inside the room at a time. 
+ 
+PET_SHOP - Necessary for the actual shop part of the petshop (where the shopkeeper is) 
+ 
+NO_RECALL - Makes the room impossible to recall from
+ 
+IMP_ONLY - - Available only to imp level characters (whatever IMP level is on your mud). 
+ 
+GODS_ONLY - Available only to immortals (unless transferred in) 
+ 
+HEROS_ONLY - Only available to hero level and immortals
+ 
+NEWBIES_ONLY - Only available to newbies (usually levels 1-5) and immortals
+ 
+LAW - The "law" flag makes it so that all Player Killer/Thief flags will be effective in this room (i.e. cityguards, etc. will attack) 
+ 
+NOWHERE - This flag makes it so if the character uses the "where" command in the room, it will tell them no one else is in the area (even if there are 20 people there) 
+~
+
+103 CLONE~
+Syntax: CLONE <obj or mob name>
+ 
+This skill will allow you to clone an exact replica of an item or MOB.
+It is almost identical to LOAD, however, your creating a mirror image
+of the object or mob. The object or mob, must be in the room, whether 
+it be on the ground, or in your inventory. This skill is very useful
+when in a situation where you took an item which was already created
+and you wanted to restring it to something else, and you had to make
+fifty of them. Instead of having to go through the agonizing pain of
+having to restring 50 objects, you only need to do so once, then clone
+it till you have your desired amount, in this case, 50.
+~
+
+102 ASAVE~
+Syntax:
+  asave <vnum>   - saves a particular area
+  asave list     - saves the area.lst file
+  asave area     - saves the area being edited
+  asave changed  - saves all changed zones
+  asave world    - saves the world! (db dump)                                  
+ 
+This command may only be used while in your Area Editor <AEDIT>
+Type HELP AEDIT to see available commands used while in it's editor.
+~
+
+103 ZECHO~
+ Syntax: ZECHO <message>
+ 
+Similar to the other echo commands, use this to send a message to all 
+players in the same zone as you are. Any higher-level god will see a
+prompt in front of your message, informing him or her that it is a 
+ZECHO.
+~
+
+102 ADDAFFECT~
+Syntax: ADDAFF <affect name> <#>
+ 
+none               strength           dexterity          intelligence
+wisdom             constitution       sex                class
+level              age                height             weight
+mana               hp                 move               gold
+experience         ac                 hitroll            damroll
+saves              savingpara         savingrod          savingpetri
+savingbreath       savingspell                                                 
+~
+
+-1 $~
+
+#$

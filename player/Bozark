@@ -1,0 +1,524 @@
+#PLAYER
+Name Bozark~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1408159986
+LogO 1416817806
+Vers 10
+Act  CDGQTe
+Desc {DIn your gaze, a figure of normal size stands. As your eyes begin to draw
+an assessment of the man you feel as if some sort of enchantment has
+fallen over you. Robes of {cmagnifiscent{D colors made from the finest
+silk with cloth trim drape around the mans body.
+{DHis hood, cascading a shadow upon his face makes it almost impossible to
+see his face. As he moves, tattoos of {rred{D and{W white{D reveal
+themselves. {DThe tattoos and marking etched onto his face appear to show
+some sort of symbolic meaning. {yGolden{D braids fall from within his hood
+draping down and resting upon his chest. {DThe same sort of {rred{D and
+{Wwhite{D tattoos are seen peaking from within his robes running down his
+forearms and coming to an end upon his hands. A cultural insignia is
+burned atop one of his hands, a family crest upon the other. {DTribal
+tattoos peak from the bottom of his robes leaving a trail that ends at his
+ankles.  Sandals woven from a leather material are worn upon his feet. An
+anklet of {ygolden{D fabric covers a portion of his tatoos. Attached to
+the anklet hangs a rather large gem of {mpurple{D color. {DCarried in his
+right hand is staff with many engravings running down the sides. The only
+scars seen are worn only by the staff. A name in what appears to be
+ancient elvish literature is etched into the staff under the placement of
+his hand. It reads {w"{WBozark{w"{D In his left, he carries a small wand.
+The wand, leaving a trail of {Wsparkles{D that cascade down the man gives
+the impression that he is a Mage.{w
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  1
+Cla  12
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 122131
+Not  1413540755 0 0 0 0
+Scro 22
+Room 3054
+HMV  1448 1448 1639 1639 695 695
+Steel 3122
+Gold 97446
+Bank 0
+Exp  16259300
+AfBy J
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1966080
+Comm NOQ
+Pos  8
+Prac 388
+Trai 15
+Reward_timer 81
+Save  -10
+Alig  646
+Ethos 0
+Hit   7
+Dam   20
+ACs -109 -111 -128 -62
+Wimp  60
+Attr 13 35 32 13 13 16
+AMod 5 9 11 9 6 0
+Pass BoPh4jQelAU.A~
+Titl  the High Wizard of Enchantment~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 33
+HMVP 1073 1359 695
+Cnd  0 30 30 0
+QuestPnts 168
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {cEnchanter {Yof {cHolyness {w'{D~
+Sk 100 'acid blast'
+Sk 76 'armor'
+Sk 75 'blindness'
+Sk 100 'burning hands'
+Sk 1 'cancellation'
+Sk 87 'cause serious'
+Sk 75 'charm person'
+Sk 1 'detect good'
+Sk 75 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 76 'enchant armor'
+Sk 48 'enchant weapon'
+Sk 1 'farsight'
+Sk 1 'flamestrike'
+Sk 1 'levitate'
+Sk 1 'orb of containment'
+Sk 86 'gate'
+Sk 68 'giant strength'
+Sk 84 'haste'
+Sk 78 'life transfer'
+Sk 1 'mind shatter'
+Sk 1 'heat metal'
+Sk 75 'identify'
+Sk 1 'infravision'
+Sk 76 'invisibility'
+Sk 1 'know alignment'
+Sk 76 'locate object'
+Sk 1 'magic missile'
+Sk 75 'pass door'
+Sk 1 'aid'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 78 'sleep'
+Sk 1 'slow'
+Sk 76 'flesh to stone'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 75 'flaming shield'
+Sk 91 'dagger'
+Sk 100 'whip'
+Sk 12 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 12 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'break enchantment'
+Sk 1 'sympathy'
+Sk 1 'cantrip'
+Sk 75 'feeblemind'
+Sk 97 'binding'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'flame rune'
+Sk 1 'frost rune'
+Sk 1 'shocking rune'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 2 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 87 'attunement'
+Sk 70 'glamour'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'sleepless curse'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'taunt'
+Sk 1 'fumble'
+Sk 1 'empowerment'
+Sk 75 'garble'
+Sk 1 'shallow breath'
+Sk 98 'chaos flux'
+Sk 1 'gravity flux'
+Sk 1 'torment'
+Sk 1 'trance'
+Sk 75 'waterlungs'
+Sk 100 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'enlarge'
+Sk 1 'shrink'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16231
+Enchanted
+Nest 1
+ExtF 65
+Cond 97
+Wear -1
+Lev  22
+Cost 800
+Affc 'reserved'   1  20  -1   2   4          0
+Affc 'enchant weapon'   1  17  -1   2  19          0
+Affc 'enchant weapon'   0  17  -1   2  18          0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 18
+Cost 4603
+End
+
+#O
+Vnum 9533
+Nest 0
+Cond 98
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 76 0 0 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 97
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 100
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+Cond 100
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 16458
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 2
+Cost 15000
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 1
+Cost 15000
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16251
+Nest 0
+Cond 100
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#END

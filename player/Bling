@@ -1,0 +1,903 @@
+#PLAYER
+Name Bling~
+Surname Firecrest~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1354459349
+LogO 1421221269
+Vers 10
+Act  CDGQTe
+Desc Here stands a small and chubby dwarf. He has a red beard that only reaches
+about 7 inches below his chin, which means he is still young for his race.
+The way he handles the smith hammer on his right hand suggests he is still
+but an apprentice, but on his way to improving. He looks up with a smiling
+face, 'Good day to ye!'
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {C%g St {Q%s G {x%e{r> ~
+Race klar~
+Org 7
+Devotee 18
+Sex  1
+Cla  15
+Hmtown 4
+Levl 53
+recall_point 10664
+Levscale 30
+Xptolev  48634
+Sec  0
+Plyd 509316
+Not  1421221267 1412588061 0 1412588064 1373633505
+Scro 48
+Room 400
+HMV  728 728 728 728 413 413
+Steel 3032
+Gold 84
+Bank 0
+Exp  654566
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3342336
+Comm ANO
+Pos  8
+Prac 17
+Trai 16
+Reward_timer 100
+Save  -2
+Alig  0
+Ethos 0
+ACs 65 55 60 98
+Attr 12 20 16 23 17 10
+AMod 1 9 18 3 5 0
+Pass BlG46EYxzeNMA~
+Titl  the Apprentice Engraver~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 141
+HMVP 678 688 413
+Cnd  0 51 56 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 70 'calm'
+Sk 1 'hand to hand'
+Sk 1 'sharpen'
+Sk 1 'mount'
+Sk 70 'sympathy'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'lore'
+Sk 50 'recall'
+Sk 70 'vortex'
+Sk 1 'mend'
+Sk 1 'repair shield'
+Sk 1 'leather repair'
+Sk 1 'plate repair'
+Sk 1 'chain repair'
+Sk 41 'weapon repair'
+Sk 1 'deathblade'
+Sk 1 'flameblade'
+Sk 1 'runeblade'
+Sk 100 'fast working'
+Sk 1 'stainless'
+Sk 1 'eversharp'
+Sk 1 'purifying fire'
+Sk 1 'fletching'
+Sk 100 'smith'
+Sk 9 'create furnace'
+Sk 1 'create barrel'
+Sk 18 'create grinder'
+Sk 75 'create anvil'
+Sk 75 'masterwork'
+Sk 4 'create flame'
+Sk 1 'thors hammer'
+Sk 100 'dismantle'
+Sk 1 'eyerub'
+Sk 75 'cultural artistry'
+Sk 100 'instruct'
+Sk 1 'key origin'
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 5710
+Nest 0
+Cond 100
+Wear 20
+Cost 400
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 19
+Cost 2600
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 1266
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 435
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 435
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 435
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 435
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 368
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 338
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 460
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 443
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 340
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 278
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 363
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 265
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 348
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 378
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 445
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 398
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 453
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 323
+End
+
+#O
+Vnum 414
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 412
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 409
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 409
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 409
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 409
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8388608
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear -1
+Lev  61
+Cost 610
+Val  13 13 13 9 0
+Affc 'cultural artistry'   1  51  -1   0   0    8388608
+End
+
+#END

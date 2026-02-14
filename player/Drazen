@@ -1,0 +1,1008 @@
+#PLAYER
+Name Drazen~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1374292830
+LogO 1422395728
+Vers 10
+Act  CDFGLMQTe
+Desc {GDressed in  {gLeather{G standing about four foot eleven inches or five
+foot even.  This young male {gleather{G armor has bit of leaves and grass
+sticking to it. This man has {Wwhite{G hair with {Rred{G tips. His hair is
+short and spiked up with a pony tail the tip of the tail comes to about
+his shoulders. He carries a wooden staff and a few small pouches on his
+belt. You get the whiff of sweat and earth off the man. {x
+~
+Prom <%h\%Hhp %m\%Mm %vmv %XTnl>%c<%b %B>%c<%sG %gS>%c{ ~
+Race kender~
+Sex  1
+Cla  7
+Hmtown 6
+Levl 16
+recall_point 14920
+Levscale 30
+Xptolev  3886
+Sec  0
+Plyd 124751
+Not  1420508357 1420508362 0 1420508367 1374381570
+Scro 98
+Room 3005
+HMV  307 307 305 305 190 190
+Steel 51
+Gold 3663
+Bank 0
+Exp  43814
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm LNO
+Pos  8
+Prac 14
+Trai 1
+Reward_timer 49
+Save  -5
+Alig  -23
+Ethos 0
+ACs 35 23 14 84
+Wimp  29
+Attr 12 12 18 16 20 13
+AMod 0 7 12 3 8 0
+Pass DrItLSRO8DjOE~
+Titl  the Forestwalker~
+Pretit ~
+Pnts 7
+TSex 1
+LLev 34
+HMVP 257 265 190
+Cnd  0 61 61 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias - ;~
+Alias gt gt {G~
+Alias says say {G~
+Sk 1 'create rose'
+Sk 1 'fireproof'
+Sk 1 'orb of containment'
+Sk 1 'life transfer'
+Sk 1 'storm of vengeance'
+Sk 1 'teleport'
+Sk 100 'dagger'
+Sk 19 'shield block'
+Sk 94 'spear'
+Sk 2 'dirt kicking'
+Sk 1 'disarm'
+Sk 18 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 96 'hand to hand'
+Sk 100 'kick'
+Sk 16 'parry'
+Sk 4 'trip'
+Sk 1 'second attack'
+Sk 1 'sharpen'
+Sk 1 'deathgrip'
+Sk 1 'mount'
+Sk 91 'badberry'
+Sk 100 'goodberry'
+Sk 1 'breath of nature'
+Sk 1 'druidstaff'
+Sk 1 'earthmeld'
+Sk 95 'windspirit'
+Sk 1 'stonespirit'
+Sk 1 'summon insects'
+Sk 1 'natures embrace'
+Sk 1 'natures warmth'
+Sk 1 'pillify'
+Sk 1 'herbal discern'
+Sk 94 'bark skin'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 32 'fast healing'
+Sk 12 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'drow tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'kender tongue'
+Sk 96 'lore'
+Sk 1 'pick lock'
+Sk 100 'sneak'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 1 'pass without trace'
+Sk 1 'purify'
+Sk 1 'jab'
+Sk 1 'sweep attack'
+Sk 1 'vermin plague'
+Sk 1 'vortex'
+Sk 1 'detect presence'
+Sk 99 'scout'
+Sk 1 'sticks to snakes'
+Sk 19 'quiet movement'
+Sk 76 'surge'
+Sk 54 'endure'
+Sk 100 'taunt'
+Sk 98 'sparkshot'
+Sk 1 'sunray'
+Sk 1 'trance'
+Sk 18 'waterlungs'
+Sk 1 'fireseed'
+Sk 1 'immolation'
+Sk 1 'pine needles'
+Sk 44 'staff'
+Sk 1 'eyerub'
+Sk 1 'wrath of nature'
+Sk 100 'instruct'
+Sk 1 'call of the wild'
+Sk 1 'tame'
+Sk 1 'entangle'
+Sk 1 'plant growth'
+Sk 1 'treeform'
+Sk 1 'quicksand'
+Sk 1 'windtalk'
+Sk 1 'wilderness lore'
+Sk 1 'beastspite'
+Affc 'endure'   0  14   1  -5  25          0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 97
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 10
+Cost 132
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 9
+Cost 132
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 97
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 98
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 11216
+Enchanted
+Nest 0
+ExtF 262209
+Cond 100
+Wear 5
+Lev  13
+Cost 0
+Affc 'enchant armor'   1  79  -1  -4  17          0
+Affc 'reserved'   1  10  -1   1   3          0
+Affc 'reserved'   1  10  -1   1   4          0
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from a minotaur necromancer's hide~
+Desc A bag of fine a minotaur necromancer hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  35
+Cost 5300
+Val  1060 1 -1 100 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 5767
+Nest 1
+Cond 100
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 3028
+Nest 1
+Cond 90
+Wear -1
+Lev  15
+Cost 580
+Val  10 2 7 7 98
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1206
+Nest 1
+Name material coupon meteorite fragment {Donyx{x~
+ShD  a {Dmeteorite{x fragment~
+Desc the fragment of a rock that survived the fall from space is here.{/{YI bet it is made out of some cool alien material.{x ~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14510
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 3038
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 3730
+Nest 1
+Cond 94
+Wear -1
+Lev  7
+Cost 310
+Val  9 1 2 37 66
+End
+
+#O
+Vnum 14919
+Nest 0
+Cond 100
+Wear -1
+Cost 40
+Val  5 0 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3117
+Nest 0
+Cond 100
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 3028
+Nest 0
+Cond 90
+Wear 20
+Cost 580
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3717
+Nest 0
+Cond 94
+Wear -1
+Cost 111
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  21 5 0 0 0
+End
+
+#END

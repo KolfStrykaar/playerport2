@@ -1,0 +1,785 @@
+#PLAYER
+Name Velio~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1408344963
+LogO 1408676024
+Vers 10
+Act  CDGQTe
+Prom <{W%h{rhp {W%m{rm {W%v{rv>%B{x ~
+Race silvanesti~
+Sex  1
+Cla  12
+Hmtown 0
+Levl 20
+recall_point 3001
+Levscale 30
+Xptolev  2883
+Sec  0
+Plyd 17520
+Not  0 0 0 0 0
+Scro 22
+Room 3013
+HMV  347 347 394 394 214 214
+Steel 3091
+Gold 78
+Bank 0
+Exp  43967
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3538944
+Comm NO
+Pos  8
+Prac 40
+Alig  -774
+Ethos 1
+ACs 46 42 29 84
+Attr 11 19 20 13 21 16
+AMod 0 7 22 4 14 0
+Pass VeWpm5sEopuzk~
+Titl  the Magician~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 3
+HMVP 277 344 214
+Cnd  0 54 17 0
+QuestPnts 426
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 75 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'cancellation'
+Sk 1 'cause serious'
+Sk 1 'charm person'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 1 'farsight'
+Sk 1 'flamestrike'
+Sk 1 'levitate'
+Sk 1 'orb of containment'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'life transfer'
+Sk 1 'mind shatter'
+Sk 1 'heat metal'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'magic missile'
+Sk 1 'pass door'
+Sk 1 'aid'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'flesh to stone'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'flaming shield'
+Sk 78 'dagger'
+Sk 1 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'break enchantment'
+Sk 1 'sympathy'
+Sk 1 'cantrip'
+Sk 1 'feeblemind'
+Sk 1 'binding'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'flame rune'
+Sk 1 'frost rune'
+Sk 1 'shocking rune'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'attunement'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'sleepless curse'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'taunt'
+Sk 1 'fumble'
+Sk 1 'empowerment'
+Sk 1 'garble'
+Sk 1 'shallow breath'
+Sk 1 'chaos flux'
+Sk 1 'gravity flux'
+Sk 1 'torment'
+Sk 1 'trance'
+Sk 1 'waterlungs'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'enlarge'
+Sk 1 'shrink'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 3764
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 152 0 0
+End
+
+#O
+Vnum 3765
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3766
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3767
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#END

@@ -1,0 +1,2362 @@
+#PLAYER
+Name Melody~
+Surname Farrin~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1294579322
+LogO 1391453178
+Vers 10
+Act  CDGLTe
+Desc Standing here is a blonde woman of half-elven descent.  She stands at five
+feet and four inches and has the light frame of an elf.  However, her
+facial features betray her mix of human heritage.  Her face is gently
+curved, lacking the specific angular features of an elf.  Her ears are
+only slightly pointed, though her blue eyes are almond and large on her
+face.
+She has light blonde hair with bangs that hang untamed to the collar of
+her neck.  She has pale white skin that from a glance appears to be
+delicate and smooth.  A small polished stick hangs from her light colored
+lips for extended periods of time, as if though the woman never let it
+out.  She wears a white cotton sleeveless vest and a short skirt
+combination.  An improperly worn belt hangs unevenly on her waist.  The
+vest holds the sheath and blade of a katana on her right hip.  A dagger
+hangs just behind her katana, and a sister dagger can be seen on her other
+hip.  Her lower legs are covered with knee high cotton socks and simple
+walking shoes are on her feet.  Finally, a backpack is slung over one
+shoulder and hangs down her back.
+~
+Prom <%hhp %mm %vmv %B %b %X %x> ~
+Race half-elf~
+Org 9
+Sex  2
+Cla  2
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1192915
+Sec  0
+Plyd 460753
+Not  1378929651 1372452251 0 1378694253 1300797323
+Scro 22
+Room 3373
+HMV  4235 4235 1182 1182 876 876
+Steel 12747
+Gold 885390
+Bank 862203
+Exp  16261285
+AfBy JOP
+Deaths 2
+FlagTot 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4194304
+Comm BNO
+Pos  8
+Save  -64
+Alig  21
+Ethos 0
+Hit   71
+Dam   64
+ACs -491 -506 -496 -495
+Attr 14 15 13 22 13 16
+AMod 12 3 1 21 9 5
+Pass MeCxf1UpiwYoY~
+Titl  the Thief Heroine~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 2
+HMVP 3095 332 726
+Cnd  0 64 64 0
+QuestPnts 500
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias as recite silence mikhal~
+Alias ad bj kougyoku~
+Alias ; ; {CMelody{x:~
+Alias af murder seraph~
+Sk 100 'calm'
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'dagger'
+Sk 100 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'demand'
+Sk 100 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'sympathy'
+Sk 100 'pickpocket'
+Sk 100 'mountjack'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'recall'
+Sk 100 'truefire'
+Sk 100 'disguise'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 100 'strip'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 100 'disarm traps'
+Sk 100 'staff'
+Sk 100 'eyerub'
+Sk 100 'instruct'
+Sk 100 'evade spell'
+Affc 'sneak'   0  91  56   0   0      32768
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 1625
+Nest 0
+Name black glasses~
+ShD  a pair of {Dblack{x glasses~
+Desc Here lies a pair of black glasses, also possessing black lenses.~
+ExtF 17039360
+Cond 100
+Wear 7
+Cost 9498
+End
+
+#O
+Vnum 9426
+Nest 0
+Name tooled-leather leather harness~
+ShD  a {yTooled{x Leather Harness~
+Desc Here lies a harness, made for carrying small objects and certain weaponry, for around the torso.~
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name leather belt~
+ShD  a leather belt~
+Desc An ordinary leather belt.~
+Cond 98
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name sapphire necklace~
+ShD  a {bsapphire{x necklace~
+Desc Here lies a sapphire necklance, seeming to of some value.~
+ExtF 786432
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name small scarf~
+ShD  a small scarf~
+Desc You see a small dull grey scarf.~
+ExtF 786432
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9471
+Nest 0
+Name terris' golden ring~
+ShD  Terris' {Ygolden{x ring~
+Desc It looks to be an extremely valuable ring made of pure gold.~
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 0
+Name leather hairband band~
+ShD  a leather hairband~
+Desc An ordinary leather hairband.~
+Cond 97
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 19002
+Nest 0
+Name wool wristbands bands~
+ShD  wool wristbands~
+Desc Ordinary, fraying wristbands are lying here.~
+ExtF 524288
+Cond 97
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 3818
+Nest 0
+Name fingerless leather gloves~
+ShD  fingerless leather gloves~
+Desc Here lies a pair of fingerless leather gloves, the knuckles tipped with brass.~
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 9498
+Nest 0
+Name leather boots~
+ShD  a pair of leather boots~
+Desc A pair of leather boots sit on the ground here.~
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name brass ring~
+ShD  a {ybrass{x ring~
+Desc A dull brass ring that seems to be of little to no value is here.~
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name stone beaded wristband band~
+ShD  a stone beaded wristband~
+Desc Here lies a wristband beaded with small, smooth stones.~
+ExtF 17039360
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name stone beaded wristband band~
+ShD  a stone beaded wristband~
+Desc Here lies a wristband beaded with small, smooth stones.~
+ExtF 17039360
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9592
+Nest 0
+Name transparent eye~
+ShD  a transparent eye~
+Desc Floating here is a small, transparent and magical eye.~
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Name burlap pants~
+ShD  burlap pants~
+Desc Here lies a pair of burlap pants.~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Name tattoo phoenix~
+ShD  a tattoo of a {RPh{roen{Rix{x~
+Desc Here lies the delicate artwork of a fiery phoenix.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16304
+Nest 0
+Name tome knowledge tobril~
+ShD  ({WReplica{x) the {WTome{x of {mKnowledge{x, "{WTobril{x"~
+Desc Here lies a powerful replica in dedication to Gilean's very own tome of knowledge, the Tobril.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter ~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter ~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter ~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 200
+Val  27 61 -1 -1 0
+Spell 1 'mind shatter'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll firestorm scroll firestorm~
+ShD  a scroll of mind shatter, firestorm, firestorm~
+Cond 100
+Wear -1
+Lev  71
+Cost 135
+Val  35 61 165 165 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+Spell 3 'firestorm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll firestorm scroll firestorm~
+ShD  a scroll of mind shatter, firestorm, firestorm~
+Cond 100
+Wear -1
+Lev  71
+Cost 135
+Val  35 61 165 165 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+Spell 3 'firestorm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll firestorm scroll firestorm~
+ShD  a scroll of mind shatter, firestorm, firestorm~
+Cond 100
+Wear -1
+Lev  71
+Cost 135
+Val  35 61 165 165 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+Spell 3 'firestorm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll firestorm scroll firestorm~
+ShD  a scroll of mind shatter, firestorm, firestorm~
+Cond 100
+Wear -1
+Lev  71
+Cost 135
+Val  35 61 165 165 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+Spell 3 'firestorm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll firestorm scroll firestorm~
+ShD  a scroll of mind shatter, firestorm, firestorm~
+Cond 100
+Wear -1
+Lev  71
+Cost 135
+Val  35 61 165 165 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+Spell 3 'firestorm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  71
+Cost 175
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  71
+Cost 175
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll salvation scroll heal scroll heal~
+ShD  a scroll of salvation, heal, heal~
+Cond 100
+Wear -1
+Lev  71
+Cost 118
+Val  35 343 59 59 0
+Spell 1 'salvation'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll salvation scroll heal scroll heal~
+ShD  a scroll of salvation, heal, heal~
+Cond 100
+Wear -1
+Lev  71
+Cost 118
+Val  35 343 59 59 0
+Spell 1 'salvation'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll salvation scroll heal scroll heal~
+ShD  a scroll of salvation, heal, heal~
+Cond 100
+Wear -1
+Lev  71
+Cost 118
+Val  35 343 59 59 0
+Spell 1 'salvation'
+Spell 2 'heal'
+Spell 3 'heal'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll teleport~
+ShD  a scroll of teleport~
+Cond 100
+Wear -1
+Lev  71
+Cost 148
+Val  35 92 -1 -1 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of mind shatter, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 139
+Val  35 61 137 137 0
+Spell 1 'mind shatter'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 5833
+Nest 0
+Name burlap tunic~
+ShD  a burlap tunic~
+Desc A burlap tunic of no importance is here.~
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 98
+Wear -1
+Cost 3803
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1770
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 788
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1380
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  49 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 3093
+Nest 1
+ExtF 17073666
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 11878
+Nest 1
+Name big bud cannibus marijuana~
+ShD  a {gbig bud{c {ycannibus{x~
+Desc Here lies an ounce of really powerful marijuana... you can smell it from here!~
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Name tome knowledge tobril~
+ShD  ({WReplica{x) the {WTome{x of {mKnowledge{x, "{WTobril{x"~
+Desc Here lies a powerful replica in dedication to Gilean's very own tome of knowledge, the Tobril.~
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name kite shield~
+ShD  a large kite shield~
+Desc A large metal kite shield leans against the wall.~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 10635
+Nest 0
+Name steel katana~
+ShD  a steel katana~
+Desc Here lies an oriental curved katana.~
+Cond 86
+Wear 20
+Cost 30000
+Val  1 12 15 21 10392
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from a {WKnight{x of the {cSword{x's hide~
+Desc A bag of fine a {WKnight{x of the {cSword{x hide catches your eye.~
+ExtF 17039360
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  35
+Cost 5350
+Val  1070 1 -1 100 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3093
+Enchanted
+Nest 0
+ExtF 17039426
+Cond 48
+Wear -1
+Lev  97
+Cost 900
+Val  10 9 15 37 4417
+Affc 'reserved'   1  90  -1   2   3          0
+Affc 'reserved'   1  90  -1   4   4          0
+Affc 'enchant weapon'   1 107  -1   9  19          0
+Affc 'enchant weapon'   0 107  -1   9  18          0
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16777224
+Cond 58
+Wear -1
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 16456
+Enchanted
+Nest 0
+Name steel dagger~
+ShD  a steel dagger~
+Desc Here lies a simple steel dagger.~
+ExtF 25198592
+Cond 50
+Wear -1
+Lev  82
+Cost 7400
+Val  2 9 16 1 73
+Affc 'enchant weapon'   1 100  -1  30  18          0
+Affc 'enchant weapon'   1 100  -1  30  19          0
+End
+
+#O
+Vnum 16456
+Enchanted
+Nest 0
+Name steel dagger~
+ShD  a steel dagger~
+Desc Here lies a simple steel dagger.~
+ExtF 25198592
+Cond 47
+Wear -1
+Lev  82
+Cost 7400
+Val  2 9 16 1 73
+Affc 'enchant weapon'   1 100  -1  30  18          0
+Affc 'enchant weapon'   1 100  -1  30  19          0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  71
+Cost 175
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#END

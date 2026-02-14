@@ -1,0 +1,652 @@
+#HELPS
+0 QUEST QUESTS~
+Certain characters in the game will allow you to go on quests to recover an
+item or kill another mob. To go on a quest, you must be in the same room with
+a questmaster. When you successfully complete a quest, you will receive a
+certain number of quest points. These points may be saved up and used to buy
+incredible items from the questmaster.
+ 
+The QUEST command is used for information about your current quest, to request
+a quest from a questmaster, etc. Commands are as follows:
+
+QUEST POINTS - Gives your current number of quest points. This command may be
+used anywhere.
+ 
+QUEST INFO - If you are on a quest, this will remind you who or what you are
+after.
+ 
+QUEST TIME - Gives the amount of time remaining on your current quest, or the
+amount of time until you can request another quest. This command may be used
+anywhere.
+ 
+QUEST REQUEST - Petitions the questmaster to send you on a quest. If you
+accept the quest, you will be given a realtime limit (in minutes) in which you
+must complete the quest. If you are on a quest to kill a creature, when you
+come across that creature you will see a [TARGET] notice before it. This is
+the creature you are to kill.
+
+QUEST COMPLETE - Once you have completed your quest and recovered the item or
+killed the mob or whatever, you must return to the questmaster who sent you on
+the quest and use this command. If you have successfully completed your quest,
+he will reward you with gold and quest points. Once you complete a quest you
+cannot request another for 10 minutes.
+ 
+QUEST LIST - Displays the list of fabulous items for sale by the questmaster.
+These items are not buyable via gold, they must be purchased with quest points.
+ 
+QUEST BUY <item> - Purchases an item from the questmaster and deducts the cost
+of the item from your quest points.
+~
+
+-1 LAG~
+Twas dial-up, and the failing mudders did toil and struggle in the fray
+All checksummed were the compressed files
+And the man pages, outdate
+Beware the Internet my son,
+The noise that hangs, the lag that kills
+Beware the Usenet news, and shun the frivolous mud with frills
+So took his his mudding client in hand
+Longtime the virtual foe he sought
+So rested he by the T1s three and paused a while in swap
+And as in disk-drive swap he stayed,
+The Internet, with lags of fame
+Came packetwise through the T1 line
+And error-checked as it came
+One two one two and through and through, the mudding client went kill -9
+He left it dead and with it's core he went a tracing back
+And hath thou slain the Internet?
+Come to my arms my disk-based bot!
+Oh lag-free day, callooh callay, he chortled in his joy
+Twas dial-up, and the failing mudders did toil and struggle in the fray
+All checksummed were the compressed files
+And the man pages, outdate.
+~
+
+-1 WIZLIST~
+{x                     The Immortals of The Legends of Krynn!
+                     ======================================
+
+{xImplementors [110]:  Hiddukel - God of Betrayal and False Deal-Making
+{x                     Takhisis - The Queen of Darkness
+
+{x    Creators [109]:  Chislev - The Beast
+
+{x Supremacies [108]:  Habbakuk - The Fisher King
+
+{x     Dieties [107]:  Sargonnas - Dark Vengeance
+{x                     Zivilyn - The Tree of Life
+{x                     Nuitari - The Black Moon
+{x                     Chemosh - The Lord of Death
+
+{x        Gods [106]:  Solinari - The Mighty Hand of White Magic
+
+{x   Immortals [105]:  Sirrion - The Eternal Flame
+                     
+{x   Demi-Gods [104]:  Kiri-Jolith - The Sword of Justice
+{x                     Lunitari - The Red Moon
+{x                     Zeboim - Temptress of the Oceans
+
+{x      Angels [103]:
+  
+     Avatars [102]:
+
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen and Adam Debus for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+1 IMMORTALS IMMORT IMMORTAL GOD GODS~
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+ 
+For a detailed description of each god type help and their name
+Here's a list of all the Gods in Dragonlance:
+ 
+Paladine    Kiri-Jolith    Branchala    Mishakal    Habbakuk
+Majere     Solinari       Gilean       Reorx       Zivilyn
+Lunitari    Chislev       Shinare         Sirrion       Takhisis
+Hiddukel     Chemosh       Sargonnas      Nuitari      Morgion
+Zeboim
+~
+
+-1 SOCIALS~
+This is a complete list of socials for this MUD:
+
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	laces
+tank	     starve	 aargh	      homework	    puff	differ
+yae	     lightbulb   voodoo       ogg	    confused	beam
+bite	     discodance  scuff        whap	    lag		chortle
+zerbert      twitch
+ 
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+{x      of Mud, Ruhr Mud, Mystic Realms and the Turning Point Mud for bug
+{x      reports, ideas, new code and hours of enjoyment.
+
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+
+-1 GREETING~
+{x                                   ]=I==II==I=[
+                                    \\__||__//                 ]=I==II==I=[
+               ]=I==II==I=[          |.. ` *|                   \\__||__//
+                \\__||__//           |. /\ #|                    |-_ []#|
+                 | []   |            |  ## *|      WELCOME       |      |
+                 |    ..|            | . , #|                  ]=I==II==I=[
+ ___   ____  ___ |   .. |         __ |..__.*| __                \\__||__//
+ ] I---I  I--I [ |..    |        |  ||_|  |_|| |     TO          |    _*|
+ ]_____________[ | .. []|         \--\-|-|--/-//                 |   _ #|
+  \_\| |_| |/_/  |_   _ | _   _   _|      ' *|                   |`    *|
+   |  .     |'-'-` '-` '-` '-` '-` | []     #|-|--|-_-_-_-_ _ _ _|_'   #|
+   |     '  |=-=-=-=-=-=-=-=-=-=-=-|      []*|-----________` ` `   ]   *|
+   |  ` ` []|      _-_-_-_-_  '    |-       #|      ,    ' ```````['  _#|
+   | '  `  '|   [] | | | | |  []`  |  []    *|   `          . `   |'  I*|
+   |      - |    ` | | | | | `     | ;  '   #|     .  |        '  |    #|
+  /_'_-_-___-\__,__|_|_|_|_|_______|   `  , *|    _______+___,__,-/._.._.\
+              _,--'    __,-'      /,_,_v_Y_,_v\\-'   -
+ 
+                              The LEGENDS of KRYNN!
+{x                          http://www.legendsofkrynn.net
+
+                       Created in June 2001 by: Hiddukel
+{x                     Admin Email: admin@legendsofkrynn.net
+
+                  Original DikuMUD by Hans Staerfeldt Katja Nyboe,
+                 Tom Madsen Michael Seifert, and Sebastian Hammer
+                  (based on Merc 2.1  by Hatchet, Furey and Khan)
+                (based on Rom2.4 copyright 1993 - 1994 Russ Taylor)
+            Current source code written in Lok1.1 - by Craig Walters
+
+{x             Brought to you by: The Friendly Immortal Team of LoK
+
+State thy Name Adventurer: ~
+
+1 MOTD~
+{R* You are responsible for knowing the rules (type 'rules').  Ignorance of
+{x  {Rthe rules is no excuse. Make certain you read and understand ALL
+{x  {Rof the following help files: ROLEPLAY, DESC, MULTI, CLAN, PK and
+{x  {RPLAYERKILLING ETHICS.{x
+
+{x* Important commands: HELP, COMMANDS, NOTES, IDEAS, CHANGES, RULES
+
+* Use the delete command to erase unwanted characters
+
+* Your character must reach level two to save, or read notes.
+
+* You MUST have a description for your character by level 10! Failure
+to do so will result in imprisonment until one is written! Descs
+are required to have a MINIMUM of 4 full lines after formatting.
+
+* Roleplaying is not only encouraged here, but without it you will be denied,
+{x  and then banned if no improvement is found.
+
+* Make sure you Read and Understand HELP TENETS and HELP MISSION
+ 
+* English is the only language allowed to be used here for Communicating
+  In Character. NO EXCEPTIONS!
+~
+
+102 IMOTD~
+{BWelcome Immortal!{x
+
+{GYou are responsible for following the laws of immortal behavior. These can
+be found by typing 'help laws' or 'help commandments'.
+
+{Y* {GExcessive loading is not allowed, and is grounds for deletion.
+
+{Y* {GAsking for promotion is grounds for instant deletion.
+
+{Y* {GType 'help jobs' to get some idea of what you should be doing.{x
+
+ [Hit Return to continue]
+~
+
+102 JOBS~
+Here is a list of responsibilities you MUST adhere to, as per your respective
+job.  This list is *NOT* limited to just these either, more can be assigned
+without notice.  
+ 
+ROLEPLAY IMMORTALS:
+ 
+Your job is very important to the growth and development of our playerbase.
+Your responsibilities are great and must not be taken for granted. You are
+obligated to not only Roleplay your Immortal character, but also to Roleplay
+any mortal characters you have as well. However, first and foremost on your
+priority list, you must ALWAYS be ready and available to aid and assist
+NEWBIE players. Do *NOT* wait for them to get killed multiple times before you
+ask them if they need any kind of assistance either. Watching your WIZNET logs
+for patterns will not cut it. If you see an IP that appears to be new, or a
+character name that is not familiar to you, take the initiative to go ASK them,
+whether it be in person, or through a TELL, if they are new here, and/or if
+they need any help. Not doing this usually results in new players getting
+frustrated, deleting and never coming back because they couldn't figure out how
+to play. You must remember, some players are not only NEW to playing here at
+The Legends of Krynn, but some might also be completely new to playing MUDs
+altogether, and hence, they don't even know what commands to use in order to
+even ASK for help. This is why you, as a Roleplay Immortal, must take the
+initiative to ask them yourself. If they complain about you asking them if they
+need help, ignore the complaints. Leave them be and just go about your
+business elsewhere.
+ 
+Now, the second on your priority list of responsibilities, is Roleplaying with
+mortals yourself. This means interacting with both, your Immortal *AND* your
+mortal characters. Your interaction should be with the players who are NOT
+Immortals themselves. If there's nobody on the MUD, except you and another
+Roleplay Immortal, roleplaying amongst yourselves is just fine. However, if
+there's a healthy amount of players logged on, you should not be sitting
+around, roleplaying your characters with another Immortal's characters.
+ 
+Lastly amongst your responsibilities, would be to help players out with things
+like RESTINGS, your own personal Immortal QUESTS, etc.. If you can not assist a
+player with something, due to your limitations of Immortal Commands, seek
+someone higher to help you. They are obligated to assist you in any way. 
+ 
+ 
+BUILDER IMMORTALS:
+ 
+Your main priority is quite obvious. You are to continuously help build
+professional areas for the game, and to maintain and tweak areas we already
+have. Your role is not a very BIG one on the Player Port, in terms of
+player-to-player interaction. You still must carry out your Immortal
+Characters' Roleplay; however, it should never take priority over building. If
+you should need to take a break from building, by all means, do so. Log on
+your mortal characters and play, or assist the Roleplay Immortals with their
+jobs and help them help our Newbies, or help them with a Quest they may be
+running or whatever they need help with.
+ 
+However, one thing that will not be tolerated of Builders, is if more time is
+devoted to playing on the Player Port with your Mortal Characters, than time
+spent on either port, building/editing areas. Gilean is the Head Builder, so
+any questions regarding what is required of you, can be directed to him.
+ 
+** Again, this is just a basic list. It is *NOT* limited to just what is in
+here. Your responsibilities can always increase or decrease at a moments
+notice. If you feel you cannot handle your given responsibilities, you may step
+down at any time and resign. You will be held accountable for all actions you
+take, so if you mess up, expect to be reprimanded for those actions. There will
+be little tolerance given, as we do not have the time, or the room for massive
+errors. We must work together as a team, or the system will break down. If you
+are having problems achieving your responsibilities, ask for help, and you
+shall receive. If you don't, and you mess up because you didn't want to work
+together as a team, and instead wanted to try taking it on by yourself, you
+will be held accountable by yourself.
+ 
+Any questions regarding ANY of this, may be directed to Hiddukel.
+~
+
+1 'PK' 'PKILL' 'PKILLING' 'PKILLER' 'PLAYER KILLING' 'PSTEAL' 'PLAYER STEALING'~
+The Legends of Krynn allows playerkilling as long as it is closely linked
+with roleplaying a situation.  ANY playerkilling that is just for fun, or
+has no roleplaying merit will be dealt with by denying the offender.  Simply
+put, only kill when your character would kill.  As you can see from the rest
+of this help file, we do not allow mass murderers, or even murders who do
+not put thought and reasoning behind their killing.  There are no exceptions
+to this rule.  Just because a character can kill someone, doesn't mean that
+they should kill someone.  Good judgement is needed on each and every
+players part.  You should take an introspective look at your character's
+motives, reasoning, and former actions.  Never kill for the sake of killing.
+Since we do not allow mass murderers on LoK, any time you kill someone you
+should have reasoning behind it.  For mobs your reasoning can be much more
+loose, but if you decide to kill an adventurer of the land (a character to
+be PKed) you need to be sure of your motivations and why you are killing
+them.  Speaking of motivations, killing someone just because they follow a
+particular alignment or God, is not a good reason.  Now, if you have spoken
+at length with that follower, on several occasions even, then obviously they
+will never come around to your way of thinking.  Then killing them may be a
+good idea.  In real life when you kill someone they would be dead and we
+would not have the next problem to face; what to do after you have killed
+them.  For a character who has just killed another character you should
+basically forget about them, you have ended their life and things are
+through.  If they retaliate then you can view them as being resurrected and
+acknowledge them like normal.  If they do not speak with you or seek you
+out, then you should not even acknowledge their existance for a while.  A
+couple of real life days or so.  Then if you wish to start roleplaying with
+them again, start.  Don't bring up their previous death though, just start
+fresh with them.  If they seek you out, then that is the clue that you
+should roleplay their resurrection and continue on with them.  With this in
+mind, you notice you are not allowed to continously kill someone unless they
+come after you after you killed them.  Do not multi-kill a person, as it is
+no fun for them.  The roleplaying getting to the point that they need to be
+killed is fun.  Also, every single one of the characters you kill, you need
+to be able to give a detailed reason for killing them.  You should be able
+to point back to the first thing that set them apart in your mind, the first
+thing they said that made you think they weren't right in your mind, the
+first time wishing they would die crossed your mind, the first time you
+thought you should kill them someday.  If you cannot support a PK with that
+amount of reasons, then you should not PK a character.  Remember, PKing is a
+natural extension to the actions that your character can take.  That is the
+reason we have made it available to you.  Not so you can have fun PKing
+people.  Find a different mud if that is where you want to have your fun. 
+
+See also: 'HELP ROLEPLAYING' and 'HELP PLAYERKILLING ETHICS'
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES'~
+.
+                         **********************
+                         ** The Rules of LoK **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+ 
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+7)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+8)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+9)  Do not try to overrule each other.  
+ 
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+11) Your IMM is your main character.  
+    Log on your imm, check your notes, and the
+{x    status of the mud BEFORE logging on a mort.
+
+12) Your IMM should have no interaction with your morts
+{x    and vice versa..including worship, restrings, corpse
+{x    retrivals, etc.  Get other imms to do this for you at
+{x    whatever the normal going rate is.
+
+13) Your held to a higher standard than any of the morts 
+{x    could possibly be held.  Remember this and be as hard
+{x    on yourself as you would be on anyone else in the game.
+
+14) Actively rally your religion.  This means recruit followers,
+{x    interact in their lives, answer their prayers, curse them, 
+{x    oust them, order them... whatever you deem necesary.
+
+15) Actively contribute to the advancement of the mud. If your 
+{x    not a coder, this means one of two things.  First, BUILD!
+{x    Secondly, contribute to the web page, or write help files..
+{x    Whatever you can do to help flesh out the mud and make it 
+{x    One of the most outstanding online dragonlance experiences 
+{x    ever.
+
+16) Do not reveal your morts to your friends, or the fact that you
+{x    have an imm.  We are proud to have you as part of the team,
+{x    but believe us its easier if you treat it as a secret. 
+
+17) Restring. Restring. Restring.  However, do not add nor remove
+{x    stock flags from the items (aka humming, glowing, INVIS!!)
+ 
+18) Do *NOT* give out information about players to other players. This
+{x    includes, but is not limited to, giving information about a player
+{x    to another players, like telling Player A, that Player B is level 41
+{x    and is a <Class>. Players in this game are NOT privledged to such
+{x    information about any other player in the game. Information about
+{x    someone should ONLY be given out to another person, BY that player
+{x    themselves, nobody else. By giving out information about a player(s)
+{x    to another player(s), you are in direct violation of these rules and
+{x    will be delt with severe punishment resulting in, but not limited to,
+{x    A demotion, Loss of your Immortal, Loss of your Mortals.
+~
+
+-1 RULES~
+These are the RULES for Legends of Krynn. All other matters use common sense.
+
+{R* {WThis mud is a Role-Play enviroment and Role-Play will be enforced.{x
+
+{R* {GLimited player stealing or player killing.{x
+
+{R* {YYour presence here is a {Rprivilege not a right{Y. Obey any orders from gods,{x
+{Y  you will be fine.  Deletion does not require a reason, appeals are to be sent{x
+{Y  to the implementors.{x
+
+* No advertisements of any other MUD's. If you advertise, you will
+{x  be denied access, possibly even site banned! 
+ 
+{R* {MSitting around idle with a client is hazardous to your health. If we catch{x  
+{M  you doing it, you will lose half your playing time.{x
+
+{R* {BNo multiple logins, multiple playing, or helping your own characters with{x 
+{B  other characters you own -- by any arrangment.{x
+ 
+{R* {CNo kill stealing.  This means you cannot attack a mob someone else is{x 
+{C  fighting, unless they ask you to. Also avoid attacking fleeing mobs.{x
+
+* Cheating will not be tolerated.  This includes accepting favors from gods
+  and exploiting bugs. If you find a bug, report it, then do not use it.
+  This also includes asking Immortals for favors, such as summons, transfers,
+  heals, restores and anything else you (or we) can think of.
+
+* Do NOT reveal your Alts to other players. As well, if you know someone's
+{x  alts, do NOT be spreading that information about to other players either.
+
+* Do not ask Immortals for stats on weapons, armor, or any object at all,
+  unless it has something to do with a possible bug or error.
+
+* Do not ask any Immortal where anything is either, ie - where to get
+  items, or where to kill to level.
+
+* Foul and/or abusive language will not be tolerated.
+
+* No killing OR subduing (attacking in any way) of link dead players.
+
+* Changes to these rules are at the discretion of the immortals, and may be
+  done without warning, notice, or even evidence of sanity. Walk softly,
+  and carry a black stick.  
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.
+~
+
+0 HEALER~
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 10 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~
+
+1 GAIN~
+The GAIN command can be used to do the following:
+
+gain convert: turns 10 practices into one training session
+gain revert:  turns 1 training session into 10 practices
+ 
+To use this command, you must be in a room with a Guildmaster, preferably
+your own.
+~
+
+0 SKILLS SPELLS~
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+ 
+Note: Spell lists will only display spells up to 20 levels above
+your level. Only skill lists will display every skill for your class.
+~
+
+0 OUTFIT~
+The outfit command, usable by levels 5 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT~
+ROM uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac	  : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassist : makes you help group members in combat
+autoyield  : SEE 'HELP AUTOYIELD' for Info on this Autocommand
+automercy  : SEE 'HELP AUTOMERCY' for Info on this Autocommand
+
+Typing a command sets the action , typing it again removes it. 
+~
+
+-1 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+
+-1 GATE~
+The gate spell is a powerful transportation magic that opens up a portal 
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at 
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also 
+immune to gate, as well as in player who has no summon set.  Clan members 
+may not be gated to except by their fellow Clan members.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+-1 $~
+
+#$

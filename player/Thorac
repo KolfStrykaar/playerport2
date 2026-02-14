@@ -1,0 +1,1435 @@
+#PLAYER
+Name Thorac~
+Surname Doubleaxe~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1149972283
+LogO 1421221456
+Vers 10
+Act  CDGTe
+Desc Before you stands a stocky dwarf. He wears a beautiful {Wmithril{  chain
+on his torso, a {rred{  crimson cloak, with a black trimmed forging
+{Dhammer{ , around his body and his legs are protected very light plate
+greaves with some etched runes. Under his cape with a great symbol of an
+open {Cbook{ , you can see a dwarven made battleaxe and a
+{Wadamantite{  shield. He has a long dark {ybrown{  beard and a very
+{Rred{  nose, his small {Ceyes{  are pale blue, showing fierceness. He is
+always alert at everything that moves.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {y%X {x%e{r>{x %B ~
+Race daewar~
+Org 9
+Devotee 18
+Sex  1
+Cla  6
+Hmtown 4
+Levl 83
+recall_point 10664
+Levscale 30
+Xptolev  332163
+Sec  0
+Plyd 488360
+Not  1421221454 1412588342 0 1412588343 1412588339
+Scro 58
+Room 4860
+HMV  1909 1909 338 338 619 619
+Steel 9865
+Gold 321755
+Bank 42000
+Exp  4891387
+AfBy DFJ
+Deaths 7
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 983040
+Comm NO
+Pos  8
+Prac 30
+Trai 47
+Reward_timer 95
+Save  -41
+Alig  1000
+Ethos 0
+Hit   13
+Dam   9
+ACs -331 -332 -327 -296
+Wimp  368
+Attr 15 8 18 15 25 10
+AMod 1 8 12 0 10 0
+Pass ThFCyBvrymqPs~
+Titl  the Initiate of the Fracas~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 135
+HMVP 1894 288 619
+Cnd  0 15 61 0
+QuestPnts 324
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias -say emote mumbles with a slight dwarven accent, {y~
+Sk 70 'calm'
+Sk 3 'frenzy'
+Sk 70 'identify'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 38 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 11 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 1 'fourth attack'
+Sk 100 'break weapon'
+Sk 50 'counter'
+Sk 100 'critical strike'
+Sk 82 'whirlwind'
+Sk 100 'butcher'
+Sk 100 'ravage bite'
+Sk 8 'dual wield'
+Sk 23 'mount'
+Sk 70 'sympathy'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 100 'fast healing'
+Sk 14 'haggle'
+Sk 100 'common'
+Sk 70 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 70 'kender tongue'
+Sk 70 'minotaur tongue'
+Sk 70 'ogre tongue'
+Sk 100 'lore'
+Sk 70 'scrolls'
+Sk 50 'recall'
+Sk 70 'truefire'
+Sk 1 'bind wounds'
+Sk 57 'breakneck'
+Sk 100 'guard'
+Sk 100 'headbutt'
+Sk 95 'shield rush'
+Sk 1 'mounted combat'
+Sk 100 'cleave'
+Sk 100 'sidestep'
+Sk 100 'entwine'
+Sk 100 'smith'
+Sk 100 'masterwork'
+Sk 100 'staff'
+Sk 1 'eyerub'
+Sk 100 'finger break'
+Sk 1 'execute'
+Sk 100 'earpunch'
+Sk 1 'brainjar'
+Sk 11 'rupture organ'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 1266
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1122
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 99
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3810
+Nest 0
+Cond 97
+Wear 4
+Cost 400
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 99
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 98
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 97
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 88
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3048
+Nest 0
+ShD  ({rRed Trimmed{x) an {BAesthetic's{x robe~
+ExtF 262144
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+ExtF 262144
+Cond 91
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 17419
+Nest 0
+Cond 97
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  100
+Cost 1000
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  82
+Cost 820
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 94
+Mat  wool~
+Wear 13
+Lev  82
+Cost 820
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 97
+Mat  homespun~
+Wear 12
+Lev  82
+Cost 820
+Val  18 18 18 14 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  82
+Cost 820
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  82
+Cost 820
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1  89  -1  -4  25          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 3810
+Nest 1
+Cond 94
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 12014
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill giant strength~
+ShD  a pill of giant strength~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 55 0 0 0
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill haste~
+ShD  a pill of haste~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 58 0 0 0
+Spell 1 'haste'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm~
+ShD  a scroll of convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 -1 -1 0
+Spell 1 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm~
+ShD  a scroll of convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 -1 -1 0
+Spell 1 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm~
+ShD  a scroll of convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 -1 -1 0
+Spell 1 'convoke swarm'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll mind shatter scroll firestorm~
+ShD  a scroll of mind shatter, firestorm~
+Cond 100
+Wear -1
+Lev  62
+Cost 100
+Val  31 61 165 -1 0
+Spell 1 'mind shatter'
+Spell 2 'firestorm'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1970
+Nest 1
+Cond 100
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 2602
+Nest 1
+ExtF 1034
+Cond 98
+Wear -1
+Cost 1000
+Val  1 8 20 3 65792
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 95
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 17505
+Nest 1
+Cond 99
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 17505
+Nest 1
+Cond 98
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 2602
+Nest 1
+ExtF 1034
+Cond 100
+Wear -1
+Cost 1000
+Val  1 8 20 3 65792
+End
+
+#O
+Vnum 3158
+Nest 1
+ExtF 1034
+Cond 100
+Wear -1
+Cost 500
+Val  1 11 16 3 65544
+End
+
+#O
+Vnum 5700
+Nest 1
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 97
+Mat  leather~
+Wear -1
+Lev  101
+Cost 1010
+Val  7 10 16 4 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 99
+Mat  leather~
+Wear -1
+Lev  101
+Cost 1010
+Val  7 10 16 4 0
+End
+
+#O
+Vnum 1952
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1951
+Nest 1
+Cond 100
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1854
+Nest 1
+Cond 100
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 66
+Wear -1
+Cost 0
+Val  8 10 12 21 73
+End
+
+#O
+Vnum 16100
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Val  200 136 0 0 0
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 60 0 0 0
+End
+
+#O
+Vnum 3008
+Nest 0
+ShD  a small {DBlack{x wrist band~
+Desc A small piece of {DBlack{x metal sits here~
+ExtF 64
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+ShD  a small {DBlack{x wrist band~
+Desc A small piece of {DBlack{x metal sits here~
+ExtF 64
+Cond 100
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 5700
+Nest 0
+Name hand axe~
+ShD  a hand axe~
+Desc a small hand axe sits here.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 91
+Mat  steel~
+Wear 24
+Lev  81
+Cost 810
+Val  5 8 14 25 24
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 5700
+Nest 0
+Name broad axe~
+ShD  a broad-axe~
+Desc An axe with a broad head lies on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   4
+Cond 93
+Mat  steel~
+Wear 20
+Lev  101
+Cost 1010
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5  86  -1   0   0     131072
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 93
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 88
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 88
+Wear -1
+Cost 930
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1818
+Nest 0
+Cond 100
+Wear -1
+Time 11
+Cost 0
+Affc 'truefire'   0  82  -1   8  19          0
+Affc 'truefire'   0  82  -1   8  18          0
+End
+
+#END

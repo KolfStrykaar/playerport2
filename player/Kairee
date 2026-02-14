@@ -1,0 +1,1321 @@
+#PLAYER
+Name Kairee~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1405255734
+LogO 1407962254
+Vers 10
+Act  DGHQTe
+Desc Standing before you is a male Silvanesti elf. He has long red {Rhair{x.
+And tantalizingly green {Geyes{x. He is dressed as if he were a priest.
+His mace slung iver his back, And his bible in hand He apoears to be your
+average cleric.
+~
+Prom <%hhp %mm %vmv> ~
+Race silvanesti~
+Devotee 7
+Sex  1
+Cla  1
+Hmtown 0
+Levl 56
+recall_point 3001
+Levscale 30
+Xptolev  2343
+Sec  0
+Plyd 739940
+Not  1405655846 0 0 0 0
+Scro 22
+Room 4860
+HMV  1147 1147 914 914 434 434
+Steel 19928
+Gold 186150
+Bank 0
+Exp  946957
+AfBy J
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2031616
+Comm NO
+Pos  8
+Prac 6
+Save  -5
+Alig  -715
+Ethos 0
+Hit   25
+Dam   26
+ACs -3 -7 -20 27
+Attr 24 31 21 13 23 16
+AMod 4 2 14 7 11 0
+Pass Ka.0S3kLVpFO.~
+Titl  the Cardinal of the Sea~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 198
+HMVP 877 759 434
+Cnd  0 31 31 0
+QuestPnts 1351
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt <<<{BCleric {Wof {CShinare{x>>> {W~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 1 'blindness'
+Sk 82 'calm'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 99 'create food'
+Sk 95 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 100 'demonfire'
+Sk 94 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 100 'flamestrike'
+Sk 1 'orb of containment'
+Sk 100 'harm'
+Sk 100 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 1 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 100 'protection evil'
+Sk 1 'ray of truth'
+Sk 100 'refresh'
+Sk 1 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 75 'flail'
+Sk 100 'mace'
+Sk 2 'dodge'
+Sk 51 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 75 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 4 'mount'
+Sk 1 'remove paralysis'
+Sk 3 'undetectable align'
+Sk 94 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 3 'pillify'
+Sk 25 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 75 'brew'
+Sk 70 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 100 'sate'
+Sk 9 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'aid'   0  63  14   6  18          0
+End
+
+#O
+Vnum 1244
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3368
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3368
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9830
+Nest 0
+Name mace lightning ancient~
+ShD  ({BAncient{X) A {BMace{X of {WLightning{X~
+Desc A hammer rests here, humming and crackling.~
+Cond 64
+Wear 20
+Cost 12000
+End
+
+#O
+Vnum 15212
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 16306
+Nest 0
+Name book~
+ShD  ({GShimmering{x) ({MLegendary{x) The book of {BBusiness{x and {GProsperity{x~
+Desc A very large ancient looking book is lying here.~
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 17529
+Nest 0
+Name ring white gold shinare priest~
+ShD  ({WHoly{X) ({BAncient{X) {BRing{X of the {CPriest{X~
+Desc A ring of white gold with the insignia of Shinare lies here.~
+ExtF 65
+Cond 100
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+Name ring wealth golden blessed~
+ShD  ({CBlessed{X) ({YGolden{X) {YRing{X of {GWealth{X~
+Desc A fine golden ring lies here shining brightly.~
+ExtF 65
+Cond 100
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 17713
+Nest 0
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 1209
+Nest 0
+ShD  A {BMake Over{x coupon covered in {Rred dust{x~
+Desc This coupon is good for 8 restrings - Lunitari~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 19003
+Nest 0
+Name symbol shinare holy silver~
+ShD  ({CBlessed{X) ({WSilver{X) The {WSymbol{X of {CShinare{X~
+Desc A holy symbol of Shinare has been left here.~
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Name pendant wealth golden~
+ShD  ({YGolden{X) ({GShimmering{X) The {YPendant{X of {GWealth{X~
+Desc A golden pendant shimmers on the ground.~
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16308
+Nest 0
+Name lantern silver ornate antique~
+ShD  ({WSilver{X) ({BAntique{X) an ornate {Wlantern{X~
+Desc An ornate silver lantern with a flickering candle inside rests here.~
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16194
+Nest 0
+Name belt coin pouch silk~
+ShD  ({CSilk{X) a belt and {Ycoin{X pouch~
+Desc A silk belt and coin pouch lies here.~
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Name charm shinare crystalline holy~
+ShD  ({WHoly{X) ({CCrystalline{X) A {CCrystal{X charm of {WShinare{X~
+Desc A crystalline charm lies here.~
+Cond 97
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Name charm wealth blessed aura~
+ShD  ({WBlessed{X) ({GAura{X) A {YCharm{X of {GWealth{X~
+Desc A golden charm lies here.~
+Cond 94
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 12 0 0 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 91
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 96
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3775
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3773
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3001
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 720
+Enchanted
+Nest 1
+ExtF 262720
+Cond 100
+Wear -1
+Lev  13
+Cost 100
+Affc 'enchant armor'   1 100  -1  -3  17          0
+End
+
+#O
+Vnum 720
+Enchanted
+Nest 1
+ExtF 262721
+Cond 100
+Wear -1
+Lev  14
+Cost 100
+Affc 'enchant armor'   1 100  -1  -7  17          0
+End
+
+#O
+Vnum 16310
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 706
+Enchanted
+Nest 1
+ExtF 579
+Cond 96
+Wear -1
+Lev  23
+Cost 120
+Val  4 4 4 7 66
+Affc 'enchant weapon'   1 100  -1   8  19          0
+Affc 'enchant weapon'   0 100  -1   8  18          0
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 10978
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16176
+Enchanted
+Nest 1
+ExtF 67
+Cond 100
+Wear -1
+Lev  42
+Cost 1500
+Val  4 5 7 8 1090
+Affc 'enchant weapon'   1 100  -1   6  19          0
+Affc 'enchant weapon'   0 100  -1   6  18          0
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll heal~
+ShD  a scroll of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 0
+Val  9 -1 59 0 0
+Spell 2 'heal'
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 3369
+Enchanted
+Nest 1
+ExtF 16778563
+Cond 95
+Wear -1
+Lev  45
+Cost 16000
+Affc 'enchant weapon'   0 100  -1   6  18          0
+Affc 'enchant weapon'   1 100  -1   6  19          0
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 15211
+Nest 0
+ShD  ({WHoly{x) ({CSilk{x) {BRobes{x of the {WPriest{x~
+Desc A fine silk set of robes lies here eminating energy.~
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#END

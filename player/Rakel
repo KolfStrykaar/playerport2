@@ -1,0 +1,1161 @@
+#PLAYER
+Name Rakel~
+Surname Taika~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1377867810
+LogO 1422396064
+Vers 10
+Act  DGHQTe
+Desc Standing six feet tall is a beast of large size with long black hair tied
+in a briad down to the small of his back. He wears leather armor and
+simple weapons.
+~
+Prom <%hhp%Hp %mm %vmv %Xnl>%c<%gStl %sGld>%c<%b %B>%c~
+Race ogre~
+Sex  1
+Cla  6
+Hmtown 0
+Levl 48
+recall_point 3001
+Levscale 30
+Xptolev  12129
+Sec  0
+Plyd 263079
+Not  1420525511 1420525521 0 1420525517 1378093039
+Scro 98
+Room 4682
+HMV  1286 1286 308 308 392 392
+Steel 543
+Gold 3669
+Bank 0
+Exp  412871
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2949120
+Comm NO
+Pos  8
+Prac 19
+Alig  -257
+Ethos 0
+ACs 28 26 12 63
+Wimp  42
+Attr 19 10 25 22 25 10
+AMod 2 2 5 2 7 0
+Pass Ra05HHxDmiuOU~
+Titl  the Uproarious~
+Pretit ~
+Pnts 6
+TSex 1
+LLev 64
+HMVP 1136 208 392
+Cnd  0 45 45 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; {RMight Barb Rakel{r~
+Sk 21 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 47 'flail'
+Sk 92 'mace'
+Sk 85 'polearm'
+Sk 19 'shield block'
+Sk 90 'spear'
+Sk 100 'sword'
+Sk 93 'whip'
+Sk 100 'bash'
+Sk 20 'berserk'
+Sk 33 'dirt kicking'
+Sk 7 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 95 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 6 'trip'
+Sk 100 'second attack'
+Sk 14 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 72 'critical strike'
+Sk 26 'whirlwind'
+Sk 23 'butcher'
+Sk 1 'ravage bite'
+Sk 9 'dual wield'
+Sk 93 'mount'
+Sk 95 'nerve pinch'
+Sk 95 'caltrops'
+Sk 1 'battle tactics'
+Sk 18 'wear chain'
+Sk 100 'wear leather'
+Sk 15 'fast healing'
+Sk 17 'haggle'
+Sk 100 'common'
+Sk 100 'ogre tongue'
+Sk 56 'lore'
+Sk 50 'recall'
+Sk 18 'bind wounds'
+Sk 18 'breakneck'
+Sk 75 'guard'
+Sk 67 'headbutt'
+Sk 1 'shield rush'
+Sk 12 'mounted combat'
+Sk 100 'cleave'
+Sk 77 'sidestep'
+Sk 1 'entwine'
+Sk 1 'staff'
+Sk 26 'eyerub'
+Sk 1 'finger break'
+Sk 1 'execute'
+Sk 1 'earpunch'
+Sk 1 'brainjar'
+Sk 1 'rupture organ'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3770
+Nest 0
+Cond 100
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 94
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 94
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 88
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 188 0 0 0
+End
+
+#O
+Vnum 5779
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 378
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll attunement~
+ShD  a scroll of attunement~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  26 -1 297 0 0
+Spell 2 'attunement'
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 3117
+Nest 0
+Cond 100
+Wear -1
+Cost 510
+End
+
+#O
+Vnum 9583
+Enchanted
+Nest 0
+ExtF 264785
+Cond 100
+Wear -1
+Lev  42
+Cost 400
+Val  8 5 8 34 70
+Affc 'enchant weapon'   0 106  -1   3  18          0
+Affc 'enchant weapon'   1 106  -1   3  19          0
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 90
+Wear -1
+Cost 390
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17733
+Nest 0
+Cond 100
+Wear 5
+Cost 600
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17732
+Enchanted
+Nest 0
+ExtF 66
+Cond 98
+Wear -1
+Lev  66
+Cost 600
+Val  5 10 6 21 98
+Affc 'enchant weapon'   0  80  -1   6  18          0
+Affc 'enchant weapon'   1  80  -1   6  19          0
+End
+
+#O
+Vnum 17732
+Nest 0
+Cond 100
+Wear 20
+Cost 600
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 86
+Wear -1
+Cost 9000
+End
+
+#END

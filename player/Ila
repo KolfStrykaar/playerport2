@@ -1,0 +1,1226 @@
+#PLAYER
+Name Ila~
+Surname Ajime~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1379643167
+LogO 1422677625
+Vers 10
+Act  CDGLMQT
+Desc The single shouldered smoky blue dress hugs this womans upper body.  Her
+exposed arms show a piece of thin black leather tied to her upper right arm.
+Her left arm bears a full sleeve tattoo from her shoulder to hand with only
+the underbelly of her forearm showing colored ink.  A diamond engagement
+ring and wedding band sit on her left ring finger.  A slit runs up the right
+side of the dress, stopping just below her hip it shows simple black flats
+on her feet and a double weapon sheath buckled to her upper thigh.  
+ 
+Wavy light blond hair is loosely braided over her left shoulder with
+longer bangs swept to the right.  A pair of diamond earrings can be seen
+from time to time in her ears.  Light green eyes flecked with yellow, stand
+out against her darker eyelashes.  Pink lips hold a soft smile, looking
+darker against her naturally sun-kissed skin.
+~
+Prom {g+{c%h %v{g+ {Y%a {w%gs {y%sg{x %B%c~
+Race human~
+Sex  2
+Cla  2
+Hmtown 2
+Levl 101
+recall_point 9749
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 8896887
+Not  1420661095 1395959842 0 1405559829 1379696911
+Scro 33
+Room 10846
+HMV  2978 2978 1192 1192 910 910
+Steel 3793
+Gold 24142
+Bank 15370000
+Exp  17454200
+AfBy DFJO
+Deaths 12
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3211264
+Comm MNOd
+Pos  8
+Prac 6
+Trai 12
+Save  -678
+Alig  -303
+Ethos 1
+Hit   69
+Dam   58
+ACs -484 -509 -488 -430
+Wimp  500
+Attr 26 27 28 30 28 19
+AMod 14 6 7 18 12 5
+Pass Ilw2wcjg99qc6~
+Titl  - Queen of {BUrione{x~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 1569
+HMVP 1888 332 760
+Cnd  0 49 16 0
+QuestPnts 13104
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'infravision'
+Sk 100 'dagger'
+Sk 80 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'demand'
+Sk 100 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'pickpocket'
+Sk 75 'mountjack'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 50 'recall'
+Sk 69 'disguise'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 74 'strip'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 100 'disarm traps'
+Sk 100 'staff'
+Sk 78 'eyerub'
+Sk 100 'instruct'
+Sk 75 'evade spell'
+Affc 'detect invis'   0 110  -1   0  26          8
+Affc 'detect hidden'   0 110  -1   0  26          0
+Affc 'detect hidden'   0 110  -1   0  26         32
+Affc 'infravision'   0  79  80   0   0        512
+End
+
+#O
+Vnum 19002
+Nest 0
+Name armband thin black~
+ShD  a thin {Dblack{x leather armband~
+Desc An armband made of black leather is on the ground.~
+ExtF 524288
+Cond 100
+Wear 13
+Cost 8000
+ExDe armband thin black~ Upon the leather of this armband is a symbol that represents mourning in some cultures. It seems to have been worn for quite some time.
+~
+End
+
+#O
+Vnum 721
+Enchanted
+Nest 0
+Name tattoo inconspicuous~
+ShD  an inconspicuous tattoo~
+Desc A tiny little tattoo is on the ground.~
+Cond 88
+Wear 14
+Cost 0
+ExDe tattoo inconspicuous~ A tattoo that is in the shape of a ribbon is on the ground. It is colored purple, teal, and pink with the words ThyCa on it in white. The roman numerals "VII" are in the middle.
+~
+End
+
+#O
+Vnum 16453
+Nest 0
+Name tattoo~
+ShD  an intricate {Dgypsy{X sleeve tattoo~
+Desc A sleeve tattoo in a very intricate design is on the ground.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 9471
+Nest 0
+Name diamond engagement ring~
+ShD  an enga{Cge{xment ring~
+Desc a beautiful crafted ring encrusted with seferal diamonds in the shape of a diamond rose was left here.{/ as you look closely it has an {Cengraving{x on it~
+Cond 100
+Wear 2
+Cost 0
+ExDe engraving~ Ila I will love you for all eternity{/With Love{/Shinzo
+~
+End
+
+#O
+Vnum 9471
+Nest 0
+Name wedding ring~
+ShD  a {YWedding{x Ring~
+Desc A golden wedding ring of elven design was left here.~
+Cond 98
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9868
+Enchanted
+Nest 0
+Name diamond earrings~
+ShD  a pair of {WDiamond{x Earrings~
+Desc A pair of some beautiful diamond earrings was left here.~
+ExtF 64
+Cond 94
+Wear 6
+Cost 90000
+Affc 'detect hidden'   0 110  -1   0  26         32
+Affc 'detect hidden'   0 110  -1   0  26          0
+Affc 'detect invis'   0 110  -1   0  26          8
+Affc 'reserved'   0  80  -1   0   0          8
+Affc 'reserved'   0  80  -1   0   0         32
+Affc 'reserved'   1  80  -1   2   4          0
+Affc 'reserved'   1  80  -1   2   5          0
+Affc 'reserved'   1  80  -1  -4  20          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pouch leather worn old~
+ShD  a well-worn leather pouch~
+Desc An old but cared-for pouch is laying here.~
+Cond 100
+Wear -1
+Cost 388
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1870
+Nest 1
+ShD  the knocked-out tooth of Hiddukel~
+Desc he knocked-out tooth of Hiddukel lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 1
+Name holocron solinari cube~
+ShD  the Holocron of {WSolinari{x~
+Desc A white cube with some intricate silver lines surrounding a {Ccrystal{x is here.{/This elegant design seems to repeat itself in all the cube's faces.~
+ExtF 17317963
+Cond 100
+Wear -1
+Cost 1500
+ExDe crystal~ As you examine the crystal, the cube starts to open, a moonstone starts to glow and project a magic light; From the light a male figure clad in white robes appears before you and starts to speak: 'Greetings, my name is Ptaaruonn Argentum, master of the white robes. Allow me to bestow you the greatest gift there is, the secret {Cwords{x to unleash the full power of your magic aura.'
+~
+ExDe words~ The white mage then continues to speak 'Lord Solinari himself spoke this words of power to his first follower "Radiance of light, bathe me in your rightous magic!". After hearing this words a brilliant white aura surrounded his entire body, leaving him holy and pure.'{/'But not all the things are easy for you must follow Solinari's {Cteachings{x.'
+~
+ExDe teachings~ The white mage closes his eyes and mutters a mantra:{/"There is no emotion, there is peace.{/There is no ignorance, there is knowledge.{/There is no passion, there is serenity.{/There is no chaos, there is harmony.{/There is no death, there is enlightenment."{/Ptaaruonn opens his eyes and resumes his teachings "Now that you have learned the basics let me teach you some words of {Cmagic{x, that can be quite helpful in a pinch."
+~
+ExDe magic~ The white mages speaks "Even though these spells are considered among the basic spells but since they require almost no concentration to cast, they can be quite useful, now open your hears and memorize this words: "Dragon, Smoke, Fireworks, Light, Music, Warm, Rainbow, Halo, Food, Aura, Flare, Bats, Love, Bouquet, Snow, Scroll, Dust, Ghost, Cool."{/"Some spells don't work without the proper ingredients, we call them {Creagents{x, would you like to hear about them?"
+~
+ExDe reagents~ 'Now lets see' Ptaaruonn speaks: 'There is the smooth polished stone or a polished granite orb which are used to cast flesh to stone.'{/'To open a two way portal you will need a Seashell.'{/'To open a one way gate a tourmaline prism or a black sapphire will suffice.'{/'Ah, I almost forgot, some {Cherbs{x are very useful and contain magic on them, I have little knowledge about them, but i Will teach you all I know.'
+~
+ExDe herbs~ Ptaaruonn shows you his compendium of herbs:{/mint- forest- refresh{/garlic- forest- sympathy{/acorn- forest-'fire seed'{/suaeysit- forest- frenzy{/winclamit- forest- healing{/zulsendra- graveyard- haste{/ghostroot- graveyard- levitate/pass door{/goldbloom- hills- glitterdust{/seaweed- ocean - Water lungs.{/"This is all I have for you, the rest you will have to find on your own, just another thing let me teach you the safe {Cpath{x to our gates through the forest."
+~
+ExDe path~ 'Lets see now' the mage speaks while indicating the directions with his hands 'You go "2w e n w n". If you follow that path you can't miss the gate.'{/'This is my gift to you.'{/The light coming from the holocron goes dim as it closes back to a cube.
+~
+ExDe cantrip~ Dragon{/Smoke{/Fireworks{/Light{/Juggle{/Wind{/Music{/Warm{/Rainbow{/Halo{/Flower{/Shadows{/Food{/Aura{/Flare{/Bats{/Love{/Rose{/Glow{/Whispering{/Bouquet{/Dizzy{/Laugh{/Snow{/Thunder{/Scroll{/Drench{/Dust{/Shade{/Fairy song{/Ghost{/Cool{/Clean
+~
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll mark of origin~
+ShD  a scroll of mark of origin~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 447 -1 -1 0
+Spell 1 'mark of origin'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll mark of origin~
+ShD  a scroll of mark of origin~
+Cond 100
+Wear -1
+Lev  67
+Cost 100
+Val  33 447 -1 -1 0
+Spell 1 'mark of origin'
+End
+
+#O
+Vnum 16306
+Nest 1
+Name shinzo doll action figure~
+ShD  a {bShinzo{x's action figure~
+Desc A perfectly scaled action figure of Shinzo is here.{/It does even have the sharp pointy swords and the misty cape OMG SOOO COOOL!!!~
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 14917
+Nest 1
+Cond 100
+Wear -1
+Cost 2450
+End
+
+#O
+Vnum 2595
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 14550
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14551
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19006
+Nest 1
+Cond 100
+Wear -1
+Cost 1200000
+End
+
+#O
+Vnum 2598
+Nest 1
+ExtF 0
+Cond 93
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 4710
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5760
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5760
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5760
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5760
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 16306
+Nest 1
+Name beads stone string~
+ShD  a string of polished stone beads~
+Desc A string of polished stone beads lies here, with a pale carved sea turtle pendent in the center.~
+Cond 100
+Wear -1
+Cost 1365
+ExDe string stone beads~ The colors of these stone beads are all dark blues, greens, and greys. Some of the stones shimmer in the light, while others have swirls of color. The string is long enough to be a long necklace or a belt for a thin waist.
+~
+ExDe pendent~ The pendent is in the shape of a pale sea turtle. Turning the turtle over reveals a name neatly carved into it. "Jacen Ajime".
+~
+End
+
+#O
+Vnum 16306
+Nest 1
+Name beads coral string~
+ShD  a string of polished coral beads~
+Desc A string of polished coral beads lies here, with a dark sea turtle pendent in the center.~
+Cond 100
+Wear -1
+Cost 998
+ExDe beads coral string~ The colors of these coral beads range from black and red to white and pink. They have a texture that makes them pleasing to the touch. The string is long enough that it can be worn as a long necklace or a belt around a thin waist.
+~
+ExDe pendent~ The pendent is in the shape of a dark sea turtle. Turning the turtle over reveals a name neatly carved into it. "Eva Ajime".
+~
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 10967
+Nest 1
+Name Vampire teeth~
+ShD  ({RBloody{x) {RV{Wam{Rp{Wire{x Teeth~
+Desc A set of Vampire teeth is here~
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 17522
+Nest 1
+Cond 100
+Wear -1
+Cost 1545
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9004
+Nest 1
+Cond 100
+Wear -1
+Cost 1328
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 9004
+Nest 1
+Cond 100
+Wear -1
+Cost 1080
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 9004
+Nest 1
+Cond 100
+Wear -1
+Cost 885
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 236
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 236
+End
+
+#O
+Vnum 9071
+Nest 1
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16809994
+Cond 98
+Wear -1
+Cost 800
+Val  2 8 20 2 202
+End
+
+#O
+Vnum 1816
+Enchanted
+Nest 1
+ExtF 67
+Cond 98
+Wear -1
+Lev  100
+Cost 800
+Val  2 8 16 2 202
+Affc 'enchant weapon'   0 100  -1  11  18          0
+Affc 'enchant weapon'   1 100  -1  11  19          0
+End
+
+#O
+Vnum 1816
+Enchanted
+Nest 1
+ExtF 67
+Cond 99
+Wear -1
+Lev  100
+Cost 800
+Val  2 8 16 2 202
+Affc 'enchant weapon'   1 100  -1  11  19          0
+Affc 'enchant weapon'   0 100  -1  11  18          0
+End
+
+#O
+Vnum 19006
+Nest 1
+ExtF 17861140
+Cond 100
+Wear -1
+Cost 1200000
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 1830
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 9507
+Nest 1
+Cond 100
+Wear -1
+Cost 1008
+Spell 1 'haste'
+End
+
+#O
+Vnum 9507
+Nest 1
+Cond 100
+Wear -1
+Cost 1341
+Spell 1 'haste'
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 216
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 216
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 216
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 216
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 216
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 227
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 248
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 248
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 248
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 195
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 195
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1816
+Enchanted
+Nest 1
+Name kris steel bladed weapon~
+ShD  a nickel and iron kris~
+Desc A wavy bladed weapon is on the ground here~
+ExtF 67
+Cond 95
+Wear -1
+Lev  100
+Cost 800
+Val  2 8 16 2 201
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  10  18          0
+ExDe kris~ Smaller than the average stiletto, this kris has a wavy blade. The blade looks dull in color, with no shine. Small runes have been etched down the middle of the blade. The hilt looks to be made from the horn from some animal and wrapped very carefully with strips of leather for easy handling and gripping.
+~
+End
+
+#O
+Vnum 1816
+Nest 1
+Name misericorde dagger~
+ShD  a misericorde~
+Desc A long, slender dagger is sticking out of the ground.~
+ExtF 16809994
+Cond 100
+Wear -1
+Cost 800
+Val  2 8 20 2 202
+ExDe misericorde~ With a circular hilt, this special dagger can easily be wielded from any angle. The blade is especially long and thin, allowing easy access to stab between the rings in chainmail or slip through the eyehole of a helmet. Small barely noticeable marks are just above the hilt along the blade. The hilt appears to made from blackened bone with a large emerald at the bottom of the hilt.
+~
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Name firefly~
+ShD  a {Gfirefly{X~
+Desc A firefly hovers gently here.~
+Cond 100
+Wear 22
+Cost 0
+ExDe firefly~ A tiny little firefly flies above the ground. Its little green bum casts a soft glow every time it lights up.
+~
+End
+
+#O
+Vnum 17558
+Enchanted
+Nest 0
+Name bracelet gold~
+ShD  a {Ygold{X dipped twig bracelet~
+Desc A bracelet made of gold is on the ground.~
+ExtF 262144
+Cond 94
+Wear 19
+Cost 250000
+Affc 'reserved'   1 115  -1 200  13          0
+Affc 'reserved'   1 115  -1 -10  24          0
+Affc 'reserved'   1 115  -1   8  18          0
+Affc 'reserved'   1 115  -1   8  19          0
+Affc 'reserved'   1 115  -1   3   1          0
+Affc 'reserved'   1 115  -1 100  12          0
+ExDe gold dipped twig~ A twig dipped in gold has been formed into a perfect bracelet for a woman's wrist. There are a few buds on the twig that had sprouted before being cut or ripped from a tree.
+~
+End
+
+#O
+Vnum 17558
+Nest 0
+Name rope thin~
+ShD  a thin piece of rope~
+Desc A very thin piece of rope is on the ground.~
+ExtF 262144
+Cond 91
+Wear 18
+Cost 250000
+ExDe rope thin~ Off-white in color, this rope looks to have been cut from a much longer piece. It is tied into a double knot and the frayed ends look very worn.
+~
+End
+
+#O
+Vnum 1916
+Nest 0
+Name belts black leather~
+ShD  {Dblack{x leather belts with pouches~
+Desc Three black leather belts that seem woven together lie here on the ground.~
+Cond 96
+Wear 17
+Cost 750000
+ExDe belts pouches~ Looking as though they are well-worn, the pouches along the belts seem to be enchanted. A glance inside reveals that they seem to go on forever.
+~
+End
+
+#O
+Vnum 3000
+Nest 0
+Name hip flask~
+ShD  a hip-flask~
+Desc A hip-flask is on the ground here.~
+ExtF 16777216
+Cond 100
+Wear -1
+Cost 58
+Val  300 268 0 0 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Name White Lotus~
+ShD  a {WWhite Lotus{x~
+Desc A beautiful and exotic white flower was dropped here.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1889
+Nest 0
+Name Athelas herb flower.~
+ShD  {WAthelas{x~
+Desc A beutiful flower is here.~
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'calm'
+End
+
+#O
+Vnum 9463
+Nest 0
+Name dancing baby groot~
+ShD  A Dancing Baby {yGroot{x~
+Desc It's a tree stem inside a pot, but it's dancing.~
+ExtF 2
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Name a glowing orb~
+ShD  a glowing orb~
+Desc A blueish white orb hovers just above the ground, giving off a decent amount of light.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name chain necklace gold~
+ShD  a n{Ye{xcklac{Ye{x~
+Desc A gold chain just large enough for a woman's neck lays in a tangled mess.~
+ExtF 786432
+Cond 99
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1625
+Nest 0
+Name nose stud silver small~
+ShD  a small n{wo{xs{we{x stud~
+Desc Barely noticeable, a silver piercing seems to have been dropped or lost.~
+ExtF 262144
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 5617
+Nest 0
+Name sheath double~
+ShD  a double weapon sheath~
+Desc A funny looking weapon sheath appears to have been lost by someone.~
+Cond 100
+Wear 8
+Cost 0
+ExDe sheath~ Made from smooth soft, reinforced leather the color of Nuitari in the night sky, this weapon sheath is capable of holding two weapons at once. Elaborate gold buckles are able to keep this strapped to a woman?s thigh easily. It is clearly custom made and expensive.
+~
+End
+
+#O
+Vnum 9498
+Nest 0
+Name pair black flats leather~
+ShD  a pair of l{Dea{xth{De{xr flats~
+Desc This pair of black leather flats look to have been well cared for.~
+ExtF 262144
+Cond 100
+Wear 11
+Cost 0
+ExDe flats~ These flats seem to have a bit of weight behind them. Made of soft leather, there is a delicate black lace overlay on them. Placing them down shows they make almost no sound and blend into their surroundings quite easily.
+~
+End
+
+#O
+Vnum 2954
+Nest 0
+Name gold slave bracelet~
+ShD  a sl{Ya{xv{Ye{x bracelet~
+Desc Simple in design, this slave bracelet is made only from the purest gold.~
+Cond 88
+Wear 12
+Cost 500
+End
+
+#O
+Vnum 9426
+Nest 0
+Name smoky light blue dress~
+ShD  a smoky l{ci{xght bl{cue{x dress~
+Desc A dress the color of blue tinged smoke lays in an elegant heap here.~
+Cond 100
+Wear 16
+Cost 0
+ExDe dress~ This dress is the color of blue tinged billowing smoke. Made out of a soft silky material, the floor length dress has a slit running up the right leg, stopping just below the hip. It's single, off the shoulder design is easy to put on and take off and hugs a woman's curves in all the right places.
+~
+End
+
+#O
+Vnum 1970
+Nest 0
+ExtF 262144
+Cond 100
+Wear 5
+Cost 4500
+End
+
+#O
+Vnum 16462
+Nest 0
+Name golden chain anklet spiral seashell~
+ShD  a dainty {Ya{xnkl{Ye{xt~
+Desc Almost missed, this golden anklet holds a flattened golden spiraled shell.~
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name golden chain anklet spiral seashell~
+ShD  a dainty {Ya{xnkl{Ye{xt~
+Desc Almost missed, this golden anklet holds a flattened golden spiraled shell.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 9071
+Nest 0
+Name chain necklace silver~
+ShD  a small necklace~
+Desc A silver chain lays unclasped on the ground.~
+ExtF 524288
+Cond 100
+Wear 3
+Cost 15000
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1213
+Nest 0
+Name Elemental Dagger~
+ShD  the {BEl{Gem{Ren{Wtal{x Dagger~
+Desc An extremly sharp dagger with it's blade covered in runes of various elements is here.~
+ExtF 540747
+Cond 96
+Mat  unknown~
+Wear 20
+Lev  120
+Cost 500
+Val  2 10 16 19 294168
+End
+
+#O
+Vnum 2895
+Nest 0
+Name leviathan shell part~
+ShD  a small leviathan shell shield~
+Desc A small shield with built in long bracer has been carelessly tossed away.~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Name star jewel starjewel~
+ShD  a sta{brje{xwel~
+Desc A beautiful crafted Silvanesti Jewel, shaped like an eight-pointed star, is here.~
+Cond 100
+Wear 21
+Cost 0
+ExDe starjewel~ According to the elven lore An elven lover will give this to his/her betrothed to promise they will marry, it will create a bond between the two's souls.
+~
+ExDe according~ to the elven lore An elven lover will give this to his/her betrothed to promise they will marry, it will create a bond between the two's souls.
+~
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10877
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

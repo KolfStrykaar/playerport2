@@ -1,0 +1,262 @@
+#PLAYER
+Name Gahaan~
+Surname Vildru~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1383219212
+LogO 1383598678
+Vers 10
+Act  CDEFGQe
+Prom <%hhp %mm %vmv> ~
+Race draconian~
+Sex  1
+Cla  1
+Hmtown 0
+Levl 2
+recall_point 3001
+Levscale 30
+Xptolev  1018
+Sec  0
+Plyd 491
+Not  0 0 0 0 0
+Scro 22
+Room 3700
+HMV  46 46 108 108 76 106
+Steel 20
+Gold 215
+Bank 0
+Exp  2182
+AfBy Oc
+AfBy2 D
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm O
+Pos  8
+Prac 3
+Save  -4
+Alig  -748
+Ethos 1
+Hit   4
+ACs 71 71 71 79
+Attr 16 10 19 17 13 10
+AMod 2 0 0 1 1 0
+Pass GaByn8T3t7pBI~
+Titl  the Believer~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 0
+HMVP 46 108 106
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'armor'
+Sk 1 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 76 'cause light'
+Sk 1 'cause serious'
+Sk 1 'create food'
+Sk 1 'create spring'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 1 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'protection evil'
+Sk 1 'ray of truth'
+Sk 1 'refresh'
+Sk 1 'remove curse'
+Sk 1 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'flail'
+Sk 64 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 100 'glide'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 1 'quench'
+Sk 1 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'armor'   0  28  18 -20  17          0
+Affc 'bless'   0  30  34   3  18          0
+Affc 'bless'   0  30  34  -3  25          0
+End
+
+#O
+Vnum 3772
+Nest 0
+Cond 100
+Wear 0
+Cost 5
+Val  0 0 191 0 0
+End
+
+#O
+Vnum 3773
+Nest 0
+Cond 100
+Wear 5
+Cost 10
+End
+
+#O
+Vnum 3774
+Nest 0
+Cond 100
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 100
+Wear 20
+Cost 250
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3775
+Nest 0
+Cond 100
+Wear 21
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#END

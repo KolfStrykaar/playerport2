@@ -1,0 +1,2039 @@
+#PLAYER
+Name Slade~
+Surname Gedlyng~
+MaskedIp ~
+Lokprot ~
+Email jbizarropinho@hotmail.com~
+Id   1067939003
+LogO 1421221577
+Vers 10
+Act  DGHLMQTe
+Desc In front of you stands a medium sized figure, you can't seem to place him
+either on the elven kind nor on the human kind because he has traits of
+both those races. He has long brown hair, pointy ears and the most acute
+{ggreen{x eyes you have ever seen, you can clearly see why he is a
+descendant of the beautiful people.
+The garments and the vast amount of weapons he  carries suggest he is a
+man that has seen many many battles, and the fact you have him standing
+before you suggests he has come victorious most of the times. His whole
+equipment bears the symbol of a {Wwhite{x shield with a {Wsword{x crossed
+behind it from left to right. Somehow you feel that he is not a bad person
+an doesn't attack anybody without a just cause.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {x%e %B %a{r>{x ~
+Race half-elf~
+Org 8
+Devotee 11
+Sex  1
+Cla  8
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194863
+Sec  0
+Plyd 2883687
+Not  1420281656 1395959842 0 1412588261 1323816819
+Scro 43
+Room 2580
+HMV  3179 3179 1175 1199 632 864
+Steel 3011
+Gold 51621
+Bank 27113
+Exp  16259337
+AfBy FJOa
+AfBy2 A
+Deaths 16
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm NO
+Pos  8
+Trai 1
+Save  -56
+Alig  1000
+Ethos 2
+Hit   94
+Dam   93
+ACs -365 -365 -376 -299
+Wimp  500
+Yield  100
+Attr 24 21 23 22 23 18
+AMod 11 4 3 13 3 5
+Pass Sl2.eFAP80V3.~
+Titl  the Avatar of the Glade~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 761
+HMVP 2159 649 714
+Cnd  0 61 62 0
+QuestPnts 1508
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'forest vision'
+Sk 100 'farsight'
+Sk 100 'orb of containment'
+Sk 100 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'camouflage'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'butcher'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'campfire'
+Sk 100 'search water'
+Sk 89 'bearcall'
+Sk 100 'ambush'
+Sk 100 'herbal discern'
+Sk 100 'battle tactics'
+Sk 100 'trophy'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 100 'grasping roots'
+Sk 100 'guard'
+Sk 100 'mounted combat'
+Sk 100 'scout'
+Sk 100 'quiet movement'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 75 'disarm traps'
+Sk 84 'set traps'
+Sk 100 'staff'
+Sk 100 'eyerub'
+Sk 100 'instruct'
+Sk 100 'eagle eye'
+Sk 100 'call of the wild'
+Sk 100 'tame'
+Sk 1 'arrow deflection'
+Sk 1 'point-blank shot'
+Affc 'detect hidden'   0 100  98   0   0         32
+Affc 'forest vision'   6  99  98   0   0          1
+Affc 'berserk'   0 100  10 200  17   67108864
+Affc 'berserk'   0  99  10  20  19   67108864
+Affc 'berserk'   0 100  10  20  18   67108864
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF2 2
+WeaF 257
+Ityp 9
+Wt   1
+Cond 76
+Mat  wool~
+Wear 13
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 93
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9426
+Enchanted
+Nest 0
+ExtF 262144
+Cond 82
+Wear 16
+Cost 0
+Affc 'reserved'   1 110  -1  20  12          0
+Affc 'reserved'   1 110  -1  -2  20          0
+Affc 'reserved'   1 110  -1   6  18          0
+Affc 'reserved'   1 110  -1   6  19          0
+Affc 'reserved'   0 110  -1   0   0      16384
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 262144
+Cond 86
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 82
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 17555
+Enchanted
+Nest 0
+ExtF 0
+Cond 92
+Wear 6
+Cost 100
+Affc 'reserved'   1  55  -1  -1  20          0
+Affc 'reserved'   1  55  -1   3  18          0
+Affc 'reserved'   1  55  -1   4  19          0
+End
+
+#O
+Vnum 3810
+Enchanted
+Nest 0
+Cond 97
+Wear -1
+Cost 400
+Affc 'reserved'   1  15  -1   2   5          0
+Affc 'reserved'   1  15  -1   1   4          0
+End
+
+#O
+Vnum 1252
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16100
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+Val  200 200 0 0 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 93
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 84
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 1616
+Nest 1
+ShD  a white potion~
+Desc A white potion rests here.~
+ExtF 512
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9869
+Enchanted
+Nest 1
+Cond 80
+Wear -1
+Cost 150000
+Affc 'enchant weapon'   1  80  -1   4  19          0
+Affc 'reserved'   1 100  -1   1   2          0
+Affc 'reserved'   1 100  -1 -10  17          0
+Affc 'reserved'   1 100  -1  -2  20          0
+Affc 'enchant weapon'   1 100  -1   7  18          0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 10 10 11 14
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 23
+Spell 1 'haste'
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 8
+Cond 80
+Wear -1
+Cost 5180
+Val  1 11 13 3 75
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2503
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 17845
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 17845
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 17845
+Nest 1
+Cond 100
+Wear -1
+Cost 507
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 17845
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'enlightenment'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 585
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 572
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 650
+Spell 1 'attunement'
+End
+
+#O
+Vnum 17844
+Nest 1
+Cond 100
+Wear -1
+Cost 641
+Spell 1 'attunement'
+End
+
+#O
+Vnum 1929
+Enchanted
+Nest 1
+Name gedlyng family leather armor~
+ShD  ({mOrnamented{x) {WGedlyng Family{x leather armor~
+Desc A tastefully ornamented leather armor sits here.~
+ExtF 0
+Cond 96
+Mat  leather~
+Wear -1
+Cost 4500
+Affc 'reserved'   1  55  -1  15  13          0
+Affc 'reserved'   1  55  -1 -10  20          0
+Affc 'reserved'   1  55  -1   1   1          0
+Affc 'reserved'   1  55  -1   3  18          0
+Affc 'reserved'   1  55  -1   3  19          0
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 16455
+Nest 1
+Cond 100
+Wear -1
+Cost 5250
+End
+
+#O
+Vnum 12267
+Nest 1
+Cond 99
+Wear -1
+Cost 4710
+End
+
+#O
+Vnum 9465
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 100
+Wear -1
+Cost 7400
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 96
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 3818
+Enchanted
+Nest 1
+ExtF 262144
+Cond 76
+Wear -1
+Cost 1000
+Affc 'reserved'   1  50  -1   5   2          0
+Affc 'reserved'   1  50  -1  25  13          0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 3810
+Enchanted
+Nest 0
+Cond 88
+Wear -1
+Cost 400
+Affc 'reserved'   1  15  -1   2   5          0
+Affc 'reserved'   1  15  -1   1   4          0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  111
+Cost 1110
+Val  24 24 24 20 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 458
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1971
+Nest 1
+ExtF 16779794
+Cond 72
+Wear -1
+Cost 46000
+Val  4 8 18 8 4
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 98
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 10611
+Nest 1
+Cond 97
+Wear -1
+Cost 500000
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 100
+Wear -1
+Cost 11703
+End
+
+#O
+Vnum 16070
+Nest 1
+Cond 82
+Wear -1
+Cost 4000
+Val  4 4 30 37 8
+End
+
+#O
+Vnum 9413
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+Val  8 14 11 21 122
+End
+
+#O
+Vnum 2906
+Nest 1
+ExtF 17040898
+Cond 97
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 73
+Wear -1
+Cost 0
+Val  1 10 10 11 14
+End
+
+#O
+Vnum 16454
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 16066
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17529
+Nest 1
+Cond 99
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 1
+Cond 100
+Wear -1
+Cost 40500
+End
+
+#O
+Vnum 12263
+Nest 1
+Cond 90
+Wear -1
+Cost 5145
+End
+
+#O
+Vnum 17553
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10786
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 10635
+Nest 1
+Cond 100
+Wear -1
+Cost 30000
+End
+
+#O
+Vnum 3158
+Nest 1
+Cond 99
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5700
+Nest 1
+Name bastard sword~
+ShD  a bastard sword~
+Desc A large bastard sword sits here, daunting.~
+WeaF 268443649
+Ityp 5
+Wt   5
+Cond 56
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 25 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name flamberge~
+ShD  a flamberge~
+Desc A two-bladed flamberge sits in the room.~
+WeaF 268443649
+Ityp 5
+Wt   4
+Cond 29
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 3 0
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 8
+Cond 28
+Mat  tin~
+Wear -1
+Cost 0
+Val  1 11 13 1 74
+End
+
+#O
+Vnum 13700
+Nest 1
+ExtF 3337
+Cond 50
+Wear -1
+Cost 1000
+Val  1 11 16 3 81920
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 88
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 82
+Mat  iron~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  43
+Cost 500
+Val  21 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 17851
+Nest 1
+ExtF 9
+Cond 96
+Wear -1
+Cost 1000
+Val  1 10 13 3 73
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name warsword~
+ShD  a warsword~
+Desc A giant warsword lies on the floor.~
+ExtF 67
+WeaF 8193
+Ityp 5
+Wt   7
+Cond 99
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  1 10 16 21 65
+Affc 'enchant weapon'   0  96  -1   7  18          0
+Affc 'enchant weapon'   1  96  -1   7  19          0
+End
+
+#O
+Vnum 9869
+Enchanted
+Nest 1
+ExtF 67
+Cond 42
+Wear -1
+Cost 150000
+Val  1 10 10 11 73
+Affc 'enchant weapon'   0  80  -1   7  18          0
+Affc 'enchant weapon'   1  80  -1   7  19          0
+End
+
+#O
+Vnum 9869
+Enchanted
+Nest 1
+Cond 99
+Wear -1
+Cost 150000
+Val  1 10 10 11 73
+Affc 'enchant weapon'   1 100  -1   9  18          0
+Affc 'reserved'   1 100  -1  -2  20          0
+Affc 'reserved'   1 100  -1 -10  17          0
+Affc 'reserved'   1 100  -1   1   2          0
+Affc 'enchant weapon'   1  95  -1   6  19          0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 12188
+Nest 1
+Cond 14
+Wear -1
+Cost 5280
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 22
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 85
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14510
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+ExtF 16778563
+Cond 91
+Wear -1
+Cost 0
+Val  1 12 11 18 84041
+Affc 'enchant weapon'   1  96  -1   7  19          0
+Affc 'enchant weapon'   0  96  -1   7  18          0
+End
+
+#O
+Vnum 16208
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 88
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9869
+Nest 1
+ExtF 1099
+Cond 96
+Wear -1
+Cost 150000
+Val  1 10 14 11 73
+End
+
+#O
+Vnum 12234
+Nest 1
+ExtF 540
+Cond 96
+Wear -1
+Cost 4710
+Val  1 10 14 3 73
+End
+
+#O
+Vnum 5700
+Nest 1
+Name longsword~
+ShD  a longsword~
+Desc A sheathed longsword lies in the room.~
+WeaF 268443649
+Ityp 5
+Wt   4
+Cond 41
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 3 0
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16777290
+Cond 58
+Mat  tin~
+Wear -1
+Cost 5280
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 98
+Wear -1
+Cost 7600
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 44 0 0 0
+End
+
+#O
+Vnum 2563
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Enchanted
+Nest 0
+ExtF 0
+Cond 79
+Wear -1
+Cost 90000
+Affc 'reserved'   0  80  -1   0   0          8
+Affc 'reserved'   0  80  -1   0   0         32
+Affc 'reserved'   1  80  -1   2   4          0
+Affc 'reserved'   1  80  -1   2   5          0
+Affc 'reserved'   1  80  -1  -4  20          0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+WeaF 16777221
+Cond 96
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 95
+Mat  oak~
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9498
+Nest 0
+ExtF 16777280
+Cond 90
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name gedlyng family leather armor~
+ShD  ({dOrnamented{x) {WGedlyng Family{x leather armor~
+Desc A set of tastefully ornamented leather armor lies here.~
+ExtF 262144
+Cond 84
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  111
+Cost 1110
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 11967
+Nest 0
+ExtF 16777288
+Cond 83
+Wear 20
+Cost 5180
+Val  1 11 13 31 203
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 67
+Wear 24
+Cost 46000
+Val  4 8 18 8 73
+End
+
+#O
+Vnum 5700
+Nest 0
+Name chainmail~
+ShD  a suit of chainmail~
+Desc A suit of chainmail sits on the ground.~
+ExtF 8
+ExtF2 2
+WeaF 268435465
+Ityp 9
+Wt   10
+Cond 100
+Mat  iron~
+Wear 5
+Lev  110
+Cost 1100
+Val  29 29 29 25 2
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#END

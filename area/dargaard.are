@@ -1,0 +1,4281 @@
+#AREADATA
+Name Dargaard Mountains~
+Builders Hiddukel Nuitari Zivilyn~
+Continent Solamnia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 4801 4999
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#4803
+small butterfly~
+a small butterfly~
+A small butterfly is here.
+~
+This tiny insect with slender body and a pair of bright-colored,
+overlapping wings likes to fly around the grass, stopping on flowers.  
+~
+unique~
+AGH T 710 0
+6 6 13d2+61 6d10+85 2d3+8 none
+5 5 5 6
+F 0 0 0
+stand stand female 100
+O AEP T unknown 0
+#4808
+small dragonfly~
+a small dragonfly~
+A small dragonfly is flying here.
+~
+This harmless insect with long slender body and two pairs of gauzy wings
+flies around you.  
+~
+unique~
+AH T 754 0
+8 8 17d2+81 8d10+85 2d4+9 bite
+3 3 3 5
+F 0 0 0
+stand stand male 147
+O AEP T unknown 0
+#4811
+hobgoblin guard~
+a hobgoblin guard~
+A hobgoblin guard stands here.
+~
+The guard stands here almost immobile, trying to not be noticed.  He
+wears dirty, crude leather armor and is armed with a small club.  His matted
+hair sticks out at odd angles, and a strong stench emanates from his
+direction.  
+~
+hobgoblin~
+ABF J -567 0
+25 25 51d8+253 25d10+85 8d3+17 punch
+-7 -7 -7 -1
+0 0 LQ 0
+stand stand male 846
+AHMV ABCDEFGHIJKY M unknown 0
+#4812
+hobgoblin~
+a hobgoblin~
+A Hobgoblin is here, grinning at you.
+~
+This hobgoblin is rooting around in the grass looking for something.  His
+clothing is tattered, and barely covers his reddish colored skin.  He looks
+around through squinty, piggish black eyes.  The hobgoblin smells terribly
+of garbage.  
+~
+hobgoblin~
+AS J -601 0
+26 26 53d8+263 26d10+85 8d3+18 punch
+-7 -7 -7 -2
+0 0 LQ 0
+stand stand male 542
+AHMV ABCDEFGHIJKY M unknown 0
+#4813
+hobgoblin infant small~
+a hobgoblin infant~
+A small hobgoblin is here.
+~
+This infant looks pretty much like the adult hobgoblins.  Its skin has a
+reddish cast to it, and its eyes are small and piglike.  
+~
+hobgoblin~
+AGHT J -450 0
+16 16 33d5+162 16d10+85 5d3+13 punch
+-1 -1 -1 1
+FT 0 LQ 0
+stand stand none 213
+AHMV ABCDEFGHIJKY S unknown 0
+#4814
+hobgoblin elite guard~
+a hobgoblin elite guard~
+A Hobgoblin Elite Guard stands here.
+~
+This brute of a hobgoblin leers at anyone who comes near him. He is
+much larger than the average hobgoblin, hence why he is the elite.  His
+armor is somewhat better than most of the other hobgoblins, and he carries a
+rusted axe strapped to his back.  
+~
+hobgoblin~
+ABFT J -650 0
+27 27 55d9+273 27d10+85 9d3+18 punch
+-8 -8 -8 -2
+0 0 LQ 0
+stand stand male 701
+AHMV ABCDEFGHIJKY M unknown 0
+#4815
+raol son leader hobgoblin~
+{xRaol~
+Raol, son of the hobgoblin leader, stands here.
+~
+This is the son of the hobgoblin leader; he looks spoiled.  He wants to
+be the leader of the hobgoblins one day, but every hobgoblin knows he is not
+strong enough.  He is smaller than most other hobgoblins, and only carries a
+small dagger.  
+~
+hobgoblin~
+ABHT J -1000 0
+30 30 61d10+304 30d10+85 10d3+5 punch
+-10 -10 -10 -4
+J P LQ C
+stand stand male 985
+AHMV ABCDEFGHIJKY M unknown 0
+#4816
+hobgoblin cook~
+the hobgoblin cook~
+A hobgoblin cook is here, roasting some animal.
+~
+Looking at the hobgoblin, you see that his hands could not be any dirtier
+than they are now.  He looks disgusting.  His dirty shirt has various bits
+of animal leftovers and blood splatters.  He slowly turns the spitted animal
+over a fire.  
+~
+hobgoblin~
+AB J -650 0
+28 28 57d9+283 28d10+85 9d3+19 punch
+-9 -9 -9 -3
+0 0 LQ 0
+stand stand male 415
+AHMV ABCDEFGHIJKY M unknown 0
+#4818
+hobgoblin female~
+a hobgoblin female~
+A hobgoblin female is watering her plants.
+~
+This hobgoblin female stands at the entrance of her tent, watering her
+flowers.  The only thing that distinguishes her from the males is the much
+longer greasy hair that grows from her scalp.  She has the same piglike
+features of the hobgoblin race.  
+~
+hobgoblin~
+AB J 26 0
+22 22 45d7+223 22d10+85 7d3+16 slap
+-5 -5 -5 0
+0 0 LQ 0
+stand stand female 326
+AHMV ABCDEFGHIJKY M unknown 0
+#4822
+dal bard~
+{xDal, the bard~
+A bard rests in the shade of the tree.
+~
+This bard has been resting under the shade of this tree for quite a
+while...  He has a harp in his hands, the stories he softly sings are
+relaxing.  His flamboyant clothing are a bit out of place for the elf. 
+Instead of the usually natural colors, he is dressed in vivid purple, red,
+blue, and yellow colors.  
+~
+elf~
+AB HJc 843 0
+123 123 247d41+3727 123d10+85 41d3+66 punch
+-73 -73 -73 -48
+0 AB B Z
+rest rest male 69400
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 4822 100~
+#4837
+cockroach~
+a cockroach~
+A cockroach lies here.
+~
+This pest of an insect has a brown flattened oval body.
+~
+unique~
+A 0 27 0
+4 4 9d2+41 4d10+85 1d4+7 bite
+6 6 6 7
+0 0 0 0
+stand stand male 51
+O AC T unknown 0
+#4838
+crow~
+the crow~
+A crow is resting on the dead tree's branch.
+~
+This bird is black and disgusting.  Looking closer, you see that he has
+something in his beak; it looks like a piece of flesh from some dead animal.
+~
+song bird~
+AB T 18 0
+24 24 49d8+243 24d10+85 8d3+17 peck
+-6 -6 -6 -1
+FH 0 0 0
+stand stand male 162
+AGW ACDEFHKP M unknown 0
+M GRALL 4838 38~
+#4840
+zombie~
+a zombie~
+A zombie is here.
+~
+As the zombie ambles about, you can plainly see its shattered, broken
+body.  The zombie's innards are falling apart, and its flesh has been eaten
+by moths, rats, and disease.  It drags one leg lamely behind itself, and one
+arm is completely missing.  
+~
+human~
+AFGO c -1000 0
+41 41 83d13+415 41d10+85 13d3+25 punch
+-18 -18 -18 -9
+0 L 0 0
+stand stand male 234
+AHMV ABCDEFGHIJK M unknown 0
+#4841
+skeleton~
+a skeleton~
+A skeleton with a sword is here.
+~
+This skeleton is much like every other skeleton, its flesh eaten away to
+leave only bones.  This one is alert however, and has small flames burning
+in its eye sockets, a sure sign that this zombie serves Lord Soth of the
+Black Rose.  
+~
+human~
+AOT 0 -1000 0
+46 46 93d15+465 46d10+85 15d3+28 punch
+-21 -21 -21 -12
+P 0 0 0
+stand stand male 542
+AHMV ABCEGHI M unknown 0
+F par DFJK
+#4842
+skeleton archer~
+a skeleton archer~
+A skeleton archer stands here, bow cocked and arrow notched.
+~
+This skeleton grasps an old bow in its boney hands.  Over the skeleton's
+shoulder is a quiver of arrows, the fletchings rotted away to almost
+nothing.  
+~
+human~
+AFO V -1000 0
+43 43 65d14+392 43d10+85 12d3+19 thwack
+-11 -11 -11 -2
+0 L 0 0
+stand stand male 394
+AHMV ABCEGHIJK M unknown 0
+F par DF
+#4845
+brown wyvern~
+a brown wyvern~
+A brown wyvern is here.
+~
+This brown wyvern looks strong and deadly.  These wyverns may lack the
+forearms of their dragon relatives, but make up for it with their
+specialized tails, topped with poisonous stingers.  
+~
+dragon~
+ABFY JT -750 0
+46 46 93d15+465 46d10+85 15d3+28 claw
+-21 -21 -21 -12
+ADHM AB BEH FI
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX L unknown 0
+#4853
+undead cleric~
+the undead cleric~
+An undead cleric stands here.
+~
+This cleric was once a member of the Holy Order; you can tell by his
+tattered robes.  However, by some twist of fate he is now an undead and
+serves Lord Soth...  Forever.  
+~
+human~
+ABOQ H -1000 0
+61 61 123d20+1233 61d10+85 20d3+35 punch
+-31 -31 -31 -18
+K 0 0 0
+stand stand male 962
+AHMV ABCDEFGHIJK M unknown 0
+#4858
+shadow~
+a shadow~
+A shadow
+~
+This shadow has been here for a long time, trying not to be noticed.  The
+shadow is perfectly camouflaged.  Its corporeal form is barely noticeable
+from the regular gloomy darkness of the room.  
+~
+unique~
+AFGO BQV -1000 0
+50 50 101d16+506 50d10+85 16d3+30 drain
+-24 -24 -24 -14
+F 0 0 0
+stand stand male 997
+BCI 0 M unknown 0
+#4869
+cloaked man~
+a cloaked man~
+A cloaked man is here.
+~
+This man has a dark brown cloak surrounding his body; you cannot see his
+face.  He huddles in the corner, trying to evade detection.  
+~
+human~
+ABW 0 1 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 ABC D 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#4938
+hobgoblin infant~
+a hobgoblin infant~
+A hobgoblin infant is here.
+~
+This infant looks pretty much like the adult hobgoblins.  Its skin has a
+reddish cast to it, and its eyes are small and piglike.  
+ 
+~
+hobgoblin~
+AFH J -5 0
+41 41 83d13+415 41d10+85 13d3+25 punch
+-18 -18 -18 -9
+0 0 LQ 0
+stand stand male 124
+AHMV ABCDEFGHIJKY S unknown 0
+#4939
+female hobgoblin~
+a hobgoblin female~
+A female hobgoblin is here.
+~
+This hobgoblin female stands at the entrance of her tent, watering her
+flowers.  The only thing that distinguishes her from the males is the much
+longer greasy hair that grows from her scalp.  She has the same piglike
+features of the hobgoblin race.  
+~
+hobgoblin~
+ABF J -347 0
+52 52 105d17+526 52d10+85 17d3+31 slap
+-25 -25 -25 -14
+0 0 LQ 0
+stand stand female 20159
+AHMV ABCDEFGHIJKY M unknown 0
+#4944
+hobgoblin warrior~
+a hobgoblin warrior~
+An important hobgoblin warrior is here.
+~
+This hobgoblin has big muscles; he could easily crush a goblin with one
+hand.  He looks like a warrior, not afraid of much.  He wears crude leather
+armor, and carries a plain small sword.  
+~
+hobgoblin~
+ABFT J -687 0
+59 59 119d19+1191 59d10+85 19d3+34 punch
+-30 -30 -30 -18
+0 0 LQ 0
+stand stand male 8701
+AHMV ABCDEFGHIJKY M unknown 0
+#4947
+hobgoblin leader rolgusk~
+{xRolgusk~
+Rolgusk, the Hobgoblin leader is here.
+~
+This hobgoblin is huge!  He stands over seven feet tall, and looks to
+weigh about 300 pounds.  He is dressed in well crafted boiled leather armor,
+and carries a large sword.  His matted hair peeks out from a small leather
+cap, and wears finely crafted boots.  He peers out through squinted eyes,
+eyes that betray a hint of intelligence.  
+~
+hobgoblin~
+ABFT HJV -1000 0
+67 67 135d22+1353 67d10+85 22d3+38 punch
+-35 -35 -35 -21
+CEF AB LQ 0
+stand stand male 39589
+AHMV ABCDEFGHIJKY L unknown 0
+#4948
+hobgoblin assassin~
+a hobgoblin assassin~
+A hobgoblin assassin is hiding here.
+~
+This hobgoblin is rather small for his race; he looks very agile and
+quick.  He is dressed in dark colors that enable him to blend into the
+surrounding areas.  
+~
+hobgoblin~
+ABFS BJQV -924 0
+63 63 123d21+1014 63d10+85 21d4+36 punch
+-32 -32 -32 -19
+BJR 0 LQ 0
+stand stand male 618
+AHMV ABCDEFGHIJKY M unknown 0
+#4952
+hobgoblin shaman~
+a hobgoblin shaman~
+A hobgoblin shaman is here, casting bones.
+
+~
+This hobgoblin looks like it is some evil cleric of some sort.  Maybe he is the hobgoblin who does the sacrifices to Takhisis, The Dark Queen.
+~
+hobgoblin~
+ABFRW BDJ -971 0
+61 61 123d20+1233 61d10+85 20d3+35 punch
+-31 -31 -31 -18
+R 0 LQ 0
+stand stand male 1783
+AHMV ABCDEFGHIJKY M unknown 0
+#4958
+large vuk hobgoblin~
+Vuk the hobgoblin~
+A very large hobgoblin is here.
+~
+This hobgoblin is very large.  This hobgoblin has great big muscles and
+beady red eyes, as if they were filled with blood.  It would be wise not to
+get into this hobgoblin's path.  
+~
+hobgoblin~
+ABT DJV -894 0
+63 63 127d21+1273 63d10+85 21d3+36 punch
+-32 -32 -32 -19
+0 A LQ 0
+stand stand male 973
+AHMV ABCDEFGHIJKY L unknown 0
+#4960
+hobgoblin~
+a hobgoblin~
+A hobgoblin is here, looking at you.
+~
+This hobgoblin is rooting around in the grass looking for something.  His
+clothing is tattered, and barely covers his reddish colored skin.  He looks
+around through squinty, piggish black eyes.  The hobgoblin smells terribly
+of garbage.  
+~
+hobgoblin~
+AFH J -713 0
+56 56 113d18+1131 56d10+85 18d3+33 punch
+-28 -28 -28 -16
+R 0 LQ 0
+stand stand male 497
+AHMV ABCDEFGHIJKY M unknown 0
+#4962
+large hobgoblin guard~
+a hobgoblin guard~
+A large hobgoblin guard stands here.
+~
+He guard stands here almost immobile, trying to not be noticed.  He wears
+dirty, crude leather armor and is armed with a small club.  His matted hair
+sticks out at odd angles, and a strong stench emanates from his direction.  
+~
+hobgoblin~
+ABFT J -871 0
+57 57 115d19+1151 57d10+85 19d3+33 punch
+-29 -29 -29 -17
+R 0 LQ 0
+stand stand male 968
+AHMV ABCDEFGHIJKY L unknown 0
+#0
+
+
+
+#OBJECTS
+#4811
+crude leather armor~
+crude leather armor~
+Some damaged leather armor lies here.~
+leather~
+armor S 0 ADY
+AC ABC BC B 0
+27 6 200 W
+E
+crude leather armor~
+This armor has been crudely stitched together from boiled leather.  There
+are large gaps in the stitching, and some of it has begun to tear.  There
+are multiple scratches on the front, and a large gash in the back.  
+~
+#4812
+dirty worn boots~
+dirty worn boots~
+Some old boots are here, covered in dust.~
+leather~
+armor S 0 AGY
+AB AC C 0 0
+18 2 0 A
+E
+dirty worn boots~
+Made of flimsy leather, these boots have definately seen better days. 
+The sole has begun to separate from the upper, and there are large holes
+around the toes.  The leather has split down the side, from the top of the
+boots, almost all the way down to the sole.  
+~
+#4814
+shiny armor plate chest piece~
+a shiny armor plate~
+A bright piece of steel lies here, crudely fashioned into a chestpiece.~
+steel~
+armor Y 0 ADY
+BC C BD A 0
+24 20 6500 P
+E
+shiny plate armor~
+This shiny plate armor has been fashioned from very thin steel, and is
+designed to be worn on the chest.  It is completly devoid of any decoration.
+The brown leather straps meant to hold the piece in place are strong and
+solid.  
+~
+#4815
+raol sword~
+{XRaol's sword~
+A sword has been dropped here.~
+steel~
+weapon B 0 ANY
+sword 4 8 slash E
+30 6 5100 P
+E
+raol~
+~
+E
+sword~
+This small sword has been in Raol's possession ever since he raided a
+small village a few years ago.  The sword is not overly well crafted, but it
+is functional.  The short blade is very stout, and actually quite sharp. 
+The crosspiece has a slight etchings of indertiminate meaning.  The pommel
+has a small, clear gem set in it.  
+~
+#4816
+campfire~
+the campfire~
+{R(Burning){x A campfire is here giving off light.~
+energy~
+trash 0 0 P
+0 0 0 0 0
+100 10000 0 P
+E
+campfire~
+This blazing campfire is enough to keep anyone warm.  The edge of the
+fire is lined with small stout stones, designed to keep the fire from
+spreading.  
+~
+#4817
+dirty cook apron leather rag~
+a dirty cook's apron~
+Some type of old leather rag lies here.~
+leather~
+armor S 0 ADY
+A AB B 0 0
+2 0 0 P
+E
+dirty cook apron~
+This dirty apron is made from very old leather.  It covers the wearer
+from neck to knees, and wraps all the way around the body.  The leather is
+horribly stained, and smells awful.  
+~
+#4820
+golden harp~
+a {Ygolden{x harp~
+A harp made of gold lies here.~
+gold~
+instrument 0 0 AOc
+0 0 0 0 0
+1 1 100 P
+E
+golden harp~
+This beautiful harp has been crafted from solid gold.  The curve that
+holds the strings is elegantly shaped, and is covered in elven runes.  The
+strings themselves look like strands of molten silver.  
+~
+#4821
+juicy apple~
+a juicy apple~
+A juicy apple lies here.~
+plant~
+food V 0 AO
+AB ABCD 0 0 0
+0 0 0 P
+E
+juicy apple~
+Freshly fallen from a tree, this red apple is large and succulent
+looking.  It is a brilliant shade of red, and about the size of a minotaur
+fist.  
+~
+#4822
+huge apple tree~
+the apple tree~
+A HUGE apple tree is here.~
+wood~
+container OTa 0 P
+10000 0 0 1000 5
+150 1 0 P
+E
+huge apple tree~
+Being a very old tree, it is currently about 30 feet high.  The trunk is
+as thick as 5 men standing together, and the branches span enough space to
+provide shade for a large group of people.  The branches have sprouted
+leaves of verdant green, and large ruby red apples can be seen hanging from
+the branches.  
+~
+#4826
+rotten apple~
+a rotten apple~
+A rotten apple lies here.~
+plant~
+food 0 0 AO
+A 0 0 A 0
+1 10000 0 P
+E
+rotten~
+Soft and squishy, this apple is quite rotten.  It is discolored, ranging
+from black and brown, to dull red.  There is a bit of mold growing on it,
+and one shouldnt be surprised to find a worm in it!  
+~
+#4828
+broken sign~
+the sign~
+A broken wooden sign is here~
+wood~
+map 0 0 P
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The sign is broken.
+                     /\
+                    /  \
+                   |    |
+
+                   |    |
+                   |    |
+  /================|    |===========\
+ / WEST:           |    |EAST:      /
+ \  Plains of Throt|    | Dargaard M\ 
+  \----------------|    |-----------/
+                   |    |
+           ===============\
+           |       SOUTH  /
+           |   Dargaard Pl\
+           ---------------/
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+~
+#4833
+dead tree branch~
+a dead tree branch~
+A dead tree branch pokes up through a crack.~
+wood~
+furniture T 0 P
+A EIJKN EHK AC AC
+0 10000 0 P
+E
+dead tree branch~
+The branch is old and cracking.  There are no leaves on it, and the bark
+is very dry.  There is a dip in the branch that looks like an inviting seat.
+~
+#4838
+dead tree~
+the dead tree~
+An enormous dead tree stands here.~
+wood~
+trash 0 0 P
+0 0 0 0 0
+0 10000 0 P
+#4841
+plain long sword~
+a plain longsword~
+A plain-looking longsword is resting here.~
+iron~
+weapon J 0 ANZ
+sword 5 9 slash 0
+43 7 200 P
+E
+plain longsword~
+Straight bladed, this longsword is very plain.  There is nothing adorning
+the hilt, and there is nothing etched on the blade.  The only bit of color
+is the blue leather wrapping the handle.  
+~
+#4842
+moon bow~
+the {WMoon{x Bow~
+A black bow is here.~
+ebony~
+weapon EGJS 0 ANZ
+bow 5 9 pierce AB
+43 3 498 P
+E
+moon bow~
+This bow is as black as night, hence the name.  The bow is magic, and you
+can feel a strange sensation from it, both hot and cold at the same time. 
+The bow string is tight, and the grip has been wrapped in high quality black
+leather.  
+~
+#4853
+black club mace~
+a {Dblack{x club~
+A club has been thrown here.~
+walnut~
+weapon S 0 ANY
+mace 5 5 crush C
+24 5 547 P
+E
+black club~
+This club has been carved from the trunk of a very stout tree.  It has
+been dyed a deep black, and black spikes driven through the head.  The wood
+is quite hard, and there arent many scratches on it.  
+~
+#4856
+broken skull~
+a broken skull~
+A broken human skull is here.~
+bone~
+wand Sa 0 AO
+32 1 1 'teleport' 0
+32 1 2148 P
+E
+broken skull~
+The skull has been bleached white, and any bits of flesh have been eaten
+away long ago.  Part of the jaw has been broken off, and now the skull grins
+at you crookedly.  
+~
+#4944
+elite tattoo knight takhisis~
+a tattoo of the {bElite{x {WKnights{x of {DTakhisis{x~
+A tattoo is here.~
+ink~
+tattoo JMPSUYZa 0 AR
+0 0 0 0 0
+50 0 4512 P
+A
+1 1
+A
+18 2
+A
+19 3
+E
+elite takhisis tattoo~
+This tattoo is the outline of a five headed dragon.  There is a shield in
+the front of the dragon.  In the dragons claws are held a long sword,
+signifying the Elite Knights sect.  
+~
+#4947
+huge black two handed sword~
+a {Dblack{x two-handed sword~
+A huge black sword lies here.~
+obsidian~
+weapon JS 0 ANZ
+sword 8 8 cleave F
+66 8 101045 P
+E
+black sword~
+This large blade is as long as a man is tall.  Designed to be wielded
+with both hands, the handle is near a foot and a half long.  The blade
+itself has been rubbed in a mixture of charcoal and oil, making the blade
+black as night.  
+~
+#4948
+sharp backstabbing dagger~
+a backstabbing dagger~
+A very sharp dagger lies here.~
+platinum~
+weapon J 0 ANc
+dagger 7 9 stab D
+63 3 19924 P
+A
+18 10
+E
+backstabbing dagger~
+Being a small dagger, it is easily concealed.  From end to end, the whole
+dagger is no longer than 12 inches.  It is very plain and unremarkable,
+except for one feature.  The blade is sharp as a razor.  
+~
+#4952
+arcane tunic~
+an arcane tunic~
+An arcane-looking tunic lies here on the ground.~
+panther fur~
+armor GS 0 ADc
+ABD ABD ABD AD 0
+52 7 857 P
+A
+14 10
+A
+12 10
+A
+13 -10
+A
+1 -2
+A
+5 1
+A
+4 1
+A
+3 1
+E
+arcane tunic~
+This tunic has been patched together from dried animal skins.  The fur is
+still somewhat shiny in the places that it has fallen from.  There are some
+designs sewn into the furs, possibly magic in nature.  
+~
+#4960
+small tent~
+a tent~
+A small tent is here.~
+canvas~
+furniture Ta 0 A
+A DFGHIJ DIL BD BD
+0 2 57 P
+E
+tent~
+Made of canvas, this tent was designed to only accomadate one person.  It
+is stitched together from gray canvas, and will protect the occupant from
+rain and wind.  
+~
+#4961
+tattoo knight takhisis~
+a tattoo of the {WKnights{x of {DTakhisis{x~
+A tattoo of the {WKnights{x of {DTakhisis{x lies here.~
+ink~
+tattoo MSTUYZa 0 AR
+0 0 0 0 0
+15 0 162 P
+E
+tattoo takhisis~
+This tattoo is the outline of a five headed dragon.  Each head is a
+different color, representing each of the evil dragons.  There is a large
+tower shield in front of the main body of the dragon.  
+~
+#4962
+hobgoblin ring~
+a hobgoblin ring~
+A ring lies here, covered in dust.~
+bronze~
+jewelry J 0 ABZ
+0 0 0 0 0
+53 0 514 P
+A
+12 -50
+A
+13 50
+A
+18 -10
+A
+19 10
+E
+hobgoblin ring~
+This ring is crudely crafted from bronze, with bits of bone in it.  It is
+customarily given from hobgoblin to hobgolin as a gift.  
+~
+#4963
+dart~
+a dart~
+A dart lies in the dirt.~
+iron~
+weapon ITY 0 ANX
+exotic 2 22 sting H
+39 1 0 P
+E
+dart~
+This simple weapon is meant to be thrown at the enemy.  The tip is sharp
+as a needle, and will puncture most simple armor.  
+~
+#0
+
+
+
+#ROOMS
+#4801
+A Trail Into the Solamnic Plains~
+The trail into the Solamnic plains begins here, leading deeper into its
+lush green fields.  To the west lies the High Knight's road.  The trail here
+looks to be well traveled, with deep wagon ruts and flattened grass making
+the trail appear to be wide enough for a regiment to travel upon with ease. 
+~
+0 0 2
+D1
+~
+~
+0 0 4802
+D3
+~
+~
+0 0 13752
+S
+#4802
+A Trail Into the Solamnic Plains~
+Deep along the Solamnic plains, the wide trail here treks on through lush
+green grass, continuing on toward the east and west.  A few butterflies
+flutter about, stopping occasionally to linger upon some of the wildflowers,
+which seem to have made a home along the edges of the road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4803
+D3
+~
+~
+0 0 4801
+S
+#4803
+The Solamnic Plains~
+The smell of pollen and lush green grass fills the air, the widened trail
+pushing on toward the east and west.  A slight cool breeze blows by you,
+forcing a few insects that are fluttering about to scatter for cover.  The
+long grass and wildflowers growing along the edges of the trail sway back
+and forth, the pleasant and soothing sounds of nature filling the air.  
+~
+0 0 2
+D1
+~
+~
+0 0 4804
+D3
+~
+~
+0 0 4802
+S
+#4804
+The Solamnic Plains~
+The smell of pollen and lush green grass fills the air, the widened trail
+pushing on toward the east and west.  A slight cool breeze blows by you,
+forcing a few insects that are fluttering about to scatter for cover.  The
+long grass and wild flowers growing along the edges of the trail, sway back
+and forth, the pleasant and soothing sounds of nature filling the air.  
+~
+0 0 2
+D1
+~
+~
+0 0 4805
+D3
+~
+~
+0 0 4803
+S
+#4805
+The Solamnic Plains~
+Deep along the Solamnic plains, the wide trail here treks on through lush
+green grass, continuing on toward the east and west.  A few butterflies
+flutter about, stopping occasionally to linger upon some of the wildflowers,
+which seem to have made a home along the edges of the road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4806
+D3
+~
+~
+0 0 4804
+S
+#4806
+The Solamnic Plains~
+The smell of pollen and lush green grass fills the air, the widened trail
+pushing on toward the east and west.  A slight cool breeze blows by you,
+forcing a few insects that are fluttering about to scatter for cover.  The
+long grass and wildflowers growing along the edges of the trail sway back
+and forth, the pleasant and soothing sounds of nature filling the air.  
+~
+0 0 2
+D1
+~
+~
+0 0 4807
+D3
+~
+~
+0 0 4805
+S
+#4807
+The Solamnic Plains~
+Deep along the Solamnic plains, the wide trail here treks on through lush
+green grass, continuing on toward the east and west.  A few butterflies
+flutter about, stopping occasionally to linger upon some of the wildflowers,
+which seem to have made a home along the edges on the road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4808
+D3
+~
+~
+0 0 4806
+S
+#4808
+A Corner in the Solamnic Plains~
+The smell of pollen and lush green grass fills the air, the widened trail
+pushing on toward the east and west.  A slight cool breeze blows by you,
+forcing a few insects that are fluttering about to scatter for cover.  The
+long grass and wildflowers growing along the edges of the trail sway back
+and forth, the pleasant and soothing sounds of nature filling the air.  The
+path here bends around a wide corner; in one direction leading west, in the
+other heading south.  
+~
+0 0 2
+D2
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4807
+S
+#4809
+The Plains of Throt~
+Tall grasses and wildflowers sway to and fro along the sides of this
+trail.  Off in the distance to the south, a few outlines of nomadic tents
+can be seen.  To the north, a wide corner looms into view.  A slight cool
+breeze blows by, the smell of fresh air filling your nostrils.  
+~
+0 0 2
+D0
+~
+~
+0 0 4808
+D2
+~
+~
+0 0 4810
+S
+#4810
+The Plains of Throt~
+Tall grasses and wildflowers sway to and fro along the sides of this
+trail.  Looking south, more outlines of nomadic tents can be seen.  Off in
+the distance to the north, you see a wide corner.  A cool breeze hits your
+face.  
+~
+0 4 2
+D0
+~
+~
+0 0 4809
+D1
+~
+~
+0 0 4811
+S
+#4811
+The Plains of Throt~
+Between the tall grasses, you see a small green tent standing open. 
+Looking inside reveals a sleeping hobgoblin dressed in leather armor.  A
+wooden post has been placed next to the trail that leaves south.  This seems
+to be the entrance of some temporary camp.  
+~
+0 0 2
+E
+post~
+This may have once served for some kind of directions, but now it is useless.
+~
+E
+tent~
+Looking inside, you can see a hobgoblin guard with leather armor sleeping next to a small chest.  
+~
+D2
+~
+~
+0 0 4812
+D3
+~
+~
+0 0 4810
+S
+#4812
+The Plains of Throt~
+A large, brightly colored tent lies closed to the south, some wildflowers
+growing next to it.  To the east, you see more tents lined along each side
+of the dirt trail.  
+~
+0 0 2
+E
+tent~
+This brightly colored tent has yellow, orange and red colors, and is
+tightly closed.  You presume someone is sleeping inside.  
+~
+E
+tent~
+~
+D0
+~
+~
+0 0 4811
+D1
+~
+~
+0 0 4813
+S
+#4813
+The Plains of Throt~
+The tall grass can barely be seen because of all the tents that have been
+placed on each side of the trail; a staggering variety in every color of the
+rainbow.  A little dark red tent draws your attention.  
+~
+0 0 2
+E
+little~
+This little tent is the home for a hobgoblin infant.  
+~
+E
+tent~
+This little tent is the home for a hobgoblin infant.  
+~
+D1
+~
+~
+0 0 4814
+D3
+~
+~
+0 0 4812
+S
+#4814
+The Plains of Throt~
+There is a very large tent to the north, with two smaller tents standing
+to each side.  This must be the leader's tent.  The dirt below you has been
+turned to mud from all the hobgoblins tramping through the area.  Large
+puddles of water are scattered about.  
+~
+0 0 2
+E
+tent~
+This tent is tightly closed. You wonder what could be inside...
+~
+E
+big~
+This tent is tightly closed.  You wonder what could be inside...  
+~
+D1
+~
+~
+0 0 4815
+D3
+~
+~
+0 0 4813
+S
+#4815
+The Plains of Throt~
+A very light smell of smoke coming from the west reaches your nose.  The
+tall grass can now be seen more clearly, since there are less tents here
+than on the west side of the trail.  
+~
+0 0 2
+D1
+~
+~
+0 0 4816
+D3
+~
+~
+0 0 4814
+S
+#4816
+The Plains of Throt~
+The temperature around here is higher than normal, due to the huge
+campfire burning in the corner of the trail.  The grass behind it appears to
+have been trimmed down so as not to catch fire and burn down the entire
+plains.  Roasting on a spit is some sort of beast, slowly cooking and
+marinating in the open flames.  
+~
+0 0 2
+D0
+~
+~
+0 0 4817
+D3
+~
+~
+0 0 4815
+S
+#4817
+The Plains of Throt~
+A very light smell of smoke, coming from the south, reaches your nose. 
+The tall grass and some small butterflies can now be seen more clearly since
+there are very few tents here.  A large tent can be seen off in the distance
+to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 4818
+D2
+~
+~
+0 0 4816
+S
+#4818
+The Plains of Throt~
+On the corner of the trail lies an opened, large blue tent.  Two heavily
+armed hobgoblin guards block the entrance, making it impossible to enter by
+normal means.  On each side of the tent, some bright colored flowers have
+been planted.  At the entrance of the tent, a few stones have been neatly
+stacked, marking some kind of trail.  
+~
+0 0 2
+D1
+~
+~
+0 0 4819
+D2
+~
+~
+0 0 4817
+S
+#4819
+The Plains of Throt~
+Tall grass sways to and fro along the sides of this trail.  Off in the
+distance to the west, a big tent can be seen.  To the east, another tent can
+be seen in the corner.  A slight cool breeze blows by.  
+~
+0 0 2
+D1
+~
+~
+0 0 4820
+D3
+~
+~
+0 0 4818
+S
+#4820
+The Plains of Throt~
+Between the tall grasses, you see a small green tent standing open. 
+Looking inside reveals a sleeping hobgoblin dressed in leather armor.  A
+wooden post has been placed next to the trail that leaves west.  This seems
+to be the entrance of some temporary camp.  
+~
+0 0 2
+E
+tent~
+Inside the green tent, a hobgoblin lies asleep next to a table with a candle.  
+~
+E
+post~
+This wooden post looks to be very old; it looks like it has been here for
+a long time.  
+~
+D0
+~
+~
+0 0 4821
+D3
+~
+~
+0 0 4819
+S
+#4821
+The Plains of Throt~
+The slight cold breeze makes the grass move from side to side, moving in
+a unique way that is almost hypnotic and very relaxing.  To the south, you
+can just make out a green tent camouflaged between the tall grasses.  To the
+east lies a huge tree giving a lot of shade.  
+~
+0 4 2
+D1
+~
+~
+0 0 4822
+D2
+~
+~
+0 0 4820
+S
+#4822
+An Intersection of Throt and the Dargaard Plains~
+A huge apple tree is in the middle of this "T" intersection.  Judging by
+its size, the tree must be really old.  There is a small sign standing near
+the trunk.  A bard is resting under the shade of the tree.  A quick nap
+under the tree seems quite tempting and inviting.  
+~
+0 0 2
+E
+sign~
+/\
+                    /  \
+                   |    |
+           ======================
+           |       NORTH        |
+           |    City of Throt   |
+           ----------------------
+                   |    |
+                   |    |
+                   |    |
+  /================|    |================\
+ / WEST:           |    |EAST:            \
+ \  Plains of Throt|    | Dargaard Plains / 
+  \----------------|    |----------------/
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+                   |    |
+~
+D0
+~
+~
+0 0 4824
+D1
+~
+~
+0 0 4823
+D3
+~
+~
+0 0 4821
+M 50 H 50
+S
+#4823
+Near Dargaard Plains~
+Below you lies a stony road, wide enough for two wagons to easily fit. 
+This road seems very old, yet still flawless.  The surrounding breeze
+carries a sickly-sweet smell of death and decay, filling the air with its
+unnerving pollutants.  Of course, it could always be something else...  To
+the west there is a very large tree.  
+~
+0 0 2
+D1
+~
+~
+0 0 4826
+D3
+~
+~
+0 0 4822
+S
+#4824
+A Stony Road to Throtl~
+Below you lies a stony road, wide enough for two wagons to fit easily. 
+This road seems very old, yet it is still flawless.  Far in the north, you
+see the entrance to the city of Throtl.  A very big tree can be seen to the
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4825
+D2
+~
+~
+0 0 4822
+S
+#4825
+Before the City of Throtl~
+Below you lies a stony road, wide enough for two wagons to fit easily. 
+This road seems very old, yet it is still flawless.  To the north lies the
+entrance to the city of Throtl.  To the far south, a very big tree can be
+seen.  
+~
+0 0 2
+D2
+~
+~
+0 0 4824
+S
+#4826
+A Split Path~
+Below you lies a stony road wide enough for two wagons to easily fit. 
+This road now goes from west to south, making a slight curve.  The
+surrounding breeze carries a sickly-sweet smell of death and decay, filling
+the air with its unnerving pollutants.  Of course, it could always be
+something else...  A less-traveled road heads east, into the mountains.  {x
+
+{x     A sign has been posted here in the dirt.
+~
+0 0 2
+D1
+~
+~
+0 0 4828
+D2
+~
+~
+0 0 4827
+D3
+~
+~
+0 0 4823
+S
+#4827
+Into the Dargaard Plains~
+This road appears to have been handmade, with tightly packed rocks
+beginning to show signs of heavy deterioration.  The tall yellow grass on
+both sides of the road swings violently as the wind blows.  The soil where
+the grass is found is dry and severely cracked.  
+~
+0 4 2
+D0
+~
+~
+0 0 4826
+D2
+~
+~
+0 0 4968
+S
+#4828
+The Dargaard Mountains~
+Right in front of you lies a big steep mountain, but this mountain is not
+full of big green trees with squirrels and birds flying about.  This is the
+feared Dargaard Mountain, home of the undead troops of the great Lord Soth
+himself.  
+~
+0 0 5
+D1
+~
+~
+0 0 4829
+D3
+~
+~
+0 0 4826
+S
+#4829
+The Dargaard Mountains~
+Looking up, you realize that the mountain is even bigger and higher than
+you had first imagined.  You now realize that you are going to do some
+serious climbing.  Below your feet, the black soil is turned almost into
+mud.  
+~
+0 0 5
+D3
+~
+~
+0 0 4828
+D4
+~
+~
+0 0 4830
+S
+#4830
+The Dargaard Mountains~
+After wasting some time and energy conquering a little cliff with mud and
+all sorts of stone and rocks, you look up and realize that the “little
+cliff” was not even one third of the mountain.  To the east, there is some
+type of resting place.  
+~
+0 0 5
+D1
+~
+~
+0 0 4831
+D5
+~
+~
+0 0 4829
+S
+#4831
+The Dargaard Mountains~
+This area of the mountain shows the remains of a firepit in the center of
+some dead logs, probably used as a bench for a small group.  This area may
+have been used for travelers that have unsuccessfully tried to travel the
+entire mountain.  
+~
+0 0 5
+D3
+~
+~
+0 0 4830
+D4
+~
+~
+0 0 4832
+M 10 H 10
+S
+#4832
+On a Steep Rise~
+The walls of this steep rise have an assortment of cracks of all sizes,
+probably caused by the hot sun hitting it all day long.  Using this to your
+advantage, you can easily place your fingers inside these cracks to get a
+better grip to climb the wall.  
+~
+0 0 5
+D4
+~
+~
+0 0 4833
+D5
+~
+~
+0 0 4831
+S
+#4833
+On a Steep Rise~
+The walls of this steep rise have an assortment of cracks of all sizes,
+probably caused by the hot sun hitting it all day long.  Using this to your
+advantage, you can easily place your fingers inside these cracks to get a
+better grip to climb the wall.  
+~
+0 0 5
+D4
+~
+~
+0 0 4834
+D5
+~
+~
+0 0 4832
+S
+#4834
+On a Steep Rise~
+The walls of this steep rise have an assortment of cracks of all sizes,
+probably caused by the hot sun hitting it all day long.  Using this to your
+advantage, you can easily place your fingers inside these cracks to get a
+better grip to climb the wall.  
+~
+0 0 5
+D4
+~
+~
+0 0 4835
+D5
+~
+~
+0 0 4833
+S
+#4835
+The Dargaard Mountains~
+Below you there is the biggest wall on this side of the mountain, it has
+some cracks on it.  Far, far down there is a big tree, some yellow grassy
+plains and some sort of road.  To the east, another tree can be seen; but
+this one is dead.  
+~
+0 4 5
+D1
+~
+~
+0 0 4836
+D5
+~
+~
+0 0 4834
+S
+#4836
+The Dargaard Mountains ~
+There is a heavy smell of death in the air.  Anyone who wishes to
+continue into these mountains must walk very carefully.  You are in the
+Dargaard Mountains; home to undead creatures commanded by the famous Lord
+Soth himself.  To the east, there is a black tree.  
+~
+0 0 5
+D1
+~
+~
+0 0 4838
+D3
+~
+~
+0 0 4835
+S
+#4837
+The Dargaard Plains~
+The soil you are standing on has some cracks and a reddish color.  The
+tall yellow grass on both sides of this road swings violently as the wind
+blows.  The soil where the grass is found is dry and severely cracked.  
+~
+0 0 2
+D1
+~
+~
+0 0 4870
+D3
+~
+~
+0 0 4929
+S
+#4838
+The Dargaard Mountains~
+You are now deep into the Dargaard Mountains.  This land has been claimed
+by Lord Soth himself and is home to his undead troops.  Beneath you there is
+no more dirt; it is now mud due to the heavy rains in this region.  There is
+a big dead tree in front of you.  The smell of death is all around you.  To
+the north, a large cave entrance opens up.  The smell of death flows out
+from within the darkness of the cave, lingering heavy in the air.
+ 
+     A small sign has been posted here, its wood rotten and crumbling.
+~
+0 0 5
+E
+sign~
+A small sign reads:
+
+ 
+Those who shall enter my domain without my permission, shall join the ranks
+of the Undead who serve me.
+ 
+ 
+{x             Lord Soth
+~
+D0
+~
+~
+0 0 14001
+D1
+~
+~
+0 0 4839
+D3
+~
+~
+0 0 4836
+S
+#4839
+The Dargaard Mountains~
+The visibility of this place has been severely reduced, due to heavy fog
+in this part of the mountain.  A tree can barely be seen to the west.  There
+is no way of knowing what lies to the east of where you stand.  The mud
+beneath you is giving you a hard time walking.  
+~
+0 0 5
+D1
+~
+~
+0 0 4840
+D3
+~
+~
+0 0 4838
+S
+#4840
+The Dargaard Mountains~
+The visibility of this place has been severely reduced due to heavy fog
+in this part of the mountain.  There is no way of knowing what lies to the
+east or to the west of where you stand.  The mud beneath you is giving you a
+hard time walking.  A dead shrub almost made you fall.  
+~
+0 0 5
+D1
+~
+~
+0 0 4841
+D3
+~
+~
+0 0 4839
+S
+#4841
+The Dargaard Mountains~
+The visibility of this place has been severely reduced due to heavy fog
+in this part of the mountain.  There is no way of knowing what lies to the
+east or to the west of where you stand.  The mud beneath you is giving you a
+hard time walking.  There is a dead bird on the floor.  
+~
+0 0 5
+E
+bird~
+Yep, it’s a bird all right... And yes, it is dead.
+~
+D1
+~
+~
+0 0 4842
+D3
+~
+~
+0 0 4840
+S
+#4842
+The Dargaard Mountains~
+The visibility of this place has been severely reduced due to heavy fog
+in this part of the mountain.  There is no way of knowing what lies to the
+east of where you stand.  The mud beneath you is giving you a hard time
+walking.  There are big puddles of water all around the mud.  To the west
+the trail starts getting steep.  
+~
+0 0 5
+D1
+~
+~
+0 0 4843
+D3
+~
+~
+0 0 4841
+S
+#4843
+The Dargaard Mountains~
+It is hard to see where you are due to the fog, but this appears to be
+some type of intersection; leading west, where the trail starts descending,
+north into the unknown or up, deep into the heart of the mountain.  There is
+a cliff to the west and an old fraying rope that leads up.  
+~
+0 0 5
+D0
+~
+~
+0 0 4844
+D3
+~
+~
+0 0 4842
+D4
+~
+~
+0 0 4846
+S
+#4844
+A Small Cave~
+This cave is large enough to accommodate about two-dozen fully equipped
+warriors.  A faint rancid smell reaches your nostrils; smells like something
+has been rotting nearby.  Some faint traces of blood can be seen marking the
+walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 4843
+D5
+~
+~
+0 0 4845
+S
+#4845
+Underground Cave~
+This small cave looks like a nesting place for some large creature; a
+rather large pile of bones lies against the north wall.  The smell here is
+not a pleasant one, but rather very rancid.  The only exit seems to be up.  
+~
+0 0 0
+D4
+~
+~
+0 0 4844
+S
+#4846
+The Dargaard Mountains~
+The fog beneath you does not let you see the floor.  This makes you
+wonder how far away the floor really is.  There is no idea what waits for
+you in the upper part of the cliff, nor any idea what lies beneath the dense
+fog.  
+~
+0 0 5
+D4
+~
+~
+0 0 4847
+D5
+~
+~
+0 0 4843
+S
+#4847
+The Dargaard Mountains~
+Looking down, you cannot tell how far down the cliff goes because of the
+fog.  If you dare to wander into the east, you will find yourself deeper
+into the mountain.  The mud is now really thick and your feet sink into the
+dark brown mess.  
+~
+0 0 5
+D1
+~
+~
+0 0 4848
+D5
+~
+~
+0 0 4846
+S
+#4848
+The Dargaard Mountains~
+The main trail has been blocked by a huge boulder; it must have fallen a
+long time ago, since there are dead plants and shrubs all around it.  The
+half-buried corpse of a squirrel protrudes from the mud.  Heavy fog lies to
+the south.  
+~
+0 0 5
+E
+boulder~
+It would be impossible to move this boulder.
+~
+D2
+~
+~
+0 0 4849
+D3
+~
+~
+0 0 4847
+S
+#4849
+The Dargaard Mountains~
+Walking on this part of the Dargaard Mountains is extremely difficult. 
+The heavy fog does not let you see what lies around.  Beneath your feet, the
+deep brown mud has large puddles of water scattered all over what you think
+is the main trail, but there is no way of knowing if you took a wrong turn. 
+~
+0 0 5
+D0
+~
+~
+0 0 4848
+D2
+~
+~
+0 0 4850
+S
+#4850
+The Dargaard Mountains~
+Walking on this part of the Dargaard Mountains is extremely difficult. 
+The heavy fog does not let you see what lies around.  Beneath your feet, the
+deep brown mud has large puddles of water scattered all over what you think
+is the main trail, but there is no way of knowing if you took a wrong turn. 
+~
+0 0 5
+D0
+~
+~
+0 0 4849
+D2
+~
+~
+0 0 4851
+S
+#4851
+The Dargaard Mountains~
+Walking on this part of the Dargaard Mountains is extremely difficult. 
+The heavy fog does not let you see what lies around.  Beneath your feet, the
+deep brown mud has large puddles of water scattered all over what you think
+is the main trail, but there is no way of knowing if you took a wrong turn. 
+~
+0 0 5
+D0
+~
+~
+0 0 4850
+D2
+~
+~
+0 0 4852
+S
+#4852
+The Dargaard Mountains~
+Walking on this part of the Dargaard Mountains is extremely difficult. 
+The heavy fog does not let you see what lies around.  Beneath your feet, the
+deep brown mud has large puddles of water scattered all over what you think
+is the main trail, but there is no way of knowing if you took a wrong turn. 
+To the east, you can barely make out a small dark hole in the rock...  
+~
+0 0 5
+D0
+~
+~
+0 0 4851
+D1
+~
+~
+0 0 4969
+D2
+~
+~
+0 0 4853
+S
+#4853
+The Dargaard Mountains~
+The trail now takes a slight curve, turning west and north into the heavy
+fog.  On the southeastern part of the trail lies the skeleton of some
+long-forgotten warrior.  The skeleton has no head, but still wears its
+armor.  Maybe he was slain trying to complete a quest of some sort...  
+~
+0 0 5
+D0
+~
+~
+0 0 4852
+D3
+~
+~
+0 0 4854
+S
+#4854
+The Dargaard Mountains~
+The trail now goes from east to west.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D1
+~
+~
+0 0 4853
+D3
+~
+~
+0 0 4855
+S
+#4855
+The Dargaard Mountains~
+The trail now goes from east to west.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D1
+~
+~
+0 0 4854
+D3
+~
+~
+0 0 4856
+S
+#4856
+The Dargaard Mountains~
+The trail now goes from east to west.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D1
+~
+~
+0 0 4855
+D3
+~
+~
+0 0 4857
+S
+#4857
+The Dargaard Mountains~
+The trail now goes from east to west.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D1
+~
+~
+0 0 4856
+D3
+~
+~
+0 0 4858
+S
+#4858
+The Dargaard Mountains~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant rains and
+humidity on these mountains, but for some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading down and a
+trail going even deeper into the mountains to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 4857
+D5
+~
+~
+0 0 4859
+S
+#4859
+The Dargaard Mountains~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant rains and
+humidity on these mountains, but for some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading up and a
+trail exiting the mountains to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 4860
+D4
+~
+~
+0 0 4858
+S
+#4860
+The Dargaard Mountains~
+The trail now goes from north to south.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D0
+~
+~
+0 0 4859
+D1
+~
+~
+0 0 19000
+D2
+~
+~
+0 0 4861
+S
+#4861
+The Dargaard Mountains~
+The trail now goes from north to south.  Looking around, you notice that
+you are surrounded by some type of forest; the only problem being that all
+the trees and shrubs here are dead.  Walking through the mud is getting
+really annoying...  
+~
+0 0 5
+D0
+~
+~
+0 0 4860
+D2
+~
+~
+0 0 4862
+S
+#4862
+A steep ledge~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant rains and
+humidity on these mountains, but for some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading down and a
+trail going even deeper into the mountains to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 4861
+D5
+~
+~
+0 0 4863
+S
+#4863
+The Dargaard Mountains~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant rains and
+humidity on these mountains, but for some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading up and a
+trail exiting the mountains to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 4864
+D4
+~
+~
+0 0 4862
+S
+#4864
+A steep ledge~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant heavy
+rains and humidity on these mountains, but some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading down and a
+trail going deeper into the mountains to the west.  
+~
+0 0 5
+D3
+~
+~
+0 0 4863
+D5
+~
+~
+0 0 4865
+S
+#4865
+The Dargaard Mountains~
+The mud below has a dark brown color, looks like a really fertile mud. 
+Any plant could easily grow big and strong because of the constant heavy
+rains and humidity on these mountains, but some unknown reason the trees and
+plants here are all dead.  There is a small rocky path leading up and a
+trail exiting the mountain to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 4866
+D4
+~
+~
+0 0 4864
+S
+#4866
+The Dargaard Mountains~
+The trail leads north into the Dargaard Mountains.  Looking around, you
+notice that you are surrounded by some type of forest; the only problem
+being that all the trees and shrubs here are dead.  The dirt below your feet
+has a dark brown color and is beginning to turn into mud.  
+~
+0 0 5
+D0
+~
+~
+0 0 4865
+D2
+~
+~
+0 0 4867
+S
+#4867
+The Dargaard Mountains~
+The trail leads north into the Dargaard Mountains.  Looking around, you
+notice that you are surrounded by some type of forest; the only problem
+being that all the trees and shrubs here are dead.  The dirt below your feet
+has a dark brown color and is beginning to turn into mud.  
+~
+0 0 5
+D0
+~
+~
+0 0 4866
+D2
+~
+~
+0 0 4868
+S
+#4868
+Into the Dargaard Mountains~
+In front of you lie some big steep mountains, but these mountains are not
+full of big green trees with squirrels and birds flying about, it is full of
+dead trees, fog and mud.  This is the feared Dargaard Mountain range, home
+to the undead troops of the great Lord Soth himself.  
+~
+0 4 5
+D0
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4869
+S
+#4869
+A split path~
+A simple white road starts here and leaves south.  This road is not
+traveled much, maybe because of the evil lands in this area.  To the west,
+the troops of the Dark Queen have infested the once beautiful Dargaard
+Plains.  To the north, the Dargaard Mountains can be seen; this is where the
+undead troops of Lord Soth rest.  
+~
+0 0 2
+D0
+~
+~
+0 0 4868
+D2
+~
+~
+0 0 4871
+D3
+~
+~
+0 0 4870
+S
+#4870
+Into the Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 4 2
+D1
+~
+~
+0 0 4869
+D3
+~
+~
+0 0 4837
+S
+#4871
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4869
+D1
+~
+~
+0 0 4872
+S
+#4872
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4873
+D3
+~
+~
+0 0 4871
+S
+#4873
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4874
+D3
+~
+~
+0 0 4872
+S
+#4874
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4875
+D3
+~
+~
+0 0 4873
+S
+#4875
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4876
+D3
+~
+~
+0 0 4874
+S
+#4876
+An Intersection in the Trail~
+The trail splits up here, leading north, south and west.  As odd as this
+place already is, winds are blowing in down the trails from the north and
+west, both at the same time.  Yet there are no winds coming from the south;
+perhaps it's some kind of ward to stay away from the trails leading north
+and west.  
+~
+0 0 5
+D0
+~
+~
+0 0 4879
+D2
+~
+~
+0 0 4877
+D3
+~
+~
+0 0 4875
+S
+#4877
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4876
+D2
+~
+~
+0 0 4878
+S
+#4878
+Before the Western Gates of Sanction~
+The City of Sanction will be coming!  So, someday when you walk over
+here, there will be a great big city in your way.  Please be patient.  
+~
+0 0 4
+D0
+~
+~
+0 0 4877
+D1
+~
+~
+0 0 14201
+S
+#4879
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4880
+D2
+~
+~
+0 0 4876
+S
+#4880
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4881
+D2
+~
+~
+0 0 4879
+S
+#4881
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4882
+D2
+~
+~
+0 0 4880
+S
+#4882
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4883
+D2
+~
+~
+0 0 4881
+S
+#4883
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4882
+D3
+~
+~
+0 0 4884
+S
+#4884
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4883
+D3
+~
+~
+0 0 4885
+S
+#4885
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4886
+D1
+~
+~
+0 0 4884
+S
+#4886
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4887
+D2
+~
+~
+0 0 4885
+S
+#4887
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4888
+D3
+~
+~
+0 0 4886
+S
+#4888
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4889
+D3
+~
+~
+0 0 4887
+S
+#4889
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4890
+D3
+~
+~
+0 0 4888
+S
+#4890
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4891
+D2
+~
+~
+0 0 4889
+S
+#4891
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4890
+D3
+~
+~
+0 0 4892
+S
+#4892
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4891
+D3
+~
+~
+0 0 4893
+S
+#4893
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4894
+D1
+~
+~
+0 0 4892
+S
+#4894
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4895
+D2
+~
+~
+0 0 4893
+S
+#4895
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4896
+D2
+~
+~
+0 0 4894
+S
+#4896
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4897
+D2
+~
+~
+0 0 4895
+S
+#4897
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4898
+D3
+~
+~
+0 0 4896
+S
+#4898
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4899
+D3
+~
+~
+0 0 4897
+S
+#4899
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4900
+D2
+~
+~
+0 0 4898
+S
+#4900
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4901
+D2
+~
+~
+0 0 4899
+S
+#4901
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4902
+D2
+~
+~
+0 0 4900
+S
+#4902
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4901
+D3
+~
+~
+0 0 4903
+S
+#4903
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4904
+S
+#4904
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4905
+D1
+~
+~
+0 0 4903
+S
+#4905
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4906
+S
+#4906
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4907
+D1
+~
+~
+0 0 4905
+S
+#4907
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4908
+D2
+~
+~
+0 0 4906
+S
+#4908
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4909
+D2
+~
+~
+0 0 4907
+S
+#4909
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4910
+D2
+~
+~
+0 0 4908
+S
+#4910
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4911
+D3
+~
+~
+0 0 4909
+S
+#4911
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4912
+D3
+~
+~
+0 0 4910
+S
+#4912
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4911
+D1
+~
+~
+0 0 4913
+S
+#4913
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4914
+D3
+~
+~
+0 0 4912
+S
+#4914
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4915
+D3
+~
+~
+0 0 4913
+S
+#4915
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4916
+D2
+~
+~
+0 0 4914
+S
+#4916
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D2
+~
+~
+0 0 4915
+D3
+~
+~
+0 0 4917
+S
+#4917
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4916
+D3
+~
+~
+0 0 4918
+S
+#4918
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4917
+D3
+~
+~
+0 0 4919
+S
+#4919
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4920
+D1
+~
+~
+0 0 4918
+S
+#4920
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4921
+D2
+~
+~
+0 0 4919
+S
+#4921
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4922
+D3
+~
+~
+0 0 4920
+S
+#4922
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4923
+D3
+~
+~
+0 0 4921
+S
+#4923
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4924
+D2
+~
+~
+0 0 4922
+S
+#4924
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D0
+~
+~
+0 0 4925
+D3
+~
+~
+0 0 4923
+S
+#4925
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4926
+D2
+~
+~
+0 0 4924
+S
+#4926
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 5
+D1
+~
+~
+0 0 4927
+D3
+~
+~
+0 0 4925
+S
+#4927
+Dargaard Trail~
+The sounds of wildlife are scarce in this region.  It is rumored that
+many travelers have come down this trail, but never arrive at their
+destination.  This trail has been nicknamed 'The Road to the Abyss', by many
+local residents of Sanction.  The soil you are standing on has some cracks
+and has a reddish color.  The tall yellow grass on both sides of this road
+swings violently as the wind blows.  The soil where the grass is found is
+dry and severely cracked.  
+~
+0 0 0
+D1
+~
+~
+0 0 4928
+D3
+~
+~
+0 0 4926
+S
+#4928
+Near the City of Neraka~
+The smell of something or someone dead fills the air, nearly choking you.
+To the south, lies the great evil city of Neraka.  The outer part of the
+city is in shambles.  It is said to be a graveyard, a hideout for the
+Dragonarmies of Takhisis.  To the west, a trail leads on through the
+Dargaard Plains, away from the dark city of Neraka.  Heading south will take
+you into the heart of evil.  
+~
+0 0 5
+D2
+~
+~
+0 0 11000
+D3
+~
+~
+0 0 4927
+S
+#4929
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D1
+~
+~
+0 0 4837
+D2
+~
+~
+0 0 4930
+S
+#4930
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D0
+~
+~
+0 0 4929
+D2
+~
+~
+0 0 4931
+S
+#4931
+The Dargaard Plains~
+On the reddish dirt there is a black crescent, obviously a sign of the
+dark queen, Takhisis.  Maybe someone has proclaimed this land in her name. 
+It would be wise to walk carefully through these plains.  There is no way of
+knowing what dangers exist ahead.  
+~
+0 0 2
+D0
+~
+~
+0 0 4930
+D3
+~
+~
+0 0 4932
+S
+#4932
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D1
+~
+~
+0 0 4931
+D3
+~
+~
+0 0 4933
+S
+#4933
+The Dargaard Plains~
+The trail of reddish soil now heads east to west, the trail itself very
+small; a chariot would have trouble passing through here.  The yellow grass
+on both sides of the trail is not letting you see what is beyond them.  A
+yellow tent is perfectly camouflaged between the grass.  
+~
+0 0 2
+E
+tent~
+You can barely see this perfectly camouflaged tent; it is closed.
+~
+D1
+~
+~
+0 0 4932
+D3
+~
+~
+0 0 4934
+S
+#4934
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D1
+~
+~
+0 0 4933
+D3
+~
+~
+0 0 4935
+S
+#4935
+The Dargaard Plains~
+The trail of reddish soil trail now heads from north to east, the trail
+itself very small; a chariot would have trouble passing through here.  Some
+giggling noises can be heard between the tall yellow grasses.  You see some
+humanoid figures spying on you and moving through the grass.  
+~
+0 0 2
+D0
+~
+~
+0 0 4936
+D1
+~
+~
+0 0 4934
+S
+#4936
+The Dargaard Plains~
+This seems to be some sort of playground.  Some old toys have been thrown
+all over the place.  A drawing made on a large stone in the east part of the
+trail draws your attention; it is a drawing of a flawless black crescent,
+perhaps made by a very talented hobgoblin infant.  
+~
+0 0 2
+D0
+~
+~
+0 0 4937
+D2
+~
+~
+0 0 4935
+S
+#4937
+The Dargaard Plains~
+This seems to be some sort of playground.  Some broken old toys have been
+thrown all over the place.  Little rocks are scattered around the trail. 
+Some old leather armor has been discarded here; it smells horrible.  
+~
+0 0 2
+D0
+~
+~
+0 0 4938
+D2
+~
+~
+0 0 4936
+S
+#4938
+The Dargaard Plains~
+A closed navy blue tent lies to the west of this trail.  To the east
+stands some type of small castle made of mud and rocks, perhaps by a
+hobgoblin infant.  
+~
+0 0 2
+D0
+~
+~
+0 0 4939
+D2
+~
+~
+0 0 4937
+S
+#4939
+The Dargaard Plains~
+A bright red tent stands to the west side of the trail; to the other
+side, a yellow tent.  To the north, you see the path take a curve to the
+west.  More tents lie to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4940
+D2
+~
+~
+0 0 4938
+S
+#4940
+The Dargaard Plains~
+The trail takes another small curve here.  The tall yellow grasses that
+surround you create a natural barrier, making it impossible to look beyond
+them.  There is a good chance that you are not even halfway out of these
+plains.  To the south lie a few tents.  
+~
+0 0 2
+D2
+~
+~
+0 0 4939
+D3
+~
+~
+0 0 4941
+S
+#4941
+The Dargaard Plains~
+The trail of reddish soil trail now heads from east to west, the trail
+itself very small; a chariot would have trouble passing through here.  The
+yellow grasses on both sides of the trail are not letting you see what is
+beyond them.  
+~
+0 0 2
+D1
+~
+~
+0 0 4940
+D3
+~
+~
+0 0 4942
+S
+#4942
+The Dargaard Plains~
+You walk carefully across a very small wooden bridge made for a humanoid
+to pass.  Below the bridge there is a dried out river, now nothing more than
+a big pile of dried mud and dead fish.  
+~
+0 0 2
+D1
+~
+~
+0 0 4941
+D3
+~
+~
+0 0 4943
+S
+#4943
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D1
+~
+~
+0 0 4942
+D3
+~
+~
+0 0 4944
+S
+#4944
+The Dargaard Plains~
+You now find yourself deep in the Dargaard Plains.  You have traveled so
+far into the plains that you do not know which way is which anymore; this
+trail is not well traveled.  The trail now goes from east to west.  There is
+a dark green tent to the south, tightly closed.  
+~
+0 0 2
+E
+tent~
+The dark green tent is closed.
+~
+D1
+~
+~
+0 0 4943
+D3
+~
+~
+0 0 4945
+S
+#4945
+The Dargaard Plains~
+The dirt trail now takes a small curve.  You can hear some noises through
+the grass; perhaps from another trail behind the tall yellow grass, but
+there is no way of knowing what produces these sounds.  The trail continues
+to the north and to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 4946
+D1
+~
+~
+0 0 4944
+S
+#4946
+The Dargaard Plains~
+The reddish soil trail has been obstructed by large rocks and stones that
+have been piled here, creating a chest-high barricade of sorts.  Some sort
+of banner has been draped across the barricade, bearing ancient black runes.
+There must be something important to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 4947
+D2
+~
+~
+0 0 4945
+S
+#4947
+The Dargaard Plains~
+A long black table has been placed along the west side of the trail; on
+the east, a pile of logs.  This part of the trail must be used for gathering
+hobgoblins and giving out orders.  
+~
+0 0 2
+E
+table~
+A large map of Palanthas rests on the table, a red circle drawn around the temple of Mishakal.
+~
+D0
+~
+~
+0 0 4948
+D2
+~
+~
+0 0 4946
+S
+#4948
+The Dargaard Plains~
+The reddish soil trail has been obstructed by large rocks and stones that
+have been piled here, creating a chest-high barricade of sorts.  Some sort
+of banner has been draped across the barricade, bearing ancient black runes.
+There must be something important to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4949
+D2
+~
+~
+0 0 4947
+S
+#4949
+The Dargaard Plains~
+The trail of reddish soil now heads from north to south, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grass on both sides of the trail is not letting you see what is beyond. 
+There is something giving off light to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 4950
+D2
+~
+~
+0 0 4948
+S
+#4950
+The Dargaard Plains~
+The reddish soil trail widens as you encounter a burning campfire in the
+middle of the trail.  Much of the surrounding grass is now black, having
+been scorched by stamped-out cinders.  
+~
+0 0 2
+D0
+~
+~
+0 0 4951
+D2
+~
+~
+0 0 4949
+S
+#4951
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+A white tent stands to the north, while from the south something is giving
+off light and smoke.  
+~
+0 0 2
+D0
+~
+~
+0 0 4952
+D2
+~
+~
+0 0 4950
+S
+#4952
+The Dargaard Plains~
+The trail now goes from south to west.  There is a pearl-white tent to
+the north side of the trail, camouflaged between the tall yellow grasses and
+bearing the symbol of a black crescent.  Looking inside, you notice a number
+of corpses piled inside.  The smell here is horrible.  
+~
+0 0 2
+D2
+~
+~
+0 0 4951
+D3
+~
+~
+0 0 4953
+S
+#4953
+The Dargaard Plains~
+The trail of reddish soil now heads from east to west, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grasses on both sides of the trail are not letting you see what is beyond
+them.  
+~
+0 0 2
+D1
+~
+~
+0 0 4952
+D3
+~
+~
+0 0 4954
+S
+#4954
+The Dargaard Plains~
+The tall yellow grass here has been cut low in the shape of a circle. 
+Inside the circle are several large wooden tables.  This is definitely where
+the hobgoblins eat.  The smell here is horrible.  
+~
+0 0 2
+E
+tables~
+These large tables have the sign of the Dark Queen, a black crescent.
+~
+D0
+~
+~
+0 0 4955
+D1
+~
+~
+0 0 4953
+S
+#4955
+The Dargaard Plains~
+The trail of reddish soil now heads from north to south, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grasses on both sides of the trail are not letting you see what is beyond
+them.  There is a wooden structure to the north, and some big tables to the
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4956
+D2
+~
+~
+0 0 4954
+S
+#4956
+The Dargaard Plains~
+The trail now goes from east to south.  To the west of the trail stands a
+wooden building with no roof; the building itself is almost destroyed. 
+Inside the ruins, you can see a dozen hobgoblins sleeping on the floor.  It
+would be wise to stay quiet.  
+~
+0 0 2
+D1
+~
+~
+0 0 4957
+D2
+~
+~
+0 0 4955
+S
+#4957
+The Dargaard Plains~
+The soil you are standing on has some cracks and has a reddish color. 
+The tall yellow grass on both sides of this road swings violently as the
+wind blows.  The soil where the grass is found is dry and severely cracked. 
+~
+0 0 2
+D1
+~
+~
+0 0 4958
+D3
+~
+~
+0 0 4956
+S
+#4958
+The Dargaard Plains~
+The trail of reddish soil now heads from north to west.  There is a big
+red tent to the southeast.  It is tightly closed; you wonder what is inside.
+Looks like it is the tent of some important warrior.  
+~
+0 0 2
+D0
+~
+~
+0 0 4959
+D3
+~
+~
+0 0 4957
+S
+#4959
+The Dargaard Plains~
+The trail of reddish soil now heads from north to south, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grasses on both sides of the trail are not letting you see what is beyond
+them.  There is a big red tent to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 4960
+D2
+~
+~
+0 0 4958
+S
+#4960
+The Dargaard Plains~
+The trail of reddish soil now heads from north to south, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grasses on both sides of the trail are not letting you see what is beyond
+them.  
+~
+0 0 2
+D0
+~
+~
+0 0 4961
+D2
+~
+~
+0 0 4959
+S
+#4961
+The Dargaard Plains~
+The trail of reddish soil now heads from north to south, the trail itself
+very small; a chariot would have trouble passing through here.  The yellow
+grasses on both sides of the trail are not letting you see what is beyond
+them.  
+~
+0 0 2
+D0
+~
+~
+0 0 4962
+D2
+~
+~
+0 0 4960
+S
+#4962
+The Dargaard Plains~
+On the reddish dirt there is a black crescent, obviously a sign of the
+dark queen, Takhisis.  Maybe someone has proclaimed this land in her name. 
+It would be wise to walk carefully through these plains.  There is no way of
+knowing what dangers exist ahead.  
+~
+0 0 2
+D0
+~
+~
+0 0 4963
+D2
+~
+~
+0 0 4961
+S
+#4963
+The Dargaard Plains~
+This stony road used to continue east; now it has been blocked by several
+large tree trunks.  You have no idea what lies to the east, or why someone
+planted large tree trunks there.  The only exits are to the west or to the
+south.  
+~
+0 0 2
+E
+large~
+Large tree trunks block the path to the east.
+~
+E
+trunk~
+Large tree trunks block the path to the east.
+~
+E
+tree~
+Large tree trunks block the path to the east.
+~
+D2
+~
+~
+0 0 4962
+D3
+~
+~
+0 0 4964
+S
+#4964
+The Dargaard Plains~
+The stony road continues west and east.  This handmade road has now
+become little more than pieces of rock.  Tall yellow grass swings violently
+as the wind blows.  The soil where the grass is found is dry and severely
+cracked.  
+~
+0 0 2
+D1
+~
+~
+0 0 4963
+D3
+~
+~
+0 0 4965
+S
+#4965
+The Dargaard Plains~
+The stony road continues west and east.  This handmade road has now
+become little more than pieces of rock.  Tall yellow grass swings violently
+as the wind blows.  The soil where the grass is found is dry and severely
+cracked.  
+~
+0 0 2
+D1
+~
+~
+0 0 4964
+D3
+~
+~
+0 0 4966
+S
+#4966
+The Dargaard Plains~
+This road appears to have been handmade, its tightly packed rocks
+beginning to show signs of heavy deterioration.  The tall yellow grass on
+both sides of this road swings violently as the wind blows.  The soil where
+the grass is found is dry and severely cracked.  
+~
+0 0 2
+D1
+~
+~
+0 0 4965
+D3
+~
+~
+0 0 4967
+S
+#4967
+The Dargaard Plains~
+This road appears to have been handmade, and heads from north to east. 
+The road was constructed with tightly packed rocks that have begun to show
+signs of heavy deterioration.  The tall yellow grass on both sides of this
+road swings violently as the wind blows.  The soil where the grass is found
+is dry and severely cracked.  
+~
+0 0 2
+D0
+~
+~
+0 0 4968
+D1
+~
+~
+0 0 4966
+S
+#4968
+The Dargaard Plains~
+This road appears to have been handmade, its tightly packed rocks
+beginning to show signs of heavy deterioration.  The tall yellow grass on
+both sides of this road swings violently as the wind blows.  The soil where
+the grass is found is dry and severely cracked.  
+~
+0 0 2
+D0
+~
+~
+0 0 4827
+D2
+~
+~
+0 0 4967
+S
+#4969
+A Hidden Shrine of Chemosh~
+This small, dark cave is filled with the stench of decay.  Stagnant water
+trickles down the walls and collects in pools on the floor.  The ground is
+littered with remnants of dark rituals, bits of rotting carcasses lying
+scattered amongst half-melted candles and pools of dried blood.  A crumbling
+altar decorated with the symbol of a yellow skull rests against the far
+wall.  Signs of recent use suggest that this hidden shrine is home to secret
+worshippers of the dark god Chemosh, lord of the undead.  
+~
+0 8388620 28
+D3
+~
+~
+0 0 4852
+S
+#0
+
+
+
+#SPECIALS
+M 4814 spec_rloader
+M 4853 spec_cast_cleric
+M 4869 spec_cast_mage
+M 4948 spec_thief
+M 4952 spec_cast_mage
+M 4960 spec_thief
+S
+
+
+
+#RESETS
+M 0 4803 5 4803 5
+M 0 4803 5 4807 5
+M 0 4811 2 4811 2
+E 0 4811 0 5
+E 0 4812 0 8
+M 0 4812 3 4812 3
+M 0 4813 1 4813 1
+M 0 4815 1 4814 1
+E 0 4815 0 20
+M 0 4814 3 4814 2
+E 0 4814 0 5
+M 0 4812 1 4815 1
+O 0 4816 0 4816
+M 0 4816 1 4816 1
+E 0 4817 0 5
+M 0 4812 3 4817 3
+M 0 4818 1 4818 1
+M 0 4812 3 4819 3
+M 0 4811 2 4820 2
+E 0 4811 0 5
+E 0 4812 0 8
+O 0 4822 0 4822
+P 0 4821 100 4822 50
+M 0 4822 1 4822 1
+E 0 4820 0 21
+O 0 4828 0 4826
+O 0 4826 0 4826
+O 0 4833 0 4833
+M 0 4837 2 4837 1
+M 0 4838 1 4838 1
+O 0 4838 0 4838
+M 0 4840 20 4840 20
+M 0 4841 20 4841 20
+E 0 4841 0 20
+M 0 4842 15 4842 15
+E 0 4842 0 20
+M 0 4841 10 4843 10
+E 0 4841 0 16
+M 0 4845 1 4845 1
+M 0 4840 20 4846 20
+M 0 4842 15 4848 15
+E 0 4842 0 20
+M 0 4841 10 4849 10
+E 0 4841 0 20
+M 0 4842 15 4850 15
+E 0 4842 0 20
+M 0 4841 10 4851 10
+E 0 4841 0 20
+M 0 4840 20 4852 20
+M 0 4853 1 4853 1
+E 0 4853 0 20
+M 0 4840 20 4854 20
+M 0 4841 10 4855 10
+E 0 4841 0 20
+O 0 4856 0 4856
+M 0 4842 15 4856 15
+E 0 4842 0 20
+M 0 4840 20 4857 20
+M 0 4858 1 4858 1
+M 0 4842 15 4859 15
+E 0 4842 0 20
+M 0 4841 10 4860 10
+E 0 4841 0 20
+M 0 4842 15 4861 15
+E 0 4842 0 20
+M 0 4841 20 4862 20
+E 0 4841 0 20
+M 0 4840 20 4863 20
+M 0 4842 15 4865 15
+E 0 4842 0 20
+M 0 4841 20 4866 20
+E 0 4841 0 20
+M 0 4869 1 4869 1
+M 0 4962 4 4931 4
+E 0 4962 0 1
+E 0 4963 0 20
+E 0 4961 0 23
+M 0 4960 35 4932 35
+E 0 4961 0 23
+M 0 4960 35 4933 35
+E 0 4961 0 23
+M 0 4960 35 4934 35
+E 0 4961 0 23
+M 0 4960 35 4935 35
+E 0 4961 0 23
+M 0 4939 3 4935 3
+M 0 4960 35 4936 35
+E 0 4961 0 23
+M 0 4938 2 4936 2
+M 0 4960 35 4937 35
+E 0 4961 0 23
+M 0 4939 3 4937 3
+M 0 4960 35 4938 35
+E 0 4961 0 23
+M 0 4938 2 4938 2
+M 0 4960 35 4939 35
+E 0 4961 0 23
+M 0 4939 3 4939 3
+M 0 4960 35 4940 35
+E 0 4961 0 23
+M 0 4960 35 4941 35
+E 0 4961 0 23
+M 0 4960 35 4942 35
+E 0 4961 0 23
+M 0 4960 35 4943 35
+E 0 4961 0 23
+M 0 4960 35 4944 35
+E 0 4961 0 23
+M 0 4944 1 4944 1
+E 0 4944 0 23
+M 0 4960 35 4945 35
+E 0 4961 0 23
+M 0 4948 2 4946 2
+E 0 4948 0 20
+E 0 4944 0 23
+M 0 4960 35 4946 35
+E 0 4961 0 23
+M 0 4947 1 4947 1
+E 0 4944 0 23
+E 0 4947 0 20
+M 0 4948 2 4948 2
+E 0 4948 0 20
+E 0 4944 0 23
+M 0 4960 35 4948 35
+E 0 4961 0 23
+M 0 4960 35 4949 35
+E 0 4961 0 23
+O 0 4816 0 4950
+M 0 4960 35 4951 35
+E 0 4961 0 23
+M 0 4952 1 4952 1
+E 0 4952 0 5
+E 0 4944 0 19
+M 0 4960 35 4953 35
+E 0 4961 0 23
+M 0 4960 35 4954 35
+E 0 4961 0 23
+M 0 4960 35 4955 35
+E 0 4961 0 23
+M 0 4960 35 4956 35
+E 0 4961 0 23
+M 0 4960 35 4957 35
+E 0 4961 0 23
+M 0 4958 1 4958 1
+E 0 4944 0 23
+M 0 4960 35 4959 35
+E 0 4961 0 23
+O 0 4960 0 4960
+M 0 4960 35 4960 35
+E 0 4961 0 23
+M 0 4960 35 4961 35
+E 0 4961 0 23
+M 0 4962 4 4962 4
+E 0 4962 0 1
+E 0 4963 0 20
+E 0 4961 0 23
+M 0 4837 2 4968 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4821
+say Greetings, $n.
+say I have a proposition for you!  Give me 100 gold coins and I will take you out of these lands.
+~
+#4822
+bow $n
+ say Welcome to my beloved tree, $n.
+ say Allow me to introduce myself... I am Dal, the bard.
+ mob echoat $n $I sits down and continues to sing.
+ say You can rest in the shade of this tree if you wish.
+~
+#4838
+mob echoat $n $I stares at you.
+~
+#4869
+say Very well.  Now I will get you out of here.
+MOB TRANSFER $n 9416
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

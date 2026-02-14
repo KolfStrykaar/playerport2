@@ -1,0 +1,980 @@
+#PLAYER
+Name Huginn~
+Surname Ravenwing~
+MaskedIp ~
+Lokprot ~
+Email gt3viper@hotmail.com~
+Id   1261960051
+LogO 1421223156
+Vers 10
+Act  CDEFGLQT
+Desc {bA young elf is here, standing perhaps five and a half feet in height.
+He holds a lithe and toned build, his skin marked with days of battle
+with scars, each held proudly. While appearing delicate, he stands
+proudly and confidently. He looks at the world through eyes of {Bdark azure{b,
+and they glisten with magical prowess and a {Ddarkness{b of unknown origin.
+His {Wpale{b skin stands in contrast to his eyes and hair. His {Dblack{b hair,
+flecked with {Bblue{b, flows to his shoulder blades, hanging loosely.
+His ears hold multiple symmetrical hoops of {Dblack{b. His body is
+adorned with {rcrimson{b tribal and mystical tattoos, each performing a
+different meaning and function. He wears his attire in layers, partially
+weighing him down, and yet, providing more means of protection. About his
+body is a {D{w{Dblack velvet{b{b{b robe, with {rred{b runes of power and protection sewn
+into the hems. A {Dblackened{b medallion of faith hangs from his neck openly.
+Over this, he wears his {Dblack{b chain mail hauberk that stretches down to
+his knees, and the sleeves end at his elbows. Over his forearms he wears
+{Dblackened{b bracers, etched in runes of protection and stylized with thorns,
+each holding a {rruby{b set into the metal. His hands are adorned with {Dblack{b
+leather gauntlets, with the tips of his fingers cut out to allow him to grab
+spell components and still retain flexibility to ply his craft. His feet are
+covered in soft {Dblack{b leather boots in the elven fashion. Over this, he
+wears an {washen{b cloth robe that is open in the middle, showing off his
+chain armor, but strapped down to a belt that is around his waist, used to
+hold spell components, keeping his chain mail tight to his body. A
+{Dblackened{b, thorned pauldron settles on his left shoulder, attached by a
+leather strap to his belt, running through a slit in his heavier, outermost
+robe. Over his right shoulder extends the hilt of a bastard sword, and in his
+right hand he wields a spear, made of a {Dblack{b wood, with a gleaming {Csilver{b
+blade, and a {Csilver{b claw holding a small {rruby{b in the bottom. A spellbook
+is strapped to him, and settles along his left hip, ready for quick access
+should he need it. Over his head, and attached to his outer most robe is a hood
+that keeps him concealed from the elements. He has a large {Dblackened{b round
+shield to accompany the rest of his armor.{x
+~
+Prom {r%h/%Hhp {B%m/%Mmp {g%v/%Vmv %B{X ~
+Race qualinesti~
+Org 4
+Devotee 16
+Sex  1
+Cla  0
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 1198850
+Not  1420281656 1395959842 0 1410808993 1298827134
+Scro 22
+Room 11620
+HMV  3186 3186 1902 1902 885 885
+Steel 4316
+Gold 159465
+Bank 5000
+Exp  16259300
+AfBy DJT
+Deaths 8
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2097152
+Comm NO
+Pos  8
+Prac 9
+Save  -62
+Alig  -1000
+Ethos 2
+Hit   70
+Dam   64
+ACs -491 -501 -494 -495
+Wimp  200
+Attr 15 29 25 13 18 16
+AMod 18 5 6 21 9 5
+Pass HuVJmfPcecOG6~
+Titl  - {DKnight{x of the {rThorn{x~
+Pretit Sir{x~
+Pnts 10
+TSex 1
+LLev 172
+HMVP 2041 1037 735
+Cnd  0 32 32 0
+QuestPnts 92
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 001 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt ({DKnight{x of the {rThorn{x):{D~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'burning hands'
+Sk 100 'chill touch'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'enchant weapon'
+Sk 100 'fireball'
+Sk 100 'levitate'
+Sk 75 'orb of containment'
+Sk 100 'giant strength'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'magic missile'
+Sk 100 'shocking grasp'
+Sk 100 'teleport'
+Sk 86 'word of recall'
+Sk 100 'dagger'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 80 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 87 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'mount'
+Sk 100 'cantrip'
+Sk 100 'iceblast'
+Sk 100 'blade barrier'
+Sk 100 'flyingswords'
+Sk 81 'brew'
+Sk 92 'scribe'
+Sk 100 'battle tactics'
+Sk 100 'battlestaff'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'knock'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 94 'scrolls'
+Sk 77 'staves'
+Sk 75 'wands'
+Sk 75 'recall'
+Sk 70 'battlecry'
+Sk 70 'backup'
+Sk 100 'mounted combat'
+Sk 100 'sweep attack'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 70 'riposte'
+Sk 100 'evade'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 77 'eyerub'
+Sk 100 'instruct'
+Sk 75 'heroic demise'
+Sk 100 'endure disease'
+Sk 100 'joust'
+Sk 75 'shatter shield'
+Sk 75 'arrow deflection'
+Sk 100 'shrink'
+Sk 100 'clear thoughts'
+Sk 100 'lock'
+Sk 100 'battletide'
+Affc 'levitate'   0  87  48   0   0     524288
+Affc 'giant strength'   0  82  21   4   1          0
+Affc 'detect invis'   0  82  16   0   0          8
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name blackened earrrings~
+ShD  {DBlackened{x Earrings~
+Desc A set of multiple blackened hoops all lay here, ready to be inserted into ears.~
+Cond 97
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 3818
+Nest 0
+Name Fingerless Leather Gauntlets~
+ShD  Fingerless {DLeather{x Gauntlets~
+Desc A set of black leather gauntlets, modified to be removed of their fingertips, rest on the ground.~
+ExtF 262144
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5833
+Nest 0
+Name chain hauberk~
+ShD  a {DBlack{X Chain Mail Hauberk~
+Desc A fine chain mail hauberk, blackened to prevent shine, is here collecting dirt.~
+ExtF 262144
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name black robe battlemage ~
+ShD  {DBlack{x Robes of the {rBattlemage{x~
+Desc A set of black velvet robes, trimmed runes of protection and power, rests here neatly.~
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 3048
+Nest 0
+Name thorn robe~
+ShD  ({rRuned{X) Grey Robes of the {rThorn{X~
+Desc A set of neatly folded robes of grey rests here, bearing arcane runes.~
+ExtF 262144
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name thorn spur~
+ShD  a {rThorn {DKnight's{x Spur~
+Desc Spurs, designed to be attached to boots for either horseback or dragonback riding, are hear, etched with thorns.~
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name thorn spur~
+ShD  a {rThorn {DKnight's{x Spur~
+Desc Spurs, designed to be attached to boots for either horseback or dragonback riding, are hear, etched with thorns.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer thorns blackened~
+ShD  a {DBlackened{x Bracer of {rThorns{x~
+Desc A blackened metal bracer is here, etched with red vines and thorns.~
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer thorn~
+ShD  a {DBlackened{x Bracer of {rThorns{x~
+Desc A blackened metal bracer is here, etched with red vines and thorns.~
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring raven~
+ShD  Ring of the {DRaven{X~
+Desc A blackened ring, with swirls of dark blue, rests here, with an intricate raven engraved upon it.~
+ExtF 16777280
+Cond 99
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring thorns~
+ShD  Ring of {rThorns{X~
+Desc A blackened ring of service, etched with vines and thorns of red, lies here.~
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name tooled leather belt~
+ShD  a Tooled {DLeather{x Belt~
+Desc A black leather belt, tooled and designed to contain spell reagents, is here. ~
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 5617
+Nest 0
+Name elven leggings~
+ShD  {rElven{x {DLeather{x Leggings~
+Desc A set of black leather leggings, trimmed in the Elven fashion, await to be used to protect their owner.~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Name Elven Leather Boots~
+ShD  {rElven{D Leather{x Boots~
+Desc A set of black leather boots, trimmed in the Elven fashion, rests here in the dust.~
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 1673
+Nest 0
+Name medallion faith~
+ShD  a Medallion of {DFaith{X~
+Desc A blackened medallion rests here, bearing the symbol of the five-headed Dragon Queen.~
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 2912
+Nest 0
+Name blackened pauldron~
+ShD  ({yTooled{x) a {DBlackened{x Pauldron~
+Desc A blackened pauldron and leather belt rest here, tooled and modified to hold many items and weapons.~
+Cond 96
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 11196
+Nest 1
+Cond 100
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 11195
+Nest 1
+Cond 100
+Wear -1
+Cost 89
+End
+
+#O
+Vnum 11194
+Nest 1
+Cond 100
+Wear -1
+Cost 79
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Name aura power~
+ShD  a {DDark{X Aura of {rPower{X~
+Desc A pulsing mystical aura, emanating power, is here.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Name souls ascendency~
+ShD  {DSouls{x of {rAscendency{x ~
+Desc Captured souls of battles long forgotten float hear, demonstrating the ascension of their owner.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name blackened round shield~
+ShD  a Large {DBlackened{x Round Shield~
+Desc A large shield, blackened and dull, has settled here covered in dirt. ~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Name chained trimmed black leather spellbook~
+ShD  ({DChained{x) ({rTrimmed{x) a {DBlack Leather{x Spellbook~
+Desc A black leather spellbook, bound and trimmed in red, is here, waiting to be chained to its owner.~
+Cond 98
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 2979
+Nest 0
+Cond 97
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name blackened chain mail sleeves~
+ShD  {DBlackened{x Chain Mail Sleeves~
+Desc A set of blackened chain mail sleeves lies here upon the ground.~
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 1911
+Nest 0
+Name hood thorn~
+ShD  A Grey Hood of the {rThorn{x~
+Desc A hood of grey, bearing arcane runes, rests here in the dust~
+ExtF 17039680
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 10877
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

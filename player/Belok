@@ -1,0 +1,359 @@
+#PLAYER
+Name Belok~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1367677330
+LogO 1386116823
+Vers 10
+Act  CDGQe
+Desc An old, wisened elf stands before you. At approximately five and a half
+feet and 150 stones, this elf is average for normal standards. From the
+top, the elf's hair is a blend of whitish gray, waving down to his
+shoulders. An old, wrinkled, wisened face peers at you, teeming with ages
+of knowledge, his gray eyes appear to look into your very being.
+The elf's forhead and face are full of wrinkles, the skin slightly sagging
+with signs of age. A tribal tattoo of the Kagonesti Tribes adorns all of
+the elf's face - Forehead, cheeks, nose, and throat. The elf appears to be
+wearing little - A suit made of vines and leaves which flicker as a breeze
+passes by. The leaves are green and healthy, almost as if they're still
+alive. He carries a simple walking staff, upon which he leans heavily.
+~
+Prom <%h/%Hhp %m/%Mm %v/%Vmv>%f ~
+Race kagonesti~
+Org 8
+Devotee 11
+Sex  1
+Cla  7
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1792350
+Sec  0
+Plyd 64389
+Not  1385665594 1382804331 0 1385266552 1367678720
+Scro 22
+Room 3005
+HMV  3283 3283 3273 3313 1983 1983
+Steel 4
+Gold 1499
+Bank 100000
+Exp  24388700
+AfBy J
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NOQcd
+Pos  8
+Prac 1850
+Trai 60
+Save  -16
+Alig  70
+Ethos 1
+Hit   5
+Dam   9
+ACs 6 4 -10 35
+Wimp  18
+Attr 13 30 34 15 32 16
+AMod 4 7 19 9 14 0
+Pass BexwZpP0OgZHQ~
+Titl  the Hero of the Wild Places~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 12
+HMVP 3263 3313 1983
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias cg c earthmeld~
+Alias ooc say OOC:~
+Sk 1 'create rose'
+Sk 1 'fireproof'
+Sk 1 'orb of containment'
+Sk 1 'life transfer'
+Sk 1 'storm of vengeance'
+Sk 1 'teleport'
+Sk 1 'dagger'
+Sk 16 'shield block'
+Sk 1 'spear'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 75 'dodge'
+Sk 2 'enhanced damage'
+Sk 1 'envenom'
+Sk 10 'hand to hand'
+Sk 25 'kick'
+Sk 1 'parry'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'sharpen'
+Sk 1 'deathgrip'
+Sk 1 'mount'
+Sk 1 'badberry'
+Sk 1 'goodberry'
+Sk 1 'breath of nature'
+Sk 1 'druidstaff'
+Sk 100 'earthmeld'
+Sk 77 'windspirit'
+Sk 75 'stonespirit'
+Sk 1 'summon insects'
+Sk 75 'natures embrace'
+Sk 75 'natures warmth'
+Sk 1 'pillify'
+Sk 1 'herbal discern'
+Sk 75 'bark skin'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'drow tongue'
+Sk 100 'kagonesti tongue'
+Sk 9 'lore'
+Sk 1 'pick lock'
+Sk 100 'sneak'
+Sk 23 'scrolls'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'pass without trace'
+Sk 1 'purify'
+Sk 1 'jab'
+Sk 1 'sweep attack'
+Sk 1 'vermin plague'
+Sk 1 'vortex'
+Sk 1 'detect presence'
+Sk 1 'scout'
+Sk 1 'sticks to snakes'
+Sk 71 'quiet movement'
+Sk 1 'surge'
+Sk 48 'endure'
+Sk 40 'sparkshot'
+Sk 1 'sunray'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 1 'trance'
+Sk 1 'waterlungs'
+Sk 1 'fireseed'
+Sk 75 'immolation'
+Sk 75 'pine needles'
+Sk 40 'staff'
+Sk 1 'eyerub'
+Sk 94 'wrath of nature'
+Sk 100 'instruct'
+Sk 70 'eagle eye'
+Sk 1 'call of the wild'
+Sk 3 'tame'
+Sk 1 'entangle'
+Sk 79 'plant growth'
+Sk 100 'treeform'
+Sk 60 'quicksand'
+Sk 1 'windtalk'
+Sk 1 'wilderness lore'
+Sk 75 'beastspite'
+Affc 'windspirit'   0 100 100   3   2          0
+Affc 'endure'   0 100  24  -4  25          0
+Affc 'stonespirit'   0 100  98   3   5          0
+End
+
+#O
+Vnum 1252
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 14909
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 14910
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure light'
+Spell 2 'cure light'
+Spell 3 'cure poison'
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 1814
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 370 0 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3367
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

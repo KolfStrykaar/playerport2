@@ -1,0 +1,808 @@
+#PLAYER
+Name Slavimir~
+Surname Kiralv~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1351294784
+LogO 1415536562
+Vers 10
+Act  CDGHTe
+Desc {DCat-like eyes of the brightest {Bblue{D peer from the pallid face of
+this tiny creature. He is particularly boyish looking, perhaps even at a
+stunted adolescence, and the unnatural pupils of his eyes show that
+innocence has been tainted by complicated magics. Deep black hair falls
+from his scalp in waves and curls, nearly to the middle of his back. His
+elongated, pointed ears display elven lineage -- but they are longer than
+the norm, almost animated in their movements... reflecting emotions better
+than his normally stoic face.
+
+{DVelvet robes that glisten with runes and energy resemble the night's sky
+in their appearance. They are almost ridiculously oversized, trailing
+against the ground and hiding away his tiny frame. His sleeves fall well
+past his ungloved hands, the drapes of which nearly touch the ground as
+well. If his fingers were to be shown, a ring of a {Wdiamond skull{D
+holding a {gemerald-stemmed{r ruby rose{D in its teeth would be apparent
+-- perhaps a family signet.
+
+He does not appear to have a staff, though an ornate wand is visible --
+kept close by a silk sash about his waist. The wand is crooked, charred to
+a black palette, fashioned in a morbid image of a fleshless snake. No
+other weapon is visible on the boy's person. Nevertheless, if
+uncomfortable enough, a hand would doubtlessly move to touch at the
+artifact.
+
+The boy has a particular scent of incense and colognes, as though he was
+descended from a particularly noble or wealthy lineage. Obviously, of
+mages, for one who appears to be so young to be so well versed in the
+arcane -- unless, of course, his apparent youth was the result of a spell
+gone wrong. Whatever the case, he is an oddity. {x
+~
+Prom <%hhp %mm %vmv> ~
+Race silvanesti~
+Org 2
+Devotee 20
+Sex  1
+Cla  14
+Hmtown 0
+Levl 40
+recall_point 3001
+Levscale 30
+Xptolev  4974
+Sec  0
+Plyd 234552
+Not  1404619055 1404619060 0 1404619056 1404619057
+Scro 22
+Room 15284
+HMV  760 760 714 714 339 339
+Steel 6695
+Gold 8856
+Bank 0
+Exp  230276
+AfBy J
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4128768
+Comm MNOQ
+Pos  8
+Prac 42
+Trai 2
+Save  -2
+Alig  -450
+Ethos 0
+ACs 33 23 13 81
+Wimp  80
+Attr 11 27 23 13 25 16
+AMod 0 8 15 7 10 0
+Pass SldlLfGTAyl3Y~
+Titl  the Conjurer~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 24
+HMVP 610 614 339
+Cnd  0 63 42 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 100 'burning hands'
+Sk 75 'call lightning'
+Sk 70 'change sex'
+Sk 75 'control weather'
+Sk 75 'create food'
+Sk 76 'create spring'
+Sk 81 'create water'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 75 'incendiary cloud'
+Sk 75 'glitterdust'
+Sk 1 'orb of containment'
+Sk 80 'gate'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 94 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 1 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 75 'summon'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 85 'dagger'
+Sk 1 'whip'
+Sk 75 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'convoke swarm'
+Sk 1 'traject'
+Sk 75 'mount'
+Sk 1 'wind wall'
+Sk 75 'gust of wind'
+Sk 1 'unseen servant'
+Sk 1 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 76 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'cloak of starlight'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'mooncloak'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 76 'rabbit summon'
+Sk 1 'thunderclap'
+Sk 79 'trance'
+Sk 75 'alarm'
+Sk 70 'gift'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 380
+Val  0 0 165 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 98
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 540
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 3
+Cost 710
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 468
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 920
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1208
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 960
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1140
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1350
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 17715
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17714
+Nest 0
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 1270
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 17713
+Nest 0
+Cond 99
+Wear 20
+Cost 550
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 172 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 108 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Name elixir ivory bubbling~
+ShD  ({CBubbling{X) an {WIvory{x elixir~
+Desc An ivory elixir lies here, inscribed with runes of a magical nature.~
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#END

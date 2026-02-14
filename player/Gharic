@@ -1,0 +1,1345 @@
+#PLAYER
+Name Gharic~
+Surname Yancy~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1335844362
+LogO 1412713716
+Vers 10
+Act  DFGHLQRT
+Desc Looming here before you is that of a tall half-elven man.  Long black
+hair seems to role down and around his oval shaped head, while two pointed
+ears burst forth on both sides.  Green eyes peer out from above a small
+slender nose, while a set of pink chapped lips are almost always curved into
+a constant smirk.  From what one can tell from beneath his robes he appears
+to be well-built.  
+~
+Backg Fuck bitches get money!  One of Gharic's many lessons in life.
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Devotee 6
+Sex  1
+Cla  4
+Hmtown 2
+Levl 100
+recall_point 2659
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 470422
+Not  1373745301 0 0 0 0
+Scro 22
+Room 2659
+HMV  2777 2777 1755 1755 844 844
+Steel 93607
+Gold 84309
+Bank 0
+Exp  16259300
+AfBy JO
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 655360
+Comm NOQY
+Pos  8
+Save  -69
+Alig  1000
+Ethos 1
+Hit   65
+Dam   63
+ACs -416 -420 -421 -370
+Attr 18 15 16 18 16 30
+AMod 14 4 3 13 3 9
+Pass GhXPQQ5HPjjpI~
+Titl  - {WGuardian{x of {CSolace{x~
+Pretit Sheriff{x~
+Pnts 8
+TSex 1
+LLev 43
+HMVP 2012 1005 694
+Cnd  0 10 45 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 75 'dispel magic'
+Sk 81 'summon'
+Sk 85 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 51 'shield block'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 21 'disarm'
+Sk 76 'dodge'
+Sk 1 'enhanced damage'
+Sk 6 'hand to hand'
+Sk 88 'kick'
+Sk 82 'parry'
+Sk 31 'trip'
+Sk 19 'second attack'
+Sk 47 'counter'
+Sk 75 'deathgrip'
+Sk 16 'dual wield'
+Sk 89 'play music'
+Sk 39 'mount'
+Sk 75 'battle tactics'
+Sk 5 'wear chain'
+Sk 1 'wear leather'
+Sk 96 'fast healing'
+Sk 22 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 70 'lore'
+Sk 77 'sneak'
+Sk 70 'scrolls'
+Sk 50 'recall'
+Sk 77 'chant of battle'
+Sk 80 'chords of dissonance'
+Sk 75 'tumble'
+Sk 21 'trammel'
+Sk 75 'serenade'
+Sk 75 'taunt'
+Sk 75 'bravado'
+Sk 61 'lull'
+Sk 75 'pacify'
+Sk 61 'redirect'
+Sk 75 'acrobatics'
+Sk 75 'rally'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 75 'singing'
+Sk 61 'dancing strike'
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3346
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 10967
+Nest 1
+Name swirling black flmes mask~
+ShD  Swirling {DBlack {rFlames{x~
+Cond 83
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({yUsed{x) A {DMake Over{x coupon~
+Desc Good for 15 more restrings, Chemosh!~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 11020
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from the {Bhigh {Gcommander{x's hide~
+Desc A bag of fine the {Bhigh {Gcommander{x hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  35
+Cost 5300
+Val  1060 1 -1 100 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1764
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 14004
+Nest 0
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 0
+Cond 100
+Wear -1
+Cost 1455
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14005
+Nest 0
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 0
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 0
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14003
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 17558
+Nest 0
+Name copper bracer~
+ShD  a {ycopper{x bracer~
+Desc A copper bracer bearing the symbol of the mantis rests here before you.~
+ExtF 262152
+Cond 88
+Wear 19
+Cost 250000
+Val  43 44 44 46 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name copper bracer~
+ShD  a {ycopper{x bracer~
+Desc A copper bracer bearing the symbol of the mantis rests here before you.~
+ExtF 262152
+Cond 88
+Wear 18
+Cost 250000
+Val  43 44 44 46 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name iron skullcap~
+ShD  an iron skullcap~
+Desc A large and heavy-looking iron skullcap lies upside down.~
+ExtF2 2
+WeaF 268435473
+Ityp 9
+Wt   9
+Cond 100
+Mat  iron~
+Wear 6
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 1202
+Nest 0
+Name lyre knowledge copper~
+ShD  ({yCopper{x) a {WLyre{x of {DKnowledge{x~
+Desc A lyre bearing the symbol of knowledge lies here carelessly on the ground.~
+Cond 100
+Wear 21
+Cost 800
+End
+
+#O
+Vnum 12267
+Nest 0
+Name wooden sword~
+ShD  a {ywooden{x sword~
+Desc A short wooden sword rests here upon the ground before you.~
+ExtF 16777544
+Cond 100
+Wear 20
+Cost 4710
+End
+
+#O
+Vnum 16453
+Nest 0
+Name tattoo open book~
+ShD  a tattoo of a open book~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1242
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll nightmare~
+ShD  a scroll of nightmare~
+Cond 100
+Wear -1
+Lev  71
+Cost 152
+Val  35 158 -1 -1 0
+Spell 1 'nightmare'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#END

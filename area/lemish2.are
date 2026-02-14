@@ -1,0 +1,2088 @@
+#AREADATA
+Name lemish2~
+Builders Chemosh~
+VNUMs 700 850
+Credits Chemosh~
+Security 9
+End
+
+
+
+#MOBILES
+#741
+black sheep~
+a Black Sheep~
+A Black Sheep stands here, munching on some grass.
+~
+A black fur coat is about all you notice about this sheep.  Although,
+looking more closely, there's something different about it that you can't
+seem to place your finger on.  
+~
+fido~
+AB V 0 0
+40 40 81d13+405 40d10+85 13d3+25 none
+-17 -17 -17 -9
+CEFOR I P C
+stand stand none 120
+ABGV ACDEFHJKQV M unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#700
+Outside the Main Gate~
+You are standing outside the main gates of the small town of Lemish
+The knights of Takhisis patrol the area with a sharp eye, questioning
+anyone they feel like bothering.
+~
+0 4 4
+D0
+~
+~
+0 0 701
+S
+#701
+Inside the Main Gate~
+The archs of the gate a low and off to the side a dark knight check point
+A knight stand there with a ledger logging who comes into and leaves the
+small town.
+~
+0 262144 0
+D0
+~
+~
+0 0 702
+D2
+~
+~
+0 0 700
+D3
+~
+~
+0 0 703
+S
+#702
+Inside Lemish~
+You are standing inside the main gate of Lemish, Knights clad in dark
+armor patrol the streets.  The road continues to the north and to the
+northeast.  You are standing just inside the main gates of lemish.  Knights
+clad in dark armor patrol the streets.  You are in a major intersection,
+three streets branch out before you.  One to the north, one to the west, and
+one to the east.  
+~
+0 262144 0
+D0
+~
+~
+0 0 704
+D1
+~
+~
+0 0 706
+D2
+~
+~
+0 0 701
+D3
+~
+~
+0 0 709
+S
+#703
+Guard House~
+You are standing in the middle of the guard house, off to one side is a
+small holding cell for people awaiting transport to the city jail.  The Head
+guard sits at his desk ignoring the pleas for release from his victims 
+~
+0 0 0
+D1
+~
+~
+0 0 701
+S
+#704
+Main Street~
+This small street heads north and south. Small houses and huts surround
+you. People continue to go about their business, while trying to ignore
+the dark knights as they give there neighbors a hard time.
+~
+0 0 0
+D1
+~
+~
+0 0 705
+D2
+~
+~
+0 0 702
+S
+#705
+Main Street~
+This small street heads north and south.  Small houses and huts are on
+either side of you.  Peope try to go about their business without attracting
+unwanted attention of the dark knights patrolling the street 
+~
+0 0 0
+D0
+~
+~
+0 0 720
+D3
+~
+~
+0 0 704
+S
+#706
+Guard Way~
+As you walk along the street, you notice that there are very few people. 
+You see a pair of knights walking with their hands on their sword hilts.  A
+rather large building looms before you, Knights mill about chatting about
+things they have seen.  You suddenly realize that this is the street leading
+to the knights headquarters.  
+~
+0 0 0
+D1
+~
+~
+0 0 707
+D3
+~
+~
+0 0 702
+S
+#707
+Guard Way~
+Knights mill about here relaxing and talking about their exploits they
+eye you, pondering if they should come and bother you.  They obviously
+decide that it is not worth theri effort, thy turn back to their
+conversation 
+~
+0 0 0
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 706
+S
+#708
+Guard Way~
+You are standing before the offices of the Knights of Takhisis.  There
+are knights all over the place.  The road conintues to the east, The main
+doors of the offices are to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 715
+D1
+~
+~
+0 0 714
+D3
+~
+~
+0 0 707
+S
+#709
+Sunset Street~
+You are heading up a side street, small huts are on either side of you. 
+People hurry quickly to their destination, hoping to avoid the knights of
+takhisis.  
+~
+0 0 0
+D0
+~
+~
+0 0 710
+D1
+~
+~
+0 0 702
+S
+#710
+Sunset Street~
+Traveling along this side street the crowd thins out, less knights can be
+seen.  Birds begin to sing, Every now and then you can see a knight walk
+down the street on patrol.  
+~
+0 0 0
+D0
+~
+~
+0 0 711
+D2
+~
+~
+0 0 709
+S
+#711
+Sunset Street~
+The road begins to bend around a corner.  People hustle and bustle around
+you, childern play in the street with their friends.  Merchants pull their
+carts to the north heading to do business 
+~
+0 0 0
+D2
+~
+~
+0 0 710
+D3
+~
+~
+0 0 712
+S
+#712
+Sunset Street~
+The road continues north around a small bend.  In the distance you can
+seea Large intersection, Small carts line the side of the street with
+merchants selling their wares.  
+~
+0 0 0
+D0
+~
+~
+0 0 713
+D1
+~
+~
+0 0 711
+S
+#713
+A Large Intersection~
+You are standing in a large intersection, to the north and south runs
+Sunset Street, to the west lays the forges of The weponsmith and armorer,
+they smells of their forges hang heavy in the air, to the east is Center
+street, the street running through the center of the town.  
+~
+0 0 0
+D0
+~
+~
+0 0 765
+D1
+~
+~
+0 0 748
+D2
+~
+~
+0 0 712
+D3
+~
+~
+0 0 745
+S
+#714
+Guard Way~
+You are past the offices of the Knights, however their presence is still
+felt heavily, here a knight stands watch, a group of them stand to the side
+of the road drilling.  Off in the distance you see the ouline of the slave
+market.  
+~
+0 0 0
+D1
+~
+~
+0 0 716
+D3
+~
+~
+0 0 708
+S
+#715
+A Large Intersection~
+You come to a large intersection, Here Center street and Market street
+combine into Center Market square.  The buildings are all run down.  A lot
+of the merchants decided to leave town when the dark knights came, here and
+there you see people scurrying about the shadows. 
+~
+0 0 0
+D2
+~
+~
+0 0 722
+D3
+~
+~
+0 0 744
+S
+#716
+Behind the Slave Market~
+You are standing behind a large building, You see a door, there is a man
+overseeing the delivery of fresh slaves to the slave market.  The road turns
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 717
+D1
+~
+~
+1 0 719
+D3
+~
+~
+0 0 714
+S
+#717
+Slave Way~
+Traveling north and south is slave way various wagon chains and slave
+drivers are here milling about preping their best slaves for display 
+~
+0 0 0
+D0
+~
+~
+0 0 718
+D2
+~
+~
+0 0 716
+S
+#718
+Slave Way~
+You are walking on slave way, all over the place is slave wagons, and
+wagons with cages of slaves on them.  The steet continues to the north,
+slave drivers lounge around drinking, and discussing how much money they
+will bring in on the morrow.  
+~
+0 0 0
+D0
+~
+~
+0 0 723
+D2
+~
+~
+0 0 717
+S
+#719
+Back Door to The Slave Market~
+You are standing at the back door of the slave market.  Near you to the
+east is the slave pit where the slaves are held in waiting to be shown on
+stage Guards stand at either side of the door watching slave masters go
+aobut their business 
+~
+0 0 0
+D1
+~
+~
+0 0 833
+D3
+~
+~
+1 0 716
+S
+#720
+Main Street~
+Main street heads to the north, small houses are on either side of you. 
+People try to go about their business without attracting unwanted attention
+of the dark knights patrolling the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 721
+D2
+~
+~
+0 0 705
+S
+#721
+A Large Intersection~
+You are standing at a large intersecion the road travels to the north,
+east, and to the south 
+Iw ill add onto it after I have street names
+~
+0 0 0
+D0
+~
+~
+0 0 738
+D1
+~
+~
+0 0 730
+D2
+~
+~
+0 0 720
+S
+#722
+Market Street~
+You are standing on market street small booths and shops line both sides,
+people walk around doing their daily business fretfully aware of the knights
+in dark armor watching their every move 
+~
+0 0 0
+D0
+~
+~
+0 0 715
+D1
+~
+~
+0 0 788
+D2
+~
+~
+0 0 724
+S
+#723
+A Four Way Intersection~
+You are standing at a four way intersection, to the north Market street
+begins, to the east slave way continues.  Beggars sit on the street corners,
+and knights clad in dark armor patroll slave's way.  
+~
+0 0 0
+D0
+~
+~
+0 0 724
+D1
+~
+~
+0 0 726
+D2
+~
+~
+0 0 718
+D3
+~
+~
+0 0 725
+S
+#724
+Market Street~
+You are standing on Market street.  It heads north and south.  People
+walk around looking at various things on sale.  
+~
+0 0 0
+D0
+~
+~
+0 0 722
+D2
+~
+~
+0 0 723
+S
+#725
+A Hidden Alley~
+The alley is dark and dank, the smell of rotting food fills the air with
+its stench.  You begin to wonder how people can live in an environment like
+this.  
+~
+0 0 0
+D1
+~
+~
+0 0 723
+D3
+~
+~
+0 0 730
+S
+#726
+Slave Way~
+Slaves way heads east and west here, in the near distance to the east you
+can see the great enterance to the slave market, already wealthy people are
+lining up to enter and get a preview of the slaves up for auction.  
+~
+0 0 0
+D1
+~
+~
+0 0 727
+D3
+~
+~
+0 0 723
+S
+#727
+Before the Great Slave Market~
+Before the Great Slave market of Lemish, Wealthy people stand in line to
+purchase their entry to the market.  Several knights dressed in cerimonial
+armor guard the door keeping an ever watchful eye out for trouble makers.  
+~
+0 0 0
+D1
+~
+~
+0 0 728
+D2
+~
+~
+1 0 737
+D3
+~
+~
+0 0 726
+S
+#728
+Slave Way~
+People are heading towards the slave market.  Wealthy people in their
+entourage take up the majority of the street.  Knights watch the proceedings
+with visual boredom.  
+~
+0 0 0
+D1
+~
+~
+0 0 729
+D3
+~
+~
+0 0 727
+S
+#729
+A Large Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 789
+D1
+~
+~
+0 0 773
+D2
+~
+~
+0 0 733
+D3
+~
+~
+0 0 728
+S
+#730
+A Hidden Alley~
+You stand in a small alley running betwwen the buildings it heads east to
+west.  Trash lines the ground, and it stinks so bad you worry that it might
+not wash off your cloths 
+~
+0 0 0
+D1
+~
+~
+0 0 725
+D3
+~
+~
+0 0 721
+S
+#731
+Slave Way~
+~
+0 0 0
+D0
+~
+~
+0 0 732
+S
+#732
+Slave Way~
+~
+0 0 0
+D0
+~
+~
+0 0 733
+D1
+~
+~
+0 0 734
+D2
+~
+~
+0 0 731
+S
+#733
+Slave Way~
+~
+0 0 0
+D0
+~
+~
+0 0 729
+D1
+~
+~
+0 0 735
+D2
+~
+~
+0 0 732
+S
+#734
+A Small Market~
+You are standing at the south end of a small market near the slave
+market.  Around you are vendor peddling their wares to wealthy patrons who
+are waiting to place bids on slaves.  
+~
+0 0 0
+D0
+~
+~
+0 0 735
+D3
+~
+~
+0 0 732
+S
+#735
+A Small Market~
+You are in the Northern part of a small Market, nearby to the west a line
+begins to form as wealthy merchants and lords head to the slave market to
+purchase their servants.  
+~
+0 0 0
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 734
+D3
+~
+~
+0 0 733
+S
+#736
+A Small Market~
+The east side of the Market is quiet, few peddlers remain here, Off to
+the west there is more noise and action, as it gets closer to the slave
+market.  
+~
+0 0 0
+D0
+~
+~
+0 0 772
+D3
+~
+~
+0 0 735
+S
+#737
+Inside the slave market~
+~
+0 0 0
+D0
+~
+~
+1 0 727
+D2
+~
+~
+0 0 831
+S
+#738
+Main Street~
+~
+0 0 0
+D0
+~
+~
+0 0 739
+D2
+~
+~
+0 0 721
+S
+#739
+Main Street~
+~
+0 0 0
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 738
+S
+#740
+Main Street~
+~
+0 0 0
+D0
+~
+~
+0 0 741
+D3
+~
+~
+0 0 739
+S
+#741
+The intersection of Main and Center Street~
+~
+0 0 0
+D0
+~
+~
+0 0 752
+D1
+~
+~
+0 0 742
+D2
+~
+~
+0 0 740
+S
+#742
+Center street~
+~
+0 0 0
+D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 741
+S
+#743
+Center Street, South entrance to the Lord's Mansion~
+~
+0 0 0
+D0
+~
+~
+1 0 753
+D1
+~
+~
+0 0 744
+D3
+~
+~
+0 0 742
+S
+#744
+Center street~
+~
+0 0 0
+D1
+~
+~
+0 0 715
+D3
+~
+~
+0 0 743
+S
+#745
+A Dead End Alley~
+You are standing near the outside wall of Lemish.  The street stops at
+the wall.  To the north is an armor shoppe, to the south, is the weapons
+smith.  There are several guards standing around watching intently stopping
+those they don't like 
+~
+0 0 0
+D0
+~
+~
+0 0 747
+D1
+~
+~
+0 0 713
+D2
+~
+~
+0 0 746
+S
+#746
+Lukas, The Weaponsmith~
+You are standing in the display room of the world reknown weaponsmith
+Lukas.  Unlike most businesses Lukas has prospered by the occupation of
+Lemish, the Dark knights require a lot of weapons and pay him well for his
+work.
+ 
+He looks up from his forge and smiles '{gWhat may I help you with?{x'
+~
+0 0 0
+D0
+~
+~
+0 0 745
+S
+#747
+Topaz, The Armorer~
+The smeel of molten metal is heavy in the air.  Topaz stands at his
+counter ready to show you his latest works.  Hanging on the wall is
+breatplate and chain mail all up for sale.  
+~
+0 0 0
+D2
+~
+~
+0 0 745
+S
+#748
+Center Street~
+~
+0 0 0
+D1
+~
+~
+0 0 749
+D3
+~
+~
+0 0 713
+S
+#749
+Center Street, Before the Knights Main Barracks~
+~
+0 0 0
+D0
+~
+~
+1 0 750
+D1
+~
+~
+0 0 751
+D3
+~
+~
+0 0 748
+S
+#750
+Barracks~
+~
+0 0 0
+D2
+~
+~
+1 0 749
+S
+#751
+Center Street~
+~
+0 0 0
+D1
+~
+~
+0 0 752
+D3
+~
+~
+0 0 749
+S
+#752
+Center Street, West entrance to Lord Tyrion's Estate~
+~
+0 0 0
+D0
+~
+~
+0 0 754
+D1
+~
+~
+1 0 756
+D2
+~
+~
+0 0 741
+D3
+~
+~
+0 0 751
+S
+#753
+The Main Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 804
+D2
+~
+~
+1 0 743
+S
+#754
+Main street~
+~
+0 0 0
+D0
+~
+~
+0 0 755
+D2
+~
+~
+0 0 752
+S
+#755
+Main street~
+~
+0 0 0
+D0
+~
+~
+0 0 757
+D1
+~
+~
+0 0 793
+D2
+~
+~
+0 0 754
+S
+#756
+West Foyer, Lord Tyrions Estate.~
+You are standing in the west-side entrance of Lord Tyrion's Estate.  A
+guard stands here checking people in for their appointments.  
+~
+0 0 0
+D1
+~
+~
+0 0 800
+D3
+~
+~
+1 0 752
+S
+#757
+Main street~
+~
+0 0 0
+D0
+~
+~
+0 0 758
+D2
+~
+~
+0 0 755
+S
+#758
+Main street~
+~
+0 0 0
+D0
+~
+~
+0 0 759
+D2
+~
+~
+0 0 757
+S
+#759
+Intersection of Main Street and Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 768
+D2
+~
+~
+0 0 758
+D3
+~
+~
+0 0 760
+S
+#760
+Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 759
+D3
+~
+~
+0 0 761
+S
+#761
+Mourning Avenue, at the Sunset Gate~
+~
+0 0 0
+D1
+~
+~
+0 0 760
+D2
+~
+~
+0 0 764
+D3
+~
+~
+0 0 763
+S
+#762
+Outside Sunset Gate~
+You are standing outside the Sunset gate.  Here you can see some of the
+best sunsets in all of ansalon.  The only problem with this serene picture
+is the gate guards questioning people as they do their business 
+~
+0 0 0
+D2
+~
+~
+0 0 763
+S
+#763
+Inside Sunset Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 762
+D1
+~
+~
+0 0 761
+S
+#764
+Sunset Street~
+~
+0 0 0
+D0
+~
+~
+0 0 761
+D2
+~
+~
+0 0 765
+S
+#765
+Sunset Street~
+~
+0 0 0
+D0
+~
+~
+0 0 764
+D2
+~
+~
+0 0 713
+S
+#766
+unused~
+~
+0 4 0
+S
+#767
+Something I dun kow what yet~
+~
+0 0 0
+D0
+~
+~
+0 0 782
+D3
+~
+~
+0 0 766
+S
+#768
+Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 769
+D3
+~
+~
+0 0 759
+S
+#769
+Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 770
+D3
+~
+~
+0 0 768
+S
+#770
+Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 786
+D3
+~
+~
+0 0 769
+S
+#771
+unused~
+~
+0 4 0
+S
+#772
+Sunrise Street~
+~
+0 0 0
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 736
+D3
+~
+~
+0 0 773
+S
+#773
+Intersection of South Street and Sunrise street.~
+~
+0 0 0
+D0
+~
+~
+0 0 777
+D1
+~
+~
+0 0 772
+D3
+~
+~
+0 0 729
+S
+#774
+Before Sunrise Gate~
+~
+0 0 0
+D1
+~
+~
+0 0 775
+D3
+~
+~
+0 0 772
+S
+#775
+Inside Sunrise Gate~
+You are standing inside a large gate.  Sunrise gate is known throughout
+Ansalon, The crimson and magenta rays of the sun can be seen here rising
+slowly in the early morning.  
+~
+0 0 0
+D1
+~
+~
+0 0 776
+D3
+~
+~
+0 0 774
+S
+#776
+Outside Sunrise Gate~
+You are standing Outside Sunrise gate, This Gate is known through out all
+of Ansalon for its famous views of splended sunrises.  Guards stand about
+waiting for trouble but otherwise its quiet.  
+~
+0 0 0
+D3
+~
+~
+0 0 775
+S
+#777
+South Street~
+~
+0 0 0
+D0
+~
+~
+0 0 778
+D2
+~
+~
+0 0 773
+S
+#778
+South Street~
+~
+0 0 0
+D0
+~
+~
+0 0 779
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 777
+S
+#779
+Intersection of South and a Small side street~
+~
+0 0 0
+D0
+~
+~
+0 0 780
+D2
+~
+~
+0 0 778
+D3
+~
+~
+0 0 795
+S
+#780
+Intersection of South street, and Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 782
+D2
+~
+~
+0 0 779
+D3
+~
+~
+0 0 783
+S
+#781
+Barracks~
+~
+0 0 0
+D3
+~
+~
+0 0 778
+S
+#782
+A Dead End~
+~
+0 0 0
+D2
+~
+~
+0 0 767
+D3
+~
+~
+0 0 780
+S
+#783
+Mourning Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 784
+D1
+~
+~
+0 0 780
+D3
+~
+~
+0 0 785
+S
+#784
+A Small path~
+You are standing on a small path running a short ways to the north, A
+small building is here, a tattered sign hangs above it swaying slightly in
+the wind 
+~
+0 0 0
+D1
+~
+~
+0 0 791
+D2
+~
+~
+0 0 783
+S
+#785
+Mourning Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 783
+D3
+~
+~
+0 0 786
+S
+#786
+Mourning Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 787
+D1
+~
+~
+0 0 785
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 770
+S
+#787
+A small path~
+You are walking along a small, narrow path, weeds have over grown the
+path and its very dark here.  To the west you can hear the moaning of the
+wind as it sweeps through the graveyard.  
+~
+0 0 0
+D2
+~
+~
+0 0 786
+D3
+~
+~
+0 0 792
+S
+#788
+Market street~
+~
+0 0 0
+D1
+~
+~
+0 0 789
+D3
+~
+~
+0 0 722
+S
+#789
+Market street~
+~
+0 0 0
+D2
+~
+~
+0 0 729
+D3
+~
+~
+0 0 788
+S
+#790
+unused~
+~
+0 4 0
+S
+#791
+The Split Silverpieces guild~
+~
+0 0 0
+D3
+~
+~
+0 0 784
+S
+#792
+Graveyard~
+You are standing in a rather large graveyard.  All around you are
+headstones and simply marked graves, here is where the townspeople buried
+their fallen friends and family.  
+~
+0 0 0
+D1
+~
+~
+0 0 787
+S
+#793
+A small side street~
+~
+0 0 0
+D1
+~
+~
+0 0 794
+D3
+~
+~
+0 0 755
+S
+#794
+A Guard Check point~
+~
+0 0 0
+D0
+~
+~
+0 0 799
+D1
+~
+~
+0 0 795
+D2
+~
+~
+0 0 796
+D3
+~
+~
+0 0 793
+S
+#795
+A small side street~
+~
+0 0 0
+D1
+~
+~
+0 0 779
+D3
+~
+~
+0 0 794
+S
+#796
+The Northside enterace to the Mansion~
+~
+0 0 0
+D0
+~
+~
+0 0 794
+S
+#797
+some street~
+~
+0 0 0
+D0
+~
+~
+0 0 786
+D2
+~
+~
+0 0 798
+S
+#798
+south to Trainies barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 797
+D2
+~
+~
+0 0 799
+S
+#799
+Trainies barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 798
+D2
+~
+~
+0 0 794
+S
+#800
+Walkway~
+~
+0 4 0
+D0
+~
+~
+0 0 817
+D1
+~
+~
+0 0 801
+D3
+~
+~
+0 0 756
+S
+#801
+A Long Hallway~
+You walk along a hallway, Along the walls are beautiful murals of long
+ago ages, Pictures of mages battling, Minotaurs, and elves, even a picture
+of what an Irda might have looked like.  
+~
+0 0 0
+D1
+~
+~
+0 0 803
+D3
+~
+~
+0 0 800
+S
+#802
+Before a stairwell~
+~
+0 0 0
+D1
+~
+~
+1 0 821
+D5
+~
+~
+0 0 816
+S
+#803
+A Long Hallway~
+The Murals stop here at this small alcocve in the wall, to the south is a
+door.  
+~
+0 0 0
+D1
+~
+~
+0 0 804
+D2
+~
+~
+1 0 810
+D3
+~
+~
+0 0 801
+S
+#804
+An intersection in the hallway~
+You are standing in the center of a rather large intersection of the
+mansion.  The hallways continues in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 809
+D1
+~
+~
+0 0 805
+D2
+~
+~
+0 0 753
+D3
+~
+~
+0 0 803
+S
+#805
+A long hallway~
+The Hallway continues on to the east and west.  To the north is a small
+door.  
+~
+0 0 0
+D0
+~
+~
+1 0 808
+D1
+~
+~
+0 0 806
+D3
+~
+~
+0 0 804
+S
+#806
+A Bend in the hallway~
+The hallways bends around a corner and continues onward.
+~
+0 0 0
+D0
+~
+~
+0 0 807
+D3
+~
+~
+0 0 805
+S
+#807
+Before the Feasting Room~
+Before you stands a set of double doors, the clink of silverware and
+mumbling voices can be heard faintly 
+~
+0 0 0
+D2
+~
+~
+0 0 806
+D3
+~
+~
+1 0 816
+S
+#808
+A small study~
+~
+0 0 0
+D2
+~
+~
+1 0 805
+S
+#809
+A smaller Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 804
+S
+#810
+The base of the Tower~
+~
+0 0 0
+D0
+~
+~
+1 0 803
+D4
+~
+~
+0 0 811
+S
+#811
+Traveling up the stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 812
+D5
+~
+~
+0 0 810
+S
+#812
+A small landing within the tower.~
+~
+0 0 0
+D2
+~
+~
+0 0 815
+D4
+~
+~
+0 0 813
+D5
+~
+~
+0 0 811
+S
+#813
+Traveling up the stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 814
+D5
+~
+~
+0 0 812
+S
+#814
+The top of the Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 813
+S
+#815
+A look out perch~
+~
+0 0 0
+D0
+~
+~
+0 0 812
+S
+#816
+The Feasting Hall~
+You are standing in the largest hall you have ever seen in your life,
+there are rows of tables filled with food, it sure looks tasty.  It appears
+they are getting ready for some form of party.  
+ 
+Off to the side of the room is a staircase leading to a small landing
+~
+0 0 0
+D1
+~
+~
+1 0 807
+D3
+~
+~
+0 0 818
+D4
+~
+~
+0 0 802
+S
+#817
+Coat room~
+~
+0 0 0
+D2
+~
+~
+0 0 800
+S
+#818
+The Kitchen~
+~
+0 0 0
+D1
+~
+~
+0 0 816
+S
+#819
+A small landing~
+You are standing at the top of a small landing, below you, you can see
+the great feasting hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 822
+D3
+~
+~
+1 0 820
+S
+#820
+A small hallway~
+You are standing in a small hallway, barely large enough for two people
+to fit through, it appears this is where the servents quarters are.  Around
+you are rooms leading to their personal quarters 
+~
+0 0 0
+D1
+~
+~
+1 0 819
+D3
+~
+~
+0 0 821
+S
+#821
+A small hallway~
+This small hallway has the living quarters of the servents that maintain
+the mansion.  
+~
+0 0 0
+D1
+~
+~
+0 0 820
+D3
+~
+~
+1 0 802
+S
+#822
+~
+~
+0 0 0
+D2
+~
+~
+0 0 819
+D3
+~
+~
+0 0 826
+S
+#823
+Another Stairwell~
+~
+0 0 0
+D1
+~
+~
+0 0 825
+D4
+~
+~
+0 0 824
+S
+#824
+The top floor~
+~
+0 0 0
+D0
+~
+~
+1 0 829
+D2
+~
+~
+0 0 827
+D5
+~
+~
+0 0 823
+S
+#825
+A hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 826
+D3
+~
+~
+0 0 823
+S
+#826
+~
+~
+0 0 0
+D1
+~
+~
+0 0 822
+D3
+~
+~
+0 0 825
+S
+#827
+Waiting room~
+~
+0 0 0
+D0
+~
+~
+0 0 824
+D1
+~
+~
+0 0 828
+S
+#828
+The Lords Study~
+~
+0 0 0
+D3
+~
+~
+0 0 827
+S
+#829
+The bedroom~
+~
+0 0 0
+D1
+~
+~
+0 0 830
+D2
+~
+~
+1 0 824
+S
+#830
+The Bedroom~
+~
+0 0 0
+D3
+~
+~
+0 0 829
+S
+#831
+~
+~
+0 0 0
+D0
+~
+~
+0 0 737
+D2
+~
+~
+0 0 834
+D3
+~
+~
+0 0 832
+S
+#832
+~
+~
+0 0 0
+D1
+~
+~
+0 0 831
+D2
+~
+~
+0 0 833
+S
+#833
+~
+~
+0 0 0
+D0
+~
+~
+0 0 832
+D1
+~
+~
+0 0 834
+D3
+~
+~
+0 0 719
+S
+#834
+~
+~
+0 0 0
+D0
+~
+~
+0 0 831
+D3
+~
+~
+0 0 833
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 716 1 1
+D 0 719 3 1
+D 0 727 2 1
+D 0 737 0 1
+D 0 743 0 1
+D 0 749 0 1
+D 0 750 2 1
+D 0 752 1 1
+D 0 753 2 1
+D 0 756 3 1
+D 0 802 1 1
+D 0 803 2 1
+D 0 805 0 1
+D 0 807 3 1
+D 0 808 2 1
+D 0 810 0 1
+D 0 816 1 1
+D 0 819 3 1
+D 0 820 1 1
+D 0 821 3 1
+D 0 824 0 1
+D 0 829 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

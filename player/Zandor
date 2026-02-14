@@ -1,0 +1,1846 @@
+#PLAYER
+Name Zandor~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1407988579
+LogO 1422544131
+Vers 10
+Act  CDEGHQTe
+Desc A strong man stands here dressin in plate mail that is covered by a dark
+tunic.  He has shoulder length blonde hair that he wears in a ponytail. 
+There is no humor within his deep blue eyes.  Hanging from a simple chain
+around his neck is a medallion bearing the visage of the five headed
+chromatic dragon.  
+~
+Prom <{W%h{rhp {W%m{rm {W%v{rmv {W%X{rtnl>{y%B{x ~
+Race human~
+Devotee 16
+Sex  1
+Cla  1
+Hmtown 0
+Levl 87
+recall_point 3001
+Levscale 30
+Xptolev  317750
+Sec  0
+Plyd 985409
+Not  0 0 0 0 0
+Scro 22
+Room 3005
+HMV  2040 2040 1487 1487 800 800
+Steel 1657
+Gold 349263
+Bank 30294
+Exp  6621900
+AfBy2 P
+Deaths 8
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4128768
+Comm NO
+Pos  8
+Prac 27
+Save  -10
+Alig  1000
+Ethos 0
+Hit   14
+Dam   18
+ACs -104 -106 -120 -58
+Attr 15 27 23 13 24 13
+AMod 9 12 15 16 7 5
+Pass ZadkZ86RqIB72~
+Titl  the Cleric of the Blatant~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 254
+HMVP 1695 1082 650
+Cnd  0 63 55 0
+QuestPnts 27
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 1 'blindness'
+Sk 100 'calm'
+Sk 75 'cancellation'
+Sk 100 'cause critical'
+Sk 1 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 98 'cure poison'
+Sk 100 'cure serious'
+Sk 1 'curse'
+Sk 94 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 93 'detect invis'
+Sk 100 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 100 'fireproof'
+Sk 75 'flamestrike'
+Sk 100 'orb of containment'
+Sk 75 'harm'
+Sk 100 'heal'
+Sk 75 'life transfer'
+Sk 1 'holy word'
+Sk 100 'know alignment'
+Sk 75 'mass healing'
+Sk 100 'aid'
+Sk 1 'plague'
+Sk 100 'protection evil'
+Sk 1 'ray of truth'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 76 'word of recall'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 94 'dodge'
+Sk 100 'enhanced damage'
+Sk 7 'hand to hand'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 16 'silence'
+Sk 65 'traject'
+Sk 100 'mount'
+Sk 100 'remove paralysis'
+Sk 100 'undetectable align'
+Sk 100 'repulsion'
+Sk 1 'firestorm'
+Sk 75 'sunbeam'
+Sk 47 'spiritual hammer'
+Sk 100 'pillify'
+Sk 98 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 75 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 75 'wear chain'
+Sk 1 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'meditation'
+Sk 76 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 100 'sate'
+Sk 100 'invigorate'
+Sk 100 'purify'
+Sk 2 'taunt'
+Sk 75 'god fire'
+Sk 1 'wrath'
+Sk 99 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 75 'staff'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 99 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 75 'preach'
+Sk 1 'clear thoughts'
+Sk 100 'black cairn'
+Sk 100 'blessed warmth'
+Sk 95 'blessed watchfulness'
+Sk 75 'relegate'
+Affc 'enlightenment'   6  75  18   3   4      32768
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 97
+Wear 15
+Cost 2500
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 94
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  79
+Cost 790
+Val  16 16 16 12 0
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262144
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 99
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 100
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 1626
+Nest 0
+ExtF 262144
+Cond 98
+Wear 11
+Cost 11505
+End
+
+#O
+Vnum 1854
+Nest 0
+ExtF 262144
+Cond 97
+Wear 16
+Cost 75000
+End
+
+#O
+Vnum 17419
+Nest 0
+Cond 97
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17419
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 16251
+Nest 0
+Cond 97
+Wear 5
+Cost 1000
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3772
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 155 0 0
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 5762
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10975
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1625
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3775
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 1973
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 220
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 3700
+Nest 1
+Cond 97
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 11253
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'identify'
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 5700
+Nest 1
+Name footmans mace~
+ShD  a footmans mace~
+Desc This mace looks like it once belonged to a footman.~
+ExtF 2576
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 47
+Mat  steel~
+Wear -1
+Lev  60
+Cost 600
+Val  4 6 10 37 4
+Affc 'cultural artistry'   0 100  -1  50  13          0
+End
+
+#O
+Vnum 3818
+Nest 1
+ExtF 262152
+Cond 94
+Wear -1
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 3048
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16070
+Nest 1
+ExtF 0
+Cond 49
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 94
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 919
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 2954
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 16
+Wear 20
+Cost 46000
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 9027
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+Val  300 5 0 100 100
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  41
+Cost 0
+Val  41 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from an unseen servant's hide~
+Desc A bag of fine an unseen servant hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  35
+Cost 0
+Val  1060 5 -1 100 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Val  1000 5 0 1000 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  39
+Cost 0
+Val  39 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 1
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 888
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1089
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 915
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 441
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1812
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1540
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 979
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1186
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 451
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1516
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 682
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1046
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 733
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 19007
+Nest 1
+Cond 100
+Wear -1
+Time 1910
+Cost 100000
+Spell 1 'nightmare'
+Spell 2 'fear'
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 24
+Name nightmare~
+LogO 1422544131
+Sex  1
+Levl 20
+HMV  1787 1787 161 161 100 100
+AfBy OSYZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+Save -1
+ACs  -2 -2 -2 4
+Attr 21 19 20 20 22 20
+AMod 0 0 0 0 0 0
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+Affc 'protection good'   0  10  -1  -1  20      16384
+End
+#END

@@ -1,0 +1,561 @@
+#AREADATA
+Name Crovax Test Area~
+Builders Crovax~
+Continent None~
+Sector 0
+VNUMs 18500 18509
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#18500
+short man cleric~
+a cleric~
+A cleric stands here shouting about his god.
+~
+A short human, long beard and a face that seems more than insane to you. 
+His brown eyes seem to carefully watch everyone and make sure noone leaves a
+coin at the fountain.  He is yelling some words about the gods he seems to
+worship and doesn't even realise the people that gather around him.  He
+wears a white tunic and carries his weight on a wooden staff.  
+~
+human~
+ABJKa H 0 0
+100 100 50d10+1500 20d10+100 80d1+80 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#18501
+winged creature Mephit fire~
+a {rfire{x Mephit~
+A winged creature with a fire aura glides around.
+~
+It seems a rather small creature.  It's wings are small and have clawlike
+fingers comming out of it.  The creature's eyes are black and reflect the
+color of the aura that surrounds him, red.  
+~
+none~
+AI JTV -1000 0
+90 100 20d10+800 10d10+200 10d5+70 flbite
+-35 -35 -35 -10
+0 0 H CI
+stand stand none 0
+W ADEFKPQU S unknown 0
+#18502
+old Mage~
+an old mage~
+An old mage is here writing on a book.
+~
+He looks like an old man, weak, grey hair pale face.  His hands are soft
+and have never known the handle of a sword.  He stops writing and looks at
+you waiting for something.  His eyes are deep and cold.  He wears a white
+tunic and has a wodden staff by the table.  
+~
+human~
+ABJb HZ 0 0
+15 20 20d10+1000 5d5+100 20d10+100 magic
+-20 -20 -20 -20
+FH 0 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK M unknown 0
+#18503
+giant fire ant~
+a giant {rfire{x ant~
+A giant red looks dangerous watching you carefully.
+~
+This looks like an ant, except it is huge.  It's eyes are black and all
+the rest is red.  It has eight legs and it looks like the ground is pierced
+by their extremity due to its weight.  The smell that comes from this huge
+ant is the smell of rot and burned flesh as if it had fed moments ago.  It
+seems it has the strenght to carry a million humans and defeat an army of
+minotaurs at the same time.  
+~
+unique~
+AI JNV -1000 0
+75 100 20d20+1500 10d5+50 10d5+20 bite
+-50 -50 -50 -10
+CDEO 0 0 0
+stand stand none 0
+O ACDFK L unknown 0
+#18504
+heavy warhorse~
+a heavy armored warhorse~
+A heavy armored warhorse stands here looking imponent.
+~
+A muscled horse carrying a plate mail around him.  You imagine this is a
+horse made for battle.  You almost can't see his brown fur under all that
+armor.  Its eyes are still as his entire body and he looks very well trained
+not moving an inch while people pass near him.  Say His saddle is big and
+has a place for at least a longsword.  The entire horse looks really heavy. 
+~
+horse~
+ABDI Z 300 0
+60 200 30d10+800 10d5+100 10d10+100 bite
+-80 -80 -80 -20
+CFHI 0 0 0
+stand stand male 0
+AGV ACDEFJKLQ M unknown 0
+#18505
+man Alcino~
+Alcino~
+A man standing behind the counter.
+~
+A medium sized human with curlied hair and brown eyes stands here
+cleaning the counter trying to shut the parrot.  He looks old and with
+little patience.  His hands are rough and his arms scarred.  
+~
+human~
+AB 0 0 0
+100 0 20d20+800 20d10+200 10d10+70 punch
+-30 -30 -30 -30
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#18506
+Cebola blacksmith dwarf~
+a rough dwarf~
+A dwarf blacksmith is here taking care of his weapons.
+~
+He has a scar on his face that is almost covered by his redish beard with
+some braids in it.  His brown eyes show a once fierce warrior that has gone
+too old to wield a sword.  His arms are burned from the heat provoked by the
+furnace.  
+~
+dwarf~
+AB J 0 0
+100 100 20d20+2000 20d10+100 10d10+100 punch
+-50 -50 -50 -50
+0 0 LQ R
+stand stand none 20000
+AHMV ABCDEFGHIJK S unknown 0
+#18507
+tall shopkeeper Amilcar~
+a tall shopkeeper~
+A tall shopkeeper is behind the counter looking nervously at you.
+~
+A medium sized man wearing a leather vest around him.  His eyes look lost
+in insanity and his actions make you think about what has happened to him. 
+He looks old and somewhat weak, his legs seem to be shaking a bit and by the
+looks of him he would surely wear a breastplate at all time if he could,
+instead he is just cleaning one that stoods on the counter.  It looks like
+he had his time in war and lost the strength to simply wield a sword.  He
+looks sad.  
+~
+human~
+AB 0 0 0
+100 100 20d20+1000 20d10+100 10d10+100 punch
+-50 -50 -50 -50
+0 0 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK M unknown 0
+#18508
+young woman~
+a young woman~
+A young attractive woman is here staring at you.
+~
+You see a young woman staring at you.  She has two braids on her hair and
+from her outfit you can imagine she is from some kind of internal college. 
+She has a dark blue skirt and her shirt is white.  She has a dark blue tie
+that is already off her neck and.  Her shirt has only a few buttons tied in
+place.  She looks quite attractive and by the look she is giving you, you
+would imagine she wants something from you.  
+~
+none~
+ACGH V 400 0
+10 10 4d10+30 0d0+0 40d20+200 suction
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 10
+MV ABCDEFGHIJK S unknown 0
+#18509
+colorfull parrot~
+a {Rcol{Yo{Grfull{x parrot~
+A {Rcol{Yo{Grfull{x parrot is here talking with customers.
+~
+This is a somehow strange parrot.  He doesn't stop talking and is making
+customers a bit disturbed.  Perhaps that is why he is still here.  
+~
+none~
+AB 0 0 0
+1 10 10d5+20 5d5+50 5d5+10 bite
+0 0 0 0
+0 0 0 0
+stand stand none 2000000
+W ACDFKPU S unknown 0
+M GRALL 18500 100~
+#0
+
+
+
+#OBJECTS
+#18500
+Fountain~
+a large fountain with a statue in it~
+Water flows from a large fountain here.~
+stone~
+fountain 0 0 P
+-1 -1 'water' 0 0
+30 1000 100 P
+#18501
+Longsword~
+a longsword~
+A longsword is lying here humming strange sounds.~
+steel~
+weapon B 0 AN
+sword 10 15 slash DE
+105 10 350000 P
+A
+20 -5
+A
+19 17
+A
+18 17
+#18502
+short bow~
+a short bow~
+A short bow with some runes inscribed has been droped here.~
+unknown~
+weapon S 0 AN
+bow 8 10 pierce H
+105 2 750000 P
+A
+2 5
+#18503
+sharp dagger~
+a sharp dagger~
+A very sharp looking dagger draws your attention from the ground.~
+silver~
+weapon A 0 AN
+dagger 10 12 drain DEHOP
+70 4 30000 P
+A
+19 10
+A
+18 10
+#18504
+short staff~
+a short staff~
+A short metalic staff hovers over the ground.~
+silver~
+weapon A 0 AN
+staff 10 5 pound EOQ
+65 15 20000 P
+A
+4 5
+A
+12 250
+A
+20 -20
+#18505
+Breastplate~
+a breastplate~
+A shining breastplate has been droped here.~
+adamantite~
+armor 0 0 AD
+BCG BCG BCG BCG C
+70 40 50000 P
+A
+5 3
+A
+20 -20
+A
+17 -100
+#18506
+Chain Mail~
+a chain mail~
+A pierce of chain mail is lying on the ground.~
+ironwood~
+armor 0 0 AD
+BEF BEF BEF BEF B
+60 30 35000 P
+#18507
+leather armor~
+a leather armor~
+A brown leather armor has been droped here.~
+leather~
+armor 0 0 AD
+CE CE CE CE A
+55 15 10000 P
+A
+12 15
+A
+13 30
+A
+20 -2
+A
+18 10
+#18508
+grey Robe~
+a grey robe~
+A set of grey robes floating around perfectly.~
+cloth~
+armor AG 0 AD
+BCDE BCDE BCDE BCDE A
+80 3 50000 P
+A
+14 100
+A
+3 3
+A
+20 -20
+A
+13 30
+A
+12 200
+#18509
+parrot perch~
+a parrot's {yperch{x~
+A {Ygolden{x perch is here standing against the counter.~
+gold~
+furniture 0 0 P
+0 0 H 0 0
+1 20 50000 P
+#0
+
+
+
+#ROOMS
+#18500
+Market Square~
+You stand before a great square.  It is filled with people of all races
+and beliefs.  At the center you can see a fountain with some small boys
+sitting at it, and some kind of priest yelling his religion to everyone who
+cares to listen.  The floor is made of granite blocks all put together. 
+They seem to have been here for a long time now.  Their edges are round and
+the color is darkened by the dust and mud that settles in it.  There are
+many street vendors that haggle their prices with their custommers.  
+~
+0 4 1
+D0
+~
+~
+0 0 18505
+D1
+~
+~
+0 0 18501
+D2
+~
+~
+0 0 18503
+D3
+~
+~
+0 0 18502
+M 5000 H 5000
+S
+#18501
+Cebola's weapon shop~
+As you come inside the room you see lots of weapons on the walls, crates
+that look that just arrived and a rough looking shoopkeeper.  At first site
+you can also see a furnace and some blacksmithing tools.  The weapons on the
+walls all have a nice look and shine like if they were saying "take me!!"  .
+There are a couple of weapons no the walls behind the furnace, these reflect
+the fire in the furnace, these look much better than the others on the
+walls.  On a corner there is a forgoten blade covered with dust.  
+~
+0 1024 0
+D3
+~
+~
+0 0 18500
+S
+#18502
+Amilcar's armor shop~
+You enter a room filled with all kinds of plate and chain armor.  This
+seems to be a armor shop.  You can see some fancy shining armor.  You can
+also see some robes, wich you consider to be magic, not many though.  The
+shopkeeper welcomes you with a smile.  
+~
+0 1024 0
+D1
+~
+~
+0 0 18500
+S
+#18503
+Alcino's pets~
+As you enter this room you feel the smell of animals comming from the man
+behind the counter.  You can see several empty cages and a couple of them
+with small animals.  The room walls are filled animal handling objects. 
+There is a pole near the glass window that draws the attention of anyone who
+passes by.  There is a small colored parrot talking all kind of nonsence a
+parrot can think of.  
+~
+0 5120 0
+D0
+~
+~
+0 0 18500
+S
+#18504
+Pet storing room~
+This looks like a stable.  There are some animals here and you can see
+some food for each.  The walls are made of wood and there are some iron
+cages, probably for the most dangerous animals.  There is an incessant noise
+comming from an ant that is inside the largest cage on the corner.  
+~
+0 4 0
+S
+#18505
+Street of the Combatants~
+The sound of the market is lowd, but no so lowd as in the market square
+itself.  Here you can see many rich houses with great gardens in their
+fronts and statues of the owners in the middle of the front garden.  The
+street is very large and there are many trees on the sidewalk that provide
+nice shade in the summer and protection from the rough winds in the winter. 
+You hear the sound of water running to the south and to the north you can
+see a big house with some flags in the front.  
+~
+0 0 1
+D0
+~
+~
+0 0 18506
+D2
+~
+~
+0 0 18500
+S
+#18506
+Near Mayor's House~
+The large street continues and ends only at the Mayor's house.  This part
+of the street is the most quiet.  There are some guards at the entrance to
+the house.  There is a big wall surrounding the house and in the middle a
+massive iron gate.  
+~
+0 0 1
+D0
+A massive gate stands betwen you and the courtyard of the mayor's house.
+~
+gate~
+1 0 18507
+D1
+~
+~
+0 0 18508
+D2
+~
+~
+0 0 18505
+S
+#18507
+Inside Mayor's House~
+You stand in the middle of a great hall.  There is a big rectangular
+table in the middle with a flower jar on top of it.  You can see heavy
+decorative carpets on the walls with all kinds of weapons over them.  Near
+the walls you can see some statues with the plate armor of once great
+warriors, and bettwen them there are paintings of former mayors.  At the
+opposite end of this hall you see a great door.  
+~
+0 0 0
+D2
+~
+~
+1 0 18506
+S
+#18508
+Dark alley~
+You walk through a dark alley.  It is very dark, so dark it seems you
+carry no light at all.  To this street all you can see is some light from
+the back windows of the houses.  Not even small animals like cats or dogs
+stay here long.  You can see some stairs down far away and some light coming
+from it.  
+~
+0 0 1
+D3
+~
+~
+0 0 18506
+D5
+~
+~
+0 0 18509
+S
+#18509
+Mage guild hall~
+As you take the last step on the slippy stairs you find yourself inside a
+small, barelly illuminated room.  The only source of light here is a candle
+that is at a corner of the table.  There is a book on the table and an old
+man writing on it.  When you take your eyes away from this you see that the
+walls are covered with bookshells.  Old dusty books lie on them.  
+~
+0 4 0
+D4
+~
+~
+0 0 18508
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18506 0 1
+D 0 18507 2 1
+O 0 18500 0 18500
+M 0 18500 1 18500 1
+M 0 18506 1 18501 1
+G 0 18501 0
+G 0 18502 0
+G 0 18503 0
+G 0 18504 0
+M 0 18507 1 18502 1
+G 0 18505 0
+G 0 18506 0
+G 0 18507 0
+G 0 18508 0
+M 0 18505 1 18503 1
+O 0 18509 0 18503
+M 0 18509 1 18503 1
+M 0 18501 1 18504 1
+M 0 18503 1 18504 1
+M 0 18504 1 18504 1
+M 0 18508 3 18505 2
+M 0 18508 3 18506 1
+M 0 18502 1 18509 1
+S
+
+
+
+#SHOPS
+18506 5 0 0 0 0 100 60 0 24
+18507 0 9 0 0 0 100 60 6 20
+0
+
+
+
+#MOBPROGS
+#18500
+if sex $n == 0
+say So. What do you consider yourself?
+else 
+if sex $n == 2
+say Hey baby! Wanna meet my room?
+else
+if sex $n == 1
+say You are one ugly thing!
+else
+say this isn't suposed to be here.
+endif 
+endif 
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

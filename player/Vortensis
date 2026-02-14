@@ -1,0 +1,1827 @@
+#PLAYER
+Name Vortensis~
+Surname Lantean~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1243863105
+LogO 1422843969
+Vers 10
+Act  CDGMQTe
+Desc A tall sea-elf stands here. 
+He looks like a strong healthy kagonesti elf, but the gills behind his ears and the {Bblue{x tone of his skin reveals his race right away.
+He is seven feet tall, he has {Cblue{x eyes and he has a smooth and long {Ggreen{x hair that falls free through his muscled back.
+He is wearing some light clothes and on his right hand he is holding a blacksmith's hammer and on his belt you notice a bag full of tools.
+~
+Prom %r%c{r%h/%Hhp {b%m/%Mm {g%v/%Vmv {x%x/%Xxp {W%gstl ~
+Race dargonesti~
+Org 7
+Religion 11
+Sex  1
+Cla  15
+Hmtown 0
+Levl 57
+recall_point 3001
+Levscale 30
+Xptolev  60794
+Sec  0
+Plyd 1177001
+Not  1421272750 1400507473 0 1410808993 1300562365
+Scro 22
+Room 400
+HMV  808 808 790 790 437 437
+Steel 84830
+Gold 6
+Bank 1476345
+Exp  1082006
+AfBy Jb
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1703936
+Comm NO
+Pos  8
+Prac 225
+Trai 15
+Save  -5
+Alig  0
+Ethos 0
+Hit   5
+Dam   8
+ACs 10 2 -18 71
+Wimp  43
+Yield  50
+Attr 11 15 20 22 13 16
+AMod 2 42 48 10 34 2
+Pass Vo/2rpQ1RNY.Q~
+Titl  the Apprentice Alchemist~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 325
+HMVP 658 750 437
+Cnd  0 26 24 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 70 'calm'
+Sk 75 'hand to hand'
+Sk 1 'sharpen'
+Sk 100 'mount'
+Sk 70 'sympathy'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 3 'wear plate'
+Sk 100 'fast healing'
+Sk 98 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'lore'
+Sk 50 'recall'
+Sk 70 'vortex'
+Sk 75 'mend'
+Sk 41 'repair shield'
+Sk 75 'leather repair'
+Sk 75 'plate repair'
+Sk 41 'chain repair'
+Sk 75 'weapon repair'
+Sk 75 'deathblade'
+Sk 1 'flameblade'
+Sk 75 'runeblade'
+Sk 100 'fast working'
+Sk 1 'stainless'
+Sk 75 'eversharp'
+Sk 75 'purifying fire'
+Sk 1 'fletching'
+Sk 100 'smith'
+Sk 100 'create furnace'
+Sk 100 'create barrel'
+Sk 100 'create grinder'
+Sk 100 'create anvil'
+Sk 76 'masterwork'
+Sk 100 'create flame'
+Sk 100 'thors hammer'
+Sk 100 'dismantle'
+Sk 1 'eyerub'
+Sk 75 'cultural artistry'
+Sk 100 'instruct'
+Sk 1 'key origin'
+End
+
+#O
+Vnum 5710
+Nest 0
+Cond 100
+Wear 20
+Cost 400
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5710
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 414
+Nest 1
+Cond 100
+Wear -1
+Cost 468
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 414
+Nest 1
+Cond 100
+Wear -1
+Cost 468
+End
+
+#O
+Vnum 414
+Nest 1
+Cond 100
+Wear -1
+Cost 335
+End
+
+#O
+Vnum 414
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 414
+Nest 1
+Cond 100
+Wear -1
+Cost 490
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 156 0 0 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 850
+End
+
+#O
+Vnum 3007
+Nest 0
+Cond 100
+Wear 17
+Cost 3800
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 98
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 19
+Cost 2600
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 9589
+Nest 0
+Cond 100
+Wear 8
+Cost 130
+End
+
+#O
+Vnum 3015
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece bronze raw material~
+ShD  a piece of bronze material~
+Desc This piece of bronze material looks good for raw materials.~
+Cond 100
+Mat  bronze~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece oak raw material~
+ShD  a piece of oak material~
+Desc This piece of oak material looks good for raw materials.~
+Cond 100
+Mat  oak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece oak raw material~
+ShD  a piece of oak material~
+Desc This piece of oak material looks good for raw materials.~
+Cond 100
+Mat  oak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece oak raw material~
+ShD  a piece of oak material~
+Desc This piece of oak material looks good for raw materials.~
+Cond 100
+Mat  oak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece oak raw material~
+ShD  a piece of oak material~
+Desc This piece of oak material looks good for raw materials.~
+Cond 100
+Mat  oak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece oak raw material~
+ShD  a piece of oak material~
+Desc This piece of oak material looks good for raw materials.~
+Cond 100
+Mat  oak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece maple raw material~
+ShD  a piece of maple material~
+Desc This piece of maple material looks good for raw materials.~
+Cond 100
+Mat  maple~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece iron raw material~
+ShD  a piece of iron material~
+Desc This piece of iron material looks good for raw materials.~
+Cond 100
+Mat  iron~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece ash raw material~
+ShD  a piece of ash material~
+Desc This piece of ash material looks good for raw materials.~
+Cond 100
+Mat  ash~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 100
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 903
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+End
+
+#O
+Vnum 902
+Nest 0
+Cond 100
+Wear -1
+Cost 730
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 902
+Nest 0
+Cond 100
+Wear -1
+Cost 1050
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 901
+Nest 0
+Cond 100
+Wear -1
+Cost 1014
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 901
+Nest 0
+Cond 100
+Wear -1
+Cost 888
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 3008
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 1251
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 1263
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 90
+Wear -1
+Cost 415
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 90
+Wear -1
+Cost 519
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 408
+Nest 0
+Cond 100
+Wear -1
+Cost 128
+End
+
+#O
+Vnum 408
+Nest 0
+Cond 100
+Wear -1
+Cost 137
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 16777216
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  10
+Cost 100
+Val  3 3 3 0 0
+Affc 'cultural artistry'   1  50  -1   0   0   16777216
+End
+
+#O
+Vnum 1200
+Nest 0
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1422843969
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Vortensis'.
+~
+Sex  1
+HMV  125 125 152 152 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

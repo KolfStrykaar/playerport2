@@ -1,0 +1,1244 @@
+#PLAYER
+Name Agravain~
+Surname Braskellion~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1385319853
+LogO 1420456403
+Vers 10
+Act  CDEFGQT
+Desc The man before you stands at 6' 7" and is encased in steel.  His helmet
+has a lowered visor and a small green plume standing upright from it.  His
+plate armor bears a resemblance to what the Knight of the Crown wear,
+although where any sigil may have been it is now bare, with scratchmarks
+where the sigils once were.  He wears plate greaves on his legs, similar in
+style to his chestpiece.  At his waist he carries a steel blade with
+emeralds inset into the platinum crosspiece.
+~
+Prom %h %m %v %b %B ~
+Race human~
+Devotee 1
+Sex  1
+Cla  5
+Hmtown 1
+Levl 101
+recall_point 5737
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 412060
+Not  1420281656 1395959842 0 1420184563 1385348629
+Scro 22
+Room 3369
+HMV  3372 4078 875 875 704 706
+Steel 6631
+Gold 101643
+Bank 14067
+Exp  17454200
+AfBy HO
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2621440
+Comm NOQ
+Pos  8
+Save  -62
+Alig  -981
+Ethos 1
+Hit   60
+Dam   53
+ACs -467 -462 -487 -427
+Attr 18 13 16 13 15 13
+AMod 13 5 3 11 5 0
+Pass AgtXvf8PJ2Ocg~
+Titl  - {RBlade{x of the {WBetrayer{x~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 61
+HMVP 3388 335 706
+Cnd  0 40 63 0
+QuestPnts 90
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 001 003 004 004
+Colourd     012 007 002 007 002
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; gtell {D<<<{RBlade {wof the {WBetrayer{D>>>{g~
+Sk 8 'frenzy'
+Sk 100 'protection evil'
+Sk 100 'axe'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 60 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 1 'berserk'
+Sk 5 'dirt kicking'
+Sk 11 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 41 'rescue'
+Sk 96 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 95 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 93 'critical strike'
+Sk 100 'deathgrip'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 80 'nerve pinch'
+Sk 97 'caltrops'
+Sk 100 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 78 'fast healing'
+Sk 1 'haggle'
+Sk 100 'common'
+Sk 100 'lore'
+Sk 16 'meditation'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 41 'bind wounds'
+Sk 42 'guard'
+Sk 97 'mounted combat'
+Sk 23 'cleave'
+Sk 1 'trammel'
+Sk 88 'flank attack'
+Sk 100 'staff'
+Sk 75 'eyerub'
+Sk 98 'finger break'
+Sk 41 'smother'
+Sk 100 'instruct'
+Sk 75 'heroic demise'
+Sk 36 'joust'
+Sk 94 'polish'
+Sk 41 'shatter shield'
+Sk 100 'company might'
+Sk 100 'company valor'
+Sk 100 'company honor'
+Sk 41 'arrow deflection'
+Affc 'luck'   0   6   0   5  18          0
+Affc 'armor'   0  34   6 -20  17          0
+Affc 'sanctuary'   0  32   0   0   0        128
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear -1
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Enchanted
+Nest 1
+ExtF 66
+Cond 79
+Wear -1
+Lev  54
+Cost 9000
+Val  1 4 22 33 69
+Affc 'enchant weapon'   1 101  -1   7  19          0
+Affc 'enchant weapon'   1 101  -1   7  18          0
+End
+
+#O
+Vnum 15734
+Nest 1
+Cond 100
+Wear -1
+Cost 2210
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 16177
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 16178
+Nest 1
+Cond 100
+Wear -1
+Cost 2300
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 13204
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+Spell 1 'heal'
+Spell 2 'refresh'
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 2643
+Cond 60
+Wear -1
+Cost 10000
+Val  3 10 10 28 70
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 8
+Cond 92
+Wear -1
+Cost 0
+Val  1 11 11 3 81985
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 11215
+Nest 1
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 4947
+Nest 1
+Cond 100
+Wear -1
+Cost 101045
+End
+
+#O
+Vnum 14278
+Nest 1
+Cond 90
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16176
+Nest 1
+Cond 99
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 99
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 97
+Mat  homespun~
+Wear 12
+Lev  100
+Cost 1000
+Val  25 25 25 21 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262152
+Cond 100
+Wear 7
+Cost 12325
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1895
+Nest 0
+ExtF 262144
+Cond 99
+Wear 5
+Cost 4500000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 73
+Mat  wool~
+Wear 13
+Lev  100
+Cost 1000
+Val  27 27 27 23 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 1911
+Nest 0
+ExtF 17039680
+Cond 94
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1232
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 8
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 40
+Mat  plant~
+Wear 20
+Lev  100
+Cost 1000
+Val  1 10 13 1 65
+End
+
+#END

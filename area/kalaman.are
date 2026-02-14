@@ -1,0 +1,2532 @@
+#AREADATA
+Name Kalaman~
+Builders Reorx~
+Continent none~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 3800 3899
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#3800
+kalaman gate guard~
+a Kalaman gateguard~
+A Kalaman gateguard stands here keeping eye out for trouble.
+~
+A large man stands here looking down at you.  His skill in battle is
+unchallenged, he has many scars to prove it.  He smirks as you pass, and
+looks back to the road, for signs of danger.  
+~
+human~
+ABT H 400 0
+80 80 161d26+1617 80d10+85 26d3+45 smash
+-44 -44 -44 -28
+CDEFIKTU 0 AB 0
+stand stand male 1500
+AHMV ABCDEFGHIJK M unknown 0
+#3801
+sharon red robes woman~
+Sharon~
+A woman in red robes stands here waiting to help you.
+~
+Her long red hair flows down, blending in perfectly with her robes.  She
+has deep green eyes and a friendly smiling face.  Pouches hang from her
+waist tied to a simple golden chain.  
+~
+human~
+ABR H 500 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK M unknown 0
+#3802
+shop keeper~
+The Shopkeeper~
+The Shopkeeper stands here
+~
+He is a common man.  Dressed in leather pants and white t-shirt.  He
+wears a full grey apron over his body and soft leather sandals on his feet. 
+~
+human~
+ABTY 0 500 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#3803
+ranger guild master~
+Your guildmaster~
+Your Guildmaster sits here ready to help you practice.
+~
+His hair is cut short up above his ears, though his hair is still young
+and vibrant it seems as if he has seen better days.  His eyes hold an
+expression of deep sorrow as though he has seen a great deal of pain in his
+years.  
+~
+human~
+ABKTb 0 0 0
+100 100 201d33+2021 100d10+85 33d3+55 slash
+-57 -57 -57 -37
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3804
+mercenary~
+A mercenary~
+A Member of the Mercenary militia walks the streets.
+~
+The scars on his body tell the tale of many hard fought battles.  His
+face and arms are scarred and his eyes seem to look off into the distance
+scanning everything around him at once.  
+~
+half-elf~
+ACGT J 300 0
+50 50 101d16+506 50d10+85 16d3+30 chop
+-24 -24 -24 -14
+CEFIK 0 B 0
+stand stand male 1850
+AHMV ABCDEFGHIJK M unknown 0
+#3805
+guild master~
+Your Guildmaster~
+Your guildmaster stands here ready to help you practice.
+~
+The man is in his middle ages, about fifty years old by appearance.  His
+eyes hold a great deal of knowledge, and though his better years are behind
+him you can see that he is still a very formidable opponent.  
+~
+human~
+ABKSb H 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 pierce
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3806
+citizen~
+a citizen of Kalaman~
+A citizen of Kalaman goes about her daily business.
+~
+She wears a long white dress tied at the waist with a small silk belt. 
+Her soft blue eyes shine in the suns warming rays and glow at night when the
+light of Solinari shines upon her.  
+~
+human~
+ACG 0 250 0
+10 10 21d3+102 10d10+85 3d3+10 punch
+2 2 2 4
+FN 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK M unknown 0
+#3807
+dog~
+a dog~
+A small dog is lost in the city.
+~
+His fur is well maintained as if he was just washed and groomed.  He
+looks at you wagging his tail begging for food.  
+~
+dog~
+ACG 0 33 0
+5 5 11d2+51 5d10+85 1d5+7 bite
+5 5 5 7
+FH 0 0 0
+stand stand none 100
+AGV ACDEFHJKUV T unknown 0
+#3808
+kapak draconian~
+a Kapak Assassin~
+A kapak draconian flits among the shadows.
+~
+He is cloaked in black robes covering his entire form.  Poisonous venom
+drips from his jaws and his eyes glow a strange red.  He is small but very
+quick.  
+~
+draconian~
+ABFS JOPQZc -1000 0
+50 50 105d23+1275 70d10+85 20d3+28 claw
+-23 -23 -23 -8
+BEFJR LQ BEK 0
+stand stand male 1500
+AHMVZ ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res M
+#3809
+governor~
+the Governor~
+The Governor of Kalaman sits behind his desk.
+~
+The man has short gray hair.  He wears spectacles on his head and holds a
+sharp pencil in his hand.  He wears soft grey robes tied at the waist with a
+plain leather belt.  
+~
+human~
+ABTY H 500 0
+75 75 151d25+1515 75d10+85 25d3+42 punch
+-41 -41 -41 -25
+EFIK 0 0 0
+sit stand male 3000
+AHMV ABCDEFGHIJK M unknown 0
+#3810
+merchant~
+A merchant~
+A merchant stands here selling her wares.
+~
+She wears a fine silk dress and large jeweled rings on her fingers.  She
+has a sweet smile which she uses to get what she wants.  
+~
+human~
+AG 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slash
+-91 -91 -91 -60
+EF ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK M unknown 0
+#3811
+child~
+a Child~
+A child plays here with her friends.
+~
+She stands only three feet tall with an innocent face.  Her long golden
+hair is tied back into a braid and her clothes have grass stains on them.  
+~
+human~
+AG 0 300 0
+8 8 17d2+81 8d10+85 2d4+9 peck
+3 3 3 5
+N 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK S unknown 0
+#3812
+rat~
+a Rat~
+A large rat scampers through the city.
+~
+His long claws and tail scrape across the ground making an eerie sound. 
+His sharp fangs look as though they would hurt if they sunk into your skin. 
+~
+cat~
+AG Z -100 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+FHM 0 0 0
+stand stand none 650
+AGV ACDEFHJKQUV T unknown 0
+#3813
+baaz~
+a baaz~
+A Baaz Draconian stands here sharpening his blade.
+~
+He wears shining silver armor over his brass scales.  His eyes glow red
+at the thought of battle and bloodshed.  
+~
+draconian~
+ABFT JOc -500 0
+30 30 61d10+304 30d10+85 10d3+20 claw
+-10 -10 -10 -4
+EIMQR Q BGL 0
+stand stand male 1400
+AHMVZ ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res EM
+#3814
+sailor~
+a Sailor~
+A sailor from the docks, walks about the city.
+~
+His skin is dark from the suns rays while he works on his ship.  He wears
+trousers and an old torn shirt and walks the street barefoot.  He carries a
+small dagger at his side.  
+~
+human~
+AGT 0 200 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+FIK 0 IR H
+stand stand male 1599
+AHMV ABCDEFGHIJK M unknown 0
+#3815
+royal guard~
+a Royal Guard~
+A Kalaman Royal Guard is here.
+~
+He is dressed in full silver plate armor, a sapphire hilted longsword
+hangs at his side and a small dagger is tucked into his belt.  He has scars
+on his hands and face.  Looks like he has seen many battles and that is why
+he is now trusted to protect the castle.  
+~
+human~
+ABT H 500 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+IKTU B D C
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 0
+#3816
+warrior robel guild master~
+Robel~
+Robel stands here ready to train you.
+~
+He wears hard leather armor over a well-muscled frame.  His deep
+penetrating eyes seem to look right through you.  He smiles as he judges
+your skill and motions you to the back of the room.  
+~
+human~
+ABKTb H 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 cleave
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#3817
+master frazz guild~
+Frazz~
+Frazz Lockpicker, Kender Extraordinaire, stands here.
+~
+A tall kender, as kender go that is, stands here.  His Topknot swaying
+back and forth on top of his head as he constantly scans the room.  He wears
+bright green leggings and a dark blue tunic.  In his left hand he gently
+holds a hoopak staff ready for anything.  
+~
+kender~
+ABJKSb 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 thwack
+-91 -91 -91 -60
+0 ABCD 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#3818
+thief figure~
+a Thief~
+A dark figure flits among the shadows.
+~
+He is dressed in dark silk clothing.  Soft leather boots keep him from
+making even the slightest noise as he walks the streets or sneaks up behind
+an enemy.  He has long dark hair that flows down over his shoulders and
+black eyes the color of Nuitari.  
+~
+human~
+AGS Q -300 0
+40 40 81d13+405 40d10+85 13d3+25 punch
+-17 -17 -17 -9
+BFJ 0 0 0
+stand stand male 1400
+AHMV ABCDEFGHIJK M unknown 0
+#3819
+leader figure darinthalas~
+Darinthalas~
+A tall dark figure stands here grinning evilly at you.
+~
+A tall dark figure stands unseen in the shadows.  His hair has been dyed
+pure black and his cloak is pulled over his head to hide his bright almond
+shaped eyes.  He is slender and quick and always ready for danger.  
+~
+half-elf~
+ABCFS JQVZ -500 0
+90 90 181d30+1819 90d10+85 30d3+50 stab
+-51 -51 -51 -32
+BEFHJK AB 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#3820
+bartender ~
+The Bartender~
+The bartender stands here ready to serve you.
+~
+The Bartender once was a sailor like most the patrons here.  He tells
+stories about his many adventures on the sea.  He still wears the
+traditional clothes of a mariner.  His long grey hair is pulled back behind
+his head in a braid and his piercing blue eyes continuously scan the area
+for signs of trouble.  
+~
+human~
+AB H 500 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK M unknown 0
+#3821
+skeletal warrior~
+a skeletal warrior~
+A skeletal warrior patrols the streets here.
+~
+This summoned servant of Chemosh is clothed in rotting remnants of
+leather and chain armor.  Empty eye sockets burn with an unholy light, and
+the chill of the grave surrounds the creature.  Marching mindlessly in
+cursed service to its master, it waits to add more souls to Chemosh's army. 
+~
+human~
+AGOT DFJOV -1000 0
+85 85 128d28+1547 85d10+85 24d3+33 chill
+-31 -31 -31 -13
+DEFK ABILPQ HM N
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#3822
+zombie foot soldier~
+a Zombie foot soldier~
+A zombie foot soldier shuffles along the street here.
+~
+This summoned servant of Chemosh is clothed in rotting remnants of
+leather and chain armor.  It dull eyes burn with a mindless hate, and the
+chill of the grave surrounds the creature.  Marching mindlessly in cursed
+service to its master, it waits to add more souls to Chemosh's army.  
+~
+human~
+AGOT DFJXcd -750 0
+90 90 135d30+1639 90d10+85 25d3+35 scratch
+-33 -33 -33 -14
+CDKO ABILPQ EJM HN
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#3801
+small sign~
+a small sign~
+A small sign stands here.~
+wood~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Welcome to Kalaman
+~
+#3802
+small gold key~
+a small gold key~
+A golden key lies here.~
+gold~
+key 0 0 AO
+0 0 0 0 0
+80 3 0 P
+#3803
+statue fountain~
+a statue of the Golden General~
+A statue of the "Golden General" and her Dragon mount graces the fountain here.~
+opal~
+fountain OS 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+statue~
+The light of the sun during the day, and the moons at night, reflect off
+the scales of the silver dragon and cast vibrant colors through the square.
+The figure of the Golden General seems to be surrounded by a bright light
+during the day and a faint white glow at night.  
+~
+#3804
+marble bench~
+a small bench~
+A small {cMarble{x bench has been placed here.~
+marble~
+furniture OS 0 0
+B DGH EHK C C
+3 0 0 P
+#3805
+curved assassin dagger~
+an assassin's dagger~
+A small curved dagger rests here.~
+steel~
+weapon Y 0 ANY
+dagger 7 8 pierce DH
+55 2 500 P
+A
+18 3
+A
+19 3
+E
+dagger~
+The blade is jagged and curved with a black substance smeared on it.  It
+has a solid gold hilt wrapped in hard leather.  
+~
+#3806
+draconian short sword~
+a Draconian short sword~
+A sword with a long curved blade lays forgotten on the ground.~
+steel~
+weapon 0 0 ANY
+sword 3 8 thrust D
+20 4 300 P
+A
+18 1
+A
+19 2
+E
+sword~
+The blade curves back like a sabre.  Though it has jagged teeth on the
+top and bottom used for ripping apart the enemy.  
+~
+#3807
+haste potion~
+a potion of haste~
+A clear liquid gleams inside a glass vial.~
+glass~
+potion GS 0 A
+20 'haste' 'reserved' 'reserved' 'reserved'
+20 1 1650 P
+#3808
+potion strength~
+a potion of strength~
+A vial containing a deep red liquid lies here.~
+glass~
+potion GS 0 A
+30 'giant strength' 'armor' 'reserved' 'reserved'
+30 2 2140 P
+#3809
+sapphire hilted long sword~
+a sapphire hilted longsword~
+A sword with a sapphire hilt lies here.~
+steel~
+weapon B 0 ANZ
+sword 4 7 slash 0
+25 6 1000 P
+A
+18 3
+A
+19 2
+A
+13 20
+#3810
+royal guard cloak~
+a Royal Guard Cloak~
+A long velvet cloak lies here.~
+velvet~
+armor S 0 ACY
+C C C 0 0
+15 1 400 P
+A
+17 -5
+A
+4 1
+A
+5 2
+#3811
+royal guard ring~
+a Kalaman Royal Guard ring~
+A ring with the emblem of Kalaman lies here.~
+silver~
+armor A 0 ABY
+B B B 0 0
+15 1 500 P
+A
+17 -2
+#3812
+silver spiked kalaman battle gauntlets~
+a pair of spiked Kalaman battle gauntlets~
+A pair of spiked silver gauntlets rests here.~
+silver~
+armor 0 0 AHY
+C B ABC 0 0
+15 3 500 P
+#3813
+silver guard leggings~
+a pair of Kalaman guard's leggings~
+A pair of silver leggings lie here forgotten.~
+silver~
+armor 0 0 AFY
+AC AB D 0 0
+15 10 1000 P
+A
+14 50
+#3815
+huge notched large sword~
+a huge notched sword~
+A large sword with notches lies here.~
+iron~
+weapon AI 0 ANZ
+sword 8 9 cleave DF
+70 11 1500 P
+A
+19 4
+A
+18 5
+A
+13 35
+#3816
+pile silver coins~
+silver coins~
+A pile of {cSilver{x coins lays here.~
+silver~
+money 0 0 A
+DEFHIJL 0 0 0 0
+0 24 0 P
+#3817
+bottomless pouch bag~
+a Bottomless Pouch~
+A large black bag lies here.~
+cloth~
+container A 0 AO
+10000 0 0 300 0
+30 1 0 P
+A
+1 3
+A
+14 50
+A
+13 15
+#3818
+silk gloves stealth~
+the Gloves of {DStealth{x~
+A pair of silken {Dblack{x gloves lie here.~
+silk~
+armor CFSY 0 AHY
+ABD ABD ABD ABC 0
+50 0 1000 P
+A
+2 5
+A
+13 25
+#3819
+silver key~
+a small silver key~
+A small silver key lies here.~
+silver~
+key 0 0 A
+0 0 0 0 0
+35 0 0 P
+#3820
+moms apple pie~
+mom's apple pie~
+A sweet smelling pie cools here.~
+unknown~
+food 0 0 A
+BC AE 0 0 0
+20 5 500 P
+#3821
+mug cold ale tall~
+a mug of ale~
+A tall mug filled with ice cold ale sits here.~
+glass~
+drink 0 0 A
+3 3 'ale' 0 0
+5 0 250 P
+#3822
+glass elven wine crystal~
+a glass of elven wine~
+A Crystal glass containing a {rred{x liquid sits here.~
+crystal~
+drink 0 0 A
+2 2 'elvish wine' 0 0
+9 0 500 P
+#3823
+tea cup herb~
+a Cup of Tea~
+A steaming cup of herbs rest here.~
+ceramic~
+drink 0 0 A
+5 5 'tea' 0 0
+0 0 130 P
+#3824
+bottle clear vodka fifth~
+a fifth of Vodka~
+A bottle of clear liquid sits here.~
+glass~
+drink 0 0 A
+8 8 'vodka' 0 0
+20 0 850 P
+#3825
+rainbow trout fish~
+{xA Delicious Rainbow Trout~
+The corpse of a multicolored fish lies here.~
+flesh~
+food 0 0 A
+C ACD 0 0 0
+3 0 400 P
+#3826
+thin silver chain necklace~
+a silver necklace~
+A thin silver chain lies here.~
+silver~
+jewelry G 0 ACX
+0 0 0 0 0
+15 2 2000 P
+A
+17 -2
+#3827
+gold golden ring~
+a {Ygolden{x ring~
+A small gold ring lies forgotten on the ground.~
+gold~
+jewelry A 0 ABY
+0 0 0 0 0
+15 1 1200 P
+A
+2 1
+#0
+
+
+
+#ROOMS
+#3800
+Fisherman’s Gate~
+This is the eastern gate of Kalaman, named fisherman’s gate due to the
+traffic in and out of it being mostly those who make their living from
+fishing the Vingaard river.  South of her lies port road, while to the east
+ships can be seen leaving in and out of the city.  
+~
+0 262144 1
+D2
+~
+~
+0 0 3889
+S
+#3801
+West Gate of Kalaman~
+The walls of Kalaman are dark gray and fifteen feet tall, with twenty
+five-foot towers placed every five hundred feet.  Groups of human
+mercenaries and draconians patrol the walls at all times.  You can see the
+form of a Sivak and another human standing watch in the tower closest to the
+gates as well.  The road leads east into the city or back west towards
+Dargaard keep.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3802
+D3
+~
+~
+0 0 3811
+S
+#3802
+Kalaman Way~
+Upon passing through the Western Gates, the fragrance of roses fill your
+nose.  Large gardens of yellow roses can be seen on either side of the
+street.  They were planted after the war as a reminder of the Golden General
+who liberated the city from the Dragonarmies.  The Road continues on
+towards Kalaman Castle to the south and west to the Western Gate.  
+~
+0 262144 0
+D2
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3801
+S
+#3803
+Kalaman Way~
+The road is kept in immaculate condition.  The street is kept clean and
+weeds are pulled from the curbside weekly.  Far ahead to the southeast a
+beautiful castle fills ones vision.  The sounds of a market can be heard in
+the distance.  The street continues to the east and back north 
+~
+0 262144 1
+D0
+~
+~
+0 0 3802
+D1
+~
+~
+0 0 3804
+S
+#3804
+Kalaman way~
+The castle looms larger southeast of here.  Its spires can be seen
+faintly above the building along the street and the walls of the castle
+itself.  A large street leads off to the east, with citizens and visitors
+walking about, carrying many different goods from the market.  Kalaman Way
+continues to the south and west, while Market street leads off to the east. 
+~
+0 262144 1
+D1
+~
+~
+0 0 3818
+D2
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3803
+S
+#3805
+Kalaman Way~
+From here, you can make out the forms of the guards atop the castle walls.
+They turn to look both in and outside the walls for any signs of trouble. 
+Kalaman way continues to the north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3804
+D1
+~
+~
+0 0 3823
+S
+#3806
+Market Square~
+Kalaman Square spreads out before you.  A statue of a woman in golden
+armor atop a Silver Dragon rests in the center of the square.  Water pours
+from the dragon's open jaws and pools around his feet.  Marble benches have
+been placed around the statue for weary citizens and visitors to rest during
+the long days.  A small sign sits directly in front of the statue.  Roads
+lead south, east and west from here.  
+~
+0 262144 1
+E
+sign~
+~
+D1
+~
+~
+0 0 3819
+D2
+~
+~
+0 0 3833
+D3
+~
+~
+0 0 3812
+S
+#3807
+Thieves Hideout~
+Entering here, the darkness grows all around you.  The sweet songs of many
+different birds echo across the room.  A faint whisper can be heard as
+something brushes up against the back of you.  There is a door to the north
+leading out into a dark alley.  
+~
+0 262145 1
+D0
+~
+~
+1 3819 3839
+S
+#3808
+South Vingaard Avenue~
+Traveling down South Vingaard Avenue you see the many houses lining the
+street.  Most are made of wood while a few of the richer citizens have small
+brick houses.  The Avenue continues to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3809
+D2
+~
+~
+0 0 3822
+S
+#3809
+South Vingaard Avenue~
+Traveling down South Vingaard Avenue you see the many houses lining the
+street.  Most are made of wood while a few of the richer citizens have small
+brick homes.  The avenue continues to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3810
+D2
+~
+~
+0 0 3808
+S
+#3810
+South Vingaard Avenue~
+You have reached the end of South Vingaard Avenue.  The avenue to the
+west looks a little more worn down than the rest of the streets in Kalaman. 
+It seems that though the people living here are not very well off they still
+are better off than the poor in most other cities.  The street leads to the
+west into the poorer neighborhood and turns to the south towards market
+street and the center of the city.  
+~
+0 262144 1
+D2
+~
+~
+0 0 3809
+D3
+~
+~
+0 0 3891
+S
+#3811
+Outside the Gates of Kalaman~
+You stand outside the gates of Kalaman.  The walls stand over fifteen
+feet tall with Guard towers standing at close intervals throughout the city.
+Draconians and Human soldiers can be seen patrolling the walls and others can
+be seen manning the towers.  The Gates to the city are to the east while to
+the west leads to Dargaard keep.  
+~
+0 262148 2
+D1
+~
+~
+0 0 3801
+D3
+~
+~
+0 0 1023
+S
+#3812
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchant sell their products in corners, tempting you to take a look inside.
+Market Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3806
+D3
+~
+~
+0 0 3813
+S
+#3813
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  To the north you see the Kalaman Supply shop, and to the south the
+Kalaman Magic Shop.  Market Street continues to the east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3829
+D1
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3830
+D3
+~
+~
+0 0 3814
+S
+#3814
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchant sell their products in corners, tempting you to take a look inside.
+Market Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3813
+D3
+~
+~
+0 0 3815
+S
+#3815
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look inside.
+To the north lies the warriors guild while Market Street continues to the
+east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3850
+D1
+~
+~
+0 0 3814
+D3
+~
+~
+0 0 3816
+S
+#3816
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchant sell their products in corners, tempting you to take a look inside.
+Market Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3815
+D3
+~
+~
+0 0 3817
+S
+#3817
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  To the north stands the rangers guild, while Market Street
+continues east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3857
+D1
+~
+~
+0 0 3816
+D3
+~
+~
+0 0 3818
+S
+#3818
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  Market Street continues to the east, and Kalaman Way lies to the
+west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3817
+D3
+~
+~
+0 0 3804
+S
+#3819
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  Market Street continues to the east.  To the west lies Kalaman
+Square.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3820
+D3
+~
+~
+0 0 3806
+S
+#3820
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  Market Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3821
+D3
+~
+~
+0 0 3819
+S
+#3821
+Market Street~
+Walking down Market Street, you see many guardsmen patrolling the area. 
+Merchants sell their products in corners, tempting you to take a look
+inside.  Market Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3822
+D3
+~
+~
+0 0 3820
+S
+#3822
+Corner of Market Street and Vingaard Avenue~
+You have reached the corner of Market Street and Vingaard Avenue.  To the
+east a small door leads into a large grey building.  The sounds of laughter
+and games can be heard coming from inside the building.  Vingaard Avenue
+turns to the north while Market Street leads to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3808
+D1
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3821
+S
+#3823
+Kalaman Way~
+The castle walls stretch to the east and west.  You can begin to see the
+small cracks in the mortar and bricks created by the elements.  There are
+two guard towers upon the walls at the east and west ends.  Kalaman Way
+continues to the south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 3824
+D3
+~
+~
+0 0 3805
+S
+#3824
+Kalaman Way~
+The castle walls block any further movement to the south.  An abrupt turn
+to the east shows the way into the castle.  A large moat has been built
+around the castle walls preventing rogues and others from climbing the walls
+before being noticed by the guards.  Kalaman way leads north towards market
+street and east to the castle entrance.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3823
+D1
+~
+~
+0 0 3825
+S
+#3825
+Kalaman Way~
+A large drawbridge stands to the east.  Its solid oak structure is
+pulled up inside the castle walls.  To get inside you will have to get the
+guards to open the bridge unless you like swimming.  Kalaman way leads west
+and east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3824
+S
+#3826
+The Barracks~
+There are circular boards hanging on the walls here with smaller circles
+painted inside them.  Guards stand here throwing small pointed objects at
+the boards trying to hit the smallest circle in the center.  To the south
+four bunks can be seen while to the east tables and chairs line the walls. 
+West of here is the Corner of Market Street and South Vingaard Avenue.  
+~
+0 262152 1
+D1
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3827
+D3
+~
+~
+0 0 3822
+S
+#3827
+The Barracks~
+Bunks line the walls here as those just getting off their watch come to
+sleep and get ready for another day.  To the North is another area of the
+barracks.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3826
+S
+#3828
+The Lounge~
+Off duty Guards sit around here playing various games.  Some are playing
+Chess while others seem to be playing some form of cards.  To the west is
+the entrance to the barracks where more guards can be seen playing another
+game.  
+~
+0 262152 1
+D3
+~
+~
+0 0 3826
+S
+#3829
+Kalaman Supplies~
+Various items line the walls.  Here you can buy what is necessary to
+travel the world of Krynn.  There are lanterns, and various rations of food
+lying upon shelves or hanging on the walls.  There is a door leading back to
+the avenue to the south.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3898
+D2
+~
+~
+0 0 3813
+S
+#3830
+Kalaman Magic Shop~
+Potions and herbs stand on shelves in the room.  Light emits from small
+magic globes throughout the room and, a large counter stands along the west
+wall, a red robed mage behind it ready to sell the items you need.  There is
+a small door to the north leading back out into the city.  
+~
+0 262156 1
+D0
+~
+~
+0 0 3813
+S
+#3831
+Courtyard~
+Green grass stretches all around the castle.  A white marble walkway
+leads in paths around through the courtyard and up to the doors of the
+castle.  The courtyard continues to the east and west.  
+~
+0 262144 0
+D1
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3843
+S
+#3832
+Castle Courtyard~
+Green grass stretches all around the castle.  A white marble walkway
+leads in paths around through the courtyard and up to the doors of the
+castle, where two guards stand vigilant watch at all hours.  To the north
+lies North Vingaard Avenue while the Courtyard continues to the east and
+west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3835
+D1
+~
+~
+0 0 3851
+D3
+~
+~
+0 0 3831
+S
+#3833
+North Vingaard Avenue~
+North Vingaard Avenue leads north and south.  To the south a large white
+castle can be seen in the distance.  The sounds of many people conversing
+and haggling can be heard to north, and a large Statue can be seen in the
+center of the square.  The avenue continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3834
+S
+#3834
+North Vingaard Avenue~
+North Vingaard Avenue is the central street between Kalaman Square and
+the Castle.  Those wishing to save time travel up and down this road
+frequently.  The Avenue continues North and South.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3833
+D2
+~
+~
+0 0 3835
+S
+#3835
+North Vingaard Avenue~
+The Castle Courtyard expands before you to the south.  All the citizens
+gather here in hopes of speaking with the mayor of the City.  The road leads
+south into the courtyard and north towards Kalaman Square.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3834
+D2
+~
+~
+0 0 3832
+S
+#3836
+Wall Road~
+The road is merely a large alleyway covered with trash and overgrown with
+weeds.  It is rarely traveled, and seems to be the home of rats and other
+vermin.  The city wall stands before you to the south.  Guard towers can be
+seen every twenty to thirty feet along the wall.  A small crack of light
+appears in the wall to the south.  Wall road leads back north to South
+Vingaard Avenue.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3885
+D2
+~
+~
+1 0 3837
+S
+#3837
+Inside the Wall~
+You enter a hollowed out section of the wall.  This area is unknown to
+most citizens of Kalaman though a few have heard of a secret way in and out
+of the city.  It is well known among kender, as they aren't allowed through
+the front gates.  It is dark and musty here the only light being that which
+filters in through the open door.  There is a Door to the south leading out
+of the city.  
+~
+0 262153 1
+D0
+~
+~
+1 0 3836
+D2
+~
+~
+1 0 3838
+S
+#3838
+A Secluded Grove~
+As you walk in here, everything becomes quiet.  There is no sound at all,
+as if every creature has left this place.  The feeling of evil flows over
+you.  As you scan the room, you see shadows moving from tree to tree as if
+they are trying to surround you. 
+~
+0 8193 3
+D0
+~
+~
+1 0 3837
+S
+#3839
+A Dark Alley~
+The alley is dark and littered with trash.  Quick figures can be seen
+moving among the shadows as you walk down the alley.  The sounds of birds
+singing fills the air warning others of your presence.  A small door can be
+seen to the east and a faint whisper can be heard coming from the south. 
+The ally leads north towards West Vingaard Avenue.  
+~
+0 262145 1
+D0
+~
+~
+0 0 3840
+D1
+~
+~
+0 0 3841
+D2
+~
+~
+1 3819 3807
+S
+#3840
+A Dark Alley~
+The alley is dark and littered with trash.  Quick figures can be seen
+moving among the shadows as you walk down the alley.  The sounds of birds
+singing fills the air warning others of your presence.  The alley continues
+to the south while to the north lies West Vingaard Avenue.  
+~
+0 262145 1
+D0
+~
+~
+0 0 3893
+D2
+~
+~
+0 0 3839
+S
+#3841
+Thieves Guild~
+Figures move about the shadows, barely seen.  Daggers and lockpicks sit
+on a table in front of a man dressed in fine clothes wearing a dark cape
+about him.  There is a small locked door to the west leading out into a dark
+alley.  
+~
+0 262153 1
+D3
+~
+~
+0 0 3839
+S
+#3842
+Before a Drawbridge~
+A moat filled with water blocks the way to the north.  On the other side
+of the moat, a large drawbridge is pull up against the walls.  The only way
+in is to somehow get the drawbridge open.  West of here lies Kalaman Way.  
+~
+0 262144 1
+D0
+~
+~
+1 0 3843
+D3
+~
+~
+0 0 3825
+S
+#3843
+Castle Kalaman~
+Two marble pillars stand on either side of a set of golden doors to the
+north.  Next to each pillar stands a guard ready to bar entrance to those
+not invited inside.  To the east is the Courtyard while to the south a large
+drawbridge is pulled up inside the wall.  
+~
+0 262144 1
+D0
+~
+~
+1 0 3844
+D1
+~
+~
+0 0 3831
+D2
+~
+~
+1 0 3842
+S
+#3844
+Foyer~
+Tapestries of dragons and warriors line the walls.  Small chairs and
+large couches sit on a plush carpet surrounded by end tables.  To the north
+smells of sweet rolls and roast pig come from the north, a large table and
+chairs can be seen to the east while a hallway leads off to the west.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3847
+D1
+~
+~
+0 0 3846
+D2
+~
+~
+1 0 3843
+D3
+~
+~
+0 0 3845
+S
+#3845
+Hallway~
+The hallway is laid with hexagon shaped marble tile.  And the walls are
+etched with ancient designs of golden dragons.  Every five feet a sconce
+holds a burning torch to light the way down the hall.  The hall continues to
+the west and to the east is the foyer.  
+~
+0 262152 1
+D1
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3854
+S
+#3846
+Dining Hall~
+A large Mahogany table fills the room.  A set of Mahogany chairs sit
+around the table with crystal glasses and fine silver plates in front of
+each.  There is a large candelabra sitting at the north south and center of
+the table and various food and wine in between.  There is a door leading
+back west into the Foyer where guests wait for dinner.  
+~
+0 262152 1
+D3
+~
+~
+0 0 3844
+S
+#3847
+Kitchen~
+A large wood burning stove stands in the center of the room.  And a huge
+oven is standing upon the west wall.  The smells of baking bread and pig
+roast fills your nose.  While the cook stands over the stove stirring a sweet
+smelling sauce.  There is a small curtain hanging over a door to the north
+and another door leading south into the foyer.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3848
+D2
+~
+~
+0 0 3844
+S
+#3848
+Pantry~
+Flour, sugar and other spices are set upon the shelves in this small
+room.  There is a curtain leading back south into the kitchen.  A small
+flicker of light appears from the crack in the floor boards.  
+~
+0 262152 1
+D2
+~
+~
+0 0 3847
+D5
+~
+~
+1 0 3881
+S
+#3849
+Castle Courtyard~
+Green grass stretches all around the castle.  A white marble walkway
+leads in paths around through the courtyard and up to the doors of the
+castle.  A small street leads of to the east towards the Vingaard river and
+the harbor.  The Courtyard continues south around the back of the castle or
+north to the front of the castle.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3851
+D1
+~
+~
+0 0 3886
+D2
+~
+~
+0 0 3852
+S
+#3850
+Warriors Guild~
+Before you stands a vast array of weapons and armor.  On each weapon
+nicks and scratches can be seen, marks of the use they have endured, and
+the armor, though highly polished, has many dents.  A large man stands in
+the center of the room holding a long silver sword, ready to help you
+practice your skills.  
+~
+0 263176 1
+D2
+~
+~
+0 0 3815
+S
+#3851
+Castle Courtyard~
+Green grass stretches all around the castle.  A white marble walkway
+leads in paths around through the courtyard and up to the doors of the
+castle.  The courtyard continues to the west and south.  
+~
+0 262144 1
+D2
+~
+~
+0 0 3849
+D3
+~
+~
+0 0 3832
+S
+#3852
+Castle Courtyard~
+Green grass stretches all around the castle.  A white marble walkway
+leads in paths around through the courtyard and up to the doors of the
+castle.  The paths twist and turn at the back of the castle weaving there
+way through well-groomed gardens and fountains.  The courtyard continues
+west around the back of the castle and north around the side f the castle.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3849
+D3
+~
+~
+0 0 3853
+S
+#3853
+Castle Courtyard~
+The courtyard ends here in leading off to a road to the south.  Not many
+people travel this road as it leads to the public offices of the city and
+only those that have business go there.  The street itself is worn and small
+weeds can be seen growing along the edges.  The courtyard leads off to the
+east.  
+~
+0 263172 1
+D1
+~
+~
+0 0 3852
+D2
+~
+~
+0 0 3883
+S
+#3854
+Bend in the Hallway~
+A large painting of the Governor of Kalaman sits on the western wall. 
+The hall turns to the north towards a large doorway off in the distance. 
+Turning to the east the Foyer can be seen a few paces away.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3855
+D1
+~
+~
+0 0 3845
+S
+#3855
+Down a Hallway~
+More paintings of former governors hang on the wall as you continue down
+the hallway.  Farther to the north there is a large golden door leading into
+the governor’s office.  The hall continues to the north and south.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3858
+D2
+~
+~
+0 0 3854
+S
+#3856
+Sailor Inn~
+A bar lines the wall to the east and tables and chairs sit about the
+room.  Sailors carry on, talking of the adventures they have had while out
+to sea.  A stage stands along the northern wall with a piano and a beautiful
+woman singing songs of the mariners.  There is a door leading back south
+into the street.  
+~
+0 262152 0
+D2
+~
+~
+0 0 3890
+S
+#3857
+Rangers Guild~
+Bows, arrows and soft leather hides stretch out along the walls.  It
+appears the house was built around the forest that was once here as trees
+grow out through the roof.  A Qualinesti elf sits on a stump of a tree
+sewing together a set of leather gloves.  
+~
+0 263176 1
+D2
+~
+~
+0 0 3817
+S
+#3858
+Circular Room~
+This is the waiting room for those seeking an audience with the Governor.
+Chairs and benches line the walls, and a large table sits in the center of
+the room with various information on the city.  A large set of golden doors
+lies to the north and the hall continues south.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3859
+D2
+~
+~
+0 0 3855
+S
+#3859
+Governor’s Office~
+Paintings of the forest and docks hang upon the walls.  A large
+Vallenwood desk sits in the center of the room with a fine leather chair
+behind it.  A bearskin rug sits in front of the desk with two large chairs
+on either side of it.  There is a small door to the east and another door to
+the south back to the hallway.  
+~
+0 262152 1
+D1
+~
+~
+4 3802 3876
+D2
+~
+~
+0 0 3858
+S
+#3860
+On the Stairs~
+The stairs are slippery and cobwebs hang from the ceiling.  Small torches
+have been set in sconces on the wall to light the way and make it less
+dangerous to travel.  The stairs continue down or back up to the jailors
+office.  
+~
+0 262152 1
+D4
+~
+~
+0 0 3881
+D5
+~
+~
+0 0 3861
+S
+#3861
+Towards the Dungeon~
+Travel down the stairs becomes more slippery as water leaks in through
+the walls and drips down onto the stairs.  Torches flicker as the air
+becomes more humid.  The stairs lead down into the dungeon and back up.  
+~
+0 262152 1
+D4
+~
+~
+0 0 3860
+D5
+~
+~
+0 0 3862
+S
+#3862
+Bottom of the Stairs~
+You have reached the bottom of the stairs.  A pool of water gathers about
+your feet from the water leaking through the walls above the stairs.  The
+entrance to the dungeon lies to the north while a set of stairs leads out of
+the dungeon.  
+~
+0 262152 1
+D0
+~
+~
+0 0 3863
+D4
+~
+~
+0 0 3861
+S
+#3863
+Dark Hallway~
+No torches line the walls here.  The room is dark save for the faint
+light coming from a room to the north.  South of here a small set of stairs
+can be seen leading up and out of here.  
+~
+0 262153 1
+D0
+~
+~
+0 0 3864
+D2
+~
+~
+0 0 3862
+S
+#3864
+Guard's Chamber~
+Two guards sit here guarding the door to the dungeon.  They insure that
+no one escapes this way and that all who enter carry no objects that may
+help them escape.  Two torches hang on the north and west walls to give them
+light to see by.  There is a dark room to the south and a set of iron doors
+to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3863
+S
+#3865
+Dungeon Door~
+A large rusted iron door stands to the east.  A block of wood is chained
+across the front of the door and locked with a large steel lock.  The guards
+stand watching you in the room to the west.  
+~
+0 262152 1
+D1
+~
+~
+1 0 3866
+D3
+~
+~
+0 0 3864
+S
+#3866
+Dungeon~
+The dungeon is dark and humid.  The air is hard to breathe and the smell
+of death and decay fill the area.  The dungeon continues on to the east and
+iron bars lie to the north and south.  A large iron door leads out to the
+west.  
+~
+0 262152 1
+D0
+~
+~
+1 0 3873
+D1
+~
+~
+0 0 3867
+D2
+~
+~
+1 0 3874
+D3
+~
+~
+1 0 3865
+S
+#3867
+Dungeon~
+The dungeon is dark and humid.  The air is hard to breathe and the smell
+of death and decay fill the area.  The dungeon continues on to the east and
+iron bars lie to the north and south.  
+~
+0 262152 1
+D0
+~
+~
+1 0 3871
+D1
+~
+~
+0 0 3868
+D2
+~
+~
+1 0 3872
+D3
+~
+~
+0 0 3866
+S
+#3868
+Dungeon~
+The dungeon is dark and humid.  The air is hard to breathe and the smell
+of death and decay fill the area.  The dungeon continues on to the west and
+iron bars lie to the north and south.  
+~
+0 262152 1
+D0
+~
+~
+1 0 3869
+D2
+~
+~
+1 0 3870
+D3
+~
+~
+0 0 3867
+S
+#3869
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+south is shut and locked.  
+~
+0 262144 0
+D2
+~
+~
+1 0 3868
+S
+#3870
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+north is shut and locked.  
+~
+0 262144 0
+D0
+~
+~
+1 0 3868
+S
+#3871
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+south is shut and locked.  
+~
+0 262152 1
+D2
+~
+~
+1 0 3867
+S
+#3872
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+north is shut and locked.  
+~
+0 262152 1
+D0
+~
+~
+1 0 3867
+S
+#3873
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+south is shut and locked.  
+~
+0 262152 1
+D2
+~
+~
+1 0 3866
+S
+#3874
+Cell~
+A small cot sits here along with a table and chair.  A small notebook
+sits on the table for the prisoners to write letters with.  The door to the
+north is shut and locked.  
+~
+0 262152 1
+D0
+~
+~
+1 0 3866
+S
+#3875
+Mages Guild~
+Scrolls and spell books line the walls to the east and west.  The north
+wall contains vials and jars full of potions and different spell components,
+while in the center of the room lies a silver pentagram.  A tall white robed
+mage stands in the center of the pentagram chanting the words of magic.  
+~
+0 12 1
+S
+#3876
+Treasury~
+Gold and Steel are locked behind crystal doors in the walls.  A deep Red
+carpet lines the floor and Black velvet curtains hang upon the walls.  There
+is a door to the west leading back into the governor's office.  
+~
+0 262152 1
+D3
+~
+~
+4 0 3859
+S
+#3877
+South Vingaard Blvd~
+You have come to the end of South Vingaard Avenue.  The walls of the
+building stand over twenty feet tall on three sides.  There is a small door
+to the north which leads into a tiny office.  South Vingaard continues to
+the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3882
+D3
+~
+~
+0 0 3884
+S
+#3878
+South Vingaard Blvd~
+The street is kept clean as the offices of the city are here.  The paving
+stones are lain perfectly along the street crisscrossing each other as the
+street continues.  South Vingaard Avenue continues east and west.  
+~
+0 262152 1
+D1
+~
+~
+0 0 3884
+D3
+~
+~
+0 0 3879
+S
+#3879
+South Vingaard Blvd~
+Two guards stand outside a heavy oak door to the north.  A crowd of
+people can be seen standing outside the door waiting to enter.  The guards
+check the citizens for weapons and let them enter.  The Avenue continues
+east and west of here.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3880
+D1
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3885
+S
+#3880
+Courtroom~
+A small passage way leads up to the bench of the judge.  Benches line
+either side of the passage way for citizens to sit and listen to the
+proceedings of the court.  The judge sits atop a leather chair behind his
+bench on the east wall.  There is a door leading back west into the hall.  
+~
+0 262152 1
+D2
+~
+~
+0 0 3879
+S
+#3881
+Jail~
+A metal box with a glass front hangs on the wall.  Inside are many sets
+of keys to the cells and doors in the dungeon.  There is a set of stairs
+leading down into the dungeon and a door leads back up.  
+~
+0 262152 1
+D4
+~
+~
+1 0 3848
+D5
+~
+~
+0 0 3860
+S
+#3882
+Office of Transportation~
+A map of the city hangs on the east wall and filing cabinets line the
+south wall.  In the center of the room stands a large desk with papers
+strewn across it.  The only door in the room leads south, back out to
+the street.
+~
+0 262156 1
+D2
+~
+~
+0 0 3877
+S
+#3883
+South Vingaard Way~
+The cobblestones are smooth and fit together at perfect angles.  Clearly
+the work of dwarves.  Ahead to the south official looking building can be
+seen.  While to the north lies the castle.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3853
+D2
+~
+~
+0 0 3884
+S
+#3884
+South Vingaard Blvd~
+South Vingaard Avenue splits to the east and west.  City offices line the
+streets as few citizens make there way in and out of the buildings.  The
+street is well maintained and very clean.  To the north lies South Vingaard
+way which leads to a large castle.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3883
+D1
+~
+~
+0 0 3877
+D3
+~
+~
+0 0 3878
+S
+#3885
+South Vingaard Blvd~
+You arrive at the western end of South Vingaard Avenue.  A small alley
+way leads between houses to the south and towards the wall of the city.  The
+alley appears to be in poor condition and weeds and trash can be seen strewn
+about.  South Vingaard Avenue leads to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3879
+D2
+~
+~
+0 0 3836
+S
+#3886
+Port Road~
+You wander onto Port Road.  The road leads towards the harbor where most
+items found in the city come from.  The road is kept in very good repair as
+it is the most commonly traveled road.  To the west a large ancient castle
+can be seen towering above ten-foot walls.  Port Road continues to the east.
+~
+0 262144 1
+D1
+~
+~
+0 0 3887
+D3
+~
+~
+0 0 3849
+S
+#3887
+Port Road~
+As you travel down port road the smell of fish and muddy water fill your
+nose as the wind blows in from the Vingaard river to the east.  A large
+castle looms to the west it's marble pillars and Golden windows sparkling in
+the light of the moons.  Port road continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3888
+D3
+~
+~
+0 0 3886
+S
+#3888
+Port Road~
+Continuing down Port Road the street appears to become cleaner the
+further to the west one travels.  The smell of fish and river drift on the
+wind as you get nearer to the harbor to the east.  Port Road continues east
+and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3889
+D3
+~
+~
+0 0 3887
+S
+#3889
+Port Road~
+The sound of yelling and trading can be heard to the east as merchants,
+sailors and citizens haggle over different items.  The smell of the sea
+grows stronger and citizens can be seen carrying fish and other supplies
+from the docks.  The road continues east and west of here.  To the north
+lies Fisherman’s Gate which leads out of the city.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3800
+D1
+~
+~
+0 0 3890
+D3
+~
+~
+0 0 3888
+S
+#3890
+Port Road~
+The sound of yelling and trading can be heard to the west as merchants,
+sailors and citizens haggle over different items.  The smell of the sea
+grows stronger and citizens can be seen carrying fish and other supplies
+from the docks.  The road continues east and west of here.  
+~
+0 262144 1
+D0
+~
+~
+0 0 3856
+D1
+~
+~
+0 0 3899
+D3
+~
+~
+0 0 3889
+S
+#3891
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3810
+D3
+~
+~
+0 0 3892
+S
+#3892
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3891
+D3
+~
+~
+0 0 3893
+S
+#3893
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  A small alley leads off to
+the south faint whispers and shadowy figures can barely be seen.  West
+Vingaard Avenue continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3892
+D2
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3894
+S
+#3894
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3893
+D3
+~
+~
+0 0 3895
+S
+#3895
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3894
+D3
+~
+~
+0 0 3896
+S
+#3896
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3895
+D3
+~
+~
+0 0 3897
+S
+#3897
+West Vingaard Avenue~
+The streets here aren't as clean as those in the rest of the city.  Thugs
+and thieves frequently fill the streets at night and the citizens usually
+only walk here during the daylight hours.  There are houses and brothels
+mixed together throughout this area of the city.  West Vingaard Avenue
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3896
+D3
+~
+~
+0 0 3898
+S
+#3898
+West Vingaard Avenue~
+You have reached the west end of the avenue.  Buildings line the street
+to the west and north blocking the way.  A small doorway lies to the south
+leading into the back of one of the shops from market street.  West Vingaard
+Avenue continues to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 3897
+D2
+~
+~
+0 0 3829
+S
+#3899
+Harbor~
+Ships line the harbor, bringing various goods into the port from all over
+the world.  The smell of fish, herbs, and spices heading for the market fill
+the air with their powerful aromas.  Men work around the clock, unloading
+cargos from the ships as merchants come to buy their wares and sell them at
+the local markets.  To the west lies Port Road, which leads into the City of
+Kalaman.  
+~
+0 262144 1
+D3
+~
+~
+0 0 3890
+S
+#0
+
+
+
+#SPECIALS
+M 3800 spec_guard
+M 3801 spec_cast_mage
+M 3808 spec_poison
+M 3813 spec_cast_mage
+M 3815 spec_guard
+M 3818 spec_thief
+M 3821 spec_cast_undead
+M 3822 spec_poison
+S
+
+
+
+#RESETS
+D 0 3807 0 2
+D 0 3836 2 2
+D 0 3837 0 2
+D 0 3837 2 2
+D 0 3838 0 2
+D 0 3839 2 2
+D 0 3842 0 1
+D 0 3843 0 1
+D 0 3843 2 1
+D 0 3844 2 1
+D 0 3848 5 1
+D 0 3859 1 2
+D 0 3865 1 2
+D 0 3866 0 2
+D 0 3866 2 2
+D 0 3866 3 2
+D 0 3867 0 2
+D 0 3867 2 2
+D 0 3868 0 2
+D 0 3868 2 2
+D 0 3869 2 2
+D 0 3870 0 2
+D 0 3871 2 2
+D 0 3872 0 2
+D 0 3873 2 2
+D 0 3874 0 2
+D 0 3876 3 2
+D 0 3881 4 1
+M 0 3800 8 3801 2
+E 0 3815 0 20
+M 0 3807 10 3803 1
+O 0 3801 0 3806
+O 0 3803 0 3806
+O 0 3804 0 3806
+M 0 3807 10 3806 1
+M 0 3811 10 3806 2
+M 0 3819 1 3807 1
+E 0 3818 0 12
+M 0 3810 1 3813 1
+G 0 3825 0
+G 0 3826 0
+G 0 3827 0
+M 0 3813 15 3817 3
+E 0 3806 0 20
+M 0 3804 15 3820 1
+M 0 3806 15 3822 1
+M 0 3802 1 3829 1
+G 0 3031 0
+G 0 3138 0
+G 0 3030 0
+G 0 3032 0
+G 0 3820 0
+M 0 3801 1 3830 1
+G 0 3807 0
+G 0 11291 0
+G 0 3808 0
+M 0 3813 20 3837 2
+E 0 3806 0 20
+M 0 3808 2 3838 2
+E 0 3805 0 20
+M 0 3817 1 3841 1
+M 0 3815 10 3843 2
+E 0 3809 0 20
+E 0 3810 0 3
+E 0 3811 0 2
+E 0 3812 0 12
+E 0 3813 0 8
+M 0 3816 1 3850 1
+M 0 3820 1 3856 1
+G 0 3821 0
+G 0 3822 0
+G 0 3823 0
+G 0 3824 0
+M 0 3803 1 3857 1
+M 0 3815 10 3858 2
+E 0 3809 0 20
+E 0 3810 0 3
+E 0 3811 0 2
+E 0 3812 0 12
+E 0 3813 0 8
+M 0 3809 1 3859 1
+G 0 3802 0
+M 0 3815 10 3859 2
+E 0 3809 0 20
+E 0 3810 0 3
+E 0 3811 0 2
+E 0 3812 0 12
+E 0 3813 0 8
+M 0 3815 10 3864 2
+E 0 3809 0 20
+E 0 3810 0 3
+E 0 3811 0 2
+E 0 3812 0 12
+E 0 3813 0 8
+O 0 3816 0 3876
+M 0 3815 10 3881 2
+E 0 3809 0 20
+E 0 3810 0 3
+E 0 3811 0 2
+E 0 3812 0 12
+E 0 3813 0 8
+M 0 3806 15 3887 1
+M 0 3818 2 3893 1
+G 0 3817 0
+P 0 3819 1 3817 1
+M 0 3812 5 3894 1
+S
+
+
+
+#SHOPS
+3801 0 10 2 3 0 100 50 9 20
+3802 0 8 33 15 0 100 50 8 20
+3810 0 33 13 8 0 100 100 0 23
+3820 0 0 0 0 17 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

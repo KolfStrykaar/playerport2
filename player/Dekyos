@@ -1,0 +1,1900 @@
+#PLAYER
+Name Dekyos~
+Surname DarkBlood~
+MaskedIp ~
+Lokprot off~
+Email dekyos@dekyos.com~
+Id   1040361150
+LogO 1422843532
+Vers 10
+Act  DGHMQT
+Desc Dressed in all black, the majority of this elf's skin is concealed.  He
+wears a heavy cloak, with a hood, which he has cast off behind his head.
+His facial features are very finite, crafted with centuries of age, but
+without flaw, as is typical among elves of youth. His once dusty blonde
+hair is now beginning to turn silver, a sign of wisdom in the elven ranks.
+His belt has 2 daggers and 3 pouches strapped to it, and he wears a
+harness with a short sword sheathed in it upon his back. He walks with a
+step so light not even a mouse could feel it, and he leaves no impression
+in the dirt.
+~
+Prom <%hhp %vmv>%c<%b>%c~
+Race kagonesti~
+Org 257
+Religion 1
+Sex  1
+Cla  2
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 5489398
+Not  1420281656 1395959842 0 1410808993 1379084822
+Scro 22
+Room 3350
+HMV  2759 2759 888 888 856 856
+Steel 5317
+Gold 80
+Bank 297000
+Exp  17454200
+AfBy DFJOPQ
+Deaths 26
+FlagTot 9 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+FParTot 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 786432
+Comm MNOQ
+Pos  8
+Prac 4
+Save  -71
+Alig  -1000
+Ethos 2
+Hit   52
+Dam   52
+ACs -636 -638 -637 -614
+Yield  300
+Attr 22 20 21 20 17 20
+AMod 12 2 3 18 8 5
+Pass MeXUEXIgItsyQ~
+Titl  the {BNight{DStalker{x~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 438
+HMVP 1619 338 706
+Cnd  0 12 12 0
+QuestPnts 330
+Coloura     007 013 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 013 013 013 013
+Colourd     012 007 002 007 011
+Coloure     011 007 007 007 014
+Colourf     002 017 017 013 003
+Colourg     003 005 001 013 012
+Alias ex examine~
+Alias b backstab~
+Alias bj blackjack~
+Alias hero herotalk~
+Alias x kick~
+Sk 95 'detect hidden'
+Sk 84 'detect poison'
+Sk 83 'infravision'
+Sk 100 'dagger'
+Sk 89 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 78 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 88 'demand'
+Sk 100 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'pickpocket'
+Sk 75 'mountjack'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'thieves cant'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 96 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 51 'recall'
+Sk 100 'disguise'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 82 'strip'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 100 'disarm traps'
+Sk 100 'staff'
+Sk 76 'eyerub'
+Sk 100 'instruct'
+Sk 96 'evade spell'
+Affc 'sneak'   0 101 101   0   0      32768
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 786464
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 786464
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 786472
+Cond 73
+Wear 12
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 524328
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 524328
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  87
+Cost 870
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 524328
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 524328
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 17302112
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 17301600
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 17564464
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear -1
+Cost 10250
+End
+
+#O
+Vnum 9426
+Nest 0
+Name robes elven gold~
+ShD  Elven {Dsilk{x robes with {Ygold{x trim~
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786472
+Cond 99
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9498
+Nest 0
+ExtF 17563744
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+ExtF 17563744
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 524328
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name golden greaves~
+ShD  golden greaves~
+Desc A pair of golden greaves shimmers in the light.~
+ExtF 524328
+ExtF2 2
+WeaF 268435489
+Ityp 9
+Wt   3
+Cond 100
+Mat  gold~
+Wear 8
+Lev  110
+Cost 1100
+Val  24 24 24 20 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 100
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 4948
+Nest 0
+Name jade encrusted dirk~
+ShD  a {mjade{X {Gencrusted{X dirk~
+Desc A very keen edged dirk with a jade encrusted hilt rests here before you.~
+ExtF 25690255
+Cond 99
+Wear -1
+Lev  70
+Cost 19924
+Val  2 10 15 2 213
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+Val  0 0 40 0 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear -1
+Cost 4680
+Val  500 5 0 150 100
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1403
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name greatsword~
+ShD  a greatsword~
+Desc A large greatsword sits in the corner of the room.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 99
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 27 74
+Affc 'enchant weapon'   0  86  -1   9  18          0
+Affc 'enchant weapon'   1  86  -1   9  19          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name backsword~
+ShD  a backsword~
+Desc A backsword sits in the far corner.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 99
+Mat  steel~
+Wear -1
+Lev  49
+Cost 0
+Val  1 7 7 3 16392
+Affc 'cultural artistry'   5  68  -1   0   0      16384
+End
+
+#O
+Vnum 12237
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 8751
+Nest 1
+Cond 100
+Wear -1
+Cost 3880
+Spell 1 'armor'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 8751
+Nest 1
+Cond 100
+Wear -1
+Cost 3880
+Spell 1 'armor'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 8751
+Nest 1
+Cond 100
+Wear -1
+Cost 3880
+Spell 1 'armor'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name dirk~
+ShD  a small dirk~
+Desc A sheathed dirk lies on the floor.~
+ExtF 526963
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 99
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  2 10 16 34 77
+Affc 'enchant weapon'   1  95  -1   9  19          0
+Affc 'enchant weapon'   0  95  -1   9  18          0
+End
+
+#O
+Vnum 17509
+Nest 1
+Name shadow gauntlets~
+ShD  a pair of {Dshadow{x gauntlets~
+Desc A pair of shadow gauntlets lie here.~
+ExtF 9
+Cond 100
+Wear -1
+Cost 56000
+Val  16 14 21 11 4
+End
+
+#O
+Vnum 5700
+Nest 1
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear -1
+Lev  76
+Cost 760
+Val  16 16 16 12 0
+End
+
+#O
+Vnum 9426
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 1740
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 2895
+Nest 1
+ExtF 17563744
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 1
+ExtF 524288
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 86
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 1673
+Nest 1
+ExtF 786440
+Cond 99
+Wear -1
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9426
+Nest 1
+ExtF 17564272
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12188
+Nest 1
+Name bastard sword violent fury~
+ShD  ({GCustom-Made{x) a {DBastard Sword{x '{rViolent Fury{x'~
+Desc A sword with a tribal pattern running down the blade has been left here.~
+Cond 100
+Wear -1
+Cost 5280
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1211
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10887
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 1
+ExtF 786432
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 12093
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  70
+Cost 0
+Val  15 15 15 17 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  70
+Cost 0
+Val  15 15 15 17 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear -1
+Lev  100
+Cost 0
+Val  27 27 27 23 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 9426
+Nest 1
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear -1
+Lev  95
+Cost 0
+Val  26 26 26 22 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 17550
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 1
+Cond 97
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9828
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16779800
+Cond 99
+Wear -1
+Cost 0
+Val  2 9 13 1 78
+End
+
+#O
+Vnum 11915
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'coldfire'
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 90
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 3082
+Nest 2
+Cond 100
+Wear -1
+Cost 1359
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1870
+Nest 2
+ShD  the knocked-out tooth of {DDarth Vadar{x~
+Desc The knocked-out tooth of {DDarth Vadar{x lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1211
+Nest 2
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 14005
+Nest 2
+Cond 100
+Wear -1
+Cost 2670
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 1900
+Nest 2
+Cond 100
+Wear -1
+Cost 1995
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  23
+Cost 0
+Val  23 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 16457
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4856
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 96
+Mat  plant~
+Wear -1
+Lev  100
+Cost 1000
+Val  1 10 14 1 16
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 90
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 15195
+Nest 2
+Name glass vial potion potion detect presence~
+ShD  a potion of detect presence~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 314 -1 -1 -1
+Spell 1 'detect presence'
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 99
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1627
+Nest 1
+Name curved dagger darkness~
+ShD  a {Dcurved{x dagger, 'The {DDarkness{x'~
+Desc A curved dagger resembling that of Draconian make lies here. Inscribed in it in their language is 'The Darkness'.~
+ExtF 17301769
+Cond 90
+Wear -1
+Cost 15500
+Val  2 10 13 33 77
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 98
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82017
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17563937
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF 524320
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 94
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  2 10 16 11 16384
+Affc 'cultural artistry'   5  54  -1   0   0      16384
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 85
+Wear -1
+Cost 7400
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16779868
+Cond 81
+Wear -1
+Cost 0
+Val  1 11 14 31 207
+End
+
+#O
+Vnum 9868
+Nest 1
+ExtF 524328
+Cond 100
+Wear -1
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 1673
+Nest 1
+ExtF 786432
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 3000
+Nest 0
+Name Moonlight Goblet~
+ShD  the Moonlight Goblet~
+Desc A Moonlight Goblet lies here.~
+ExtF 524320
+Cond 100
+Wear -1
+Cost 75
+Val  300 172 0 0 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786472
+Cond 100
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#END

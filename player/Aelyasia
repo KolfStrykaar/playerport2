@@ -1,0 +1,1801 @@
+#PLAYER
+Name Aelyasia~
+Surname Kaharven~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1379830991
+LogO 1422649673
+Vers 10
+Act  DEFGLQTa
+Desc Silken layers of platinum blonde curls fall over slender shoulders of
+this young woman, cascading down her back to end slightly below her firm
+buttocks.  Two slightly pointed ears peek through her hair, revealing her
+fey lineage.  Wispy tendrils frame her beautiful face and her bangs usually
+get in the way of her eyes, obscuring her vision if not brushed off to the
+side.  Finely arched blonde brows are poised above slanted, exotic ice
+colored irises that peer out at the world.  Framed with lush dark lashes,
+these cat-like orbs sparkle with intrigue and a hint of steel.  A small
+tattoo of a whip, sheathed in lightning, starts from her left temple, ending
+just underneath her left eye.  She has a flawless small nose, delicate high
+cheekbones, and full blue-tinged lips.  When she breathes and talks her
+breath can be seen, as if it is cold outside, even if it is not.  Her soft
+skin bears no mark or flaw but seems to have a light blue colour deep
+within.  She is slender in build, though the hint of curves are apparent
+beneath what she wears.  She stands at the height of approximately five feet
+even and wouldn't even weigh a hundred pounds soaking wet.  
+~
+Prom %h %m %v %b %B ~
+Race half-elf~
+Org 10
+Religion 17
+Sex  2
+Cla  9
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1539150
+Sec  0
+Plyd 802772
+Not  1420412246 1395959842 0 1410808993 1379873133
+Scro 22
+Room 3369
+HMV  3580 3580 734 734 1009 1009
+Steel 48197
+Gold 342696
+Bank 40000
+Exp  20944900
+AfBy JPQVb
+Deaths 3
+FlagTot 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1769472
+Comm NOQ
+Pos  8
+Save  -76
+Alig  -995
+Ethos 1
+Hit   46
+Dam   44
+ACs -298 -300 -307 -261
+Attr 13 15 13 16 13 16
+AMod 21 2 3 16 9 2
+Pass AebkmWO9IHQjg~
+Titl  - the {DHeart{X of {CIce{X~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 184
+HMVP 2815 329 759
+Cnd  0 27 34 0
+QuestPnts 371
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 004 003 004 004
+Colourd     012 007 002 007 002
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; gtell {r<---{bEye {Dof the {bStorm{r--->{m~
+Alias 1 ; wait for sanc out~
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'haste'
+Sk 100 'infravision'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 19 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 91 'dirt kicking'
+Sk 7 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 5 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 51 'trip'
+Sk 3 'second attack'
+Sk 35 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 73 'critical strike'
+Sk 100 'deathgrip'
+Sk 1 'demand'
+Sk 38 'circlestab'
+Sk 99 'dual wield'
+Sk 100 'mount'
+Sk 70 'unholy armor'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 48 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 100 'strangle'
+Sk 100 'cutthroat'
+Sk 100 'assassinate'
+Sk 21 'tumble'
+Sk 100 'scout'
+Sk 11 'second backstab'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 38 'eyerub'
+Sk 100 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+Affc 'sneak'   0 100  97   0   0      32768
+Affc 'haste'   0 101  46   4   2    2097152
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 94
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  100
+Cost 1000
+Val  21 21 21 17 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill bark skin~
+ShD  a pill of bark skin~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 209 0 0 0
+Spell 1 'bark skin'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill bark skin~
+ShD  a pill of bark skin~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 209 0 0 0
+Spell 1 'bark skin'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill bark skin~
+ShD  a pill of bark skin~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 209 0 0 0
+Spell 1 'bark skin'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill bark skin~
+ShD  a pill of bark skin~
+Cond 100
+Wear -1
+Lev  31
+Cost 0
+Val  31 209 0 0 0
+Spell 1 'bark skin'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  26
+Cost 0
+Val  26 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of starlight~
+ShD  a potion of cloak of starlight~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 258 -1 -1 -1
+Spell 1 'cloak of starlight'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Guardian of Holy Order's blood~
+Desc A jar of a Guardian of Holy Order's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a White Wyrm's blood~
+Desc A jar of a White Wyrm's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {Rred{x fish's blood~
+Desc A jar of a {Rred{x fish's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Silvanoshei's blood~
+Desc A jar of Silvanoshei's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The tomb guard's blood~
+Desc A jar of The tomb guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The Leviathan's blood~
+Desc A jar of The Leviathan's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Porthios's blood~
+Desc A jar of Porthios's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Qualinesti diplomat's blood~
+Desc A jar of a Qualinesti diplomat's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a towering warden's blood~
+Desc A jar of a towering warden's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a towering warden's blood~
+Desc A jar of a towering warden's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a fat merchant's blood~
+Desc A jar of a fat merchant's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The Captain of the Solanthus Guard's blood~
+Desc A jar of The Captain of the Solanthus Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The tomb guard's blood~
+Desc A jar of The tomb guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a small humming bird's blood~
+Desc A jar of a small humming bird's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {Rred{x spotted woodpecker's blood~
+Desc A jar of a {Rred{x spotted woodpecker's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a massive {yd{Gun{yg{x beetle's blood~
+Desc A jar of a massive {yd{Gun{yg{x beetle's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a massive {yd{Gun{yg{x beetle's blood~
+Desc A jar of a massive {yd{Gun{yg{x beetle's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {rred dragon{x hatchling's blood~
+Desc A jar of a {rred dragon{x hatchling's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of dark army general's blood~
+Desc A jar of dark army general's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  26
+Cost 0
+Val  26 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the tower guardian's blood~
+Desc A jar of the tower guardian's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the tower guardian's blood~
+Desc A jar of the tower guardian's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a minotaur necromancer's blood~
+Desc A jar of a minotaur necromancer's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Silvanoshei's blood~
+Desc A jar of Silvanoshei's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of citizen's blood~
+Desc A jar of citizen's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of an elderly woman's blood~
+Desc A jar of an elderly woman's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1211
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 10835
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 100
+Wear -1
+Cost 8138
+End
+
+#O
+Vnum 1868
+Nest 1
+ShD  the sliced off ear of Theriss~
+Desc The sliced off ear of Theriss lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 1
+Cond 100
+Wear -1
+Cost 12833
+End
+
+#O
+Vnum 12093
+Nest 1
+Cond 79
+Wear -1
+Cost 5100
+Val  2 9 12 11 70
+End
+
+#O
+Vnum 1625
+Nest 1
+Cond 100
+Wear -1
+Cost 12833
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1626
+Nest 1
+Cond 100
+Wear -1
+Cost 6825
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+Val  1 11 11 39 32838
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 15195
+Nest 1
+Name potion halloweeny bubbling aqua~
+ShD  a {YHa{yll{Dow{yee{Yny{x potion~
+Desc A bubbling potion lies here.~
+Cond 100
+Wear -1
+Lev  53
+Cost 149
+Val  26 340 -1 -1 -1
+Spell 1 'quench'
+ExDe potion halloweeny~ This potion bubbles constantly. Could there be a treat inside? Or a trick?!
+~
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5718
+Nest 1
+Cond 100
+Wear -1
+Cost 700
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name golden greaves~
+ShD  golden greaves~
+Desc A pair of golden greaves shimmers in the light.~
+ExtF2 2
+WeaF 268435489
+Ityp 9
+Wt   3
+Cond 91
+Mat  gold~
+Wear -1
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1915
+Nest 1
+ExtF 16777728
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1868
+Nest 1
+ShD  the sliced off ear of Theriss~
+Desc The sliced off ear of Theriss lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 252 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 10885
+Nest 1
+Name gem polished round~
+ShD  ({DPolished{X) a round gem~
+Desc A small round gem lies here, the color of dark storm clouds.~
+Cond 100
+Wear -1
+Cost 9416
+Spell 3 'sympathy'
+ExDe gem polished round~ This gemstone fits comfortably in the palm of one's hand, with a deceptive weight to it. Holding it to the light reveals fractured shades of glimmering gray and silver.
+~
+End
+
+#O
+Vnum 9868
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 1911
+Nest 1
+Cond 100
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 9400
+Nest 1
+ExtF 17039957
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 62
+Wear -1
+Cost 7400
+Val  2 9 12 1 73
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Siegfried's blood~
+Desc A jar of Siegfried's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1179
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 62
+Wear -1
+Cost 4710
+Val  0 10 14 19 33358
+End
+
+#O
+Vnum 19002
+Nest 1
+Name arm guards~
+ShD  {DArm{x Guards~
+Desc A set of dragon arm guards lie here.~
+ExtF 524288
+Cond 82
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 88
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+ExtF 17039617
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 1916
+Nest 1
+ExtF 17039616
+Cond 74
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 1911
+Nest 1
+ExtF 17039680
+Cond 85
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 88
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 92
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 70
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 1
+ExtF 17039424
+Cond 61
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 49
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 37
+Mat  brass~
+Wear -1
+Lev  93
+Cost 930
+Val  25 25 25 21 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 85
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 83
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 46
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 1625
+Nest 1
+Cond 43
+Wear -1
+Cost 14500
+End
+
+#O
+Vnum 3818
+Nest 1
+ExtF 262144
+Cond 46
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 100
+Wear 10
+Cost 5250
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 97
+Wear 9
+Cost 5250
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1263
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262152
+Cond 100
+Wear 7
+Cost 14500
+Val  18 18 18 16 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 4
+Cost 13000
+Val  28 27 29 27 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786440
+Cond 100
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 97
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+ExtF 134217728
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 87
+Mat  leather~
+Wear 20
+Lev  110
+Cost 1100
+Val  7 10 16 4 64
+Affc 'cultural artistry'   5 100  -1   0   0         64
+End
+
+#O
+Vnum 1899
+Nest 0
+Cond 97
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 82
+Wear -1
+Cost 10250
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 37
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 28
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 40
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11967
+Nest 0
+ExtF 150995540
+Cond 59
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 0
+ShD  a jar of a {WKnight{x of the {YCrown{x's blood~
+Desc A jar of a {WKnight{x of the {YCrown{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#END

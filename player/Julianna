@@ -1,0 +1,902 @@
+#PLAYER
+Name Julianna~
+Surname Malot~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1381871428
+LogO 1422395281
+Vers 10
+Act  DGLMQTe
+Desc A woman around six feet tall is before you.  Her deep chestnut hair
+glistens down her back, while her grayish blue eyes look so full of life. 
+She wears a mixture of different types of armor: leather, chainmail, some
+plate.  It looks like she takes what she can when she can.  A plethora of
+different weapons seem scattered about her muscular, well-toned body, ready
+to switch to at a moments notice.  
+~
+Prom {c%hh %mm %vv {M%Xx {w%gs {y%sg %B%c~
+Race human~
+Sex  2
+Cla  3
+Hmtown 1
+Levl 86
+recall_point 5737
+Levscale 30
+Xptolev  124708
+Sec  0
+Plyd 982992
+Not  1420281656 1395959842 0 1410808993 1383098776
+Scro 28
+Room 10128
+HMV  2098 2098 339 339 647 647
+Steel 9863
+Gold 72
+Bank 744000
+Exp  6339292
+AfBy TVb
+Deaths 6
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4063232
+Comm MNO
+Pos  8
+Prac 13
+Save  -9
+Alig  -1000
+Ethos 2
+Hit   76
+Dam   74
+ACs -226 -203 -278 -146
+Wimp  410
+Attr 32 22 30 30 30 13
+AMod 7 4 14 14 14 6
+Pass Juz7VlVYBjO8Y~
+Titl  the Field Marshall~
+Pretit ~
+Pnts 0
+TSex 2
+LLev 259
+HMVP 1948 304 647
+Cnd  0 62 62 0
+QuestPnts 2975
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 56 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 90 'mace'
+Sk 99 'polearm'
+Sk 74 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 96 'whip'
+Sk 43 'bash'
+Sk 1 'berserk'
+Sk 98 'dirt kicking'
+Sk 76 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 60 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 10 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 1 'sharpen'
+Sk 49 'whirlwind'
+Sk 100 'lunge'
+Sk 1 'dual wield'
+Sk 98 'mount'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 93 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 50 'recall'
+Sk 94 'bow'
+Sk 1 'bind wounds'
+Sk 68 'breakneck'
+Sk 67 'guard'
+Sk 100 'headbutt'
+Sk 12 'mounted combat'
+Sk 95 'impale'
+Sk 6 'cleave'
+Sk 48 'trammel'
+Sk 11 'flank attack'
+Sk 4 'staff'
+Sk 3 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'shield'   0  63  12 -20  17          0
+Affc 'luck'   0  66   4   5  18          0
+Affc 'attunement'   0  88  46   3   4          0
+Affc 'attunement'   0  82  46   3   3          0
+Affc 'waterlungs'   0  92  49   0   0  134217728
+Affc 'glamour'   0  91  47   4  27          0
+Affc 'giant strength'   0  96  47   4   1          0
+Affc 'empowerment'   0  88  54   3   5          0
+Affc 'levitate'   0  89  63   0   0     524288
+Affc 'haste'   0  97   3   4   2    2097152
+Affc 'aid'   0  80   9  10  18          0
+Affc 'armor'   0  79  14 -20  17          0
+Affc 'frenzy'   0  85  24  14  18          0
+Affc 'frenzy'   0  86  24  14  19          0
+Affc 'frenzy'   0  85  24  70  17          0
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 87
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 76
+Wear 17
+Cost 748
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 92
+Wear 4
+Cost 621
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 84
+Wear 3
+Cost 672
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 453
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 4853
+Nest 1
+Cond 98
+Wear -1
+Cost 547
+End
+
+#O
+Vnum 9583
+Nest 1
+Cond 83
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 91
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 77
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 17711
+Nest 1
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 0
+Cond 88
+Wear -1
+Cost 0
+Val  3 10 10 28 72
+End
+
+#O
+Vnum 9541
+Nest 1
+Cond 100
+Wear -1
+Cost 825
+End
+
+#O
+Vnum 16102
+Nest 1
+ExtF 17563648
+Cond 100
+Wear -1
+Cost 1275
+End
+
+#O
+Vnum 4842
+Nest 1
+Cond 84
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 1218
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 82
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 85
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 2895
+Nest 1
+ExtF 262144
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 2954
+Nest 0
+Cond 73
+Wear 12
+Cost 500
+End
+
+#O
+Vnum 2956
+Nest 0
+Cond 85
+Wear 11
+Cost 500
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 91
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 262144
+Cond 97
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 100
+Wear 2
+Cost 50000
+End
+
+#O
+Vnum 17529
+Nest 0
+ExtF 0
+Cond 99
+Wear 1
+Cost 50000
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 97
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 0
+ExtF 0
+Cond 97
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 17555
+Nest 0
+ExtF 0
+Cond 100
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 17552
+Nest 0
+ExtF 0
+Cond 100
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 17551
+Nest 0
+ExtF 0
+Cond 100
+Wear 13
+Cost 100
+End
+
+#O
+Vnum 17550
+Nest 0
+ExtF 0
+Cond 99
+Wear 5
+Cost 100
+End
+
+#O
+Vnum 17505
+Nest 0
+ExtF 0
+Cond 99
+Wear 19
+Cost 30000
+End
+
+#O
+Vnum 17505
+Nest 0
+ExtF 0
+Cond 99
+Wear 18
+Cost 30000
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262144
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 11144
+Nest 0
+ExtF 17039452
+Cond 92
+Wear 24
+Cost 3845
+Val  2 9 13 11 77
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 9829
+Enchanted
+Nest 0
+Cond 79
+Wear 20
+Lev  66
+Cost 10000
+Val  3 10 10 28 65
+Affc 'enchant weapon'   1 100  -1  14  18          0
+Affc 'enchant weapon'   1 100  -1  14  19          0
+End
+
+#O
+Vnum 1868
+Nest 0
+ShD  the sliced off ear of Palid~
+Desc The sliced off ear of Palid lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1868
+Nest 0
+ShD  the sliced off ear of Palid~
+Desc The sliced off ear of Palid lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1422395281
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Julianna'.
+~
+Sex  1
+HMV  125 125 149 149 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

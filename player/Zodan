@@ -1,0 +1,797 @@
+#PLAYER
+Name Zodan~
+Surname Chaslor~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1327976232
+LogO 1418453787
+Vers 10
+Act  DEGQT
+Desc A light {WWhite{x aura surrounds the one that stands 
+before you, seemingling coming from a mark on  his left 
+forearm, a swirling {BSky blue{x Hand, deovtion to Mishakal.
+The man's skin is {Wlight{x, but not completly  {W            _o8888888o_{x
+pale. His eyes are {Bblue{x and contrast his{W             .o888'      '888o.{x
+long {Yblonde{x hair which only seems brighter  {W      .o88'             '88o.{x
+as a result of his surrounding {Waura{x. He stands{W   ,88'                 '88,{x
+unusually tall, as his father before him, and{W   ,88'      {B _.-._    {W   '88,{x
+shares his muscley physique. His armor is   {W   ,88'       {B| | | |_  {W    '88,{x
+ornate looking, with {Dsilver{x with {Ygold{X designs.{W 88'        {B| | | | | {W     '88{x
+From the edges of the armor surroung his neck{W  88         {B| | | | | {W      88{x
+you see that under the armor are simple {ybrown{x{W  88      {B _ |  '-._ | {W      88{x
+loosely-fit robes. Oddly enough, he does not{W   88      {B \`\`-.'-._; {W      88{x
+seem to have any weapons on him, instead only{W  88      {B  \    '   | {W      88{x
+an gifted {Cpouch{x strapped to his side tightly.{W  88,     {B   \  .`  /  {W     ,88{x
+As you look closer at his features, you notice{W '88,    {B    |    |   {W    ,88'{x
+he is missing his pinky finger on his left  {W    '88,                   ,88'{x
+hand. His hair is pulled back out of his face{W    '88o,               ,o88'{x
+and lies flat on the back of his neck. Also,{W       '88o,           ,o88'{x
+he wears a necklace of {gmedicines{x under his  {W         '888o,_   _,o888'{x
+robes. Lastly, you see a scar under his mark. {W          '8JGS88888'{X
+~
+Prom {WHp:{R%h/%H{W Mp:{c%m/%M{W Mv:{g%v{W Tnl:%X %b%B{ ~
+Race ogre~
+Org 261
+Religion 3
+Sex  1
+Cla  1
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1539150
+Sec  0
+Plyd 1788273
+Not  1417101863 1395959842 0 1410808993 1379084822
+Scro 0
+Room 3005
+HMV  2828 2828 1363 1408 808 808
+Steel 1735
+Gold 97261
+Bank 350000
+Exp  20944900
+AfBy D
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2818048
+Comm NO
+Pos  8
+Prac 36
+Save  -25
+Alig  147
+Ethos 0
+Hit   29
+Dam   32
+ACs -120 -131 -131 -93
+Attr 16 13 16 11 17 10
+AMod 11 10 10 7 2 0
+Pass Zof/A/Hmm.i5c~
+Titl  - the {BHealing{x Hand of the {WEmpress{x~
+Pretit ~
+Pnts 6
+TSex 1
+LLev 421
+HMVP 2488 1193 708
+Cnd  0 43 43 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; {x<The {WPacifist{x> {C:~
+Alias ooc smote {cOOC Channel{x (Zodan) : ~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 91 'blindness'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 57 'cause critical'
+Sk 51 'cause light'
+Sk 82 'cause serious'
+Sk 56 'create food'
+Sk 95 'create spring'
+Sk 63 'cure blindness'
+Sk 100 'cure critical'
+Sk 91 'cure disease'
+Sk 73 'cure light'
+Sk 55 'cure poison'
+Sk 59 'cure serious'
+Sk 59 'curse'
+Sk 54 'demonfire'
+Sk 84 'detect evil'
+Sk 72 'detect good'
+Sk 100 'detect invis'
+Sk 86 'detect poison'
+Sk 59 'dispel evil'
+Sk 56 'dispel good'
+Sk 94 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 88 'fireproof'
+Sk 98 'flamestrike'
+Sk 2 'orb of containment'
+Sk 1 'harm'
+Sk 100 'heal'
+Sk 99 'life transfer'
+Sk 1 'holy word'
+Sk 74 'know alignment'
+Sk 1 'mass healing'
+Sk 100 'aid'
+Sk 39 'plague'
+Sk 67 'protection evil'
+Sk 7 'ray of truth'
+Sk 98 'refresh'
+Sk 71 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 100 'word of recall'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 100 'bash'
+Sk 33 'dodge'
+Sk 95 'enhanced damage'
+Sk 15 'hand to hand'
+Sk 64 'parry'
+Sk 13 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 99 'silence'
+Sk 100 'traject'
+Sk 99 'mount'
+Sk 1 'remove paralysis'
+Sk 20 'undetectable align'
+Sk 99 'repulsion'
+Sk 100 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 100 'pillify'
+Sk 82 'enlightenment'
+Sk 86 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 21 'wear chain'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'ogre tongue'
+Sk 100 'meditation'
+Sk 97 'scrolls'
+Sk 2 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'warding'
+Sk 70 'truefire'
+Sk 100 'sate'
+Sk 92 'invigorate'
+Sk 52 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 96 'regeneration'
+Sk 100 'quench'
+Sk 70 'banish'
+Sk 70 'salvation'
+Sk 73 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 100 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 98 'clear thoughts'
+Sk 19 'black cairn'
+Sk 100 'blessed warmth'
+Sk 100 'blessed watchfulness'
+Sk 54 'relegate'
+Affc 'detect invis'   0 101 101   0   0          8
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 91
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 99
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 99
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039425
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039425
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 97
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 17527
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+Spell 1 'identify'
+End
+
+#O
+Vnum 3770
+Nest 0
+Cond 98
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 1235
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1899
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 1976
+Nest 0
+Cond 96
+Wear 20
+Cost 100000
+End
+
+#O
+Vnum 19002
+Nest 0
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 0 0 0 0
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#END

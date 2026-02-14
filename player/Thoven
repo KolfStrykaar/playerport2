@@ -1,0 +1,576 @@
+#PLAYER
+Name Thoven~
+Surname Gladomain~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1391844916
+LogO 1394506866
+Vers 10
+Act  CDEFGHQTe
+Desc A masked man stands before you.  This traveler bears a resemblance to
+one devote to a higher power, yet it is hard to discern his race, the only
+discerning features are his pointed ears.  This 'Clergy man' does not seem
+to bear any ill-will or malice intends towards the common citizen and to
+some, this 'man of the cloth' appears to radiate a warm glow.  This shepherd
+will travel these lands as a leaf caught in a breeze and go wherever the
+wind will take him.  
+ 
+ 
+~
+Prom <%hhp %mm %vmv> ~
+Race kagonesti~
+Sex  1
+Cla  1
+Hmtown 2
+Levl 14
+recall_point 2659
+Levscale 30
+Xptolev  1959
+Sec  0
+Plyd 34341
+Not  0 0 0 0 0
+Scro 22
+Room 3050
+HMV  236 236 247 247 178 178
+Steel 302
+Gold 8897
+Bank 0
+Exp  28991
+AfBy JT
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3145728
+Comm NOQ
+Pos  5
+Prac 4
+Save  -1
+Alig  573
+Ethos 2
+Hit   1
+Dam   1
+ACs 26 42 25 76
+Attr 13 12 30 15 13 16
+AMod 3 4 5 7 7 0
+Pass ThF/c6Zy6nXgQ~
+Titl  the Deacon~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 9
+HMVP 186 247 178
+Cnd  0 48 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'armor'
+Sk 35 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 3 'cause light'
+Sk 1 'cause serious'
+Sk 1 'create food'
+Sk 1 'create spring'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 1 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'protection evil'
+Sk 1 'ray of truth'
+Sk 1 'refresh'
+Sk 1 'remove curse'
+Sk 1 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'flail'
+Sk 65 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 1 'meditation'
+Sk 100 'sneak'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 1 'quench'
+Sk 1 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'bless'   0  14  12  -1  25          0
+Affc 'bless'   0  13  12   1  18          0
+Affc 'armor'   0  15  13 -20  17          0
+Affc 'levitate'   0  17   7   0   0     524288
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3775
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5743
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5743
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5743
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 97
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 21
+Cost 1140
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3024
+Nest 0
+Cond 84
+Wear 20
+Cost 390
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 100
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear 0
+Cost 10
+End
+
+#O
+Vnum 5799
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 5663
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Val  100 52 0 0 0
+End
+
+#O
+Vnum 5742
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+Val  10 1 0 10 100
+End
+
+#O
+Vnum 5757
+Nest 1
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 5772
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5772
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5756
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5772
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5749
+Nest 0
+Cond 100
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 5745
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#PET
+Vnum 3094
+Name wolf~
+LogO 1394506866
+Desc The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Thoven'.
+~
+Sex  1
+HMV  108 108 100 100 100 100
+Act  ABIU
+AfBy FSZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 80
+Attr 13 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

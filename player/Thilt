@@ -1,0 +1,1984 @@
+#PLAYER
+Name Thilt~
+Surname Dracart~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1171830992
+LogO 1398596253
+Vers 10
+Act  CDEGQT
+Desc A mix of gray-black hair stands in natural spikes atop this mans head in a
+complete mess.  His slim figure looks to lack little muscle, his arms and
+legs long and scrawny. A pair of dark green eyes hide behind square
+spectacles on his face, magnifying their color and complementing his
+naturally dark complection.  White clothes drape his entire body from head
+to toe, on every piece of his clothing a golden tulip is stitched
+somewhere on it.  At his side hangs a small silver blade, a white tulip
+wrapping around the hilt.
+~
+Prom <%hhp %mm %vmv %Xtnl> ~
+Race human~
+Org 1
+Religion 1
+Sex  1
+Cla  2
+Hmtown 0
+Levl 87
+recall_point 3001
+Levscale 30
+Xptolev  185594
+Sec  0
+Plyd 1365828
+Not  1397922373 1229970708 0 1396901878 1396901862
+Scro 22
+Room 4816
+HMV  2596 2596 704 704 798 798
+Steel 7037
+Gold 300435
+Bank 0
+Exp  6754056
+AfBy DF
+Deaths 4
+FlagTot 5 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+FParTot 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3407872
+Comm NOQ
+Pos  6
+Prac 7
+Save  -22
+Alig  -703
+Ethos 0
+Hit   60
+Dam   64
+ACs -189 -199 -189 -147
+Attr 27 13 13 16 19 13
+AMod 12 2 9 21 9 5
+Pass ThuRasKIRy3jc~
+Titl  - The {cTwo{x-{rFaced{x Schemer~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 294
+HMVP 2111 304 648
+Cnd  0 52 52 0
+QuestPnts 75
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {D[{WMaster {xof {RLove{D]{x~
+Sk 78 'detect hidden'
+Sk 75 'detect poison'
+Sk 76 'infravision'
+Sk 100 'dagger'
+Sk 76 'shield block'
+Sk 100 'sword'
+Sk 83 'whip'
+Sk 100 'backstab'
+Sk 75 'dirt kicking'
+Sk 76 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 71 'envenom'
+Sk 77 'hand to hand'
+Sk 100 'kick'
+Sk 80 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 94 'counter'
+Sk 79 'demand'
+Sk 98 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'pickpocket'
+Sk 75 'mountjack'
+Sk 100 'battle tactics'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 83 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 70 'thieves cant'
+Sk 76 'lore'
+Sk 100 'peek'
+Sk 76 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 50 'recall'
+Sk 76 'disguise'
+Sk 99 'tumble'
+Sk 75 'scout'
+Sk 100 'second backstab'
+Sk 76 'strip'
+Sk 80 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 77 'disarm traps'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+Affc 'detect hidden'   0  68   3   0   0         32
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 91
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 1854
+Nest 0
+ExtF 262144
+Cond 100
+Wear 16
+Cost 75000
+End
+
+#O
+Vnum 914
+Nest 0
+Name boot white stained~
+ShD  {WWhite-stained{x boots~
+Desc Lying here are a pair of leather boots, which look to have been stained the color white.~
+ExtF 262152
+Cond 88
+Wear 11
+Cost 1500
+Val  9 11 10 6 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name emerald ring~
+ShD  an {gemerald {wring{x~
+Desc A small emerald ring is here.{x~
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name square spectacles~
+ShD  square spectacles{x~
+Desc Here lie a pair of square-shaped spectacles.{x~
+ExtF 262152
+Cond 94
+Wear 7
+Cost 14500
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name white top hat~
+ShD  a {Wwhite {wtop hat{x~
+Desc Here lies a bright top hat.{x~
+ExtF 8
+Cond 97
+Wear 6
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Name fingerless gloves white~
+ShD  {wwhite {wfingerless gloves{x~
+Desc Here lies a pair of white gloves, the fingers cut out for added dexterity.{x~
+ExtF 262152
+Cond 100
+Wear 12
+Cost 0
+Val  12 12 12 8 0
+End
+
+#O
+Vnum 16460
+Nest 0
+Name leather rucksack~
+ShD  a {yleather {wrucksack{x~
+Desc Here lies a heavily used rucksack made of the strongest leather.{x~
+Cond 98
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({WUsed{w) a {CMake-Over {wcoupon{x~
+Desc This one's good for 15 more restrings! - KJ~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 82
+Wear -1
+Cost 4710
+Val  0 10 14 19 33292
+End
+
+#O
+Vnum 11144
+Nest 1
+Name engraved curved kris~
+ShD  ({rEngraved{x) a large curved kris~
+Desc A large curved kris is here, sharpened to perfection. Along the wooden hilt are the words 'Blood Haired Beauty' carved deep into the blade, and rather unprofessionally at that.~
+ExtF 17563772
+Cond 16
+Wear -1
+Cost 3845
+Val  2 9 13 11 76
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 5100
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 15210
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 17735
+Nest 1
+Name cheery poptart~
+ShD  a {Rcherry {Wpoptart{x~
+Desc Here lies a strange {Rpastry{x.~
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 861
+Nest 1
+ExtF 35851
+Cond 96
+Wear -1
+Cost 800
+Val  1 8 20 3 16392
+End
+
+#O
+Vnum 9471
+Nest 1
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9400
+Nest 1
+ExtF 17039957
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 10616
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'haste'
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 4500
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1901
+Nest 1
+Cond 100
+Wear -1
+Cost 5525
+Spell 1 'frenzy'
+Spell 2 'heat metal'
+Spell 3 'shield'
+End
+
+#O
+Vnum 1901
+Nest 1
+Cond 100
+Wear -1
+Cost 6500
+Spell 1 'frenzy'
+Spell 2 'heat metal'
+Spell 3 'shield'
+End
+
+#O
+Vnum 1901
+Nest 1
+Cond 100
+Wear -1
+Cost 6500
+Spell 1 'frenzy'
+Spell 2 'heat metal'
+Spell 3 'shield'
+End
+
+#O
+Vnum 1901
+Nest 1
+Cond 100
+Wear -1
+Cost 6500
+Spell 1 'frenzy'
+Spell 2 'heat metal'
+Spell 3 'shield'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1869
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1533
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2058
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 4088
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5348
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 4480
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 5768
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17505
+Nest 1
+ExtF 9
+Cond 100
+Wear -1
+Cost 30000
+Val  17 15 22 12 4
+End
+
+#O
+Vnum 17505
+Nest 1
+ExtF 9
+Cond 99
+Wear -1
+Cost 30000
+Val  12 10 17 7 4
+End
+
+#O
+Vnum 3368
+Nest 1
+ExtF 262144
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2912
+Nest 1
+Cond 94
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 19003
+Nest 2
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 2
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16231
+Enchanted
+Nest 2
+ExtF 67
+Cond 99
+Wear -1
+Lev  24
+Cost 800
+Affc 'enchant weapon'   0  58  -1   6  18          0
+Affc 'enchant weapon'   1  58  -1   6  19          0
+Affc 'reserved'   1  20  -1   2   4          0
+End
+
+#O
+Vnum 16306
+Nest 2
+Cond 100
+Wear -1
+Cost 1208
+End
+
+#O
+Vnum 16208
+Nest 2
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10964
+Nest 2
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 2
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 2
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 2
+Cond 96
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10702
+Nest 2
+ExtF 17039681
+Cond 97
+Wear -1
+Cost 1932
+End
+
+#O
+Vnum 10702
+Nest 2
+ExtF 17039681
+Cond 93
+Wear -1
+Cost 1898
+End
+
+#O
+Vnum 17552
+Nest 1
+Name leg plates courate~
+ShD  ({CShining{x) ({WHoly{x) The {WLeg Plates{x of {BCourage{x~
+Desc Long, strong leg armor lays here, collecting dust.~
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll doppelganger scroll rainbow pattern~
+ShD  a scroll of doppelganger, rainbow pattern~
+Cond 100
+Wear -1
+Lev  45
+Cost 100
+Val  22 283 172 -1 0
+Spell 1 'doppelganger'
+Spell 2 'rainbow pattern'
+End
+
+#O
+Vnum 15211
+Nest 1
+Cond 97
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5833
+Nest 1
+ExtF 17039424
+Cond 97
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 13205
+Nest 1
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  47
+Cost 0
+Val  47 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 97
+Wear -1
+Cost 7400
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16779792
+Cond 3
+Wear -1
+Cost 7400
+Val  2 9 12 1 12
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 99
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 91
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 88
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 91
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 15212
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  105
+Cost 0
+Val  22 22 22 18 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name pearl ring~
+ShD  a {Wpearl {wring{x~
+Desc Here lies a beautiful ring with an enormous pearl set within.{x~
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Name white silk pants~
+ShD  a pair of white silk pants{x~
+Desc A pair of white silk pants lay here.{x~
+Cond 94
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039957
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039957
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Name small lantern~
+ShD  a small {Wlantern{x~
+Desc This lantern gives off a very bright white light.{x~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Name blood-stained serrated blade~
+ShD  a {rblood-stained {wserrated blade{x~
+Desc Here lies a bloodstained blade, its edge serrated to inflict the deepest wounds.{x~
+ExtF 16779800
+Cond 95
+Wear 20
+Cost 7400
+Val  2 9 16 1 77
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 91
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16456
+Nest 0
+Name lustrous beautiful silver flute~
+ShD  ({WLustrous{w) a {Wbeautiful silver {wflute{x~
+Desc Here lies a beautiful silver flute, its bladed edge wickedly long and deadly.~
+ExtF 16779800
+Cond 96
+Wear 24
+Cost 7400
+Val  2 9 16 1 12
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 3000
+Nest 0
+Name hip white flask~
+ShD  a {Wwhite{x hip flask~
+Desc A white metal flask with a tulip engraved on either side, has been left here. Waiting to be attached to another travelers belt.~
+Cond 100
+Wear -1
+Cost 75
+Val  300 92 0 0 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 5700
+Nest 0
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF 32
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  steel~
+Wear -1
+Lev  68
+Cost 680
+Val  2 5 14 11 0
+Affc 'cultural artistry'   1  58  -1   0   0         32
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10963
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 10965
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 16366
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 16208
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5751
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Spell 3 'fireball'
+End
+
+#END

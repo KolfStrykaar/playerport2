@@ -1,0 +1,917 @@
+#PLAYER
+Name Aaden~
+Surname Quickfoot~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1406943332
+LogO 1410126115
+Vers 10
+Act  CDFGTe
+Desc Before you is a male who stands about 5 foot 5 inches.  His body is
+covered by a long black cape with a hood that covers half his head.  What
+can be seen of his head is his elvish ears and {Rfire red{w eyes.  After
+looking this man over you come to the conclusion that he is a half elf.  
+~
+Backg Aaden's child life is something he would love to forget.  His mother a
+human died during child birth.  His father a high ranking Silvanest elf
+warrior raised him in his village against the many protests from the tribe
+elders.  The tribe elders believed the Silvanesti elves were the purest of
+all the elves, and advised that Aaden should not be permitted to stay as he
+is a half blood.  So Aaden spent most of his childhood tucked away in his
+fathers house, never seeing any of the other villagers.  He spent this time
+studying the art of Assassination.  This art form caused more distress in
+his life, as this art form was considered forbidden within the tribes walls.
+When the tribe elders learned of Aaden's career choice, the elders charged
+Aaden and his father with Treason and sentenced Aaden to death and his
+father to life in exile.  When Aaden's father learned of his son's sentence
+he begged and pleaded with the village elders to lift the death sentence
+upon his son's head, in the end he ended up trading his own life for that of
+his son's.  After Aaden learned of what his father had done, he swore he
+would hone his art form to perfection in his exile, and hunt down the
+village elders and pass judgment upon them the way they passed judgment
+upon him and his father.
+~
+Prom {R<{B%h/%Hhp {R%m/%Mm %B {B%v/%Vmv {R%Xxp{B> ~
+Race half-elf~
+Sex  1
+Cla  9
+Hmtown 1
+Levl 59
+recall_point 5737
+Levscale 30
+Xptolev  58093
+Sec  0
+Plyd 371316
+Not  1408478590 0 0 0 0
+Scro 22
+Room 11813
+HMV  1134 1134 275 275 457 457
+Steel 5677
+Gold 578272
+Bank 118000
+Exp  1072857
+AfBy JTb
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3538944
+Comm NO
+Pos  8
+Prac 35
+Trai 1
+Save  -3
+Alig  -1000
+Ethos 0
+Hit   24
+Dam   29
+ACs 5 -3 -9 61
+Wimp  164
+Attr 22 25 21 21 27 16
+AMod 4 7 13 12 6 0
+Pass AaS.BTHdfmL5.~
+Titl  the Assassin of Many Faces~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 102
+HMVP 959 235 457
+Cnd  0 54 2 0
+QuestPnts 644
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {R<{BSneaky{R>{c~
+Sk 1 'detect hidden'
+Sk 1 'detect poison'
+Sk 75 'haste'
+Sk 1 'infravision'
+Sk 1 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 3 'shield block'
+Sk 1 'spear'
+Sk 1 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 1 'trip'
+Sk 100 'second attack'
+Sk 1 'third attack'
+Sk 100 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 46 'demand'
+Sk 100 'circlestab'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'battle tactics'
+Sk 1 'wear leather'
+Sk 79 'fast healing'
+Sk 100 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 75 'peek'
+Sk 9 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 100 'strangle'
+Sk 75 'cutthroat'
+Sk 1 'assassinate'
+Sk 1 'tumble'
+Sk 1 'scout'
+Sk 100 'second backstab'
+Sk 1 'taunt'
+Sk 75 'eavesdrop'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+Affc 'levitate'   0  78   2   0   0     524288
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 99
+Wear 2
+Cost 3278
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 97
+Wear 1
+Cost 2346
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 9531
+Nest 0
+Cond 88
+Wear 9
+Cost 3000
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 94
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 96
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 94
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 88
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 9531
+Nest 0
+Cond 97
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 4
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 100
+Wear -1
+Cost 1425
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 4480
+End
+
+#O
+Vnum 17713
+Enchanted
+Nest 1
+ExtF 67
+Cond 41
+Wear -1
+Lev  61
+Cost 550
+Val  2 7 8 11 65
+Affc 'enchant weapon'   1 100  -1   7  19          0
+Affc 'enchant weapon'   0 100  -1   7  18          0
+End
+
+#O
+Vnum 14491
+Enchanted
+Nest 1
+ExtF 64
+Cond 18
+Wear -1
+Lev  50
+Cost 2455
+Val  2 5 9 2 10
+Affc 'enchant weapon'   1 100  -1   2  19          0
+Affc 'enchant weapon'   0 100  -1   2  18          0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3805
+Nest 0
+Cond 82
+Wear 24
+Cost 500
+End
+
+#O
+Vnum 1952
+Nest 0
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 90
+Wear 20
+Cost 7400
+End
+
+#END

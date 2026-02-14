@@ -1,0 +1,779 @@
+#PLAYER
+Name Dhrogor~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1372634779
+LogO 1403361175
+Vers 10
+Act  CDGHQTe
+Desc {DThis {yyellow-skinned{D beast is an imposing humanoid figure, standing
+at an impressive height of nearly seven feet. He is incredibly muscular,
+and his revealed flesh is adorned with all manner of ritualistic scarring
+and tattoos. His black, mattered hair is stylized in a variety of
+dreadlocks, though they are tied together, appearing as a large ponytail.
+The same sort of dirty hair clings to his square face, with three braids
+of hair falling from his chin. His face is enamored with scars, the most
+prominent of which accents one of his dark grey eyes -- the left of which
+is calloused over.
+
+The same smattering of scars is across his unarmored, muscular chest.
+However, the rest of his body is quite protected. His arms are wrapped in
+a variety of chain and leather armors, none of which seems to fit right.
+Similar armor protects his legs, although a large tunic drapes from his
+waist. A variety of weapons clings to his body from different sheaths,
+most of which are attached to a thick leather belt about his waist.
+
+{x
+~
+Prom <%hhp %mm %vmv> ~
+Race ogre~
+Org 6
+Devotee 13
+Sex  1
+Cla  6
+Hmtown 0
+Levl 41
+recall_point 3001
+Levscale 30
+Xptolev  215
+Sec  0
+Plyd 32674
+Not  0 0 0 0 0
+Scro 22
+Room 3141
+HMV  1132 1132 307 307 343 343
+Steel 324
+Gold 83
+Bank 0
+Exp  253285
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3735552
+Comm BMNO
+Pos  8
+Save  -2
+Alig  -1000
+Ethos 0
+Hit   7
+Dam   7
+ACs 32 27 14 80
+Wimp  20
+Attr 24 19 20 15 24 10
+AMod 1 7 17 6 10 0
+Pass DhfV0UNJgfMzk~
+Titl  the Unwrought~
+Pretit ~
+Pnts 6
+TSex 1
+LLev 7
+HMVP 967 197 343
+Cnd  0 57 44 0
+QuestPnts 53
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 75 'frenzy'
+Sk 75 'axe'
+Sk 84 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 41 'polearm'
+Sk 75 'shield block'
+Sk 1 'spear'
+Sk 100 'sword'
+Sk 40 'whip'
+Sk 100 'bash'
+Sk 75 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 77 'dodge'
+Sk 100 'enhanced damage'
+Sk 7 'envenom'
+Sk 1 'hand to hand'
+Sk 100 'kick'
+Sk 55 'parry'
+Sk 1 'trip'
+Sk 88 'second attack'
+Sk 82 'third attack'
+Sk 1 'fourth attack'
+Sk 70 'track'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 75 'critical strike'
+Sk 1 'whirlwind'
+Sk 1 'butcher'
+Sk 1 'ravage bite'
+Sk 1 'dual wield'
+Sk 75 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 70 'trophy'
+Sk 75 'wear chain'
+Sk 1 'wear leather'
+Sk 17 'fast healing'
+Sk 10 'haggle'
+Sk 100 'common'
+Sk 100 'ogre tongue'
+Sk 1 'lore'
+Sk 50 'recall'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 76 'guard'
+Sk 1 'headbutt'
+Sk 1 'shield rush'
+Sk 70 'backup'
+Sk 1 'mounted combat'
+Sk 75 'cleave'
+Sk 75 'sidestep'
+Sk 1 'entwine'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'execute'
+Sk 1 'earpunch'
+Sk 1 'brainjar'
+Sk 1 'rupture organ'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 3768
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 197 0 0
+End
+
+#O
+Vnum 3769
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3770
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3721
+Nest 0
+Cond 100
+Wear -1
+Cost 330
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3771
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 97
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 94
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 604
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 4
+Cost 663
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear 3
+Cost 617
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 736
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear -1
+Cost 1433
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 453
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 100
+Wear -1
+Cost 2288
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 857
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1134
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 1245
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 990
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 998
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear 15
+Cost 2088
+End
+
+#O
+Vnum 1256
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 94
+Wear 20
+Cost 6210
+Val  1 4 22 33 12
+End
+
+#O
+Vnum 10655
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1359
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1152
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1674
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1413
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1485
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear -1
+Cost 2364
+End
+
+#PET
+Vnum 3076
+Name warhorse~
+LogO 1403361175
+Desc Muscles ripple throughout his legs and chest.  A large black saddle has
+been strapped on his back for easy riding.  His mane and fur are a deep
+black color, with a few white spots on his behind.  
+A neck tag says 'I belong to Dhrogor'.
+~
+Sex  1
+HMV  355 355 201 201 100 100
+AfBy SZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -30 -30 -30 0
+Attr 23 22 22 24 22 22
+AMod 0 0 0 0 0 0
+End
+#END

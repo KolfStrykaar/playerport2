@@ -1,0 +1,529 @@
+#AREADATA
+Name The Forge~
+Builders Hiddukel Reorx~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 400 499
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#400
+reo cleric healer~
+the cleric of Reorx~
+A cleric of Reorx is here blessing the weapons made.
+~
+This cleric seems to be an old dwarf, by looking at his scars and rough
+hands he must have spent many years behind a forge.  
+~
+hylar~
+ABa JZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD ELQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul IR
+#401
+old dwarf shopkeeper~
+an old dwarf~
+An old dwarf is here, selling smithy stuff.
+~
+A strong, stocky Daewar Dwarf stands here, looking firm and aggressive. 
+This Dwarf is decked out in full combat dress, with beautifully crafted
+armor plating and a large horned helmet.  A large symbol of a Hammer and an
+Anvil has been etched onto the front of his steel breastplate.  Probably a
+retired Guardian of the Forge, he now sells goods for the ones he used to
+protect.  
+~
+dwarf~
+AB J 0 0
+90 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#402
+dwarven bartender shopkeeper~
+a Dwarven bartender~
+A Dwarven bartender is here, waiting for your order.
+~
+This dwarven bartender stands here ready to take your orders.  He is
+fairly tall for a dwarf and has a strong build.  He wears a grey shirt, a
+pair of raw hide pants and a pair of iron boots.  
+~
+hylar~
+AB J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 IR
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#410
+guard dwarf guardian~
+a Guardian of the Forge~
+A stocky Dwarf stands here guarding The Forge from intruders.
+~
+A strong, stocky Daewar Dwarf stands here, looking firm and aggressive. 
+His large nose almost makes him look too comical to be a real threat, if it
+weren't for the axe he wields in his hands that looks larger than a
+minotaur's head.  This Dwarf is decked out in full combat dress, with
+beautifully crafted armor plating and a large horned helmet.  His face is
+firm, showing absolutely no emotions.  A large symbol of a Hammer and an
+Anvil has been etched onto the front of his steel breastplate.  
+~
+daewar~
+ABNT DFJa 0 0
+90 90 135d30+1639 90d10+85 25d3+35 crush
+-33 -33 -33 -14
+CFNU AB DLQ IR
+stand stand male 2300
+AHMV ABCDEFGHIJK S unknown 7
+#411
+drodge firestone dwarf shopkeeper~
+Drodge Firestone~
+The great Drodge Firestone stands on a stool, waiting to sell you something.
+~
+A short little, stubby dwarf.  He looks small, yet the muscles which
+ripple through him prove to show his true strength 
+~
+dwarf~
+AB JZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+CDH ABCD LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul R
+#0
+
+
+
+#OBJECTS
+#400
+iron anvil~
+an {Diron{x anvil~
+A large {Diron{x anvil sits here.~
+iron~
+anvil 0 0 P
+0 0 0 0 0
+0 0 0 P
+#401
+wooden shelves~
+a set of wooden shelves~
+A set of wooden shelves sits on the west wall.~
+pine~
+container 0 0 P
+9000 0 0 1000 0
+0 0 0 P
+#402
+cooling pool~
+a {Bcooling{x pool~
+A cooling {Bpool{x sits next to the {Diron{x anvil.~
+stone~
+barrel 0 0 P
+0 0 0 0 0
+0 0 0 P
+#403
+potion stammering stuttering~
+a potion of stammering and stuttering~
+A potion of stammering and stuttering lies here.~
+glass~
+potion GST 0 AO
+35 'invisibility' 'frenzy' 'haste' 'reserved'
+35 1 16000 P
+#404
+iron doors massive~
+the massive {Diron{x doors~
+A pair of massive {Diron{x doors stand between you and sunlight.~
+iron~
+portal 0 0 P
+0 A A ABFGHIJL 0
+0 0 0 P
+#405
+potion vitality~
+a potion of vitality~
+A potion of vitality lies here.~
+glass~
+potion GST 0 AO
+40 'cure poison' 'cure disease' 'cure blindness' 'reserved'
+40 2 12000 P
+#406
+potion giant control~
+a potion of giant control~
+A potion of giant control lies before you.~
+glass~
+potion GST 0 AO
+18 'giant strength' '' 'reserved' 'reserved'
+20 3 5000 P
+#407
+potion divine protection~
+a potion of divine protection~
+A potion of divine protection is on the ground here.~
+glass~
+potion AGIST 0 AO
+35 'sanctuary' '' 'armor' 'reserved'
+16 10 1800 P
+#408
+iron bar~
+an iron bar~
+A bar of smelted iron sits here, waiting to be forged into something useful.~
+iron~
+raw_material 0 0 AO
+0 0 0 0 0
+30 1 200 P
+#409
+piece leather~
+a piece of leather~
+A cut piece of leather suitable for raw material lies here.~
+leather~
+raw_material 0 0 AO
+0 0 0 0 0
+30 1 100 P
+#410
+bar silver~
+a silver bar~
+A bar of smelted silver sits here, waiting to be forged into something useful.~
+silver~
+raw_material 0 0 AO
+0 0 0 0 0
+30 1 1000 P
+#411
+recall potion~
+a recall potion~
+A potion of recall lies here.~
+glass~
+potion GS 0 AO
+40 'word of recall' 'reserved' 'reserved' 'reserved'
+40 1 9000 P
+#412
+steel bar~
+a steel bar~
+A bar of smelted steel sits here, waiting to be forged into something useful.~
+steel~
+raw_material 0 0 AO
+0 0 0 0 0
+30 0 250 P
+#413
+blacksmith hammer smith~
+a blacksmith's hammer~
+A blacksmith's hammer sits here, unused.~
+steel~
+bhammer 0 0 ANc
+0 0 0 0 0
+30 3 2500 P
+#414
+mining food rations~
+some mining food rations~
+A can of mining food rations lies here.~
+unknown~
+food 0 0 A
+BEF 0 0 0 0
+30 1 500 P
+#415
+fountain anvil~
+a large fountain~
+A large fountain with a hammer atop an anvil on the center.~
+unknown~
+fountain MY 0 P
+-1 -1 'water' 0 0
+0 500 0 P
+#420
+dwarven axe forge~
+a Dwarven axe of the Forge~
+A large, beautifully crafted Dwarven axe lies here.~
+steel~
+weapon PY 0 ANW
+axe 8 16 cleave R
+95 10 500 P
+#421
+dwarven breast plate~
+a Dwarven breastplate of the Forge~
+A beautifully crafted breastplate of Dwarven make, lies here.~
+steel~
+armor PY 0 ADX
+ACE CE ACE AE C
+93 8 800 P
+#0
+
+
+
+#ROOMS
+#400
+In front of the forge~
+You are standing in front of a massive forge.  An immense hearth burns
+here powered by massive bellows.  An iron anvil sits in the center of the
+room and a cooling pool sits just next to it.  On the west wall, a large set
+of wooden shelves are bolted to the wall, the place where the masters of
+their arts leave their discarded work for the apprentices to look at.  
+~
+0 8651784 44
+D2
+~
+~
+0 0 401
+S
+#401
+Well carved tunnel~
+You are walking down a stone-carved tunnel.  Its design in itself is a
+master piece.  The tunnel seems to have been carved directly into the
+mountain but its design is that of well-laid stones.  Obviously a master
+stone worker had his hand at making this place.  
+~
+0 8 25
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 404
+D3
+~
+~
+0 0 403
+S
+#402
+Apprentice study~
+You enter a small workshop.  Benches line the room where the students of
+the various crafts practice their art and study their lessons given to them
+by their masters.  A large wooden table sits in the center of the room with
+various types of metal and stone work strewn upon it.  
+~
+0 8 25
+D1
+~
+~
+0 0 411
+D3
+~
+~
+0 0 401
+S
+#403
+Mess Hall~
+You walk into the carved room and notice a sweet smell immediately.  In
+the center of the room is a butcher-block table covered with flour.  On the
+far wall a large iron wood cook stove sits with about three pots slowly
+simmering.  Above the table is a large metal rack with various cooking
+utensils, pots and pans hanging from it.  The floor is made of a smooth
+rock, making it easy to clean spills.  
+~
+0 8 25
+D1
+~
+~
+0 0 401
+S
+#404
+Well carved tunnel~
+You are walking down a stone-carved tunnel.  Its design in itself is a
+master piece.  The tunnel seems to have been carved directly into the
+mountain but its design is that of well-laid stones.  Obviously a master
+stone worker had his hand at making this place.  
+~
+0 8 25
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 405
+S
+#405
+Bend in the tunnel~
+You have come to a bend in this massive tunnel.  To the the air seem to
+get much warmer as a slightly hot wind seems to blow from that direction. 
+The sound of banging metal also seems to be emanating from that direction. 
+Perhaps a short walk that way will show what the cause of the noise is?  
+~
+0 8 25
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 404
+S
+#406
+Stone carved tunnel~
+You are walking down a stone-carved tunnel.  Its design in itself is a
+master piece.  The tunnel seems to have been carved directly into the
+mountain but its design is that of well-laid stones.  Obviously a master
+stone worker had his hand at making this place.  A large set of stairs lead
+upward out of the mountain face.  
+~
+0 8 25
+D0
+~
+~
+0 0 405
+D3
+~
+~
+0 0 407
+D4
+~
+~
+0 0 408
+S
+#407
+Large chamber~
+You have walked into a massive chamber carved into the face of the
+mountain.  The walls have been smoothed and polished and the floor inlaid
+with white marble.  A massive stone table sits in the center of the room
+with many chairs surrounding it.  There are a lot of brightly burning
+torches finely crafted from copper and other metals.  This is obviously a
+large meeting hall of some sorts.  
+~
+0 8 25
+D1
+~
+~
+0 0 406
+S
+#408
+Large stairs~
+You are walking down a massive set of stone stairs.  The blocks seem to
+have been removed from the mountain and carved into these massive steps. 
+The walls are smooth as glass but still obviously the original stone of the
+mountainside.  The makers of this impressive work of art must have been
+master stone craftsmen.  
+~
+0 8 25
+D4
+~
+~
+0 0 409
+D5
+~
+~
+0 0 406
+S
+#409
+Massive stairs~
+You are walking down a massive set of stone stairs.  The blocks seem to
+have been removed from the mountain and carved into these massive steps. 
+The walls are smooth as glass but still obviously the original stone of the
+mountainside.  The makers of this impressive work of art must have been
+master stone craftsmen.  
+~
+0 8 25
+D4
+~
+~
+0 0 410
+D5
+~
+~
+0 0 408
+S
+#410
+Entrance to the Forge~
+You are standing at a stone archway which leads to a massive set of
+stairs that seem to lead down into the depth of the mountain.  The archway
+is made from rose marble and the steps seem to be polished granite.  A
+slight banging sound can be heard echoing from the passageway below but its
+origin is a mystery.  
+~
+0 8 25
+D4
+~
+~
+0 0 10723
+D5
+~
+~
+0 0 409
+S
+#411
+The "Forgery"~
+Welcome to the shop which seems to keep on giving.  All around are
+objects of all shapes and sizes, each one seemingly forged by the hands of
+Gods and placed neatly on the walls for display.  Looking towards the back
+of the room, a large counter with a Dwarf standing on a stool can be seen. 
+Perhaps he'd be willing to help out.  
+~
+0 8 25
+D3
+~
+~
+0 0 402
+S
+#0
+
+
+
+#SPECIALS
+M 400 spec_cast_adept
+M 410 spec_orgguard
+S
+
+
+
+#RESETS
+O 0 400 0 400
+O 0 401 0 400
+O 0 402 0 400
+M 0 400 1 400 1
+O 0 400 0 400
+M 0 410 5 400 1
+E 0 420 0 20
+E 0 421 0 5
+O 0 415 0 401
+M 0 402 1 403 1
+G 0 414 0
+M 0 410 5 404 1
+E 0 420 0 20
+E 0 421 0 5
+M 0 410 5 406 1
+E 0 420 0 20
+E 0 421 0 5
+M 0 410 5 410 1
+E 0 420 0 20
+E 0 421 0 5
+M 0 410 5 411 1
+E 0 420 0 20
+E 0 421 0 5
+M 0 401 1 411 1
+G 0 408 0
+G 0 409 0
+G 0 410 0
+G 0 412 0
+G 0 413 0
+S
+
+
+
+#SHOPS
+401 43 43 43 43 0 100 100 0 23
+402 0 0 0 0 0 100 100 0 23
+411 0 0 0 0 41 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

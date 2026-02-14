@@ -1,0 +1,1896 @@
+#PLAYER
+Name Amon~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1211231378
+LogO 1405564837
+Vers 10
+Act  CDEGQT
+Desc {gDecayed, {ymummified{g flesh that had once been of elven nature now
+clings to a skeletal figure, petrified into tree-like bark; an earthly
+fossil that had once lived and breathed like the creatures it adored. As
+the moss and vines which cling to its bare, oaken form, so too does it
+cling to some form of life, retrieving nutrients as a tree does, its vines
+often times delving into the ground bellow to sap a drink. It is entirely
+naked, though it resembles more of a partially decayed skeleton than it
+does an elven figure, the shape of which has a masculine sort of broadness
+to it -- a creature resembling an unnatural mixture of skeleton and
+treant. The only real fleshy shape that remains are the two pointed ears,
+their form nonetheless as {ybarklike{g and browned as the rest of it.
+
+{gEyeless sockets stare forth from a skull with a rotten, frozen jaw that
+clings partially open; should a word be given, it would not move, though
+the pale green glow of some form of spirit within would shine through the
+emptyness. A firm, dull creaking noise sounds with each of its branchlike
+and rigid movements; despite its almost undead appearance, deathly magics
+would be found lacking, much like the absence of hair falling from what
+had once been a scalp. {yAmber{g in liquified form is often found seeping
+through its limbs, excreted like sweat, or bled like blood.{g
+
+No weapons, garments, or clothes adorn its body -- spare the long,
+spikelike digits which had been lithe, tender fingers in a past life, the
+{ghands of which now glow faintly with an emerald, magical aura. The very
+vines which sprout from its figure, and often times act as roots could,
+are no doubt used as weapons against whatever tried to harm its form.
+Their thick, wrapped form resemble snakes with their lack of stillness
+(lest they delve into the ground), standing in stark contrast to the
+being's otherwise treeish nature.
+
+It stands as an almost perverse mixture of mammal and plant, death and
+life, bone and bark. From its frozen, deathly visage, to the constantly
+mobile plant-like tentacles that extend from arms and legs. Whether its
+true nature reflects one or the other, incapable of discerning from
+appearance alone. Nonetheless, the stench of a corpse is not shared, but
+merely the scent of tree-sap and pine, often times accented by the
+{Wlilies{g which sprout from its ever-moving vines. {x
+~
+Prom {y<%hhp/%Hhp> {g<%mmp/%Mmp>{r <%vmv/%Vmv>{x %b %B ~
+Race qualinesti~
+Org 8
+Religion 11
+Sex  1
+Cla  7
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1792350
+Sec  0
+Plyd 589688
+Not  1364088655 1211494232 0 1211494234 1241374501
+Scro 22
+Room 13329
+HMV  2558 2558 2056 2335 550 907
+Steel 8152
+Gold 132687
+Bank 168289
+Exp  24388700
+AfBy DFJb
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3276800
+Comm BMNOQ
+Pos  8
+Save  -69
+Alig  -151
+Ethos 0
+Hit   60
+Dam   62
+ACs -339 -335 -352 -341
+Wimp  70
+Attr 22 19 21 20 20 16
+AMod 12 6 7 24 7 5
+Pass AmUy57Wy0NmNo~
+Titl  - {yMonster{x of the {gForests{x~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 20
+HMVP 1668 1630 757
+Cnd  0 50 50 0
+QuestPnts 20
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {g@{D}- {gAmon {D-{{{g@{x : {D~
+Sk 75 'create rose'
+Sk 75 'fireproof'
+Sk 75 'orb of containment'
+Sk 100 'life transfer'
+Sk 79 'storm of vengeance'
+Sk 75 'teleport'
+Sk 100 'dagger'
+Sk 80 'shield block'
+Sk 98 'spear'
+Sk 75 'dirt kicking'
+Sk 75 'disarm'
+Sk 91 'dodge'
+Sk 100 'enhanced damage'
+Sk 75 'envenom'
+Sk 77 'hand to hand'
+Sk 100 'kick'
+Sk 94 'parry'
+Sk 75 'trip'
+Sk 95 'second attack'
+Sk 75 'sharpen'
+Sk 77 'deathgrip'
+Sk 75 'mount'
+Sk 76 'badberry'
+Sk 100 'goodberry'
+Sk 84 'breath of nature'
+Sk 75 'druidstaff'
+Sk 100 'earthmeld'
+Sk 89 'windspirit'
+Sk 90 'stonespirit'
+Sk 75 'summon insects'
+Sk 87 'natures embrace'
+Sk 88 'natures warmth'
+Sk 94 'pillify'
+Sk 82 'herbal discern'
+Sk 82 'bark skin'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 75 'battle tactics'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 89 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'drow tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 75 'lore'
+Sk 75 'pick lock'
+Sk 75 'scrolls'
+Sk 50 'recall'
+Sk 75 'bow'
+Sk 75 'pass without trace'
+Sk 75 'purify'
+Sk 75 'jab'
+Sk 75 'sweep attack'
+Sk 88 'vermin plague'
+Sk 76 'vortex'
+Sk 82 'detect presence'
+Sk 75 'scout'
+Sk 76 'sticks to snakes'
+Sk 93 'quiet movement'
+Sk 76 'surge'
+Sk 75 'endure'
+Sk 77 'sparkshot'
+Sk 76 'sunray'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 75 'trance'
+Sk 77 'waterlungs'
+Sk 76 'fireseed'
+Sk 75 'immolation'
+Sk 78 'pine needles'
+Sk 75 'staff'
+Sk 75 'eyerub'
+Sk 100 'wrath of nature'
+Sk 100 'instruct'
+Sk 70 'eagle eye'
+Sk 77 'call of the wild'
+Sk 75 'tame'
+Sk 75 'entangle'
+Sk 78 'plant growth'
+Sk 80 'treeform'
+Sk 75 'quicksand'
+Sk 75 'windtalk'
+Sk 75 'wilderness lore'
+Sk 75 'beastspite'
+End
+
+#O
+Vnum 1251
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 100
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 100
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 98
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 3367
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 14210
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear 14
+Cost 4485
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1665
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1440
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1746
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 17724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  56
+Cost 0
+Val  28 -1 147 0 0
+Spell 2 'silence'
+End
+
+#O
+Vnum 1833
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 1833
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#O
+Vnum 13715
+Nest 1
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 919
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 5700
+Nest 1
+Name flamberge~
+ShD  a flamberge~
+Desc A two-bladed flamberge sits in the room.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   4
+Cond 100
+Mat  steel~
+Wear -1
+Lev  60
+Cost 600
+Val  1 6 11 3 1024
+Affc 'cultural artistry'   5  51  -1   0   0       1024
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 100
+Wear -1
+Cost 1788
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 100
+Wear -1
+Cost 2313
+End
+
+#O
+Vnum 3042
+Nest 0
+Cond 100
+Wear -1
+Cost 180
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 8796
+Nest 0
+Cond 100
+Wear -1
+Cost 1910
+End
+
+#O
+Vnum 3042
+Nest 0
+Cond 100
+Wear -1
+Cost 147
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1832
+Nest 0
+Cond 100
+Wear -1
+Cost 7345
+End
+
+#O
+Vnum 10703
+Nest 0
+Cond 100
+Wear -1
+Cost 1268
+Spell 3 'earthquake'
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3243
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 2726
+End
+
+#O
+Vnum 5755
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 410
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 1047
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3369
+Nest 0
+Cond 100
+Wear -1
+Cost 16000
+End
+
+#O
+Vnum 5766
+Nest 0
+Cond 100
+Wear -1
+Cost 270
+Val  50 1 0 50 100
+End
+
+#O
+Vnum 17724
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 7680
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 12267
+Nest 0
+ExtF 0
+Cond 93
+Wear 20
+Cost 4710
+End
+
+#O
+Vnum 5759
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15194
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 5745
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9574
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear -1
+Cost 310
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3354
+Nest 0
+Cond 100
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 17722
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17723
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 13716
+Nest 0
+ExtF 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 17722
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17723
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 17728
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 17729
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 99
+Wear -1
+Cost 8280
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 298
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 5773
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5745
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 5757
+Nest 0
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'quench'
+Spell 2 'sate'
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear -1
+Cost 1260
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 365
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3042
+Nest 1
+Cond 100
+Wear -1
+Cost 155
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 16208
+Nest 1
+Cond 100
+Wear -1
+Cost 1463
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 4932
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 3369
+Nest 1
+ExtF 16777536
+Cond 97
+Wear -1
+Cost 16000
+End
+
+#O
+Vnum 3369
+Nest 1
+Cond 100
+Wear -1
+Cost 16000
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 1145
+End
+
+#O
+Vnum 10967
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 574
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 659
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 724
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16193
+Nest 1
+Cond 100
+Wear -1
+Cost 708
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3709
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 100
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 3707
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3774
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 9831
+Enchanted
+Nest 0
+ExtF 264787
+Cond 100
+Wear -1
+Lev  51
+Cost 6685
+Val  6 6 10 13 77
+Affc 'enchant weapon'   1  75  -1   5  19          0
+Affc 'enchant weapon'   0  75  -1   5  18          0
+End
+
+#O
+Vnum 3700
+Nest 0
+Cond 99
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17523
+Nest 0
+Cond 100
+Wear -1
+Cost 3875
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 0
+Cond 100
+Wear -1
+Cost 4875
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 0
+Cond 100
+Wear -1
+Cost 3900
+Spell 1 'pass door'
+End
+
+#O
+Vnum 17523
+Nest 0
+Cond 100
+Wear -1
+Cost 3150
+Spell 1 'pass door'
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3805
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9828
+Nest 0
+ExtF 526960
+Cond 100
+Wear -1
+Lev  49
+Cost 6510
+Val  2 6 8 2 77
+End
+
+#O
+Vnum 3041
+Nest 0
+Cond 100
+Wear -1
+Cost 191
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 1206
+Nest 0
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 10657
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 10684
+Nest 0
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10653
+Nest 0
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 10650
+Nest 0
+Cond 100
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of a street cleaner~
+Desc The knocked-out tooth of a street cleaner lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of a street cleaner~
+Desc The knocked-out tooth of a street cleaner lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 17722
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17723
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  70
+Cost 193
+Val  35 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  70
+Cost 193
+Val  35 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  70
+Cost 193
+Val  35 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 3041
+Nest 0
+Cond 100
+Wear -1
+Cost 214
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 13715
+Nest 0
+ExtF 2576
+Cond 100
+Wear -1
+Lev  44
+Cost 0
+Val  1 7 9 3 77
+End
+
+#O
+Vnum 5759
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3017
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 313
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 358
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 632
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 760
+End
+
+#O
+Vnum 16230
+Nest 0
+Cond 100
+Wear -1
+Cost 1875
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 782
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 515
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 825
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 522
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 634
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 918
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 811
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 788
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 68
+Val  300 300 0 0 0
+End
+
+#END

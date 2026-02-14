@@ -1,0 +1,379 @@
+#AREADATA
+Name Dark Temple~
+Builders Morgion~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 151 199
+Credits Morgion~
+Security 9
+End
+
+
+
+#MOBILES
+#151
+rewnoyk cleric healer~
+Rewnoyk, the dark cleric of {DMorgion{x~
+A cleric in dark gray robes stands here healing his brethren.
+~
+Visage obscured by the large, loose fitting gray robe he wears, you cant
+see much of this priests facial features.  Rewnoyk walks slightly hunched
+over, and has a perpetual dark aura around him.  
+~
+human~
+ABQa DFHJ -1000 0
+130 130 195d43+3550 130d10+85 37d3+48 wrath
+-52 -52 -52 -25
+CIKNO ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#158
+dark cleric black order blackorder~
+a dark cleric of the Black Order~
+A dark cleric of the Black Order stands guard over the Dark Temple here.
+~
+A tall, frail man stands here, keeping watch over his brethren's Temple
+of the Dark Order.  He is dressed in a simple long, black hooded robe;
+the hood pulled partially over his face.  In his right hand, he holds a
+long wooden staff, with a large, sharp sickle at the end.  His left hand
+hides deep within the folds of his robe.  Upon closer inspection, it would
+appear that embroidered onto the chest of his robe is a symbol of a hooded
+man with deep, dark red eyes....  {xthe symbol of Morgion.  
+~
+human~
+ABNQ DFO -1000 0
+85 85 128d28+1547 85d10+85 24d3+33 wrath
+-31 -31 -31 -13
+HU AB C 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 10
+#0
+
+
+
+#OBJECTS
+#151
+pit altar~
+an altar to the {Ddark Gods{x~
+An altar to the gods of darkness sits here, filled with offerings.~
+marble~
+container 0 0 P
+10000 0 0 500 0
+0 0 0 P
+E
+altar dark gods~
+A shrine of epic proportions, this altar is quite impressive.  It is a
+solid block of pure black onyx.  Carved into the sides are depictions of the
+various avatars of the dark gods.  Each of the corners has a skull from an
+unknown victim set into it, with long bones connecting the base to the top. 
+~
+#152
+obsidian fountain~
+a water fountain~
+A beautiful fountain made of obsidian, flowing with cold water.~
+obsidian~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+obsidian fountain~
+This fountain has jagged, angulated sides.  The obsidian that makes up
+the fountain gleams in the light, sending reflections off to various places
+around the room.  
+~
+#153
+obsidian gates~
+the obsidian gates~
+A large set of obsidian gates stand here, leading to parts unknown.~
+obsidian~
+portal 0 0 0
+0 0 0 ADEFHIJL 0
+0 0 0 P
+E
+obsidian gates~
+These gates stand about 20 feet tall.  The pillars that hold the gates up
+are carved to resemble grinning skeletons.  The doors of the gate creak
+loudly as they open, sounding almost like someone screaming in pain.  
+~
+#154
+dirty robes~
+a set of {ydirty{x {Drobes{x~
+A pile of dirty, dark colored robes lie here.~
+cloth~
+armor SYa 0 AKY
+D D D C 0
+35 3 1500 P
+A
+12 50
+A
+5 1
+A
+4 2
+E
+dirty robes~
+These old ratty robes have seen better days.  They are riddled with moth
+holes and other rips.  The robes are so faded and dirty, it is difficult to
+tell their original color.  
+~
+#158
+sickle staff black order wooden long~
+{xA Sickle Staff of the Black Order~
+A long black wooden staff with a large sickle at the end of it lies here.~
+wood~
+weapon EJLPY 0 ANY
+exotic 5 22 slash DP
+85 6 500 P
+E
+sickle staff black order~
+This six foot long staff is back of black iron wood.  There is a sickle
+blade on the end that measures close to five feet in length.  The blade has
+some unknown runes stamped into it.  
+~
+#159
+robe black order~
+{xRobe of the Black Order~
+A black robe lies here in a wrinkled pile on the ground.~
+cloth~
+armor EJLPSY 0 ADY
+AC AC AC A 0
+85 4 500 P
+A
+4 1
+E
+robe black order~
+These robes are made of fine black velvet.  They are loose fitting as to
+facilitate quick movement.  The hems are lined with lighter gray colored
+strips of velvet.  
+~
+#0
+
+
+
+#ROOMS
+#151
+{DBefore the Altar{x~
+The vast vaulted ceiling of this room is lost in the recesses of
+darkness, as the dim light of numerous black tapers cast shadows through the
+gloom.  Bookcases along the side walls are filled with scriptures of past
+ceremonies and living specimens of the pests that have plagued the face of
+Krynn since the dawn of time.  On the far wall, a small circular window
+holds the constellation of the gods in its gaze.  The pungent smell of decay
+fills the room, nauseates all but those who reside here.  
+~
+0 8651784 36
+D2
+~
+~
+0 0 152
+S
+#152
+{DCourtyard of Darkness{x~
+Gardens of various designs line the center of the courtyard and its
+centerpiece, the fountain.  The fountain spills forth cool refreshing water,
+blessed by the goddess Zeboim.  Various statues dedicated to the dark gods
+line the courtyard.  
+~
+0 8 26
+D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 158
+D3
+~
+~
+0 0 157
+S
+#153
+{DCourtyard of Darkness{x~
+Gardens of various designs line the center of the courtyard and its
+centerpiece, the fountain.  The fountain spills forth cool refreshing water,
+blessed by the goddess Zeboim.  Various statues dedicated to the dark gods
+line the courtyard.  
+~
+0 8 26
+D0
+~
+~
+0 0 154
+D1
+~
+~
+0 0 155
+D2
+~
+~
+0 0 157
+D3
+~
+~
+0 0 156
+S
+#154
+{DThe Training Room{x~
+Various tools for combat fill the room.  Here, students come to practice
+incorporating their spells into their combat technique.  Blunt weapons of
+all designs line the walls, open for each students choosing.  The teacher
+seems involved with a class, instructing them on the usefulness of cursing
+their weapons.  
+~
+0 8 26
+D2
+~
+~
+0 0 153
+S
+#155
+{DThe Meditation Cell{x~
+The walls are black and solid, save for a window that holds the
+constellations in its gaze.  A soft black velvet cushion sits alone in the
+center of the room, placed there to allow a person to sit in meditation to
+his or her god.  Devotees are required to spend two days in this room, in
+fasting and prayer.  
+~
+0 8 26
+D3
+~
+~
+0 0 153
+S
+#156
+{DThe Commons Room{x~
+Couches and chairs fill the room, giving it a more relaxed atmosphere. 
+Clerics can come to unwind and converse amongst themselves, or to discuss
+the nature of the events in the world.  A table in the center allows for
+studying prayer books or maps for convenience.  The walls have murals with
+representations of the gods themselves, in honor of the dark paths that each
+cleric walks.  
+~
+0 8 26
+D1
+~
+~
+0 0 153
+S
+#157
+{DCourtyard of Darkness{x~
+Gardens of various designs line the center of the courtyard and its
+centerpiece, the fountain.  The fountain spills forth cool refreshing water,
+blessed by the goddess Zeboim.  Various statues dedicated to the dark gods
+line the courtyard.  
+~
+0 8 26
+D0
+~
+~
+0 0 153
+D1
+~
+~
+0 0 152
+D2
+~
+~
+0 0 160
+D3
+~
+~
+1 0 159
+S
+#158
+{DEntrance to the Dark Temple{x~
+Large obsidian gates encircle the temple devoted to the dark gods and
+their worshipers.  The walkway is made of black pebbles that give with each
+footstep, only to resume their former place when the foot is lifted.  
+~
+0 8 26
+D2
+~
+~
+0 0 11123
+D3
+~
+~
+0 0 152
+S
+#159
+{DThe Office of the High Priest{x~
+The vast vaulted ceiling of this room is lost in the recesses of
+darkness, as the dim light of numerous black tapers cast flickering shadows
+about the area.  Bookcases along the side walls are filled with scriptures
+of past ceremonies and living specimens of the pests that have plagued the
+face of Krynn since the dawn of time.  On the far wall, a small circular
+window holds the constellations of the gods in its gaze.  The pungent smell
+of decay fills the room, nauseating all but those who reside here.  
+~
+0 8 26
+D1
+~
+~
+1 0 157
+S
+#160
+{DThe Dark Library{x~
+Various books on the history of Krynn line half of this spacious room,
+while prayer books of various dark gods line the other.  A lone table sits
+in the center of the room to provide a place of study for those that enter. 
+Candles wait to be lit by the next patron to require the library's use.  
+~
+0 8 26
+D0
+~
+~
+0 0 157
+S
+#0
+
+
+
+#SPECIALS
+M 158 spec_orgguard
+S
+
+
+
+#RESETS
+D 0 157 3 1
+D 0 159 1 1
+O 0 151 0 151
+M 0 151 1 151 1
+M 0 158 5 151 1
+E 0 158 0 20
+E 0 159 0 5
+O 0 152 0 152
+M 0 158 5 153 1
+E 0 158 0 20
+E 0 159 0 5
+M 0 158 5 157 1
+E 0 158 0 20
+E 0 159 0 5
+M 0 158 5 158 1
+E 0 158 0 20
+E 0 159 0 5
+M 0 158 5 159 1
+E 0 158 0 20
+E 0 159 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

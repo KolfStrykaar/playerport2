@@ -1,0 +1,2622 @@
+#AREADATA
+Name High Clerist Tower~
+Builders Reorx~
+Continent Solamnia~
+Controlby 1~
+Faction 250~
+Sector 0
+VNUMs 13700 13900
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#13700
+solamnic knight headquarter guard guardian~
+{xA Solamnic Guardian~
+A Guardian of the Solamnic Headquarters stands here at attention.
+~
+Standing tall and proud, this Solamnic Knight's sole purpose is to guard
+the Solamnic Headquarters at all costs.  His muscular build, determined face
+and well-polished sword give him the appearance of someone to be reckoned
+with.  He keeps a well-trimmed mustache, the rest of his face clean shaven. 
+His hair appears to be shoulder length, as it extends a little bit from
+underneath his helm.  He maintains a firm grip upon the hilt of his drawn
+sword.  
+~
+human~
+ABNT DFHN 1000 0
+100 100 150d33+1821 100d10+85 28d3+38 crush
+-37 -37 -37 -16
+EFKU AB DG 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 3
+#13701
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here, cleaning glasses.
+~
+The Innkeeper now spends most of his days waiting for customers, while
+the nights are spent watching out for bandits.  His inn is no longer the
+happy place that is used to be in days past.  
+~
+human~
+ABT 0 500 0
+200 1 1d12+2000 0d0+0 10d8+30 punch
+-10 -10 -10 -10
+BFKQ AB CD 0
+stand stand male 350
+0 ABCDEFGHIJK M unknown 0
+F for AHMV
+#13702
+sullen bard~
+the bard~
+A sullen bard is here, drinking away his problems.
+~
+You can smell the alcohol on his breath from across the room.  This poor
+bard has been sitting here quite a while, drinking himself into oblivion. 
+His once brightly colored clothes are now dull and faded.  His pants are
+full of holes, and his toes peek out of his boots.  
+~
+human~
+ABST D 600 0
+35 10 1d12+1000 0d0+0 10d8+50 none
+-12 12 -12 -21
+FIJKNQ 0 0 0
+stand stand male 260
+0 0 M unknown 0
+F for AHMV
+F par ABCDEFGHIJK
+#13715
+crown knight~
+the Knight of the Crown~
+A Knight of the Crown stands here guarding the gate.
+~
+A knight bearing the crest of the order of the Crown stands here,
+watchful of any unwanted elements.  His armor has been polished to a
+brilliant shine, and he holds his sword and shield steadily.  His stoic face
+betrays no emotion.  
+~
+human~
+ABGT HNV 1000 0
+35 0 40d30+1000 0d0+0 10d4+30 none
+0 0 0 0
+EFHKT AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13764
+priest habb healer~
+the Priest of Habbakuk~
+A Priest of Habbakuk is here, tending to wounded knights.
+~
+This simple looking priest is here to offer his healing abilities to
+knights in need.  His prayers have the ability to heal the injured.  He is a
+happy, but serious looking man.  His blue and white robes have a large
+phoenix stitched into them with silver thread.  
+~
+human~
+ABQa H 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+FK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13779
+knight sword healer~
+a Knight of the Sword~
+A Knight of the Sword is here, healing the wounded.
+~
+This Knight also doubles as a cleric of Kiri-Jolith.  His armor shines
+like the sun from countless hours spent polishing and buffing it.  The
+Knight wears a sash of brown and white, the colors of Kiri-Jolith.  He also
+wears a copper medallion with a set of horns engraved on it around his neck.
+~
+human~
+ABQTa 0 750 0
+200 200 401d66+8081 200d10+85 66d3+105 slash
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#13782
+priest pal healer~
+Priest of {WPaladine{x~
+A Priest of {WPaladine{x is here, giving blessings and comfort to the knights.
+~
+With a gentle hand and soft voice, this man of divine power uses the
+gifts he receives from his god to protect and comfort the Knights of the
+Rose.  
+~
+human~
+ABQa H 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+FK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13789
+rose knight guard fenwithe~
+Sir Fenwithe~
+A {WKnight{x of the {rRose{x stands here, guarding the door.
+~
+This senior-ranking knight is a member of the Order of the Rose.  Having
+proved his valor and loyalty, Sir Fenwithe has been given the honor of
+serving as a personal aide to the Grandmaster and standing watch over his
+office.  If you wish to make an appointment, you may ask him if the
+Grandmaster is in.  
+ 
+HINT: SAY, without the quotes, 'is the grandmaster in?'
+~
+human~
+AB DFN 1000 0
+200 200 300d66+7281 200d10+85 57d3+71 slash
+-86 -86 -86 -44
+EFHK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 3
+M SPEECH 13788 is the grandmaster in?~
+M SPEECH 13787 honor is the key to paladines grace~
+M SPEECH 13789 aofdghbkaguaogagherwor~
+#13790
+amber~
+Amber~
+Amber stands here, ready to sell you the wares of the world.
+~
+Here stands Amber, a warrior of great prospects and honor among the
+Solamnic army.  She has gone on many an adventure throughout the world for
+the cause of Good and Justice.  Her travels have brought onto her fair
+amounts of exquisite items from lands long lost.  
+~
+human~
+AB 0 1000 0
+200 200 300d66+7281 200d10+85 57d3+71 punch
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#13700
+guardian solamnic sword knights~
+{xGuardian Sword of the Solamnic Knights~
+A great Solamnic sword lies here, glimmering in the surrounding light.~
+steel~
+weapon AIKLP 0 ANY
+sword 11 12 slash OQ
+100 8 1000 P
+A
+5 1
+A
+1 2
+E
+sword~
+This sword is made of high quality steel that has been polished to a
+brilliant shine.  The keen edge is sharp as a razor, and straight as an
+arrow.  Small gems have been inserted into the pommel, and at the ends of
+the crosspiece.  Fine leather and sharkskin wrap around the hilt, creating a
+secure grip for the wielder.  
+~
+#13701
+guardian armor plate solamnic knights~
+{xGuardian Armor of the Solamnic Knights~
+A great piece of plate armor of the Solamnic Knights lies here.~
+steel~
+armor AIKLP 0 ADY
+BCE CE BCE ABE C
+100 10 1000 P
+E
+armor plate~
+Shining from countless hours of polishing, this plate armor is meant to
+be worn on the chest.  The armor is in good repair, showing no dents or
+cracks.  The steel is solid and well crafted.  Engraved in the center is a
+kingfisher with a crown above its head, and a sword and roses grasped in its
+claws.  
+~
+#13702
+rune knife dagger~
+a rune-covered knife~
+A wide-bladed knife sits undisturbed on the floor.~
+mithril~
+weapon GKY 0 ANY
+dagger 5 8 pierce D
+35 4 420 P
+A
+2 2
+A
+18 3
+E
+13702~
+It's very sharp; you suspect this knife is more effective than many
+swords.  It appears to be of elven origin, and is made of finely crafted
+mithril with a stylized ivory hilt.  
+~
+E
+dagger~
+It's very sharp; you suspect this knife is more effective than many
+swords.  It appears to be of elven origin, and is made of finely crafted
+mithril with a stylized ivory hilt.  
+~
+E
+knife~
+It's very sharp; you suspect this knife is more effective than many
+swords.  It appears to be of elven origin, and is made of finely crafted
+mithril with a stylized ivory hilt.  
+~
+#13703
+well worn chair table~
+a well worn chair~
+A well worn table with five chairs sits in the middle of the room.~
+wood~
+furniture 0 0 P
+AC EGIJOP EHK 0 0
+1 0 0 P
+#13704
+simple stool long table~
+a simple stool~
+A few long tables with simple stools are scattered about the room.~
+wood~
+furniture 0 0 P
+BEF EGIJOP EHK 0 0
+1 0 0 P
+#13705
+shot whisky~
+a shot of whisky~
+A shot of whisky is on the ground here.~
+glass~
+drink 0 0 AO
+2 2 'whisky' 0 0
+21 0 50 P
+#13706
+pint ale~
+a pint of ale~
+A pint of ale is on the ground here.~
+wood~
+drink 0 0 AO
+12 12 'ale' 0 0
+21 0 75 P
+#13707
+mug mead~
+a mug of mead~
+A mug of mead is on the ground here.~
+wood~
+drink 0 0 AO
+12 12 'mead' 0 0
+21 0 65 P
+#13708
+meat wrap~
+a meat wrap~
+A delicious looking meat wrap is on the ground, getting dirty.~
+unknown~
+food 0 0 AO
+ADE 0 0 0 0
+21 0 50 P
+#13709
+bowl vegetable beef stew~
+a bowl of vegetable beef stew~
+A large bowl of vegetable beef stew has been placed on the ground here.~
+unknown~
+food 0 0 AO
+ABF 0 0 0 0
+21 0 75 P
+#13710
+shadowy booth~
+a shadowy booth~
+A few shadowy booths, allowing privacy, line the walls.~
+wood~
+furniture 0 0 P
+BEF EGIJOP FHK 0 0
+1 0 0 P
+#13715
+steel broad sword~
+a steel broadsword~
+A fine broadsword is lying here on the ground.~
+steel~
+weapon IK 0 ANY
+sword 7 9 slash D
+35 7 0 P
+A
+19 4
+A
+18 4
+E
+broadsword steel~
+This broadsword is made from high quality tempered steel.  The blade is a
+bit wider than normal swords, and just a bit longer.  The one piece hilt is
+devoid of adornment, except for the alternating black and brown leather on
+the grip.  
+~
+#13716
+steel breast plate~
+a steel breastplate~
+A steel breastplate emblazoned with the sign of a crown lies here.~
+steel~
+armor AK 0 ADY
+CD BD E BC C
+47 20 3500 P
+A
+20 -2
+A
+18 4
+A
+19 4
+E
+plate breastplate~
+This solid steel breastplate has been emblazoned with a large crown, the
+symbol of the Knights of the Crown.  The leather straps used to hold the
+plate in place are well oiled and in good repair.  The steel itself is
+highly polished and all scratches have been buffed out.  
+~
+#13760
+fountain~
+a fountain~
+A small fountain is here, gently gushing water.~
+stone~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+fountain~
+The fountain is made from solid white marble, and stands nearly 10 feet
+tall and 10 feet wide.  It is of circular shape, with small dragons engraved
+around the base in regular intervals.  The spout is in the shape of a
+Kingfisher, its mouth spitting out an umbrella of water.  The water is
+crystal clear, cool, and refreshing.  
+~
+#13767
+pool shimmering light portal~
+a Pool of {WShimmering Light{x~
+A Pool of {WShimmering Light{x is here.~
+energy~
+portal AGO 0 0
+0 0 0 ABCEHIKMN 0
+0 0 0 P
+E
+pool~
+This pool is oval shaped, with clear water in it.  The water seems to
+glow as you draw nearer to it, inviting you to step inside.  Nothing can be
+seem in the pool, except for your own reflection.  
+~
+#13768
+steel chest~
+a steel chest~
+A steel chest for equipment donations sits here.~
+steel~
+container O 0 0
+10000 0 0 1000 100
+0 0 0 P
+E
+chest~
+This chest is rectangular and made from solid steel.  It is truly a work
+of art.  Each side of the chest has a picture engraved on it, pictures of
+knights battling various foes.  The inside of the chest has slots for
+setting weapons in it, holding them until they are needed.  
+~
+#13771
+drinking fountain~
+a drinking fountain~
+A drinking fountain stands in the center of the room, inviting you for a sip.~
+stone~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+fountain~
+Made of solid white marble, this fountain stands about 8 feet tall from
+base to tip.  The base is circular, with small kingfishers chiseled into it
+at regular intervals.  The spout of the fountain is shaped like a dragon
+spitting out an umbrella of water.  The water is crystal clear, cool, and
+refreshing.  
+~
+#13774
+donation pit~
+a donation pit~
+A pit is here for item donations to the Knighthood.~
+stone~
+container O 0 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+Dug from the ground, this pit is about 3 feet deep, and stretches the
+length of the room.  The walls of the pit have been plastered and tiled. 
+The tiles are in the shape of lances, one lance for each of the walls.  
+~
+#13782
+light meal bread fruit cheese~
+a light meal~
+A light meal of bread, fruit and cheese is here for your refreshment.~
+unknown~
+food 0 0 A
+BD 0 0 0 0
+0 1 0 P
+E
+meal~
+There are various breads, fruits, and cheeses spread out before you.  The
+aromas mix together creating a savory smell.  
+~
+E
+bread~
+There are various types of bread in this meal.  All of it smells freshly
+baked, and is still warm to the touch.  
+~
+E
+fruit~
+There are apples, pears, grapes, oranges, and berries all gathered in one
+spot.  The fruits are all perfectly ripened and quite large.  
+~
+E
+cheese~
+Various wheels of cheese are stacked on top of each other.  Some are
+covered with a wax rind, some are wrapped in paper.  The smells of the
+cheese are quite pungent, yet still pleasant.  
+~
+#13783
+high knights table~
+the High Knight's table~
+A large mahogany table sits at the head of the hall.~
+mahogony~
+furniture S 0 P
+C FHIJKL AD 0 0
+0 80 0 P
+E
+table mahogany~
+This large mahogany table is of exquisite design.  The legs of the tables
+are dragons carved from solid trunks of wood.  The tabletop is perfectly
+level, having been made by the finest carpenters.  There are four designs on
+the tabletop, a crown, sword, rose, and the Triumvirate.  Each meticulously
+engraved, they represent the Grandmaster and the three Lord Knights that sit
+at the table.  
+~
+#13784
+silver water pitcher~
+a silver pitcher~
+A silver water pitcher sits upon each table, offering refreshment to those gathered here.~
+silver~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+pitcher~
+Wrought of the finest silver by elven metalsmiths, this pitcher is truly
+a work of art.  The handle is fashioned after a blooming rose, so delicate,
+it looks as if it would break if touched.  Expertly etched on the pitcher's
+surface is the symbol of the Triumvirate.  
+~
+#13785
+platinum key~
+a heavy platinum key~
+A heavy platinum key sits here.~
+platinum~
+key PU 0 A
+0 0 0 0 0
+0 0 0 P
+E
+key~
+This large key weighs heavy in the hand.  Made of solid platinum, its
+head resembles an upside-down triangle.  In the center of the triangle sits
+the head of a rose, while a crown rests at the top.  
+~
+E
+key~
+This large key weighs heavy in the hand.  Made of solid platinum, its
+head resembles an upside-down triangle.  In the center of the triangle sits
+the head of a rose, while a crown rests at the top.  
+~
+#13789
+white marble fountain~
+a fountain of white marble~
+A fountain of white marble is here.~
+marble~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+E
+fountain~
+This fountain has been carved from a single block of the purest white
+marble available.  The spout of the fountain has been carved into a
+beautiful rose.  The water trickles from the center of the rose's bud, and
+cascades down over the open petals.  The rim of the base of the fountain has
+been delicately carved to resemble blades of white grass, giving the
+fountain the look of having been grown from a rose garden.  
+~
+#13790
+travel backpack~
+a travel backpack~
+A backpack lies here.~
+leather~
+container SY 0 AO
+200 A 0 150 90
+35 3 2500 P
+E
+backpack~
+This backpack has been crafted from very rugged tooled leather.  It is
+very nondescript, but seems quite rugged and able to handle the vigors of
+the road.  
+~
+#13791
+wooden desk~
+a wooden desk~
+A wooden desk sits along the south wall of the room.~
+wood~
+container O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+desk~
+This simple desk is just that, simple.  It is fashioned of solid wood,
+and is well built.  
+~
+#13792
+desk~
+an exquisite desk~
+An exquisite desk sits in the middle of the room, cluttered with paper.~
+maple~
+container 0 0 P
+2000 AC 0 1000 100
+0 0 0 P
+E
+desk~
+Hand carved from a solid block of wood, this desk belongs to the
+Grandmaster of the Knight of Solamnia.  The front of the desk has a large
+engraving of the Triumvirate.  There are models of miniature knights riding
+equal sized dragons, weapons held at the ready.  In the middle of the desk
+towards the front is an intricately carved nameplate saying 'Lord Kaillen
+Darkwinde'.  
+~
+#13793
+ornate chair~
+an ornate chair~
+An ornately carved chair sits behind the desk.~
+maple~
+furniture 0 0 P
+A DFGHIJ E D D
+0 0 0 P
+E
+ornate~
+This chair is quite large, and obviously finely crafted.  The back and
+seat are cushoined and covered in fine velvet.  The wooden portions of the
+chair are engraved with varying sizes of swirls.  
+~
+#13794
+wooden chair~
+a simple wooden chair~
+A simple wooden chair sits by the door.~
+cedar~
+furniture 0 0 P
+A DFGHIJ E AC AC
+0 0 0 P
+E
+chair simple wooden~
+This chair is of simple but rugged design.  It is all wood, with no
+cushioning.  
+~
+#13795
+silver office key~
+a silver office key~
+A small silver key lies here, engraved with a rose.~
+silver~
+key P 0 A
+0 0 0 0 0
+60 0 0 P
+E
+silver~
+Made of silver, this key smaller than most.  It has a beautiful engraving
+of a rose on it.  
+~
+#0
+
+
+
+#ROOMS
+#13700
+Inside the Solamnic Knights Headquarters~
+The ceiling extends high above this large chamber of the castle.  The
+walls here are smooth in texture, and white in color.  The floor is of
+polished marble, waxed to a brilliant shine.  Embedded into the center of
+the floor is a picture of a sword, entwined with roses.  Large picture
+frames of past Lords hang on the walls.  The smell of sweet honey and fresh
+flowers lingers in the air.  The only pieces of furniture in here are a few
+flower stands in each corner of the room, each one bearing a bouquet of
+fresh flowers.  Three hallways branch off from this chamber to the north,
+east and west.  Over each hallway, the words 'Est Sularus oth Mithas'have
+been engraved above the arches.  To the north lies the Hall of the Rose.  To
+the west, the Hall of the Crown.  Finally, to the east lies the Hall of the
+Sword.  To the south, a massive gate leads back out into the city streets of
+Palanthas.  
+~
+0 8 17
+D0
+~
+~
+0 0 13780
+D1
+~
+~
+0 0 13770
+D2
+~
+~
+0 0 3266
+D3
+~
+~
+0 0 13764
+D5
+~
+~
+0 0 13791
+S
+#13701
+High Knight's Road~
+You are traveling down the High Knight's Road.  This road is the only
+passage between the High Clerist’s Tower and the city of Palanthas.  It is
+well traveled, and guarded from creatures that might try to ambush those who
+travel toward the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 3256
+D2
+~
+~
+0 0 13707
+D3
+~
+~
+0 0 13702
+S
+#13702
+The Front of the Inn~
+You are standing on a well-worn path that opens into a clearing.  An old
+wooden building is here, smoke billowing from its chimney.  A painted sign
+is visible on the porch to the west.  You could go north or south around the
+building or leave this place and return to the High Knight’s Road.  
+~
+0 0 2
+D1
+~
+~
+0 0 13701
+D3
+~
+~
+0 0 13703
+S
+#13703
+Last Chance Inn~
+You are standing in the common room of the Last Chance Inn.  This inn is
+named for its purpose - the last chance for rest and food before heading
+down the High Knight’s Road.  The bar is just north of here.  If you'd
+rather have your own table, one is empty to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 13706
+D1
+~
+~
+0 0 13702
+D2
+~
+~
+0 0 13705
+D3
+~
+~
+0 0 13704
+S
+#13704
+The Bard's Table~
+Called so for the Bard who never seems to leave, this area of the Inn is
+dimly lit yet well kept.  A few lights hang from the ceiling while a large
+table sits in the middle of the room, giving only a few a place to sit.  To
+the east is where one can get out of this lonely room.  
+~
+0 8 0
+D1
+~
+~
+0 0 13703
+S
+#13705
+A Quieter Section of the Inn~
+A very quiet section of the Inn where most come to lick their wounds. 
+Tall privacy booths line the walls allowing for plenty of people in the
+room, while a few dim lights hang just in front of the booths themselves,
+making them shadowed.  To the far north lies the bar where many travelers
+stop before entering Palanthas.  
+~
+0 8 0
+D0
+~
+~
+0 0 13703
+S
+#13706
+The Bar~
+This is where people used to come and enjoy the food, drink and
+hospitality of the innkeeper, but as of late, he only serves the few
+adventurers that manage to survive a trip through the forest.  You can leave
+south and return to the common room.  
+~
+0 8 0
+D2
+~
+~
+0 0 13703
+S
+#13707
+High Knight's Road~
+This is High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  To the
+south, the small village of Yarus springs up, seemingly out of nowhere.  The
+High Knight’s road continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 13701
+D2
+~
+~
+0 0 921
+S
+#13708
+High Knight's Road~
+This is High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  To the
+north, the small village of Yarus springs up, seemingly out of nowhere.  The
+High Knight’s road continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 924
+D2
+~
+~
+0 0 13709
+S
+#13709
+High Knight's Road~
+This is the High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  
+~
+0 0 0
+D0
+~
+~
+0 0 13708
+D2
+~
+~
+0 0 13710
+S
+#13710
+High Knight's Road~
+This is the High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  
+~
+0 0 0
+D0
+~
+~
+0 0 13709
+D1
+~
+~
+0 0 13711
+S
+#13711
+High Knight's Road~
+This is the High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  
+~
+0 0 0
+D2
+~
+~
+0 0 13712
+D3
+~
+~
+0 0 13710
+S
+#13712
+High Knight's Road~
+This is the High Knight’s road; a well-kept road that leads from the High
+Clerist’s tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  
+~
+0 0 0
+D0
+~
+~
+0 0 13711
+D2
+~
+~
+0 0 13713
+S
+#13713
+High Knight's Road~
+This is the High Knight’s road; a well-kept road that leads from the High
+Clerist tower and the city of Palanthas.  It winds through the Vingaard
+Mountains, making this the only access to the great city by land.  
+~
+0 0 0
+D0
+~
+~
+0 0 13712
+D2
+~
+~
+0 0 13714
+S
+#13714
+Before the High Clerist’s Tower~
+You are standing at the entrance to the High Clerist’s tower.  To the
+north, you can see the High Knight's Road leading to the great city of
+Palanthas.  To the south is a massive iron gate leading into the tower
+itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 13713
+D2
+~
+~
+0 0 13715
+S
+#13715
+Entrance to the Tower~
+The massive iron gate of the High Clerist's Tower remains open in these
+times of peace, so that all may enter and enjoy its splendor.  This outer
+wall serves not only as defense in times of war, but also keeps animals and
+unwanted plant life from the garden beyond the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 13714
+D2
+~
+~
+0 0 13716
+S
+#13716
+The Second Gate~
+A gate just as big as the first stands before you.  If it were to fall,
+it would surely slay all in its path.  No worries though, for man-sized iron
+chains hold the gate in place.  This second gate is an extra just in case
+the first one is breached.  
+~
+0 0 0
+D0
+~
+~
+0 0 13715
+D2
+~
+~
+0 0 13717
+S
+#13717
+A Path in the Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  To the north lie the outer
+gates and to the south is the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 13716
+D1
+~
+~
+0 0 13726
+D2
+~
+~
+0 0 13718
+D3
+~
+~
+0 0 13724
+S
+#13718
+A Path in the Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  To the north lie the outer
+gates and to the south is the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 13717
+D1
+~
+~
+0 0 13722
+D2
+~
+~
+0 0 13719
+D3
+~
+~
+0 0 13720
+S
+#13719
+Entrance to the Tower~
+A pair of great double doors stands before you, open and ready to accept
+visitors, like the gate before them.  The doors seem to be made of the
+sturdiest oak and the finest craftsmanship.  Symbols of the various knightly
+Orders have been carved in each of the doors, and above them the knights’
+motto.  
+~
+0 0 0
+D0
+~
+~
+0 0 13718
+D2
+~
+~
+0 0 13740
+S
+#13720
+A Path in the Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  A path runs through this
+part of the garden.  
+~
+0 0 0
+D0
+~
+~
+0 0 13724
+D1
+~
+~
+0 0 13718
+D2
+~
+~
+0 0 13728
+D3
+~
+~
+0 0 13721
+S
+#13721
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13725
+D1
+~
+~
+0 0 13720
+D2
+~
+~
+0 0 13731
+S
+#13722
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13726
+D1
+~
+~
+0 0 13723
+D2
+~
+~
+0 0 13734
+D3
+~
+~
+0 0 13718
+S
+#13723
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13727
+D2
+~
+~
+0 0 13737
+D3
+~
+~
+0 0 13722
+S
+#13724
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D1
+~
+~
+0 0 13717
+D2
+~
+~
+0 0 13720
+D3
+~
+~
+0 0 13725
+S
+#13725
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D1
+~
+~
+0 0 13724
+D2
+~
+~
+0 0 13721
+S
+#13726
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D1
+~
+~
+0 0 13727
+D2
+~
+~
+0 0 13722
+D3
+~
+~
+0 0 13717
+S
+#13727
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D2
+~
+~
+0 0 13723
+D3
+~
+~
+0 0 13726
+S
+#13728
+A Path in the Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  A path runs through this
+part of the garden.  
+~
+0 0 0
+D0
+~
+~
+0 0 13720
+D2
+~
+~
+0 0 13729
+D3
+~
+~
+0 0 13731
+S
+#13729
+A Path in the Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  A path runs through this
+part of the garden.  
+~
+0 0 0
+D0
+~
+~
+0 0 13728
+D2
+~
+~
+0 0 13730
+D3
+~
+~
+0 0 13732
+S
+#13730
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13729
+D3
+~
+~
+0 0 13733
+S
+#13731
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13721
+D1
+~
+~
+0 0 13728
+D2
+~
+~
+0 0 13732
+S
+#13732
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13731
+D1
+~
+~
+0 0 13729
+D2
+~
+~
+0 0 13733
+S
+#13733
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 8 2
+D0
+~
+~
+0 0 13732
+D1
+~
+~
+0 0 13730
+S
+#13734
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13722
+D1
+~
+~
+0 0 13737
+D2
+~
+~
+0 0 13735
+S
+#13735
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13734
+D1
+~
+~
+0 0 13738
+D2
+~
+~
+0 0 13736
+S
+#13736
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13735
+D1
+~
+~
+0 0 13739
+S
+#13737
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13723
+D2
+~
+~
+0 0 13738
+D3
+~
+~
+0 0 13734
+S
+#13738
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13737
+D2
+~
+~
+0 0 13739
+D3
+~
+~
+0 0 13735
+S
+#13739
+The Garden~
+This garden is a wonderful place to forget the worries of life.  Its
+sweet and colorful flowers surround you.  Trees and other plants, handpicked
+by the tower's artistic gardener, are arranged in such a way that the
+garden's best features are always in full light.  
+~
+0 0 0
+D0
+~
+~
+0 0 13738
+D3
+~
+~
+0 0 13736
+S
+#13740
+Inner Courtyard~
+You are standing in a large octagonal courtyard.  The size of it is
+strangely small.  In the center of the courtyard stands a large set of doors
+leading into the tower itself.  Looking east, you can see the entrance to
+the fabled dragon traps where the knights, with the help of the Heroes of
+the Lance, defeated the evil dragons.  To the west, the courtyard continues.
+A large gate separates this courtyard from the next.  
+~
+0 0 0
+D0
+~
+~
+0 0 13719
+D3
+~
+~
+0 0 13741
+S
+#13741
+Inner Courtyard~
+You are standing in yet another restricted courtyard.  The sheer size and
+design of this tower strikes you with awe.  To the east and south, you can
+see large steel gates leading into separate courtyards.  
+~
+0 0 0
+D1
+~
+~
+0 0 13740
+D2
+~
+~
+0 0 13742
+S
+#13742
+Inner Courtyard~
+You are standing in yet another restricted courtyard.  The sheer size and
+design of this tower strikes you with awe.  To the east and north you can
+see large steel gates leading into separate courtyards.  
+~
+0 0 0
+D0
+~
+~
+0 0 13741
+D1
+~
+~
+0 0 13743
+S
+#13743
+Inner Courtyard~
+You are standing in the inner courtyard of the High Clerist’s Tower. 
+Examining the layout, you see that it is a masterpiece of cunning and
+design.  The six gates of the tower open into restricted courtyards, similar
+to the one you now stand in.  They are essentially 'killing fields’, where
+knights on the high walls above can dispatch their enemy with concentrated
+fire.  Those who win their way through to the stairs leading to the central
+tower find themselves bottled up by hidden traps.  To the south, you see two
+gigantic steel gates leading to the Solamnic Plains.  To the east and west,
+more steel gates lead into yet another restricted courtyard.  
+~
+0 0 0
+D2
+~
+~
+0 0 13744
+D3
+~
+~
+0 0 13742
+S
+#13744
+Entrance to the High Clerist’s Tower~
+Built by Vinas Solamnus in the Age of Might, the tower of the High
+Clerist guards the only pass through the Vingaard Mountains.  The tower is
+immense, massive, formidable in appearance.  Rising some 1,000 feet into the
+air, surrounded on all but the southernmost side by snow-capped mountains,
+the tower has reputedly never fallen to an enemy while men of faith defended
+it.  An outer curtain of stone forms an octagon as the tower's base.  Each
+point of the octagonal wall is surmounted by a turret.  Battlements run
+along the top of the curtain wall between the turrets.  An inner octagonal
+wall forms the base of eight smaller towers, built around the larger central
+tower.  No fewer than six gigantic steel gates breach the outer walls. 
+Three of these gates now face you, leading out into the Solamnic Plains.  
+~
+0 0 0
+D0
+~
+~
+0 0 13743
+D2
+~
+~
+0 0 13745
+S
+#13745
+The High Knight's Road~
+You are standing on the well-traveled road leading from the High
+Clerist’s Tower to Vingaard Keep.  The road is situated in the middle of the
+Solamnic Plains.  To the north is the High Clerist’s Tower, to the east are
+the plains.  The road continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 13744
+D2
+~
+~
+0 0 13746
+S
+#13746
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  The road continues to the east, and to the
+south a small path leads into the great plains, towards castle Di Caela and
+Solanthus.  
+~
+0 0 0
+D0
+~
+~
+0 0 13745
+D1
+~
+~
+0 0 13753
+D2
+~
+~
+0 0 13747
+S
+#13747
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  To the south, the plains continue toward Castle di
+Caela and the city of Solanthus.  
+~
+0 0 0
+D0
+~
+~
+0 0 13746
+D2
+~
+~
+0 0 13748
+S
+#13748
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  To the south, the plains continue toward Castle di
+Caela and the city of Solanthus.  
+~
+0 0 0
+D0
+~
+~
+0 0 13747
+D1
+~
+~
+0 0 13749
+S
+#13749
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  To the south, the plains continue toward Castle di
+Caela and the city of Solanthus.  
+~
+0 0 0
+D2
+~
+~
+0 0 13750
+D3
+~
+~
+0 0 13748
+S
+#13750
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  To the south, the plains continue toward the city of
+Solanthus.  To the east, lies a road heading through the plains of Solamnia,
+leading to the Dargaard Mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 13749
+D1
+~
+~
+0 0 13752
+D2
+~
+~
+0 0 13751
+S
+#13751
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  To the south, the plains continue toward the city of
+Solanthus.  
+~
+0 0 0
+D0
+~
+~
+0 0 13750
+D1
+~
+~
+0 0 13759
+D2
+~
+~
+0 0 5764
+S
+#13752
+A Trail Into the Solamnic Plains~
+You are walking down a small path toward Castle di Caela.  Its large
+spires loom over the horizon.  The massive gates to the castle shimmer in
+the light.  Made of polished steel, the beauty of the gates is breathtaking.
+Ornate carvings adorn the gates, and on each side of the gates sit white
+marble statues of dragons.  
+~
+0 0 0
+D1
+~
+~
+0 0 4801
+D3
+~
+~
+0 0 13750
+S
+#13753
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  The road continues east and west.  You
+feel the warm breeze coming from the plains, yet as you move east the air
+seems cooler.  
+~
+0 0 0
+D1
+~
+~
+0 0 13754
+D3
+~
+~
+0 0 13746
+S
+#13754
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  You are traveling further east into the
+great Solamnic Plains.  The tall grass sways in the warm breeze.  
+~
+0 0 0
+D1
+~
+~
+0 0 13755
+D3
+~
+~
+0 0 13753
+S
+#13755
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  The road continues west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 13756
+D3
+~
+~
+0 0 13754
+S
+#13756
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  As you get closer to the keep, you can
+hear and smell the Vingaard river that flows near the keep.  The road
+continues north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 13755
+D1
+~
+~
+0 0 13757
+S
+#13757
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  At this point, you can see the Vingaard
+River and looking east, the walls of the keep.  The road continues south and
+west.  
+~
+0 0 0
+D2
+~
+~
+0 0 13758
+D3
+~
+~
+0 0 13756
+S
+#13758
+High Knight's Road~
+You continue down the High Knight’s road; a well-used road linking the
+High Clerist’s Tower and Vingaard Keep.  The road is surrounded on all sides
+by the great Plains of Solamnia.  To the east are the great gates of
+Vingaard Keep.  
+~
+0 0 0
+D0
+~
+~
+0 0 13757
+D1
+~
+~
+0 0 15601
+S
+#13759
+Plains of Solamnia~
+You are traveling through the plains of Solamnia.  Looking far to the
+east, you can see the shadows of the Dargaard Mountains, while to the west
+the peaks of the Vingaard Mountains rise above the cloud cover, blocking the
+view of the Coastlund.  
+~
+0 0 0
+D3
+~
+~
+0 0 13751
+S
+#13760
+{YThe Hall of the Crown{x~
+Not quite sure how you got here, you gaze upon the gateway to the Hall of
+the Crown.  Surrounded by a thick stone wall and patrolled by quite a few
+knights, this stronghold appears well-protected from any unwanted intrusion.
+With the rumors of a new threat lurking, this fortress may become one of the
+launching points for a defense of the High Clerist’s Tower.  
+~
+0 0 17
+D1
+~
+~
+0 0 13761
+S
+#13761
+{YTrophy Room{x~
+As you step into this room, you immediately notice the strange assortment
+of items that have been carefully preserved for all knights to see as they
+pass by.  Some of the more eye-catching pieces to the collection include the
+heads of several large dragons, a full suit of armor from a Dragon Highlord,
+and even the sword of Ariakas, former Emperor of Ansalon.  Although somewhat
+gaudy in nature, this room is a testament to the honor and history of the
+knighthood.  
+~
+0 8 17
+D1
+~
+~
+0 0 13765
+D2
+~
+~
+0 0 13762
+D3
+~
+~
+0 0 13760
+S
+#13762
+{YSouth Hall{x~
+Decorated with several expensive tapestries and paintings of historic
+battles, this hallway sends a feeling of pride and comfort through you, as
+if you truly feel a part of something great.  You can hear the faint sounds
+of chanting from close by.  
+~
+0 8 17
+D0
+~
+~
+0 0 13761
+D2
+~
+~
+0 0 13763
+S
+#13763
+{YSouth Hall{x~
+Decorated with several expensive tapestries and paintings of historic
+battles, this hallway sends a feeling of pride and comfort through you, as
+if you truly feel a part of something great.  You can hear the faint sounds
+of chanting from close by.  
+~
+0 8 17
+D0
+~
+~
+0 0 13762
+D1
+~
+~
+0 0 13764
+S
+#13764
+{YTemple of Habbakuk{x~
+You find the source of the chanting...  A temple dedicated to the patron
+god of the Knights of the Crown, Habbakuk.  The room looks like a simple
+setup: several stone benches and wooden pews for silent prayer and
+meditation, two purification ponds on either side of the room, and a small
+wooden altar for offerings.  This place is also where the wounded come to
+offer thanks for their survival and seek the ministrations of the temple
+healers.  
+~
+0 8388616 32
+D1
+~
+~
+0 0 13700
+D3
+~
+~
+0 0 13763
+S
+#13765
+{YEast Hall{x~
+Lined with the shield crests of many prominent noble families, these
+halls honor thousands of years of dedication and service to the Knights of
+the Crown.  There are also several busts of many of the former Lords of the
+Crown.  
+~
+0 8 17
+D1
+~
+~
+0 0 13766
+D3
+~
+~
+0 0 13761
+S
+#13766
+{YEast Hall{x~
+Lined with the shield crests of many prominent noble families, these
+halls honor thousands of years of dedication and service to the Knights of
+the Crown.  There are also several busts of many of the former Lords of the
+Crown.  
+~
+0 8 17
+D0
+~
+~
+0 0 13767
+D2
+~
+~
+0 0 13769
+D3
+~
+~
+0 0 13765
+S
+#13767
+{YThe Gateway{x~
+This circular chamber contains a set of steps leading down to the center
+of the room, from which a strange light emanates.  Created and blessed by
+the priests of Paladine, this room is designed to return ready knights back
+into the field.  
+~
+0 8 17
+D2
+~
+~
+0 0 13766
+S
+#13768
+{YThe Armory{x~
+Reaching the end of the hallway, you find yourself in the main equipment
+storage room for the Crown Knights.  Partially blinded by the shine of
+highly polished breastplates lining the walls, all this equipment appears in
+perfect condition.  Row upon row of footman's lances, followed by several
+racks of broadswords, these weapons lie in wait for the next battle.  
+~
+0 8 17
+D3
+~
+~
+0 0 13769
+S
+#13769
+{YEast Hall{x~
+Lined with the shield crests of many prominent noble families, these
+halls honor thousands of years of dedication and service to the Knights of
+the Crown.  There are also several busts of many of the former Lords of the
+Crown.  
+~
+0 8 17
+D0
+~
+~
+0 0 13766
+D1
+~
+~
+0 0 13768
+S
+#13770
+{CEntrance to the Temple of the Sword{x~
+Lit only by a couple torches, this dim passage appears to lead toward a
+mysterious light to the north.  Cramped and worn from the scraping of armor
+against it, these walls seem to give off a truly unnatural age.  
+~
+0 8 17
+D0
+~
+~
+0 0 13771
+D3
+~
+~
+0 0 13700
+S
+#13771
+{CThe Vestibule{x~
+This room appears to be a small lobby before entering the Inner Sanctum
+of the temple.  Decorated with several rather expensive tapestries and
+furnished with red padded chairs, this room gives off a deceptive impression
+of luxury.  A slight trickling sound can be heard from the center of the
+room.  
+~
+0 8 17
+D1
+~
+~
+0 0 13772
+D2
+~
+~
+0 0 13770
+S
+#13772
+{CThe Inner Sanctum{x~
+The central hall of this magnificent temple is a large commons area,
+where Knights of the Sword commune with each other, boasting of their
+adventures and exploits.  This series of rooms is also used to trade and
+sell weapons, armor, and equipment among fellow knights.  Supported by
+perfectly crafted pillars of white marble, this low-hanging ceiling offers
+just enough room for all to walk comfortably underneath.  
+~
+0 8 17
+D0
+~
+~
+0 0 13773
+D3
+~
+~
+0 0 13771
+S
+#13773
+{CThe Inner Sanctum{x~
+The central hall of this magnificent temple is a large commons area,
+where Knights of the Sword commune with each other, boasting of their
+adventures and exploits.  This series of rooms is also used to trade and
+sell weapons, armor, and equipment among knights.  Supported by perfectly
+crafted pillars of white marble, this low-hanging ceiling offers just enough
+room for all to walk comfortably underneath.  
+~
+0 8 17
+D1
+~
+~
+0 0 13774
+D2
+~
+~
+0 0 13772
+S
+#13774
+{CThe Inner Sanctum{x~
+The central hall of this magnificent temple is a large commons area,
+where Knights of the Sword commune with each other, boasting of their
+adventures and exploits.  This series of rooms is also used to trade and
+sell weapons, armor, and equipment among fellow knights.  Supported by
+perfectly crafted pillars of white marble, this low-hanging ceiling offers
+just enough room for all to walk comfortably underneath.  
+~
+0 8 17
+D2
+~
+~
+0 0 13775
+D3
+~
+~
+0 0 13773
+S
+#13775
+{CThe Inner Sanctum{x~
+The central hall of this magnificent temple is a large commons area,
+where Knights of the Sword commune with each other, boasting of their
+adventures and exploits.  This series of rooms is also used to trade and
+sell weapons, armor, and equipment among fellow knights.  Supported by
+perfectly crafted pillars of white marble, this low-hanging ceiling offers
+just enough room for all to walk comfortably underneath.  
+~
+0 8 17
+D0
+~
+~
+0 0 13774
+D1
+~
+~
+0 0 13776
+S
+#13776
+{CEastern Hallway{x~
+This hallway contains the personal quarters and storage rooms of the
+priests and knights who live and maintain this hall.  As with the living
+spaces, the hallway is simple and lacking in decoration.  
+~
+0 8 17
+D1
+~
+~
+0 0 13777
+D3
+~
+~
+0 0 13775
+S
+#13777
+{CEastern Hallway{x~
+This hallway contains the personal quarters and storage rooms of the
+priests and knights who live and maintain this hall.  As with the living
+spaces, the hallway is simple and lacking in decoration.  
+~
+0 8 17
+D0
+~
+~
+0 0 13778
+D1
+~
+~
+0 0 13779
+D3
+~
+~
+0 0 13776
+S
+#13778
+{CThe Gateway{x~
+This circular chamber contains a set of steps leading down to the center
+of the room, from which a strange light emanates.  Created and blessed by
+the priests of Paladine, this room is designed to return ready knights back
+into the field.  
+~
+0 8 17
+D2
+~
+~
+0 0 13777
+S
+#13779
+{CThe Sanctuary{x~
+With the faint smell of incense in the air, this room is designed to
+place its inhabitants in a relaxed state, ready for prayer and meditation. 
+Rows and rows of candles also burn here, giving the room a calming glow... 
+Even now, a few knights can be seen kneeling before the altar in the center
+of the room, praying for divine strength and guidance.  
+~
+0 8388616 40
+D3
+~
+~
+0 0 13777
+S
+#13780
+{rHall of Roses{x~
+With the strong scent of rose petals in the air, you proceed down a
+well-lit hallway that appears to have been carved entirely out of a flawless
+piece of white marble.  A long, deep red carpet covers the center of the
+floor.  Despite the obvious wear that it receives, the carpet seems to
+maintain its vibrant color and soft texture.  The walls are carefully lined
+with the shield crests of some of the most prominent noble families of the
+Rose, as well as some of the more noted Rose Knights throughout history.  
+~
+0 8 17
+D0
+~
+~
+0 0 13781
+D2
+~
+~
+0 0 13700
+S
+#13781
+{rHall of Roses{x~
+With the strong scent of rose petals in the air, you proceed down a
+well-lit hallway that appears to have been carved entirely out of a flawless
+piece of white marble.  A long, deep red carpet covers the center of the
+floor.  Despite the obvious wear that it receives, the carpet seems to
+maintain its vibrant color and soft texture.  The walls are carefully lined
+with the shield crests of some of the most prominent noble families of the
+Rose, as well as some of the more noted Rose Knights throughout history. 
+There is a door to the east.  
+~
+0 8 17
+D0
+~
+~
+0 0 13783
+D1
+~
+~
+1 0 13782
+D2
+~
+~
+0 0 13780
+S
+#13782
+{rTemple of Paladine{x~
+You are nearly blinded by the immense light emanating from this glorious
+temple dedicated to the patron deity of the Rose Knights, Paladine.  The
+white marble which seems characteristic of this entire place seems to glow
+with divine light.  The main sight, however, is the large statue of the
+Platinum Dragon that adorns the center of the temple.  Several knights can
+be seen here, praying for guidance and blessing.  
+~
+0 8389640 31
+E
+platinum~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+E
+platinum~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+D3
+~
+~
+1 0 13781
+S
+#13783
+{rHall of Roses{x~
+With the strong scent of rose petals in the air, you proceed down a
+well-lit hallway that appears to have been carved entirely out of a flawless
+piece of white marble.  A long, deep red carpet covers the center of the
+floor.  Despite the obvious wear that it receives, the carpet seems to
+maintain its vibrant color and soft texture.  The walls are carefully lined
+with the shield crests of some of the most prominent noble families of the
+Rose, as well as some of the more noted Rose Knights throughout history. 
+There is a door to the west.  
+~
+0 8 17
+D0
+~
+~
+0 0 13785
+D2
+~
+~
+0 0 13781
+D3
+~
+~
+6 13785 13784
+S
+#13784
+{cThe Grand Hall{x~
+This enormous chamber, known as the Grand Hall, is decorated with banners
+bearing the crests of every noble Solamnic house throughout the knighthood's
+history.  Each side wall is lined with rows of benches for the general
+assembly, divided into sections according to each Order of knights.  At the
+far end of the room sits a large head table upon a raised platform.  Here,
+the Grandmaster and the three Lord Knights preside over knightly councils,
+hearing petitions, conducting trials and holding war councils.  
+~
+0 2105356 17
+D1
+~
+~
+6 13785 13783
+R RANDOM 13784 100~
+S
+#13785
+{rHall of Roses{x~
+With the strong scent of rose petals in the air, you proceed down a
+well-lit hallway that appears to have been carved entirely out of a flawless
+piece of white marble.  A long, deep red carpet covers the center of the
+floor.  Despite the obvious wear that it receives, the carpet seems to
+maintain its vibrant color and soft texture.  The walls are carefully lined
+with the shield crests of some of the most prominent noble families of the
+Rose, as well as some of the more noted Rose Knights throughout history.  
+~
+0 8 17
+D0
+~
+~
+0 0 13786
+D2
+~
+~
+0 0 13783
+S
+#13786
+{rThe Rose Garden{x~
+The color red definitely dominates the scene in this enormous garden of
+roses.  Surrounded by the same brilliant white marble and lacking any roof,
+the sunlight illuminates this field from every angle, giving off an even
+more mystical effect.  This well-kept field is used as a commons area for
+the knights, allowing them to converse in a peaceful and relaxing
+environment.  For some knights, who are constantly dealing with the rigors
+of the outside world, this garden is their own little piece of heaven.  
+~
+0 0 17
+D0
+~
+~
+0 0 13787
+D1
+~
+~
+0 0 13789
+D2
+~
+~
+0 0 13785
+S
+#13787
+{rThe Rose Garden{x~
+The color red definitely dominates the scene in this enormous garden of
+roses.  Surrounded by the same brilliant white marble and lacking any roof,
+the sunlight illuminates this field from every angle, giving off an even
+more mystical effect.  This well-kept field is used as a commons area for
+the knights, allowing them to converse in a peaceful and relaxing
+environment.  For some knights, who are constantly dealing with the rigors
+of the outside world, this garden is their own little piece of heaven.  
+~
+0 0 17
+D1
+~
+~
+0 0 13788
+D2
+~
+~
+0 0 13786
+S
+#13788
+{rThe Rose Garden{x~
+The color red definitely dominates the scene in this enormous garden of
+roses.  Surrounded by the same brilliant white marble and lacking any roof,
+the sunlight illuminates this field from every angle, giving off an even
+more mystical effect.  This well-kept field is used as a commons area for
+the knights, allowing them to converse in a peaceful and relaxing
+environment.  For some knights, who are constantly dealing with the rigors
+of the outside world, this garden is their own little piece of heaven.  
+~
+0 0 17
+D2
+~
+~
+0 0 13789
+D3
+~
+~
+0 0 13787
+S
+#13789
+{rThe Rose Garden{x~
+The color red definitely dominates the scene in this enormous garden of
+roses.  Surrounded by the same brilliant white marble and lacking any roof,
+the sunlight illuminates this field from every angle, giving off an even
+more mystical effect.  This well-kept field is used as a commons area for
+the knights, allowing them to converse in a peaceful and relaxing
+environment.  For some knights, who are constantly dealing with the rigors
+of the outside world, this garden is their own little piece of heaven.  To
+the south, are grand oak doors, leading into the Head Knight's office.  
+~
+0 2098184 17
+D0
+~
+~
+0 0 13788
+D1
+~
+~
+0 0 13790
+D2
+~
+~
+3 13795 13792
+D3
+~
+~
+0 0 13786
+S
+#13790
+A Large Tent in the Rose Garden~
+In this part of the majestic rose garden stands a well-built tent. 
+Standing erect at 10 stones, this large tent is made from the finest silk. 
+The inside of the tent is surprisingly cool, despite its outward appearance.
+All about this tent are tables laden with various items that the shopkeeper
+has for sale.  In the middle of the tent is a large sign which reads "You
+break it, you bought it."  An open flap to the west leads back into the
+garden.  
+~
+0 262144 17
+D3
+~
+~
+0 0 13789
+S
+#13791
+Admittance Office~
+This large office serves as a recruitment center for the knighthood.  On
+the east wall, a bookshelf filled to the brim contains treatises on the art
+of war, Solamnic history, and a number of tactical manuals.  The office
+itself is quite simplistic, unlike the rest of the grand tower.  The west
+wall contains a large shelf stuffed with piles of applications, requisition
+forms and other such paperwork.  A large sign near the door reads "Serve
+your country.  Discover the meaning of Honor.  Join the Solamnic Army."  A
+wooden staircase leads back up into the main hall.  
+~
+0 12 0
+D4
+~
+~
+0 0 13700
+S
+#13792
+The Grandmaster's Office~
+This is the office of the Grandmaster of the Solamnic Knights.  The room
+itself is lavish in design, with pictures of past Grandmasters lining the
+walls in ornate mahogany frames.  The stone walls are covered with
+tapestries depicting Huma, Vinas Solamnus, and other great figures and
+moments from Solamnic history.  The carpet below is embroidered with a huge
+rose within the silver triangle of Paladine.  To the north, a set of
+intricately carved oak doors lead out into the rose garden.  
+~
+0 2367500 17
+D0
+~
+~
+3 13795 13789
+S
+#0
+
+
+
+#SPECIALS
+M 13700 spec_orgguard
+M 13715 spec_guard
+S
+
+
+
+#RESETS
+D 0 13781 1 1
+D 0 13782 3 1
+D 0 13783 3 2
+D 0 13784 1 2
+D 0 13789 2 2
+D 0 13792 0 2
+M 0 13700 14 13700 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13702 1 13704 1
+E 0 13702 0 20
+O 0 13703 0 13704
+O 0 13710 0 13705
+M 0 13701 1 13706 1
+G 0 13709 0
+G 0 13708 0
+G 0 13707 0
+G 0 13706 0
+G 0 13705 0
+O 0 13704 0 13706
+M 0 13715 2 13715 1
+E 0 13715 0 20
+E 0 13716 0 5
+M 0 13715 2 13744 1
+E 0 13715 0 20
+E 0 13716 0 5
+O 0 13760 0 13760
+M 0 13700 14 13761 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13700 14 13763 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13764 1 13764 1
+M 0 13700 14 13766 1
+E 0 13700 0 20
+E 0 13701 0 5
+O 0 13767 0 13767
+O 0 13768 0 13768
+M 0 13700 14 13768 1
+E 0 13700 0 20
+E 0 13701 0 5
+O 0 13771 0 13771
+M 0 13700 14 13771 1
+E 0 13700 0 20
+E 0 13701 0 5
+O 0 13774 0 13774
+M 0 13700 14 13774 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13700 14 13777 1
+E 0 13700 0 20
+E 0 13701 0 5
+O 0 13767 0 13778
+M 0 13779 1 13779 1
+M 0 13700 14 13780 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13700 14 13781 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13782 1 13782 1
+O 0 13784 0 13784
+O 0 13783 0 13784
+M 0 13700 14 13784 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13700 14 13786 1
+E 0 13700 0 20
+E 0 13701 0 5
+O 0 13767 0 13787
+M 0 13700 14 13788 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13789 1 13789 1
+O 0 13789 0 13789
+M 0 13700 14 13789 1
+E 0 13700 0 20
+E 0 13701 0 5
+M 0 13790 1 13790 1
+G 0 13790 0
+O 0 13791 0 13791
+O 0 13794 0 13791
+O 0 13793 0 13791
+O 0 13792 0 13792
+O 0 13793 0 13792
+O 0 13794 0 13792
+P 0 13795 1 13792 1
+P 0 13785 1 13792 1
+S
+
+
+
+#SHOPS
+13701 19 17 0 0 0 100 100 0 23
+13790 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#13787
+if org $n 'solamnic'
+if sex $n == 2
+say Greetings, Lady $n.
+salute $n
+MOB REMEMBER $n
+MOB CALL 13789
+else
+say Greetings, Sir $n.
+salute $n
+MOB REMEMBER $n
+MOB CALL 13789
+endif
+else
+say Aye, may Paladine's grace shine upon us all.
+bow $n
+endif
+~
+#13788
+if sex $n == 2
+say One moment miss, let me check.
+else
+say One moment sir, let me check.
+endif
+MOB REMEMBER $n
+emote knocks on the door.
+pause 20
+MOB GOTO 13792
+if mobhere daniel
+emote opens the door, entering the room.
+say Pardon me, Lord Daniel, $q is here to see you.
+pmote salutes Daniel and quickly leaves, closing the door behind $k.
+MOB GOTO 13789
+say Yes, the Grandmaster is in. Please wait here until he comes out.
+else
+MOB GOTO 13789
+say I'm sorry, the Grandmaster is currently unavailable. My apologies for any inconvenience.
+mob echo $I bows deeply.
+endif
+~
+#13789
+if hastarget $i
+say Here you are, my apologies for blocking your way.
+MOB OLOAD 13795
+give key $q
+mob forget
+else
+endif
+~
+#13790
+MOB REMEMBER $n
+say Oh, well, in that case, hold on here for one moment. I'll go get my sex toys.
+MOB ECHO $i goes to get her sex toys.
+MOB GOTO 1200
+if objhere 1210
+get marbles
+endif
+MOB DELAY 2
+~
+#13791
+MOB GOTO 13790
+MOB ECHO $i has arrived.
+if hastarget $i
+else
+say Now, where did my victim, errr.. partner go?
+if carries $i marbles
+MOB JUNK marbles
+MOB AT 1200 MOB OLOAD 1210
+MOB AT 1200 drop marbles
+endif
+MOB FORGET
+break
+endif
+if carries $i marbles
+say Here you go hun, a present from me to you.
+give marbles $q
+else
+say Sorry hun, I couldn't find my sex toys.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#13784
+if objhere bread
+break
+else
+ROOM OLOAD 13782 1 room
+endif
+~
+#0
+
+#$

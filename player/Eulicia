@@ -1,0 +1,1364 @@
+#PLAYER
+Name Eulicia~
+Surname Ishi~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1372577278
+LogO 1417926764
+Vers 10
+Act  DEGTe
+Desc A short, 5-foot 6-inches, woman stands before you. Her skin is pale and nearly flawless, save a scar under her right ear and down the side of her neck. Deep dark brown hair flows down on her shoulders, not stopping until halfway down the back. Light blue eyes contrast her pale skin, making them appear larger and brighter, filled with wavy lines stretching from the edge of the iris to the pupil. 
+ 
+She wears comfitorable leather gloves, dark black tabi boots, and a leather corset around her stomach. Under the corset lies a bodice, made of a midnight black cloth that covers the rest of her torso and forms a skirt below, stopping just short of the knee-high tabis, showing very little leg. Some daggers are seen hidden in nooks and crannies of her clothing, though it is rare to spot them.
+~
+Prom {RHP:%h/%H {BMP:%m/%M {GMV:%v/%V {YTNL: %X %b%B  ~
+Race half-elf~
+Org 4
+Religion 1
+Sex  2
+Cla  2
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 1081489
+Not  1417101863 1395959842 0 1383792289 1379084822
+Scro 0
+Room 11607
+HMV  3005 3005 794 794 884 884
+Steel 106
+Gold 157
+Bank 60122
+Exp  16259300
+AfBy FJP
+Deaths 5
+FlagTot 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3014656
+Comm NO
+Pos  8
+Prac 165
+Trai 8
+Save  -20
+Alig  -62
+Ethos 0
+Hit   20
+Dam   20
+ACs -86 -91 -105 -39
+Attr 13 15 13 16 13 16
+AMod 5 10 16 16 14 5
+Pass EujuuNNNPfuWY~
+Titl  the Thief Heroine~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 294
+HMVP 2480 329 734
+Cnd  0 46 46 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'infravision'
+Sk 100 'dagger'
+Sk 68 'shield block'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 16 'dirt kicking'
+Sk 21 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 70 'envenom'
+Sk 98 'hand to hand'
+Sk 100 'kick'
+Sk 16 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 71 'track'
+Sk 72 'counter'
+Sk 61 'demand'
+Sk 61 'circlestab'
+Sk 91 'blackjack'
+Sk 100 'dual wield'
+Sk 97 'mount'
+Sk 31 'pickpocket'
+Sk 61 'mountjack'
+Sk 31 'battle tactics'
+Sk 61 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 94 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 96 'steal'
+Sk 50 'recall'
+Sk 70 'battlecry'
+Sk 75 'disguise'
+Sk 70 'backup'
+Sk 76 'tumble'
+Sk 31 'scout'
+Sk 81 'second backstab'
+Sk 92 'strip'
+Sk 21 'taunt'
+Sk 100 'eavesdrop'
+Sk 70 'riposte'
+Sk 87 'evade'
+Sk 70 'pivot block'
+Sk 61 'boobytrap'
+Sk 61 'disarm traps'
+Sk 61 'staff'
+Sk 61 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+Affc 'sneak'   0  96  70   0   0      32768
+Affc 'detect hidden'   0 100  96   0   0         32
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name Sheath dagger boot foot~
+ShD  a {DHidden{x Dagger Sheath~
+Desc A small dagger sheath lies here, it's design seems to fit within the inside of a boot.~
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name Sheath dagger boot foot~
+ShD  a {DHidden{x Dagger Sheath~
+Desc A small dagger sheath lies here, it's design seems to fit within the inside of a boot.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 2912
+Nest 0
+Name black mantle~
+ShD  a {Dblack{x mantle~
+Desc A silken mantle, dyed black, lies here.~
+Cond 100
+Wear 14
+Cost 4973
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16180
+Nest 1
+Cond 100
+Wear -1
+Cost 4600
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3368
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9832
+Nest 1
+ExtF 17041937
+Cond 100
+Wear -1
+Lev  51
+Cost 8000
+Val  7 5 19 29 5
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1870
+Nest 1
+ShD  the knocked-out tooth of Terris~
+Desc The knocked-out tooth of Terris lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 17842
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 17842
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 17842
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 17713
+Nest 1
+Cond 95
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({DUsed{x) a {DMake Over{x coupon~
+Desc This coupon is good for 5 more restrings. -Taky~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3000
+Nest 1
+Name Ivory elixir~
+ShD  ({gBubbling{x) an {WIvory{x elixir~
+Desc An ivory elixir lies here, a murky green brew bubbling forth.~
+Cond 100
+Wear -1
+Cost 75
+Val  300 60 0 0 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Name Necklace gift Koug key~
+ShD  a {CGift{x from {rKougy{x~
+Desc A necklace lies here, an intricate key hanging on the end.~
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 914
+Nest 0
+Name boots leather feet knee~
+ShD  Knee-High {yLeather{x Boots~
+Desc Tall leather boots have been discarded, very rough feeling yet expensive and durable.  ~
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Name Bodice chest white ~
+ShD  a {WWhite{x Bodice~
+Desc A simple white bodice lies here, lightly worn yet clean.~
+Cond 97
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 13205
+Nest 0
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 10978
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 786432
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 97
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 5614
+Nest 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from Crysania's hide~
+Desc A bag of fine Crysania hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  27
+Cost 4150
+Val  830 1 -1 100 0
+End
+
+#O
+Vnum 1209
+Nest 1
+Name Coupon make over vine covered ~
+ShD  {GVine{X covered {BMake Over{x coupon~
+Desc A vine covered and punctured coupon good for restringing 6 items (Chislev)~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 2205
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 5758
+Nest 1
+Cond 100
+Wear -1
+Cost 270
+Spell 1 'change sex'
+Spell 2 'deafness'
+Spell 3 'curse'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2025
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 13201
+Nest 1
+Cond 100
+Wear -1
+Cost 456
+Spell 1 'invisibility'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#END

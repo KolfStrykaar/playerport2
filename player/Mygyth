@@ -1,0 +1,522 @@
+#PLAYER
+Name Mygyth~
+Surname Songstrum~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1387591945
+LogO 1388832370
+Vers 10
+Act  CDGQTe
+Desc The young {Gkender lad{x before you wears a {Ycheaky grin{x across his face.
+He wears {Rb{Yr{Ri{Yg{Rh{Yt{Rl{Yy {Gc{io{Gl{io{Gu{ir{Ge{id {Mg{Ba{Mr{Bm{Me{Bn{Mt{Bs{x and carries on his back an
+{yoaken lute{x. His every movement seems to echo those of {Mdance{x. Even
+while standing still, he fidgetts and shifts in a manner overflowing
+with {Yjoy{x and {Glife{x. His {Btwinkling blue eyes{x invite {gadventure{x and {Yf{Gu{Bn{x.
+~
+Prom {S< {R%h/{r%Hhp {B%m/{b%Mmp {m%vmv {y%X {x%e %B {S ~
+Race kender~
+Sex  1
+Cla  4
+Hmtown 0
+Levl 51
+recall_point 3001
+Levscale 30
+Xptolev  21872
+Sec  0
+Plyd 153000
+Not  0 0 0 0 0
+Scro 22
+Room 17747
+HMV  727 727 15 472 400 400
+Steel 3432
+Gold 55078
+Bank 500
+Exp  506978
+AfBy DF
+AfBy2 Z
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm ANO
+Pos  8
+Prac 102
+Reward_timer 37
+Alig  -536
+Ethos 0
+Hit   23
+Dam   15
+ACs -6 36 -23 76
+Wimp  150
+Attr 12 12 18 15 18 16
+AMod 6 1 9 3 7 0
+Pass MyHOt9y7FIomE~
+Titl  the Lyricist~
+Pretit ~
+Pnts 7
+TSex 1
+LLev 41
+HMVP 727 472 400
+Cnd  0 61 61 0
+QuestPnts 115
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 75 'dispel magic'
+Sk 78 'summon'
+Sk 75 'dagger'
+Sk 75 'flail'
+Sk 75 'mace'
+Sk 75 'polearm'
+Sk 75 'shield block'
+Sk 100 'sword'
+Sk 75 'whip'
+Sk 75 'disarm'
+Sk 82 'dodge'
+Sk 100 'enhanced damage'
+Sk 79 'hand to hand'
+Sk 100 'kick'
+Sk 85 'parry'
+Sk 75 'trip'
+Sk 99 'second attack'
+Sk 1 'counter'
+Sk 1 'deathgrip'
+Sk 75 'dual wield'
+Sk 77 'play music'
+Sk 76 'mount'
+Sk 75 'battle tactics'
+Sk 100 'wear chain'
+Sk 75 'wear leather'
+Sk 84 'fast healing'
+Sk 80 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'kender tongue'
+Sk 75 'lore'
+Sk 100 'sneak'
+Sk 75 'scrolls'
+Sk 75 'recall'
+Sk 89 'chant of battle'
+Sk 75 'chords of dissonance'
+Sk 76 'tumble'
+Sk 75 'trammel'
+Sk 75 'serenade'
+Sk 100 'taunt'
+Sk 88 'bravado'
+Sk 75 'lull'
+Sk 75 'pacify'
+Sk 75 'redirect'
+Sk 84 'acrobatics'
+Sk 75 'rally'
+Sk 75 'staff'
+Sk 75 'eyerub'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 1 'singing'
+Sk 1 'dancing strike'
+Affc 'giant strength'   0  52  51   4   1          0
+Affc 'haste'   0  38   6   4  18          0
+Affc 'armor'   0  37  15 -20  17          0
+Affc 'bless'   0  36  15   4  18          0
+Affc 'detect hidden'   0  36   8   0   0         32
+Affc 'detect invis'   0  37   8   0   0          8
+Affc 'frenzy'   0  38   5  30  17          0
+Affc 'frenzy'   0  36   5   6  19          0
+Affc 'frenzy'   0  38   5   6  18          0
+Affc 'chant of battle'   0  25   8 -10  17          0
+Affc 'chant of battle'   0  24   8   2   2          0
+Affc 'chant of battle'   0  24   8   2   1          0
+Affc 'bravado'   6  51  13   5  19   33554432
+Affc 'bravado'   6  51  13   5  18   33554432
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 308
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 13715
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear -1
+Cost 825
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 453
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 702
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 604
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 519
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 398
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 97
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 9
+Cost 264
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 100
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3346
+Nest 0
+Cond 100
+Wear 21
+Cost 498
+End
+
+#O
+Vnum 3345
+Nest 0
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 3344
+Nest 0
+Cond 100
+Wear -1
+Cost 308
+End
+
+#O
+Vnum 9801
+Nest 0
+Cond 100
+Wear 5
+Cost 4000
+End
+
+#O
+Vnum 9805
+Nest 0
+Cond 100
+Wear 13
+Cost 2500
+End
+
+#O
+Vnum 9806
+Nest 0
+Cond 100
+Wear 8
+Cost 2500
+End
+
+#O
+Vnum 9803
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 9808
+Nest 0
+Cond 100
+Wear 12
+Cost 2000
+End
+
+#O
+Vnum 17725
+Nest 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 60 0 0 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 2985
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear -1
+Cost 1794
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 85
+Wear 20
+Cost 9000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1388832370
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Mygyth'.
+~
+Sex  1
+HMV  120 120 148 148 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

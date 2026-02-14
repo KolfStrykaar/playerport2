@@ -1,0 +1,416 @@
+#AREADATA
+Name High Clerist Tower2~
+Builders Kiri~
+Continent (null)~
+Sector 0
+VNUMs 17901 18051
+Credits Kiri-Jolith~
+Security 9
+End
+
+
+
+#MOBILES
+#17901
+solamnic man arms~
+A Man at Arms~
+A Solamnic Man at Arms patrols here
+~
+Not a knight, this auxiliary member of the Order stands guard here.  He
+wears light armor, and carries a mourning star on his hip, and a short sword
+at his back.  He carries a medium sized shield which carries the design of
+his Lord.  His brown tabard upon his chainmailed chest potrays the
+Kingfisher of the Solamnic Knighthood.  Unlike a knight, however, it carries
+not a sword, nor crown, nor Rose.  
+~
+human~
+ABT N 750 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+CDEFIKLQTU 0 0 0
+stand stand male 27
+AHMV ABCDEFGHIJK M unknown 0
+#17902
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#0
+
+
+
+#OBJECTS
+#17901
+mourning star~
+a sturdy mourning star~
+A sturdy mourning star lies here~
+iron~
+weapon 0 0 AN
+mace 4 8 pound 0
+20 25 25 P
+#17902
+chainmail chain mail shirt~
+a shirt of chainmail~
+A pile of chain lies here.~
+steel~
+armor 0 0 AK
+BD 0 ABCD 0 B
+20 250 25 P
+#0
+
+
+
+#ROOMS
+#17901
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17902
+D3
+~
+~
+0 0 17902
+S
+#17902
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17903
+D3
+~
+~
+0 0 17901
+S
+#17903
+Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 17917
+D3
+~
+~
+0 0 17902
+S
+#17904
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17906
+D3
+~
+~
+0 0 17905
+S
+#17905
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17904
+D3
+~
+~
+0 0 17904
+S
+#17906
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17907
+D3
+~
+~
+0 0 17904
+S
+#17907
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 17908
+D3
+~
+~
+0 0 17906
+S
+#17908
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17909
+D3
+~
+~
+0 0 17907
+S
+#17909
+Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 17908
+S
+#17910
+Great Hall~
+~
+0 0 0
+D3
+~
+~
+0 0 17908
+S
+#17911
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17912
+D2
+~
+~
+0 0 17909
+S
+#17912
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17913
+D2
+~
+~
+0 0 17911
+S
+#17913
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17908
+D2
+~
+~
+0 0 17912
+S
+#17914
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17915
+D2
+~
+~
+0 0 17915
+S
+#17915
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17916
+D2
+~
+~
+0 0 17914
+S
+#17916
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17917
+D2
+~
+~
+0 0 17915
+S
+#17917
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 17903
+D2
+~
+~
+0 0 17916
+S
+#17996
+{CBefore the Knight's Spur{x~
+~
+0 0 0
+D0
+~
+~
+0 0 17997
+S
+#17997
+{COutside the Tower of the High Clerist{x~
+~
+0 0 0
+D2
+~
+~
+0 0 17996
+D3
+~
+~
+0 0 17998
+S
+#17998
+{COutside the Tower of the High Clerist{x~
+Northwardly, the narrow pass into the mountains stretches far into the
+distance.  Rocky crags and light brush litter the roadside.  To the south, a
+massive structure stands, the Tower of the High Clerist: resplendant in
+beautiful white marble, stretching hundreds of feet into the air, reaching
+up toward the gods!  A short ways to the west stands the pass side gates to
+the Tower proper, while just to the east stands the public entrance to the
+Knight's Spur.  
+~
+0 0 0
+D1
+~
+~
+0 0 17997
+D3
+~
+~
+0 0 17999
+S
+#17999
+{CBefore the Northern Gates of the Tower of the High Clerist{x~
+Northwardly, the narrow pass into the mountains stretches far into the
+distance.  Rocky crags and light brush litter the roadside.  To the south, a
+massive structure stands, the Tower of the High Clerist: resplendant in
+beautiful white marble, stretching hundreds of feet into the air, reaching
+up toward the gods!  The northern gates stand before the Tower, huge, cast
+iron things that no man made machine could dislodge.  
+~
+0 0 0
+E
+pass~
+Northwardly the pass that is known as the Knight's High Road stretches
+toward the village of Yarus, 60 miles distant, and the city of Palanthas,
+another day's ride beyond.  The road is wide and low...  Certainly any of
+the many crags and ledges along side the canyon trail would serve as an
+exceptional ambush point.  
+~
+E
+mountains~
+Along either side of the pass are the huge peaks of the Vingaard
+mountains.  Majestic as they are, their presence surrounding this, the only
+rout between the wings of Habbakuk and Palanthas is ominous.  
+~
+E
+tower~
+Stretching far into the sky, the main structure of the Tower of the High
+Clerist is a sight to behold!  Amazing that mortals could build such a
+structure!  Surrounded by a 60 foot wall on all sides, with intermitant
+towers numbering 8 total, the tower also boasts 6 lesser towers connecting
+to the main one.  To the left of the tower a short ways is a smaller
+structure...  Presumably the main barricks for Knights stationed at this
+monument to human and dwarven stonework.  
+~
+E
+gate~
+A full twenty feet high, these double doors seem impenatrable if closed
+and locked.  Cast iron, the symbol of the Solamnic Order, the Kingfisher,
+stands out in a beautiful gold and stone design on the face of the gates. 
+Two guard towers flank the gate on either side.  Other gates once stood to
+the right and left of this gate, but they have been walled off with stone
+bricks to match the rest of the structure.  
+~
+D1
+~
+~
+0 0 17998
+S
+#0
+
+
+
+#SPECIALS
+M 17901 spec_guard
+S
+
+
+
+#RESETS
+M 0 17901 1 17996 1
+E 0 17901 0 16
+E 0 17902 0 12
+M 0 17901 1 17996 1
+E 0 17901 0 16
+E 0 17902 0 12
+M 0 17901 1 17999 1
+E 0 17901 0 16
+E 0 17902 0 12
+M 0 17901 1 17999 1
+E 0 17902 0 12
+E 0 17901 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

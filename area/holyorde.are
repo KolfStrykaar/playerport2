@@ -1,0 +1,395 @@
+#AREADATA
+Name Temple of Holy Order~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 851 899
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#851
+cleric healer mishy~
+a cleric of Mishakal~
+Here sits a cleric of Mishakal doing the duties of his Goddess.
+~
+Here is a portly young man waiting for someone who needs healing.  Please
+type "{YHeal{x" to see what he is capable of doing for you.  
+~
+human~
+ABa 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+M ABCDEFHIJK M unknown 0
+F for AHV
+F par G
+#852
+guardian holy order~
+a Guardian of Holy Order~
+A Guardian of the Holy Order stands at attention here.
+~
+Standing tall, guarding the Temple of Holy Order, is a man of great size
+and strength.  He wears white armor plating, etched onto the chest plate is
+a blue symbol of infinity, the mark of Mishakal.  He carries a long sword in
+a scabbard on his right hip, with his hand resting over the pommel of the
+weapon.  He appears to be very conscious and alert of his surroundings,
+ready to defend the Temple at any cost, at any given time.  
+~
+human~
+ABNQ DFHN 1000 0
+90 90 135d30+1639 90d10+85 25d3+35 divine
+-33 -33 -33 -14
+NU AB DN 0
+stand stand male 3000
+AHMV ABCDEFGHIJK M unknown 5
+#0
+
+
+
+#OBJECTS
+#851
+golden mirror portal~
+a {Ygolden{x mirror~
+A gigantic {Ygolden{x mirror hangs on the wall, shimmering slightly.~
+glass~
+portal O 0 P
+0 0 A BCDFGHIJL 0
+0 0 0 P
+#852
+white ornate cabinet~
+a {Wwhite{x-{Wwashed {ycabinet{x~
+Standing against the wall is an ornate {ycabinet{x made of {Wwhite{x-{Wwashed{x wood.~
+cedar~
+container 0 0 P
+9000 0 0 9000 0
+0 0 0 P
+#853
+fountain statue~
+a fountain of Mishakal~
+A statue of a beautiful woman holding a staff is spurting water here.~
+marble~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+statue~
+Upon closer examination, you notice that this is a statue of the goddess
+Mishakal.  Her three discs hang from her neck and she is holding the blue
+crystal staff of healing, once wielded by Goldmoon during the War of the
+Lance.  A crystal clear stream of water spurts from the tip of the staff
+into a small pool at her feet.  
+~
+#860
+armor holy order~
+{xArmor of the Holy Order~
+A white armor chest plate with the blue symbol of infinity lies here.~
+steel~
+armor AIKLPY 0 ADY
+ACE ABE BCE BE C
+95 8 800 P
+#861
+mish holy sword~
+a Holy sword of Mishakal~
+A long sword glowing with a divine aura stands upright in the ground.~
+steel~
+weapon ABKLP 0 ANZ
+sword 8 16 slash O
+95 10 800 P
+A
+4 1
+#0
+
+
+
+#ROOMS
+#851
+The Alcove of The Stars~
+This is the most unique room in the entire Holy Order Hall.  There is a
+transparent mist that you can feel healing your body and soul.  This is also
+like the star room, where you can study and observe the stars.  There is
+Lunitari, Solinari, and, although unseen to most, Nuitari.  This place of
+sacredness feels like perfect harmony in the universe has been attained.  In
+the middle of the woom lies a metal stand, holding a large white bowl of
+water.  Around the base of the bowl, words have been etched into it.  
+~
+0 8388616 29
+E
+bowl~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read -
+{x
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+E
+water~
+Before you is a large bowl, crafted from white stone, which is filled to
+the brim with cool, blue water.  The water appears to be giving off a sort
+of turqoise glow.  Around the base of the bowl, words have been elegantly
+etched into it.  They appear to be written in the common tongue.  The words
+read -
+{x
+'For those seeking my blessing, call me out for my divine favor and I shall grant
+{x you my warm blessing. The words you must speak aloud are:'
+{x
+Blessed Lady of the Heart, have mercy upon my soul and cast my body into the heavens!
+~
+D0
+~
+~
+0 0 854
+D1
+~
+~
+0 0 852
+D2
+~
+~
+0 0 863
+D3
+~
+~
+0 0 853
+S
+#852
+A Hallway~
+To the north is an empty room, where a future high-ranking priest may wish
+to take up residence.  To the west is the Alcove of the Stars, one of the
+most blessed places on Krynn.  To the east is a dead end, maybe the clerics
+will want to add something on in the future?  
+~
+0 8 21
+D0
+~
+~
+1 0 861
+D3
+~
+~
+0 0 851
+S
+#853
+An Intersection in the Hallway~
+To the north lies the door to the High Priest’s study.  To the west is
+another doorway.  These walls and the floor are made of the finest marble,
+all chiseled from the hands of the clerics themselves.
+~
+0 8 21
+D0
+~
+~
+1 0 858
+D1
+~
+~
+0 0 851
+D3
+~
+~
+0 0 860
+S
+#854
+An Intersecting Hallway~
+To the north is the Holy Order library, a place of learning.  To the
+south is the Alcove of the Stars, The place of healing.  To the east is the
+Star room, the place to study the gods and the constellations.
+~
+0 8 21
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 851
+S
+#855
+Holy Order Library~
+This Room is filled with stacks of books and ancient scrolls, some may
+have been blessed by the gods themselves, no one knows.  The Holy Order
+clerics come here to relax and meditate, and spend hours studying the
+ancient times.  This is a place of relaxation and sometimes, tedious
+studying.  
+~
+0 8 21
+D2
+~
+~
+0 0 854
+S
+#857
+The Sky Room~
+This room seems to have no roof, yet no rain or snow ever touch the
+floor.  It must be a powerful blessing by the gods that keeps it untouched. 
+You can see the stars from this room, you notice all the constellations. 
+There is Gilean, The Book, Takhisis, The Temptress, and Paladine, The
+Platinum Dragon.  
+~
+0 0 21
+D3
+~
+~
+0 0 854
+S
+#858
+The High Priests Study~
+This is the study of the Great High Priest, the most favored of all the
+people on Krynn.  There is a shrine in the corner dedicated to the the High
+Priests god.  If you look out the window on the north side of the room, you
+can see a small Krynn revolving in the distance, but you can not get to it. 
+~
+0 8 21
+D2
+~
+~
+1 0 853
+S
+#859
+The Chapel~
+As you walk into this room, divine holiness envelops you.  You can sense
+the presence of all the gods in this room, ever watchful for their chosen. 
+Many come here to pray and to mourn, you try to imagine how old this room
+is, but you can not tell, it appears as if it might have been created by the
+gods themselves.  
+~
+0 8 21
+D2
+~
+~
+0 0 860
+S
+#860
+A Dead End Hallway~
+This hall ends in an abrupt stop, as though the builder had thrown down
+his tools in frustration.  To the north is the Chapel, the place for prayer
+and mourning.  To the east is the entrance to the High Priests Study.  
+~
+0 8 21
+D0
+~
+~
+0 0 859
+D1
+~
+~
+0 0 853
+S
+#861
+Empty Room~
+There is nothing here, just blank walls and a cold, hard marble floor.  
+~
+0 8 21
+D2
+~
+~
+1 0 852
+S
+#862
+A long Hallway~
+Here lies a very large hallway.  The walls are decorated with paintings
+of flowers, against a white background.  In the center of the room, sits a
+mahogany table, with a tall vase centered on top of it.  Sprouting out of
+the vase are more flowers, however, these are lavish and real.  The room
+smells of a fresh sunny day out in a garden.  A sense of peace and solitude
+can be felt.  Going south leads out into the streets of Solanthus, while
+heading north, leads deeper into the Temple of Holy Order.  
+~
+0 8 21
+D0
+~
+~
+0 0 863
+D2
+~
+~
+0 0 5719
+S
+#863
+Inside the Temple of Holy Order~
+Here lies a very large hallway.  The walls are decorated with paintings
+of flowers, against a white background.  In the center of the room, sits a
+mahogany table, with a tall vase centered on top of it.  Sprouting out of
+the vase are more flowers, only these are lavish and real.  The room
+smells of a fresh sunny day out in a garden.  A sense of peace and solitude
+can be felt.  Going south leads out into the streets of Solanthus, while
+heading north, leads deeper into the Temple of Holy Order.
+~
+0 8 21
+D0
+~
+~
+0 0 851
+D2
+~
+~
+0 0 862
+S
+#0
+
+
+
+#SPECIALS
+M 852 spec_orgguard
+S
+
+
+
+#RESETS
+D 0 852 0 1
+D 0 853 0 1
+D 0 858 2 1
+D 0 861 2 1
+O 0 852 0 851
+O 0 853 0 851
+M 0 851 1 851 1
+M 0 852 5 851 1
+E 0 860 0 5
+E 0 861 0 20
+M 0 852 5 853 1
+E 0 860 0 5
+E 0 861 0 20
+M 0 852 5 854 1
+E 0 860 0 5
+E 0 861 0 20
+M 0 852 5 859 1
+E 0 860 0 5
+E 0 861 0 20
+M 0 852 5 862 1
+E 0 860 0 5
+E 0 861 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

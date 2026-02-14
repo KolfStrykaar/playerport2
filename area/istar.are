@@ -1,0 +1,5676 @@
+#AREADATA
+Name Istar~
+Builders Habbakuk~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 5800 5999
+Credits Habbakuk~
+Security 9
+End
+
+
+
+#MOBILES
+#5801
+goldfish~
+a {ygoldfish{x~
+A goldfish is here, following its master.
+~
+This small fish looks so rich since her scales are that of gold.  She
+appears to be a good fighter.  Through magic, this fish can survive outside
+the water as well.  
+~
+unique~
+AHI b 0 0
+10 10 15d3+92 10d10+85 2d5+8 suction
+4 4 4 6
+FHKM 0 KR H
+stand stand female 1
+Gb AKQ T unknown 0
+#5803
+local~
+a local~
+A local is here eating some freshly prepared food.
+~
+This local of Istar is happily eating some food.  
+~
+human~
+AB 0 0 0
+10 10 15d3+92 10d10+85 2d5+8 punch
+4 4 4 6
+0 0 0 0
+stand stand female 45
+AHMV ABCDEFGHIJK M unknown 0
+#5808
+old sailor~
+an old sailor~
+An old sailor is here walking around.
+~
+He is one of the many sailors here that were rescued by the sea elves
+when his ship went down.  
+~
+human~
+AGH 0 100 0
+8 8 12d2+73 8d10+85 2d4+7 punch
+5 5 5 7
+FIK 0 0 0
+stand stand male 560
+AHMV ABCDEFGHIJK M unknown 0
+#5810
+male sea elf ~
+a male sea elf~
+A male sea elf is here walking in the ruins.
+~
+This male sea elf is unlike his cousins who live in the sea.  He has
+grown use to covering his body with what the kreeaQUEKH call "clothes".  He
+seems pleased with himself and this city.  
+~
+elf~
+AG Jb 0 0
+9 9 14d3+82 9d10+85 2d4+8 punch
+5 5 5 6
+0 0 BR Z
+stand stand none 456
+AHMV ABCDEFGHIJK M unknown 0
+#5813
+drunk~
+a drunk~
+A drunk is here spending his last gold piece.
+~
+This drunken dwarf seems to have a high tolerance to alcohol.  He looks
+like a mean fighter in case a brawl breaks out.  
+~
+hylar~
+ABH J 0 0
+15 15 23d5+137 15d10+85 4d3+10 punch
+2 2 2 5
+CDR 0 0 IR
+stand stand male 234
+AHMV ABCDEFGHIJK S unknown 0
+M RANDOM 5812 5~
+#5816
+zebulah~
+Zebulah~
+Zebulah the {Rred-robe{x is here memorizing spells.
+~
+Once a young and greedy mage, Zebulah searched for treasures to get rich
+quickly.  Fortunately, he found his greatest treasure here, his wife
+Apoletta; a beautiful sea elf.  He has since spent that last 20 years of
+this life down below the Blood Sea here protecting and improving this ruined
+city of Istar.  
+~
+human~
+AGMR H 0 0
+100 100 150d33+1821 100d10+85 28d3+38 magic
+-37 -37 -37 -16
+BFHK 0 AB 0
+stand stand male 23400
+AHMV ABCDEFGHIJK M unknown 0
+#5817
+volunteer guard istar~
+a volunteer guard of Istar~
+A volunteer guard of Istar is here looking out for trouble.
+~
+This well toned muscular sea elf is a volunteer guard for the city of Istar. 
+Since the city is isolated under the Blood Sea, there is no real need for
+hiring real guards.  
+~
+elf~
+AT J 0 0
+15 15 23d5+137 15d10+85 4d3+10 slash
+2 2 2 5
+FKNT 0 B Z
+stand stand male 245
+AHMV ABCDEFGHIJK M unknown 0
+#5818
+volunteer guard istar~
+a volunteer guard of Istar~
+A volunteer guard of Istar is here looking out for trouble.
+~
+This well toned muscular sea elf is a volunteer guard for the city of Istar. 
+Since the city is isolated under the Blood Sea, there is no real need for
+hiring real guards.  
+~
+elf~
+AT J 0 0
+15 15 23d5+137 15d10+85 4d3+10 slash
+2 2 2 5
+FKNT 0 B Z
+stand stand male 245
+AHMV ABCDEFGHIJK M unknown 0
+#5820
+old sea elf~
+an old sea elf~
+An old sea elf is here resting upon a marble slab.
+~
+This old sea elf has seen his last days of frolicking in the sea.  He now
+seems to spend the rest of his time resting.  Thus is takes a long time for
+this sea elf to go any where.  
+~
+elf~
+AG Jb 0 0
+10 10 15d3+92 10d10+85 2d5+8 thwack
+4 4 4 6
+FIK 0 BR Z
+stand stand male 340
+AHMV ABCDEFGHIJK M unknown 0
+#5824
+minotaur sailor~
+a minotaur sailor~
+A minotaur sailor is here causing trouble with the elves.
+~
+This large minotaur had once been a sailor and a kreeaQUEKH until the
+maelstrom crippled his ship and his sailing spirit.  He was luckily rescued
+by the sea elves, who brought him here.  
+~
+minotaur~
+AG 0 10 0
+14 14 21d4+128 14d10+85 4d3+9 slash
+2 2 2 5
+DFKN 0 HI K
+stand stand male 545
+AHMV ABCDEFGHIJK L unknown 0
+#5826
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5827
+human sailor~
+a human sailor~
+A human sailor is here blessing his luck here.
+~
+This human sailor is one of the newest batch of sailors rescued from the
+maelstrom far above this place.  He smells and looks very dirty.  
+~
+human~
+AG 0 0 0
+10 10 15d3+92 10d10+85 2d5+8 slice
+4 4 4 6
+FIKN 0 0 0
+stand stand none 234
+AHMV ABCDEFGHIJK M unknown 0
+#5830
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5832
+volunteer guard istar~
+a volunteer guard of Istar~
+A volunteer guard of Istar is here looking out for trouble.
+~
+This well toned muscular sea elf is a volunteer guard for the city of Istar. 
+Since the city is isolated under the Blood Sea, there is no real need for
+hiring real guards.  
+~
+elf~
+AT J 0 0
+15 15 23d5+137 15d10+85 4d3+10 slash
+2 2 2 5
+FKNT 0 B Z
+stand stand male 245
+AHMV ABCDEFGHIJK M unknown 0
+#5834
+human sailor~
+a human sailor~
+A human sailor is here blessing his luck.
+~
+This human sailor is one of the newest batches of sailors rescued from the maelstrom far above this place.  He smells and looks very dirty.
+~
+human~
+AG 0 0 0
+10 10 15d3+92 10d10+85 2d5+8 punch
+4 4 4 6
+FIKN 0 0 0
+stand stand male 234
+AHMV ABCDEFGHIJK M unknown 0
+#5835
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5838
+minotaur sailor~
+a minotaur sailor~
+A minotaur sailor is here walking through the ruins.
+~
+This large minotaur had once been a sailor and a kreeaQUEKH until the
+maelstrom crippled his ship and his sailing spirit.  He was luckily rescued
+by the sea elves, who brought him here.  
+~
+minotaur~
+AG 0 10 0
+14 14 21d4+128 14d10+85 4d3+9 stab
+2 2 2 5
+0 0 HI K
+stand stand male 543
+AHMV ABCDEFGHIJK L unknown 0
+#5842
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5846
+citizen istar~
+a citizen of Istar~
+A citizen of Istar is walking around here.
+~
+This elf is a citizen of Istar.  He has been living down here for twenty
+years.  
+~
+elf~
+AG J 200 0
+12 12 18d4+110 12d10+85 3d4+9 slice
+3 3 3 6
+0 Z B Z
+stand stand male 340
+AHMV ABCDEFGHIJK M unknown 0
+#5849
+female sea elf~
+a female sea elf~
+A female sea elf is here walking around.
+~
+This female sea elf appears to be like all the other sea elves in this
+city: tall, slender, white-skined, and green hair.  She has a quaint
+innocence as well.  
+~
+elf~
+AG Jb 0 0
+8 8 12d2+73 8d10+85 2d4+7 slap
+5 5 5 7
+0 0 BR Z
+stand stand female 400
+AHMV ABCDEFGHIJK M unknown 0
+#5851
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5854
+moss~
+some {gmoss{x~
+Some {gmoss{x is growing on the wall here.
+~
+This small plant is happily growing on the wall here.  
+~
+unique~
+AB c 0 0
+2 2 3d2+19 2d10+85 1d2+5 slime
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 T unknown 0
+#5858
+sea crab~
+a sea crab~
+A sea crab crawls across the floor here.
+~
+This is a sea crab, mightiest of the sea creatures...  Well...  Maybe not.  
+~
+unique~
+AG b -10 0
+5 5 8d2+46 5d10+85 1d5+6 claw
+6 6 6 8
+HO 0 KR H
+stand stand none 12
+b CK S unknown 0
+#5868
+apoletta sea elf~
+Apoletta~
+Apoletta, the sea elf, is here by the edge of the pool.
+~
+Her hair is a faint green and her skin a creamy white.  Apoletta is one
+of the main sea elves who watch over the seas here and the city of Istar. 
+She is happily married to the red-robed mage Zebulah, whom she met under
+the sea twenty years ago.  
+~
+elf~
+ABR DHJb 500 0
+110 110 165d36+3004 110d10+85 31d3+41 slap
+-42 -42 -42 -19
+FHK 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5892
+cleric habb~
+a cleric of {cHabbakuk{X~
+A cleric of Habbakuk is here healing the wounded.
+~
+This female sea elf has devoted her life to healing in the name of the Lord
+of the Sea: Habbakuk.  She appears to be only in here thirties, but don't
+even think about it men, she is married to her faith.  
+~
+elf~
+ABQa HJ 1000 0
+200 200 300d66+7281 200d10+85 57d3+71 divine
+-86 -86 -86 -44
+0 ABCD B Z
+stand stand female 1000
+AHMV ABCDEFGHIJK M unknown 0
+#5893
+cook fat~
+a fat cook~
+A fat cook is here cooking up a storm.
+
+~
+This fat sea elf gave up swimming a long time ago.  Now, fully clothed, he
+prepares the best food this town has ever seen.  His skin is much more
+darker than all the other sea elves because of all the time he spends on
+land here.  
+~
+elf~
+AB HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 punch
+-61 -61 -61 -30
+0 ABCD B Z
+stand stand male 232
+AHMV ABCDEFGHIJK M unknown 0
+#5894
+zebulah assistant~
+Zebulah's assistant~
+Zebulah's assistant is here selling his master's concoctions.
+~
+This apprentice is eager to sell you one of his master's divine and
+powerful potions.  This young sea elf was hand picked by the red robe
+Zebulah because of his grasp of the natural magics.  Elves, especially sea
+elves who can change their form, a adept at the magical arts.  
+~
+elf~
+ABR HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 magic
+-61 -61 -61 -30
+0 ABCD B Z
+stand stand none 345
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5894 100~
+#5895
+Leiha ~
+Leiha~
+Leiha is here polishing a piece of plate armor.
+~
+Leiha is one of the oldest Sea Elves here on "land".  He appears to
+really know his armor because he looks quite rich from selling it.  
+~
+elf~
+ABT HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 punch
+-61 -61 -61 -30
+0 ABCD BLQ RZ
+stand stand none 1214
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5895 100~
+#5896
+Grake forger~
+Grake the forger~
+Grake the forger is here pounding out weapons.
+~
+This sea-elf male, once with creamy white skin, is now black because of
+all the soot that covers his clothes and skin.  He looks willing to sell you
+one of his finely crafted weapons.  
+~
+elf~
+AB HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 crush
+-61 -61 -61 -30
+0 ABCD B Z
+stand stand male 2300
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5896 100~
+#5897
+Helaff bartender~
+Helaff the bartender~
+Helaff, the sea-elf bartender, is here serving drinks.
+~
+This middle-aged sea elf is one of the many sea elves who work in the dry
+areas of Istar.  His business here is booming, many rescued sailors take a
+break here.  His short green hair makes him stand out a little among all
+these other races.  
+~
+elf~
+AB HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 punch
+-61 -61 -61 -30
+0 ABCD B Z
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5813 30~
+M GREET 5897 100~
+#5898
+master warrior~
+a master warrior~
+A master warrior is here training the aspiring pupils.
+~
+This man is very tall and very "buff".  It would be better if you didn't
+mess with him.  
+~
+human~
+ABJKTb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slash
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5899
+master ranger~
+the Master Ranger~
+A master ranger is waiting here to train you.
+~
+This beautiful elf is a marksman with the bow, so one should do his best
+to watch out.  
+~
+elf~
+ABJKTb HJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slice
+-86 -86 -86 -44
+0 AB B Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5900
+ogre trainer~
+an ogre trainer~
+An ogre trainer is contemplating your progress here.
+~
+This big ogre really looks like he knows his hand-to-hand combat because
+all the other ogres are afraid to have him train them.  
+~
+ogre~
+ABJKb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slash
+-86 -86 -86 -44
+0 AB HI K
+stand stand male 0
+AHMV ABCDEFGHIJK L unknown 0
+#5901
+old druid~
+the old druid~
+An old druid stands here with plants in hand for your next lesson.
+~
+This really old man has an awesomely long white beard.  He smells like
+the outdoors as well.  
+~
+human~
+ABJKRb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#5902
+Gheff kender lockpicker~
+Gheff~
+Gheff, the kender lockpicker, is here giving a lesson.
+~
+This small kender looks lick he knows how to really pick a lock.  Lost
+your key?  
+~
+kender~
+ABJKSb H -100 0
+200 200 300d66+7281 200d10+85 57d3+71 pierce
+-86 -86 -86 -44
+0 AB 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#5903
+master cleric~
+a master cleric~
+A master cleric stands here training his pupils.
+~
+This retired cleric is happy to train you.  He seems to know an awful lot
+about the healing arts.  
+~
+human~
+ABJKQb H 500 0
+200 200 300d66+7281 200d10+85 57d3+71 divine
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5904
+old bard~
+an old bard~
+An old bard sits here playing the sweetest music you have ever heard.
+~
+This guy really knows how to handle his instrument.  
+~
+human~
+ABJKb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 pierce
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5905
+renegade mage~
+the renegade mage~
+A renegade mage is here, offering to teach you all he has discovered.
+~
+This renegade mage was once a student of the Conclave until he found out
+that he enjoyed eating well and owning a boat.  Although, it doesn’t look
+like he earned all the money for these expenses honestly...  
+~
+human~
+ABJKRb H -300 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5906
+master assassin~
+the master assassin~
+The master assassin emerges from the shadows to train you.
+~
+It’s too dark in here to see any of his distinct features...  
+~
+half-elf~
+ABJKb HJ -500 0
+200 200 300d66+7281 200d10+85 57d3+71 slice
+-86 -86 -86 -44
+0 AB B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5908
+black robe~
+a {Dblack{x robe~
+A {Dblack{x robe is here practicing his deadly art.
+~
+The room is to dark to get a good look at him or his features.  He
+appears to be dedicated to his art of death and decay.  
+~
+human~
+ABJKRb H -700 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5909
+red robe~
+a {Rred{x robe~
+A {Rred{x robe is levitating here, waiting for her next pupil.
+~
+This red robe mage is a beautiful elf...  Wait...  She just changed shape
+into a dragon!  
+~
+elf~
+ABJKRb HJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 AB B Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5910
+white robe~
+a {Wwhite{x robe~
+A {Wwhite{x robe is here teaching spells to only the most devoted mages.
+~
+This white robe seems to like altering reality and shifting your
+perception of the world around you.  
+~
+human~
+ABJKRb H 700 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5911
+adept conclave~
+an adept~
+An adept of the conclave is here training his pupils to summon.
+~
+Though not a master of the art yet, this young man knows a lot about
+conjuration.  
+~
+human~
+ABJKRb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5912
+battlemage master~
+a master battlemage~
+A master battlemage is here waiting to train your skills.
+~
+This half-elf is in his mid forties, yet he still seems like a
+formidable opponent.  Luckily for you he is not looking for a fight, rather
+he wishes to share his knowledge with you.  
+~
+half-elf~
+ABJKRTb HJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slice
+-86 -86 -86 -44
+0 AB B 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#5913
+retired knight~
+a retired knight~
+A retired knight is here helping the youngsters train.
+~
+This old knight is ready to train you.  He is also ready to show you a
+new skill as well.  
+~
+human~
+ABJKTb H 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slash
+-86 -86 -86 -44
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#5914
+Elis~
+Elis~
+Elis the shopkeeper is here dusting the shelves.
+~
+This young sea elf maiden seems to be tied to her job.  She is quite
+tall and slender, making her excellent at her job because she can reach the
+tall shelves or squeeze between them.  Of course, all sea elves are tall in
+slender with greenish hair and creamy white skin.  
+~
+elf~
+AB HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 slap
+-61 -61 -61 -30
+I ABCD B Z
+stand stand female 3223
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5914 100~
+#5915
+edion~
+Edion~
+Edion is here feeding his fish.
+~
+Edion is one of the many sea elves that live on the dry part of Istar. 
+But unlike members of his race, he wears clothes when dealing with other
+races.  Most sea elves don't believe in clothing, but the ones who work in
+the dry part, among others, wear clothes.  
+~
+elf~
+AB HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 pierce
+-61 -61 -61 -30
+FK ABCD B Z
+stand stand male 1200
+AHMV ABCDEFGHIJK M unknown 0
+#5916
+giant sea turtle~
+a giant {Csea {Gturtle{x~
+A giant sea turtle is here obeying its master.
+~
+This giant sea turtle has a hard dark green shell for a back.  Some scars
+are on this giant shell as well, showing the observer that he is a tough
+fighter.  
+~
+unique~
+ADI b 0 0
+50 50 75d16+456 50d10+85 14d3+21 chomp
+-14 -14 -14 -4
+CO 0 KR H
+stand stand male 1
+GXb ABCK L unknown 0
+#5918
+questmaster istar~
+the {MQuestmaster{x of {BIstar{x~
+The {MQuestmaster{x of {BIstar{x is here putting up posters.
+~
+This old druid seems content on performing his duty for the good of
+Istar.  He seems eager to give you a quest, only if you would ask for one.  
+~
+elf~
+ABR HJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 magic
+-86 -86 -86 -44
+FK ABCD B Z
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5919
+office assistant~
+an office assistant~
+An office assistant is here eager to help you.
+~
+This female office assistant is eager to help you with any of your
+monetary needs.  Upon closer examination, this young woman is actually one
+of the many young female sea elves that work and live in this city.  She is
+quite the looker with her creamy white skin and green hair.  
+~
+elf~
+ABLde HJ 0 0
+200 200 300d66+7281 200d10+85 57d3+71 punch
+-86 -86 -86 -44
+0 ABCD B Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5919 100~
+#5925
+giant squid~
+a giant squid~
+A giant squid is here feeding on some fish.
+~
+This vicious beast is mean.  I wouldn’t mess with it.  
+~
+unique~
+AH b -50 0
+15 15 23d5+137 15d10+85 4d3+10 suction
+2 2 2 5
+DFO 0 KR H
+stand stand female 324
+b AKOQ G unknown 0
+#5926
+sea elf~
+a sea elf~
+A sea elf is here merrily swimming around.
+~
+This beautiful sea is completely naked!  She has creamy white skin and
+long sea green hair that covers her pointed ears.  Sea elves distrust the
+races from above the sea, thus they try to remain hidden in their underwater
+paradise here.  
+~
+elf~
+AG Jb 400 0
+25 25 38d8+228 25d10+85 7d3+13 tail
+-2 -2 -2 3
+FHKR 0 BKR Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5936
+sea elf~
+a sea elf~
+A sea elf is here merrily swimming around.
+~
+This beautiful sea is completely naked!  She has creamy white skin and
+long sea green hair that covers her pointed ears.  Sea elves distrust the
+races from above the sea, thus they try to remain hidden in their underwater
+paradise here.  
+~
+elf~
+AG Jb 400 0
+25 25 38d8+228 25d10+85 7d3+13 tail
+-2 -2 -2 3
+FHKR 0 BKR Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5939
+clown fish~
+a clownfish~
+A clownfish is here, hiding in the kelp.
+~
+This orange and white striped fish is a beautiful sight to behold.  His
+scales reflect the few rays of light that reach the bottom here, making the
+place glitter.  
+~
+unique~
+AG b 0 0
+20 20 30d6+183 20d10+85 5d4+11 tail
+0 0 0 4
+FHM 0 R 0
+stand stand none 45
+b AKOQ T unknown 0
+#5940
+fish cyan ~
+a {Ccyan{x fish~
+A {Ccyan{x fish is here, swimming about.
+~
+This small cyan fish swims about here eating some kelp.  
+~
+unique~
+AG b 0 0
+11 11 17d3+101 11d10+85 3d3+8 tail
+4 4 4 6
+F 0 R 0
+stand stand none 23
+b AKOQ T unknown 0
+#5942
+fish red~
+a {Rred{x fish~
+A {Rred{x fish is here, eating some kelp.
+~
+This small red fish is loves eating its kelp.  
+~
+unique~
+AG b 0 0
+8 8 12d2+73 8d10+85 2d4+7 tail
+5 5 5 7
+F 0 R 0
+stand stand none 23
+b AKOQ T unknown 0
+#5953
+grey shark~
+a grey shark~
+A grey shark is here feeding.
+~
+This vicious killer loves the taste of blood upon his jaws.  I wouldn’t
+swim to close to him...  
+~
+unique~
+AF b -300 0
+30 30 45d10+274 30d10+85 8d3+15 bite
+-4 -4 -4 1
+DFH 0 KR H
+stand stand male 234
+b AKOQ L unknown 0
+#5954
+fish purple~
+a {mpurple{x fish~
+A small {mpurple{x fish is here swimming around.
+~
+Its small and purple; and most of all: a fish.  
+~
+unique~
+AG b 0 0
+15 15 23d5+137 15d10+85 4d3+10 tail
+2 2 2 5
+F 0 R 0
+stand stand none 12
+b AOQ T unknown 0
+#5959
+sea elf~
+a sea elf~
+A sea elf is here merrily swimming around.
+~
+This beautiful sea is completely naked!  She has creamy white skin and
+long sea green hair that covers her pointed ears.  Sea elves distrust the
+races from above the sea, thus they try to remain hidden in their underwater
+paradise here.  
+~
+elf~
+AG Jb 400 0
+25 25 38d8+228 25d10+85 7d3+13 tail
+-2 -2 -2 3
+FHKR 0 BKR Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5976
+sea elf~
+a sea elf~
+A sea elf is here merrily swimming around.
+~
+This beautiful sea is completely naked!  She has creamy white skin and
+long sea green hair that covers her pointed ears.  Sea elves distrust the
+races from above the sea, thus they try to remain hidden in their underwater
+paradise here.  
+~
+elf~
+AG Jb 400 0
+25 25 38d8+228 25d10+85 7d3+13 tail
+-2 -2 -2 3
+FHKR 0 BKR Z
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#5977
+blue fish~
+a {bb{Blu{be{x fish~
+A {bb{Blu{be{x fish is here swimming around.
+~
+This is an ordinary fish the roams the sea.  He as blue as the sea here.  
+~
+unique~
+AG b 0 0
+5 5 8d2+46 5d10+85 1d5+6 tail
+6 6 6 8
+F 0 R 0
+stand stand none 12
+b AOQ T unknown 0
+#5982
+fish big yellow~
+a big {Yyellow{x fish~
+A big {Yyellow{x fish is here feeding upon the kelp.
+~
+This fish is quite big, and multi colors of yellow cover his scales.  
+~
+unique~
+AG b 0 0
+17 17 26d5+155 17d10+85 4d4+10 tail
+1 1 1 4
+F 0 R 0
+stand stand none 12
+b AKOQ S unknown 0
+#5990
+Donlh~
+Donlh~
+Donlh, the bard, is here polishing his instruments.
+~
+~
+elf~
+ABR HJ 0 0
+150 150 225d50+4096 150d10+85 42d3+55 smash
+-61 -61 -61 -30
+FIKN ABCD B Z
+stand stand female 1231
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 5990 100~
+M SPEECH 5989 yes~
+M SPEECH 5988 no~
+#0
+
+
+
+#OBJECTS
+#5801
+long sword~
+a long sword~
+A long sword sits here unused.~
+steel~
+weapon 0 0 ANZ
+sword 2 6 slash 0
+8 6 981 P
+#5802
+standard flail~
+a standard flail~
+A standard flail sits in the dust here unused.~
+iron~
+weapon 0 0 ANY
+flail 2 3 pound 0
+2 7 345 P
+#5803
+small club~
+a small club~
+A small club lies here unused.~
+stone~
+weapon S 0 ANX
+mace 2 3 crush 0
+3 3 254 P
+#5804
+mace standard~
+a standard mace~
+A standard mace is here unused.~
+iron~
+weapon 0 0 ANY
+mace 3 3 crush 0
+6 7 458 P
+#5805
+large fountain~
+a large {Bfountain{x~
+A large {Bfountain{x sits here in the middle of the street, spouting water.~
+stone~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#5806
+battle axe~
+a battle axe~
+A battle axe is here unused.~
+stone~
+weapon S 0 ANY
+axe 3 3 chop 0
+5 6 750 P
+#5807
+wooden bow~
+a wooden bow~
+A wooden bow sits here unused.~
+cedar~
+weapon S 0 ANY
+bow 3 3 pierce 0
+5 4 560 P
+#5808
+small quiver~
+a small quiver~
+A quiver of arrows sits in the dust here.~
+tooled leather~
+quiver S 0 AKc
+10 3 3 0 0
+10 1 1200 P
+#5809
+cooked sea bass~
+some cooked sea bass~
+Some sea bass lies here waiting to be eaten.~
+flesh~
+food S 0 A
+BD 0 0 0 0
+1 1 40 P
+#5810
+bowl chicken soup~
+a bowl of chicken soup~
+A bowl of chicken soup is waiting here to be eaten.~
+ceramic~
+food S 0 A
+D 0 0 0 0
+1 1 25 P
+#5811
+glass lemonade~
+a glass of Lemonade~
+A glass of Lemonade sits here.~
+glass~
+drink S 0 AO
+1 1 'lemonade' 0 0
+1 1 80 P
+#5812
+bottle rum~
+a bottle of rum~
+A bottle of rum sits here unused.~
+glass~
+drink S 0 AO
+3 3 'rum' 0 0
+1 1 120 P
+#5813
+mug beer~
+a mug of beer~
+A mug of beer is here.~
+wood~
+drink S 0 AO
+1 1 'beer' 0 0
+1 1 10 P
+#5814
+sanctuary potion~
+a potion of {Wsanctuary{x~
+A potion of {Wsanctuary{x sits here unused.~
+glass~
+potion GS 0 A
+10 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 1 9000 P
+#5815
+potion cure serious~
+a potion of cure serious wounds~
+A potion of cure serious wounds lies here unused.~
+glass~
+potion GS 0 A
+10 'cure serious' 'reserved' 'reserved' 'reserved'
+1 1 2400 P
+#5816
+cure blindness potion~
+a potion of cure blindness~
+A potion that cures blindness is here.~
+glass~
+potion GS 0 A
+10 'cure blindness' 'reserved' 'reserved' 'reserved'
+1 1 2500 P
+#5817
+potion true sight~
+a potion of true sight~
+A potion of true sight lies here unused.~
+glass~
+potion AGS 0 A
+10 'detect invis' 'detect magic' 'detect evil' 'reserved'
+5 1 12000 P
+#5818
+bottle antidote~
+a bottle of antidote~
+A bottle of antidote sits here unused.~
+glass~
+potion GS 0 A
+10 'cure poison' 'reserved' 'reserved' 'reserved'
+8 1 5600 P
+#5819
+potion levitation~
+a potion of levitation~
+A {Cblue{x potion sits here unused.~
+glass~
+potion GS 0 A
+10 'levitate' 'refresh' 'reserved' 'reserved'
+5 1 3500 P
+#5820
+chain mail iron~
+iron chainmail~
+Some chain mail lies in a pile here.~
+iron~
+armor 0 0 ADc
+BC AB AC 0 0
+10 17 54000 P
+#5821
+iron breast plate~
+an iron breastplate~
+An iron breastplate sits here unused.~
+iron~
+armor 0 0 ADc
+C 0 D 0 0
+10 21 61000 P
+#5822
+ancient scroll defense~
+({yAncient{x) scroll of defense~
+A ancient scroll sits here fading in the sun.~
+parchment~
+scroll GS 0 AO
+20 'shield' 'aid' 'reserved' 'reserved'
+20 1 1450 P
+#5823
+wand undead spirits~
+a wand of {DUndead {WSpirits{x~
+A wicked looking wand lies on the ground here.~
+bone~
+wand EGJSY 0 AOc
+70 10 5 'undead disruption' 0
+80 1 200000 P
+#5824
+ancient scroll draining~
+({yAncient{x) scroll of draining~
+An ancient scroll sits here collecting dust.~
+vellum~
+scroll GS 0 AO
+65 'energy drain' 'vampiric touch' 'reserved' 'reserved'
+60 1 1200 P
+#5825
+pile rubble~
+a pile of rubble~
+A pile of marble rubble is here blocking your way.~
+marble~
+trash 0 0 0
+0 0 0 0 0
+0 16960 0 P
+#5826
+suede guard tunic~
+a suede guard tunic~
+A small guard's tunic lies in the dust here.~
+suede~
+armor S 0 ADY
+AB AC C 0 0
+15 2 0 P
+#5827
+studded guard vest~
+a studded guard's vest~
+A small guard's vest lies in the dust here.~
+studded leather~
+armor S 0 ADY
+AC ABC BC 0 0
+15 8 150 P
+#5832
+leather guard vest~
+a leather guard's vest~
+A small guard's vest lies in the dust here.~
+leather~
+armor S 0 ADX
+C BC AC 0 0
+15 2 150 P
+#5833
+red robes velvet conclave~
+({rVelvet{x) {RRed Robes{x of the {WConclave{x~
+A powerful looking {rred velvet{x robe is lying here.~
+velvet~
+armor GJKSY 0 ADY
+ADE ADE ADE ABF 0
+90 3 5000 P
+A
+25 -10
+#5834
+harp silver~
+a {Wsilver{X harp~
+A silver harp is here shining in the dust.~
+silver~
+instrument 0 0 AOc
+0 0 0 0 0
+25 1 8500 P
+#5835
+wooden harp~
+a {ywooden{x harp~
+A small wooden harp lies here in the dust.~
+wood~
+instrument S 0 AO
+0 0 0 0 0
+10 1 3600 P
+#5867
+statue dolphin~
+a statue of a giant dolphin~
+A statue of a giant dolphin stands here, representing Habbakuk.~
+marble~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+E
+dolphin~
+At sea, Habbakuk assumes the form of a giant blue dolphin, thus the
+statue tries to capture him in this form.  He created and rules all
+creatures of the land and sea in his likeness.  
+~
+E
+statue~
+At sea, Habbakuk assumes the form of a giant blue dolphin, thus the
+statue tries to capture him in this form.  He created and rules all
+creatures of the land and sea in his likeness.  
+~
+#5868
+pool water dark portal~
+a pool of {Ddark {bwater{x~
+A vast pool of {Ddark {bwater{x begins here.~
+stone~
+portal O 0 P
+0 0 0 BGIJKM 0
+0 0 0 P
+#5869
+pool dark water portal~
+a pool of {Ddark {bwater{x~
+A vast pool of {Ddark {bwater{x begins here.~
+stone~
+portal O 0 P
+0 0 0 BGIJKM 0
+0 0 0 P
+#5870
+statue sea dragon~
+a statue of a sea dragon~
+A half-broken statue of a sea dragon is here.~
+granite~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+#5871
+zeboim statue turtle~
+a statue of Zeboim~
+A statue of a turtle with an human face stands here.~
+marble~
+trash 0 0 P
+0 0 0 0 0
+0 0 0 P
+E
+turtle~
+This statue depicts Zeboim in her avatar form: a giant sea turtle with a
+human female face.  Zeboim the Sea Queen is the impetuous and volatile
+daughter of Takhisis and Sargonnas.  Her unpredictable tempers make her a
+dangerous foe and lethal friend.  She wars against Habbakuk, god of marine
+life, for control over the seas.  She provides her followers the vast wealth
+of lost treasure ships.  
+~
+E
+statue~
+This statue depicts Zeboim in her avatar form: a giant sea turtle with a
+human female face.  Zeboim the Sea Queen is the impetuous and volatile
+daughter of Takhisis and Sargonnas.  Her unpredictable tempers make her a
+dangerous foe and lethal friend.  She wars against Habbakuk, god of marine
+life, for control over the seas.  She provides her followers the vast wealth
+of lost treasure ships.  
+~
+#5892
+treasure donation chest~
+a Treasure Chest~
+An open treasure chest is here waiting for donations.~
+gold~
+container 0 0 P
+1000000 0 0 200 100
+0 0 0 P
+#5893
+chunk bread~
+a chunk of bread~
+A chuck of bread is here waiting to be eaten.~
+unknown~
+food S 0 AO
+AC 0 0 0 0
+1 1 10 P
+#5894
+recall potion~
+a potion of recall~
+A potion of recall is here unused.~
+glass~
+potion GS 0 A
+20 'word of recall' 'reserved' 'reserved' 'reserved'
+20 1 3400 P
+#5895
+soft leather vest~
+a soft leather vest~
+A leather vest is here being unused.~
+soft leather~
+armor S 0 ADc
+B C AB 0 0
+10 3 52000 P
+#5896
+bronze short sword~
+a {ybronze{x short sword~
+A small sword lies here in the dust.~
+bronze~
+weapon 0 0 ANX
+sword 2 3 thrust 0
+2 3 324 P
+#5897
+mug amber ale~
+a mug of {yamber{x ale~
+A mug of some amber colored ale lies here.~
+clay~
+drink S 0 AO
+2 2 'ale' 0 0
+1 0 30 P
+#5907
+couch leather~
+a leather couch~
+A comfortable leather couch is here for the practicing mage.~
+leather~
+furniture S 0 P
+C GJOQRST DG 0 0
+0 1000 0 P
+#5914
+reddish wooden volcano staff~
+the Staff of the {rVolcano{x~
+A reddish wooden staff lies in the dust here unused.~
+redwood~
+staff GSY 0 AOc
+50 5 3 'fireball' 0
+60 2 89000 P
+#5915
+spell book altering~
+({yAncient{x) spellbook of altering~
+An ancient spellbook lies in the dust here.~
+vellum~
+scroll AGS 0 AO
+80 'looking glass' 'alter reality' 'reserved' 'reserved'
+90 1 3450 P
+#5920
+opening ruin~
+an opening in the ruins~
+An opening into the ruins is here.~
+air~
+portal 0 0 P
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 CDFGHJKM 0
+0 0 0 P
+#5990
+grand piano~
+a Grand Piano~
+A {WG{Drand Pian{Wo{x sits in the middle of the room here.~
+ebony~
+furniture S 0 P
+B DFGHIJ D 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#5800
+{WThe West Side Ruins of Istar{x~
+Everything here, in the streets among ruins of the ancient city of Istar,
+gleams with moisture, in fact, reflecting the pale, eerie, green lights that
+glow from the moss growing on the walls of the remains.  The moss grows
+everywhere, of every different color and variety.  Deep green, golden
+yellow, coral red; it climbs the walls and crawls across the domed ceiling. 
+~
+0 262152 1
+D1
+~
+~
+0 0 5801
+D2
+~
+~
+0 0 5856
+S
+#5801
+{WThe West Side Ruins of Istar{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, known to
+the sea elves as KreeaQUEKHs (air-breathers), of many races walking down the
+gloomy enclosed street.  These poor souls had been rescued by the sea elves
+when their boats were destroyed by the giant maelstrom of the Blood Sea far
+above.  Yet, taking another glance, they seem content with their new life
+down here below the water away from the hassle of everyday life on land.  
+ 
+A small sign hangs from the building to the north.
+~
+0 262152 1
+E
+sign~
+#==============================#
+|      {CLost Arcane Objects{x     |
+#==============================#
+~
+D0
+~
+~
+0 0 5914
+D1
+~
+~
+0 0 5802
+D3
+~
+~
+0 0 5800
+S
+#5802
+{WThe West Side Ruins of Istar{x~
+Everything here, in the streets among ruins of the ancient city of Istar,
+gleams with moisture, in fact, reflecting the pale, eerie, green lights that
+glow from the moss growing on the walls of the remains.  The moss grows
+everywhere, of every different color and variety.  Deep green, golden
+yellow, coral red; it climbs the walls and crawls across the domed ceiling. 
+~
+0 262152 1
+D1
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5801
+S
+#5803
+{WThe West Side Ruins of Istar{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, known to
+the sea elves as KreeaQUEKHs (air-breathers), of many races walking down the
+gloomy enclosed street.  These poor souls had been rescued by the sea elves
+when their boats were destroyed by the giant maelstrom of the Blood Sea far
+above.  Yet, taking another glance, they seem content with their new life
+down here below the water away from the hassle of everyday life on land.  
+ 
+A small sign hangs from the building to the south.
+~
+0 262152 1
+E
+sign~
+#==============================#
+|       {CThe Ship's Pantry{x      |
+#==============================#
+~
+D1
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5893
+D3
+~
+~
+0 0 5802
+S
+#5804
+{WThe West Side Ruins of Istar{x~
+Everything here, in the streets among ruins of the ancient city of Istar,
+gleams with moisture, in fact, reflecting the pale, eerie, green lights that
+glow from the moss growing on the walls of the remains.  The moss grows
+everywhere, of every different color and variety.  Deep green, golden
+yellow, coral red; it climbs the walls and crawls across the domed ceiling. 
+~
+0 262152 1
+D1
+~
+~
+0 0 5805
+D3
+~
+~
+0 0 5803
+S
+#5805
+{WAn Intersection of Ruined Streets{x~
+The large intersection here is, in reality, just a spot where the ruins
+haven't crashed down obliterating any such path through the ruins.  A large
+"main street" runs north and south from here while to the east, from a quick
+glance, appears to be the center of the ruins.  There a few scattered ruins
+to the west of here as well.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5818
+D1
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5817
+D3
+~
+~
+0 0 5804
+S
+#5806
+{WCenter of the Ruins of Istar{x~
+The stone covered path here leads through the "center" of the ruins of
+Istar.  Looking far up, the domed ceiling seems to reach its peak.  Thinking
+on the subject, this spot might be close to where the fiery mountain struck
+the Temple of the Kingpriest.  Everything here shimmers with moisture, in
+fact, reflecting the pale, eerie, green lights that glow from the moss
+growing on the walls of the remains.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5805
+S
+#5807
+{WCenter of the Ruins of Istar{x~
+An eerie and pale green light surrounds the white-washed and intricately
+carved columns that surround you at this spot.  Buildings are crumbling all
+around, yet it seems that time will never let any of the ruins here change;
+paradoxical in a way.  A few once-been sailors, of many races, are here
+walking down these ominous ruins.  
+ 
+A small sign hangs from the building to the north.
+~
+0 262152 1
+E
+sign~
+#==============================#
+| {C Edion's Aquatic Creatures{x   |
+#==============================#
+~
+D0
+~
+~
+0 0 5915
+D1
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5806
+S
+#5808
+{WCenter of the Ruins of Istar{x~
+The stone covered path here leads through the "center" of the ruins of
+Istar.  Looking far up, the domed ceiling seems to reach its peak.  Thinking
+on the subject, this spot might be close to where the fiery mountain struck
+the Temple of the Kingpriest.  Everything here shimmers with moisture, in
+fact, reflecting the pale, eerie, green lights that glow from the moss
+growing on the walls of the remains.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5809
+D3
+~
+~
+0 0 5807
+S
+#5809
+{WCenter of the Ruins of Istar{x~
+An eerie and pale green light surrounds the white-washed and intricately
+carved columns that surround you at this spot.  Buildings are crumbling all
+around, yet it seems that time will never let any of the ruins here change;
+paradoxical in a way.  A few once-been sailors, of many races, are here
+walking down these ominous ruins.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5808
+D1
+~
+~
+0 0 5892
+D2
+~
+~
+0 0 5810
+S
+#5810
+{WCenter of the Ruins of Istar{x~
+The stone covered path here leads through the "center" of the ruins of
+Istar.  Looking far up, the domed ceiling seems to reach its peak.  Thinking
+on the subject, this spot might be close to where the fiery mountain struck
+the Temple of the Kingpriest.  Everything here shimmers with moisture, in
+fact, reflecting the pale, eerie, green lights that glow from the moss
+growing on the walls of the remains.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5809
+D2
+~
+~
+0 0 5811
+S
+#5811
+{WCenter of the Ruins of Istar{x~
+An eerie and pale green light surrounds the white-washed and intricately
+carved columns that surround you at this spot.  Buildings are crumbling all
+around, yet it seems that time will never let any of the ruins here change;
+paradoxical in a way.  A few once-been sailors, of many races, are here
+walking down these ominous ruins.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5810
+D1
+~
+~
+0 0 5812
+D3
+~
+~
+0 0 5813
+S
+#5812
+{WBlocked Passage{x~
+This passage way is blocked by a large pile of fallen marble.  A few
+drops of salt water seep through; leading one to believe there is a whole
+boat-load of water behind those marble chunks.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5811
+S
+#5813
+{WCenter of the Ruins of Istar{x~
+The stone covered path here leads through the "center" of the ruins of
+Istar.  Looking far up, the domed ceiling seems to reach its peak.  Thinking
+on the subject, this spot might be close to where the fiery mountain struck
+the Temple of the Kingpriest.  Everything here shimmers with moisture, in
+fact, reflecting the pale, eerie, green lights that glow from the moss
+growing on the walls of the remains.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5897
+D3
+~
+~
+0 0 5814
+S
+#5814
+{WCenter of the Ruins of Istar{x~
+An eerie and pale green light surrounds the white-washed and intricately
+carved columns that surround you at this spot.  Buildings are crumbling all
+around, yet it seems that time will never let any of the ruins here change;
+paradoxical in a way.  A few once-been sailors, of many races, are here
+walking down these ominous ruins.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5813
+D3
+~
+~
+0 0 5815
+S
+#5815
+{WMain Street through the Ruins{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, of many
+races, walking down the dismal enclosed street here.  These poor souls had
+been rescued by the sea elves when their boats were destroyed by the giant
+maelstrom of the Blood Sea far above.  Yet, taking another glance, they seem
+content with there new life down here below the water away from the hassle
+of everyday life on land.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5816
+D1
+~
+~
+0 0 5814
+D2
+~
+~
+0 0 5847
+S
+#5816
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees.  
+ 
+A small sign hangs from the building to the west.
+~
+0 262152 1
+E
+sign~
+#==============================#
+|           {RThe Forge{x          |
+#==============================#
+~
+D0
+~
+~
+0 0 5817
+D2
+~
+~
+0 0 5815
+D3
+~
+~
+0 0 5896
+S
+#5817
+{WMain Street through the Ruins{x~
+The "main street" here runs along the numerous shambles of buildings that
+use to make up the fabulous city of Istar.  Everything here, in the streets
+among ruins of the ancient city of Istar, gleams with moisture, in fact,
+reflecting the pale, eerie, green lights that glow from the moss growing on
+the walls of the remains.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5816
+S
+#5818
+{WMain Street through the Ruins{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, of many
+races, walking down the dismal enclosed street here.  These poor souls had
+been rescued by the sea elves when their boats were destroyed by the giant
+maelstrom of the Blood Sea far above.  Yet, taking another glance, they seem
+content with there new life down here below the water away from the hassle
+of everyday life on land.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5819
+D2
+~
+~
+0 0 5805
+S
+#5819
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees. 
+A small sign hangs from the building to the west.  A small banner hangs from
+the building to the east.  
+~
+0 262152 1
+E
+sign~
+#==============================#
+|     {CZebulah's Potion Shop{x    |
+#==============================#
+~
+E
+banner~
+#==============================#
+| {GThe Songmaster's Apparatuses{X |
+#==============================#
+~
+D0
+~
+~
+0 0 5820
+D1
+~
+~
+0 0 5990
+D2
+~
+~
+0 0 5818
+D3
+~
+~
+0 0 5894
+S
+#5820
+{WMain Street through the Ruins{x~
+The "main street" here runs along the numerous shambles of buildings that
+use to make up the fabulous city of Istar.  Everything here, in the streets
+among ruins of the ancient city of Istar, gleams with moisture, in fact,
+reflecting the pale, eerie, green lights that glow from the moss growing on
+the walls of the remains.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5821
+D2
+~
+~
+0 0 5819
+S
+#5821
+{WMain Street through the Ruins{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, of many
+races, walking down the dismal enclosed street here.  These poor souls had
+been rescued by the sea elves when their boats were destroyed by the giant
+maelstrom of the Blood Sea far above.  Yet, taking another glance, they seem
+content with there new life down here below the water away from the hassle
+of everyday life on land.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5857
+D1
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5820
+S
+#5822
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees. 
+A small sign hangs from the building to the south.  
+~
+0 262152 1
+E
+sign~
+#==============================#
+|    {CLeiha's Fighting Armor{x    |
+#==============================#
+~
+D1
+~
+~
+0 0 5823
+D2
+~
+~
+0 0 5895
+D3
+~
+~
+0 0 5821
+S
+#5823
+{WMain Street through the Ruins{x~
+The ruins at this spot stretch far above your head; almost impacting into
+the domed ceiling far above.  There are a few once-been sailors, of many
+races, walking down the dismal enclosed street here.  These poor souls had
+been rescued by the sea elves when their boats were destroyed by the giant
+maelstrom of the Blood Sea far above.  Yet, taking another glance, they seem
+content with there new life down here below the water away from the hassle
+of everyday life on land.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5822
+S
+#5824
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5862
+D1
+~
+~
+0 0 5825
+D3
+~
+~
+0 0 5823
+S
+#5825
+{WMain Street through the Ruins{x~
+The "main street" here runs along the numerous shambles of buildings that
+use to make up the fabulous city of Istar.  Everything here, in the streets
+among ruins of the ancient city of Istar, gleams with moisture, in fact,
+reflecting the pale, eerie, green lights that glow from the moss growing on
+the walls of the remains.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5826
+D3
+~
+~
+0 0 5824
+S
+#5826
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5825
+D1
+~
+~
+0 0 5827
+S
+#5827
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5826
+S
+#5828
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5827
+D1
+~
+~
+0 0 5829
+S
+#5829
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5830
+D3
+~
+~
+0 0 5828
+S
+#5830
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5829
+D1
+~
+~
+0 0 5831
+S
+#5831
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5830
+S
+#5832
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5831
+D2
+~
+~
+0 0 5833
+S
+#5833
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5834
+S
+#5834
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5833
+D2
+~
+~
+0 0 5835
+S
+#5835
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5836
+S
+#5836
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5835
+D2
+~
+~
+0 0 5837
+S
+#5837
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5836
+D3
+~
+~
+0 0 5838
+S
+#5838
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5837
+D2
+~
+~
+0 0 5839
+S
+#5839
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5838
+D2
+~
+~
+0 0 5840
+S
+#5840
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5839
+D3
+~
+~
+0 0 5841
+S
+#5841
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5840
+D3
+~
+~
+0 0 5842
+S
+#5842
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5864
+D1
+~
+~
+0 0 5841
+D3
+~
+~
+0 0 5843
+S
+#5843
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5863
+D1
+~
+~
+0 0 5842
+D3
+~
+~
+0 0 5844
+S
+#5844
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  An open stone archway lies to the south.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5843
+D2
+~
+~
+0 0 5991
+D3
+~
+~
+0 0 5845
+S
+#5845
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5846
+D1
+~
+~
+0 0 5844
+S
+#5846
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5847
+D2
+~
+~
+0 0 5845
+D3
+~
+~
+0 0 5848
+S
+#5847
+{WMain Street through the Ruins{x~
+The ruined buildings of the city of Istar loom far overhead, almost
+touching the domed ceiling that traps air in the ruins allowing land-lubbers
+to live here far below the surface.  Moss seems to grow everywhere upon the
+white marbled ruins giving off the only light that this ghostly city sees.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5815
+D2
+~
+~
+0 0 5846
+S
+#5848
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5846
+D3
+~
+~
+0 0 5849
+S
+#5849
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5850
+D1
+~
+~
+0 0 5848
+S
+#5850
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5849
+D3
+~
+~
+0 0 5851
+S
+#5851
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5852
+D1
+~
+~
+0 0 5850
+S
+#5852
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5853
+S
+#5853
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5854
+D1
+~
+~
+0 0 5852
+S
+#5854
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5855
+S
+#5855
+{WEdge of the Ruins{x~
+The gigantic wall before you gleams with moisture, in fact, reflecting
+the pale, eerie, green lights that glow from the moss growing on the barrier
+between a dry life and a watery death.  The moss grows everywhere, of every
+different color and variety.  Deep green, golden yellow, coral red; it
+climbs the walls and crawls across the domed ceiling.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5856
+D1
+~
+~
+0 0 5854
+S
+#5856
+{WEdge of the Ruins{x~
+The ruins seem to end here on this circular path along the ruined city of
+Istar.  The domed ceiling, which protects the city from the hundreds of
+gallons of water that lie on the other side, convenes on the rock floor
+here.  Each stone in the wall is perfectly the same; each one tightly
+fitting with the one next to it.  The air here is much saltier here, than
+towards the center.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5800
+D2
+~
+~
+0 0 5855
+S
+#5857
+{WAmong Ruined Buildings{x~
+The ruins here are not covered with luscious green moss, thus it is
+completely dark and dismal.  A hint of salt lingers in the air here, making
+one realize that the cold sea is not too far off from this spot.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5858
+D2
+~
+~
+0 0 5821
+S
+#5858
+{WAmong Ruined Buildings{x~
+Broken columns and collapsed roofs that line the floor here make
+traveling almost impossible.  A few drops of salt water seep through the
+fortifications here, leading one to believe there is a whole boatload of
+water behind those marble chunks.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5859
+D2
+~
+~
+0 0 5857
+S
+#5859
+{WAmong Ruined Buildings{x~
+The ruins here are not covered with luscious green moss, thus it is
+completely dark and dismal.  A hint of salt lingers in the air here, making
+one realize that the cold sea is not too far off from this spot.  A small
+stairwell leads up from here.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5860
+D3
+~
+~
+0 0 5858
+D4
+~
+~
+0 0 5917
+S
+#5860
+{WAmong Ruined Buildings{x~
+Broken columns and collapsed roofs that line the floor here make
+traveling almost impossible.  A few drops of salt water seep through the
+fortifications here, leading one to believe there is a whole boatload of
+water behind those marble chunks.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5861
+D3
+~
+~
+0 0 5859
+S
+#5861
+{WAmong Ruined Buildings{x~
+The ruins here are not covered with luscious green moss, thus it is
+completely dark and dismal.  A hint of salt lingers in the air here, making
+one realize that the cold sea is not too far off from this spot.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5862
+D3
+~
+~
+0 0 5860
+S
+#5862
+{WAmong Ruined Buildings{x~
+Broken columns and collapsed roofs that line the floor here make
+traveling almost impossible.  A few drops of salt water seep through the
+fortifications here, leading one to believe there is a whole boatload of
+water behind those marble chunks.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5861
+D2
+~
+~
+0 0 5824
+S
+#5863
+{WOn a Gigantic Staircase{X~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D1
+~
+~
+0 0 5864
+D2
+~
+~
+0 0 5843
+D4
+~
+~
+0 0 5873
+D5
+~
+~
+0 0 5865
+S
+#5864
+{WOn a Gigantic Staircase{x~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D2
+~
+~
+0 0 5842
+D3
+~
+~
+0 0 5863
+D4
+~
+~
+0 0 5884
+D5
+~
+~
+0 0 5872
+S
+#5865
+{WOn a Gigantic Staircase{x~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D0
+~
+~
+0 0 5866
+D1
+~
+~
+0 0 5872
+D4
+~
+~
+0 0 5863
+S
+#5866
+{WIn a Statue Room{x~
+This cavern-looking room is filled with many different statues of all
+shapes and sizes.  To the north, there appears to be a large black pool of
+some liquid, but it’s not clear from this distance what it is.  Although one
+would suspect it was sea water since the air in here has grown much more
+saltier in smell.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5867
+D1
+~
+~
+0 0 5871
+D2
+~
+~
+0 0 5865
+S
+#5867
+{WIn a Statue Room{x~
+This cavern-looking room is filled with many different statues of all
+shapes and sizes.  To the north, there is a large black pool of some liquid.
+On closer inspection, it looks to be ordinary seawater.  The air here also
+gives it away as well since the air in here has grown much more saltier in
+smell.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5868
+D1
+~
+~
+0 0 5870
+D2
+~
+~
+0 0 5866
+S
+#5868
+{WBefore a Giant Underground Cavern{x~
+Before you is a pool of dark water that stretches out into a vast and
+shadowy cavern.  The air here has become more humid and the smell of the sea
+stands out like a rancid egg.  The faint sound of water lapping against
+stone can be heard all around.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5869
+D2
+~
+~
+0 0 5867
+S
+#5869
+{WBefore a Giant Underground Cavern{x~
+Before you is a pool of dark water that stretches out into a vast and
+shadowy cavern.  The air here has become more humid and the smell of the sea
+stands out like a rancid egg.  The faint sound of water lapping against
+stone can be heard all around.  
+~
+0 0 1
+D2
+~
+~
+0 0 5870
+D3
+~
+~
+0 0 5868
+S
+#5870
+{WIn a Statue Room{x~
+This cavern-looking room is filled with many different statues of all
+shapes and sizes.  To the north, there is a large black pool of some liquid.
+On closer inspection, it looks to be ordinary seawater.  The air here also
+gives it away as well since the air in here has grown much more saltier in
+smell.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5869
+D2
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5867
+S
+#5871
+{WIn a Statue Room{x~
+This cavern-looking room is filled with many different statues of all
+shapes and sizes.  To the north, there appears to be a large black pool of
+some liquid, but it’s not clear from this distance what it is.  Although one
+would suspect it was sea water since the air in here has grown much more
+saltier in smell.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5870
+D2
+~
+~
+0 0 5872
+D3
+~
+~
+0 0 5866
+S
+#5872
+{WOn a Gigantic Staircase{x~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D0
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5865
+D4
+~
+~
+0 0 5864
+S
+#5873
+{WOn a Gigantic Staircase{x~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D0
+~
+~
+0 0 5874
+D1
+~
+~
+0 0 5884
+D5
+~
+~
+0 0 5863
+S
+#5874
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5885
+D2
+~
+~
+0 0 5873
+D3
+~
+~
+0 0 5875
+S
+#5875
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5874
+S
+#5876
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5877
+D2
+~
+~
+0 0 5875
+D3
+~
+~
+0 0 5913
+S
+#5877
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5878
+S
+#5878
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5879
+D1
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5898
+S
+#5879
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5880
+D2
+~
+~
+0 0 5878
+D3
+~
+~
+0 0 5899
+S
+#5880
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5879
+S
+#5881
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5912
+D1
+~
+~
+0 0 5882
+D2
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5880
+S
+#5882
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5881
+S
+#5883
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5907
+D1
+~
+~
+0 0 5901
+D2
+~
+~
+0 0 5882
+D3
+~
+~
+0 0 5900
+S
+#5884
+{WOn a Gigantic Staircase{x~
+This gigantic stairway is big enough for fifty men to walk down it
+abreast.  Faded and cracked murals on the walls are still so exquisite and
+life-like after all these years of decay that the people portrayed in them
+maybe more alive then you are.  Perhaps some of them had been standing on
+this very spot when the fiery mountain struck the Temple of the Kingpriest. 
+~
+0 262152 1
+D0
+~
+~
+0 0 5885
+D3
+~
+~
+0 0 5873
+D5
+~
+~
+0 0 5864
+S
+#5885
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5886
+D2
+~
+~
+0 0 5884
+D3
+~
+~
+0 0 5874
+S
+#5886
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5887
+D3
+~
+~
+0 0 5885
+S
+#5887
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5888
+D2
+~
+~
+0 0 5886
+D3
+~
+~
+0 0 5902
+S
+#5888
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5889
+D3
+~
+~
+0 0 5887
+S
+#5889
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5890
+D2
+~
+~
+0 0 5888
+S
+#5890
+{WAmong the Second Level of Ruins{x~
+The marble walls all around this spot creaks a long and tiresome song of
+time and age.  The city streets far below illustrate the mass destruction
+that took place when the fiery mountain came down.  The moss seems to be a
+lot less thick up here, probably because of the drier air that lingers up
+here.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5891
+D3
+~
+~
+0 0 5889
+S
+#5891
+{WAmong the Second Level of Ruins{x~
+Looking through the cracks and crevices, of the ruins on this level of
+the city, one can see the rubble-laden streets below glow with an eerie
+greenish glow the sea.  Looking around, many members of the different guilds
+walk the streets here.  It is said that several of the guilds of Istar are
+located on the second level.  
+~
+0 262152 1
+D0
+~
+~
+0 0 5905
+D1
+~
+~
+0 0 5904
+D2
+~
+~
+0 0 5890
+D3
+~
+~
+0 0 5903
+S
+#5892
+{CTemple of Habbakuk{x~
+This beautiful temple is not as big as some of the other ruins, but it
+seems intact.  The ceiling above is painted to look like the ocean, so
+realistic that it could actually be a window.  In the middle of that
+picturesque mural, there is a giant dolphin fiercely battling a large sea
+turtle of some sort.  The air in this room is of a relaxing nature, so go
+ahead and take a little nap.  
+~
+0 8651784 32
+D3
+~
+~
+0 0 5809
+D5
+~
+~
+0 0 3700
+M 5 H 5
+S
+#5893
+{CThe Ship's Pantry{x~
+This makeshift kitchen is home to the loveliest of smells: food.  Pots
+and pans fall down from their shelves every couple of seconds making a
+quaint "clang" sound.  Most of the locals of Istar come to this restaurant
+to eat and laugh.  Many conversations are buzzing around here, yet not one
+is decipherable.  There is a large window to the far east that one can pick
+up some food.  
+~
+0 8 1
+D0
+~
+~
+0 0 5803
+S
+#5894
+{CZebulah's Potion Shop{x~
+Zebulah's shop is one of the only places to find quality potions and
+brews in Istar.  Zebulah is the most famous {rred{x-robed mage in this
+underwater city.  His shop, mainly a bunch of shelves with bottles of all
+sorts, houses a strange smell of sulfur.  There are also a couple of arcane
+objects lying about, but they do not look for sale.  
+~
+0 8 1
+D1
+~
+~
+0 0 5819
+S
+#5895
+{CLeiha's Fighting Armor{X~
+There is nothing special about this shop since it’s just another part of
+the ruins.  There are piles of armor in the south of the room, and a
+shopkeeper as well.  The smell of fresh tanned leather is rampant here.  
+~
+0 8 1
+D0
+~
+~
+0 0 5822
+S
+#5896
+{CThe Local Forge{x~
+The room here is so very hot!  A giant {Rred{X glow emanates from the
+cooling forge in the back of the room.  The clinking and clanging of metal
+upon an anvil is all that can be heard here, making a normal conversation
+really hard.  Hundreds of swords, maces, dagger, and other weapons line the
+floor here in piles, all of which are reflecting the light of the forge.  
+~
+0 8 1
+D1
+~
+~
+0 0 5816
+S
+#5897
+{CThe Broken Barrel{x~
+The Broken Barrel serves the best salvaged ale in this city.  One has to
+say salvaged, because all the goods that come into this city are from ships
+that sink in the giant maelstrom far above.  The bar is not very large, but
+large enough to hold a good number of people.  The ale and beer flows here,
+as well does the tall tales and intoxication.  Although you can get more
+than just ale and beer here, you can also get a bloody nose, if not careful.
+Just remember, those not from here, are not always welcome.  
+~
+0 8 1
+D0
+~
+~
+0 0 5813
+S
+#5898
+{CThe Warrior's Guild{x~
+This little area among the ruins is a training area for the warriors who
+inhabit the city of Istar.  There appears to be a whole slew of practice
+dummies to the south and a rack full of armor and weapons to the north.  In
+the middle of the marble ruins stands a master warrior waiting to train your
+skills.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5878
+S
+#5899
+{CThe Ranger's Guild{x~
+This room is missing its far wall and ceiling, exposing the trainer and
+the trainee to the elements of the outside.  There are bows and swords
+lining the walls here, just incase you forgot to bring your own.  Even
+though you are hundreds of feet below the surface in this city, the smell of
+the forest is rampant here.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5879
+S
+#5900
+{CThe Barbarian Guild{X~
+Barbaric weapons of all shapes and sizes, hang all around the room on the
+walls and even the ceiling.  A bunch of ogres are here, sparring one another
+to hone their battle skills.  Although the room is lined with weapons, the
+students seem to use hand to hand combat most of the time.  This room looks
+suitable for you to practice your skills here.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5883
+S
+#5901
+{CThe Druid's Guild{x~
+Plants and small shrubs are everywhere in this room, and you thought only
+moss grew in Istar.  Upon closer examination, all these plants are lined up
+in a fashion for making some sort of herbal potion.  There are a couple of
+old, long-bearded men walking around and mixing herbs.  The fragrance of the
+air is pleasant, and the druids here seem interested in helping you discover
+nature's magic.  
+~
+0 1032 1
+D3
+~
+~
+0 0 5883
+S
+#5902
+{CThe Thieves Guild{x~
+Shadows appear to be moving in this dark room.  On closer examination, it
+is a bunch of students learning how to stay undetectable to the human eye. 
+A large and hidden man seems to be instructing the students with movements
+of his almost unseen hand.  On a table, in the middle of the room, there is
+ten different locks of all shapes and sizes waiting to be picked.  This
+place is a suitable one to practice and hone your skills.  
+~
+0 1033 1
+D1
+~
+~
+0 0 5887
+S
+#5903
+{CThe Cleric's Guild{x~
+This guild is the main area for a cleric to practice his or her healing
+and combat skills.  Looking around, this place seems to be dedicated in the
+name of Mishakal: the healing hand.  A master cleric stands in the room
+ready to train those who are in need of some greater knowledge.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5891
+S
+#5904
+{CThe Bard Guild{x~
+Instruments from all over Krynn hang off the walls while sheet music
+litters the floor; as if snow and ash had fallen from the sky in this room. 
+A soft hum of music wafts through the air here as some young bards try to
+play their apparatuses of choice.  Once in a while, a student will mess up
+and a sharp chord will pierce your heart like a dagger.  
+~
+0 1032 1
+D3
+~
+~
+0 0 5891
+S
+#5905
+{CThe Spellfilcher Guild{X~
+In this dark hole in the wall, there are a few students practicing magic
+without any sort of guidance.  Knowledge, even imperfect or haphazard, of
+magic is of great use in the art of thievery, and so many spellfilchers here
+use their powers for personal gain.  This place doesn't look like it would
+mind if you blew the wall away with some accidental spell.  
+~
+0 1032 1
+D2
+~
+~
+0 0 5891
+S
+#5906
+{CThe Assassin Guild{x~
+The room here is so dark that nothing can be seen except for a small
+candle that lights up the southern corner of the room.  Though barely
+visible, a man stands right next to you with a dagger to your side. 
+Realizing you are not an intruder, he withdraws his dagger and offers you
+his services on the art of assassinating.  
+~
+0 1033 1
+D0
+~
+~
+0 0 5881
+S
+#5907
+{CEntrance to the Guilds of Sorcery{x~
+Fellow initiates are reading and memorizing spells from their spell books
+here in this study.  Some mages appear to be in deep meditation, with the
+mere fabric of reality bending around them.  There are four supplementary
+rooms which branch off from here.  The room to the east is where mages
+specializing in the art of Illusion go to practice.  The room to the west is
+where mages whom dabble in the art of Enchantment go to practice.  To the
+north, the always feared Necromancers, go there to study and practice their
+black art.  Finally, the conjurors go up the stairs from here to study their
+arts of summoning.  
+~
+0 1032 1
+D0
+~
+~
+0 0 5908
+D1
+~
+~
+0 0 5909
+D2
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5910
+D4
+~
+~
+0 0 5911
+S
+#5908
+{CGuild of the Necromancers{x~
+The room itself is dimly lit by a single glowing torch, allowing the
+brave soul who entered a slight glimpse into the death and decay that
+surrounds this room.  Look farther in the darkness, corpses and other
+grotesque, mutilated bodies in various states of decay can barely be seen
+lining the walls.  The ramparts, ceiling, and floor are all made from cold,
+black obsidian.  
+~
+0 1032 1
+D2
+~
+~
+0 0 5907
+S
+#5909
+{CGuild of the Illusionists{X~
+All the objects in the room here seem to change shape as you enter. 
+Pulsating and floating, many arcane objects are scattered about the room as
+well.  All of a sudden, a great and ghastly creature comes charging at you
+and then disappears.  It's quite clear to even an initiate of magic that
+this is the training room for the mages who focus on illusions.  
+~
+0 1032 1
+D3
+~
+~
+0 0 5907
+S
+#5910
+{CGuild of the Enchanters{X~
+Various spell components, stored in bottles, line the shelves of this
+room.  On the far north side of the room, there is a large wooden bookcase
+containing hundreds of books and scrolls.  Most of them are enclosed in
+unadorned casings, but some are contained in silver, rune-covered cases.  It
+becomes clear that this is the training room for Enchanters: mages that are
+known to shift reality to alter the way existing creatures and objects exist
+in this prime material plane.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5907
+S
+#5911
+{CGuild of the Conjurors{X~
+Here in this small space above the ruins is where the conjurors of Istar
+summon their demons and monsters.  There is no ceiling here, allowing the
+powerful conjuror the ability to summon gigantic monsters.  A large
+pentagram with a six-pointed star in the center of it covers the entire
+floor allowing this summoning to take place.  
+~
+0 1032 1
+D5
+~
+~
+0 0 5907
+S
+#5912
+{CThe Battlemage Guild{x~
+The room here is lined with potions and swords.  This is understandable
+because battlemages are generally very disciplined warriors who have come to
+understand that one must neglect neither the mind nor the body when
+preparing for confrontation.  Thus, battlemages are quite formidable
+warriors, and have taken to the study of magic.  The place here is quiet
+enough for one to meditate and contemplate his or her own skills.  
+~
+0 1032 1
+D2
+~
+~
+0 0 5881
+S
+#5913
+{CThe Knight's Guild{X~
+The large expansive hallway gives way to a large two-story room deep
+inside the ruins.  Luminous, ornate torches, which line the room, shine on
+the various battle-ready weapons that adorn the wall here.  Many seem to
+have been well used.  Crown knights litter the place here, training their
+skills for battle or just having fun performing mock duels.  A bunch of
+practice dummies, festooned in the armor of the Knights of Takhisis, line
+the south end of the room, waiting for use and abuse.  
+~
+0 1032 1
+D1
+~
+~
+0 0 5876
+S
+#5914
+{CLost Arcane Objects{x ~
+This old shop is filled with trinkets new and old.  The air here is
+musty, making people prone to coughing or catching a contagious disease. 
+The items here don't look like much, but one can almost feel a strange and
+enchanting power emanating from them.  
+~
+0 8 1
+D2
+~
+~
+0 0 5801
+S
+#5915
+{CEdion's Aquatic Creatures{x~
+This small shop houses many glass cages, some big and some small, filled
+with fishes and aquatic creatures of all sorts.  It smells like a rancid sea
+in here, as if Zeboim and her minions were caged here as well.  
+~
+0 4104 1
+D2
+~
+~
+0 0 5807
+S
+#5916
+{BA GIANT WATER FILLED CAGE!{x~
+This is where Edion keeps his pets for sale.
+~
+0 33796 6
+S
+#5917
+{CGovernment Center{x~
+This courtyard type room separates the two main offices in Istar: the
+Office of the Questmaster and the Office of Finance.  To the west, the
+Office of the Questmaster is where a brave soul can go do some community
+service for their hometown.  And to the east, the Office of Finance is where
+one can handle all his or her own monetary issues.  
+~
+0 8 1
+D1
+~
+~
+0 0 5919
+D3
+~
+~
+0 0 5918
+D5
+~
+~
+0 0 5859
+S
+#5918
+{COffice of the Questmaster{X~
+This small office is adequate enough for the single man, the Questmaster
+of Istar, to perform his daily tasks.  There are posters of the most hideous
+villains know to Krynn on the walls here, most saying "wanted dead or
+alive".  This is a good spot to get some community service done.  
+~
+0 8 1
+D1
+~
+~
+0 0 5917
+S
+#5919
+{COffice of Finance{x ~
+It is in this small room that all the monetary transactions of Istar take
+place.  Looking around, there are a few scattered desks and a large vault to
+the east side of the room.  Guards, hired to protect this bank, keep a close
+eye over you.  
+~
+0 1048584 1
+D3
+~
+~
+0 0 5917
+S
+#5920
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5930
+D3
+~
+~
+0 0 5921
+S
+#5921
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5931
+D1
+~
+~
+0 0 5920
+D3
+~
+~
+0 0 5922
+S
+#5922
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 0 15
+D0
+~
+~
+0 0 5932
+D1
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5923
+S
+#5923
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5933
+D1
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5924
+S
+#5924
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5934
+D1
+~
+~
+0 0 5923
+D3
+~
+~
+0 0 5925
+S
+#5925
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5935
+D1
+~
+~
+0 0 5924
+D3
+~
+~
+0 0 5926
+S
+#5926
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5936
+D1
+~
+~
+0 0 5925
+D3
+~
+~
+0 0 5927
+S
+#5927
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5937
+D1
+~
+~
+0 0 5926
+D3
+~
+~
+0 0 5928
+S
+#5928
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5938
+D1
+~
+~
+0 0 5927
+D3
+~
+~
+0 0 5929
+S
+#5929
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 0 15
+D0
+~
+~
+0 0 5939
+D1
+~
+~
+0 0 5928
+S
+#5930
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5940
+D2
+~
+~
+0 0 5920
+D3
+~
+~
+0 0 5931
+S
+#5931
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5941
+D1
+~
+~
+0 0 5930
+D2
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5932
+S
+#5932
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5942
+D1
+~
+~
+0 0 5931
+D2
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5933
+S
+#5933
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5943
+D1
+~
+~
+0 0 5932
+D2
+~
+~
+0 0 5923
+D3
+~
+~
+0 0 5934
+S
+#5934
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5944
+D1
+~
+~
+0 0 5933
+D2
+~
+~
+0 0 5924
+D3
+~
+~
+0 0 5935
+S
+#5935
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5945
+D1
+~
+~
+0 0 5934
+D2
+~
+~
+0 0 5925
+D3
+~
+~
+0 0 5936
+S
+#5936
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5946
+D1
+~
+~
+0 0 5935
+D2
+~
+~
+0 0 5926
+D3
+~
+~
+0 0 5937
+S
+#5937
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5947
+D1
+~
+~
+0 0 5936
+D2
+~
+~
+0 0 5927
+D3
+~
+~
+0 0 5938
+S
+#5938
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5948
+D1
+~
+~
+0 0 5937
+D2
+~
+~
+0 0 5928
+D3
+~
+~
+0 0 5939
+S
+#5939
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5949
+D1
+~
+~
+0 0 5938
+D2
+~
+~
+0 0 5929
+S
+#5940
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5950
+D2
+~
+~
+0 0 5930
+D3
+~
+~
+0 0 5941
+S
+#5941
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5951
+D1
+~
+~
+0 0 5940
+D2
+~
+~
+0 0 5931
+D3
+~
+~
+0 0 5942
+S
+#5942
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5952
+D1
+~
+~
+0 0 5941
+D2
+~
+~
+0 0 5932
+D3
+~
+~
+0 0 5943
+S
+#5943
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5953
+D1
+~
+~
+0 0 5942
+D2
+~
+~
+0 0 5933
+D3
+~
+~
+0 0 5944
+S
+#5944
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5954
+D1
+~
+~
+0 0 5943
+D2
+~
+~
+0 0 5934
+D3
+~
+~
+0 0 5945
+S
+#5945
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5955
+D1
+~
+~
+0 0 5944
+D2
+~
+~
+0 0 5935
+D3
+~
+~
+0 0 5946
+S
+#5946
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5956
+D1
+~
+~
+0 0 5945
+D2
+~
+~
+0 0 5936
+D3
+~
+~
+0 0 5947
+S
+#5947
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5957
+D1
+~
+~
+0 0 5946
+D2
+~
+~
+0 0 5937
+D3
+~
+~
+0 0 5948
+S
+#5948
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5958
+D1
+~
+~
+0 0 5947
+D2
+~
+~
+0 0 5938
+D3
+~
+~
+0 0 5949
+S
+#5949
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5959
+D1
+~
+~
+0 0 5948
+D2
+~
+~
+0 0 5939
+S
+#5950
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5960
+D2
+~
+~
+0 0 5940
+D3
+~
+~
+0 0 5951
+S
+#5951
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5961
+D1
+~
+~
+0 0 5950
+D2
+~
+~
+0 0 5941
+D3
+~
+~
+0 0 5952
+S
+#5952
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5962
+D1
+~
+~
+0 0 5951
+D2
+~
+~
+0 0 5942
+D3
+~
+~
+0 0 5953
+S
+#5953
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5963
+D1
+~
+~
+0 0 5952
+D2
+~
+~
+0 0 5943
+D3
+~
+~
+0 0 5954
+S
+#5954
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5964
+D1
+~
+~
+0 0 5953
+D2
+~
+~
+0 0 5944
+D3
+~
+~
+0 0 5955
+S
+#5955
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5965
+D1
+~
+~
+0 0 5954
+D2
+~
+~
+0 0 5945
+D3
+~
+~
+0 0 5956
+S
+#5956
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5966
+D1
+~
+~
+0 0 5955
+D2
+~
+~
+0 0 5946
+D3
+~
+~
+0 0 5957
+D4
+~
+~
+0 0 14570
+S
+#5957
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5967
+D1
+~
+~
+0 0 5956
+D2
+~
+~
+0 0 5947
+D3
+~
+~
+0 0 5958
+S
+#5958
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5968
+D1
+~
+~
+0 0 5957
+D2
+~
+~
+0 0 5948
+D3
+~
+~
+0 0 5959
+S
+#5959
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5969
+D1
+~
+~
+0 0 5958
+D2
+~
+~
+0 0 5949
+S
+#5960
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5970
+D2
+~
+~
+0 0 5950
+D3
+~
+~
+0 0 5961
+S
+#5961
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5971
+D1
+~
+~
+0 0 5960
+D2
+~
+~
+0 0 5951
+D3
+~
+~
+0 0 5962
+S
+#5962
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5972
+D1
+~
+~
+0 0 5961
+D2
+~
+~
+0 0 5952
+D3
+~
+~
+0 0 5963
+S
+#5963
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5973
+D1
+~
+~
+0 0 5962
+D2
+~
+~
+0 0 5953
+D3
+~
+~
+0 0 5964
+S
+#5964
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5974
+D1
+~
+~
+0 0 5963
+D2
+~
+~
+0 0 5954
+D3
+~
+~
+0 0 5965
+S
+#5965
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5975
+D1
+~
+~
+0 0 5964
+D2
+~
+~
+0 0 5955
+D3
+~
+~
+0 0 5966
+S
+#5966
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5976
+D1
+~
+~
+0 0 5965
+D2
+~
+~
+0 0 5956
+D3
+~
+~
+0 0 5967
+S
+#5967
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5977
+D1
+~
+~
+0 0 5966
+D2
+~
+~
+0 0 5957
+D3
+~
+~
+0 0 5968
+S
+#5968
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5978
+D1
+~
+~
+0 0 5967
+D2
+~
+~
+0 0 5958
+D3
+~
+~
+0 0 5969
+S
+#5969
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5979
+D1
+~
+~
+0 0 5968
+D2
+~
+~
+0 0 5959
+S
+#5970
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5980
+D2
+~
+~
+0 0 5960
+D3
+~
+~
+0 0 5971
+S
+#5971
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5981
+D1
+~
+~
+0 0 5970
+D2
+~
+~
+0 0 5961
+D3
+~
+~
+0 0 5972
+S
+#5972
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5982
+D1
+~
+~
+0 0 5971
+D2
+~
+~
+0 0 5962
+D3
+~
+~
+0 0 5973
+S
+#5973
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5983
+D1
+~
+~
+0 0 5972
+D2
+~
+~
+0 0 5963
+D3
+~
+~
+0 0 5974
+S
+#5974
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5984
+D1
+~
+~
+0 0 5973
+D2
+~
+~
+0 0 5964
+D3
+~
+~
+0 0 5975
+S
+#5975
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5985
+D1
+~
+~
+0 0 5974
+D2
+~
+~
+0 0 5965
+D3
+~
+~
+0 0 5976
+S
+#5976
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5986
+D1
+~
+~
+0 0 5975
+D2
+~
+~
+0 0 5966
+D3
+~
+~
+0 0 5977
+S
+#5977
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5987
+D1
+~
+~
+0 0 5976
+D2
+~
+~
+0 0 5967
+D3
+~
+~
+0 0 5978
+S
+#5978
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D0
+~
+~
+0 0 5988
+D1
+~
+~
+0 0 5977
+D2
+~
+~
+0 0 5968
+D3
+~
+~
+0 0 5979
+S
+#5979
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D0
+~
+~
+0 0 5989
+D1
+~
+~
+0 0 5978
+D2
+~
+~
+0 0 5969
+S
+#5980
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D2
+~
+~
+0 0 5970
+D3
+~
+~
+0 0 5981
+S
+#5981
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5980
+D2
+~
+~
+0 0 5971
+D3
+~
+~
+0 0 5982
+S
+#5982
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D1
+~
+~
+0 0 5981
+D2
+~
+~
+0 0 5972
+D3
+~
+~
+0 0 5983
+S
+#5983
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5982
+D2
+~
+~
+0 0 5973
+D3
+~
+~
+0 0 5984
+S
+#5984
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5983
+D2
+~
+~
+0 0 5974
+D3
+~
+~
+0 0 5985
+S
+#5985
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D1
+~
+~
+0 0 5984
+D2
+~
+~
+0 0 5975
+D3
+~
+~
+0 0 5986
+S
+#5986
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5985
+D2
+~
+~
+0 0 5976
+D3
+~
+~
+0 0 5987
+S
+#5987
+{BOn the Bottom of the Blood Sea{x~
+A few fish swim by this spot and quickly speed off as they see your
+approach.  It's very hard to the swim against the current, so you might as
+well go with it.  Tall kelp plants stretch up from the red soil bottom to
+the surface.  It's quite peaceful here when one gets use to the coldness of
+the sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5986
+D2
+~
+~
+0 0 5977
+D3
+~
+~
+0 0 5988
+S
+#5988
+{BOn the Bottom of the Blood Sea{x~
+This spot of the sea is much colder and darker than the surrounding sea
+floor.  Maybe this is the start of the great watery pit, devoid of life,
+where the fiery mountain struck the Temple of the Kingpriest.  The sea elves
+are rumored to have said, even though they dare not venture into it, that
+this dark pit goes on down forever; as deep as the heart of evil itself.  
+~
+0 1 15
+D1
+~
+~
+0 0 5987
+D2
+~
+~
+0 0 5978
+D3
+~
+~
+0 0 5989
+S
+#5989
+{BOn the Bottom of the Blood Sea{x~
+Down here, beneath the Blood Sea, it's dark; there is hardly enough light
+to see what is down here with you.  There is a strong current here, pulling
+the long kelp plants constantly; a result of the maelstrom far above.  In
+the distance, one can see a couple of humanoid figures moving about; these
+might be the sea elves that are rumored to be living in this sea.  
+~
+0 1 15
+D1
+~
+~
+0 0 5988
+D2
+~
+~
+0 0 5979
+S
+#5990
+{CThe Songmaster's Apparatuses{X~
+A soft purr of music mingles through the air, while instruments from all
+over Krynn dangle from the ceiling here.  A large, black, and very expensive
+grand piano stands in the middle of the room here, allowing the visitors a
+chance to play some tunes.  Meanwhile, in the corner, some bards are here
+playing there instruments of choice; this place seems to be the local spot
+for bards to come together and play their merry, and sometimes sad,
+melodies.  
+~
+0 263176 1
+D3
+~
+~
+0 0 5819
+S
+#5991
+{WShrine of Red Magic{x~
+This alcove is the private sanctuary of the resident mage, Zebulah.  A
+cot lies against the far wall, and various personal belongings are strewn
+about the area.  A large bookshelf containing various herbs and spellbooks
+stands against the back wall, while the area opposite the cot contains a
+modest shrine to Lunitari, goddess of Neutral Magic.  Having dedicated his
+life to the order of the Red Robes, Zebulah often invites visiting mages to
+share in her wisdom and hopefully devote themselves to her cause.  
+~
+0 8388620 45
+D0
+~
+~
+0 0 5844
+S
+#0
+
+
+
+#SPECIALS
+M 5816 spec_executioner
+M 5817 spec_guard
+M 5818 spec_guard
+M 5832 spec_guard
+M 5868 spec_executioner
+M 5892 spec_cast_adept
+M 5918 spec_questmaster
+S
+
+
+
+#RESETS
+O 0 5805 0 5805
+M 0 5808 4 5808 4
+M 0 5810 4 5810 4
+O 0 5825 0 5812
+M 0 5816 1 5816 1
+E 0 5915 0 21
+E 0 5833 0 5
+M 0 5817 2 5817 2
+E 0 5826 0 5
+M 0 5818 2 5818 2
+E 0 5827 0 5
+M 0 5820 2 5820 2
+M 0 5824 4 5824 4
+M 0 5826 1 5826 1
+M 0 5827 2 5827 2
+M 0 5830 1 5830 1
+M 0 5832 2 5832 2
+E 0 5832 0 5
+M 0 5834 2 5834 2
+M 0 5835 1 5835 1
+M 0 5838 3 5838 3
+M 0 5842 1 5842 1
+M 0 5846 4 5846 4
+M 0 5849 3 5849 3
+M 0 5851 1 5851 1
+M 0 5854 1 5854 1
+M 0 5858 4 5858 4
+O 0 5867 0 5867
+O 0 5868 0 5868
+M 0 5868 1 5868 1
+O 0 5869 0 5869
+O 0 5870 0 5870
+O 0 5871 0 5871
+O 0 5892 0 5892
+M 0 5892 1 5892 1
+M 0 5893 1 5893 1
+G 0 5893 0
+G 0 5809 0
+G 0 5810 0
+M 0 5803 2 5893 2
+M 0 5894 1 5894 1
+G 0 5894 0
+G 0 5814 0
+G 0 5815 0
+G 0 5816 0
+G 0 5817 0
+G 0 5818 0
+G 0 5819 0
+M 0 5895 1 5895 1
+G 0 5895 0
+G 0 5820 0
+G 0 5821 0
+M 0 5896 1 5896 1
+G 0 5801 0
+G 0 5802 0
+G 0 5803 0
+G 0 5804 0
+G 0 5806 0
+G 0 5807 0
+G 0 5808 0
+G 0 5896 0
+M 0 5897 1 5897 1
+G 0 5897 0
+G 0 5813 0
+G 0 5812 0
+G 0 5811 0
+M 0 5813 2 5897 2
+M 0 5898 1 5898 1
+M 0 5899 1 5899 1
+M 0 5900 1 5900 1
+M 0 5901 1 5901 1
+M 0 5902 1 5902 1
+M 0 5903 1 5903 1
+M 0 5904 1 5904 1
+M 0 5905 1 5905 1
+M 0 5906 1 5906 1
+O 0 5907 0 5907
+M 0 5908 1 5908 1
+M 0 5909 1 5909 1
+M 0 5910 1 5910 1
+M 0 5911 1 5911 1
+M 0 5912 1 5912 1
+M 0 5913 1 5913 1
+M 0 5914 1 5914 1
+G 0 5914 0
+G 0 5822 0
+G 0 5823 0
+G 0 5824 0
+M 0 5915 1 5915 1
+M 0 5916 1 5916 1
+M 0 5801 1 5916 1
+M 0 5918 1 5918 1
+M 0 5919 1 5919 1
+O 0 5920 0 5920
+M 0 5925 1 5925 1
+M 0 5926 2 5926 2
+M 0 5936 3 5936 3
+M 0 5939 4 5939 4
+M 0 5940 3 5940 3
+M 0 5942 4 5942 4
+M 0 5953 1 5953 1
+M 0 5954 4 5954 4
+M 0 5959 3 5959 3
+M 0 5976 3 5976 3
+M 0 5977 4 5977 4
+M 0 5982 4 5982 4
+O 0 5990 0 5990
+M 0 5990 1 5990 1
+G 0 5834 0
+G 0 5835 0
+S
+
+
+
+#SHOPS
+5893 0 0 0 0 0 100 100 0 23
+5894 0 0 0 0 0 100 100 0 23
+5895 0 0 0 0 0 100 100 0 23
+5896 0 0 0 0 0 100 100 0 23
+5897 0 0 0 0 0 100 100 0 23
+5914 0 0 0 0 0 100 100 0 23
+5915 0 0 0 0 0 100 100 0 23
+5990 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#5812
+mob echo {Y*BURP!!!*{x
+emote passes out on the counter and, a few seconds later, sluggishly wakes up.
+~
+#5813
+say Ah, you look like you could use a free one.
+mob oload 5813
+give beer $n
+say On the house.
+smile
+~
+#5817
+~
+#5894
+say My master is not here, but I can help you.
+~
+#5895
+Say Hello. Feel free to take a look around.
+~
+#5896
+emote looks up from his anvil.
+say See anything you like?
+~
+#5897
+say What will you be having mate?
+~
+#5914
+say Is there anything I can help you with?
+if sex $n == 1
+wink $n
+endif
+~
+#5919
+Say Are you here for a money transaction?
+say Or are you here to place a bounty?
+~
+#5920
+mob echo {cStartled by your intrusion, a sea elf darts away!{x
+north
+east
+east
+south
+south
+~
+#5921
+mob echo {cA sea elf swims away...{x
+mob goto 5946
+~
+#5988
+if class $n bard
+say Ah, that’s too bad.
+say What can I help you with then?
+endif
+~
+#5989
+if class $n bard
+MOB echoat $n {GDonlh takes you over to the grand piano.{x
+MOB echoaround $n {GDonlh takes $n over to the grand piano.{X
+pause 1
+MOB echoat $n {GDonlh shows you a couple of keys.{x
+say A.... B... C...
+MOB echoaround $n {GDonlh shows $n a couple of keys.{x
+pause 1
+mob echo {GDonlh takes over and plays the Song of Souls for $n.{x
+say It should sound like that... Well I have to attend to my shop, keep practicing $n.
+endif
+~
+#5990
+if class $n bard
+say Ahh, a fellow bard, you have come to the right spot. 
+say Would you like a lesson?
+else
+say What can I help you with?
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

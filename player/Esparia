@@ -1,0 +1,497 @@
+#PLAYER
+Name Esparia~
+Surname Ailera~
+MaskedIp ~
+Lokprot ~
+Email dawnfire2012@gmail.com~
+Id   1378252589
+LogO 1393291748
+Vers 10
+Act  CDGQTe
+Desc Before you stands a young elf, slightly taller than the average
+Silvanesti. She keeps poised on the balls of her feet, as if perched to
+flee at a sign of threat. A few scattered strands of silver-gold hair
+spill from the dark blue hood pulled over her head, and she watches you
+carefully with piercing crimson eyes. Her build is hidden mostly under a
+dark cloak cinched at the waist with a slate-blue sash patterned with pale
+green runes.
+These runes also line the hood of the cloak. The sleeves are belted in
+several spots, and a black string runs along the side, forming pockets in
+various places. The cloak stops short just above her knees in tattered
+ruin.
+Under the cloak you can see the tattered remains of a white tunic. Her
+breeches are the same slate blue as the sash, cinched just above the knees
+with black belts. Her shoes are made of a soft leather, with slightly
+harder leather soles and barely seem to make a sound as she moves. -
+ 
+~
+Prom {r<%h / %H> {B<%m / %M> {W<%v / %V>{X %X %B %b ~
+Race silvanesti~
+Sex  2
+Cla  2
+Hmtown 2
+Levl 24
+recall_point 2659
+Levscale 30
+Xptolev  1491
+Sec  0
+Plyd 132755
+Not  0 0 0 0 0
+Scro 22
+Room 17736
+HMV  432 432 156 156 240 240
+Steel 7362
+Gold 9210
+Bank 0
+Exp  65159
+AfBy J
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 655360
+Comm NOZ
+Pos  8
+Prac 9
+Save  -3
+Alig  -43
+Ethos 0
+ACs 30 18 9 78
+Attr 11 15 22 16 20 16
+AMod 0 6 15 6 9 0
+Pass Es3XJxZtpuR/I~
+Titl  the Matrud~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 30
+HMVP 382 156 240
+Cnd  0 10 46 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {cc{x{rxxx|{x::::[{gEsparia{x]:::>~
+Sk 75 'detect hidden'
+Sk 1 'detect poison'
+Sk 1 'infravision'
+Sk 88 'dagger'
+Sk 2 'shield block'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 77 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 78 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 4 'hand to hand'
+Sk 97 'kick'
+Sk 1 'trip'
+Sk 82 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'blackjack'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'pickpocket'
+Sk 1 'mountjack'
+Sk 1 'battle tactics'
+Sk 1 'wear leather'
+Sk 77 'fast healing'
+Sk 75 'haggle'
+Sk 75 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'lore'
+Sk 75 'peek'
+Sk 1 'pick lock'
+Sk 78 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'disguise'
+Sk 75 'tumble'
+Sk 1 'scout'
+Sk 1 'second backstab'
+Sk 1 'strip'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'evade'
+Sk 1 'boobytrap'
+Sk 1 'disarm traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear 2
+Cost 1280
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 108
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5604
+Nest 0
+Cond 100
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 100
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 5603
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5602
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 5603
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5604
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 5797
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5797
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  10 0 3 0 0
+End
+
+#O
+Vnum 5620
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+Val  10 6 5 0 0
+End
+
+#O
+Vnum 5620
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 5620
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 5602
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 97
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 5756
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 29
+End
+
+#END

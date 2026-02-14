@@ -1,0 +1,2555 @@
+#AREADATA
+Name Crystalmir Lake~
+Builders Hiddukel~
+Continent abanasinia~
+Controlby 1~
+Faction 250~
+Sector 0
+VNUMs 13300 13399
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#13301
+goldmoon girl~
+{xGoldmoon~
+Goldmoon is singing a beautiful song here.
+~
+The girl's eyes are a bright sky blue; her skin is a buttery tan. Most striking
+of all is the flowing white gold of her hair. Plush white furs trim her woven
+cape. A single feather folds back along the right side of her head.
+~
+human~
+ABGQ HN 900 0
+45 23 5d10+450 1d1+99 3d6+6 pound
+-5 -5 -5 -5
+FHQ ABN LPQ C
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#13302
+Fewmaster Toede~
+Fewmaster Toede~
+Fewmaster Toede is here, looking self-important.
+~
+Toede has very wispy, stringy white hair that frames his pig-like face. 
+His eyes are red and beady, and he has a nose that resembles a pigs.  His
+skin is a sickly green gray color that tends to darken near his double
+chins.  His rather large potbelly causes him to sway as he walks.  
+~
+goblin~
+AFGT HJ -900 0
+41 41 62d13+374 41d10+85 11d3+18 pound
+-10 -10 -10 -1
+CDEFHIJKNR P CQ C
+stand stand male 400
+ABHMV ABCDEFGHIJKU M unknown 0
+#13303
+riverwind man~
+{xRiverwind~
+Riverwind the Plainsman is standing here.
+~
+Standing close to seven feet tall, Riverwind is a sight to behold.  His
+skin is richly tanned from hours spent beneath the baking sun.  His jet
+black hair match his dark colored eyes.  Riverwind wears doeskin leathers,
+the softest of all leather.  Beads are woven into the tassles that hang from
+his clothing.  
+~
+human~
+AGT DFHN 900 0
+30 15 3d9+208 1d1+99 2d6+3 pound
+-2 -2 -2 -2
+DEFHIKNQ ABN C 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13304
+baaz draconian robed~
+a Baaz draconian~
+A robed figure is standing here.
+~
+Many of this figure's features are indiscernible as it is draped by a
+large, heavy, brown robe.  Slight hissing sounds can be heard coming from
+beneath the hood of the robe.  The stench of reptiles is thick in the air
+around him.  
+ 
+~
+draconian~
+ACFGT JOTc -750 0
+7 7 11d2+64 7d10+85 2d3+7 claw
+6 6 6 7
+DF Q BEP 0
+stand stand male 200
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+F imm P
+F res M
+#13305
+farmer~
+the farmer~
+A farmer is standing here looking after his workers...
+~
+The farmer is dressed in a loose fitting shirt with a pair of coveralls. 
+He wears a wide brimmed straw hat and no shoes.  The farmer watches his
+workers idly as he chews on a piece of straw.  
+~
+human~
+ABC 0 150 0
+10 5 2d6+60 0d0+0 1d6+1 pound
+5 5 5 5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13306
+farm worker~
+the farm worker~
+A farm worker is here harvesting grain.
+~
+This man is hard at work harvesting the grain from the fields.  He is
+wearing nothing except a loose fitting pair of breeches.  His back is
+sunburned from the time spent harvesting.  
+~
+human~
+ABC 0 125 0
+5 4 2d6+35 0d0+0 1d6+0 pound
+5 5 5 5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#13307
+barracuda~
+the barracuda~
+There is a barracuda swimming around you...it looks hungry..
+~
+This large fish is greenish blue in color.  The teeth in its mouth are
+long and sharp, capable of rending flesh from bone.  
+~
+unique~
+AFY DFJP 20 0
+7 7 2d7+46 0d0+0 1d5+1 bite
+-2 -2 -2 -2
+FHKM H CIPQ F
+stand stand none 0
+Ab DFX M unknown 0
+#13308
+turtle dragon~
+the Turtle dragon~
+There is a very large Turtle dragon here.
+~
+This is a very big dragon. It looks more turtle than dragon though.
+Its blue-green scales glisten with moisture. Steam jets from its nostrils.
+It looks intently at you, as if to size you up before eating you.
+~
+dragon~
+ABCDFGQRT DHJT -700 0
+47 20 5d10+500 1d1+600 2d10+6 pound
+-6 -6 -6 -6
+ADEFHMNO ABI BCDEHK FIN
+stand stand none 0
+ABHZ ACDEFGHIJKOPQUVX L unknown 0
+#13309
+farmers guard dog~
+the farmer’s guard dog~
+The farmer's guard dog is here guarding whatever he's supposed to guard.
+~
+This brown dog is typical of the dogs bred in this area.  It has a long
+tail, very alert eyes, and sits in his spot quietly.  His tail wags
+occassionally and ears perk when he sees something out of the ordinary.  
+~
+unique~
+ABF D 100 0
+7 0 2d7+46 0d0+0 1d5+1 pound
+6 6 6 6
+0 0 0 0
+stand stand none 0
+AGV DEFV S unknown 0
+#13310
+strange fish~
+a strange fish~
+A strange-looking fish swims past.
+~
+The fish is an unknown type.  Nothing is known from it except that it has
+small protrusions from its side, protrusions that almost look like little
+legs.  
+~
+unique~
+AGY b 200 0
+5 3 2d6+35 0d0+0 1d6+0 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+Ab DFX S unknown 0
+#13311
+hobgoblin flunky~
+a hobgoblin flunky~
+A small hobgoblin seems to be searching for something.
+~
+This hobgoblin looks like every other hobgoblin on Krynn.  Its skin
+varies from a light green in color to a sickly gray shade.  He has a large
+belly and double chin that quivers when he talks.  His pig nose is framed by
+squinty red eyes.  A mess of greasy, stringy white hair sits atop his head. 
+~
+hobgoblin~
+ACFG J -300 0
+12 12 18d4+110 12d10+85 3d4+9 pound
+3 3 3 6
+0 0 LQ 0
+stand stand male 100
+AHMV ABCDEFGHIJKY M unknown 0
+#13312
+white stag~
+the White Stag~
+A beautiful white stag is here.
+~
+This magnificent creature is huge!  From hooves to antlers it is about
+eight feet tall.  The stag's fur is white as pure snow.  
+~
+unique~
+ACG Q -300 0
+17 12 6d6+60 0d0+0 2d4+0 pound
+0 0 0 0
+CFHI A CN 0
+stand stand male 100
+AGMV DEFW L unknown 0
+#13313
+old bear~
+an old bear~
+An old worn out bear is here.
+~
+This large brown bear looks rather old.  He is starting to gray around
+the muzzle, and moves a little slower than one would expect.  The bear is
+still quite large.  He stands at least two feet taller than even the tallest
+humans.  
+~
+bear~
+ACFG 0 300 0
+5 18 2d5+19 0d0+0 1d5+1 pound
+0 0 0 0
+DEO 0 EI 0
+stand stand male 250
+AGHV ABCDEFHJKUV L unknown 0
+#13314
+rat large~
+a large rat~
+A large rat is here eating grain.
+~
+This rat is larger than most.  Its brown fur is a bit scraggly, and its
+whiskers are different lengths.  The rat's claws look quite sharp, and the
+rat looks more than able to fend off its natural enemies.  
+~
+unique~
+ACU 0 -200 0
+5 17 3d4+48 0d0+0 1d8+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 10
+BH B S unknown 0
+#13315
+mouse field~
+a field mouse~
+A small field mouse runs across your foot.
+~
+The mouse is a cute little creature.  It tries to scurry away when it
+senses danger.  Its smooth coat is grayish in color, and its big black eyes
+watch everything skittishly.  
+~
+unique~
+ABCU 0 100 0
+4 19 2d4+10 0d0+0 1d4+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 1
+0 BH T unknown 0
+#0
+
+
+
+#OBJECTS
+#13301
+turtle dragon shell~
+a {gTurtle Dragon{x shell~
+A giant Turtle dragon shell lies here.~
+shell~
+armor AS 0 AKZ
+BCD BCD BCD BCD 0
+27 10 0 P
+E
+turtle dragon shell~
+This large shell comes from a huge turtle, more commonly known as a
+turtle dragon.  The scales on the shell overlap each other, and are hard as
+forged steel.  The shell is a flat green color, and smells a bit like fish. 
+~
+#13302
+farmers scythe~
+a Farmer's scythe~
+A farming scythe lies here.~
+iron~
+weapon 0 0 ANY
+exotic 4 8 slash F
+10 12 0 P
+E
+farming scythe~
+This simple scythe consists of a long pole, with a sickle blade attached
+to the end.  The blade is curved to catch wheat as the farmer swings it. 
+This particular scythe is as long as an average human man is tall.  
+~
+#13303
+blue feathered staff~
+a {Cblue{x-feathered staff~
+A simple wooden staff lies here, decorated with blue feathers.~
+cedar~
+staff GKLS 0 AOY
+10 7 7 'heal' 0
+45 5 0 P
+E
+blue feathered staff~
+This staff seems completely unremarkable.  It is about five feet long,
+with a two-inch-diameter shaft.  It has blue feathers tied towards the top
+of the shaft with brown leather tiestrings.  
+~
+#13304
+bright silver bracer~
+a bright {Csilver{x bracer~
+A bright silver bracer lies here.~
+silver~
+armor GK 0 AMY
+D AC BC A 0
+23 4 0 P
+A
+1 1
+A
+14 15
+A
+13 1
+E
+bright silver bracer~
+This bracer is merely a wide circular band of silver.  There are four
+rough cut gems that have been affixed to it.  Engraved in a flowing script
+on this inside of the band is "Firehawk, Warrior of Que-Shu".  
+~
+#13305
+fire pit~
+fire pit~
+There is a fire pit here, still smoldering.~
+soil~
+container 0 0 0
+10000 A 0 0 0
+0 0 0 P
+E
+fire pit~
+Flames blazing, this fire pit is giving off enough warmth to keep anyone
+warm.  The bottom of the pit is covered with sand, and the edges are lined
+with large stones to prevent the fire from spreading.  
+~
+#13306
+house key~
+a house key~
+There is a house key on the ground.~
+brass~
+key 0 0 A
+0 0 0 0 0
+0 2 0 P
+E
+house key~
+This looks like someone’s house key.  It looks like it may unlock
+someone's home.  
+~
+#13307
+coat hanger~
+a coathanger~
+There is a coathanger on the ground.~
+tin~
+key 0 0 A
+0 0 0 0 0
+0 2 0 P
+E
+coat hanger~
+It looks like a coathanger...duh.
+~
+#13308
+silver long sword~
+a {Csilver{x longsword~
+There is a silver longsword on the ground.~
+silver~
+weapon GK 0 AN
+sword 7 7 slash 0
+30 4 0 P
+A
+13 3
+A
+24 5
+E
+silver longsword~
+This silver longsword looks as if it has seen many battles.  ,c This
+magnificent longsword has been forged from the brightest silver.  The blade
+is perfectly straight and beautifully crafted.  The hilt is made from steel,
+and the crosspiece has a quartz stones set in either end.  
+~
+#13309
+farmer longjohns~
+a farmer's longjohns~
+A pair of farmer’s longjohns are lying here.~
+homespun~
+armor S 0 ADY
+AC AC AC A 0
+20 1 0 P
+E
+longjohns~
+These longjohns have been made from very durable denim.  The buckles are
+stout and made from copper.  Patches covering one of the knees is the only
+sign of damage, otherwise the longjohns are in good repair.  
+~
+#13310
+ancient coins gold~
+a heap of ancient gold coins~
+Some ancient gold coins lie piled up in a heap.~
+gold~
+money 0 0 A
+DFGHIJ 0 0 0 0
+0 0 0 P
+E
+coins~
+The coins in this pile look like they are made of gold.  The same unknown
+symbol is cast on each side of every coin.  
+~
+#13311
+ancient coins gold~
+a heap of ancient gold coins~
+Some ancient gold coins lie piled up in a heap on the floor.~
+gold~
+money 0 0 A
+DFGHIJ 0 0 0 0
+0 0 0 P
+E
+coins~
+The coins in this pile look like they are made of gold.  The same unknown
+symbol is cast on each side of every coin.  
+~
+#13312
+grain~
+some grain~
+A small pile of grain lies here.~
+plant~
+food S 0 A
+B 0 0 0 0
+5 5 100 P
+E
+grain~
+Small and easily carried, this pile of grain looks freshly milled.  It
+can provide a small amount of sustenance to whoever eats it.  
+~
+#13313
+leather armor~
+a suit of leather armor~
+There is a suit of leather armor on the ground.~
+leather~
+armor S 0 ADY
+B C AB 0 0
+5 6 100 P
+E
+suit leather armor~
+Made of average quality leather, this suit of armor will only withstand
+minor attacks.  It is decently stitched together, and has no stains on it. 
+The armor looks like it has seen some use as there are some scratches on it.
+~
+#13314
+chamorro dagger~
+a chamorro dagger~
+There is a chamorro dagger lying here.~
+steel~
+weapon AEGJ 0 ANX
+dagger 6 12 stab D
+60 3 12000 P
+A
+19 3
+A
+18 4
+E
+chamorro dagger~
+This dagger is a simple style dagger.  The blade is short and slim, but
+incredibly sharp.  The hilt is very plain, except for a small piece of
+obsidian in the pommel.  
+~
+#13315
+footman lance polearm~
+a footman's lance~
+There is a long, wicked-looking polearm lying here.~
+oak~
+weapon S 0 ANZ
+polearm 7 8 pierce F
+55 12 0 P
+E
+footmans lance~
+This is a long polearm with detailed engravings on the shaft. The blade at the
+end of the pole is formed in various hooks and spikes, to maximize the amount
+of damage inflicted...
+~
+#13316
+human skin vest~
+a Humanskin vest~
+A large pile of skin is lying here.~
+human skin~
+armor S 0 ADZ
+BC ABC BC B 0
+25 3 0 P
+E
+human skin vest~
+This gruesome item has been formed from dried human skin.  It is stitched
+together with strands of dried muscle and sinew.  The unpleasant stench from
+the vest has attracted a number of flies.  
+~
+#13317
+draconian helmet~
+a draconian helmet~
+A helmet made of leather and iron lies here.~
+studded leather~
+armor HMS 0 AEZ
+C BC AC 0 0
+10 5 0 P
+A
+3 -3
+A
+4 -4
+E
+draconian helmet~
+This is a crudely constructed leather helmet, made to fit a draconian and
+held together with large iron bands.  It has a small dent in the back,
+possibly made from a hammer or other blunt object.  It is slightly stained
+and has seen quite a bit of use.  
+~
+#13318
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#13312
+Path Along the Lakeshore~
+You are walking along a path that follows the shore of Crystalmir Lake.
+~
+0 0 2
+D0
+You see the west shore of the lake.
+~
+~
+0 -1 13308
+D1
+You see the south shore of the lake.
+~
+~
+0 -1 13310
+S
+#13313
+Nearfields~
+Here, farmers and their workers tread through fields of grain.  The thick
+wheat falls smoothly before the flickering scythes.  
+~
+0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13336
+D2
+You see a path along the lakeshore.
+~
+~
+0 -1 13307
+D3
+You see fields of grain.
+~
+~
+0 -1 13314
+S
+#13314
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13331
+D1
+You see fields of grain.
+~
+~
+0 -1 13313
+D2
+You see the shore of a lake.
+~
+~
+0 -1 13306
+D3
+You see the valley floor.
+~
+~
+0 -1 13315
+S
+#13315
+Twin Flat~
+A clear mountain valley sprawls before you.  To the northwest and
+southeast, thick vallenwoods flash yellow and scarlet against the bright
+autumn sky.  To the east shimmers the cool blue of Crystalmir Lake. 
+Westward, the valley enters a canyon rimmed by granite cliffs.  The valley
+floor itself continues to the northeast.  Some distance away, a group of
+huddled men pulls a large cart slowly west down the Haven road.  They sway
+rhythmically.  Coarse, heavy robes completely conceal their features.  
+~
+0 0 2
+D1
+You see fields of grain.
+~
+~
+0 -1 13314
+D2
+You see a path along the lakeshore.
+~
+~
+0 -1 13309
+D3
+You see a trail into the forest.
+~
+~
+0 -1 13316
+S
+#13316
+Jakanth Vale~
+Trails lead deeper into the woods, but even at its edge an unnatural
+stillness has settled on the place.  The woods seem much the same, but there
+is a subtle difference, a heaviness in the air.  Even the insects are
+silent.  
+~
+0 0 3
+D0
+You see a path in the forest.
+~
+~
+0 -1 13317
+D1
+You see the valley floor.
+~
+~
+0 -1 13315
+D2
+You see the canyon floor.
+~
+~
+0 -1 13319
+S
+#13317
+Trail Through the Forest~
+Heavily wrapped feet tread upon this trail a short time ago.  You smell
+smoke.  
+~
+0 0 3
+D2
+You see an opening in the trees.
+~
+~
+0 -1 13316
+D3
+You see a trail winding through the forest.
+~
+~
+0 -1 13318
+S
+#13318
+Smoldering Campsite~
+The campsite smells like burned hair.  Charred bones lie in the ashes of
+the fire pit.  The grass has been stamped down around the area.  
+~
+0 0 3
+D1
+You see a path winding through the forest.
+~
+~
+0 -1 13317
+S
+#13319
+Sentinel Gap~
+Walls of granite soar on either side of the narrow canyon floor.  A
+chilly breeze whistles and rumbles between the cliffs.  
+~
+0 0 0
+D0
+You see a path into winding into the forest.
+~
+~
+0 -1 13316
+D1
+You see a path along the lakeshore.
+~
+~
+0 -1 13309
+D2
+You see a rough path leading up a mountain.
+~
+~
+0 -1 13321
+D3
+You see a path winding into the canyon.
+~
+~
+0 -1 13320
+S
+#13320
+Twin Peaks Vale~
+The twin peaks, Tasin and Fasin, stand to either side of the Shadow
+Canyon, overlooking the north road to the city of Haven.  In front of them,
+a lush mountain valley echoes with the sweet sounds of the forest.  
+~
+0 0 0
+D1
+You see the canyon floor.
+~
+~
+0 -1 13319
+S
+#13321
+Prayers Eye Peak~
+The flaming colors of fall surround you, and autumn breezes ripple
+through your hair.  To the southwest, the white-capped outline of Prayers
+Eye Peak soars in the distance.  Barely visible from here, a sharp crack
+splits the peak as though it consisted of two hands pressed together.  
+~
+0 0 5
+D0
+You see the canyon floor.
+~
+~
+0 -1 13319
+D1
+You see the shore of a lake.
+~
+~
+0 -1 13308
+D2
+You see a rock path winding through the mountains.
+~
+~
+0 -1 13328
+S
+#13322
+Road through the forest~
+This is a well-traveled dirt road.
+~
+0 0 0
+D0
+You see the entrance to a small town.
+~
+~
+0 -1 13303
+D1
+You see forest.
+~
+~
+0 -1 13329
+D2
+You see a stone bridge.
+~
+~
+0 -1 13323
+D3
+You see a path long the lakeshore.
+~
+~
+0 -1 13311
+S
+#13323
+Stone Bridge~
+The Solace stream sparkles beneath this ancient stone bridge.  Water
+tumbles out of the forest, over the rocks, and toward the south pass that
+lies between the southern Sentinel Peaks.  West of the bridge, the road
+continues into the distance.  The road winds among the great vallenwoods,
+whose boughs form a brilliant canopy over the roadway.  
+~
+0 0 4
+D0
+You see a road winding through the forest.
+~
+~
+0 -1 13322
+D1
+You see forest.
+~
+~
+0 -1 13330
+D3
+You see a road winding through the forest.
+~
+~
+0 -1 13324
+S
+#13324
+Road Among the Vallenwoods.~
+This dusty road winds among the vallenwoods.  The breeze rustles the
+leaves above your head, as if to speak to you.  The road continues west into
+the mountains and south toward Darken Wood.  
+~
+0 0 3
+D1
+You see a stone bridge.
+~
+~
+0 -1 13323
+D3
+You see a rocky path into the mountains.
+~
+~
+0 -1 13325
+S
+#13325
+Mountain Trail~
+This rocky trail begins the ascent into the mountains.  To the north is
+Crystalmir Lake.  
+~
+0 0 5
+D0
+You see the shore of a lake.
+~
+~
+0 -1 13310
+D1
+You see a road winding through the forest.
+~
+~
+0 -1 13324
+D3
+You see a road winding through the mountains.
+~
+~
+0 -1 13326
+S
+#13326
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  From
+here you can see the whole valley and Crystalmir Lake.  
+~
+0 0 5
+D1
+You see a rocky trail descending into the forest.
+~
+~
+0 -1 13325
+D3
+You see a road winding through the mountains.
+~
+~
+0 -1 13327
+S
+#13327
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  From
+here you can see the whole valley and Crystalmir Lake.  From here it almost
+looks as if there is something at the bottom of the lake.  
+~
+0 0 5
+D0
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 13328
+D1
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 13326
+S
+#13328
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  From
+here you can see the whole valley and Crystalmir Lake.  
+~
+0 0 5
+D0
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 13321
+D2
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 13327
+S
+#13329
+Among the Vallenwoods~
+You are walking among the peaceful vallenwoods.  They sway in the breeze
+in a dance of autumn.  
+~
+0 0 3
+D0
+You see a small grove.
+~
+~
+0 -1 13302
+D2
+You see forest.
+~
+~
+0 -1 13330
+D3
+You see a road winding through the forest.
+~
+~
+0 -1 13322
+S
+#13330
+Northern Woods of Solace~
+Huge vallenwood trees tower above the soft forest paths.  Sunlight
+dapples the floor of the woods, and sparrows and squirrels quarrel overhead.
+The musty smell of fallen leaves rises through the fragrance of late
+wildflowers.  
+~
+0 0 3
+D0
+You see a forest.
+~
+~
+0 -1 13329
+D3
+You see a stone bridge.
+~
+~
+0 -1 13323
+S
+#13331
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D1
+You see fields of grain.
+
+~
+~
+0 -1 13336
+D3
+You see fields of grain.
+~
+~
+0 -1 13332
+D0
+You see fields of grain.
+~
+~
+0 -1 13334
+D2
+You see fields of grain.
+~
+~
+0 -1 13314
+S
+#13332
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D3
+You see fields of grain.
+~
+~
+0 -1 13338
+D1
+You see fields of grain.
+~
+~
+0 -1 13331
+D0
+You see fields of grain.
+~
+~
+0 -1 13333
+D2
+You see fields of grain.
+~
+~
+0 -1 13338
+S
+#13333
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D2
+You see fields of grain.
+~
+~
+0 -1 13332
+D1
+You see fields of grain.
+~
+~
+0 -1 13334
+D3
+You see fields of grain.
+~
+~
+0 -1 13337
+S
+#13334
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D2
+You see fields of grain.
+~
+~
+0 -1 13331
+D1
+You see fields of grain.
+~
+~
+0 -1 13335
+D3
+You see fields of grain.
+~
+~
+0 -1 13333
+S
+#13335
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D3
+You see fields of grain.
+~
+~
+0 -1 13334
+D1
+You see fields of grain.
+~
+~
+0 -1 13338
+D2
+You see fields of grain.
+~
+~
+0 -1 13336
+S
+#13336
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13335
+D1
+You see fields of grain.
+~
+~
+0 -1 13337
+D2
+You see fields of grain.
+~
+~
+0 -1 13313
+D3
+You see fields of grain.
+~
+~
+0 -1 13331
+S
+#13337
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13338
+D1
+You see fields of grain.
+~
+~
+0 -1 13333
+D2
+You see a house.
+~
+~
+0 -1 13339
+D3
+You see fields of grain.
+~
+~
+0 -1 13336
+S
+#13338
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains or
+tend the crops.  
+~
+0 8192 2
+D3
+You see fields of grain.
+~
+~
+0 -1 13335
+D2
+You see fields of grain.
+~
+~
+0 -1 13337
+D0
+You see fields of grain.
+~
+~
+0 -1 13332
+D1
+You see fields of grain.
+~
+~
+0 -1 13332
+S
+#13339
+A Farmer's House~
+A typical farmer’s house is here next to the endless fields of grain.
+~
+0 0 0
+D0
+You see fields of grain
+~
+~
+0 -1 13337
+D1
+You see the farmer's house.
+~
+door~
+1 13306 13340
+S
+#13340
+Living Room~
+This is the living room of the farmer.  You don't live here.  And you
+don't know the farmer.  Why are you here?  
+~
+0 12 0
+D3
+Front door.
+~
+~
+0 13306 13339
+D4
+You see stairs
+~
+~
+0 -1 13341
+S
+#13341
+Top of the Stairs~
+You are standing at the top of the stairs.  There is a picture of Grandma
+on the wall.  
+~
+0 8 0
+E
+picture~
+It is a picture of Grandma....
+
+or is it Grandpa...?
+~
+D0
+You see a bedroom
+~
+~
+0 -1 13342
+D1
+You see a bedroom
+~
+~
+0 -1 13343
+D5
+You see stairs
+~
+~
+0 -1 13340
+S
+#13342
+Bedroom~
+You are standing in the bedroom farmer’s bedroom.  There are family
+pictures hanging on the walls.  An antique bed sits in one corner of the
+room.  
+~
+0 8 0
+E
+pictures~
+That’s strange...
+They all sort of look like pictures of like...
+
+Like....
+
+Farmers....
+
+well what did you expect?
+~
+D1
+You see a bedroom closet.
+~
+closet door~
+1 -1 13344
+D2
+You see the top of the stairs.
+~
+~
+0 -1 13341
+S
+#13343
+Kids Room~
+You are standing in the kids’ bedroom.  There are posters plastered to
+every inch of wall space.  A bunk bed sits against the wall.  You see a
+closet to the south.  
+~
+0 8 0
+E
+posters~
+They seem to be various posters
+of a purple dinosaur singing...
+
+There is a autograph on one poster.
+~
+E
+autograph~
+I LOVE you 'cause you
+are SUPERDYDUPERDY!!!
+
+Barney
+~
+D2
+You see a closet door.
+~
+closet door~
+1 -1 13379
+D3
+You see the top of the stairs.
+~
+~
+0 -1 13341
+S
+#13344
+In the Closet~
+You are standing in the bedroom closet.  There are cedar blocks and
+mothballs in here.  Uh oh...  The door closed behind you.  You are locked
+in.  
+~
+0 8200 0
+E
+cedar blocks~
+Looks like cedar blocks.
+what did you expect ? Gold?
+This is a FARMER's house.
+~
+E
+mothballs~
+They look like white Malt balls...
+I wonder if they taste like it too?
+~
+D3
+You see closet door.
+~
+closet door~
+1 13307 13342
+S
+#13345
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13352
+D1
+It’s too dark to see.
+~
+door~
+0 -1 13346
+D2
+It’s too dark to see.
+~
+~
+0 -1 13348
+D3
+It’s too dark to see.
+~
+~
+0 -1 13350
+D4
+You see the surface of Crystalmir Lake.
+~
+~
+0 -1 13305
+S
+#13346
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+Its too dark to see.
+~
+~
+0 -1 13353
+D1
+It’s too dark to see.
+~
+~
+0 -1 13355
+D2
+It’s too dark to see.
+~
+~
+0 -1 13347
+D3
+It’s too dark to see.
+~
+~
+0 -1 13345
+S
+#13347
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can’t
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D3
+It’s too dark to see.
+~
+~
+0 -1 13348
+D1
+It’s too dark to see.
+~
+~
+0 -1 13356
+D2
+It’s too dark to see.
+~
+~
+0 -1 13358
+D0
+It’s too dark to see.
+~
+~
+0 -1 13346
+S
+#13348
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can’t
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13345
+D1
+It’s too dark to see.
+~
+~
+0 -1 13347
+D2
+It’s too dark to see.
+~
+~
+0 -1 13359
+D3
+It’s too dark to see.
+~
+~
+0 -1 13349
+S
+#13349
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can’t
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13350
+D1
+It’s too dark to see.
+~
+~
+0 -1 13348
+D2
+It’s too dark to see.
+~
+~
+0 -1 13360
+D3
+It’s too dark to see.
+~
+~
+0 -1 13362
+S
+#13350
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D2
+It’s too dark to see.
+~
+~
+0 -1 13349
+D0
+It’s too dark to see.
+~
+~
+0 -1 13351
+D1
+It’s too dark to see.
+~
+~
+0 -1 13345
+D3
+It’s too dark to see.
+~
+~
+0 -1 13363
+S
+#13351
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13366
+D1
+It’s too dark to see.
+~
+~
+0 -1 13352
+D2
+It’s too dark to see.
+~
+~
+0 -1 13350
+D3
+It’s too dark to see.
+~
+~
+0 -1 13364
+S
+#13352
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13367
+D1
+It’s too dark to see.
+~
+~
+0 -1 13353
+D2
+It’s too dark to see.
+~
+~
+0 -1 13345
+D3
+It’s too dark to see.
+~
+~
+0 -1 13351
+S
+#13353
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D3
+Its too dark to see.
+~
+~
+0 -1 13352
+D1
+It’s too dark to see.
+~
+~
+0 -1 13354
+D2
+It’s too dark to see.
+~
+~
+0 -1 13346
+D0
+It’s too dark to see.
+~
+~
+0 -1 13368
+S
+#13354
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13369
+D1
+It’s too dark to see.
+~
+~
+0 -1 13364
+D2
+It’s too dark to see.
+~
+~
+0 -1 13355
+D3
+It’s too dark to see.
+~
+~
+0 -1 13353
+S
+#13355
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13354
+D1
+You see an opening in the lakebed.
+~
+~
+0 -1 13370
+D2
+It’s too dark to see.
+~
+~
+0 -1 13356
+D3
+It’s too dark to see.
+~
+~
+0 -1 13346
+S
+#13356
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13355
+D2
+It’s too dark to see.
+~
+~
+0 -1 13357
+D3
+It’s too dark to see.
+~
+~
+0 -1 13347
+S
+#13357
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13356
+D3
+It’s too dark to see.
+~
+~
+0 -1 13358
+D1
+It’s too dark to see.
+~
+~
+0 -1 13361
+D2
+It’s too dark to see.
+~
+~
+0 -1 13369
+S
+#13358
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13347
+D1
+It’s too dark to see.
+~
+~
+0 -1 13357
+D2
+It’s too dark to see.
+~
+~
+0 -1 13368
+D3
+It’s too dark to see.
+~
+~
+0 -1 13359
+S
+#13359
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13348
+D1
+It’s too dark to see.
+~
+~
+0 -1 13358
+D2
+It’s too dark to see.
+~
+~
+0 -1 13367
+D3
+It’s too dark to see.
+~
+~
+0 -1 13360
+S
+#13360
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13349
+D1
+It’s too dark to see.
+~
+~
+0 -1 13359
+D2
+It’s too dark to see.
+~
+~
+0 -1 13366
+D3
+It’s too dark to see.
+~
+~
+0 -1 13361
+S
+#13361
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13362
+D1
+It’s too dark to see.
+~
+~
+0 -1 13360
+D2
+It’s too dark to see.
+~
+~
+0 -1 13365
+D3
+It’s too dark to see.
+~
+~
+0 -1 13357
+S
+#13362
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13363
+D1
+It’s too dark to see.
+~
+~
+0 -1 13349
+D2
+It’s too dark to see.
+~
+~
+0 -1 13361
+D3
+You see an opening in the lakebed.
+~
+~
+0 -1 13371
+S
+#13363
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13364
+D1
+It’s too dark to see.
+~
+~
+0 -1 13350
+D2
+It’s too dark to see.
+~
+~
+0 -1 13362
+S
+#13364
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13365
+D1
+It’s too dark to see.
+~
+~
+0 -1 13351
+D2
+It’s too dark to see.
+~
+~
+0 -1 13363
+D3
+It’s too dark to see.
+~
+~
+0 -1 13354
+S
+#13365
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13361
+D1
+It’s too dark to see.
+~
+~
+0 -1 13366
+D2
+It’s too dark to see.
+~
+~
+0 -1 13364
+D3
+There seems to a small crack in the lakebed.
+~
+~
+0 -1 13374
+S
+#13366
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13360
+D1
+It’s too dark to see.
+~
+~
+0 -1 13367
+D2
+It’s too dark to see.
+~
+~
+0 -1 13351
+D3
+It’s too dark to see.
+~
+~
+0 -1 13365
+S
+#13367
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13359
+D1
+It’s too dark to see.
+~
+~
+0 -1 13368
+D2
+It’s too dark to see.
+~
+~
+0 -1 13352
+D3
+It’s too dark to see.
+~
+~
+0 -1 13366
+S
+#13368
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13358
+D1
+It’s too dark to see.
+~
+~
+0 -1 13369
+D2
+It’s too dark to see.
+~
+~
+0 -1 13353
+D3
+It’s too dark to see.
+~
+~
+0 -1 13367
+S
+#13369
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.  It
+looks as if the surface of the lake is made of glass...  In fact, you can't
+break the surface!...  You need air SOON!  
+~
+0 0 15
+D0
+It’s too dark to see.
+~
+~
+0 -1 13357
+D2
+It’s too dark to see.
+~
+~
+0 -1 13354
+D3
+It’s too dark to see.
+~
+~
+0 -1 13368
+S
+#13370
+Underwater Cave~
+This is an underwater cave that seems to have trapped some air in it. 
+The cave appears to continue deeper, however it is currently blocked by a
+rockslide.  
+~
+0 0 0
+E
+rock slide~
+There is no way you are going to clear away all the rocks.
+~
+D3
+It’s too dark to see.
+~
+~
+0 -1 13355
+S
+#13371
+Underwater Passageway~
+This passageway is almost completely filled with water.  It seems to have
+trapped some air.  Something doesn't feel right.  Maybe you should leave.  
+~
+0 0 8
+D1
+It’s too dark to see.
+~
+~
+0 -1 13362
+D3
+It’s too dark to see.
+~
+~
+0 -1 13372
+S
+#13372
+Underwater Passageway~
+This passageway is almost completely filled with air.  This is REALLY
+strange.  You wonder how this can be.  Something is definitely wrong.  The
+air here is very humid, and seems to be getting warmer to the south.  
+~
+0 0 8
+D1
+Underwater Passageway.
+~
+~
+0 -1 13371
+D2
+A very large cave entrance.
+~
+~
+0 -1 13373
+S
+#13373
+Cave of the Turtle Dragon~
+This cave is enormous.  It is mostly flooded with water.  The air is very
+humid and misty.  Large piles of bones lay all over.  The walls are covered
+with scratches and claw marks.  
+~
+0 0 6
+E
+bones~
+Most are fish bones...
+But some of them look like humanoid bones...
+~
+D0
+Underwater Passageway.
+~
+~
+0 -1 13372
+S
+#13374
+A Narrow Crack In the Rock.~
+This crack appears to have been caused by some earthquake or other
+natural event.  The opening here is large, but seems to get smaller as it
+goes on.  
+~
+0 0 8
+D1
+It’s too dark to see.
+~
+~
+0 -1 13365
+D3
+A very small tunnel.
+~
+~
+0 -1 13375
+S
+#13375
+A Small Tunnel~
+This is a small tunnel that seems to go deeper into the mountains.  It is
+completely filled with water.  Some light filters in through the muck to the
+east.  
+~
+0 0 8
+D0
+A very small tunnel.
+~
+~
+0 -1 13377
+D1
+Narrow crack.
+~
+~
+0 -1 13374
+D2
+A very small tunnel.
+~
+~
+0 -1 13376
+S
+#13376
+Dead end~
+The tunnel seems to dead end here.  There is nothing but mud and a small
+pocket of air.  
+~
+0 0 8
+D0
+A very small tunnel.
+~
+~
+0 -1 13375
+S
+#13377
+Unused~
+~
+0 2138116 6
+D0
+Barracuda nest.
+~
+~
+0 -1 13378
+S
+#13378
+Unused~
+~
+0 2138116 6
+D2
+A small tunnel.
+~
+~
+0 -1 13377
+S
+#13379
+Kids Closet.~
+You are standing in the kids’ closet.  There are piles of unwashed
+laundry and toys.  You see an evil-looking book lying against the south
+wall.  
+~
+0 0 0
+D0
+You see the closet door.
+~
+door~
+1 -1 13343
+S
+#13301
+Rock Outcropping~
+From this rock outcropping, the valley below seems peaceful and
+untouched.  Dense forests of pine carpet the mountainsides, broken only by
+thick aspen woods.  The mountains, deep blue in the distance, circle the
+valley floor and form a soft highland bowl.
+ 
+      There is a sign nailed to a nearby tree.
+~
+0 0 5
+E
+sign~
+**CRYSTALMIR LAKE**
+
+Renovations coming soon  -- Gilean
+~
+D2
+~
+~
+0 0 2613
+D5
+You see a small grove.
+~
+~
+0 -1 13302
+S
+#13302
+Small Grove~
+Suddenly, soft music begins.  Its source is slim, beautiful girl.  Lyre
+in hand, she sits gracefully as she plays.  Nearby, a large plainsman raises
+a flute to his lips.  Her voice clear as winter wind begins to sing...  
+~
+0 0 3
+D2
+You see forest.
+~
+~
+0 -1 13329
+D3
+You see a town in the distance.
+~
+~
+0 -1 13303
+D4
+You see a rock outcropping.
+~
+~
+0 -1 13301
+S
+#13303
+A Forest of Solace~
+A warm autumn breeze rustles the great vallenwood trees of Solace.  The
+road that wanders through the trees blazes in the bright colors of autumn. 
+The richly stained buildings of Solace rest cradled overhead in the boughs
+of the trees.  
+~
+0 0 1
+D1
+You see a small grove.
+~
+~
+0 -1 13302
+D2
+You see road through the forest.
+~
+~
+0 -1 13322
+D3
+You see a lakeshore.
+~
+~
+0 -1 13304
+S
+#13304
+East Shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see a path along the lake.
+~
+~
+0 -1 13307
+D1
+You see a town in the distance.
+~
+~
+0 -1 13303
+D2
+You see a path that follows the lakeshore.
+~
+~
+0 -1 13311
+D3
+You see water.
+~
+~
+0 -1 13305
+S
+#13305
+Middle of Crystalmir Lake~
+You are in the middle of Crystalmir Lake.  The water is so still it is
+like a thin sheet of glass.  
+~
+0 0 7
+D0
+You see the north shore of the lake.
+~
+~
+0 -1 13306
+D1
+You see the east shore of the lake.
+~
+~
+0 -1 13304
+D2
+You see the south shore of the lake.
+~
+~
+0 -1 13310
+D3
+You see the west shore of the lake.
+~
+~
+0 -1 13308
+D5
+You can't see much under the water.
+~
+~
+0 -1 13345
+S
+#13306
+North Shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13314
+D1
+You see a path along the lake.
+~
+~
+0 -1 13307
+D2
+You see water.
+~
+~
+0 -1 13305
+D3
+You see a path along the lakeshore.
+~
+~
+0 -1 13309
+S
+#13307
+A Path Along the Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 13313
+D2
+You see the east shore of Crystalmir Lake.
+~
+~
+0 -1 13304
+D3
+You see the north shore of Crystalmir Lake.
+~
+~
+0 -1 13306
+S
+#13308
+West Shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see a path along the lakeshore.
+~
+~
+0 -1 13309
+D1
+You see water.
+~
+~
+0 -1 13305
+D2
+You see a path that follows the lakeshore.
+~
+~
+0 -1 13312
+D3
+You see a rough path leading up a mountain.
+~
+~
+0 -1 13321
+S
+#13309
+A Path Along the Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see the valley floor.
+~
+~
+0 -1 13315
+D1
+You see north shore of lake.
+~
+~
+0 -1 13306
+D2
+You see west shore of lake.
+~
+~
+0 -1 13308
+D3
+You see the canyon floor.
+~
+~
+0 -1 13319
+S
+#13310
+South Shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake. 
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north, a patchwork of fields
+stretches toward the distant purple mountains.  
+~
+0 0 2
+D0
+You see water.
+~
+~
+0 -1 13305
+D1
+You see a path that follows the lakeshore.
+~
+~
+0 -1 13311
+D2
+You see a rocky path into the mountains.
+~
+~
+0 -1 13325
+D3
+You see a path that follows the lakeshore.
+~
+~
+0 -1 13312
+S
+#13311
+A Path Along the Lakeshore~
+You are walking along a path that follows the shore of Crystalmir Lake.  
+~
+0 0 2
+D0
+You see the east shore of the lake.
+~
+~
+0 -1 13304
+D1
+You see a road winding through the forest.
+~
+~
+0 -1 13322
+D3
+You see the south shore of the lake.
+~
+~
+0 -1 13310
+S
+#0
+
+
+
+#SPECIALS
+M 13313 spec_thief
+M 13301 spec_cast_adept
+M 13308 spec_breath_gas
+M 13309 spec_fido
+M 13310 spec_rloader
+S
+
+
+
+#RESETS
+D 0 13339 1 2
+D 0 13342 1 1
+D 0 13343 2 1
+D 0 13344 3 2
+D 0 13379 0 1
+M 0 13305 1 13313 1
+E 0 13302 0 20
+E 0 13309 0 5
+M 0 13306 10 13313 10
+E 0 13309 0 5
+M 0 13304 4 13315 4
+E 0 13315 0 16
+E 0 13316 0 5
+E 0 13317 0 6
+M 0 13312 1 13316 1
+O 0 13305 0 13318
+M 0 13311 17 13322 17
+M 0 13311 17 13323 17
+M 0 13310 40 13326 40
+M 0 13311 17 13327 17
+M 0 13311 17 13329 17
+M 0 13302 1 13330 1
+E 0 13314 0 16
+E 0 13313 0 5
+M 0 13314 7 13331 7
+R 0 13331 4
+R 0 13332 4
+R 0 13333 4
+M 0 13315 1 13334 1
+R 0 13334 4
+O 0 13312 0 13334
+M 0 13314 7 13335 7
+R 0 13335 4
+R 0 13336 4
+O 0 13312 0 13336
+M 0 13315 1 13337 1
+R 0 13337 1
+M 0 13314 7 13338 7
+R 0 13338 4
+O 0 13312 0 13338
+M 0 13309 2 13339 2
+G 0 13306 0
+O 0 13307 0 13342
+M 0 13313 2 13343 2
+M 0 13310 40 13346 40
+R 0 13347 4
+M 0 13310 40 13348 40
+M 0 13310 40 13350 40
+R 0 13350 4
+M 0 13310 40 13352 40
+R 0 13353 4
+M 0 13307 1 13354 1
+R 0 13357 4
+M 0 13310 40 13358 40
+M 0 13310 40 13361 40
+M 0 13307 1 13363 1
+M 0 13310 40 13364 40
+M 0 13307 1 13366 1
+M 0 13310 40 13370 40
+M 0 13308 1 13373 1
+E 0 13301 0 16
+G 0 13310 0
+M 0 13310 40 13375 40
+M 0 13307 1 13376 1
+M 0 13307 1 13378 1
+M 0 13301 1 13302 1
+E 0 13303 0 21
+E 0 13313 0 5
+M 0 13303 1 13302 1
+E 0 13308 0 20
+E 0 13313 0 5
+M 0 13307 1 13305 1
+M 0 13310 40 13306 40
+M 0 13310 40 13310 40
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

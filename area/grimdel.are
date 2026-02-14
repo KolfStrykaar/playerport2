@@ -1,0 +1,2619 @@
+#AREADATA
+Name Grimdel~
+Builders Mishakal~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 8700 8799
+Credits Mishakal~
+Security 9
+End
+
+
+
+#MOBILES
+#8700
+squid kraken large huge monster~
+a kraken~
+A massive squid like creature with rubbery skin and a giant clacking beak swims in the water here.
+~
+The creature swimming here is immense, 180 feet long, its many tentacles moving to propel itself through the dark waters. It opens its massive beak, and swims toward you quickly, a murderous animal rage clear in its unintelligent eyes.  You had better run.
+~
+modron~
+ACFTU JVabc 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-1 -1 -1 -1
+QR BMQR AHKX G
+stand stand none 0
+H ABGKN G unknown 0
+F imm NP
+F res I
+F par CHJ
+#8701
+bortel~
+Bortel~
+Bortel, the fish man is standing here.
+~
+The fish man is standing here, muscles surging from his arms.  His hands
+full of scars from countless accidents with knives.  He stands here smiling,
+wondering what you want.  
+~
+human~
+AB 0 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#8711
+guard elite merchant~
+an elite merchant guard~
+A rough looking merchant guard stands here.
+~
+Before you stands a large man, wielding an iron shod glaive.  He sneers at you as you walk near, straightening his back and glaring at you.
+~
+human~
+ABGT 0 0 0
+100 110 165d36+3004 110d10+85 31d3+41 punch
+-42 -42 -42 -19
+EFJKU B JP 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#8738
+Fleeral kender~
+Fleeral the kender~
+A curious looking kender stands behind the counter, talking merrily to herself.
+~
+The small kender at the counter talks happily to herself as she toys with
+something, which she keeps carefully out of sight.  Her hair is done up in
+the typical topknot, though hers is rather frazzled.  She gives you a broad
+smile as you enter and starts to talk away.  
+~
+kender~
+AB 0 0 0
+210 210 421d70+8485 210d10+85 70d3+110 none
+-132 -132 -132 -88
+0 BCD 0 L
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#8739
+sithel fumblelock~
+Sithel FumbleLock~
+Sithel FumbleLock is standing behind the bar serving his patrons
+~
+Sithel is a very jolly Kender.  He is unlike any kender you have seen
+before.  He seems to lack the majority of a kender's traits.  It is obvious
+that his ineptitude for kender skills have shaped his lot in life.  
+~
+kender~
+AB W 0 0
+300 300 601d100+18181 300d10+85 100d3+155 none
+-193 -193 -193 -130
+0 BCD 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#8740
+wandering kender~
+a wandering kender~
+A wandering Kender is eyeballing everything.
+~
+Fuzzfoot Sparkfire looks at you and immediately, his mouth starts
+spurting taunts.  
+~
+kender~
+ACG FPV 0 0
+50 50 101d16+506 50d10+85 16d3+30 punch
+-24 -24 -24 -14
+FHKNR B P L
+stand stand male 10
+AHMV ABCDEFGHIJK S unknown 0
+#8743
+merchant city foppish~
+a merchant~
+A merchant wanders the streets of Grimdel.
+~
+The man before you appears to be a merchant of some sort, his robes
+rustle about his slippered feet as he rushes to and fro on the road.  
+~
+human~
+AGHT 0 0 0
+40 40 3d100+20 40d10+85 13d3+25 thwack
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK M unknown 0
+#8744
+Torgak~
+Torgak the shopkeeper~
+Torgak, the shopkeeper stands here before you.
+~
+~
+human~
+AB 0 0 0
+210 210 421d70+8485 210d10+85 70d3+110 punch
+-132 -132 -132 -88
+0 BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#8751
+guard grimdel city~
+A Grimdel guard~
+A guard to the city of Grimdel patrols the streets carefully.
+~
+Here stands one of the fabled guards of Grimdel, rumored to be tough as
+nails, with an equally charming disposition.  He stands at wrapped
+attention, his eyes scanning around himself, looking for any signs of
+trouble.  
+~
+human~
+AG 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 punch
+-1 -1 -1 -1
+DFNP 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK M unknown 0
+#8756
+dwarven cleric priest~
+A dwarven priest of Reorx~
+A dwarven priest of the god Reorx prays at the altar.
+~
+The dwarf before you is clothed in white robes, bearing the symbol of the god of the Forge, Reorx.  In his hammer he carries a wicked looking warhammer, and in the other, a holy symbol.
+~
+dwarf~
+ABQa HJ 0 0
+210 210 421d70+8485 210d10+85 70d3+110 none
+-132 -132 -132 -88
+0 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#8758
+curious kender~
+a curious kender~
+An inquisitive kender stands in the street, rocking back and forth on her heels.
+~
+Before you on the street walks a curious kender, bobbing between people
+and carts as he runs down the road.  He humps into you with a smile, then
+scurries away.  
+~
+kender~
+AGS 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 none
+-1 -1 -1 -1
+0 0 0 L
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#8759
+phillip shop shopkeeper man skinny smokesman~
+Phillip the smokesman~
+A rather skinny man stands here, hanging a fish on the wall.
+~
+The man before you is rather thin, though he does have some 
+muscle on his lean frame.  In his hand, he holds a large fish
+hook, and in the other, a large trout.
+~
+human~
+AB 0 0 0
+210 210 421d70+8485 210d10+85 70d3+110 none
+-132 -132 -132 -88
+0 BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#8760
+guard tough grimdel~
+a guard of Grimdel~
+A tough looking guard to the city of Grimdel stands at the gate.
+~
+The man before you looks tough as nails; his sneer seems etched into his
+features as he watches you enter his city.  In his hands, he holds an old,
+wicked looking cutlass.  
+~
+human~
+AB 0 0 0
+15 15 31d5+152 15d10+85 5d3+12 none
+0 0 0 2
+DFIPU 0 B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#8770
+red spotted woodpecker~
+a {Rred{x spotted woodpecker~
+A red spotted woodpecker pounds away loudly on a tree here.
+~
+The woodpecker drills its beak repeatedly into the trunk of an oak tree. 
+Its body is covered with red splotches, which contrasts sharply with the
+black of its body.  
+~
+song bird~
+ABG T 0 0
+10 10 21d3+102 10d10+85 3d3+10 peck
+2 2 2 4
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP T unknown 0
+#8776
+huge black bear~
+a large black bear~
+A large black bear lumbers through the forest before you.
+~
+The bear you see before you stands 5 feet at the shoulder. It lumbers
+through the forest slowly and steadily, growling and grunting as it moves.  
+~
+bear~
+AGH 0 0 0
+10 10 21d3+102 10d10+85 3d3+10 pound
+2 2 2 4
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV M unknown 0
+#8781
+snake rattle ~
+a rattlesnake~
+A rattlesnake slithers through the high grass around you.
+~
+The snake before you rears back its head, its tail rattling loudly.
+~
+snake~
+AFHUW M 0 0
+10 10 21d3+102 10d10+85 3d3+10 none
+2 2 2 4
+O 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX S unknown 0
+#8784
+Thomar the weaponsmith~
+Thomar the weaponsmith~
+A huge human stands before you, his arms folded over his chest.
+~
+The man before you is huge; his arms thick and covered with soot from long hours of work at the forge.  In his weathered hands, he holds a pair of smithing tongs and a forging hammer.
+~
+human~
+AB 0 0 0
+210 210 421d70+8485 210d10+85 70d3+110 punch
+-132 -132 -132 -88
+0 BCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#8785
+Vastrox bar barkeep minotaur large~
+Vastrox the barkeep~
+A large minotaur with an eye patch over his left eye stands here with his arms crossed over his chest.
+~
+A large minotaur with an eye patch over his left eye stands here 
+with his arms crossed over his chest. His scars of battle are 
+evident, and he deals with each customer in the same grizzled tone. 
+His fur is a tone of light red, and it is crossed with dozens of
+battle-scars, which speak of countless cruel fights.  He now stands
+standing behind the rose-hued wood bar top, serving drinks, in one
+of the most liberal, but by no means peaceful bars of Grimdel.
+~
+minotaur~
+AB 0 0 0
+210 210 421d70+8485 210d10+85 70d3+110 none
+-132 -132 -132 -88
+0 BCD HI K
+stand stand male 0
+AHMV ABCDEFGHIJK L unknown 0
+#8789
+ogre guard~
+An ogre guard~
+A large ogre grunts, waving his club menacingly.
+~
+The humanoid before you stands at least 7 feet in height, its muscles
+bulge from its beefy frame as it grumbles and grunts at you.  
+~
+ogre~
+AFGT J 0 0
+15 15 31d5+152 15d10+85 5d3+2 slice
+0 0 0 0
+R 0 HIQ KS
+stand stand male 300
+AHMV ABCDEFGHIJK L unknown 0
+#8792
+giant dung beetle~
+a massive {yd{Gun{yg{x beetle~
+A huge beetle sits amongst the filth, gorging happily.
+~
+The bug sitting in the feces before you is massive, easily 20 feet in
+height.  It clacks its mandibles at you as you enter.  
+~
+centipede~
+ABC MXZc 0 0
+20 20 41d6+203 20d10+85 6d3+15 bite
+3 3 3 3
+0 0 FI E
+stand stand none 0
+ABGO ACK M unknown 0
+#8795
+ogre chieftain~
+An ogre chieftain~
+A huge ogre, with an ornate headdress is here.
+~
+The ogre before you stands an imposing 8 feet tall.  Upon his brow rests
+an ornate crown, bearing feathers, and strips of flesh.  He grunts and
+growls at you, waving his club menacingly as you enter.  
+~
+ogre~
+ABCT J 0 0
+20 20 41d6+203 20d10+85 6d3+15 punch
+-3 -3 -3 0
+0 0 HIQ KS
+stand stand male 500
+AHMV ABCDEFGHIJK L unknown 0
+#0
+
+
+
+#OBJECTS
+#8700
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#8701
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#8711
+steel shod glaive polearm~
+a {ws{Wtee{wl{x shod glaive~
+A steel shod glaive stands in the dirt in front of you.~
+steel~
+weapon AGTY 0 ANZ
+polearm 13 11 thrust AF
+100 12 7955 P
+#8728
+fountain marble white fine~
+a {Wmarble{x fountain~
+A fine {Wwhite marble{x fountain spews forth water here.~
+marble~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#8738
+wooden toy duck~
+a small wooden toy duck~
+A small wooden toy duck sits on the ground here, tied to a string.~
+wood~
+trash S 0 AO
+0 0 0 0 0
+0 1 25 P
+#8739
+wooden bar~
+the small wooden bar~
+A small wooden bar lines the east wall~
+wood~
+furniture S 0 P
+CE 0 D 0 0
+0 0 0 P
+#8740
+kender hoopak staff~
+a kender's hoopak~
+A kender's hoopak rests here.~
+elm~
+weapon S 0 ANW
+staff 7 7 thwack F
+50 2 40 P
+A
+18 3
+A
+19 2
+#8741
+glass lemonade~
+a glass of lemonade~
+A glass of lemonade rests on the ground before you.~
+glass~
+drink S 0 A
+5 5 'lemonade' 0 0
+0 0 5 P
+#8742
+mystery meat~
+the fabled "mystery meat"~
+A lumpy, meaty looking substance sits on a plate in front of you.~
+unknown~
+food S 0 A
+AC AC 0 0 0
+0 0 3 P
+#8744
+silver hip flask~
+a {Wsi{wlver hipfla{Wsk{x~
+A large silver flask, carefully detailed sits before you.~
+silver~
+drink 0 0 A
+100 100 'water' 0 0
+0 0 3000 P
+#8745
+hooded steel lantern~
+a hooded steel lantern~
+A hooded {wsteel{x lantern sits here.~
+steel~
+light A 0 AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 3 500 P
+#8746
+slender golden spy glass~
+a slender golden spyglass~
+A slender golden spyglass is lying before you.~
+brass~
+wand 0 0 AO
+40 10 10 'farsight' 0
+40 3 4000 P
+#8750
+golden chain~
+a {Ygolden{x chain~
+A simple golden chain is curled up and left here.~
+gold~
+jewelry 0 0 ACc
+0 0 0 0 0
+0 1 200 P
+#8751
+brownish green potion chunks~
+a {ybrownish{X {gg{Gree{gn{X potion with floating chunks~
+A small vial lies here in the dirt, containing a brown-green liquid with chunks floating in it.~
+glass~
+potion GS 0 A
+50 'armor' 'sanctuary' 'reserved' 'reserved'
+40 1 4000 P
+#8756
+slate grey altar~
+a slate grey altar~
+A slate grey altar sits near the far wall.~
+slate~
+trash O 0 P
+0 0 0 0 0
+0 10000 0 P
+#8759
+smoked salmon fish~
+a hunk of smoked salmon~
+A hunk of smoked salmon sits here.~
+flesh~
+food S 0 A
+BD D 0 0 0
+0 1 10 P
+#8760
+old steel cutlass sword~
+an old steel cutlass~
+An old, worn-looking steel cutlass is stuck here in the ground.~
+steel~
+weapon 0 0 ANY
+sword 4 7 slash 0
+25 5 1420 P
+A
+19 1
+A
+18 1
+#8784
+simple broad sword~
+a simple {ws{Wtee{wl{x broadsword~
+A simple, unadorned steel broadsword lays here.~
+steel~
+weapon 0 0 ANY
+sword 4 8 slash 0
+30 7 1000 P
+A
+19 2
+A
+18 2
+#8785
+simple steel war hammer mace~
+a simple {Ws{wtee{Wl{x warhammer~
+A simple, unadorned steel warhammer lay here before you.~
+steel~
+weapon 0 0 ANY
+mace 4 8 crush 0
+30 7 1515 P
+A
+19 2
+A
+18 2
+#8786
+simple steel bastard sword~
+a simple {Ws{wtee{Wl{x bastard sword~
+A simple, unadorned steel bastard sword lies on the ground before you.~
+steel~
+weapon 0 0 ANZ
+sword 6 7 slice F
+40 8 3000 P
+A
+19 2
+A
+18 2
+#8787
+glass rose hued wine~
+a glass of {rrose{x wine~
+A thin glass of a rose hued liquid stands idly here.~
+glass~
+drink S 0 A
+50 50 'rose wine' 0 0
+0 0 5 P
+#8788
+bread rye loaf single~
+a loaf of {yrye{x bread~
+A single loaf of fresh rye bread sits here.~
+unknown~
+food S 0 A
+CFG DGH 0 0 0
+0 0 10 P
+#8789
+ale flagon~
+a flagon of strong ale~
+A tall flagon of liquid froths merrily before you.~
+glass~
+drink S 0 A
+100 100 'ale' 0 0
+0 1 10 P
+#8792
+dripping ball feces~
+a dripping ball of {yfeces{x~
+A rather large ball of gooey feces sits on the ground before you.~
+unknown~
+pill SY 0 A
+30 'plague' 'paralysis' 'poison' 'reserved'
+30 3 0 P
+#8795
+makeshift wooden throne~
+a makeshift wooden throne~
+A makeshift throne made of wood and some cloth sits on the ground here.~
+wood~
+furniture S 0 P
+A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef D 0 0
+0 0 0 P
+#8796
+large wooden club oak mace~
+a large wooden club~
+A huge club, fastened of oak with metal spikes sits before you.~
+oak~
+weapon S 0 ANa
+mace 2 22 pound 0
+40 5 1910 P
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMS
+#8700
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8703
+D1
+~
+~
+0 0 8701
+D3
+~
+~
+0 0 8702
+S
+#8701
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8705
+D3
+~
+~
+0 0 8700
+S
+#8702
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 1 7
+D0
+~
+~
+0 0 8704
+D1
+~
+~
+0 0 8700
+S
+#8703
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8707
+D1
+~
+~
+0 0 8705
+D2
+~
+~
+0 0 8700
+D3
+~
+~
+0 0 8704
+S
+#8704
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8708
+D1
+~
+~
+0 0 8703
+D2
+~
+~
+0 0 8702
+S
+#8705
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8701
+D3
+~
+~
+0 0 8703
+S
+#8706
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D2
+~
+~
+0 0 8705
+D3
+~
+~
+0 0 8707
+S
+#8707
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth and calm and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D1
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8703
+D3
+~
+~
+0 0 8708
+S
+#8708
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8709
+D1
+~
+~
+0 0 8707
+D2
+~
+~
+0 0 8704
+S
+#8709
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D2
+~
+~
+0 0 8708
+D3
+~
+~
+0 0 8710
+S
+#8710
+Bay of Balifor~
+You are traveling on the waters of the Bay of Balifor.  The waters are
+smooth, calm, and have a slight green hue.  You can see a small school of
+fish swimming just below you.  Off in the distance you can see a ship
+sailing toward an un-known destination.  A slight breeze blows from the
+north, leaving a scent of salt in your nose.  
+~
+0 0 7
+D0
+~
+~
+0 0 8711
+D1
+~
+~
+0 0 8709
+S
+#8711
+Long Dock~
+You are standing on a long dock that reaches out into the Bay of Balifor.
+Although it seems very old, the dock is in excellent condition.  The wooden
+boards have been well kept and the pylons regularly cleaned of barnacles. 
+There are many ships docked at the pier.  Some are obviously merchant others
+seem to be war ships belonging to the Knight of Takhisis.  You can hear the
+loud voices of the ship captains yelling to their crew.  A few Merchants
+have set up small stands next to their ships where they sell their wares 
+~
+0 0 1
+D1
+~
+~
+0 0 8712
+D2
+~
+~
+0 0 8710
+S
+#8712
+Long Dock~
+You are standing on a long dock that reaches out into the Bay of Balifor.
+Although it seems very old, the dock is in excellent condition.  The wooden
+boards have been well kept and the pylons regularly cleaned of barnacles. 
+There are many ships docked at the pier.  Some are obviously merchant others
+seem to be war ships belonging to the Knight of Takhisis.  You can hear the
+loud voices of the ship captains yelling to their crew.  A few Merchants
+have set up small stands next to their ships where they sell their wares 
+~
+0 0 1
+D1
+~
+~
+0 0 8713
+D3
+~
+~
+0 0 8711
+S
+#8713
+Long Dock~
+You are standing on a long dock that reaches out into the Bay of Balifor.
+Although it seems very old, the dock is in excellent condition.  The wooden
+boards have been well kept and the pylons regularly cleaned of barnacles. 
+There are many ships docked at the pier.  Some are obviously merchant others
+seem to be war ships belonging to the Knight of Takhisis.  You can hear the
+loud voices of the ship captains yelling to their crew.  A few Merchants
+have set up small stands next to their ships where they sell their wares 
+~
+0 0 1
+D1
+~
+~
+0 0 8714
+D3
+~
+~
+0 0 8712
+S
+#8714
+Long Dock~
+You are standing on a long dock that reaches out into the Bay of Balifor.
+Although it seems very old, the dock is in excellent condition.  The wooden
+boards have been well kept and the pylons regularly cleaned of barnacles. 
+There are many ships docked at the pier.  Some are obviously merchant others
+seem to be war ships belonging to the Knight of Takhisis.  You can hear the
+loud voices of the ship captains yelling to their crew.  A few Merchants
+have set up small stands next to their ships where they sell their wares 
+~
+0 0 1
+D1
+~
+~
+0 0 8720
+D3
+~
+~
+0 0 8713
+S
+#8715
+Grimdel Docks~
+You have reached the end of the Grimdel docks, the wooden planks ending at
+the waters which lead to the bay of Balifor.  As you look out over the water
+you catch glimpses of ships sailing toward the northwest, deeper into the 
+bay.  To look around you reveals nothing more than the busy docks of Grimdel,
+which seem to almost have a life of their own.
+~
+0 0 0
+D0
+~
+~
+0 0 8716
+S
+#8716
+Lower Dock Ave.~
+The rickety road ends toward the south here, revealing sturdy wooden planks
+which hint to the presence of the docks of Grimdel, the watery gateway to
+the merchant city itself. Few shops line the road here, replaced instead by
+the ominous presence of warehouses and squat buildings, used for storage and
+the like. Wooden carts continue their rickety journey by you, servicing to 
+the needs of the merchants and sailors.
+~
+0 0 0
+D0
+~
+~
+0 0 8717
+D2
+~
+~
+0 0 8715
+S
+#8717
+Lower Dock Ave.~
+The road continues from the south and north here, large carts traveling
+in either direction, their wooden wheels cracking along the broken stones
+of the road. The smell of the sea is strong here, as you shift your gaze to
+look over the docks.  Large boats are moored here, anything from a merchants 
+ship to a fishing boat finds haven in the harbor, and it’s quite active at 
+nearly every point in the day, true to the busy city life.
+~
+0 0 0
+D0
+~
+~
+0 0 8718
+D2
+~
+~
+0 0 8716
+S
+#8718
+Lower Dock Ave.~
+You are standing on Lower Dock Ave.  Its red clay roadway meandering off
+to the north, or to the south.  To the south, you see large ships moored to
+the docks, their sails lowered, though they are no less teeming with life as
+sailors run here and there.  The thick smell of salt water assaults your
+nostrils, refreshing you as you look over the blue waters of the Bay of
+Balifor, it is rumored of a large beast which swims deep within, seldom
+seen, but feared nonetheless.  
+~
+0 0 0
+D0
+~
+~
+0 0 8719
+D2
+~
+~
+0 0 8717
+S
+#8719
+Merchant St. and Lower Dock Ave.~
+A slight breeze blows off the Balifor Bay.  Looking south you can see the
+docks of Grimdel.  The smell of salt air lingers in the air.  Large carts
+roll up and down the road south of here, leading to the lower docks of
+Grimdel.  The Merchant Street continues east and west through the center of
+the city.  This area of the street seems to have much less shops then the
+rest.  You notice that larger ships seem to be docked at this portion of the
+harbor then to the southeast piers.  The amount of cargo, being moved from
+the docks, also seems to be much larger.  
+~
+0 0 1
+D1
+~
+~
+0 0 8733
+D2
+~
+~
+0 0 8718
+D3
+~
+~
+0 0 8740
+S
+#8720
+Warf Road~
+You are standing before the docks.  To the west, you can see a long pier
+stretching into the Bay of Balifor.  The hustle and bustle of the port
+surrounds you.  You can see harbormasters talking to ship captains, ship
+mates unloading wears and merchants bartering their goods.  The smell of
+fresh fish and salt water, mixed with spices and herbs, fill your nose.  A
+slight breeze blows off the bay sending a slight chill into the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 8721
+D3
+~
+~
+0 0 8714
+S
+#8721
+Warf Road~
+You are walking down Warf Road, the major throughway of Grimdel. 
+Merchant carts travel up and down this road, between the pier and the
+Marketplace.  A strong smell of fish fills your nose and smoke slightly
+burns your eyes.  A rather large building stands to the north.  Billows of
+smoke pour from four large chimneys on the roof.  A large picture of a fish
+is painted on the front over two large wooden doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 8759
+D1
+~
+~
+0 0 8722
+D3
+~
+~
+0 0 8720
+S
+#8722
+Warf Road~
+As you walk down Warf Road, you are almost run over by the massive amount
+of merchant carts heading toward the Market Place.  As you travel, you notice
+many small children darting in between the carts, and you can hear the
+merchants yelling at them.  As you approach closer to the source of the
+commotion you notice that the children are not children at all, but Kender.
+Out of the corner of your eye, you see a small Kender walking down the path
+stuffing something into one of his pouches, and a man running after yelling
+curses at him and the gods for creating such a race.  
+~
+0 0 0
+D0
+~
+~
+0 0 8723
+D3
+~
+~
+0 0 8721
+S
+#8723
+Warf Road~
+You are walking down a well-worn road that leads from the piers of
+Grimdel to its Marketplace.  Merchants and sailors travel this road day and
+night.  The road is made from packed red clay, imported from Flotsam.  The
+clay has been hardened to form a very solid pavement like street.  This is
+required because of the amount of carts and other wheeled devices that
+travel up and down this busy road.  
+~
+0 0 1
+D1
+~
+~
+0 0 8724
+D2
+~
+~
+0 0 8722
+S
+#8724
+Warf Road~
+You continue to walk down the main throughput of Grimdel.  Since Grimdel
+is a port town, its major income is from importing and exporting.  Merchants
+often pass through Grimdel on their way to Silvanesti, or toward Flotsam. 
+Grimdel is also very close to Kendermore, and because of this, it is often
+populated by numerous Kender.  As you look around you can see little
+topknots bouncing and bobbing through the crowded street.  You can also hear
+angry voices running after them.  
+~
+0 0 1
+D0
+~
+~
+0 0 8725
+D3
+~
+~
+0 0 8723
+S
+#8725
+Warf Road~
+You continue to walk down Warf Road.  Large buildings line the street on
+either side.  Most seem to be large warehouses where merchants store their
+goods.  There seems to be very few residential buildings in this part of the
+town.  As you look around you see that the population of this town is quite
+diverse.  One oddity that you notice is the amount of Kender wandering the
+streets.  This is due to the fact that Grimdel is so close to Kendermore. 
+Strangely enough, you do not notice many elves here.  You might expect to
+see more with Silvanesti just across the bay.  
+~
+0 0 1
+D1
+~
+~
+0 0 8726
+D2
+~
+~
+0 0 8724
+S
+#8726
+Warf Road~
+You are standing on a well-kept street, its pavement made of hardened red
+clay.  Carts and the like travel up and down this road from Grimdel's ports
+toward the Marketplace.  To the east, you can see a huge building, its doors
+wide open.  From what you can see at this distance, it is filled with crates
+and boxes.  While to the south you can make out the masts of ships, which
+are moored along Grimdel's docks.  The smell of sea air intensifies as you
+near the waters of the Bay of Balifor.  
+~
+0 0 1
+D0
+~
+~
+0 0 8727
+D1
+~
+~
+0 0 8783
+D3
+~
+~
+0 0 8725
+S
+#8727
+Warf Road~
+The hard red clay that makes this street, seems to hold up well to the
+amount of travel it sees.  As you stand and watch the traffic on the road,
+you are amazed by the craftsmanship of this city.  The buildings seem sturdy
+and hardly worn and the street is devoid of cracks and ruts.  It is hard to
+tell the origin of its builders.  It does not have the earmark of dwarves,
+and does not have the detailing of elven work.  
+~
+0 0 1
+D0
+~
+~
+0 0 8728
+D2
+~
+~
+0 0 8726
+S
+#8728
+Merchant St. and Warf Road~
+You are standing at the intersection of Merchant St.  , which leads west
+toward the center of the city and Warf road, which runs from the piers to
+the Marketplace.  As you look west, you notice that the buildings are more
+residential, a sharp difference to the warehouses you see along Warf Road. 
+In the center of the intersection sits a large, well carved fountain, its
+while surface stands out from the red clay road beneath it.  This seems to
+be a center point of town where merchants often find high profits among
+those who merely wish a drink.  
+~
+0 0 1
+D0
+~
+~
+0 0 8750
+D2
+~
+~
+0 0 8727
+D3
+~
+~
+0 0 8729
+S
+#8729
+Merchant St.~
+You are strolling down Merchant St.  Aptly named because of all the
+merchant stands and dealings going on in this portion of the town.  Many
+shops line the road on either side.  The road like all the others is well
+made from the clay of the Blood Sea, imported from Flotsam.  Even under the
+constant wear and tear of the carts that run up and down this road, it still
+stays in like new condition.  Your nose is filled with the smells of herbs
+and foods sold in the various shops here.  
+~
+0 0 1
+D1
+~
+~
+0 0 8728
+D3
+~
+~
+0 0 8730
+S
+#8730
+Merchant St.~
+You are wandering down Merchant Street, a well-traveled road known for
+its shops and wares.  This is where the more stable merchants have set up
+shops; a large contrast from the market place where tents replace
+storefronts and buildings.  You notice many residents and visitors entering
+and leaving the shops.  Once in a while you notice a shopkeeper throw out a
+Kender or two while spouting obscenities that rival most sailors.  
+~
+0 0 1
+D1
+~
+~
+0 0 8729
+D3
+~
+~
+0 0 8731
+S
+#8731
+Merchant St.~
+You are standing on a portion of Merchant St.  Shops line this street on
+both sides.  One particular interesting shop lies to the south.  It is a
+rather small building with a large sign hanging over the door.  Upon closer
+examination the sign seems to picture a Hoopak and a mug of ale.  Loud
+sounds of laughter and singing can be heard from inside, and the smell of
+ale and spirits fill your nose.  As you gave upon the establishment you
+notice a party of drunken Kender stumble from inside the building into the
+the street.
+~
+0 0 1
+D1
+~
+~
+0 0 8730
+D2
+~
+~
+0 0 8739
+D3
+~
+~
+0 0 8732
+S
+#8732
+Merchant St.~
+You are traveling through the merchant district of Grimdel.  Shops and
+stores line the street on either side.  The hard red clay stands strong
+against your footfalls and the smell of fresh fruit fills your senses.  As
+you walk a shopkeeper holds out a large apple and asks passing people to
+sample his wares.  You also notice a silver smith chasing a group of Kender
+from his store with a broom, yelling obscenities.  
+~
+0 0 1
+D1
+~
+~
+0 0 8731
+D3
+~
+~
+0 0 8733
+S
+#8733
+Merchant St. and Barter Way~
+You are standing at a crossroads.  To the north Barter Road leads into
+another portion of the merchant district, while Merchant Street leads east
+and west through the center of the city.  As you peer northward down Barter
+Road you notice that it is a less well-kept area then Merchant Street. 
+Though it still has the unique red clay road, its buildings are much smaller
+and not as well built.  
+~
+0 0 1
+D0
+~
+~
+0 0 8734
+D1
+~
+~
+0 0 8732
+D3
+~
+~
+0 0 8719
+S
+#8734
+Barter Way~
+As you wander along Barter Way, you cannot help but notice that it is not
+quite as well built, nor as fine as the rest of Grimdel.  The buildings are
+rather squat, and the exquisite craftsmanship so often associated with the
+rest of Grimdel, cannot be seen here.  The road runs southward to the
+crossroad or north, further along Barter Way.  
+~
+0 0 0
+D0
+~
+~
+0 0 8735
+D2
+~
+~
+0 0 8733
+S
+#8735
+Barter Way~
+Barters road continues to the north and south, however a small walk leads
+west from the red clay road, into a small shop, no better built than the
+rest of the area.  However, the door stands open, inviting you in to take a
+look at what might be sold within.  To the north, you can see the eventual
+end of Barter Way, while a distance to the south, a crossroads.  
+~
+0 0 0
+D0
+~
+~
+0 0 8736
+D2
+~
+~
+0 0 8734
+D3
+~
+~
+0 0 8738
+S
+#8736
+Barter Way~
+Barter way continues to work its way north and south, the red clay road
+cutting its path through the squat buildings and warehouses.  To the south
+you see a sign to a small shop, while to the north the road appears to come
+to an end.  As you take a deep breath, you also notice the pleasant smells
+of herbs, fine foods, and the other wonderful smells associated with the
+passing caravans don’t reach here.  It seems almost deserted at times,
+drawing no attention when compared to the street to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 8737
+D2
+~
+~
+0 0 8735
+S
+#8737
+Barter Way~
+The road of Barter Way comes to an end here, as you peer around yourself,
+you see that it ends the same way it started, the poorly made buildings
+surround you still, obscuring the road any further to the north.  Back to
+the south, Barter Way continues for a ways, then meets with Merchant St.
+~
+0 0 0
+D2
+~
+~
+0 0 8736
+S
+#8738
+Fleeral's Stuff~
+You stand in the shop know as Fleerals' Stuff, run by a most curious
+looking kender.  Along the walls are a number of oddities, from old
+instruments, to children’s toys, to the occasional weapon stuffed into one
+of the wooden openings.  To the east, a road leads back out into the street.
+~
+0 0 0
+D1
+~
+~
+0 0 8735
+S
+#8739
+Happy Hoopak~
+As you enter this establishment, you are instantly over come by the odor
+of ale and other spirits.  The air is so thick with the stench that it makes
+your eyes water.  After a moment you gain your senses and take in the sight
+before you.  The building is rather small for a tavern, but after looking at
+the barkeep and majority of its patrons you realize it's a perfect size. 
+The majority of people in this tavern seem to be Kender.  You look around
+and see table after table of kender.  There are a few non-Kender in the
+tavern, enough to count on one hand.  A small wooden bar lines the east wall
+where the barkeep, Sithel Fumblelock, serves his patrons.  
+~
+0 8 0
+D0
+~
+~
+0 0 8731
+S
+#8740
+Merchant St.~
+You walk further down Merchant Street.  This road runes east west through
+the center of the city, which is also considered the merchant district. 
+Many shops line this road and visitors to the city often visit this area to
+purchase new wares that have been imported from all over Ansalon.  Once in a
+while you see a Kender or two scurrying around peering into shop windows,
+and shopkeepers quickly counting their wares.  
+~
+0 0 1
+D1
+~
+~
+0 0 8719
+D3
+~
+~
+0 0 8741
+S
+#8741
+Merchant St.~
+You continue to walk along the Merchant Street, a well-traveled road that
+stretches across the city.  Buildings line both sides of the street; most of
+them storefronts where merchants sell their wares.  There does not seem to
+be many residential structures in this part of the city.  The road is made
+from red clay that has been hardened to hold up to the wear and tear it
+endures day in and day out.  
+~
+0 0 1
+D1
+~
+~
+0 0 8740
+D3
+~
+~
+0 0 8742
+S
+#8742
+Merchant St.~
+You are standing on a portion of Merchant Street, a well-traveled street
+where merchants set up shop.  The street is made from hardened red clay,
+which has held up well under the weight of the wagons, and carts that move
+up and down the street.  To the north, you see a small shop with its door
+propped open.  Inside you see a small chubby man tending his shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 8744
+D1
+~
+~
+0 0 8741
+D3
+~
+~
+0 0 8743
+S
+#8743
+Merchant St.~
+You have come to a bend in the road.  At this point Merchant Street makes
+an abrupt ninety-degree turn and runs north and east.  The street is aptly
+named, because it is lined on both sides by stores.  Visitors and residents
+fill the street heading to their favorite shop.  Stopping to listen, you can
+here merchants haggling with patrons for their wares.  
+~
+0 0 1
+D0
+~
+~
+0 0 8745
+D1
+~
+~
+0 0 8742
+S
+#8744
+Torgak's Goods~
+You step into the shop, glancing around at the wares hanging from the
+walls.  The wooden floors creak as you move across them toward the shelves,
+upon which rest any number of goods, stacked orderly on the rows of wooden
+display cases.  This is Torgak's Goods, a shop well known in Grimdel for its
+wares, and even further for his keen bargains.  
+~
+0 0 0
+D2
+~
+~
+0 0 8742
+S
+#8745
+Merchant St.~
+You are walking down the portion of Merchant Street, which runs north and
+south through the merchant district of Grimdel.  All around you the hustle
+and bustle of merchants and patrons seems very distracting.  You look at the
+crowds walking up and down the street and notice many different races from
+across Krynn.  One thing that you notice immediately, to your chagrin, is
+the amount of Kender that seems to be wandering around.  
+~
+0 0 1
+D0
+~
+~
+0 0 8746
+D2
+~
+~
+0 0 8743
+S
+#8746
+Merchant St.~
+The road continues on, to the east you see what appears to be a tavern, its
+doors left open in the summer heat. It appears to be teeming with life, all
+races wander in and out frequently, during all times of the day. Merchant St.
+continues to the north, and the heavy merchant traffic, much to your dislike
+does not appear to grow any thinner as the street wares on.
+~
+0 0 0
+D0
+~
+~
+0 0 8747
+D1
+~
+~
+0 0 8785
+D2
+~
+~
+0 0 8745
+S
+#8747
+Merchant St.~
+Merchant St.  Continues north and south here, though to either side of
+you at the moment, you see little of interest.  People rush by you on the
+streets at top speeds, bumping into you with little regard before they
+continue on their random tasks.  Best watch out for kender!  
+~
+0 0 0
+D0
+~
+~
+0 0 8748
+D2
+~
+~
+0 0 8746
+S
+#8748
+Merchant St.~
+The street stretches both west and south of here, its red clay stones
+seemingly untarnished by time.  As you scan to the west, you see the famed
+Thomar's Arms, the most skilled weaponsmith to be found in Grimdel.  To the
+south, the road passes a tavern then continues its way into the city.  
+~
+0 0 0
+D2
+~
+~
+0 0 8747
+D3
+~
+~
+0 0 8749
+S
+#8749
+Merchant St.~
+Merchant St.  Comes to an end here, its path halting before a squat
+looking shop and forge.  A metallic smell is thick in the air here, as well
+as smoke; billows of it pouring from the doorway.  A painted longsword is
+emblazoned on the sign which hangs outside the door, trademark of Thomar's
+Arms.  The road to the south leads back along Merchant St.  Once again
+entering the busy inner city.  
+~
+0 0 0
+D0
+~
+~
+0 0 8784
+D1
+~
+~
+0 0 8748
+S
+#8750
+Warf Road~
+The hard clay that makes up the road continues toward the north and
+south, surprisingly showing the bare minimum of cracks in its red surface. 
+The large warehouses on either side of the road continue as far as you can
+see, only serving to show you the merchant city was not named so without
+reason.  Several wagons and carts make their slow progression in either way
+along the road, the sound of their rusted wheels fading with the rest of the
+sounds of the city into what can only be called a dull roar.  
+~
+0 0 0
+D0
+~
+~
+0 0 8751
+D1
+~
+~
+0 0 8753
+D2
+~
+~
+0 0 8728
+S
+#8751
+Warf Road~
+The road travels along a north-south path, its red clay unmarred by the
+trials of time and wear.  To the north and south the road continues for a
+ways, though it is difficult to see through the throngs of people.  Children
+run between the carts and people, occasionally bumping into them, their high
+pitched voices offering apologies before they run off into the crowd again. 
+As you look closer, you realize they are actually Kender.  You hug your
+coin purse tightly and continue through the crowds.  
+~
+0 0 0
+D0
+~
+~
+0 0 8752
+D2
+~
+~
+0 0 8750
+S
+#8752
+Warf Road~
+Warf Road takes a sharp turn, either west or south from this point.  To
+the west you can see another quick turn, while toward the south you see the
+red clay street makes its way some distance, flanked on either side by
+massive storehouses and warehouses.  
+~
+0 0 0
+D2
+~
+~
+0 0 8751
+D3
+~
+~
+0 0 8754
+S
+#8753
+The Market~
+You stand within the great marketplace of Grimdel, within which hundreds
+of busy people rush about during the day, trying to make the most of their
+hard earned coin.  Dozens of shouting voices are heard within the labyrinth
+of stalls and shops, all bragging of the quality of there wares, and
+according to what you hear, no finer can be found in all the land of
+Ansalon.  It is here where much of the goods which find the city, trickle
+down to be purchased by the average citizen.  To the west lies Warf Road,
+leading back into the busy city of Grimdel.  
+~
+0 0 0
+D3
+~
+~
+0 0 8750
+S
+#8754
+Warf Road~
+The red clay road beneath your feet is strong, and as you peer down at
+its surface, you can make out few, if any cracks along its surface.  Truly,
+it is an engineering marvel on behalf of its designers.  All around you,
+sounds of voices and animals merge to form one giant clamor, cutting off
+any sound immediately around you.  You can travel either north or south here
+as well, though to the north you can make out a small shrine, set between
+two massive warehouses.  
+~
+0 0 0
+D0
+~
+~
+0 0 8755
+D1
+~
+~
+0 0 8752
+S
+#8755
+Warf Road~
+You are standing on the street known as Warf Road, which spans the ever
+busy storage district of the city of Grimdel.  As you walk along its red
+clay road, your nose is veritably assaulted by any number of smells, fresh
+bread, grains, heavy perfumes, and horse feces; all testaments to the busy
+caravans which traverse the road regularly.  You can see heavily laden merchant
+carts traveling down the road in both directions, hasty to make the next
+sale.  You may continue to the north or to the south along this stretch of
+Warf Road.  To the east, you can see a shrine to the god Reorx, set between
+two large warehouses.  
+~
+0 0 0
+D0
+~
+~
+0 0 8757
+D1
+~
+~
+0 0 8756
+D2
+~
+~
+0 0 8754
+S
+#8756
+At the Altar of the Forge~
+The shrine you have wandered into is one dedicated to the mighty god of
+the Forge, Reorx.  The entire shrine about you seems to have been forged
+from precious metals, as platinum lined stone pillars and golden lined tiles
+cover the floor.  At the far wall of the shrine sits a simple unadorned
+slate grey altar, its surface barren.  Numerous dwarves come to pay homage
+to Reorx and offer their prayers.  Residing in the center of this shrine,
+sits a simple square stone made from marble, with words etched onto the
+center of it.  
+~
+0 8389632 44
+E
+stone~
+Although not standing out with elaborate detail, rather a simple square
+stone carved from marble, it is a symbol of devotion to the great Reorx.  A
+reminder that all things created from stone, have a beggining state of form.
+The stone is a simple square, standing approximately ten feet high, four
+feet wide and about a foot thick.  It has been polished however, to at least
+give it some kind of life, and the edges have all been rounded and smoothed.
+It is made up of pure marble, with swirling colors of grey, white and black.
+Directly in the center of the stone, some writing has been etched in.  It
+reads - 
+{x
+'For those who require my assistance, call for me with these words, and thou shall
+{x recieve'
+{x
+{x                     By Reorx's Hammer, I shall never give up!
+~
+E
+square~
+Although not standing out with elaborate detail, rather a simple square
+stone carved from marble, it is a symbol of devotion to the great Reorx.  A
+reminder that all things created from stone, have a beggining state of form.
+The stone is a simple square, standing approximately ten feet high, four
+feet wide and about a foot thick.  It has been polished however, to at least
+give it some kind of life, and the edges have all been rounded and smoothed.
+It is made up of pure marble, with swirling colors of grey, white and black.
+Directly in the center of the stone, some writing has been etched in.  It
+reads - 
+{x
+'For those who require my assistance, call for me with these words, and thou shall
+{x recieve'
+ 
+{x                     By Reorx's Hammer, I shall never give up!
+~
+D3
+~
+~
+0 0 8755
+S
+#8757
+Warf Road~
+You continue to travel along the stretch of red clay street, known as
+Warf Road.  This road leads to the docks in the south, as well as the 
+valuable warehouses and storage which the multiple visiting merchants
+seem to make constant use of.  People crowd the streets, and you seem
+to notice an especially large number of kender among them.
+
+~
+0 0 0
+D2
+~
+~
+0 0 8755
+D3
+~
+~
+0 0 8758
+S
+#8758
+Warf Road~
+The Warf Road begins just within the north gate to the city of Grimdel,
+and progresses south deeper into the port settlement, wandering its way
+toward the docks.  The road is made of thickly packed red clay, which has
+surprisingly stood the test of time and use, and appears to be in excellent
+condition, all things considered.  Warf Road veers to the east here, then
+continues its way south into Grimdel.  
+~
+0 0 0
+D0
+~
+~
+0 0 8760
+D1
+~
+~
+0 0 8757
+S
+#8759
+Fish Smoke House~
+As you enter the room, you notice a salty fragrance in the air.  Fish
+hang from hooks on the walls, filling up any room that might have been left
+aside for decoration.  There is a small table in the center of the room,
+with a few chairs placed next to it.  The windows are closed, shutting the
+smell in.  The counter restricts access to the back of the store, with the
+shopkeeper standing behind it.  To the south, you see Ward Road stretch on
+into the distance.  
+~
+0 8 0
+D2
+~
+~
+0 0 8721
+S
+#8760
+Entrance to Grimdel~
+You stand at the northernmost gate of the merchant city of Grimdel, the 
+port city in which an aspiring tradesman may make or break himself at
+the game of trade.  The sprawling settlement is seen to the south of you,
+and even now you see the tops of foreboding warehouses looming up from
+between other buildings.  Heavy throngs of people can be seen down the 
+road, hinting at a busy city life.
+~
+0 0 0
+D0
+~
+iron~
+0 0 8761
+D2
+~
+~
+0 0 8758
+S
+#8761
+Verdant Plain~
+You stand on the vast expanse of plains known as the Verdant plain, its
+flat terrain seems to dominate the area around you.  Directly to the south
+lies the merchant city of Grimdel, which borders on the Bay of Balifor.  The
+city is home to any number of races, and is terribly busy at all times of
+the year.  
+~
+0 4 2
+D1
+~
+~
+0 0 8762
+D2
+~
+~
+0 0 8760
+S
+#8762
+Verdant Plain~
+The expanse of grasslands continues to fill your vision in all directions,
+although to the southwest you can see the massive port city of Grimdel, a
+merchant town, in which wares of all sorts may be purchased and sold.  To
+the east lies more grassland of the Verdant Plain.
+~
+0 0 0
+D1
+~
+~
+0 0 8763
+D3
+~
+~
+0 0 8761
+S
+#8763
+Verdant Plain~
+The grass here reaches about knee high, hiding any of the soil beneath
+it.  The broad expanse of plain and grassland is broken only by the seldom
+dip of a small hillock or grove, though no tree's are visible from where you
+stand.  To the southwest, you see a walled city, bordering on the Bay of 
+Balifor.
+~
+0 0 0
+D0
+~
+~
+0 0 8765
+D1
+~
+~
+0 0 8764
+D3
+~
+~
+0 0 8762
+S
+#8764
+Verdant Plain~
+The plain here is dotted with trees.  To your east is the great expanse
+of the Kenderwood.  The ancient trees within are dreadfully tall, their
+thick green canopy stretching relentlessly toward the sky.  To the west
+however, all you can see is grasslands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8766
+D1
+~
+~
+0 0 8768
+D3
+~
+~
+0 0 8763
+S
+#8765
+Verdant Plain~
+You trek up a gently rolling hillock, careful not to lose your bearings
+in the tall, unremarkable grass.  To the east, you can make out a thick
+tree line, marking the beginning of the Kenderwood.  While to the south
+and west, if you strain your eyes, you can see a city.  Other than that,
+the grassland continues its sprawling domination of the area.
+~
+0 0 2
+D0
+~
+~
+0 0 8777
+D1
+~
+~
+0 0 8766
+D2
+~
+~
+0 0 8763
+S
+#8766
+Verdant Plain~
+The Verdant plain sprawls for a great distance to the west and south of
+you, while to your east, the dark woods of Kendermore present quite the
+stark contrast.  A small game trail leads you into the wood should you
+travel east, while west will yield the gently rolling Verdant Plain.  
+~
+0 0 2
+D1
+~
+~
+0 0 8767
+D2
+~
+~
+0 0 8764
+D3
+~
+~
+0 0 8765
+S
+#8767
+Beast's Run~
+Beast's run continues to cut a jagged trail through the forest, making
+its way between the thick oak and cedar trees which sprout at random from
+the ground all around you.  The undergrowth makes it difficult to walk, as
+it tugs and scratches at your legs.  The trail continues to the east,
+further into the forest, and to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 8769
+D2
+~
+~
+0 0 8768
+S
+#8768
+Beast's Run~
+The density of the forest seems to break here, the trees gradually
+spreading out to reveal the vast expanse of the Verdant Plain to the west
+of you.  The trail continues along the lighter forest to the south as well. 
+Where the sun manages to penetrate the canopy, you feel its extreme warmth
+bear down on you, somewhat reassuring compared to the shaded parts of the
+Beast's Run.  
+~
+0 0 3
+D0
+~
+~
+0 0 8767
+D2
+~
+~
+0 0 8770
+D3
+~
+~
+0 0 8764
+S
+#8769
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 3
+D0
+~
+~
+0 0 14999
+D1
+~
+~
+0 0 14998
+D3
+~
+~
+0 0 8767
+S
+#8770
+Beast's Run~
+The forest seems a bit less dense around you; the trees given a wider
+berth to grow, and the undergrowth no longer tugs at your boots and legs. 
+To the north, the wood continues to lessen, while to the east, it gets
+darker once more, as with the south.  You take a deep breath, taking in the
+scent of the wood, the smell of oak and cedar fill your nose, as you exhale
+a fresh breath.  The snap of a twig draws your attention, but as you turn,
+you see nothing but more tree's.  
+~
+0 0 3
+D0
+~
+~
+0 0 8768
+D1
+~
+~
+0 0 8771
+D2
+~
+~
+0 0 8773
+S
+#8771
+Beast's Run~
+You hear a cry of some unknown animal as you continue to wander through
+the woods.  You shudder, repressing the urge to explore a bit and move to
+continue on your path.  To the west, the woods appear to grow a little less
+dense, and you can barely make out a grassland beyond.  To the east however,
+lie only more trees.
+~
+0 0 3
+D2
+~
+~
+0 0 8772
+D3
+~
+~
+0 0 8770
+S
+#8772
+Beast's Run~
+The Beast's run branches off in several directions from here, to the east
+and north you can see nothing but tree after dark menacing tree.  However,
+to the west, you see the forest grow sparse, and a bit of light manages to
+penetrate the thick canopy above.  
+~
+0 0 3
+D0
+~
+~
+0 0 8771
+D1
+~
+~
+0 0 8774
+D2
+~
+~
+0 0 8775
+D3
+~
+~
+0 0 8773
+S
+#8773
+Beast's Run~
+The wood of Kendermore surrounds you, permitting you only a small trail
+to the east and north, known as the Beast's Run.  The growth along the
+forest floor here is thick, and it tugs at your feet, making movement slow
+and tedious.  Above you, birds sing loudly in the trees, hinting at some
+life in the thick wood.  
+~
+0 0 3
+D0
+~
+~
+0 0 8770
+D1
+~
+~
+0 0 8772
+S
+#8774
+Beast's Run~
+The trail continues its sprawling advance through the woods of
+Kendermore, leading you onward, and offering little choice as to the path
+you take.  You hear, from within the wood, the sounds of birds and animals,
+though you see none.  It seems to hint at the teeming forest life within.  
+~
+0 0 3
+D2
+~
+~
+0 0 8776
+D3
+~
+~
+0 0 8772
+S
+#8775
+Beast's Run~
+You continue your walk along Beast's Run; the foliage is very thick here,
+limiting your movement to the trail, and occasionally allowing a choice at
+the fork in the trail.  It turns sharply north and east here, bending around
+a very large oak tree.  The smell of the plant life is strong here, and as
+you inhale, the refreshing scent energizes you, urging you to continue your
+exploration along the path.  Ah, perhaps this place is not so foreboding as
+you once thought.  
+~
+0 0 3
+D0
+~
+~
+0 0 8772
+D1
+~
+~
+0 0 8776
+S
+#8776
+Beast's Run~
+The trail veers sharply north or west here, forcing you to travel either
+way.  Regardless of which way you decide to travel, you see only trees,
+mostly obscuring any view of the sky.  The sounds of birds hidden in the
+thick canopy are easily heard with the silence of the rest of the wood.  As
+you walk along, animal tracks, barely visible beneath the thick undergrowth.
+A patch of undergrowth has been displaced on the ground here, showing a
+downward passage.  
+~
+0 0 3
+D0
+~
+~
+0 0 8774
+D3
+~
+~
+0 0 8775
+D5
+~
+~
+0 0 8786
+S
+#8777
+Verdant Plain~
+The sprawling grassland of the Verdant Plain sprawls out in all directions
+from where you stand.  The grass grows higher the deeper you walk in, dotted
+only by the occasional bent and crooked willow tree that dares poke its head
+above the blades of tall grass.  You thank yourself for being as tall as you
+are, otherwise you would surely be in this place forever.
+~
+0 0 2
+D0
+~
+~
+0 0 8780
+D1
+~
+~
+0 0 8779
+D2
+~
+~
+0 0 8765
+D3
+~
+~
+0 0 8778
+S
+#8778
+Verdant Plain~
+The grass around you is terribly high; you struggle to keep your neck
+above the reaching blades.  To the west, it appears to worsen, cutting of
+any possible travel in that direction, and the same with the south. 
+However, you may travel to the north or east from here, continuing your
+exploration of the massive Plain.  
+~
+0 0 2
+D0
+~
+~
+0 0 8781
+D1
+~
+~
+0 0 8777
+S
+#8779
+Verdant Plain~
+During the day, the Verdant Plain is terribly hot, the fierce sun bearing
+down on the grasslands, the shelter of the taller blades of grass providing
+shelter to little more than your legs from the harsh rays.  During the night
+however, it cools down, nearly pleasant.  The large grassland branches out 
+from here, allowing passage everywhere but to the east, where a thick line
+of tree's blocks any further travel, the trees are those of the Kendermore
+wood.
+~
+0 0 2
+D0
+~
+~
+0 0 8782
+D3
+~
+~
+0 0 8777
+S
+#8780
+Verdant Plain~
+The Verdant Plain is visible in all directions, though to the north the 
+grass is so tall it blocks any further trekking in that direction.  The 
+grass around where you stand is surprisingly short, compared to the tall
+grasses you see toward the west and south.  To the east, a tree line is
+visible
+~
+0 0 2
+D1
+~
+~
+0 0 8782
+D2
+~
+~
+0 0 8777
+D3
+~
+~
+0 0 8781
+S
+#8781
+Verdant Plain before the South-Western Gate of Flotsam~
+The Verdant Plain is all that can be seen, although to the east, you can
+make out a thick tree line, presenting a stark contrast to the grasslands
+which you currently wander.  To the west, the grass grows thick, preventing
+any further travel in that direction.  The grasslands continue to trek to
+the east and south.  To the North, the southwestern gate of Flotsam can be
+seen, with guards patrolling the area.  
+~
+0 0 2
+D0
+~
+~
+0 0 14416
+D1
+~
+~
+0 0 8780
+D2
+~
+~
+0 0 8778
+S
+#8782
+Verdant Plain~
+To your direct east, the tree line blocks any further travel, its thick
+oaks forming a veritable barrier, although the Beast's Run is said to
+lead from the thick wood, somewhere along the tree line. To the west and
+south, you see only more trees.
+~
+0 0 2
+D2
+~
+~
+0 0 8779
+D3
+~
+~
+0 0 8780
+S
+#8783
+Warehouse~
+The warehouse you stand in is massive, its space somewhat ungraciously
+filled with boxes and crates, stacked haphazardly along the walls and
+filling the vast space.  You skim the crates with your eyes, most containing
+staple food products, grains and such, though some seem to be put under
+lock and key, quite literally in fact.  The doors have been left open for
+those who need quick and easy access to the now limited storeroom found
+within.  A door to the west leads back out onto Warf Road.  
+~
+0 0 0
+D3
+~
+~
+0 0 8726
+S
+#8784
+Thomar's Arms~
+Welcome to Thomar's Arms, the finest weapons shop to be found in the 
+vast merchant city of Grimdel.  The walls are covered from top to bottom
+with finely crafted weaponry.  The shopkeeper appears to make a decent living
+working here, for the shop is kept well, and the forge and hearth that sits
+in the corner is polished and new looking, the fire blazing happily within.
+The shopkeeper nods to you, motioning his arm toward his wares with a gruff,
+if not friendly smile.
+~
+0 0 0
+D2
+~
+~
+0 0 8749
+S
+#8785
+The Red Minotaur~
+A large fire burns merrily in the corner of the tavern, tended by a lone
+man, covered from head to toe in soot.  Races of all kinds can be found
+here, from the tallest minotaur to the smallest kender and it cannot be
+said they always get along.  The boisterous noise, light, and fights often
+carry out onto the street, which tends to cause the guard some trouble, but
+the business brought in is great, and often a merchant may find fine ale
+and lady on a visit.  A large sign hangs over the door, bearing the words,
+"The Red Minotaur".  
+~
+0 0 0
+D3
+~
+~
+0 0 8746
+S
+#8786
+A Sloping Passage~
+Above you, you can make out some light between the clustered branches
+which cover the entrance to this passage, while below, you can make out
+nothing.  The smell, however, is quite clear, and consists of rotting flesh,
+and feces.  You can also make out some grunts and grumbles from below.  The
+walls are made of packed dirt, with the occasional root sprouting forth from
+the sides.  
+~
+0 4 0
+D4
+~
+~
+0 0 8776
+D5
+~
+~
+0 0 8787
+S
+#8787
+The Bottom of a Sloping Passage~
+The ground here is broken and rocky; it slowly begins to slope upwards
+toward a sloping passage.  To the east, the cave remains dark, all that you
+can see is a few scattered bones, both human and not, strewn about the
+ground.  The occasional grunt or growl can also be heard toward the east,
+but other than that it, it is dead silent.  
+~
+0 0 0
+D1
+~
+~
+0 0 8788
+D4
+~
+~
+0 0 8786
+S
+#8788
+A Rocky Passage~
+You are walking along a rocky passage, strewn with both hunks of stone,
+and shards of bone.  To the west, you can see the path slopes upward, while
+to the west, the passage opens into a cavern.  The smell here is nearly
+unbearable, it smells of rotting human flesh, and other less desirable
+substances.  
+~
+0 0 0
+D1
+~
+~
+0 0 8789
+D3
+~
+~
+0 0 8787
+S
+#8789
+A Small Cavern~
+The corridor opens into a small cavern here.  The rocky floor is strewn
+with bone and even some rudimentary furnishings.  Toward the east, the
+horrid smell which permeates the tunnels grows stronger, while the air to
+the west seems a bit cleaner.  
+~
+0 0 0
+D1
+~
+~
+0 0 8790
+D3
+~
+~
+0 0 8788
+S
+#8790
+A Wide Passage~
+The passage which you walk in is very broad, you imagine you could walk
+three men abreast.  Bones litter the floor in huge piles, some of them still
+with rotting flesh clinging to their surface.  Growls and grunts surround
+you in the darkness, and you struggle to make out any shapes in the inky
+blackness.  
+~
+0 0 0
+D0
+~
+~
+0 0 8791
+D2
+~
+~
+0 0 8793
+D3
+~
+~
+0 0 8789
+S
+#8791
+An Odiferous Tunnel~
+The tunnel you walk in is as odiferous as an unbathed dwarf.  You can
+barely keep yourself from being sick as you trudge along the passage.  No
+longer do bones litter the ground, but rather piles of unidentified
+substances.  To the north, the smell grows worse, while to the south, you
+can make out a branch in the tunnel.  
+~
+0 4 0
+D0
+~
+~
+0 0 8792
+D2
+~
+~
+0 0 8790
+S
+#8792
+A Waste Pit~
+This room is centered by a massive waste pit; it is filled to the brim
+with ill-looking substances, wastes, and garbage.  Occasionally you make out
+movement in the pit, much to your abhorrence.  There is no sound in this
+rather foul cavern, besides the occasional dripping from a pile of offal.  
+~
+0 0 0
+D2
+~
+~
+0 0 8791
+S
+#8793
+A Carved Stone Hall~
+The hall around you is carved of rough-hewn stone, which contrasts
+sharply with the dirt walls which you would expect.  A few torches dot the
+walls, burning brightly and illuminating the otherwise dark hall.  To the
+south, you can make out a grand looking cavern, while to the north, the
+rocky walls stop, replaced by dirt once more.  
+~
+0 4 0
+D0
+~
+~
+0 0 8790
+D2
+~
+~
+0 0 8794
+S
+#8794
+Entrance to a Grand Cavern~
+The walls around you are fashioned of rough stone, which appears to have
+been carved out, though it lacks the sturdy work of dwarven stonemasons.  A
+few tattered tapestries line the walls as well, long since eaten away by
+gnats and other insects however, and they no longer hold much appeal.  To
+the east, the cavern continues, and you can barely make out a rough throne
+sitting in the center, while to the north, a tunnel leads out of the cavern.
+~
+0 0 0
+D0
+~
+~
+0 0 8793
+D1
+~
+~
+0 0 8795
+S
+#8795
+An Improvised Throne Room~
+Pillars form a makeshift hallway, at the end of which rests a makeshift
+throne.  A dirty and worn red carpet lies on the ground here, and a few
+paintings, which no longer resemble anything, are hung crooked on the walls,
+hinting at wishes for grandeur.  The air is somewhat clean here, and you can
+only barely make out the smell of rotting flesh.  
+~
+0 0 0
+D3
+~
+~
+0 0 8794
+S
+#0
+
+
+
+#SPECIALS
+M 8740 spec_rloader
+S
+
+
+
+#RESETS
+M 0 8700 1 8700 1
+M 0 8711 2 8711 2
+E 0 8711 0 20
+M 0 8711 2 8711 2
+E 0 8711 0 20
+M 0 8743 3 8719 1
+M 0 8743 3 8724 1
+O 0 8728 0 8728
+M 0 8751 15 8728 1
+E 0 8760 0 20
+M 0 8751 15 8728 1
+E 0 8760 0 20
+M 0 8751 15 8730 1
+E 0 8760 0 20
+M 0 8751 15 8731 1
+E 0 8760 0 20
+M 0 8751 15 8731 1
+E 0 8760 0 20
+M 0 8751 15 8733 1
+E 0 8760 0 20
+M 0 8751 15 8735 1
+E 0 8760 0 20
+M 0 8751 15 8737 1
+E 0 8760 0 20
+M 0 8738 1 8738 1
+G 0 8738 0
+G 0 8751 0
+G 0 8750 0
+O 0 8739 0 8739
+M 0 8739 1 8739 1
+G 0 8787 0
+G 0 8741 0
+G 0 8742 0
+M 0 8740 1 8740 1
+E 0 8740 0 20
+M 0 8751 15 8741 1
+M 0 8743 3 8743 1
+M 0 8744 1 8744 1
+G 0 8744 0
+G 0 8745 0
+G 0 8746 0
+M 0 8751 15 8748 1
+E 0 8760 0 20
+M 0 8751 15 8751 1
+E 0 8760 0 20
+M 0 8751 15 8751 1
+E 0 8760 0 20
+M 0 8756 1 8756 1
+O 0 8756 0 8756
+M 0 8758 10 8758 1
+M 0 8759 1 8759 1
+G 0 8759 0
+M 0 8760 2 8760 2
+E 0 8760 0 20
+M 0 8760 2 8760 2
+E 0 8760 0 20
+M 0 8760 4 8768 4
+M 0 8770 1 8770 1
+M 0 8776 2 8771 2
+M 0 8776 2 8776 2
+M 0 8781 3 8781 3
+M 0 8784 1 8784 1
+G 0 8785 0
+G 0 8784 0
+G 0 8786 0
+M 0 8785 1 8785 1
+G 0 8788 0
+G 0 8789 0
+M 0 8789 5 8789 5
+M 0 8789 5 8789 5
+M 0 8789 5 8789 5
+M 0 8792 1 8792 1
+G 0 8792 0
+M 0 8789 5 8794 5
+M 0 8789 5 8794 5
+O 0 8795 0 8795
+M 0 8795 1 8795 1
+E 0 8796 0 20
+S
+
+
+
+#SHOPS
+8701 0 19 0 0 0 100 100 0 23
+8738 0 0 0 0 0 100 100 0 23
+8739 0 0 0 0 0 100 100 0 23
+8744 0 0 0 0 0 100 100 0 23
+8759 0 0 0 0 0 100 100 7 19
+8784 0 0 0 0 0 100 100 7 19
+8785 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#8740
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

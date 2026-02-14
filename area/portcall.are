@@ -1,0 +1,5652 @@
+#AREADATA
+Name port o call~
+Builders Reorx~
+Continent Solamnia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 17701 17900
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#17701
+child dirty barefoot~
+a dirty child~
+A dirty, barefoot child walks past you.
+~
+A small child, who is quite thin from lack of eating proper meals, plays
+nearby.  The look on his face shows that life is hard but not impossible to
+live with.  His clothes are dirty, and has no shoes on his mud, caked feet. 
+The only reason that his clothes are in such good repair, is because it
+probably came from one of the missionaries that you have seen wandering the
+area.  
+~
+human~
+AG 0 100 0
+15 15 23d5+137 15d10+85 4d3+10 pound
+2 2 2 5
+0 0 0 0
+stand stand male 150
+HMV ABCDEFGHIJK S unknown 0
+F for A
+#17702
+man cutthroat cut throat~
+a cutthroat~
+A man looking to cut someone's throat stands here licking his dagger.
+~
+A rough looking fellow stands off in the shadows licking his dagger in a
+rather sick way.  To call him disturbed would be true, since he would really
+like to take your coin and then slit your throat for his troubles.  Other
+than the wicked looking dagger in his hand, he is plainly dressed, and only
+wears a leather tunic for protection.  
+~
+human~
+AGS 0 -350 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+0 0 0 0
+stand stand male 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17703
+missionary cleric~
+a missionary~
+A missionary wanders here and there helping the poor.
+~
+A woman wearing a light blue robe, wanders about helping those she meets. 
+The children run up to her and hug her in glee.  She gives them a looking
+over, healing their hurts, and slipping them some sweets before they run
+off.  As she straightens back up, a symbol of Mishakal can be seen hanging
+
+from a chain of gold.  
+~
+human~
+AGQ 0 400 0
+45 45 68d15+410 45d10+85 12d3+20 pound
+-12 -12 -12 -2
+0 0 0 0
+stand stand female 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17704
+courtesan woman~
+a courtesan~
+A woman winks and giggles at every man that walks by.
+~
+A longhaired beauty walks around, looking for a good time.  She wears
+loose clothing and is pleasing to the eye.  She is only armed with a wink, a
+giggle, and of course her good looks.  These are her tools of her trade and
+is rather successful at it.  She stays here because she has her own place,
+and brings home her salary whenever she wants.  
+~
+human~
+AG 0 0 0
+45 45 68d15+410 45d10+85 12d3+20 slap
+-12 -12 -12 -2
+0 0 0 0
+stand stand female 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17705
+spirit captain quicksilver pirate~
+captain quicksilver~
+The spirit of what looks like a pirate hovers here.
+~
+If the spirit that hovers before you is any indication of the man that
+was buried here, then he must of been a terror in his day.  He would of
+stood six and a half feet tall, and must have weighed a good two hundred
+pounds.  From the high knee boots, to all the daggers in his sash, he looks
+to ready for any kind of action.  
+~
+human~
+ABS 0 0 0
+55 55 83d18+1001 55d10+85 15d3+23 pierce
+-16 -16 -16 -5
+0 0 0 0
+stand stand male 550
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17706
+solamnic knight spirit~
+a knight~
+The spirit of a Solamnic Knight stands here.
+~
+One would almost mistake the spirit for an actually living, knight except
+for the fact that you can see right through him.  He still wears the armor
+of his order, a sword at his side, and a shield on his arm.  He seems to
+stand vigil over this area.  The crest on his shield is that of a blue horse
+with a yellow background.  
+~
+human~
+ABT 0 1000 0
+59 59 89d19+1073 59d10+85 16d3+24 pound
+-18 -18 -18 -6
+0 0 0 0
+stand stand male 590
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17707
+spirit dark knight takhis~
+a dark knight~
+The spirit of a Knight of Takhisis stands here.
+~
+One would almost mistake the spirit for an actually living, knight except
+for the fact that you can see right through him.  He still wears the armor
+of his order, a sword at his side, and plate leggings.  He seems to stand
+vigil over the grave that lies here for a dark knight.  His eyes glow red
+with an inner hate at not being given the honor he deserves in the great
+beyond.  
+~
+human~
+ABT 0 -500 0
+57 57 86d19+1037 57d10+85 16d3+24 pound
+-17 -17 -17 -5
+0 0 0 0
+stand stand male 570
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17708
+grave digger man~
+a grave digger~
+A man with a shovel carried over his shoulder and a lantern in his hand is here.
+~
+A middle aged man, wears coveralls and a hat tilted back to allow the
+breeze to cool his sweating forehead.  He has a spade shovel for digging the
+graves of the dearly departed.  His job sometimes takes him late into the
+night, so that is why he always brings a lantern with him.  No matter how
+dry the ground is, the gravedigger always seems bring some of his work home
+with him.  
+~
+human~
+AG 0 0 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+0 0 0 0
+stand stand male 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17709
+zombie creature~
+a zombie~
+A creature of the living dead walks around like a zombie.
+~
+A creature that walks with a limp in its step and usually in a straight
+line, heedless of the obstacles in its path.  As it wanders about the
+graveyard, bits of rotting flesh fall to the ground.  Its clothes are moth
+ridden, and it reeks with the smell of rotting death.  It holds its arm out
+stretched in front of it, as it continues on.  
+~
+human~
+AGO 0 -300 0
+52 52 78d17+474 52d10+85 14d3+22 pound
+-15 -15 -15 -4
+0 0 0 0
+stand stand male 520
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17710
+woman mourner mourning~
+a mourner~
+A woman stands here mourning a loved one.
+~
+An average looking woman stands here crying over the grave of a loved
+one.  She holds some flowers that will soon be placed on a grave.  Her loss
+seems very clear and her by the look in her eyes, she has not slept in quite
+some time.  Her clothes look wrinkled, worn, slept in, and her hair is long
+and tangled.  
+~
+human~
+AG 0 0 0
+50 50 75d16+456 50d10+85 14d3+21 slap
+-14 -14 -14 -4
+0 0 0 0
+stand stand female 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17711
+ghost~
+a ghost~
+A ghost without any actual shape howls at you.
+~
+As the ghost stops to look at you, the faint appearance of a woman can be
+seen.  She looks like she might have been beautiful and it is sad that her
+spirit cannot find rest.  As you stare at her, its appearance changes to
+that of how she must of looked when she died.  Her face is half beaten and
+blood pours forth from the gashes in her skin.  
+~
+kender~
+AGO 0 0 0
+54 54 81d18+492 54d10+85 15d3+23 pierce
+-16 -16 -16 -5
+0 0 0 L
+stand stand female 540
+HMV ABCDEFGHIJK S unknown 0
+F for A
+#17712
+gnome~
+a gnome~
+A gnome squeezes a bag that sends flames in every direction.
+~
+A gnome dressed in an array of colors walks down the street looking for
+trash.  When he spots some, he points, what looks like a bag, at the pile of
+trash and squeezes the bag.  With a whoosh of air, a flame streaks out in
+front of him and in every direction.  The flames stop as the bag empties,
+and the gnome stops squeezing.  The gnome nods and continues on his way, but
+the pile of trash still remains untouched.  
+~
+gnome~
+AGT 0 300 0
+65 65 98d21+1183 65d10+85 18d3+26 pound
+-21 -21 -21 -7
+0 0 C 0
+stand stand male 650
+AHMV ABCDEFGHIJK S unknown 0
+#17713
+city guard~
+city guard~
+A member of the city guard is here watching for trouble.
+~
+Here stands a member of the city guard who is armed and ready for the
+most lethal forms of combat.  From an angry minotaur to a riot in the
+streets, the members of the city guard stand ready to ensure the safety of
+the city.  He glares at each and every person that passes by looking out for
+those who might be troublesome.  
+~
+human~
+AGMT 0 300 0
+75 75 113d25+1365 75d10+85 21d3+30 pound
+-26 -26 -26 -10
+0 0 0 0
+stand stand male 750
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17714
+merchant~
+a merchant~
+A merchant walks along thinking about today's profits.
+~
+A merchant dressed in finery, looks well fed and seems to have made a
+profit this day.  The merchant walks by, sure that the guards with be around
+to keep the area safe.  The merchant continues to go about, openly counting
+the money in his hands.
+~
+human~
+AG 0 0 0
+45 45 68d15+410 45d10+85 12d3+20 pound
+-12 -12 -12 -2
+0 0 0 0
+stand stand male 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17715
+citizen~
+a citizen~
+A citizen walks along going about their own business.
+~
+This citizen is just an average commoner working hard just to make a
+living.  Some would call him a member of the working class, but he is barely
+better off than those who live in the slums.  His clothes are a little worn
+and he could use a shave, but he walks on by with a smile on his face.  
+~
+human~
+AG 0 100 0
+40 40 60d13+365 40d10+85 11d3+18 slap
+-9 -9 -9 -1
+0 0 0 0
+stand stand male 400
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17716
+noble~
+a noble~
+A young noble along with her nose stuck up in the air.
+~
+This noble is just an average commoner working hard at doing nothing for
+herself.  Some would call her a member of the upper class, but she is barely
+better off than those who are middle class.  Her clothes are hardly worn and
+she has the most beautiful hair, but she just walks on by with her nose
+stuck up towards the heavens.  
+~
+human~
+AG 0 0 0
+45 45 68d15+410 45d10+85 12d3+20 slap
+-12 -12 -12 -2
+0 0 0 0
+stand stand female 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17717
+beggar~
+a beggar~
+A beggar asks for money from everyone he encounters.
+~
+A beggar walks along asking for spare change from anyone he meets.  He
+even asks you for a few pieces of gold, but cuts off any other requests as
+his eyes fall upon your weapon.  He stutters as he turns away to beg from
+
+someone a little less threatening.  His robe is a few sizes too big, and the
+ends are in tatters.  
+~
+human~
+AGS 0 0 0
+50 50 75d16+456 50d10+85 14d3+21 pound
+-14 -14 -14 -4
+0 0 0 0
+stand stand male 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17718
+sailor~
+a sailor~
+A sailor walks past you heading for the nearest bar.
+~
+A member of some ship hurries away from his sea bound prison.  He races
+his shipmates to the nearest bar, for the best ale and the prettiest serving
+wenches.  The sailor looks a little thin from not eating many full course
+meals, and a bit sunburned from being in the sun so much.  
+~
+human~
+AGT 0 0 0
+55 55 83d18+1001 55d10+85 15d3+23 pound
+-16 -16 -16 -5
+0 0 0 0
+stand stand male 550
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17719
+minotaur~
+a minotaur~
+A towering, brute of a minotaur bulls his way through the crowded streets.
+~
+A reddish brown colored minotaur snorts at the stench of so many lesser
+creatures in one area.  His horns are sharp, and indeed could gore a man in
+a quick thrust or two.  He wears a leather harness that serves for a place
+where he has his battleaxe slung.  
+~
+minotaur~
+AGT 0 -200 0
+60 60 90d20+1093 60d10+85 17d3+25 pound
+-18 -18 -18 -6
+0 0 HI K
+stand stand male 600
+HMV ABCDEFGHIJK L unknown 0
+F for A
+#17720
+noblewoman woman~
+a noblewoman~
+A noblewoman stands here looking around her home.
+~
+This noble is just an average commoner working hard at doing nothing for
+herself.  Some would call her a member of the upper class, but she is barely
+better off than those who are middle class.  Her clothes are hardly worn and
+she has the most beautiful hair, but she just walks on by with her nose
+stuck up towards the heavens.
+~
+human~
+AG 0 100 0
+45 45 68d15+410 45d10+85 12d3+20 slap
+-12 -12 -12 -2
+0 0 0 0
+stand stand female 450
+AHMV ABCDEFGHIJK M unknown 0
+#17721
+wealthy merchant~
+a wealthy merchant~
+A wealthy merchant goes about his home, counting his riches.
+~
+A merchant dressed in finery, looks well fed and seems to have made a
+profit this day.  The merchant walks throughout his home, making sure all
+his accounts are in order.  While he is in the security of his home, he
+continues to move about, openly counting money in one of his coffers. 
+~
+human~
+AG 0 100 0
+55 55 83d18+1001 55d10+85 15d3+23 pound
+-16 -16 -16 -5
+0 0 0 0
+stand stand male 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17722
+nobleman man~
+a nobleman~
+A nobleman lounges in a comfy chair, smoking a pipe.
+~
+This noble is just an average commoner working hard at doing nothing for
+himself.  Some would call him a member of the upper class, but he is barely
+better off than those who are middle class.  His clothes are hardly worn and
+he has a well-trimmed beard, but he just sits in his chair smoking on his
+corn pipe.  
+~
+human~
+AG 0 100 0
+45 45 68d15+410 45d10+85 12d3+20 pound
+-12 -12 -12 -2
+0 0 0 0
+sit sit male 450
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17760
+dwarf merchant~
+a dwarf merchant~
+An angry dwarf merchant argues with a snobby elf.
+~
+A mountain dwarf with dark, black hair and piercing blue eyes stands here
+cursing an elf.  His skin and body are toned, for his bloodlines are pure
+hylar.  He wears a shirt that is made of evergreen and royal blue stripes. 
+His boots are made from the finest leather, and his belt is studded with
+rare gems.  
+~
+hylar~
+AB 0 300 0
+70 75 113d25+1365 75d10+85 21d3+30 pound
+-26 -26 -26 -10
+0 0 0 0
+stand stand male 750
+HMV ABCDEFGHIJK S unknown 0
+F aff J
+F vul IR
+F for A
+#17761
+snobby elf~
+a snobby elf~
+An elf that has a snobby manner about him refuses to pay a dwarf.
+~
+An elf with short, brown hair and dull green eyes turns his nose up into
+the air.  He refuses to pay one gold piece for the actions of a clumsy
+dwarf, and will not stoop to his level of name-calling.  He wears his
+richest outfit, with an air of complete ease.  His coat has gold woven into
+the sleeves, while his shirt and pants were spun from the finest silks from
+across the lands.  
+~
+elf~
+AB 0 300 0
+70 73 110d24+1329 73d10+85 20d3+29 slap
+-25 -25 -25 -9
+0 0 0 0
+stand stand male 750
+HMV ABCDEFGHIJK M unknown 0
+F aff J
+F res B
+F vul Z
+F for A
+#17762
+man bookie~
+a bookie~
+A man in the back claiming to be a bookie, starts accepting wagers.
+~
+A man with an eye always looking to make a quick amount of money, raises
+his voice to be heard.  As those around him place their wagers, his eyes
+twinkle with delight.  His cloths are need of repair, and his overcoat has
+seen better days.  With his hat tilted to one side, he waits for the fight
+that is sure to take place.  
+~
+human~
+AB 0 0 0
+70 70 105d23+1275 70d10+85 20d3+28 pound
+-23 -23 -23 -8
+0 0 0 0
+stand stand male 700
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17784
+captain ferrel~
+Captain Ferrel~
+Moderately rough looking, the Captain of the ship stands here.
+~
+This old human has a rough appearance.  His beard is white and moderately
+filthy.  He wears an eye patch over his left eye, his right eye heavily
+bloodshot.  His only purpose here is to take passengers safely across the
+New Sea between Solamnia and Abanasinia.  He doesn't appear to be very
+friendly, perhaps it would be best not to talk to him and just keep to
+yourself.  
+~
+human~
+AB 0 0 0
+150 150 225d50+4096 150d10+85 42d3+55 beating
+-61 -61 -61 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#17791
+tilrona bank teller~
+Tilrona the bank teller~
+Tilrona the bank teller stands here counting stacks of gold coins.
+~
+A young female gnome stands behind a counter counting stacks of gold
+coins.  She has a piece of graphite stuck behind her left ear, as she makes
+a quick note in her ledger.  She glances at you and gives you a wink when
+she is finished.  
+~
+gnome~
+ABde 0 0 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand female 1200
+HMV ABCDEFGHIJK S unknown 0
+F res C
+F for A
+#17792
+banker oswaler~
+Oswaler the banker~
+Oswaler the banker sits while making notes in his ledger.
+~
+A misery of a man who enjoys people putting money into his bank.  Such
+trust is almost unheard of in this day in time.  The banker smiles to
+himself as he reviews a list of recently deceased customers and even more so
+at the state of their accounts.  
+~
+human~
+ABe 0 0 0
+120 120 180d40+3277 120d10+85 34d3+45 pound
+-47 -47 -47 -22
+0 ABCD 0 0
+sit sit male 1200
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17842
+barkeep dwarf dwarven~
+a barkeeper~
+A dwarven barkeeper stands here eyeing his customers.
+~
+The barkeeper wipes a glass to a crystal clear appearance as he eyes his
+patrons.  He allows strangers to see his grumpy exterior and only gives
+those he knows a friendly nod.  He wears a light green shirt, a pair of raw
+hide pants and a pair of sturdy, iron shod boots.  
+~
+dwarf~
+AB J 0 0
+130 130 195d43+3550 130d10+85 37d3+48 pound
+-52 -52 -52 -25
+0 ABCD LQ R
+stand stand male 1300
+AHMV ABCDEFGHIJK S unknown 0
+#17843
+minotaur cleric~
+a minotaur cleric~
+A minotaur cleric stands here, ready to aid the worthy.
+~
+A large, black-furred minotaur in red robes stands here waiting
+impatiently.  For the right amount of steel, he will call upon his god to
+provide healing.  This steel is used for temple upkeep and training
+facilities.  
+~
+minotaur~
+ABa 0 500 0
+120 120 180d40+3277 120d10+85 34d3+45 pound
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand male 1200
+AHMV ABCDEFGHIJK L unknown 0
+F res HI
+F vul K
+#17844
+mareen shopkeeper~
+Mareen the shopkeeper~
+Mareen stands here sorting through her stock of herbs.
+~
+A young human woman dressed in a cotton gown sorts and organizes her
+herbs.  She grinds some into a fine powder before put in a vial, while
+others she hangs to allow them to dry.  She then turns to a brazier that
+sits on a table heating a foul smelling brew that bubbles from time to time.
+~
+human~
+AB 0 0 0
+120 120 180d40+3277 120d10+85 34d3+45 slap
+-47 -47 -47 -22
+0 ABCD 0 0
+stand stand female 1200
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17846
+guard captain port woman~
+the Port Captain~
+The Captain of the Port Guard lounges here in a chair.
+~
+This young woman is the commander of the Port Guard.  Her dark, curly
+hair is trimmed short, and her features are vaguely Ergothian.  Her dusky
+skin is well toned and hints at a seafaring past.  Having retired from the
+pirate life, she now oversees the local militia; offering "protection"
+services to anyone willing to "contribute" to the guardsmen's coffers.  
+~
+human~
+AGT O -400 0
+100 130 195d43+3550 130d10+85 37d3+48 slash
+-52 -52 -52 -25
+DEHK AB G 0
+sit sit female 1300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17896
+civil service judge~
+a civil service judge~
+A judge who hears civil cases for the city.
+~
+A young man sits in a leather chair and twirls a gavel in the air.  He
+wears long black robes, and a wig of white curly hair.  His chair is placed
+on a high dais so that his presence can be the focus of everyone's
+attention.  Since most of the cases are the same, the judge is known to
+pound his gavel to wake up people who have fallen asleep in his court.  
+~
+human~
+AB 0 600 0
+80 80 120d26+1457 80d10+85 22d3+31 pound
+-28 -28 -28 -12
+0 0 0 0
+stand stand male 800
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#17897
+secretary woman~
+a secretary~
+The mayor's secretary stands looking at a letter.
+~
+A woman of the beauty of an elven maiden and the build of a human stands
+here.  She is a half-elf and she is very proud of it.  She openly allows
+her pointed ears to show.  Her hair, auburn in color, is pulled back and
+braided.  She wears a tight fitting pair of pants and a buckskin shirt that
+does little to hide her figure.  
+~
+half-elf~
+AB J 300 0
+50 50 75d16+456 50d10+85 14d3+21 slap
+-14 -14 -14 -4
+0 0 B 0
+stand stand female 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+M GREET 17897 80~
+#17898
+judge~
+a judge~
+A judge wearing black robes and waving a gavel sits here.
+~
+A middle aged man, sits in a leather chair and waves a gavel in the air. 
+He wears long black robes, and a wig of white curly hair.  His chair is
+placed on a high dais so that his presence can be the focus of everyone’s
+attention.  When the gathered crowd gets too loud, the judge stands and
+pounds his gavel until peace is restored.  
+~
+human~
+AB 0 750 0
+95 95 143d31+1729 95d10+85 27d3+36 pound
+-35 -35 -35 -16
+0 0 0 0
+sit sit male 950
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#0
+
+
+
+#OBJECTS
+#17701
+cog sunset expression~
+the sunset expression~
+A cog named the Sunset Expression, sits tied to the dock.~
+wood~
+boat O 0 P
+0 0 0 0 0
+0 0 0 P
+#17702
+fountain~
+a fountain~
+A sculpted fountain stands here.~
+stone~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+E
+sculpted fountain~
+A stallion rears back on its hind legs, with its fore legs kicking in the
+air.  Sitting on its back, is a female warrior, with a golden breastplate
+and a plume hanging of her helmet.  Water sprays into the air from the
+horse's mouth and is collected below in a basin.  
+~
+#17703
+willow tree~
+a willow tree~
+A weeping willow tree stands here with its drooping branches.~
+wood~
+trash O 0 P
+0 0 0 0 0
+0 0 0 P
+#17704
+garden~
+a garden~
+A garden full of lush, vegetables is here.~
+plant~
+container O 0 P
+0 0 0 8 0
+0 0 0 P
+#17705
+tomato~
+a tomato~
+A ripe, red tomato sits here ready to eat.~
+plant~
+food S 0 A
+A 0 0 0 0
+0 1 0 P
+#17706
+carrot~
+a carrot~
+A crunchy, sweet carrot sits here ready to eat.~
+plant~
+food S 0 A
+A 0 0 0 0
+0 1 0 P
+#17707
+cucumber~
+a cucumber~
+A green, juicy cucumber lies here ready to eat.~
+plant~
+food S 0 A
+A 0 0 0 0
+0 1 0 P
+#17708
+lettuce~
+a lettuce~
+A fluffy, green head of lettuce sits here ready to eat.~
+plant~
+food S 0 A
+A 0 0 0 0
+0 1 0 P
+#17709
+wicked dagger~
+a wicked dagger~
+A wicked looking dagger with a double blade lies here.~
+steel~
+weapon 0 0 ANc
+dagger 2 22 pierce 0
+40 3 400 P
+#17710
+stiff leather tunic~
+a stiff leather tunic~
+A tunic made of stiff leather lies here.~
+leather~
+armor S 0 ADY
+BD CD ABD BC A
+45 6 450 P
+#17711
+rune covered staff~
+a rune-covered staff~
+A staff covered in runes lies here.~
+oak~
+weapon AGS 0 ANY
+staff 4 12 pound F
+45 5 450 P
+#17712
+set blue robes~
+a set of {Bblue robes{x~
+A set of light blue robes lies here.~
+cloth~
+armor S 0 ADY
+AD AD AD AC 0
+40 3 400 P
+#17713
+bloody dagger~
+a {rbloody{x dagger~
+A bloody dagger dripping blood lies here.~
+steel~
+weapon 0 0 ANY
+dagger 7 8 pierce 0
+55 3 550 P
+#17714
+scale mail chain suit~
+a suit of scale mail~
+A suit of scale mail armor lie here.~
+steel~
+armor 0 0 ADY
+BCD ACD BCD D B
+55 12 550 P
+#17715
+tailored pants trousers~
+some well-tailored pants~
+A pair of well made trousers lie here.~
+silk~
+armor S 0 AFc
+CD CD CD D 0
+55 0 0 P
+#17716
+sword bastard~
+a bastard sword~
+A bastard sword with a sharp edge lies here.~
+steel~
+weapon IK 0 ANZ
+sword 6 10 cleave D
+59 8 600 P
+#17717
+steel breast plate breastplate~
+a steel breastplate~
+A steel breastplate lies on the ground.~
+steel~
+armor K 0 ADY
+BCD CD AE D C
+59 20 590 P
+#17718
+solamnic shield~
+a Solamnic shield~
+A shield bearing the Solamnic seal lies here.~
+steel~
+armor IK 0 AJZ
+ACD CD ABCD D B
+59 12 590 P
+#17719
+two handed sword~
+a two-handed sword~
+A great, two-handed sword rests on the ground here.~
+steel~
+weapon EJ 0 ANZ
+sword 5 12 cleave F
+57 10 570 P
+#17720
+darkened breast plate~
+a {Ddarkened{x breastplate~
+A darkened breastplate lies here on the ground.~
+iron~
+armor CEJ 0 ADY
+ACD AD AE D C
+57 25 570 P
+#17721
+plate leggings pair~
+a pair of plate leggings~
+A pair of plate leggings lie here on the ground.~
+steel~
+armor EJ 0 AFY
+ACD ABD AE D C
+57 13 570 P
+#17722
+shovel~
+a shovel~
+A long handled shovel lies here.~
+iron~
+weapon 0 0 ANc
+exotic 7 7 pound 0
+50 4 0 P
+#17723
+copper lantern~
+a copper lantern~
+A tarnished, copper lantern sits here.~
+copper~
+light A 0 AO
+0 0 BCEH 0 0
+45 3 450 P
+#17724
+flowers~
+an arrangement of flowers~
+An arrangement of flowers lie here.~
+plant~
+trash S 0 AO
+0 0 0 0 0
+0 1 0 P
+#17725
+bag fire~
+a bag of fire~
+A bag with knobs and pipes lies here.~
+dyed leather~
+weapon BSY 0 ANX
+exotic 8 8 blast FL
+65 7 0 P
+#17726
+spiked mace~
+a spiked mace~
+A long handled mace with a spiked head lies here.~
+iron~
+weapon 0 0 ANY
+mace 4 20 pound 0
+75 7 750 P
+#17727
+spiked shield~
+a spiked shield~
+A heavy-duty spiked shield lies here.~
+iron~
+armor 0 0 AJZ
+E E E CD C
+75 16 750 P
+#17728
+suit chainmail mail~
+a suit of chainmail~
+A suit of heavy, chainmail rests here.~
+steel~
+armor 0 0 ADY
+ABE E BE CD B
+75 16 750 P
+#17729
+pair chain leggings~
+a pair of chain leggings~
+A pair of chain leggings lies here.~
+steel~
+armor 0 0 AFY
+ABE E BE CD B
+75 10 750 P
+#17730
+pair knee high leather boots~
+a pair of leather boots~
+A pair of knee, high leather boots sit here.~
+leather~
+armor S 0 AGY
+ABCD AE E CD 0
+75 2 750 P
+A
+14 50
+#17731
+noble garb~
+a nobles garb~
+A pile of noble garb lies here.~
+silk~
+armor S 0 ADY
+AD AD AD AC 0
+40 3 400 P
+#17732
+battle axe two handed~
+a two-handed battleaxe~
+A great, battleaxe that would take two hands to use it lies here.~
+steel~
+weapon 0 0 ANZ
+axe 10 6 cleave F
+60 14 600 P
+#17733
+leather harness~
+a leather harness~
+A large, leather harness lies here.~
+leather~
+armor S 0 ADZ
+ACD ABCD BCD AD A
+60 4 600 P
+#17734
+cedar bench table~
+a cedar bench~
+A few tables and benches made of cedar are about the room.~
+cedar~
+furniture 0 0 P
+BEF EGIJOP BEHKN 0 0
+1 0 0 P
+#17735
+biscuits gravy~
+some biscuits and gravy~
+A large plate filled with biscuits and gravy rest upon the ground.~
+unknown~
+food 0 0 AO
+CE 0 0 0 0
+1 1 44 P
+#17736
+mug beer~
+a mug of beer~
+A mug of beer is on the ground, foaming away.~
+wood~
+drink U 0 AO
+12 36 'beer' 0 0
+1 0 150 P
+#17737
+bar stool long bar~
+a bar stool~
+A long bar with bar stools stands near the entrance.~
+wood~
+furniture 0 0 P
+BEF EGIJOP EH 0 0
+21 0 0 P
+#17738
+chair corner table~
+a chair behind the corner table~
+A table rests in the corner offering just a few a place to sit.~
+wood~
+furniture 0 0 P
+AB EGIJOP EH 0 0
+21 0 0 P
+#17739
+glass rum~
+a glass of rum~
+A glass of rum is on the ground.~
+glass~
+drink 0 0 AO
+2 6 'rum' 0 0
+21 0 100 P
+#17782
+wooden night stand~
+a wooden night stand~
+A wooden night stand is next to the bed.~
+redwood~
+container O 0 0
+0 0 0 2 0
+0 0 0 P
+#17783
+glass water~
+a glass of water~
+A crystal glass of water sits here.~
+crystal~
+drink S 0 A
+2 1 'water' 0 0
+0 1 2 P
+#17784
+leather bound book~
+a leather bound book~
+A leather bound book sits here.~
+leather~
+trash S 0 A
+0 0 0 0 0
+0 1 10 P
+E
+leather bound book~
+The book is rather old, for the binding is in tatters.  Written on the
+cover of the book are the words, "Legends and Lore of Krynn".  Two swords
+that are crossed is etched into the cover, and at one time was gold plated. 
+Thumbing through the legends, you come across stories of falling castles,
+mythical creatures, and tales about some, long forgotten heroes.  
+~
+#17785
+key boat~
+a key to the docks~
+A large key lies here.~
+iron~
+key OTYZa 0 AO
+0 0 0 0 0
+150 0 0 P
+#17837
+hot chili bowl~
+a bowl of chili~
+A steaming bowl of hot chili sits here.~
+ceramic~
+food S 0 A
+C 0 0 0 0
+0 1 30 P
+#17838
+red wine glass~
+a glass of red wine~
+A dirty glass of red wine sits here.~
+glass~
+drink S 0 A
+2 2 'red wine' 0 0
+0 1 50 P
+#17839
+mug root beer~
+a mug of root beer~
+A mug filled with brownish liquid sits here.~
+wood~
+drink S 0 A
+2 2 'root beer' 0 0
+0 1 25 P
+#17840
+tankard dark ale~
+a tankard of dark ale~
+A tankard filled with dark liquid sits here.~
+tin~
+drink 0 0 A
+2 2 'dark ale' 0 0
+0 1 35 P
+#17841
+stein lemonade~
+a stein of lemonade~
+A pewter stein full of pink liquid sits here.~
+lead~
+drink 0 0 A
+3 3 'lemonade' 0 0
+0 1 30 P
+#17842
+shrimp platter~
+a platter of shrimp~
+A platter full of tasty shrimp sits here.~
+ceramic~
+food 0 0 A
+C 0 0 0 0
+0 1 75 P
+#17843
+blue runed staff~
+a {Bblue-runed{x staff~
+A staff that has blue runes lies on the ground here.~
+ironwood~
+weapon AGSY 0 ANa
+staff 7 10 pound 0
+70 3 700 P
+#17844
+brown herb~
+a brown herb~
+An herb that is brown in color sits here.~
+plant~
+pill S 0 A
+40 'attunement' 'reserved' 'reserved' 'reserved'
+65 1 650 P
+#17845
+potion blue~
+a blue potion~
+A potion, blue in color sits here.~
+glass~
+potion GS 0 A
+40 'enlightenment' 'reserved' 'reserved' 'reserved'
+65 1 650 P
+#17850
+blue dragonscale tunic chain~
+a {BBlue Dragonscale{x tunic~
+A breastplate made from blue scales lies here.~
+dragon skin~
+armor EJSY 0 ADc
+ADE BCE BCDE ABCE B
+100 12 1000 P
+A
+13 20
+A
+1 1
+#17851
+short sword silver~
+a {Csilver{x short sword~
+A short sword made from almost pure silver lies here.~
+silver~
+weapon AJ 0 ANX
+sword 10 10 thrust D
+100 3 1000 P
+A
+18 10
+A
+19 10
+#17854
+statue kiri jolith~
+a statue~
+A statue of a knight mounted on horseback stands here.~
+granite~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+statue kiri jolith~
+Here stands a great statue dedicated to the god Kiri-Jolith, as a Knight
+of Solamnia holding forth a lance and wearing a flowing cape.  The skill of
+the craftsman shows in the expression on the face, and the etchings in the
+armor.  The statue is almost as if an actual knight on the back of his
+steed, were turned to stone of placed here as a memorial to the dead.  
+~
+#17896
+small gavel~
+a small gavel~
+A small, black gavel sits here.~
+walnut~
+weapon S 0 ANX
+mace 5 17 pound 0
+85 4 850 P
+#17898
+wooden gavel~
+a {ywooden{x gavel~
+A rock hard, wooden gavel sits here.~
+ironwood~
+weapon SY 0 ANY
+mace 10 10 pound 0
+100 4 1000 P
+#17900
+key boat~
+a key to the ship~
+A large key lies here.~
+iron~
+key MTYZ 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#17701
+Byson Road~
+You stand before the great gate of the port city.  Guards patrol this road
+constantly keeping an eye out for troublemakers entering the city.  On top
+of the gates another group patrols, archers, each carries a bow with an
+arrow notched ready for use.  The guards search everyone coming into the
+town.  This road is the main entrance road to the port city.  Once the gates
+have been opened, a road continues to the north into the wilderness.  
+~
+0 0 1
+D0
+~
+~
+0 0 4741
+D2
+~
+~
+0 0 17702
+S
+#17702
+Byson Road~
+Just to the north of you, the city gates tower above all the houses around
+here.  Lots of travelers go by heading for the docks with large bags holding
+all their goods that they are taking with them on their journey.  A warm
+breeze blows through the area making a lot of people perspire uncomfortably.
+To the south of you is Byson road. 
+~
+0 0 1
+D0
+~
+~
+0 0 17701
+D2
+~
+~
+0 0 17703
+S
+#17703
+Byson Road~
+To the north of you are the city gates of port o call, to the west is one
+of the busier roads in the city, Byson road.  A small girl sits on the side
+of the road, she looks up at you, gets up and smiles.  She then runs off
+down the street heading west, runs in front of a horse, narrowly missing the
+creature but the horse does not seem to be disturbed by it at all.  
+~
+0 0 1
+D0
+~
+~
+0 0 17702
+D3
+~
+~
+0 0 17704
+S
+#17704
+Byson Road~
+A long road opens up to you leading west.  A small group of children run
+and play in the road unafraid of all the people walking by them.  A mother
+calls her child from her house, wanting him to go inside and wash his hands.
+A small patch of white daisies grows on the one side of the road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17703
+D3
+~
+~
+0 0 17705
+S
+#17705
+Byson Road~
+Large caravans of wagons are rumbling down the street heading toward the
+market.  The caravan master is keeping all the oxen in place with his whip,
+but a small dog runs up behind the ox and starts to bark at it.  This
+startles the oxen into moving at a faster pace down the road.  To the east
+and west is Byson road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17704
+D3
+~
+~
+0 0 17706
+S
+#17706
+Byson Road~
+To the east and west of you is Byson Road.  To the south stands the
+tavern The Last Call, which is a famous stopping place for the weary
+traveler.  A barmaid walks outside the doors to change the day's special
+written on a piece of slate.  With a couple of quick wipes, the new special
+is written in common with a piece of chalk.
+~
+0 0 1
+D1
+~
+~
+0 0 17705
+D2
+~
+~
+0 0 17842
+D3
+~
+~
+0 0 17707
+S
+#17707
+Intersection of Byson Road and Bough Street~
+Directly north of here is a graveyard filled with tombstones, some are
+made of marble for the rich upper-class people but most are either cheap
+stone or wood rotting away in the sun.  To the south of you is Bough street
+which leads down to the docks and the ocean just beyond.  To the east and
+west of you is Byson Road.
+~
+0 0 1
+D0
+~
+~
+0 0 17847
+D1
+~
+~
+0 0 17706
+D2
+~
+~
+0 0 17841
+D3
+~
+~
+0 0 17708
+S
+#17708
+Byson Road~
+A small group people all wearing black and crying, passes you heading
+east.  Leading the group, four men carry a wooden coffin on their
+shoulders.  A few travelers walk away from the procession crossing
+themselves as they walk away.  To the east and west of you is Byson road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17707
+D3
+~
+~
+0 0 17709
+S
+#17709
+Byson Road~
+Just in front of you is a small building with a sign above the door.  The
+sign reads Cemetery.  A middle aged man stands outside the building with a
+saw in his hand making coffins for the recently dead.  He looks at you,
+turns back to his coffin and starts to whistle a death dirge.  
+~
+0 0 1
+D1
+~
+~
+0 0 17708
+D3
+~
+~
+0 0 17710
+S
+#17710
+Byson Road~
+To the south of you are a few houses for the middle class people in the
+town.  A large woman stands outside her house beating a rug that is hung
+over the fence with a stick, she is causing a dust cloud to form over the
+road, as you walk through it, you cannot help but sneeze.  To the east and
+west of you is Byson Road 
+~
+0 0 1
+D1
+~
+~
+0 0 17709
+D3
+~
+~
+0 0 17711
+S
+#17711
+Intersection of Byson Road and Stern Street~
+You stand on the northern end of Stern Street, Far to the south you can
+see the ocean just behind the docks.  To the east and west of you is Byson
+Road.  The citizens of the city go about their lives as usual carrying an
+assortment of goods for their household and stores.  One woman winks at you
+as she passes by carrying a basinet.  
+~
+0 0 1
+D1
+~
+~
+0 0 17710
+D2
+~
+~
+0 0 17749
+D3
+~
+~
+0 0 17712
+S
+#17712
+Byson Road~
+A large minotaur charges past you with his large two-handed battleaxe
+strapped to his back, he is seemingly in a big rush to get somewhere.  All
+the people on the road move out of the way trying not to get into his path. 
+The patrol of city guard stop him, the minotaur pulls out a piece of paper,
+shows it to the captain and walks away before they could do anything more. 
+To the east and west of you lie Byson road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17711
+D3
+~
+~
+0 0 17713
+S
+#17713
+Byson Road~
+The smell of cook fires blow from the south floating through the area,
+mothers are preparing their families meals for the day.  A small girl sits
+on the side of the road, she looks up at you and gets up, and smiles, she
+then runs off down the streets heading east.  No one else on the road seems
+to notice her running down the road.  To the east and west of you lies Byson
+road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17712
+D3
+~
+~
+0 0 17714
+S
+#17714
+Byson Road~
+You stand on Byson road, to either side of you are the middle class
+houses of the area.  They are all neatly kept; a few have children running
+about playing their games.  A patrol of city militia goes by patrolling the
+road and keeping it safe for the citizens of the city, as they pass the
+captain eyes you wearily.  
+~
+0 0 1
+D1
+~
+~
+0 0 17713
+D3
+~
+~
+0 0 17715
+S
+#17715
+Intersection of Byson Road and Waterford Street~
+You stand at an intersection of two roads.  To the south is Waterford
+street it's road leading all the way down to the sea.  To the east and west
+of you is Byson road.  A small house lies just north of you; its neatly kept
+garden is typical for all the houses down this part of the road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17714
+D2
+~
+~
+0 0 17745
+D3
+~
+~
+0 0 17716
+S
+#17716
+Byson Road~
+A large wagon rumbles past you its oxen battling to pull the weight of
+the wagon and the cargo combined, the wagon driver's whip cracks in the air
+trying to motivate the ox to move faster.  A small portion of the canopy
+that covers the wagon is open revealing a large amount of granite statues
+inside.  To the east and west of you is Byson road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17715
+D3
+~
+~
+0 0 17717
+S
+#17717
+Byson Road~
+You stand on a road that leads east and west from you.  A faint chanting
+can be heard coming from the west of here.  A man in crudely woven blue
+robes goes by heading in the direction of the chanting seemingly in a big
+rush to get there.  A breeze blows down the street bringing a smell of
+rotten fish from the docks.  
+~
+0 0 1
+D1
+~
+~
+0 0 17716
+D3
+~
+~
+0 0 17718
+S
+#17718
+Intersection of Byson Road and Vengeance Way~
+The sound of chanting gets louder and louder the closer you get to a
+large building to the north.  The road to the east is busy with people
+coming and going to their homes and businesses.  A bell starts ringing from
+the building to the north.  A cleric in blue robes runs past you heading
+north towards the building.  
+~
+0 0 1
+D0
+~
+~
+0 0 17726
+D1
+~
+~
+0 0 17717
+D3
+~
+~
+0 0 17719
+S
+#17719
+Intersection of Byson road and Heathen way~
+You stand at an intersection of two roads.  To the east and west is Byson
+road, to the south, Heathen way.  Off in the distance to the south over the
+rooftops of the slums you can see the ocean.  A faint sound of chanting can
+be heard riding on the wind that blows through the area coming from the
+east.  
+~
+0 0 1
+D1
+~
+~
+0 0 17718
+D2
+~
+~
+0 0 17725
+D3
+~
+~
+0 0 17720
+S
+#17720
+Byson Road~
+A young cleric in light blue robes passes by you heading east, his head
+downcast looking at his feet.  The west gate can be seen towering over the
+buildings to the north and west of here.  The road continues to the east and
+west of here.  As you strain your ears to listen, you can just hear what
+sounds like chanting drifting from the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 17719
+D3
+~
+~
+0 0 17721
+S
+#17721
+Byson Road~
+You stand on the intersection of Byson Road and Vagabond way.  The roads
+themselves are in stark contrast to each other; Byson road is very well
+kept, and in good condition where Vagabond way is in a shambles.  All along
+Byson road you can see people traveling to and from their destinations with
+ease.  A small group of town militia patrols this road all the time keeping
+the road safe to travel.  
+~
+0 0 1
+D1
+~
+~
+0 0 17720
+D2
+~
+~
+0 0 17808
+D3
+~
+~
+0 0 17722
+S
+#17722
+Estengar street~
+To the north lie the gates of Port O Call, a guard walking the wall above
+the gates watching the road outside the city.  Few houses are situated near
+the entrance of the city.  A small group of city guards walk past the road
+entrance to the east.  The street continues to the north, and Byson road can
+be seen just off to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17723
+D1
+~
+~
+0 0 17721
+S
+#17723
+Estengar Street~
+To the north of you lies an entrance gate for Port o Call.  A traveler
+with a small horse laden with baggage passes you heading for town, he does
+not seem to notice you as he goes by absorbed in his own thought from his
+journey.  To the south you can see that end of Estengar street turns to the
+east to connect to another road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17724
+D2
+~
+~
+0 0 17722
+S
+#17724
+Estengar Street~
+You stand before the gates of Port o Call.  A city guard eye's a traveler
+that walks though the gates wearily.  The gates of this entrance are seldom
+used and are kept locked all the time.  The only time it is opened is when
+there is someone wanting to enter or leave Port o Call.  Another guard
+patrols the wall above the gate keeping an eye out on the road beyond.  To
+the far south, Estengar street ends and to the west the city gates stand.  
+~
+0 0 1
+D2
+~
+~
+0 0 17723
+D3
+The city gates stand before you.
+~
+~
+1 0 17868
+S
+#17725
+Heathen Way~
+This road is crowded with wandering drunks and barbarians.  A group of
+youths kneel off to the side with their concentration on a dice game, where
+the pot is a stack of several steel coins.  The citizens of the city are
+rarely seen walking down this road, unless they are looking to have a rowdy
+time.  
+~
+0 0 1
+D0
+~
+~
+0 0 17719
+D2
+~
+~
+0 0 17838
+S
+#17726
+Vengeance Way~
+You stand on Vengeance Way, a cool wind blows down the street refreshing
+you and bringing the sound of chanting.  The road is well kept with large
+stones clearly marking the way, a woman is hanging her clothes on a piece of
+line strung between two trees to the east.  To the south is Byson road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17727
+D2
+~
+~
+0 0 17718
+S
+#17727
+Vengeance Way~
+To the north an eerie chanting sound rides on the wind all the way down
+the street.  The road is very quiet running in between a few houses on either
+side of the road.  A large bird circles above you then comes to land on a
+mans shoulder walking down the road, he pulls something from his pockets and
+gives it to the bird.  
+~
+0 0 1
+D0
+~
+~
+0 0 17728
+D2
+~
+~
+0 0 17726
+S
+#17728
+Vengeance Way~
+You stand outside the doors of a large building to the east, a
+mesmerizing, never faltering chant can be heard coming from inside the
+building.  A young man in black-trimmed red robes runs through the doors of
+the building and closes the door behind him with a resounding bang.  To the
+south is Byson road.  
+~
+0 0 1
+D1
+A stout, oak door stands before you.
+~
+~
+1 0 17843
+D2
+~
+~
+0 0 17727
+S
+#17729
+Bough Street~
+Walking down the street, you notice an excessive amount of smoke coming
+out from the chimney of a small home to the east.  To the west of you lie
+some of the homes of the residents of Port O Call.  To the Far south you can
+see a large ship coming into port.  To the north of you lies Byson road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17841
+D2
+~
+~
+0 0 17730
+S
+#17730
+Bough Street~
+A small boy runs down the street with a small toy sword in his hands.  He
+is chasing a younger child wearing a crude wooden helmet and a small wooden
+shield.  You smell a faint smell of molten metal in the smoke that is in the
+air.  The road known as Bough street continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17729
+D2
+~
+~
+0 0 17731
+S
+#17731
+Bough Street~
+Warm wind blows through the street bringing with it the smell of rotting
+fish from the docks to the south.  A very large minotaur sailor with a huge
+battle-axe strapped onto his back passes you heading of into the city on
+some business.  The road known as Bough street continues to the north and
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17730
+D2
+~
+~
+0 0 17732
+S
+#17732
+Intersection of Bough street and Atenbury Road~
+You stand at a large intersection of Bough street and Atenbury road.  A
+large patrol of city militia goes past escorting a minotaur to the city
+jail.  The minotaur seems to have put up a very large fight before the
+arrest, two of the militiamen have bandaged arms and one has been slung
+over a horse dead.  All of the men have their hands on their weapons even
+though the minotaur's hands are bound behind his back.  To the north and
+south of you is Bough street, and to the east and west is Atenbury road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17731
+D1
+~
+~
+0 0 17738
+D2
+~
+~
+0 0 17765
+D3
+~
+~
+0 0 17733
+S
+#17733
+Atenbury Road~
+These homes with brick walls and a tin roof, have the look of being newly
+built.  They have storm shutters painted green in color the compliments the
+red of the brickwork.  The windows are trimmed in white and the panes have
+actual glass in them, rather than greased wax paper.  One homeowner has
+even planted a rose bush in front of their home.  
+~
+0 0 1
+D1
+~
+~
+0 0 17732
+D3
+~
+~
+0 0 17734
+S
+#17734
+Atenbury Road~
+A wagon rolls by filled with bodies covered by shrouds.  A lone gnome,
+dressed in black, follows behind to mourn his lost friends.  An escort of
+guardsmen and a handful of citizens follow behind the gnome.  The stench of
+death would be over powering not for the use of so many different herbs and
+spices.  
+~
+0 0 1
+D1
+~
+~
+0 0 17733
+D3
+~
+~
+0 0 17735
+S
+#17735
+Atenbury Road~
+The streets here are about as clean as they get for a port city.  The
+muck has been shovel to the side of the road in piles to dry out.  Once dry,
+each slowly disappears as thrifty adventures gathers chips for making fires
+in the barren wilderness.  The fire might give off an odor, but it better
+than freezing on a cold night.  
+~
+0 0 1
+D1
+~
+~
+0 0 17734
+D3
+~
+~
+0 0 17736
+S
+#17736
+Intersection of Stern Street and Atenbury Road~
+A sculpture stands upon a fountain in the center of the square.  The
+cobble stone was removed and a tiled mosaic replaced the bumpy walk way. 
+Looking from above, the tiles form a compass rose pointing in the cardinal
+directions.  The compass rose is tiled in the colors of red and white, and
+it is outlined in black.  
+~
+0 0 1
+D0
+~
+~
+0 0 17746
+D1
+~
+~
+0 0 17735
+D2
+~
+~
+0 0 17750
+D3
+~
+~
+0 0 17737
+S
+#17737
+Atenbury Road~
+The cobbled road runs east and west amongst the bricked homes of a quiet
+neighborhood.  A couple of carpenters repair the wood sidewalks that have
+become rotten from the years of hot mornings followed by damp evenings.  The
+new wood is fresh and golden but will soon fade to match the other greyed
+wood.  
+~
+0 0 1
+D1
+~
+~
+0 0 17736
+D3
+~
+~
+0 0 17739
+S
+#17738
+Atenbury Road~
+The homes here are a mixed lot of different sizes and building styles. 
+One home is a made from clay bricks, with a iron banded oak door, and a
+thatched roof.  Another has wood siding, a carved, double door split in the
+middle, and clay roof tiles.  Another home is made cut stone and has a roof
+made from tar and bundled sticks.  
+~
+0 0 1
+D1
+~
+~
+0 0 17805
+D3
+~
+~
+0 0 17732
+S
+#17739
+Atenbury Road~
+A woman stands in her doorway sweeping out dirt that has been tracked in
+from muddy boots.  The cobble stone road has been dug up, leaving only a
+muddy section of roadway.  If the road ever dries out, the crew of masons
+will be able pour mix of mortar and the ground stones to form a new road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17737
+D3
+~
+~
+0 0 17740
+S
+#17740
+Atenbury Road~
+A whiff of burning trash comes to your nose as you stand looking down the
+street.  The cobbled road runs east and west, lined with elegant houses
+covered in soot.  A group of guards walks here seeming in search of something
+or someone.  As you look around,  you quickly look towards movement that
+you saw from the corner of your eye.  As you stand there holding your
+breath, you do not see any other movement and continue on your way.  
+~
+0 0 1
+D1
+~
+~
+0 0 17739
+D3
+~
+~
+0 0 17741
+S
+#17741
+Intersection of Waterford Street and Atenbury Road~
+The cobbled street here is blackened with scorch marks.  In the
+distance, guards pursue a gnome carrying what looks like bagpipes.  As you
+watch, the gnome trips, bumping into one of the guards.  This action somehow
+sends a flame out of the bagpipes and into the air.  The flame burns off
+the guard's facial hair and catches the gnome's own beard on fire.  
+~
+0 0 1
+D0
+~
+~
+0 0 17742
+D1
+~
+~
+0 0 17740
+D2
+~
+~
+0 0 17762
+D3
+~
+~
+0 0 17831
+S
+#17742
+Waterford Street~
+Far to the south, the blue waters of the harbor can be seen.  The guards
+glare at everyone as they continue on their patrol.  Few sailors make their
+way this far north, for most of taverns have set up shop closer to the
+docks.  The flow of ale and the money gained from the thirst of the sailors,
+more than makes up for any damage that occurs from the fights that break out.  
+~
+0 0 1
+D0
+~
+~
+0 0 17743
+D2
+~
+~
+0 0 17741
+S
+#17743
+Waterford Street~
+One homeowner has a garden with a couple of rows of different vegetables.
+The neighbor across the street has a barren garden with white sand.  In this
+garden, stones sit scattered about have lines and swirls drawn in the sand
+around them.  These lines range from simple circles to more complex
+patterns.  
+~
+0 0 1
+D0
+~
+~
+0 0 17744
+D2
+~
+~
+0 0 17742
+S
+#17744
+Outside the Port Office~
+A gathering of men stands before the house, some waiting, while some stand
+ready to be called to duty.  The door opens and a dark-skinned woman with
+short, curly hair glares in your direction then lets out a hooting laugh at
+your reaction before closing the door.  A brave soul, downs the last of his
+ale before charging inside to the cheers from the men around the home.  
+~
+0 0 1
+D0
+~
+~
+0 0 17745
+D2
+~
+~
+0 0 17743
+D3
+A plain looking door, stands closed here.
+~
+~
+1 0 17846
+S
+#17745
+Waterford Street~
+A weeping, willow stands alone in an empty lot to the west.  The grasses
+are so lush and green, that it attracts many of the local children who play
+under the tree's drooping branches.  The lot to the east has been turned
+into a junkyard.  It is not unheard of to see a band of gully dwarves
+exploring the piles looking for buried treasure.  
+~
+0 0 1
+D0
+~
+~
+0 0 17715
+D2
+~
+~
+0 0 17744
+S
+#17746
+Stern Street~
+You have never seen so many people in one place, it is almost
+overpowering.  From a barmaid giving the sailors a wink, to merchants
+guarding their purses, it all seems to be a common enough event around here.
+The cobble stone road stretches to the north and south.  A glance, far to
+the south reveals the beauty of the sea.  
+~
+0 0 1
+D0
+~
+~
+0 0 17747
+D2
+~
+~
+0 0 17736
+S
+#17747
+Stern Street~
+Many of the citizens stand in their doorways, some are sweeping while
+others wave to passing guardsmen.  Some of the friendlier ones even greet
+and welcome you to their city.  The area is a scene full of happy and but
+busy people.  It seems everyone has some place else that they need be.  
+~
+0 0 1
+D0
+~
+~
+0 0 17748
+D2
+~
+~
+0 0 17746
+S
+#17748
+A Path of Honor~
+When the Knights of Takhisis took control of the city, this section of
+Stern Street was renamed.  Here statues stand in honor of a few brave
+knights who died in the service to the Dark Queen, Lord Hirenda of the
+Skull, Lady Anshara of the Lily and Dirgious the Dark of the Thorn.  
+~
+0 0 1
+D0
+~
+~
+0 0 17749
+D2
+~
+~
+0 0 17747
+S
+#17749
+Stern Street~
+Almost every patrol will find its way to Stern Street either by crossing
+it or even patrolling it for a time.  With all this activity in one area, a
+thief would be hard pressed to get away easily.  The streets are kept clear
+of vagrants and is a pleasant walk if having so many guardsmen around does
+not bother you.  
+~
+0 0 1
+D0
+~
+~
+0 0 17711
+D2
+~
+~
+0 0 17748
+S
+#17750
+Stern Street~
+The sides of the road have been barricaded off with a stone wall.  The
+road is actually part of a low bridge that crosses over a small drainage
+ditch.  The ditch is currently dry except for the pieces of trash that has
+blown into it.  The ditch is made of cut stone that has the look of a
+dwarven design.  
+~
+0 0 1
+D0
+~
+~
+0 0 17736
+D2
+~
+~
+0 0 17751
+S
+#17751
+Stern Street~
+The houses here can easily catch the eye of anyone who wanders by.  The
+houses are painted in the brightest colors ever seen, but this one factor
+can be ignored over time.  The other factor that always draws one's
+attention toward these homes, are the cries of terror that echo and pierce
+the air.  
+~
+0 0 1
+D0
+~
+~
+0 0 17750
+D2
+~
+~
+0 0 17752
+S
+#17752
+Stern Street~
+Some of the homes here have a most unique design to them.  One looks like
+someone took a ship, cut it in half and flipped it over, so the curve of its
+hull faces the sky.  The open end now has a wall and door built to keep the
+weather out.  A small, brass lantern has also been mounted to the left of
+the door.  
+~
+0 0 1
+D0
+~
+~
+0 0 17751
+D2
+~
+~
+0 0 17753
+S
+#17753
+Intersection of Main Street and Stern Street~
+To the north, the city guards make their rounds in keeping the peace.  Here
+a crew is returning to their ship.  Some must be carried, while others must
+use the surrounding buildings to guide their drunken steps.  The brisk
+breeze is thankfully blowing in the direction that the crew is traveling as
+they hurry along as best they can.
+~
+0 0 1
+D0
+~
+~
+0 0 17752
+D1
+~
+~
+0 0 17754
+D3
+~
+~
+0 0 17758
+S
+#17754
+Main Street~
+An oddity of mixed people linger around this town, a group of dwarven
+sailors making an appearance to show how true this is.  Dressed in thick
+leathers and knee high boots, is enough to make anyone bring a hand to their
+mouth to hide a smile.  These dwarves like any other, do not look to be in a
+cheery mood and will fight anyone who has a problem with the way they look. 
+~
+0 0 1
+D1
+~
+~
+0 0 17755
+D3
+~
+~
+0 0 17753
+S
+#17755
+Main Street~
+As the breeze shifts from the south to the west, the aroma of the sea
+grows stronger.  Those with a weak stomach could be driven to share their
+last meal with the vermin in the street.  The breeze shifts as quickly as it
+did before, bringing with it a whole new smell that makes the last one rank
+with sweet roses.  
+~
+0 0 1
+D1
+~
+~
+0 0 17756
+D3
+~
+~
+0 0 17754
+S
+#17756
+Main Street~
+The caw of sea gulls comes from overhead, as the birds wheel through the
+sky and ride the thermals.  The aroma of the salty sea grows ever stronger
+as the wind shifts.  It’s a good thing too, because a fishing boat nearby was
+giving off one devil of a reek.  The road continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 17757
+D3
+~
+~
+0 0 17755
+S
+#17757
+Intersection of Bough and Main Street~
+A nobles' carriage being drawn by two white {wstallions{x passes you by. 
+The carriage curtains are closed shut to the outside world, the people
+inside not caring to see the plight of the commoner in the street.  As the
+carriage heads west down the street a few people turn and glare at the
+carriage with as much hatred as they can muster.  To the south of you are
+the city docks.  
+~
+0 0 1
+D0
+~
+~
+0 0 17767
+D2
+~
+~
+0 0 17781
+D3
+~
+~
+0 0 17756
+S
+#17758
+Main Street~
+The sound of a gavel striking wood and cries for 'Order' come drifting
+from the north.  There lies the instrument of law and government for the
+city of Port O' Call.  Disputes of citizens and the charges of the criminals
+are heard and sometimes a decision is reached.  The mayor of the city even
+has his own office.  The road of Main street continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 17895
+D1
+~
+~
+0 0 17753
+D3
+~
+~
+0 0 17759
+S
+#17759
+Main Street~
+A dusty building stands here, "The Choke and Gag", once a fine eating
+establishment despite its name.  The owner was doing well until the daughter
+of a rival politician befell poison intended for her father.  Later proof
+found the owner innocent of any wrong doing, but he had been put to death a
+week before.
+~
+0 0 1
+D1
+~
+~
+0 0 17758
+D3
+~
+~
+0 0 17760
+S
+#17760
+Main Street~
+A broken cask sits in a puddle of wasted ale and is the center of an on
+going argument.  A stout dwarf shakes his fist at a snobby elf and demands
+to be paid for the loss of his merchandise.  The elf refuses to pay good
+steel because the dwarf was too clumsy to stay out of the elf's way.  The
+city guards are trying to hold the crowd back, while someone in the back
+calls for bets with ten to one odds in favor of the elf.  
+~
+0 0 1
+D1
+~
+~
+0 0 17759
+D3
+~
+~
+0 0 17761
+S
+#17761
+Intersection of Main Street and Waterford Street~
+Off to the west is the beginning of a shortcut of sorts, while Waterford
+runs north and south.  Towards the east is Main Street, its not really the
+main street by way of travel, but it does lead to City Hall.  Glancing down,
+you are surprised to see that someone has made a 'dirt angel' impression in
+the middle of the road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17764
+D1
+~
+~
+0 0 17760
+D2
+~
+~
+0 0 17768
+D3
+~
+~
+0 0 17836
+S
+#17762
+Waterford Street~
+A closer inspection reveals that the surface in fact contains flakes of
+gold and small gems.  No amount of digging or scraping seems to produce any
+results, for the surface remain unchanged.  The remains of knife dulled to
+its hilt confesses that others have also tried and achieved nothing.  The
+road here continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17741
+D2
+~
+~
+0 0 17763
+S
+#17763
+Waterford Street~
+The buildings that line the road are indeed those worthy of a king, or
+even a very rich merchant.  The entrance to the residential area of the
+well to do is off towards the east.  The road continues to the north and
+south and seems to glitter as light shines down onto the cobbled stones.
+~
+0 0 1
+D0
+~
+~
+0 0 17762
+D1
+~
+~
+0 0 17885
+D2
+~
+~
+0 0 17764
+S
+#17764
+Waterford Street~
+The street here is not cobbled but smooth, and has embedded in its
+surface what looks to be very small gems and multicolored pebbles.  The area
+here is well maintained and is in far better condition than the rest of the
+city.  The road runs to the north and south, and allows noblemen, as well as
+citizens to walk this street in complete security.  
+~
+0 0 1
+D0
+~
+~
+0 0 17763
+D2
+~
+~
+0 0 17761
+S
+#17765
+Bough Street~
+You stand on Bough road, the constant noise of people going about their
+business breaks the silence all over the city.  The road is well used with
+people constantly heading towards the docks and the shops of the city.  A
+warm wind blows through the streets refreshing you as you walk by.  To the
+north and south is Bough street. 
+~
+0 0 1
+D0
+~
+~
+0 0 17732
+D2
+~
+~
+0 0 17766
+D3
+~
+~
+0 0 17845
+S
+#17766
+Bough Street~
+You stand outside a build with a wooden sign and a painted set of crossed
+swords on it.  The sound of clashing weapons and groans can be heard coming
+from inside the building.  A man leaves the building with bruises all over
+his body.  The road that continues to the north and south is Bough street.
+~
+0 0 1
+D0
+~
+~
+0 0 17765
+D2
+~
+~
+0 0 17767
+S
+#17767
+Intersection of Bough Street and Market Road~
+The road to the east leads to the city markets, people carry all sorts of
+goods and wares to the market for sale and even more carry those items out. 
+A large group of militia patrols the markets to keep an eye out for thieves
+and con artists alike.  To the south of you are the city docks with massive
+ships unloading their cargo.  To the north of you is Bough Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 17766
+D1
+~
+~
+0 0 17801
+D2
+~
+~
+0 0 17757
+S
+#17768
+Waterford Street~
+The cobble stoned road here has smooth walkways on either side of the
+road.  These walk ways bring some relief to your sore, aching feet.  The
+shouts of workers' carry through the air as they work to load and unload
+the various ships in the harbor.  These ships hail from ports throughout all
+of Krynn.  
+~
+0 0 1
+D0
+~
+~
+0 0 17761
+D2
+~
+~
+0 0 17769
+S
+#17769
+Intersection of Waterford Street and Waterfront road~
+You stand in the intersection of Waterford and Waterfront.  Large amounts
+of people travel the road carrying all their goods to the markets and
+caravans that await them.  There is a large group of militia patrolling this
+area.  The militia is really a bunch of highly, paid thugs and brigands.  
+~
+0 0 1
+D0
+~
+~
+0 0 17768
+D1
+~
+~
+0 0 17773
+D2
+~
+~
+0 0 17770
+S
+#17770
+Waterford Street~
+You walk along the top of a small hill, to the south lies the ocean with
+lots of tiny fishing boats and a few larger ships sitting dormant on the
+water waiting for the tides.  Seagulls circle above the boats waiting for
+any junk to be thrown overboard by the sailors.  The junk is usually yummy
+fish guts and table scraps.  
+~
+0 0 1
+D0
+~
+~
+0 0 17769
+D2
+~
+~
+0 0 17771
+S
+#17771
+Waterford Street~
+A foul smell comes from the houses to the west of you.  They are not the
+best kept in the town but the amount of houses that are in one small area
+must be the cause of the stench.  Just then, a breeze blows the smell away
+from your direction.  The road continues toward the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 17770
+D2
+~
+~
+0 0 17772
+S
+#17772
+Intersection of Waterford and Ocean way~
+You stand at a bend in the road.  To the north is Waterford road to the
+West ocean way.  A beggar comes up to you and asks for any spare change, he
+sees a weapon on you and has second thoughts about asking anymore.  He then
+goes to the next person down the road and asks them for some spare change.  
+~
+0 0 1
+D0
+~
+~
+0 0 17771
+D3
+~
+~
+0 0 17825
+S
+#17773
+Waterfront Road~
+A splash of water hits you on the side of the face.  Children's laughter
+can be heard from just behind a bush sitting next to the road.  Just then a
+woman's voice can be heard calling their children home.  With a giggle, an
+empty buckets rolls onto the road as the sounds of many feet retreating to
+safety can be heard.  
+~
+0 0 1
+D1
+~
+~
+0 0 17774
+D3
+~
+~
+0 0 17769
+S
+#17774
+Waterfront Road~
+An old man pulls a cart down the street, which is heavily laden with fish
+from his day's catch.  He struggles along slowly heading off down the street
+passing many people who only give him a sideways glance and carry on with
+their business.  To the east and west the Waterfront road opens up to you.  
+~
+0 0 1
+D1
+~
+~
+0 0 17775
+D3
+~
+~
+0 0 17773
+S
+#17775
+Waterfront Road~
+You stand on the waterfront road.  To the east and west of you the road
+unfolds.  To the south there are some residential houses and beyond the
+houses, the sea crashes onto the beach.  This is a busy road with many
+travelers from all over Krynn walking to their various destinations.  
+~
+0 0 1
+D1
+~
+~
+0 0 17776
+D3
+~
+~
+0 0 17774
+S
+#17776
+Waterfront Road~
+A group of drunken sailors pass by, singing songs at the top of their
+lungs not caring if they are in tune or not.  The fresh salt sea air blows
+through the streets carrying away the foul stench of rotten fish in the
+area.  A seagull lands on a post sitting next to the road and eats it latest
+find.  To the west and east is the waterfront road.  
+~
+0 0 1
+D1
+~
+~
+0 0 17777
+D3
+~
+~
+0 0 17775
+S
+#17777
+Waterfront Road~
+You stand on waterfront road.  To the north, you hear laughter coming from
+behind a door.  The windows are painted black so no peeking in is allowed. 
+Hanging above the door is a battered sign with a picture of a chalice and a
+pile of steel coins lying beside it.  Just then the door opens abruptly and
+the barman of the establishment throws out a young man onto the street. 
+Picking himself off the ground, he staggers off down the street to the next
+bar.  
+~
+0 0 1
+D0
+~
+~
+0 0 17839
+D1
+~
+~
+0 0 17778
+D3
+~
+~
+0 0 17776
+S
+#17778
+Waterfront Road~
+A small group of town militia is carrying a young child to somewhere in
+the city.  On closer inspection, you see it is a kender with bright yellow
+leggings enjoying the free guided tour the militia seem to be giving him. 
+To the east and west of you is waterfront road.  To the south you can see
+houses and just beyond them the open sea.  
+~
+0 0 1
+D1
+~
+~
+0 0 17779
+D3
+~
+~
+0 0 17777
+S
+#17779
+Waterfront Road~
+You stand on the waterfront road.  To the east and west of you the road
+unfolds.  To the south there are some residential houses and beyond the
+houses the sea crashes onto the beach.  This is a busy road with many
+travelers from all over Krynn walking to their various destinations.  
+~
+0 0 1
+D1
+~
+~
+0 0 17780
+D3
+~
+~
+0 0 17778
+S
+#17780
+Intersection of Bough Street and Waterfront Road~
+The sounds of merriment and rowdy sailors echo throughout the street.
+Another ship has just arrived and the crew is eager to enjoy their freedom. 
+The warehouses and unloading dock is to the south.  With so many deckhands
+heading inland for some rest and relaxation, it’s a wonder how all those
+ships get their cargo taken care of.
+~
+0 0 1
+D0
+~
+~
+0 0 17781
+D2
+~
+~
+0 0 17783
+D3
+~
+~
+0 0 17779
+S
+#17781
+Bough Street~
+The smell of the sea washes over you like a warm inviting blanket.  The
+cries of seagulls pierce the area with their shrill call.  They dart all
+around trying to get any scrap piece of junk and food that they can get
+their beaks on.  You can hear a constant drone of talking coming from the
+market to the east.  To the north of you is Bough street.  
+~
+0 0 1
+D0
+~
+~
+0 0 17757
+D2
+~
+~
+0 0 17780
+S
+#17782
+A Small Bedroom~
+Compared to the main area of the room, this section is indeed small.  A
+heavy curtain, green and gold in color, hangs open allowing a view into the
+sitting room.  The bed is barely large enough for one person and a not very
+tall one at that.  Beside the bed sits a nightstand that has an old book and
+a glass of water sitting on it.  
+~
+0 8 1
+D2
+~
+~
+0 0 17893
+S
+#17783
+Entrance to the Harbor~
+You stand in front of the entrance to the main docks of Port o Call.  All
+along the waterfront road, you can see numerous inns and stores selling all
+sorts of goods to the people passing by.  A beggar sits next to one of the
+inns asking all the patrons that leave for some spare change.  A few who are
+sober enough to care, toss a gold coin or two to the beggar.  
+~
+0 0 1
+D0
+~
+~
+0 0 17780
+D1
+~
+~
+0 0 17807
+D2
+~
+~
+0 0 17785
+S
+#17784
+Before the North Gate to Xak Tsaroth~
+Before you stands the North Gate.  Behind the city, spires from the
+Temple of Mishakal can be seen.  The walls of the arena also rise in the
+distance.  Off to the east, snow topped mountains can be seen, casting their
+shadows over the city.  A large ship pulls into the dock here to the north. 
+If you do not see the captain waiting here to take on passengers, wait
+patiently and he will soon arrive.  Once the ship pulls into the dock, be
+quick and get aboard to head over to Solamnia.  
+~
+0 16777216 14
+D0
+~
+~
+2 17785 17900
+D2
+~
+~
+0 0 11399
+S
+#17785
+Docks~
+To the south of you the open sea beckons the hardened sailor.  A fresh
+salt sea wind blows refreshing you with some spray from the sea.  A few
+sailors run towards the town, ready to spend their first night on land in
+many days, in one of the many waterfront bars.  A ship's captain trails
+behind them at a slower pace, for his business is with the harbor master. 
+If he is lucky, he will not have to pay any steel to bail out in crew, or
+even have to find a new crew to replace the trouble makers.  
+~
+0 0 1
+D0
+~
+~
+0 0 17783
+D1
+~
+~
+0 0 17786
+S
+#17786
+Docks~
+You walk down one of the many piers in port o call, the harbor is abuzz
+with activity.  A large minotaur barges past you heading for his ship at the
+end of the docks.  He bumps into another young boy further down and send the
+child flying into the water.  A sailor standing on the pier, near where the
+boy went in, finds some rope and tosses the boy a line.  
+~
+0 0 1
+D2
+~
+~
+0 0 17787
+D3
+~
+~
+0 0 17785
+S
+#17787
+Docks~
+On one side of the docks sits a large cargo ship, sailors are abuzz on
+the decks packing the precious cargo and mending the sails.  The ships
+captain oversees all his crew, ensuring everything is done correctly.  
+A noble man stands on the dock with his luggage waiting to board the ship.
+~
+0 0 1
+D0
+~
+~
+0 0 17786
+D2
+~
+~
+0 0 17788
+S
+#17788
+The Port O Call Docks~
+The open sea beckons you from here.  A small wave crashes against the
+dock sending a small tremor down the pier.  A beggar sits at the end of the
+pier with a fishing pole in hand and a bucket full of fish sitting next to
+him.  A small fishing boat heads towards the docks, the boat laden with fish
+from their day's catch.  This dock is where a very large passenger ship
+pulls in to take people across the ocean over to Abanasinia.  If the ship is
+not yet in, stand by and wait, then board when told to.  
+~
+0 16777216 14
+D0
+~
+~
+0 0 17787
+D2
+~
+~
+2 17785 17900
+S
+#17789
+Market Road~
+You are traveling on the road that connects the entrance to the harbor
+to the open market.  Many merchants walk in either direction, some carrying
+goods to sell, while others walk with bulging pouches.  The sounds of people
+bartering for goods echoes from the east.  The yells of workers and sailors
+alike come drifting in from the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 17790
+D3
+~
+~
+0 0 17807
+S
+#17790
+Market Road~
+Citizens who purchased many goods, are being followed by haulers to their
+homes.  The services of these haulers is not free, but the cost is far
+better than dragging the goods home or making multiple trips.  The citizens
+who have paid for this service however, do tend to be members of the upper
+class.  A bank has been built to the east, while Market road continues to
+the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 17794
+D1
+~
+~
+0 0 17791
+D3
+~
+~
+0 0 17789
+S
+#17791
+First National of Port o' Call~
+You stand in a rather large building made of stone, wood, and iron. 
+There is a doorway to the south, with a sign over the door that reads
+DEPOSIT.  A counter stands near the east side of the room, surrounded with
+metal bars and has a small opening.  A sign is also mounted over the opening
+that reads CHANGE AVAILABLE.  
+~
+0 1048584 1
+D2
+~
+~
+0 0 17792
+D3
+~
+~
+0 0 17790
+S
+#17792
+The Depository~
+A man sits in a chair behind an oak desk as he writes something in a
+ledger.  A vault made of thick iron stands open to the east.  The room is
+bare in its decoration with the only furnishings being the desk and the
+chair.  A wide window behind the man gives a beautiful view of harbor to the
+south.  
+~
+0 1048584 1
+D0
+~
+~
+0 0 17791
+D1
+An iron door with a handle and a knob stands before you.
+~
+~
+1 0 17793
+S
+#17793
+The Vault~
+This room is made entirely out of iron stands; three of the walls filled
+with locked boxes.  The boxes themselves vary in size, shape and even the
+material used to construct them.  Each box has a piece of parchment tacked
+or tied to it.  The shelves are also made of iron and have the look of being
+able to support a great amount of weight.  
+~
+0 9 1
+D3
+A solid, iron door with a several metal tubes, stands before you.
+~
+~
+1 0 17792
+S
+#17794
+Market Road~
+The entrance to the market place is towards the east as the road also
+continues to the south.  A few merchants wearing loose clothing, ride along
+on the oddest-looking horses you have ever seen.  They look almost deformed
+for the animal has a hump on its back and bays in a most annoying way.  This
+horse might even be sickly, because of the streams of drool hanging from its
+mouth.  
+~
+0 0 1
+D1
+~
+~
+0 0 17795
+D2
+~
+~
+0 0 17790
+S
+#17795
+Entrance to the Market Place~
+You can walk with a more relaxed stride than to the south where the
+hustle and bustle of the market place lies.  A couple walks past you
+commenting on all the great buys they found from some of the visiting
+merchants.  Merchants come from anywhere that they can board a ship that
+will make the long voyage here.  
+~
+0 0 1
+D0
+~
+~
+0 0 17796
+D3
+~
+~
+0 0 17794
+S
+#17796
+The Market Place~
+Some of the newer merchants find it easier just to sell their wares where
+ever a crowd can be found.  This is mainly because to other merchants have
+built their stalls in ideal places.  Some of these places lend shade to
+customers and others feel the cool breeze that blows in from the east.  The
+path through the market continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17806
+D2
+~
+~
+0 0 17795
+S
+#17797
+Entrance to the Market Place~
+The market place opens up to the south in this city that could be called
+a merchant's paradise.  To the east stands one of the city's guard posts,
+while Market Road continues to the west.  The squawk of seagulls overhead
+is a just one of the many noises in the background.  The guards that patrol
+this area try to ensure that thieves and pick pockets are dealt with in a
+swift manner.  
+~
+0 0 1
+D1
+~
+~
+0 0 17798
+D2
+~
+~
+0 0 17806
+D3
+~
+~
+0 0 17799
+S
+#17798
+Eastern Guard Post~
+The city guards have a station here to be on hand to quell any rowdy
+behavior.  A desk sits here with paper work piled all over it.  From the
+looks of all the dust and cobwebs, keeping the place clean is low on their
+list of priorities.  There are sets of chains, restraints and even weapons
+hanging from the pegs along the walls.  
+~
+0 8 1
+D3
+~
+~
+0 0 17797
+S
+#17799
+Intersection of Market Road and Cutlass Street~
+An armed group of mercenaries wearing ribbons of blue tied around their
+arms, are looking in your direction.  Some point, some stare and some out
+right laugh before moving on, enjoying themselves as they make fun of
+others.  A dwarf that they choose to be their next target, does not take
+kindly to their abuse.  With his skill and might, the dwarf sends all three
+of the men, crashing to the ground, using only his bare hands.  
+~
+0 0 1
+D0
+~
+~
+0 0 17802
+D1
+~
+~
+0 0 17797
+D3
+~
+~
+0 0 17800
+S
+#17800
+Market Road~
+Back and forth walk people of all sorts, a dwarven metalsmith driving a
+wagon of his wares, is followed by his men who escort, the wagon keeping a
+watch for any unexpected trouble.  A brightly colored kender soon becomes a
+bother for the dwarven escorts.  No amount of cursing, pleading, or
+rudeness, sways the kender from his meeting of these dwarf.  If anything, it
+only seems to encourage the kender to wonder what these dwarves are trying
+so hard to hide from him.  
+~
+0 0 1
+D1
+~
+~
+0 0 17799
+D3
+~
+~
+0 0 17801
+S
+#17801
+Market Road~
+An elven merchant rides towards the east with an armed escort.  Walking
+behind them are a couple of wild elf slaves, who keep their heads down and
+wear jeweled collars.  The high elves do not bother to express their needs,
+relying on the slaves to know their master's mood, needs and desires.  These
+slaves are forced to wear light colored, that are belted at the waist, and
+sandals on their feet.  
+~
+0 0 1
+D1
+~
+~
+0 0 17800
+D3
+~
+~
+0 0 17767
+S
+#17802
+Cutlass Street~
+A road crew is busy laying down gravel and smoothing out all those pot
+holes.  The crew's work is over seen by a grumpy guard who looks like he
+would gather be somewhere else.  To make matters worse, the powers of be,
+have included a gnome and a kender on the detail.  The kender's hands
+explore his surrounds and talk everyone's ear off, while the gnome tries to
+figure out the correct way for the gravel to be spread out.  
+~
+0 0 1
+D0
+~
+~
+0 0 17803
+D2
+~
+~
+0 0 17799
+S
+#17803
+Cutlass Street~
+An old red, one room schoolhouse sits under a willow tree.  An old swing
+hangs from one of the tree's lower branches.  Up above the schoolhouse, the
+bell still hangs in the bell tower.  As you continue on the rest of your
+journey, you hear the bell toll once.  Looking over your shoulder, you spy a
+youth armed with a slingshot using the old bell as his target.  
+~
+0 0 1
+D0
+~
+~
+0 0 17804
+D2
+~
+~
+0 0 17802
+S
+#17804
+Intersection of Atenbury Road and Cutlass Street~
+A lonely cottage with a blue slate roof, sits on the side of the road. 
+Small plumes of smoke trail into the sky from the two chimneys on either
+side of the house.  A flagstone walkway leads up to the house, which is
+surrounded by flowers one would see blooming on a fine summer’s day.  A low
+stone wall with a picket gate is off to the side and seems to lead around
+behind this lovely home.
+~
+0 0 1
+D2
+~
+~
+0 0 17803
+D3
+~
+~
+0 0 17805
+S
+#17805
+Atenbury Road~
+A railing fence with four rungs runs along the road here.  Some of the
+wood needs to be replaced, while others are missing altogether.  A young fir
+tree casts some shade over the road and the broken fence.  In the field
+beyond the fence grows wild purple flowers the any herbalist would recognize
+as heather.
+~
+0 0 1
+D1
+~
+~
+0 0 17804
+D3
+~
+~
+0 0 17738
+S
+#17806
+The Market Place~
+The merchants who are regulars have built wooden stalls with a canopy,
+that can be lowered when they close for the day.  Many dried herbs and the
+like hang in front of the stall to the west.  These merchants spent a little
+money to have their stalls painted in a rainbow of colors.  A few of the
+stalls have been closed all season, for some of the merchants only travel to
+these parts once a year.  
+~
+0 0 1
+D0
+~
+~
+0 0 17797
+D2
+~
+~
+0 0 17796
+D3
+~
+~
+0 0 17844
+S
+#17807
+Market Road~
+The beating of a cadence drum echoes over the waves as a minotuar
+merchant ship rows into port.  To the west is the path that most sailors
+take to either board or leave their ships.  This road also continues towards
+the east.  Happy citizens tip their hat to you as they pass by.  Many of the
+ladies are carrying empty baskets as they turn continue on towards the east.
+~
+0 0 1
+D1
+~
+~
+0 0 17789
+D3
+~
+~
+0 0 17783
+S
+#17808
+Vagabond Way~
+You are standing on Vagabond way, the road has fallen into disrepair.  No
+one enters here on purpose for fear of his or her lives.  Even the city
+militia does not enter if they don't have to, and when they do it is a large
+contingent and they are very well armed.  Sailors, vagabonds and murderers
+call this area home.  To the north is Byson road.  
+~
+0 0 1
+D0
+~
+~
+0 0 17721
+D2
+~
+~
+0 0 17837
+S
+#17809
+Vagabond Way~
+Sitting on the side of the road is a little girl; she looks over at
+you smiles, gets up and runs away before anything can be said or done.  A
+small dog runs after the young girl barking merrily as its little legs
+carry it away.  To the north and south, the road of Vagabond way continues on.
+~
+0 0 1
+D0
+~
+~
+0 0 17837
+D2
+~
+~
+0 0 17810
+S
+#17810
+Vagabond Way~
+To the east of you lie the slums, a large portion of the area is in a
+shamble due to the peoples living habits, there are a few houses here that
+are well kept but there are not many.  Off towards the west lie rocky fields
+of tall grass and trees.  To the north and south the road of Vagabond way
+continues on.  
+~
+0 0 1
+D0
+~
+~
+0 0 17809
+D2
+~
+~
+0 0 17811
+S
+#17811
+Vagabond Way~
+A man pulling a cart goes down the street, the cart is laden with odds
+and ends that only a hermit would have use for.  Children pick up small
+stones and start throwing them at the man and calling him names, only to
+have their mother screaming at the top of their voices to stop tormenting
+the old man.  
+~
+0 0 1
+D0
+~
+~
+0 0 17810
+D2
+~
+~
+0 0 17812
+S
+#17812
+Vagabond Way~
+You stand on Vagabond way, as a cold sea breeze blows down the street. 
+This makes a young child run for the warmth of his home.  A seagull lands on
+top of a roof of one of the houses in the slums only to be made a stray
+cat's dinner a few minutes later.  The only evidence left of the bird is a
+few feathers floating slowly to the ground.  To the north and south of you
+the road continues on.
+~
+0 0 1
+D0
+~
+~
+0 0 17811
+D2
+~
+~
+0 0 17813
+S
+#17813
+Vagabond way~
+You are walking along vagabond way, to the east of you are the slums they
+are the home for all the poorer fishermen that rely on the port for a
+living, selling whatever they can to feed their families and stay alive.  A
+man passes by eyeing you wearily with his hand on the hilt of his short
+sword.  
+~
+0 0 1
+D0
+~
+~
+0 0 17812
+D2
+~
+~
+0 0 17814
+S
+#17814
+Vagabond Way~
+To the west fields of grass open up, the problem with them is that it is
+too rocky to farm any type of goods although someone has tried already.  To
+the east lies a house that seems out of place.  It has a garden that is well
+tended too, no one dares defile this person's house by the look of it.  A
+gate is open in the middle of the small hedge that surrounds the house.  
+~
+0 0 1
+D0
+~
+~
+0 0 17813
+D1
+~
+~
+0 0 17840
+D2
+~
+~
+0 0 17815
+S
+#17815
+Vagabond Way~
+Looking to the east, you can see that the slum area lies there.  The lack
+of steel and interest have made it a haven for thieves and murderers alike. 
+The average person who stays in this area are all the fisherman that live
+off their catch and whatever other gold they can earn from the market.  
+~
+0 0 1
+D0
+~
+~
+0 0 17814
+D2
+~
+~
+0 0 17816
+S
+#17816
+Vagabond Way~
+To the north Vagabond road falls into disrepair.  No wagons are able to
+go this way, as there are too many holes in the road, making it dangerous.  A
+broken wagon wheel on the side of the road confirms the condition on the
+road.  Off in the distance towards the east, the slums can be seen, while to
+the west the sea stretches out as far as the eye can see.  
+~
+0 0 1
+D0
+~
+~
+0 0 17815
+D1
+~
+~
+0 0 17817
+S
+#17817
+Ocean Way~
+A large barrel of water sits next to the road filling up with water
+falling from a rooftop after the recent rainfall.  A young child takes a
+bucket over to the barrel and fills it up.  He then runs home, spilling more
+water in his haste than is left in the bucket.  His mothers seeing this then
+sends him back again for a second try.
+~
+0 0 1
+D2
+~
+~
+0 0 17818
+D3
+~
+~
+0 0 17816
+S
+#17818
+Ocean Way~
+An old man passes by, battling along the road with only his walking stick
+to aid him.  He has the look in his eyes of understanding and acceptance of
+his age and fate.  A young child comes up behind him and helps the man down
+the road to his small little house sitting next to the road.  The sound of
+the waves crashing over the rocks can be heads just off to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 17817
+D1
+~
+~
+0 0 17819
+S
+#17819
+Ocean Way~
+An old woman passes by, battling along the road with only her walking
+stick to aid her.  She has the look in her eyes of understanding and
+acceptance of her age and fate.  A young child comes up behind her and helps
+the woman down the road to her small little house sitting next to the road. 
+The sound of the waves crashing over the rocks can be heads just off to the
+west.  
+~
+0 0 1
+D2
+~
+~
+0 0 17820
+D3
+~
+~
+0 0 17818
+S
+#17820
+Ocean Way~
+A small patch of daisies grows on the side of the road untouched by
+anyone.  They are in stark contrast to the rest of the road, almost in
+defiance.  A man comes out of the slums and walks straight over the flowers,
+none of the flowers are damaged by his footfalls, they seem to be magical. 
+~
+0 0 1
+D0
+~
+~
+0 0 17819
+D1
+~
+~
+0 0 17821
+S
+#17821
+Ocean Way~
+A young Kender with bright green leggings and a purple striped shirt
+passes you with a hoopak slung over his shoulder.  He skips merrily down the
+street unaware of the area he is walking through.  The slums are very
+predominant to the north and to the west the beach and beyond the sea.  
+~
+0 0 1
+D2
+~
+~
+0 0 17822
+D3
+~
+~
+0 0 17820
+S
+#17822
+Ocean Way~
+You can see a young boy and a girl making a sand castle in the sand on
+the beach to the west, a young puppy runs towards them and straight through
+the castle making the children chase after it in laughter.  A man walks past
+you with a small spear in hand and a sack filled with rubbish.  A cart is
+sitting next to the road, filled with many tied sacks, some of which stink
+of rotting fish guts.  
+~
+0 0 1
+D0
+~
+~
+0 0 17821
+D1
+~
+~
+0 0 17823
+S
+#17823
+Ocean Way~
+Along the side of the road to the west is a beach of white sands, a few
+rocks stick out of the sea at this point.  To the north the slums can be seen,
+you notice that someone has made an effort to clean up the area but the
+sheer volume of people living here has made the job hard to be completed. 
+The road has been repaired to the extent that wagons are now able to ride
+down this road again.  
+~
+0 0 1
+D2
+~
+~
+0 0 17824
+D3
+~
+~
+0 0 17822
+S
+#17824
+Ocean Way~
+A bush rustles to the side of the road, a small cat runs out of the bush,
+followed very closely by a beagle.  They both run a little up the road then
+head straight off into the shrubs again.  To the south you can see the
+ocean.  This section of Ocean way has very little foot travel, except for
+those couples who walk the shoreline hand in hand.  
+~
+0 0 1
+D0
+~
+~
+0 0 17823
+D1
+~
+~
+0 0 17825
+S
+#17825
+Ocean Way ~
+To the south, you can see a few more piers for the smaller fishing boats,
+all the fishermen land their boats here to keep out of the way of the nobles
+and their problems.  To the north of you is the large slum area of the city
+giving haven to the poor and criminals alike.  The road is one of the lesser
+traveled areas in the city due to the crime here, even the town militia do
+not come here unless in force.  
+~
+0 0 1
+D1
+~
+~
+0 0 17772
+D3
+~
+~
+0 0 17824
+S
+#17826
+Heathen Way~
+As the years passed, so did the upkeep of the roadway here.  Potholes
+are starting to form where the stones have cracked and worn away.  On the
+breeze the smells of the sea and trash in the streets come to your nose. 
+This barren, seldom traveled path stretches from the north and continues on
+toward the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17838
+D1
+~
+~
+0 0 17827
+S
+#17827
+Heathen Way~
+You find yourself traveling amongst people with little to no values.  The
+road is littered with trash, drunks stagger along their uncharted course,
+and lustful wenches try to please any man that comes their way.  In a clear
+spot along the road, several individuals kneel down with most of their
+attention on the dice game that they are playing.  This dirty road continues
+to the south and on towards the west.  
+~
+0 0 1
+D2
+~
+~
+0 0 17828
+D3
+~
+~
+0 0 17826
+S
+#17828
+Heathen Way~
+As the road angles from the north and heads east, one can see the
+beginnings of a cobble stone road.  Only from the recent labors of a road
+crew, the road  has a little stone left to it.  The stump of a tree
+stands off to the side of road which is covered in carvings.  Ivy also
+covers the old stump, and if not for the rings in the grain, the stump would
+pass for a boulder.  
+~
+0 0 1
+D0
+~
+~
+0 0 17827
+D1
+~
+~
+0 0 17829
+S
+#17829
+Heathen Way~
+To the east you can see the road ahead forks to the south, and to the
+west the road continues onward.  As you decide which direction to go, a
+beautiful Elven woman, dressed in the finest silks, walks past you.  A
+following of cutthroats and heathens hoot and whistle at parading elf, only
+to curse as she disappears from sight in a blink of an eye.  
+~
+0 0 1
+D2
+~
+~
+0 0 17830
+D3
+~
+~
+0 0 17828
+S
+#17830
+Intersection of Heathen Way and Atenbury Road~
+The scenic neighborhoods of the working class are off towards the east on
+Atenbury road.  The route that takes you to a run down part of the city runs
+to the north and south on Heathen way.  The foot traffic in this area is a
+mixture of riff raff and the good citizens of the fair city.  Overlooking
+all these people and ensuring the safety of the streets are the city guard. 
+~
+0 0 1
+D0
+~
+~
+0 0 17829
+D1
+~
+~
+0 0 17831
+D2
+~
+~
+0 0 17832
+S
+#17831
+Atenbury Road~
+Once a beautiful section of the city, now it has become darkened with the
+touch of flame.  No natural fire could produce such patterns, for sections
+of stone wall are blackened, as are the doorsteps of many homes.  Only that
+of magic or some other strange means could allow such a thing to occur.  The
+cobbled road continues towards the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 17741
+D3
+~
+~
+0 0 17830
+S
+#17832
+Heathen Way~
+You find yourself traveling amongst people with little to no values.  The
+road is littered with trash, drunks stagger along their uncharted course,
+and lustful wenches try to please any man that comes their way.  In a clear
+spot along the road, several individuals kneel down with most of their
+attention on the dice game that they are playing.  This dirty road continues
+to the south and towards the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 17830
+D2
+~
+~
+0 0 17833
+S
+#17833
+Heathen Way~
+This road is crowded with wandering drunks and barbarians.  A group of
+youths kneel off to the side with their concentration on a dice game, where
+the pot is a stack of several steel coins.  The citizens of the city are
+rarely seen walking down this road, unless they are looking to have a rowdy
+time.
+~
+0 0 1
+D0
+~
+~
+0 0 17832
+D2
+~
+~
+0 0 17834
+S
+#17834
+Heathen Way~
+Towards the west lies where most of the city's poor and outcasts live. 
+This area is known as the Slums and it is the last place one would want to
+freely wander into.  Wild grasses grow in the cracks between stones in the
+road.  This road is better known as the Heathen way and it continues to the
+north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17833
+D1
+~
+~
+0 0 17835
+D3
+~
+~
+0 0 17882
+S
+#17835
+Heathen Way~
+You travel along the way of the Heathen on a road that runs to the south
+and west.  A troop of gully dwarves journey down this road in search of
+their actual place.  The gully dwarves, in comparison to the pathway, are
+actually cleaner.  All the trash on the road, causes the troop to stop
+frequently to look for hidden treasures.  
+~
+0 0 1
+D2
+~
+~
+0 0 17836
+D3
+~
+~
+0 0 17834
+S
+#17836
+Heathen Way~
+To the east the path leads to the intersection of Main street and
+Waterford road.  The path also continues to the north towards the poorer
+part of the city.  Few of the braver, upstanding citizens of the city rarely
+bother to travel on this path.  Most the people that can be found on this
+path, are rough, crude and as rowdy as they come.  
+~
+0 0 1
+D0
+~
+~
+0 0 17835
+D1
+~
+~
+0 0 17761
+S
+#17837
+Vagabond Way~
+The road seems to have had attempts made in repairing it but to no avail,
+as broken pieces of carts and wheels lie strewn all over the road.  To the
+north, you can hear the footsteps of a patrol of city guards; they turn
+around and head off from where they came not daring to enter here without
+proper reason.  The area known as the Slums can be entered easily to the
+east, as Vagabond way continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17808
+D1
+~
+~
+0 0 17871
+D2
+~
+~
+0 0 17809
+S
+#17838
+Heathen Way~
+This road was once the pride and joy of the Draconian Engineering
+Corps.  Back when the Blue Dragon Army had used the city as a supply depot,
+the engineers made sure this road was properly maintained.  These days the
+road is a far cry from its former glory, but it still continues to the north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17725
+D2
+~
+~
+0 0 17826
+S
+#17839
+Steel Chalice~
+You stand inside the Steel Chalice, with the only light in this room
+coming from the lanterns hung at random points in the bar.  The door opens
+occasionally, which sends a bright stream of light in, that temporarily
+blinds all of the patrons inside.  A large man stands behind the bar
+cleaning mugs with a filthy rag, he looks at you and nods.  The rest of the
+patrons keep up their laughter and drinking of ale seemingly undisturbed by
+new arrivals.  
+~
+0 16778252 1
+D2
+~
+~
+0 0 17777
+S
+#17840
+Tranquil Garden~
+You stand in a small very well kept garden.  There is an aura of peace
+and tranquility in this garden that is very unusual.  A small squirrel runs
+across your path and straight into the house unafraid of what is inside.  It
+is a wonder how someplace this beautiful could thrive surrounded by so much
+filth and ruin.  The gate that stands open to the west, leads back onto
+Vagabond way.  
+~
+0 1028 1
+D3
+~
+~
+0 0 17814
+S
+#17841
+Bough Street~
+The home of a retired ship captain sits to the west of the road.  The
+home appears to have come from the aft castle of a war galleon.  The home is
+rather small, but it is one of a kind.  The home across the street has a
+tall, wooden fence that blocks the view of most of it from the street.  The
+road continues to the north and towards the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17707
+D2
+~
+~
+0 0 17729
+S
+#17842
+The Last Call~
+Mounted over the bar is a brass bell that the barkeeper rings on every
+hour.  The bar has a counter of varnished hickory and redwood panels.  The
+scent of cedar fills the air from all the benches and tables made from the
+wood.  Old wagon wheels hang from the rafters that can be lowered so the
+lanterns can be lit.  
+~
+0 12 1
+D0
+~
+~
+0 0 17706
+S
+#17843
+The Temple of Sargonnas~
+Large and imposing, this temple was erected by the large numbers of
+minotaur that settled in the area.  The temple itself is constructed of deep
+red marble veined in black, with black banners draped amongst the ceiling;
+depicting the symbol of a huge condor.  Here, minotaur warriors and soldiers
+of the dragonarmies come to pay homage to Sargonnas, god of vengeance and
+destruction.  In the center of this temple room, lies a large marble podium,
+with a large silver condor on top.  
+~
+0 8389644 39
+E
+condor~
+Before you rests a very large statue of a condor, constructed out of
+silver.  The workmanship is almost as flawless as if handcrafted by Dwarves.
+The condor has two large rubies serving as eyes, and a golden beak.  It's
+wings are spread, as if in mid-flight.  This condor is the holy symbol
+revered by worshipers of the great Evil God, Sargonnas.  An enscription lies
+at the base of the podium the Condor rests upon.  It reads:
+{x
+{x     'Call upon me with these words for Divine Favor, and revenge shall
+{x                            be bitter sweet'
+{x
+{x        May your vengeance guide my blade to strike thy enemies dead!
+~
+E
+silver~
+Before you rests a very large statue of a condor, constructed out of
+silver.  The workmanship is almost as flawless as if handcrafted by Dwarves.
+The condor has two large rubies serving as eyes, and a golden beak.  It's
+wings are spread, as if in mid-flight.  This condor is the holy symbol
+revered by worshipers of the great Evil God, Sargonnas.  An enscription lies
+at the base of the podium the Condor rests upon.  It reads:
+{x
+{x     'Call upon me with these words for Divine Favor, and revenge shall
+{x                            be bitter sweet'
+{x
+{x        May your vengeance guide my blade to strike thy enemies dead!
+~
+D3
+A stout, oak door stands before you.
+~
+~
+1 0 17728
+S
+#17844
+Last Chance Magics~
+A counter made from drift wood stand between you and the rest of the
+shop.  Dried herbs hang all around and bubbling brews cook in black pots
+further inside.  The smells of garlic, spices and even sulphur drift on the
+air.  Stacks of parchment and open books lay scattered on worktables.  
+~
+0 8 1
+D1
+~
+~
+0 0 17806
+S
+#17845
+Sign of the {RRose{x~
+Once garrisoned by the Order of the Rose, there is little that remains
+inside.  The equipment racks stand empty and are in need of repair.  The
+desk that at one time was a fine crafted piece, lies in shattered ruins and
+is cover in dried blood.  A sense of protection and goodness still lingers
+in the cold air.  
+~
+0 8 1
+D1
+~
+~
+0 0 17765
+S
+#17846
+Office of the Port Captain~
+A cozy fire burns low in the fireplace that gives the room a warm glow. 
+A chair sits facing the fire, with its back to the door.  Mounted over the
+mantle is a wicked looking blade with a leather wrapped handle.  In the
+shadows is a doorway with a heavy curtain blocking the next room from view. 
+~
+0 8 1
+D1
+A plain looking door, stands closed here.
+~
+~
+1 0 17744
+S
+#17847
+Entrance to a Spooky Graveyard~
+To the north stands a statue and towards the east and west, rows of
+graves can be seen.  The gate that stands open for all, is covered in ivy
+with the figures of Paladine on the left and Branchala on the right.  The
+metal work looks to have been done by dwarven, elven, and human artisans.  
+~
+0 4 11
+D0
+~
+~
+0 0 17854
+D1
+~
+~
+0 0 17848
+D2
+~
+~
+0 0 17707
+D3
+~
+~
+0 0 17856
+S
+#17848
+A Spooky Graveyard~
+As the mist rolls across the ground, one has the eerie feeling of being
+watched.  Some of the grave markers have crumbled because of age or
+vandalism.  Some though are neatly mowed, with fresh flowers and a beautiful
+head stone made of pink quartz.  
+~
+0 0 11
+D0
+~
+~
+0 0 17853
+D1
+~
+~
+0 0 17849
+D3
+~
+~
+0 0 17847
+S
+#17849
+Spooky Graveyard~
+The sound of a long howl, echoes throughout the graveyard.  The plot
+before you seems to be a family one, for the largest stone has the name of
+Glesiver.  A low wall of white marble encircles the family plot that has
+enough space for one maybe two more graves.  
+~
+0 0 11
+D0
+~
+~
+0 0 17850
+D3
+~
+~
+0 0 17848
+S
+#17850
+Spooky Graveyard~
+The rows of graves are laid out symmetrically and in even numbers.  Some
+four rows of evenly spaced head stones number at thirty per row.  In some
+ways it looks like the military had a hand in laying out the plots.  The
+grounds here are in need of a good cutting.  
+~
+0 0 11
+D0
+~
+~
+0 0 17866
+D1
+~
+~
+0 0 17851
+D2
+~
+~
+0 0 17849
+D3
+~
+~
+0 0 17853
+S
+#17851
+Spooky Graveyard~
+Some of the grave markers date back to before the first cataclysm.  Some
+of these markers are so weather worn that their inscriptions are all but
+gone.  As the mist rolls over the ground, your eyes are drawn toward a
+granite marker with a symbol of a hammer.  
+~
+0 0 11
+E
+marker hammer~
+---------------------------------
+|          Here lies            |
+|                               |
+|      Derick Stonehammer       |
+|                               |
+| Who held his ground defending |
+| his kinsmen from dark forces. |
+| May he rest in honor, and in  |
+|   the glory of Father Reorx.  |
+---------------------------------
+~
+D0
+~
+~
+0 0 17852
+D3
+~
+~
+0 0 17850
+S
+#17852
+Grave of Captain Quicksilver ~
+As the mist rolls across the ground, one has the eerie feeling of being
+watched.  A half full rum bottle of the captain's favorite brew sits in
+place of where someone would lay flowers.  The grave {Wmarker{x was made from
+the remains of his beloved ship, "The Evenin Tide".
+~
+0 0 11
+E
+marker~
+---------------------------------
+|          Here lies            |
+|                               |
+|    CAPT. EWINT QUICKSILVER    |
+|                               |
+| Died while drinking too much  |
+|    Loving too many women      |
+| And falling off his own ship! |
+---------------------------------
+~
+D2
+~
+~
+0 0 17851
+S
+#17853
+Spooky Graveyard~
+The land here must have been a swamp at one time for the ground here is
+almost soggy.  All the work it took to drain it and then fill it in is
+slowly becoming wasted.  With the rainy season and the season of sea born
+storms, the lands just cannot absorb so much water.  
+~
+0 0 11
+D0
+~
+~
+0 0 17865
+D1
+~
+~
+0 0 17850
+D2
+~
+~
+0 0 17848
+D3
+~
+~
+0 0 17854
+S
+#17854
+Center of a Spooky Graveyard~
+You find yourself in the center of the graveyard of Port o' Call.  Here
+the hedge rows form a square with openings that lead to the rest of the
+graveyard.  The grounds are mowed and trimmed almost on a daily basis, and
+watered twice a week.  Small flowers of many different colors dot the grounds
+that shed a sense of peace over the area.  
+~
+0 0 11
+D0
+~
+~
+0 0 17864
+D1
+~
+~
+0 0 17853
+D2
+~
+~
+0 0 17847
+D3
+~
+~
+0 0 17855
+S
+#17855
+Spooky Graveyard~
+A man and woman stand here speaking in low voices as they visit the grave
+of their son.  The head {Wstone{x is a small piece of driftwood, hand carved
+with his name on it.  As the family walks away the mother lays a rose on the
+grave before turning to leave and crying softly.  
+~
+0 0 11
+E
+head~
+{x
+                  _  /)
+                 |  / )
+                 |/)\)
+                  /\_
+                  \__|=
+                 (    )
+                 __)(__
+           _____/      \\_____
+          |  _     ___   _   ||
+          | | \     |   | \  ||
+          | |  |    |   |  | ||
+          | |_/     |   |_/  ||
+          | | \     |   |    ||
+          | |  \    |   |    ||
+          | |   \. _|_. | .  ||
+          |                  ||
+          |  Johnny Walker   ||
+          |                  ||
+  *       | *   **    * **   |**      **
+   \)),,.,./.,(//,,..,,\||(,,.,\\,.((//
+~
+E
+stone~
+{x
+                  _  /)
+                 |  / )
+                 |/)\)
+                  /\_
+                  \__|=
+                 (    )
+                 __)(__
+           _____/      \\_____
+          |  _     ___   _   ||
+          | | \     |   | \  ||
+          | |  |    |   |  | ||
+          | |_/     |   |_/  ||
+          | | \     |   |    ||
+          | |  \    |   |    ||
+          | |   \. _|_. | .  ||
+          |                  ||
+          |  Johnny Walker   ||
+          |                  ||
+  *       | *   **    * **   |**      **
+   \)),,.,./.,(//,,..,,\||(,,.,\\,.((//
+~
+D0
+~
+~
+0 0 17862
+D1
+~
+~
+0 0 17854
+D2
+~
+~
+0 0 17856
+D3
+~
+~
+0 0 17859
+S
+#17856
+Spooky Graveyard~
+The creaking of an elm tree is only one of the sounds that haunt this
+place.  The graves here are sunken into the ground and over grown with weeds
+and creeping vines.  Few of the grave markers are made of actual stone. 
+Many of them are little more than slim pieces of wood with names carved into
+them.  
+~
+0 0 11
+D0
+~
+~
+0 0 17855
+D1
+~
+~
+0 0 17847
+D3
+~
+~
+0 0 17857
+S
+#17857
+Spooky Graveyard~
+The path has been lined with limestone to create an easy to see path
+through the graveyard.  Every grave is also outlined with the limestone and
+each has a flower placed of the grave.  The path is well mowed and the
+bushes in the area are all trimmed.
+~
+0 0 11
+D0
+~
+~
+0 0 17859
+D1
+~
+~
+0 0 17856
+D3
+~
+~
+0 0 17858
+S
+#17858
+An Empty Grave~
+A freshly dug grave sits empty and ready to receive the next soul who has
+journeyed to the great beyond.  The dirt sits in a mound near by, covered by
+an oiled tarp to protect it from the rain.  The ground around this open
+grave a little soggy from the recent rains.  The ground covering is a
+mixture of moss, wild grasses, and wild flowers.  A couple of foot prints
+leads to the east back to the stone path.  
+~
+0 0 11
+D1
+~
+~
+0 0 17857
+S
+#17859
+Spooky Graveyard~
+A path stands here lined with limestone and red tulips.  A brass post
+that tarnished long ago, stands off to the west side of the path.  The post
+holds a lit torch, but the mist that covers the ground seems to only observe
+the light cast by it.  The path continues to the north, the south, and also
+branches off towards the east.  
+~
+0 0 11
+D0
+~
+~
+0 0 17860
+D1
+~
+~
+0 0 17855
+D2
+~
+~
+0 0 17857
+S
+#17860
+Spooky Graveyard~
+The path runs to the east and west, but also branches off towards the
+south.  A couple of men carrying shovels, picks, and a lit lantern walk along
+the path.  The sound of small rocks crunching under their booted feet seems
+to echo throughout the graveyard.  Before now, you had not really noticed
+just how quiet it really is amongst all these sleeping souls.  
+~
+0 0 11
+D1
+~
+~
+0 0 17862
+D2
+~
+~
+0 0 17859
+D3
+~
+~
+0 0 17861
+S
+#17861
+A Shallow Grave~
+The grave here is shallow, so much so that a corner of the pine box that
+was used as a coffin pokes in the air.  The marker is a pile of five
+stones of different colors, red, black, green, blue and white.  These colors
+are also the well known to be the colors of the dragons that serve the dark
+queen, Takhisis.  
+~
+0 0 11
+D1
+~
+~
+0 0 17860
+S
+#17862
+Spooky Graveyard~
+Some of the graves here have been dug up and pilfered.  The remains of
+some loved one is lying in a broken casket, and all that is left are some
+broken bones and tatters of cloth.  What would drive someone to do such a
+vile act and leave the scene is almost unthinkable.  A quick glance around
+shows muddy footprints leading to the north.
+~
+0 0 11
+D0
+~
+~
+0 0 17863
+D1
+~
+~
+0 0 17864
+D2
+~
+~
+0 0 17855
+D3
+~
+~
+0 0 17860
+S
+#17863
+Grave of the Blue Dragon Army's Warlord ~
+A granite crypt crafted by the best human stonemasons rest here on
+hallow ground.  For in death all are equal, only the path of their spirit is
+in question.  The crypt lid is carved in the image of the dead leader,
+another life like creation by an unknown artisan.  For the figure lays as
+if he still wears his armor, with his shield and sword upon his chest.
+~
+0 0 11
+D2
+~
+~
+0 0 17862
+S
+#17864
+Spooky Graveyard~
+The plots here are few and far between with lots of room for future use. 
+A couple of gravediggers are walking from the south with a shovel and pick
+over their shoulders.  One is carrying a lantern while the other carries his
+lunch in a pail.  Their work does not seem to dampen their spirit in this
+place.  One tells the other a bawdy tale about two women and a drunken priest.
+~
+0 0 11
+D1
+~
+~
+0 0 17865
+D2
+~
+~
+0 0 17854
+D3
+~
+~
+0 0 17862
+S
+#17865
+Spooky Graveyard~
+Not all the sections of this graveyard bring a peace to ones spirit. 
+Instead, they send an uncontrollable shiver up your spine, for the place
+fills you with dread.  The grasses look to have been burned away here, and
+only the wildest weeds are able to grow in the parched earth.  Among these
+weeds are creeping vines with many sharp thorns that will draw blood at the
+slightest touch.  
+~
+0 0 11
+D1
+~
+~
+0 0 17866
+D2
+~
+~
+0 0 17853
+D3
+~
+~
+0 0 17864
+S
+#17866
+Spooky Graveyard~
+For some who could not afford a marker, other items were used instead.  A
+sword with its blade thrust into the ground and a rusting helm perched on
+top of it serves as a marker for one such grave.  A sky blue ribbon, now
+tattered for the winds and weather, has been tied to the hilt.  The sword is
+plain looking, but is in far better condition than the helm for the only
+rust upon it comes from the helmet itself.  
+~
+0 0 11
+D0
+~
+~
+0 0 17867
+D2
+~
+~
+0 0 17850
+D3
+~
+~
+0 0 17865
+S
+#17867
+Tomb of an Unknown Hero~
+Much like the tomb in Solace, this one has been dedicated to a fallen
+hero.  Little is known about this strange warrior, for the Solamnic Knights
+in which he fought for have no knowledge of him.  No one knew his name or
+from where he called home, but his actions made up for his secrets.  In the
+few moments of a last defense before the Blue Dragonarmy, he stood with
+honor and courage, refusing to retreat even when his fellows left him.  It
+were these deeds that the Knights of Takhisis witnessed first hand and gave
+him a proper burial.
+~
+0 0 11
+D2
+~
+~
+0 0 17866
+S
+#17868
+Entrance to Port O' Call~
+This road through the meadow is peaceful.  The gates of Port o' Call
+stand to the east, while soldiers walk the ramparts overhead.  Many
+travelers who journey here are either looking to do some trading or to board
+a ship to lands across the sea.  
+~
+0 4 2
+D1
+The city gates stand before you.
+~
+~
+1 0 17724
+D3
+~
+~
+0 0 17869
+S
+#17869
+Road to Port O' Call~
+Walking through the open meadows, the road lays out before you.  The
+gates of the city of Port o' Call stand closed and guarded to the east.  The
+road to the west will eventually take the traveler to the city of Caergoth. 
+~
+0 0 2
+D1
+~
+~
+0 0 17868
+S
+#17870
+Road to Port O' Call~
+The road is a quiet path of dirt through open meadows.  The east gate
+into the city of Port o' Call stands just to the south of here.  The gate is
+guarded and kept closed until a traveler needs to enter or leave.  The city
+is one of the places where one can board a ship and journey to the lands of
+Krynn with ease.  
+~
+0 4 2
+D2
+An iron barred gate stands before you.
+~
+~
+1 0 17701
+S
+#17871
+The Slums~
+As the muck of a path continues, so do the end lines of beggars.  You
+wonder if the city guard would reward those who would end these people's
+sufferings.  Many houses are crammed together in the smallest amount of room
+possible.  These homes are smaller than most one-room homes and on average
+have a family of eight living in them.  A path leads to the west and south. 
+~
+0 4 2
+D2
+~
+~
+0 0 17872
+D3
+~
+~
+0 0 17837
+S
+#17872
+The Slums~
+Those who do not have a constructed home, huddle under tarps that have
+become makeshift tents.  The children that run in the streets, are barefoot,
+and very thin.  A mother calls after her son to not go too far, but he is
+soon gone from sight as he dodges around a stagnant puddle of water.  The
+path leads to the north and the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17871
+D2
+~
+~
+0 0 17873
+S
+#17873
+The Slums~
+The path continues to the north and south, but also turns toward the
+east.  The city guards are seldom seen in this part of the city.  If one is
+seen, they are either lost or have come to receive some private pleasures. 
+The path has poor drainage for many puddles of muddy water make it hard to
+stay completely dry.  
+~
+0 0 2
+D0
+~
+~
+0 0 17872
+D1
+~
+~
+0 0 17874
+D2
+~
+~
+0 0 17876
+S
+#17874
+The Slums~
+The lines of beggars slims a little but the path still seems to be filled
+with them.  All the city really needs to do is to raise a militia, and send
+these poor buggers to their doom.  It's an evil thought but their presence
+does bother you.  The muddy road continues to the south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 17875
+D3
+~
+~
+0 0 17873
+S
+#17875
+The Slums~
+A prophet stands here preaching that the end is near, and that those
+standing before him should throw away their worldly goods, (his way of
+course).  These words bring laughter from the crowd, and one among them
+shouts out a jeer.  To this the prophet sputters with anger and the people
+gathered around laugh all the more.  The path journeys to the west, north,
+and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17874
+D2
+~
+~
+0 0 17880
+D3
+~
+~
+0 0 17876
+S
+#17876
+The Slums~
+A band of hunters walks ahead of you, gawking at all the sights and
+sounds.  A guardsman walks towards the center of the city leading a group of
+prisoners by a length of chain.  A pack of children run around smiling and
+making fun of the prisoners as they are lead away.  The path through the
+slums leads to the north, the south and towards the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17873
+D1
+~
+~
+0 0 17875
+D2
+~
+~
+0 0 17877
+S
+#17877
+The Slums~
+A muddy path more than a road, runs to the north and south and is
+littered with trash.  Since a couple of shacks have now been torn down, the
+path also continues to the east.  One must have a cold heart or no wealth,
+for beggars line the path waiting for handouts.  If a kind soul comes
+around, they will soon be overwhelmed by the desperate folk.  
+~
+0 0 2
+D0
+~
+~
+0 0 17876
+D1
+~
+~
+0 0 17880
+D2
+~
+~
+0 0 17878
+S
+#17878
+The Slums~
+Coming to a bend in the path, it curves from the north and continues on
+toward the east and south.  As you travel further, the beggars lessen in
+number, but there are far too many for a city of this size.  Many lost their
+homes during the war, as well as hope.  A few missionaries from time to
+time, try and lend aid to those who are in need.  
+~
+0 0 2
+D0
+~
+~
+0 0 17877
+D1
+~
+~
+0 0 17879
+D2
+~
+~
+0 0 17884
+S
+#17879
+The Slums~
+The homes here could be described as being shacks, made from an
+assortment of scrap wood, hemp rope, and cloth tarps.  The path leads to the
+north as well as to the east and west.  This southern section of the slums
+is depressing, but does seem cleaner than other areas.  As to answer your
+thoughts, a gully dwarf appears from one of the shacks carrying a sack full
+of trash.  
+~
+0 0 2
+D0
+~
+~
+0 0 17880
+D1
+~
+~
+0 0 17882
+D3
+~
+~
+0 0 17878
+S
+#17880
+The Slums~
+The path lead brings you to the center of the slums, that also has
+joining paths in every direction.  Here before you stands an open soup
+kitchen, with only a leaky tarp as it only protection.  Its serves those who
+are in need, and there is no shortage of them.  By the smell of it, toady's
+special is stew and warm bread.  
+~
+0 0 2
+D0
+~
+~
+0 0 17875
+D1
+~
+~
+0 0 17881
+D2
+~
+~
+0 0 17879
+D3
+~
+~
+0 0 17877
+S
+#17881
+The Slums~
+The path that passes the homes here journeys to the south and continues
+to the west.  Few of the homes are still standing untouched, for many of
+them have been burned to the ground.  One door even has a white X painted on
+it, probably by a local healer.  These people have so little of everything,
+except for disease, misery, and even death.  
+~
+0 0 2
+D2
+~
+~
+0 0 17882
+D3
+~
+~
+0 0 17880
+S
+#17882
+The Slums~
+The path leads the Heathen way to the east, a road that has been known to
+be traveled by a crude breed of people.  The path to the west and north lead
+to more homes of the poor, and down trodden.  The path also leads to the
+south, and it is there that one would find the remains of an old smithy.  
+~
+0 4 2
+D0
+~
+~
+0 0 17881
+D1
+~
+~
+0 0 17834
+D2
+~
+~
+0 0 17883
+D3
+~
+~
+0 0 17879
+S
+#17883
+A Ruined Smithy~
+The coals banked in the forge have been cold for a long time.  A smear of
+dried blood covers the back wall and stains the floor.  The anvil that now
+lies on its side covered in dust, was dropped onto the floor near stains. 
+The smithy has been robbed of all its tools, molds, firewood, and supply of
+ore.  
+~
+0 8 2
+D0
+~
+~
+0 0 17882
+S
+#17884
+An Abandoned House~
+This home has seen better days, for it’s a wonder it still stands.  The
+fire burned away all the wood, leaving only the bare and blackened walls
+around you.  The floor is covered in wet soot and the charred remains of a
+ceiling brace.  As you shift the soot with your feet, you can see that the
+floor is only packed down earth.  
+~
+0 0 2
+D0
+~
+~
+0 0 17878
+S
+#17885
+The Estates of the Rich~
+This street amongst the homes of the upper class connects to Waterford
+street to the west.  This street is one of the best maintained streets you
+have ever seen.  There are sidewalks made of marble, and they even have
+bronzed lamp posts with gas burning lanterns.  These lamps emit a great deal
+of light that illuminates a good ten feet in each direction.  These posts have
+been placed ever twelve feet, so the light they cast overlaps.  The house to
+the east belongs to a rich merchant, also the street continues to the north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17886
+D1
+A door with a big, brass ring and bronzed handle stands before you.
+~
+~
+1 0 17890
+D2
+~
+~
+0 0 17887
+D3
+~
+~
+0 0 17763
+S
+#17886
+The Estates of the Rich~
+The clean, beautiful street with its bronzed lamp posts journeys to the
+north and south.  The home of a widowed noblewoman stands to the east.  The
+home is two stories tall, it is painted white with blue shutters and a blue,
+slate roof.  A short, white picket fence with a gate encircles the house. 
+The fence is a welcome place for birds to sit on and for green, ivy to grow
+on.  
+~
+0 0 1
+D0
+~
+~
+0 0 17887
+D1
+A door with panes of blue crystal in the shape of a heart, stands before you.
+~
+~
+1 0 17888
+D2
+~
+~
+0 0 17885
+S
+#17887
+The Estates of the Rich~
+The home of a nobleman stands to the east of here.  The home is only one
+story tall, but has the look of a mighty fortress.  Where the corners of the
+home should be, stand round towers that fly a green pennant with a golden
+arrow.  Well-groomed hedges, shaped to have flat sides, sit nestled against
+the outer walls.  The street leads to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17885
+D1
+A door covered in iron stands before you.
+~
+~
+1 0 17893
+D2
+~
+~
+0 0 17886
+S
+#17888
+A Home of a Noble Woman~
+The walls the interior are light, sky-blue in color.  The ceiling is
+decorated swirling carvings of ivy leaves on a vine.  These cravings frame
+the many works of art that have been painted on the ceiling as a well.  A
+staircase with spindles and well made banister leads up to the next floor. 
+The door that leads outside, back the street, stands to the west.  
+~
+0 8 1
+D3
+A door with panes of blue crystal in the shape of a heart, stands before you.
+~
+~
+1 0 17886
+D4
+~
+~
+0 0 17889
+S
+#17889
+An Elegant Bedroom~
+A bed sits centered in the room, large enough to hold four people side by
+side, and still have enough elbowroom.  The headboard and footboard both
+have tall spindles that support a canopy of fine silks.  The room is painted
+in a light, mint green and also has paintings on the ceiling.  These display
+many different renderings of lovers enjoying each other's embrace.  
+~
+0 8 1
+D5
+~
+~
+0 0 17888
+S
+#17890
+Home of a Wealthy Merchant~
+Most every fixture is gold plated and encrusted with gems.  The room has
+some leather chairs sitting in front of the fireplace.  Over the mantle of
+the fireplace, a portrait of a three masted sailing ship hangs on the wall.
+A cast iron, spiral staircase stands in the center of the room, leading
+upstairs.  The door back outside stands to the west.  
+~
+0 8 1
+D3
+A door with a big, brass ring and bronzed handle stands before you.
+~
+~
+1 0 17885
+D4
+~
+~
+0 0 17891
+S
+#17891
+The Master Bedroom~
+Stacked in the corner are iron bond chests of different size and make.  A
+table stands against the north wall under a map hanging on the wall.  The
+table itself is covered in maps and rolled up parchment.  The bed is rather
+small for someone with so much wealth.  A sword hangs on a peg near the head
+of the bed, and an empty rum bottle lies on its side on the floor.  A cast
+iron, spiral staircase in the center of the room leads back downstairs.  A
+small door that might open into a closet stands to the east.  
+~
+0 8 1
+D1
+A small door with carvings stands before you.
+~
+~
+1 0 17892
+D5
+~
+~
+0 0 17890
+S
+#17892
+A Storage Closet~
+From the dust that covers everything in here, this closet has not been
+used in years.  All sorts of equipment has been placed on shelves or in
+boxes.  Weapons of all sorts, from daggers to cutlasses and even a heavy
+crossbow have been deposited here.  A brass bar that has been attached
+between the walls, serves as a place to hang sets of dusty clothes.  
+~
+0 8 1
+D3
+A small door with carvings stands before you.
+~
+~
+1 0 17891
+S
+#17893
+The Home of a Nobleman~
+The room is a mixture of a foyer and a sitting room.  A coat rack stands
+near the door and a carpet of green and gold leads from the door into
+another room to the east.  This room is so large, that a partition has been
+built on the north and south side of the room.  The curtain is drawn back to
+reveal a small bedroom to the north, and a just as small kitchen to the
+south.  
+~
+0 8 1
+D0
+~
+~
+0 0 17782
+D1
+~
+~
+0 0 17894
+D2
+~
+~
+0 0 17899
+D3
+A door covered in iron stands before you.
+~
+~
+1 0 17887
+S
+#17894
+The Sun Room~
+The ceiling has many skylights to allow the sun to light the room, as
+does a very large window set in the eastern wall.  The walls of the room are
+lined with bookshelves, which are filled with many books from the different
+ages of Krynn.  A small wooden table sits in the center of the room, as does
+the tray of drinking spirits that sits on top of the table.  Towards the
+west is the foyer of this great home.  
+~
+0 8 1
+D3
+~
+~
+0 0 17893
+S
+#17895
+City Hall~
+You stand just inside the entrance of City Hall.  The floor is made of a
+marble with a blue tint to it.  The walls are made of white marble, and the
+ceiling is supported by black, fluted columns.  The Mayor's office is to
+the west, the courtroom is towards the north, and the Hall of Justice to the
+east.  
+~
+0 8 1
+D0
+~
+~
+0 0 17898
+D1
+~
+~
+0 0 17896
+D2
+~
+~
+0 0 17758
+D3
+A double set of white doors stand before you.
+~
+~
+1 0 17897
+S
+#17896
+The Hall of Justice~
+Similar to the courtroom, the Hall of Justice serves for the place to
+hear about civil matters.  The courtroom was set aside to handle the cases
+involving criminals who have broken the law.  Those who have a complaint
+about noisy neighbors, bad business partners, or even city planning come
+here to have their case heard.  
+~
+0 8 1
+D3
+~
+~
+0 0 17895
+S
+#17897
+The Mayor's Office~
+The floor is covered in red carpet that looks new.  A desk with a leather
+chair sits near the north wall, just in front of a window.  A potted plant
+stands in one of the corners of the room that has wilted due to lack of
+care.  A thin layer of dust sits on top of the desk, as does a letter.  This
+{yletter{x lies on top of the desk with a dagger stuck through it.  
+~
+0 8 1
+E
+letter~
+-------------------------------------------------------
+|           We have your precious mayor,              |
+|           Put 5,000 steel in a sack,                |
+| Dump it in the drainage ditch in the center of town,|
+|     Don't try anything funny, or he's a dead man.   |
+|                                                     |
+| Derfta the Backstabber                              |
+-------------------------------------------------------
+~
+D1
+A double set of white doors stand before you.
+~
+~
+1 0 17895
+S
+#17898
+The Courtroom~
+To either side of the door, wooden benches sit ready to be filled.  On
+the north side of the room, sits a raised, wooden dais.  On this dais, a man
+wearing black robes sits listening to the charges against the prisoner. 
+Over the dais, a statue of a blindfolded woman stands, holding a sword in
+her left hand, and a set of scales in her right.  
+~
+0 8 1
+D2
+~
+~
+0 0 17895
+S
+#17899
+A Small Kitchen~
+The small sink has an iron figure in the shape of a {yhorse{x mounted
+next to it.  Across from the sink is a stone oven and a pot belly stove. 
+Sitting next to the stove is a small box filled with cut wood and kindling. 
+A cutting block also stands beside the sink and looks to have been used
+recently.  A heavy curtain has been drawn back to allow for a view into the
+sitting room to the north.  
+~
+0 8 1
+E
+figure horse~
+A small, iron figure is mounted to the side of the sink.  An iron pipe is
+connected to it in which runs into and through the floor.  The tail of the
+figure moves when you lift it up and pump it down.  After a few good pumps,
+water comes spurting out of the horse's mouth and into the sink.  
+~
+D0
+~
+~
+0 0 17893
+S
+#17900
+An Ancient Vessel~
+This is an ancient vessel, carved intricately from a deep mahogany.  The
+masts of the vessel loom high above, and the silvery black sails seem to be
+always billowing by some disquieting magic even when the air is perfectly
+still.  An overwhelming sadness fills the air of the vessel as it floats
+upon the New Sea.  Carved into the ship's trim are numerous runes, all
+elven, some in a dark, contorted script and some in the flamboyant lettering
+of the elves of Qualinesti.  Docking gates are mounted on the north and
+south sides of the ship.  
+~
+0 18882568 14
+D0
+~
+~
+2 17785 17788
+D2
+~
+~
+2 17785 17784
+S
+#0
+
+
+
+#SPECIALS
+M 17705 spec_ghost
+M 17706 spec_ghost
+M 17707 spec_ghost
+M 17711 spec_ghost
+M 17713 spec_guard
+M 17784 spec_ferrysol
+M 17896 spec_cast_judge
+M 17898 spec_cast_judge
+S
+
+
+
+#RESETS
+D 0 17724 3 1
+D 0 17728 1 1
+D 0 17744 3 1
+D 0 17784 0 2
+D 0 17788 2 2
+D 0 17792 1 1
+D 0 17793 3 1
+D 0 17843 3 1
+D 0 17846 1 1
+D 0 17868 1 1
+D 0 17870 2 1
+D 0 17885 1 1
+D 0 17886 1 1
+D 0 17887 1 1
+D 0 17888 3 1
+D 0 17890 3 1
+D 0 17891 1 1
+D 0 17892 3 1
+D 0 17893 3 1
+D 0 17895 3 1
+D 0 17897 1 1
+D 0 17900 0 2
+D 0 17900 2 2
+M 0 17713 50 17701 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17703 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17705 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17707 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17709 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17711 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17719 24 17712 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17713 50 17713 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17715 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17717 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17720 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17722 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17724 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17725 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17726 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17728 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17719 24 17730 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17712 24 17732 2
+E 0 17725 0 20
+M 0 17712 24 17733 2
+E 0 17725 0 20
+M 0 17712 24 17735 2
+E 0 17725 0 20
+M 0 17712 24 17736 2
+E 0 17725 0 20
+M 0 17713 50 17736 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+O 0 17702 0 17736
+M 0 17712 24 17738 2
+E 0 17725 0 20
+M 0 17712 24 17739 2
+E 0 17725 0 20
+M 0 17712 24 17741 2
+E 0 17725 0 20
+O 0 17704 0 17743
+P 0 17705 2 17704 2
+P 0 17706 2 17704 2
+P 0 17707 2 17704 2
+P 0 17708 2 17704 2
+M 0 17719 24 17744 2
+E 0 17732 0 20
+E 0 17733 0 5
+O 0 17703 0 17745
+M 0 17719 24 17747 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17719 24 17751 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17713 50 17753 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17719 24 17757 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17713 50 17757 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17760 1 17760 1
+M 0 17761 1 17760 1
+M 0 17762 1 17760 1
+M 0 17719 24 17761 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17713 50 17761 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17719 24 17765 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17713 50 17769 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17718 20 17771 2
+M 0 17713 50 17771 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17718 20 17772 2
+M 0 17718 20 17773 2
+M 0 17718 20 17775 2
+M 0 17713 50 17776 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17718 20 17777 2
+M 0 17718 20 17779 2
+O 0 17782 0 17782
+P 0 17783 1 17782 1
+P 0 17784 1 17782 1
+M 0 17718 20 17783 2
+M 0 17719 24 17783 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17784 1 17784 1
+E 0 17785 0 21
+M 0 17718 20 17785 2
+M 0 17718 20 17787 2
+M 0 17718 20 17788 2
+M 0 17714 24 17790 2
+M 0 17715 24 17790 2
+M 0 17791 1 17791 1
+M 0 17792 1 17792 1
+M 0 17715 24 17794 2
+M 0 17716 24 17794 2
+E 0 17731 0 5
+M 0 17714 24 17795 2
+M 0 17716 24 17795 2
+E 0 17731 0 5
+M 0 17716 24 17796 2
+E 0 17731 0 5
+M 0 17715 24 17796 2
+M 0 17715 24 17797 2
+M 0 17716 24 17799 2
+E 0 17731 0 5
+M 0 17714 24 17799 2
+M 0 17716 24 17799 2
+E 0 17731 0 5
+M 0 17715 24 17800 2
+M 0 17714 24 17801 2
+M 0 17715 24 17801 2
+M 0 17712 24 17804 2
+E 0 17725 0 20
+M 0 17714 24 17806 2
+M 0 17715 24 17807 2
+M 0 17716 24 17807 2
+E 0 17731 0 5
+M 0 17717 26 17808 2
+M 0 17713 50 17808 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17717 26 17809 2
+M 0 17717 26 17810 2
+M 0 17717 26 17811 2
+M 0 17717 26 17812 2
+M 0 17717 26 17813 2
+M 0 17717 26 17814 2
+M 0 17717 26 17815 2
+M 0 17717 26 17816 2
+M 0 17717 26 17817 2
+M 0 17713 50 17817 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17717 26 17818 2
+M 0 17713 50 17819 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17821 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17823 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17825 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17826 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17828 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17712 24 17830 2
+E 0 17725 0 20
+M 0 17713 50 17830 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17712 24 17831 2
+E 0 17725 0 20
+M 0 17716 24 17832 2
+E 0 17731 0 5
+M 0 17713 50 17833 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17713 50 17835 2
+E 0 17726 0 20
+E 0 17727 0 15
+E 0 17728 0 5
+E 0 17729 0 8
+E 0 17730 0 11
+M 0 17717 26 17837 2
+M 0 17842 2 17839 2
+G 0 17739 0
+G 0 17839 0
+G 0 17838 0
+G 0 17837 0
+O 0 17737 0 17839
+O 0 17738 0 17839
+M 0 17719 24 17841 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17842 2 17842 2
+G 0 17735 0
+G 0 17842 0
+G 0 17736 0
+G 0 17840 0
+G 0 17841 0
+O 0 17734 0 17842
+M 0 17843 1 17843 1
+E 0 17843 0 20
+M 0 17844 1 17844 1
+G 0 17844 0
+G 0 17845 0
+M 0 17706 2 17845 2
+E 0 17716 0 20
+E 0 17717 0 5
+E 0 17718 0 15
+M 0 17846 1 17846 1
+E 0 17850 0 5
+E 0 17851 0 20
+M 0 17710 10 17848 1
+E 0 17724 0 21
+M 0 17710 10 17849 1
+E 0 17724 0 21
+M 0 17711 10 17850 1
+M 0 17709 10 17850 1
+M 0 17709 10 17851 1
+M 0 17705 1 17852 1
+E 0 17713 0 20
+E 0 17715 0 8
+E 0 17714 0 5
+M 0 17711 10 17853 1
+M 0 17709 10 17853 1
+O 0 17854 0 17854
+M 0 17708 10 17854 1
+E 0 17722 0 20
+E 0 17723 0 21
+M 0 17710 10 17855 1
+E 0 17724 0 21
+M 0 17708 10 17856 2
+E 0 17722 0 20
+E 0 17723 0 21
+M 0 17708 10 17857 2
+E 0 17722 0 20
+E 0 17723 0 21
+M 0 17708 10 17858 1
+E 0 17722 0 20
+E 0 17723 0 21
+M 0 17711 10 17859 1
+M 0 17709 10 17859 1
+M 0 17709 10 17860 1
+M 0 17711 10 17860 1
+M 0 17711 10 17861 1
+M 0 17710 10 17862 1
+E 0 17724 0 21
+M 0 17707 1 17863 1
+E 0 17719 0 20
+E 0 17720 0 5
+E 0 17721 0 8
+M 0 17708 10 17864 2
+E 0 17722 0 20
+E 0 17723 0 21
+M 0 17711 10 17865 1
+M 0 17709 10 17865 1
+M 0 17711 10 17866 1
+M 0 17709 10 17866 1
+M 0 17706 2 17867 2
+E 0 17716 0 20
+E 0 17717 0 5
+E 0 17718 0 15
+M 0 17701 10 17871 2
+M 0 17702 20 17872 2
+E 0 17709 0 20
+E 0 17710 0 5
+M 0 17702 20 17873 2
+E 0 17709 0 20
+E 0 17710 0 5
+M 0 17701 10 17874 2
+M 0 17704 10 17874 2
+M 0 17704 10 17875 2
+M 0 17701 10 17875 2
+M 0 17701 10 17876 1
+M 0 17703 15 17876 1
+E 0 17711 0 20
+E 0 17712 0 5
+M 0 17704 10 17877 1
+M 0 17702 20 17878 1
+E 0 17709 0 20
+E 0 17710 0 5
+M 0 17703 15 17879 3
+E 0 17711 0 20
+E 0 17712 0 5
+M 0 17704 10 17880 2
+M 0 17701 10 17880 2
+M 0 17703 15 17881 3
+E 0 17711 0 20
+E 0 17712 0 5
+M 0 17702 20 17882 3
+E 0 17709 0 20
+E 0 17710 0 5
+M 0 17702 20 17883 1
+E 0 17709 0 20
+E 0 17710 0 5
+M 0 17720 1 17888 1
+E 0 17731 0 5
+M 0 17721 1 17890 1
+E 0 17713 0 20
+M 0 17722 1 17893 1
+E 0 17731 0 5
+M 0 17719 24 17895 2
+E 0 17732 0 20
+E 0 17733 0 5
+M 0 17896 1 17896 1
+E 0 17896 0 20
+M 0 17897 1 17897 1
+M 0 17898 1 17898 1
+E 0 17898 0 20
+S
+
+
+
+#SHOPS
+17842 0 0 0 0 0 100 100 0 23
+17844 0 0 0 0 10 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#17897
+say {GHello $n, the mayor is not available at this time{x.
+say {GThere is a letter here that you can read though...{x.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#17707
+if rand < 25
+say '{RHELP ME! AHHHHH!{x'
+else
+if rand < 50
+say "{MOH MY GODS! MY WIFE'S BEEN MURDERED!{x"
+else
+if rand < 75
+say "{YNOOO! PLEASE, I BEG YOU...{x"
+else
+say "{GMUHAHAHA...WHO SHALL BE MY NEXT VOLUNTEER?{x"
+endif
+~
+#0
+
+#$

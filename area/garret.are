@@ -1,0 +1,3170 @@
+#AREADATA
+Name Garret~
+Builders Paladine~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 5400 5499
+Credits Paladine~
+Security 9
+End
+
+
+
+#MOBILES
+#5400
+banker~
+the banker~
+The banker is here, hard at work.
+~
+Behind the bank's counter is a young female elf of high stature.  She has
+a good eye to keep watch of herself, and is very attractive and good
+looking.  She isn't all that interested in much, and could care less
+about matters outside her job here at the bank.  
+~
+half-elf~
+ABde J 750 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#5401
+wild dog~
+a wild street dog~
+A wild street dog barks at you as you stroll past it.
+~
+You see a small dirty dog, but it looks kind of vicious too.
+~
+fido~
+AFGH 0 -300 0
+1 1 3d2+11 1d10+85 1d2+5 bite
+8 8 8 8
+FH 0 0 C
+stand stand either 1
+ABGV ACDEFHJKQUV S unknown 0
+F off R
+#5402
+trap operator~
+the trap operator~
+The trap operator sits here, waiting to activate his trap.
+~
+This guard is the designated trap operator.  His job is to activate the
+trap if it is needed.  
+~
+human~
+AB BDFNOV 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5403
+hooligan~
+a hooligan~
+A hooligan is here, performing evil deeds.
+~
+In front of you is a tough looking hooligan that is tearing up this nice
+city in every way imaginable.  His main purpose is to destroy anything that
+he pleases.  
+~
+human~
+AGc J -400 0
+20 20 41d6+203 20d10+85 6d3+15 thwack
+-3 -3 -3 0
+0 0 Q C
+stand stand male 100
+AHMV ABCDEFGHIJK M unknown 0
+#5404
+pauper~
+a pauper~
+A pauper is here, asking for your money.
+~
+A man in ragged clothing stands before you.  He looks like he hasn't had
+a decent meal in a week plus.  Perhaps a kind soul will be grateful enough
+to help him out.  
+~
+human~
+ACGH 0 300 0
+20 10 21d3+102 10d10+85 3d3+10 punch
+2 2 2 4
+0 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK M unknown 0
+#5405
+city maintenance~
+city maintenance~
+City maintenance is here, cleaning up the mess.
+~
+In front of you is city maintenance.  The job of maintenance is to keep
+the city clean and in pristine condition.  The maintenance worker does not
+look all that happy with the job though...  
+~
+human~
+ACGc 0 450 0
+30 30 61d10+304 30d10+85 10d3+20 punch
+-10 -10 -10 -4
+CI 0 0 H
+stand stand either 200
+AHMV ABCDEFGHIJK M unknown 0
+#5406
+male citizen~
+a male citizen~
+A citizen of Garret is here, going about his business.
+~
+In front of you is a male citizen of Garret.  The citizen is wearing
+pretty nice clothing, and he is going about his merry way, knowing that the
+knights will protect him in case of emergency.  
+~
+human~
+AG 0 500 0
+45 45 91d15+455 45d10+85 15d3+27 punch
+-21 -21 -21 -11
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 0
+#5407
+female citizen~
+a female citizen~
+A citizen of Garret is here, going about her business.
+~
+In front of you is a female citizen of Garret.  She is wearing pretty
+nice clothing, and she is going about her merry way, knowing that the
+knights will protect her in case of emergency.  
+~
+human~
+AG 0 600 0
+45 45 91d15+455 45d10+85 15d3+27 slap
+-21 -21 -21 -11
+0 0 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJK M unknown 0
+#5408
+knight~
+a knight~
+A knight is here, keeping the peace.
+~
+The tall knight is standing before you, dressed in full armor.  None of
+his body is exposed under the glistening suit of armor.  The knight looks
+quite intimidating dressed up with all his armor and with his sword ready
+at his side for when he should need it.  
+~
+human~
+AGT V 1000 0
+60 60 121d20+1213 60d10+85 20d3+35 punch
+-30 -30 -30 -18
+CEFHIJKNO 0 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK M unknown 0
+#5409
+child~
+a child~
+A child is here, playing around.
+~
+This small child is only three feet tall, with ragged clothing on the
+child, because of normal wear and tear.  As you look down upon the child,
+the child looks back up at you, and blinks innocently.  
+~
+human~
+AG 0 -200 0
+5 5 11d2+51 5d10+85 1d5+7 punch
+5 5 5 7
+0 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK S unknown 0
+#5410
+worshipper pala~
+a worshipper~
+A worshipper of Paladine is here in the temple, worshipping.
+~
+In front of you is a person who is draped in comfortable robes which have
+the symbol of Paladine on them.  This particular person seems to be better
+off in life for some odd reason, and seems to be in perfect health.  The
+worshipper usually spends most of his time in the temple, worshipping his
+god, Paladine.  
+~
+human~
+ABQ HN 1000 0
+37 37 75d12+374 37d10+85 12d3+23 divine
+-15 -15 -15 -7
+0 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK M unknown 0
+#5411
+nako~
+Nako~
+Nako the weaponsmith is here; ready to sell you one of his creations.
+~
+As you eye Nako, you notice many scars and cuts from many years of
+battle.  He has since retired from battle, and now makes weapons for sale.  
+~
+elf~
+AB J 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#5412
+snow~
+Snow~
+Snow is here, brewing up yet another potion.
+~
+In front of you is a woman with white hair, but her hair is not that
+color because of age, as she is quite young.  Her hair is always kept white
+as snow, and that is where she got her name.  
+~
+human~
+AB 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#5413
+Silverhiel~
+Silverhiel~
+Silverhiel is here, waiting to sell you some fine armor.
+~
+In front of you is the man in town known for his specialty in excellent
+armory.  He has been doing armor for quite a long time, and knows what he is
+doing.  
+~
+human~
+AB 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK M unknown 0
+#5414
+tyn~
+Tyn~
+Tyn is here, standing behind the counter, waiting to sell you something.
+~
+In front of you is Tyn, the manager of the general store.  She is tall, thin, and quite friendly.  Tyn has been around for quite some years, and
+wrinkles are beginning to show upon her face, although she still looks as
+young as ever.  
+~
+half-elf~
+AB 0 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F aff J
+F res B
+#5415
+kyer~
+Kyer~
+Kyer the Ruby Winter is waiting to train you.
+~
+In front of you is an almost deathly pale woman.  Upon further
+examination, you find that she is almost as white as the winter itself.  Her
+hair is a natural deep red, and she looks quite beautiful.  
+~
+elf~
+ABJQb DFJ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+F vul Z
+#5416
+garret mprog bot~
+the garret mprog bot~
+The garret mprog bot is here.
+~
+This bot sends out zecho messages to garret.
+~
+human~
+ABc B 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M RANDOM 5416 3~
+#5417
+red dragon~
+a red dragon~
+A red dragon is here, guarding the top of the tower.
+~
+A beautiful, yet deadly red dragon is here, guarding the tower.  The
+dragon has very large and beautiful eyes, which are the color of emeralds. 
+The deadly beauty of the dragon leaves you in awe.  
+~
+dragon~
+ABFRT DFJ -1000 0
+120 120 180d40+3277 120d10+85 34d3+45 flbite
+-47 -47 -47 -22
+HMNOR AB EGH I
+stand stand either 13548
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F aff T
+F res B
+F vul F
+#5418
+blue dragon~
+a blue dragon~
+A blue dragon is here, flying the skies.
+~
+In the skies, you see a large dragon.  Its color is blue, and shines in
+the light of the sun.  The large eyes are a red color, the color of rubies. 
+~
+dragon~
+AFGRT JT -1000 0
+75 75 151d25+1515 75d10+85 25d3+42 shbite
+-41 -41 -41 -25
+HMNOR AB EGJ 0
+stand stand either 11974
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F res BH
+F vul FI
+#5419
+black dragon~
+a black dragon~
+A black dragon is here, devouring a human.
+~
+This adult black dragon is about thirty feet in length.  The sound of
+snapping bones can be easily heard as he munches a human with his long and
+razor-sharp teeth in his bloody mouth.  
+~
+dragon~
+AFG DFJQVc -1000 0
+65 65 131d21+1313 65d10+85 21d3+37 none
+-34 -34 -34 -20
+FHMOR AB EH FI
+stand stand none 10051
+AHZ ACDEFGHIJKPQUVX H unknown 0
+F aff T
+F res B
+#5420
+honky bell ringer keeper~
+Honky the Time Keeper and Bell Ringer~
+Honky the Time Keeper and Bell Ringer stands here.
+~
+Hi there honky.  Oh, you thought that was my name?  Well, Hah, the joke's
+on you honky.  You may refer to me as, 'His excellence', Whitey.  
+~
+human~
+ABc B 0 0
+200 200 401d66+8081 200d10+85 66d3+105 punch
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#5421
+adept~
+an adept of Paladine~
+An adept of Paladine is here, healing the wounded.
+~
+Standing in front of you is a young woman who has devoted her life to
+healing people; and as such, has become an adept of the great God of Good,
+Paladine.  
+~
+human~
+ABQa H 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#5400
+no name~
+unused~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#5401
+brass knuckles~
+a pair of {Ybrass{x knuckles~
+A shiny pair of brass knuckles lies here on the ground, waiting to be used.~
+brass~
+weapon 0 0 ANY
+exotic 4 8 beating 0
+30 1 2060 P
+#5402
+can spray paint~
+a can of spray paint~
+A can of spray paint is here on the ground.~
+tin~
+wand 0 0 AOc
+15 10 10 'colour spray' 0
+30 5 2000 P
+#5403
+cheap earrings~
+a pair of cheap earrings~
+A pair of cheap earrings lies here, forgotten.~
+tin~
+jewelry 0 0 AEc
+0 0 0 0 0
+0 1 100 P
+#5404
+ragged clothes~
+some ragged clothes~
+Some ragged clothes lies here in the dust.~
+homespun~
+armor S 0 AKY
+D D D AC 0
+40 1 10 P
+#5405
+begging pan~
+a begging pan~
+This pan looks like it would be just right to beg with.~
+tin~
+trash 0 0 AOc
+0 0 0 0 0
+0 1 10 P
+#5406
+broom~
+a broom~
+A broom is lying here, waiting to be put to use.~
+wood~
+weapon S 0 ANc
+exotic 7 7 thwack 0
+50 2 0 P
+#5407
+tool belt~
+a tool belt~
+A tool belt is lying here in the dirt.~
+leather~
+container S 0 ALY
+15 0 0 30 2
+50 0 2500 P
+#5408
+dustpan~
+a dustpan~
+Someone left a dustpan here.~
+tin~
+trash 0 0 AOc
+0 0 0 0 0
+5 5 1000 P
+#5409
+padded pants~
+a pair of padded pants~
+A pair of padded pants lies here.~
+cloth~
+armor S 0 AFY
+BCD E BCD BD 0
+65 1 3000 P
+#5410
+nice shirt~
+a nice looking shirt.~
+A very nice looking shirt lies here, forgotten.~
+linen~
+armor S 0 ADc
+CD CD CD ABD 0
+65 0 3000 P
+#5411
+comfortable walking shoes~
+({CComfortable{X) A pair of walking shoes~
+Someone's pair of walking shoes lie here on the ground.~
+soft leather~
+armor S 0 AGc
+A A A A 0
+0 2 3000 P
+#5412
+finely crafted sword~
+a finely crafted sword~
+Someone left a very nice sword here.~
+steel~
+weapon 0 0 ANY
+sword 3 28 slash D
+80 6 4240 P
+#5413
+knight breast plate~
+a knight's breastplate~
+A very nice breastplate has been left here on the ground.~
+steel~
+armor I 0 ADY
+BE E BCE BCD C
+80 20 4000 P
+#5414
+knight helm~
+a knight's helmet~
+A knight has left his helmet here.~
+steel~
+armor 0 0 AEY
+AE ABCD ACE ACD C
+80 13 4000 P
+#5415
+child clothes clothing dirty~
+some child-size clothing~
+Some small dirty clothes lie here in the dirt.~
+homespun~
+armor S 0 AKW
+B B B 0 0
+25 1 0 P
+#5416
+white priestly robes~
+({CRegal{x) Priestly Robes~
+A set of white robes embroidered with a silver triangle lies here, forgotten.~
+silk~
+armor AIKS 0 AKY
+CD ACD CD ABCD 0
+57 2 3700 P
+#5417
+mace destruction~
+the Mace of {RDestruction{x~
+A mace with strange symbols lies here in the dust.~
+iron~
+weapon BGI 0 ANZ
+mace 8 8 crush S
+55 11 2755 P
+A
+19 4
+A
+18 4
+#5418
+flail vengeance~
+the Flail of {rVengeance{x~
+Here lies a wicked looking flail.~
+mithril~
+weapon AY 0 ANY
+flail 4 12 tail E
+40 8 8000 P
+#5419
+hard leather whip~
+a hard leather whip~
+A hard leather whip catches your attention.~
+leather~
+weapon S 0 ANY
+whip 7 7 whip 0
+50 2 9000 P
+#5420
+obscure dagger~
+an obscure dagger~
+A dagger that almost escapes your sight lies here on the ground.~
+onyx~
+weapon AS 0 ANW
+dagger 5 7 stab 0
+35 1 6500 P
+#5421
+scroll parchment~
+a tightly rolled parchment~
+A tightly rolled parchment rests here on the ground.~
+paper~
+scroll S 0 AO
+0 '' '' '' 'reserved'
+0 2 100 P
+#5422
+holy wand~
+a holy wand~
+This wand gives off a holy aura.~
+ash~
+wand GKS 0 AO
+75 10 10 'ray of truth' 0
+60 3 100000 P
+#5423
+blue potion recall~
+a potion of recall~
+A blue potion lies here.~
+glass~
+potion GS 0 AO
+101 'word of recall' 'reserved' 'reserved' 'reserved'
+20 2 2500 P
+#5424
+ornate glass vial potion~
+an ornate glass vial~
+Someone left an ornate glass vial here.~
+glass~
+potion S 0 AO
+0 '' '' '' ''
+10 5 500 P
+#5425
+forged shield~
+a forged shield~
+A shield forged out of the finest steel lies here on the ground.~
+steel~
+armor Y 0 AJc
+BD BD BD BC 0
+45 12 2500 P
+#5426
+silver triangle medallion~
+a {Csilver{x triangle medallion~
+A {Csilver{x triangle on a thin chain lies here, giving off a holy aura.~
+silver~
+armor AIK 0 ACX
+AD AD D D 0
+40 1 700 P
+#5427
+leather leggings~
+a pair of leather leggings~
+A pair of leather leggings lies here on the ground.~
+leather~
+armor S 0 AFc
+C BC AC 0 0
+15 4 750 P
+#5428
+finely crafted boots~
+some finely crafted boots~
+Someone has left a pair of finely crafted boots here on the floor.~
+tooled leather~
+armor S 0 AGc
+ABC D ABC B 0
+25 2 1000 P
+#5429
+water jug~
+a water jug~
+A large water jug sits here on the ground.~
+clay~
+drink S 0 A
+50 50 'water' 0 0
+20 5 1500 P
+#5430
+mashed potatoes~
+mashed potatoes~
+Some mashed potatoes lies here.~
+plant~
+food S 0 A
+AC CE 0 0 0
+0 1 100 P
+#5431
+green lantern~
+a green lantern~
+Someone left a green lantern here.~
+copper~
+light A 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+20 2 1000 P
+#5432
+juicy steak~
+a juicy steak~
+This juicy steak makes your mouth water, although you are only looking at it.~
+flesh~
+food S 0 A
+ABCD BCDE 0 0 0
+0 1 100 P
+#5433
+ordinary bench~
+a bench~
+An ordinary bench is here in the corner.~
+pine~
+furniture S 0 P
+AB DFGHIJ EHK ABC ABC
+0 0 0 P
+#5434
+comfortable chair~
+a comfortable chair~
+This comfortable chair looks inviting.~
+wood~
+furniture S 0 P
+B DFGHIJ F AC AC
+0 0 0 P
+#5435
+red dragon claw exotic~
+a {rRed Dragon's{x claw~
+An evil looking claw lies here.~
+bone~
+weapon ABGISY 0 ANZ
+exotic 10 11 claw ADH
+115 6 0 P
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMS
+#5400
+The Mystical Vortex~
+The Mystical Vortex is known throughout the city as providing excellent
+magical items for those who want it.  All along the walls, there are
+paintings of the different types of magic that is used around the world.  On
+the wall behind the counter, there are magical sparks that continuously
+move, making a moving swirling vortex, of sorts.  Along the north wall is a
+counter where the goods are sold.  
+~
+0 8 1
+D3
+~
+~
+0 0 5462
+S
+#5401
+The Gates of Garret Keep~
+As one enters the gates of Garret Keep, the prominence of the northern
+gate is imminent.  The pair of great metallic gates has a silver luster to
+them with many intricate designs carved into it.  The gate must stand at
+least a good twenty stones high, and is made from fine materials.  By each
+side of the gate, there are towers to help protect the city from invaders. 
+The City of Garret lies to the north.  
+~
+0 262144 1
+D0
+~
+gate~
+1 0 5408
+S
+#5402
+Trapped!~
+This room is sort of a cramped alcove, and is primarily used for
+capturing and dealing with shady people.  In this room, there are several
+holes in the ceiling, for reasons unknown.  As soon as you enter the room,
+there is a distinctive clink of the gate shutting the exit, and red-hot
+molten steel pours down from through the holes in the ceiling.  The red-hot
+steel fills the room, thus quickly expiring the room's contents.  
+~
+0 2400268 1
+S
+#5403
+Left Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals east, and the exit to the tower is to
+the down, leading back to Charles Street.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5404
+D5
+~
+~
+0 0 5405
+S
+#5404
+Left Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals up or back to the west in the tower. 
+~
+0 262144 1
+D3
+~
+~
+0 0 5403
+D4
+~
+~
+0 0 5415
+S
+#5405
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Here there is a marble stairwell going up to the massive tower. 
+Charles Street is back to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5406
+D4
+~
+~
+0 0 5403
+S
+#5406
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Charles Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5407
+D3
+~
+~
+0 0 5405
+S
+#5407
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Charles Street continues east and west, and Winter Street is to the
+north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5416
+D1
+~
+~
+0 0 5408
+D3
+~
+~
+0 0 5406
+S
+#5408
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west, and also the notorious gate to the south.  Charles Street is to the
+east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5409
+D2
+~
+~
+1 0 5401
+D3
+~
+~
+0 0 5407
+S
+#5409
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Charles Street continues east and west, and Winter Street is to the
+north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5417
+D1
+~
+~
+0 0 5410
+D3
+~
+~
+0 0 5408
+S
+#5410
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Charles Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5411
+D3
+~
+~
+0 0 5409
+S
+#5411
+Charles Street~
+Charles Street is a well traveled, well kept up street, linking the gate
+of Garret to the rest of the town.  Along Charles Street, there are various
+well kept floral arrangements to brighten up the place.  From this
+southernmost street, it is easy to notice the immense towers on the east and
+west.  Here, there is a marble stairwell going up to the massive tower. 
+Charles Street is back to the west.  
+~
+0 262144 1
+D3
+~
+~
+0 0 5410
+D4
+~
+~
+0 0 5412
+S
+#5412
+Right Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals east, and the exit to the tower is to
+the down, leading back to Charles Street.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5413
+D5
+~
+~
+0 0 5411
+S
+#5413
+Right Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals up or back to the west in the tower. 
+~
+0 262144 1
+D3
+~
+~
+0 0 5412
+D4
+~
+~
+0 0 5419
+S
+#5414
+Left Tower~
+This is the top of the massive tower.  From this pinnacle point, guards
+can view the far horizons watching for hostile enemies.  This tower is also
+a strategic location for guards to attack from if the city is ever besieged.
+In the walls here, there is a good amount of space for guards, battalions,
+and such, if need be.  The only exit is the marble staircase, which
+leads down.  
+~
+0 262144 1
+D5
+~
+~
+0 0 5415
+S
+#5415
+Left Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals up or back down the tower.  
+~
+0 262144 0
+D4
+~
+~
+0 0 5414
+D5
+~
+~
+0 0 5404
+S
+#5416
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street is to the north, and Charles Street is to
+the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5420
+D2
+~
+~
+0 0 5407
+S
+#5417
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the south is Charles Street, while Winter Street is
+to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5442
+D2
+~
+~
+0 0 5409
+S
+#5418
+Right Tower~
+This is the top of the massive tower.  From this pinnacle point, guards
+can view the far horizons watching for hostile enemies.  This tower is also
+a strategic location for guards to attack from if the city is ever besieged.
+In the walls here, there is a good amount of space for guards, battalions,
+and such, if need be.  The only exit is the marble staircase, which
+leads down.  
+~
+0 262144 1
+D5
+~
+~
+0 0 5419
+S
+#5419
+Right Tower~
+At first, the awesomeness of this massive tower leaves one in awe.  The
+massive tower is made from fine brickwork and is kept in pristine condition.
+The tower has a marble stairway, whose glossy and smooth texture is kept in
+excellent shape.  The stairway spirals up or back down the tower.  
+~
+0 262144 1
+D4
+~
+~
+0 0 5418
+D5
+~
+~
+0 0 5413
+S
+#5420
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5421
+D2
+~
+~
+0 0 5416
+S
+#5421
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues south and west.  
+~
+0 262144 0
+D2
+~
+~
+0 0 5420
+D3
+~
+~
+0 0 5422
+S
+#5422
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5421
+D3
+~
+~
+0 0 5423
+S
+#5423
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5424
+D1
+~
+~
+0 0 5422
+S
+#5424
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5426
+D2
+~
+~
+0 0 5423
+S
+#5425
+The Swinging Swordsman~
+The Swinging Swordsman is known throughout the city as providing excellent
+weaponry for those who want it.  All long the walls, there are various
+weapons, including a painting of a swordsman, who is painted as if he were
+swinging the sword that hung as though it was in his hands.  Along the
+north wall is a counter where the goods are sold.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5426
+S
+#5426
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the west, there is a shop with a sword hanging over
+it's doorway.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5427
+D2
+~
+~
+0 0 5424
+D3
+~
+~
+0 0 5425
+S
+#5427
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the east is Pierce Avenue, and Winter Street
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5428
+D1
+~
+~
+0 0 5448
+D2
+~
+~
+0 0 5426
+S
+#5428
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5433
+D2
+~
+~
+0 0 5427
+S
+#5429
+Guild house~
+This warehouse is quite old and decrepit.  The wooden walls are corroded
+and half eaten away by termites, and such.  The roof of the warehouse is
+almost nonexistent, as it has many holes in it.  All about the room is
+various training equipment and utilities.  The exit back to Schroeder
+Boulevard is to the east.  
+~
+0 262152 1
+D1
+~
+~
+0 0 5430
+S
+#5430
+Schroeder Boulevard~
+This little side street of Garret is mainly used to travel to the large
+warehouse at the end of the boulevard.  All along this boulevard, there are
+many trees, shrubbery, and other various types of well maintained greenery. 
+The boulevard also goes through some nice rolling hills, making for a nice
+change of scenery from the city.  To the west is a large warehouse, and
+Schroeder Boulevard is to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5429
+S
+#5431
+Schroeder Boulevard~
+This little side street of Garret is mainly used to travel to the large
+warehouse at the end of the boulevard.  All along this boulevard, there are
+many trees, shrubbery, and other various types of well maintained greenery. 
+The boulevard also goes through some nice rolling hills, making for a nice
+change of scenery from the city.  Schroeder Boulevard continues south and
+east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5432
+D2
+~
+~
+0 0 5430
+S
+#5432
+Schroeder Boulevard~
+This little side street of Garret is mainly used to travel to the large
+warehouse at the end of the boulevard.  All along this boulevard, there are
+many trees, shrubbery, and other various types of well maintained greenery. 
+The boulevard also goes through some nice rolling hills, making for a nice
+change of scenery from the city.  To the east is Winter Street, while
+Schroeder Boulevard is to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5433
+D3
+~
+~
+0 0 5431
+S
+#5433
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the west is Schroeder Boulevard, and Winter Street
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5434
+D2
+~
+~
+0 0 5428
+D3
+~
+~
+0 0 5432
+S
+#5434
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5435
+D2
+~
+~
+0 0 5433
+S
+#5435
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the east is Douglas Avenue, and Winter Street
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5436
+D1
+~
+~
+0 0 5463
+D2
+~
+~
+0 0 5434
+S
+#5436
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5435
+D3
+~
+~
+0 0 5437
+S
+#5437
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5438
+D1
+~
+~
+0 0 5436
+S
+#5438
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5439
+D2
+~
+~
+0 0 5437
+S
+#5439
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5438
+D3
+~
+~
+0 0 5440
+S
+#5440
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5439
+D3
+~
+~
+0 0 5441
+S
+#5441
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5479
+D1
+~
+~
+0 0 5440
+S
+#5442
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5443
+D2
+~
+~
+0 0 5417
+S
+#5443
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5444
+D3
+~
+~
+0 0 5442
+S
+#5444
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5446
+D2
+~
+~
+0 0 5443
+S
+#5445
+The General Store~
+The General Store is known for providing adequate general goods for those
+who want it.  This store is where one goes to purchase general items.  All
+long the walls in the store, there are displays of the different types of
+items that are typically found on adventurers.  Along the north wall is a
+counter where the goods are sold.  
+~
+0 262152 1
+D3
+~
+~
+0 0 5446
+S
+#5446
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the east is a run down store, and Winter Street
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5447
+D1
+~
+~
+0 0 5445
+D2
+~
+~
+0 0 5444
+S
+#5447
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5452
+D2
+~
+~
+0 0 5446
+S
+#5448
+Pierce Avenue~
+Pierce Avenue is named after one of the city's nobleman, who
+'appropriated' the rights to name the street.  This small street connects
+Winter Street to one of the main intersections of Garret, and is therefore
+used quite often, although not as much as others in the city.  Winter Street
+is to the west, and Pierce Avenue is to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5449
+D3
+~
+~
+0 0 5427
+S
+#5449
+Pierce Avenue~
+Pierce Avenue is named after one of the city's nobleman, who
+'appropriated' the rights to name the street.  This small street connects
+Winter Street to one of the main intersections of Garret, and is therefore
+used quite often, although not as much as others in the city.  Pierce Avenue
+continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5450
+D3
+~
+~
+0 0 5448
+S
+#5450
+Pierce Avenue~
+Pierce Avenue is named after one of the city's nobleman, who
+'appropriated' the rights to name the street.  This small street connects
+Winter Street to one of the main intersections of Garret, and is therefore
+used quite often, although not as much as others in the city.  Forman Avenue
+is to the north, and Pierce Avenue continues east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5455
+D1
+~
+~
+0 0 5451
+D3
+~
+~
+0 0 5449
+S
+#5451
+Pierce Avenue~
+Pierce Avenue is named after one of the city's nobleman, who
+'appropriated' the rights to name the street.  This small street connects
+Winter Street to one of the main intersections of Garret, and is therefore
+used quite often, although not as much as others in the city.  Winter Street
+is to the east, and Pierce Avenue is to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5452
+D3
+~
+~
+0 0 5450
+S
+#5452
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Pierce Avenue is to the west, and Winter Street
+continues south and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5453
+D2
+~
+~
+0 0 5447
+D3
+~
+~
+0 0 5451
+S
+#5453
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5454
+D3
+~
+~
+0 0 5452
+S
+#5454
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5459
+D3
+~
+~
+0 0 5453
+S
+#5455
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground working foremans
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  Pierce
+Avenue is to the south, and Forman Avenue is to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5456
+D2
+~
+~
+0 0 5450
+S
+#5456
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground-working foremen,
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  To the
+east is a large marble temple, and Forman Avenue continues north or south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5458
+D1
+~
+~
+0 0 5457
+D2
+~
+~
+0 0 5455
+S
+#5457
+Temple of Paladine~
+The incredible marble temple is simply amazing.  The entire temple is
+made of a smooth marble that is kept to a smooth shine.  Inside the temple,
+there are comfortable places for the weary adventurer to rest and get advice
+from the friendly Cleric.  All about, inside this building, are symbols of
+The Father of Good and Master of Law, Paladine.  In the center of this
+temple room, stands a very large, intricate statue of a platinum Dragon.  
+~
+0 8651784 31
+E
+platinum~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+E
+dragon~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+D3
+~
+~
+0 0 5456
+S
+#5458
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground-working foremen,
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  To the
+north is the City Centre, and Forman Avenue is to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5465
+D2
+~
+~
+0 0 5456
+S
+#5459
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5460
+D2
+~
+~
+0 0 5454
+S
+#5460
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5459
+D3
+~
+~
+0 0 5461
+S
+#5461
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5462
+D1
+~
+~
+0 0 5460
+S
+#5462
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the east is a shop with a painting of magical stars
+on it's doorway.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5468
+D1
+~
+~
+0 0 5400
+D2
+~
+~
+0 0 5461
+S
+#5463
+Douglas Avenue~
+Douglas avenue was made so that the people of Garret can easily get from
+one side of the city to the other.  All along this street, there are ornate
+statues of dragons, heroes, and other items of lore.  There are many
+buildings and residencies along this street, mainly because it is close to
+the center of the city.  Winter street is to the west, while Douglas avenue
+is to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5464
+D3
+~
+~
+0 0 5435
+S
+#5464
+Douglas Avenue~
+Douglas avenue was made so that the people of Garret can easily get from
+one side of the city to the other.  All along this street, there are ornate
+statues of dragons, heroes, and other items of lore.  There are many
+buildings and residencies along this street, mainly because it is close to
+the center of the city.  The city center is to the east, while Douglas
+avenue is to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5465
+D3
+~
+~
+0 0 5463
+S
+#5465
+City Centre~
+The city centre is the main hub of Garret, and as such, there is always a
+good amount of activity here.  The city centre has a large black obsidian
+fountain that is beautiful and shiny, and is gushing out clear water.  In
+the centre, there are some benches placed so that people can sit down and
+relax for a spell.  Forman Avenue is to the north and south, while Douglas
+Avenue is to the east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5469
+D1
+~
+~
+0 0 5466
+D2
+~
+~
+0 0 5458
+D3
+~
+~
+0 0 5464
+S
+#5466
+Douglas Avenue~
+Douglas avenue was made so that the people of Garret can easily get from
+one side of the city to the other.  All along this street, there are ornate
+statues of dragons, heroes, and other items of lore.  There are many
+buildings and residencies along this street, mainly because it is close to
+the center of the city.  The city center is to the west, while Douglas
+avenue is to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5467
+D3
+~
+~
+0 0 5465
+S
+#5467
+Douglas Avenue~
+Douglas avenue was made so that the people of Garret can easily get from
+one side of the city to the other.  All along this street, there are ornate
+statues of dragons, heroes, and other items of lore.  There are many
+buildings and residencies along this street, mainly because it is close to
+the center of the city.  Winter Street is to the east, while Douglas avenue
+is to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5468
+D3
+~
+~
+0 0 5466
+S
+#5468
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the west is Douglas Avenue, and Winter Street
+continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5472
+D2
+~
+~
+0 0 5462
+D3
+~
+~
+0 0 5467
+S
+#5469
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground-working foremen,
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  To the
+south is the City Centre, and Forman Avenue is to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5470
+D2
+~
+~
+0 0 5465
+S
+#5470
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground-working foremen,
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  Forman
+Avenue continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5471
+D2
+~
+~
+0 0 5469
+S
+#5471
+Forman Avenue~
+Forman Avenue is quite old, having been built when the city was first
+constructed.  The street was built by only the best ground-working foremen,
+and thus, is in pristine condition.  Upon completion, the foremen decided to
+name the street after then, thus making what Forman Street is today.  To the
+north is Winter Street, and Forman Avenue is to the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5485
+D2
+~
+~
+0 0 5470
+S
+#5472
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5473
+D2
+~
+~
+0 0 5468
+S
+#5473
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5474
+D2
+~
+~
+0 0 5472
+S
+#5474
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5475
+D3
+~
+~
+0 0 5473
+S
+#5475
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the east is a shop with a shield hanging over it's
+doorway.  Winter Street continues north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5477
+D1
+~
+~
+0 0 5476
+D3
+~
+~
+0 0 5474
+S
+#5476
+The Armory~
+The Armory is known throughout the city as providing excellent armor for
+those who want it.  All long the walls, there are various types of armor,
+including a painting of one of the city's knights in full armor.  In the
+corner of the store, there is a life size replica of a knight wearing a full
+suit of armor.  Along the north wall is a counter where the goods are sold. 
+~
+0 262152 1
+D3
+~
+~
+0 0 5475
+S
+#5477
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5490
+D2
+~
+~
+0 0 5475
+S
+#5478
+Bank of Garret Keep~
+In the bank, there are several tapestries hanging from the walls, and
+they are a good location for the hiding guards that are sure to be in the
+bank.  In the south part of the building, there is a counter where one can
+perform several transactions with the friendly banker.  Behind the counter
+on the south wall is a large vault door that seems impenetrable.  The exit
+back to Winter Street is back to the north.  
+~
+0 1310728 1
+D0
+~
+~
+0 0 5483
+S
+#5479
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5480
+D2
+~
+~
+0 0 5441
+S
+#5480
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5481
+D3
+~
+~
+0 0 5479
+S
+#5481
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5482
+D3
+~
+~
+0 0 5480
+S
+#5482
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5483
+D3
+~
+~
+0 0 5481
+S
+#5483
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the south is a large marble building that is in
+pristine condition.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5484
+D2
+~
+~
+0 0 5478
+D3
+~
+~
+0 0 5482
+S
+#5484
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5485
+D3
+~
+~
+0 0 5483
+S
+#5485
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Forman Avenue is to the south, and Winter Street
+continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5486
+D2
+~
+~
+0 0 5471
+D3
+~
+~
+0 0 5484
+S
+#5486
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5487
+D3
+~
+~
+0 0 5485
+S
+#5487
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  To the north is the Docks, and Winter Street continues
+east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5491
+D1
+~
+~
+0 0 5488
+D3
+~
+~
+0 0 5486
+S
+#5488
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5489
+D3
+~
+~
+0 0 5487
+S
+#5489
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5490
+D3
+~
+~
+0 0 5488
+S
+#5490
+Winter Street~
+Winter Street is the main thoroughfare that runs through the city.  As
+such, the street is well used, but it is well kept up by city maintenance. 
+All along this street, there is white floral bloom that gives the street
+it's namesake.  There are also quite a number of buildings and residencies
+along this street.  Winter Street continues south and west.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5477
+D3
+~
+~
+0 0 5489
+S
+#5491
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  Winter street is to the south, and the docks are to the north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5492
+D2
+~
+~
+0 0 5487
+S
+#5492
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong. The docks continue south and west.
+~
+0 262144 1
+D2
+~
+~
+0 0 5491
+D3
+~
+~
+0 0 5493
+S
+#5493
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5495
+D1
+~
+~
+0 0 5492
+S
+#5494
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the north and east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5497
+D1
+~
+~
+0 0 5495
+S
+#5495
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the east, south, and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 5496
+D2
+~
+~
+0 0 5493
+D3
+~
+~
+0 0 5494
+S
+#5496
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 5499
+D3
+~
+~
+0 0 5495
+S
+#5497
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the south.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5494
+S
+#5498
+mprog mob bot room~
+This room is where the mobs sit that have mobprogs for time and such.
+~
+0 2138116 1
+S
+#5499
+Docks~
+All along the docks, it is not uncommon to see captains, sailors, boats,
+and various types of marine materials.  On the docks, it is quite cool in
+temperature, because it is right next to the water.  The wooden docks look
+like they have seen a good fair share of wear and tear, but they still hold
+up strong.  The docks are to the south.  
+~
+0 262144 1
+D2
+~
+~
+0 0 5496
+S
+#0
+
+
+
+#SPECIALS
+M 5401 spec_fido
+M 5405 spec_janitor
+M 5409 spec_rloader
+M 5410 spec_cast_adept
+M 5417 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 5401 0 1
+D 0 5408 2 1
+M 0 5412 1 5400 1
+G 0 5424 0
+G 0 5423 0
+G 0 5422 0
+G 0 5421 0
+M 0 5408 30 5401 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5402 1 5402 1
+M 0 5403 20 5403 1
+E 0 5401 0 20
+E 0 5403 0 6
+M 0 5408 30 5404 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5408 30 5405 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5405 25 5406 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5407 20 5407 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5408 30 5408 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5404 15 5409 1
+E 0 5404 0 16
+E 0 5405 0 21
+M 0 5405 25 5410 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5413 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5417 1 5414 1
+E 0 5435 0 20
+M 0 5405 25 5416 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5417 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5417 1 5418 1
+E 0 5435 0 20
+M 0 5407 20 5420 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5420 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5408 30 5421 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5421 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5406 20 5421 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5422 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5409 10 5423 1
+E 0 5415 0 16
+M 0 5403 20 5423 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5405 25 5424 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5411 1 5425 1
+G 0 5417 0
+G 0 5418 0
+G 0 5419 0
+G 0 5420 0
+M 0 5403 20 5426 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5408 30 5427 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5408 30 5428 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5428 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5409 10 5430 1
+E 0 5415 0 16
+M 0 5403 20 5430 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5408 30 5431 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5431 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5431 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5406 20 5432 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5407 20 5433 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5433 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5406 20 5434 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5434 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5409 10 5435 1
+E 0 5415 0 16
+M 0 5406 20 5435 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5435 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5436 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5436 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5436 1
+E 0 5401 0 20
+E 0 5403 0 6
+M 0 5408 30 5437 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5437 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5437 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5404 15 5437 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5408 30 5438 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5403 20 5438 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5405 25 5439 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5440 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5441 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5441 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5404 15 5442 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5409 10 5443 1
+E 0 5415 0 16
+M 0 5407 20 5443 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5444 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5414 1 5445 1
+G 0 5429 0
+G 0 5432 0
+G 0 5431 0
+G 0 5430 0
+M 0 5407 20 5446 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5446 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5409 10 5447 1
+E 0 5415 0 16
+M 0 5407 20 5447 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5406 20 5447 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5447 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5448 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5448 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5407 20 5449 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5449 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5406 20 5450 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5450 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5403 20 5451 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5406 20 5452 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5452 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5403 20 5452 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5407 20 5453 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5406 20 5453 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5453 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5409 10 5454 1
+E 0 5415 0 16
+M 0 5404 15 5454 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5407 20 5455 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5455 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5404 15 5456 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5421 1 5457 1
+M 0 5410 2 5457 2
+E 0 5416 0 16
+O 0 5434 0 5457
+M 0 5405 25 5458 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5405 25 5459 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5403 20 5459 1
+E 0 5401 0 20
+E 0 5403 0 6
+M 0 5405 25 5460 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5404 15 5461 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5406 20 5462 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5408 30 5463 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5463 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5463 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5409 10 5464 1
+E 0 5415 0 17
+M 0 5405 25 5464 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5407 20 5465 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5465 1
+E 0 5404 0 16
+E 0 5405 0 9
+O 0 5433 0 5465
+O 0 5433 0 5465
+O 0 5433 0 5465
+O 0 5433 0 5465
+M 0 5408 30 5466 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5403 20 5466 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5408 30 5467 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5405 25 5467 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5468 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5403 20 5468 1
+E 0 5401 0 20
+E 0 5403 0 6
+M 0 5407 20 5469 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5406 20 5469 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5404 15 5469 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5408 30 5470 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5470 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5408 30 5471 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5471 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5409 10 5472 1
+E 0 5415 0 16
+M 0 5408 30 5472 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5403 20 5472 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5408 30 5473 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5406 20 5473 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5473 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5404 15 5473 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5405 25 5474 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5403 20 5475 1
+E 0 5401 0 20
+E 0 5403 0 6
+M 0 5413 1 5476 1
+G 0 5425 0
+G 0 5426 0
+G 0 5427 0
+G 0 5428 0
+M 0 5408 30 5477 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5400 1 5478 1
+M 0 5409 10 5479 1
+E 0 5415 0 16
+M 0 5405 25 5479 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5480 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5404 15 5481 1
+E 0 5404 0 16
+E 0 5405 0 9
+M 0 5407 20 5483 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5407 20 5484 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5403 20 5484 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5408 30 5485 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5404 15 5485 1
+E 0 5404 0 17
+E 0 5405 0 9
+M 0 5408 30 5486 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5407 20 5486 1
+E 0 5409 0 7
+E 0 5410 0 5
+E 0 5411 0 8
+M 0 5405 25 5487 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5408 30 5488 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5403 20 5488 1
+E 0 5401 0 20
+E 0 5402 0 9
+E 0 5403 0 6
+M 0 5409 10 5489 1
+E 0 5415 0 16
+M 0 5408 30 5489 1
+E 0 5412 0 20
+E 0 5413 0 5
+E 0 5414 0 6
+M 0 5405 25 5490 1
+E 0 5406 0 20
+E 0 5407 0 17
+E 0 5408 0 21
+M 0 5416 1 5498 1
+S
+
+
+
+#SHOPS
+5411 5 5 5 5 0 150 75 0 23
+5412 2 3 10 10 0 150 75 0 23
+5413 9 9 9 9 0 150 75 0 23
+5414 17 19 19 1 0 150 75 0 23
+0
+
+
+
+#MOBPROGS
+#5400
+~
+#5401
+~
+#5402
+~
+#5403
+~
+#5404
+~
+#5405
+~
+#5406
+~
+#5407
+~
+#5408
+~
+#5409
+~
+#5410
+mob echo The vault door does not budge as $n slams $mself right into it! Ouch!
+mob damage $n 100 200
+~
+#5411
+~
+#5412
+~
+#5413
+~
+#5414
+~
+#5415
+~
+#5416
+mob zecho A cold, gusty wind blows across the quiet city.
+~
+#5419
+~
+#5420
+if hour != 23
+break
+else
+MOB ZECHO Loud bells begin ringing loudly throughout the city as the clock strikes midnight.
+mob delay 1
+break
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

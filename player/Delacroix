@@ -1,0 +1,1074 @@
+#PLAYER
+Name Delacroix~
+Surname Alzareth~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1239511919
+LogO 1415242014
+Vers 10
+Act  DGQT
+Desc {DA black, cloaked figure stands before you. Mystery completely shrouds
+this figure. His facial features are the only visible thing upon him, and
+even that is barely noticeable. Dark {dviolet{D eyes stare out of the
+shadowy canapy of the hood into the world. The whites of said eyes are no
+longer white, but tainted a dark {yyellow{D color. The half elf figure has
+elven features, all except one. A human feature, that of facial hair can
+be seen rarely...a five o clock shadow. {x {DAmongst what can be seen, a
+{Dvery pale tint is to this figures skin. {x
+~
+Prom {W[Delacroix %h/%H %m/%M %v/%V %X %B] ~
+Race half-elf~
+Org 1
+Devotee 1
+Sex  1
+Cla  2
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 1883699
+Not  1393400375 1382804331 0 1393400380 1298827134
+Scro 0
+Room 3054
+HMV  2577 2577 536 536 906 906
+Steel 898
+Gold 166
+Bank 535786
+Exp  17454200
+AfBy FJ
+Deaths 34
+FlagTot 6 1 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+FParTot 4 1 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 2031616
+Comm NOQ
+Pos  8
+Save  -32
+Alig  -998
+Ethos 0
+Hit   38
+Dam   36
+ACs 66 64 66 80
+Wimp  500
+Attr 16 15 21 23 24 16
+AMod 5 4 3 5 2 5
+Pass DeI4XWxOeQf.I~
+Titl  - {DRemnant{X of a {DShattered Soul{X~
+Pretit Marauder{x~
+Pnts 8
+TSex 1
+LLev 420
+HMVP 2377 336 756
+Cnd  0 31 26 0
+QuestPnts 14
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 007 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias trap jerin~
+Alias z gt {RTITS '{y~
+Alias prayer say Ruler of the undead, spare your humble servant and grant me eternal life!~
+Sk 93 'detect hidden'
+Sk 76 'detect poison'
+Sk 6 'infravision'
+Sk 100 'dagger'
+Sk 17 'shield block'
+Sk 88 'sword'
+Sk 1 'whip'
+Sk 100 'backstab'
+Sk 91 'dirt kicking'
+Sk 57 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 77 'envenom'
+Sk 97 'hand to hand'
+Sk 100 'kick'
+Sk 96 'trip'
+Sk 100 'second attack'
+Sk 97 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'demand'
+Sk 86 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 95 'mount'
+Sk 100 'pickpocket'
+Sk 75 'mountjack'
+Sk 67 'battle tactics'
+Sk 1 'wear leather'
+Sk 100 'fast healing'
+Sk 96 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'thieves cant'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 83 'pick lock'
+Sk 100 'sneak'
+Sk 95 'steal'
+Sk 50 'recall'
+Sk 90 'disguise'
+Sk 93 'tumble'
+Sk 76 'scout'
+Sk 99 'second backstab'
+Sk 83 'strip'
+Sk 90 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 94 'boobytrap'
+Sk 78 'disarm traps'
+Sk 1 'staff'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 100 'evade spell'
+Affc 'detect hidden'   0  93  65   0   0         32
+End
+
+#O
+Vnum 1232
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Name blood soaked robes ebon hand~
+ShD  ({yTainted{x) {rBlood{x Soaked {WRobes{x of the {DEbon Hand{x~
+Desc Blood soaked robes lay here upon the ground before you, upon further inspection skeletal black hand prints seem to be placed all about the set of robes.~
+ExtF 17305792
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 1209
+Nest 1
+Name make over coupon~
+ShD  {W({GVine covered{W) A {BMake over{W coupon ({G10{W){x~
+Desc a coupon good for 10 restrings.~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3000
+Nest 1
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 2085
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14007
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16456
+Enchanted
+Nest 1
+ExtF 16777283
+Cond 77
+Wear -1
+Lev  75
+Cost 0
+Val  2 9 12 1 74
+Affc 'enchant weapon'   1  94  -1  16  18          0
+Affc 'enchant weapon'   1  94  -1  16  19          0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Seraph's blood~
+Desc A jar of Seraph's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1478
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1103
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1133
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1358
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1373
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll firestorm scroll convoke swarm~
+ShD  a scroll of firestorm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 0
+Val  33 -1 165 137 0
+Spell 2 'firestorm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 16
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 173
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 173
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 173
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 173
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 82
+End
+
+#O
+Vnum 735
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 164
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 73
+Val  300 222 13 0 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 97
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16777224
+Cond 69
+Wear 20
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 82
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 132
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 133
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 148
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 101
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 127
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 108
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 145
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 82
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 123
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 99
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 92
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 102
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 105
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 81
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 111
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 119
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 146
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 135
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 128
+End
+
+#O
+Vnum 736
+Nest 0
+Cond 100
+Wear -1
+Cost 123
+End
+
+#O
+Vnum 9592
+Nest 0
+Name shimmering celestial baby dragon~
+ShD  ({WShimmering{w) a {CCelestial {ybaby dragon{x~
+Desc Here floats a tiny, baby dragon, shimmering with a faint white light.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Name shimmering star~
+ShD  {w({WShimmering{w) a {Wstar{x~
+Desc Something shimmering is lying on the ground~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 100
+Wear 24
+Cost 7400
+End
+
+#O
+Vnum 1919
+Nest 0
+Cond 100
+Wear -1
+Cost 870
+End
+
+#END

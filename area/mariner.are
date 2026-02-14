@@ -1,0 +1,345 @@
+#AREADATA
+Name Mariner Ship~
+Builders Nuitari~
+Continent (null)~
+Sector 0
+VNUMs 26 150
+Credits Nuitari~
+Security 9
+End
+
+
+
+#MOBILES
+#26
+grimy gully dwarf~
+A gully dwarf~
+A dirty and grimy little gully dwarf stands before you hunting for rats.
+~
+This grubby little fellow is typical of his race.  He has bedraggled hair
+and a scraggly beard.  His bulbous nose has veins sticking out, along with
+his finger jammed in his nose.  His clothing is torn and looks more like
+rags than actual clothing.  
+~
+aghar~
+ACHS J 0 0
+12 8 12d2+73 8d10+85 2d4+7 bite
+5 5 5 7
+DFIR 0 LQ 0
+stand stand male 28
+AHMV ABCDEFGHIJK S unknown 0
+F vul IR
+#27
+cleric healer~
+A {WCleric{x of {CZeboim{x~
+A {WCleric{x of {CZeboim{x is here, healing her subjects.
+~
+Before you is a cleric clothed in wispy silk robes.  Atop her head is a
+crown of coral, and around her waist is a belt of pearls.  She will cast
+healing spells for a price.  
+~
+human~
+ABVa DFHJVZ -1000 0
+130 130 195d43+3550 130d10+85 37d3+48 wrath
+-52 -52 -52 -25
+CFKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#56
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#100
+small tiny humming bird~
+a small humming bird~
+A tiny humming bird perched on a tree branch, sings you a song.
+~
+Perched upon a tree branch, sits a small humming bird.  She notices you
+looking in awe at her beauty, and starts to break into a sing song.  Her
+intricately designed wings rythmically flap along with the song.  
+~
+song bird~
+AGW T 0 0
+15 15 23d5+137 15d10+85 4d3+10 peck
+2 2 2 5
+FH 0 0 0
+sit stand female 0
+AGW ACDEFHKP T unknown 0
+#101
+A humming bird~
+(no short description)~
+(no long description)
+~
+~
+song bird~
+A T 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH DE 0 ABHKM
+stand stand female 0
+AGW ACDEFHKP T unknown 0
+#0
+
+
+
+#OBJECTS
+#27
+coral fountain~
+a {Ccoral{x fountain~
+A {Ccoral{x fountain sits here, shooting water into the air.~
+mica~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 200 200 P
+E
+coral fountain~
+This fountain has been painstakingly fashioned from a coral reef dredged
+from the ocean.  It is aquamarine in color, with small ivory dolphins enlaid
+into the base.  
+~
+#31
+plank wooden~
+a {ywooden{x plank~
+A {ywooden{x plank rests here, extending over the side of the ship.~
+oak~
+portal O 0 0
+0 0 A ABDEKL 0
+0 200 200 P
+E
+wooden plank~
+This wooden plank is extended over the side of the ship.  It is about 10
+feet long and 3 feet wide.  
+~
+#40
+fishing net box~
+a {cFishing-net{x lined box~
+A {cFishing-net{x lined box is here.~
+wood~
+container OY 0 P
+100000 0 0 100000 1000
+0 200 200 P
+E
+fishing net box~
+Lined with a well maintain fishing net, this box looks almost like a
+treasure chest.  It is deep enough and wide enough to hold a vast number of
+items.  
+~
+#100
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#101
+no name~
+unused~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#26
+A Small Hallway~
+You are in a small hallway that approaches the ship's pantry.  Any
+sailors caught stealing are made to walk the plank.  
+~
+0 270344 0
+D0
+~
+~
+0 0 30
+D3
+~
+~
+0 0 27
+S
+#27
+The Mariner's Loft~
+You are in a cozy loft where members of this ship's crew gather to share
+stories and drink ale.  Various pillows are scattered about the room, and
+stains mark the floor where men have left their blood, sweat and tears.  
+~
+0 271368 0
+D1
+~
+~
+0 0 26
+D2
+~
+~
+0 0 32
+D3
+~
+~
+0 0 28
+D5
+~
+~
+0 0 31
+S
+#28
+Crew's Quarters~
+This is where the ships crew resides for the long nights at sea, and the
+long nights after being in the local ports alehouse.  Cots line the walls,
+and a door leads to the south.  
+~
+0 270344 0
+D1
+~
+~
+0 0 27
+D2
+~
+~
+0 0 29
+S
+#29
+Captain's Quarters~
+Here is the Captain's room, which consists of a large bed, and a wooden
+desk covered in maps and navigational instruments.  Along the walls are
+various paintings of lands not seen by most of Krynn's inhabitant's.  
+~
+0 270344 0
+D0
+~
+~
+0 0 28
+S
+#30
+The Ship's Pantry~
+Here is kept all the foodstuff's to feed the Captain and his crew. 
+Barrels of water and ale line the walls, while shelves stick out from every
+angle with different cloth sacks full of some tasty item.  
+~
+0 270344 0
+D2
+~
+~
+0 0 26
+S
+#31
+Walking the Plank~
+The only thing that you can think of as you enter this room is..  Sharks?
+A plank of wood juts out over the edge of the ship, leaving a drop of about
+60 feet to the water.  
+~
+0 262144 0
+D4
+~
+~
+0 0 27
+S
+#32
+On the Deck~
+You are walking on the deck of the Mariner ship.  The boards creak as
+you move and the wind is blowing through your hair as you near the center
+deck, where the mast is located.  
+~
+0 270336 0
+D0
+~
+~
+0 0 27
+D2
+~
+~
+0 0 33
+S
+#33
+Before the Mast~
+You are standing underneath the main mast of this large ship.  The sails
+billow out above and around you.  Looking up you can see what resembles the
+crow's nest.  
+~
+0 270336 0
+D0
+~
+~
+0 0 32
+D1
+~
+~
+0 0 34
+S
+#34
+On the Deck~
+You are walking on the deck of the Mariner ship.  The boards creak as
+you move and the wind is blowing through your hair as you near the center
+deck, where the mast is located.  
+~
+0 270336 0
+D1
+~
+~
+0 0 35
+D3
+~
+~
+0 0 33
+S
+#35
+Aboard the Ship~
+The ship rocks as you board it, leaving you feeling a bit tipsy.  You
+have boarded the Mariner's ship, a long carrack capable of holding a large
+crew, and a few select passengers.  
+~
+0 294912 0
+D3
+~
+~
+0 0 34
+S
+#74
+Unused~
+~
+0 2138116 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 27 0 27
+M 0 27 1 27 1
+O 0 40 0 27
+O 0 31 0 31
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

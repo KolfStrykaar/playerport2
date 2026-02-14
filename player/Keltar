@@ -1,0 +1,1955 @@
+#PLAYER
+Name Keltar~
+Surname Telmalar~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1141024568
+LogO 1384408651
+Vers 10
+Act  CDEGHLTe
+Desc Before you is a male draconian standing roughly six feet and three
+inches.  His scales are a {Wsilver{x color, though when the light glints off
+of them they appear to be {Wplatinum{x in nature.  His face has a scattering
+of {Ygolden{x scales mixed in with the rest.  He wears a chain mail made
+from alternating {Wsilver{x and {Ygold{x colored chain links covering his
+torso and legs.  Over the chain mail he is wearing cleric robes with no
+particular symbol on them.  The robes are adorned with symbols of healing,
+strength and protection.  Around his neck he wears a gold necklace studded
+with {gemeralds{x studded all through it.  On his back he wears a cloak that
+appears to be made from a leathery material and is lined with {gemeralds{x
+along the edges.  Around his waist he wears a think belt made from chain
+links, set inside each link is a small {gemerald{x jewel.  On his feet he
+wears chain boots made from interlocking {Wsilver{x and {Ygold{x colored
+links.  He holds a gold staff in his hands with a dragon claw at the top
+clutching an {gemerald{x.  
+~
+Prom <%hhp %mm %vmv> %b %B ~
+Race draconian~
+Devotee 3
+Sex  1
+Cla  1
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 1165241
+Not  1375220615 1372701869 0 1372995021 1372701866
+Scro 22
+Room 3263
+HMV  3938 4180 2850 2850 904 904
+Steel 3549
+Gold 4759
+Bank 11879
+Exp  16259300
+AfBy O
+AfBy2 D
+Deaths 8
+FlagTot 0 1 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1441792
+Comm NO
+Pos  8
+Save  -79
+Alig  1000
+Ethos 0
+Hit   79
+Dam   70
+ACs -451 -466 -456 -421
+Wimp  500
+Attr 16 20 19 17 27 10
+AMod 15 4 2 21 10 5
+Pass KeEIRBlc.72ZI~
+Titl  the Angel~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 151
+HMVP 3000 2000 754
+Cnd  0 22 22 0
+QuestPnts 29
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias group ;.::{GDraco{x::.~
+Alias ; gtell .::{GDraco{x::.~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'energy drain'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'orb of containment'
+Sk 100 'harm'
+Sk 100 'heal'
+Sk 100 'life transfer'
+Sk 100 'holy word'
+Sk 100 'know alignment'
+Sk 100 'mass healing'
+Sk 100 'aid'
+Sk 100 'plague'
+Sk 100 'protection evil'
+Sk 100 'ray of truth'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 100 'teleport'
+Sk 100 'word of recall'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 100 'deathgrip'
+Sk 100 'demand'
+Sk 100 'glide'
+Sk 100 'silence'
+Sk 100 'traject'
+Sk 100 'mount'
+Sk 100 'remove paralysis'
+Sk 100 'undetectable align'
+Sk 100 'repulsion'
+Sk 100 'firestorm'
+Sk 100 'sunbeam'
+Sk 100 'spiritual hammer'
+Sk 100 'pillify'
+Sk 100 'enlightenment'
+Sk 100 'aura cleanse'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'sate'
+Sk 100 'invigorate'
+Sk 100 'purify'
+Sk 100 'taunt'
+Sk 100 'god fire'
+Sk 100 'wrath'
+Sk 100 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 100 'staff'
+Sk 100 'eyerub'
+Sk 100 'instruct'
+Sk 100 'endure disease'
+Sk 100 'shatter shield'
+Sk 100 'arrow deflection'
+Sk 100 'preach'
+Sk 100 'clear thoughts'
+Sk 100 'black cairn'
+Sk 100 'blessed warmth'
+Sk 100 'blessed watchfulness'
+Sk 100 'relegate'
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 17039616
+Cond 98
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9426
+Nest 0
+ExtF 17039424
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 95
+Wear 4
+Cost 0
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 97
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name sleeves draco king~
+ShD  {WSleeves{x of the {gDraco{x {yKing{x~
+Desc Here lies a pair of sleeves made from the leathery skin of a great red dragon.~
+ExtF 17301504
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 3818
+Nest 0
+Name sleek white gloves~
+ShD  a pair of sleek {Wwhite{x gloves~
+Desc A pair of elegant white gloves has been left here.~
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1911
+Nest 0
+ExtF 17039680
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 9463
+Nest 0
+ExtF 17039424
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 0
+ExtF 0
+Cond 65
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82017
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear -1
+Cost 6500
+Val  500 5 0 150 100
+End
+
+#O
+Vnum 5700
+Nest 1
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear -1
+Lev  27
+Cost 270
+Val  6 6 6 2 0
+Affc 'cultural artistry'   1  59  -1  -1  25          0
+End
+
+#O
+Vnum 3818
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 2972
+Nest 1
+Cond 97
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Name solamnic ring service~
+ShD  a {cSolamnic{X Ring of Service~
+Desc A glimmering ring bearing the proud crest of the Solamnic Knights lies here in the dust.~
+ExtF 16777280
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  61
+Cost 610
+Val  13 13 13 9 0
+Affc 'cultural artistry'   1  51  -1  -1  25          0
+End
+
+#O
+Vnum 5435
+Nest 1
+Cond 89
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 12188
+Nest 1
+Cond 100
+Wear -1
+Cost 5280
+End
+
+#O
+Vnum 5700
+Nest 1
+Name simple chain anklet~
+ShD  a simple chain anklet~
+Desc A simple chain made for a lady's ankle has been left here.~
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 90
+Mat  iron~
+Wear -1
+Lev  65
+Cost 0
+Val  14 14 14 10 0
+Affc 'cultural artistry'   0  55  -1   7  12          0
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5910
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5910
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5910
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 5970
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 4620
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 14005
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'intensify death'
+Spell 2 'wraithform'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 3772
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 3 0 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3005
+Nest 0
+Cond 100
+Wear 20
+Cost 1500000
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill cancellation~
+ShD  a pill of cancellation~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 8 0 0 0
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1236
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#END

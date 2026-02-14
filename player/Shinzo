@@ -1,0 +1,1899 @@
+#PLAYER
+Name Shinzo~
+Surname Ajime~
+MaskedIp ~
+Lokprot off~
+Email nunopratacruz@gmail.com~
+Id   1201518366
+LogO 1422577675
+Vers 10
+Act  DGHLQT
+Desc An elegant half-elf stands tall in front of you, he has some {Wivory{x skin. He has a short very well trimmed hair, with some strings that fall through his forehead; behind some {dshaded{x glasses you see some narrow {Yyellow glowing{x almond shaped eyes and some small pointy ears. He also has an emotionless gambling face. 
+He his covered in some {bdark blue{x regular clothes, in his belt, inside a black scabbard made out of a wyvern's tail stinger, you notice a blade-curved sword releasing a dark aura. On his back a {cmisty cloak{x is waving on the wind making him even more misterious.{x
+~
+Backg A tea lover born in the forests of Silvanost and created by the barbarians of the plains of dust, was raised to be a silent killer, living his life by the law of the silent blade.
+Even after his death he was given the gift of becoming shadowy wraith, Assigned by Chemosh to find a source of evil from long ago, that was hiding in the caves surrounding Urione, he gathered a fleet of gnomish design deepswimmers and invaded the sunken city. He kind of liked it there and decided to stay making the poor people of that land nothing more but his slaves.
+After a few years he met Ila, sadly as a wraith he didn't have a heart to love her, This however didn't make him quit, he prayed and begged to get his soul and heart back.
+His prayer was answered by the Godess of the Seas, In exchange he made a decree that stated that Urione's official goddess is now Zeboim.
+With his heart and soul back he promptlt exchanged vows of love and fidelity with Ila. The couple had 2 baby twins, Jacen and Eva Ajime.
+Some say he is a good and gentle king to his people, but merciless for all his enemies.
+~
+Prom %r%c<{r%h/%Hhp {b%m/%Mm {g%v/%Vmv {x%x/%Xxp>%c%B%b ~
+Race half-elf~
+Org 10
+Religion 17
+Sex  1
+Cla  9
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1539150
+Sec  0
+Plyd 10453250
+Not  1420281656 1395959842 0 1410808993 1379084822
+Scro 22
+Room 9700
+HMV  3065 3134 815 815 380 1083
+Steel 49266
+Gold 8640479
+Bank 1670153
+Exp  20944900
+AfBy DFJPb
+Deaths 17
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3866624
+Comm NObd
+Pos  8
+Prac 12
+Save  -74
+Alig  -1000
+Ethos 2
+Hit   74
+Dam   74
+ACs -241 -243 -252 -205
+Wimp  622
+Yield  800
+Attr 28 18 19 27 23 16
+AMod 18 33 35 18 34 7
+Pass ShaFYU85XNCQA~
+Titl  - King of {BUrione{x~
+Pretit Admiral{x~
+Pnts 8
+TSex 1
+LLev 1615
+HMVP 2264 335 783
+Cnd  0 59 59 0
+QuestPnts 206
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 100 'haste'
+Sk 100 'infravision'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 14 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'deathgrip'
+Sk 100 'demand'
+Sk 100 'circlestab'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 70 'unholy armor'
+Sk 100 'battle tactics'
+Sk 3 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 100 'strangle'
+Sk 100 'cutthroat'
+Sk 100 'assassinate'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 38 'eyerub'
+Sk 100 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+Affc 'sneak'   0 101 101   0   0      32768
+Affc 'detect invis'   0 110  -1   0  26          8
+Affc 'detect hidden'   0 110  -1   0  26          0
+Affc 'detect hidden'   0 110  -1   0  26         32
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 16102
+Nest 0
+Name deepswimmer purgatory~
+ShD  A deepswimmer named Purgatory~
+Desc A massive dark steel plated deepswimmer is sailing here.~
+ExtF 17563648
+Cond 100
+Wear -1
+Cost 1185
+End
+
+#O
+Vnum 16304
+Nest 0
+Name hidden pocket~
+ShD  a pocket of the {bblue{x utility vest~
+Desc A pocket that belonged to some utility vest is here.~
+ExtF 16781440
+Cond 100
+Wear -1
+Cost 463
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 1902
+Nest 1
+Cond 100
+Wear -1
+Cost 5600
+Spell 1 'create spring'
+Spell 2 'create rose'
+Spell 3 'create food'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 810
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 730
+Spell 1 'identify'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill regeneration~
+ShD  a pill of regeneration~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  43 338 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  43 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  43 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  43 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14548
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1881
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 12187
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 525
+Spell 1 'identify'
+End
+
+#O
+Vnum 11700
+Nest 1
+Name goat skull pendant~
+ShD  a {Yyellow{x goat skull pendant~
+Desc A necklace bearing the symbol of Chemosh lies here.~
+Cond 73
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  plant~
+Wear -1
+Lev  99
+Cost 990
+Val  1 2 52 1 16392
+Affc 'cultural artistry'   5  93  -1   0   0      16384
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 3758
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 3645
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 4500
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 4500
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1904
+Nest 1
+Cond 100
+Wear -1
+Cost 4073
+Spell 1 'heal'
+Spell 2 'cure blindness'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 715
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 1
+ExtF 0
+Cond 94
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 8
+Cond 96
+Wear -1
+Cost 0
+Val  1 11 11 3 81994
+End
+
+#O
+Vnum 3037
+Nest 1
+Cond 95
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a twisted and distorted being's blood~
+Desc A jar of a twisted and distorted being's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 9465
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 1
+Cond 100
+Wear -1
+Cost 2600
+End
+
+#O
+Vnum 1206
+Nest 1
+Name coupon grooming~
+ShD  a {GGrooming{x Coupon~
+Desc This coupon is good for restringing a pet.~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14498
+Nest 1
+Name special make over~
+ShD  Special {RS{Wa{Rn{Wt{Ra {WC{Rl{Wa{Ru{Ws{x Makeover~
+Desc A special christmas makeover good for a full set (One use ONLY).~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 1
+Name wyvern armored silver flying~
+ShD  ({WFlying{x) an {barmored {Wsilver{x wyvern~
+Desc A silver wyvern wearing a black plate armour and a saddle on his back is here flying around searching for his next pray.~
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill refresh~
+ShD  a pill of refresh~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 83 0 0 0
+Spell 1 'refresh'
+End
+
+#O
+Vnum 4960
+Nest 1
+Name throne dark~
+ShD  a {DDark{x throne~
+Desc A dark throne, fashioned from charred wood and black wrought iron, has been left here.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 12187
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'invisibility'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1854
+Nest 1
+Name blue utility vest~
+ShD  (Reinforced{x) {bblue{x utility vest~
+Desc A vest covered with pouches lies here.~
+ExtF 262152
+Cond 28
+Wear -1
+Cost 75000
+Val  22 24 23 18 0
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({yUsed{x) a {rMake Over{x coupon~
+Desc Good for six more restrings. -Morgion~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9868
+Nest 1
+Name hood mist helmet~
+ShD  a hood of {cmist{x~
+Desc A hood made up entirely out of mist hovers here.~
+ExtF 8
+Cond 43
+Wear -1
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 92
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a red dragon's blood~
+Desc A jar of a red dragon's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Hiddukel's blood~
+Desc A jar of Hiddukel's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  212 212 13 1 0
+End
+
+#O
+Vnum 5704
+Enchanted
+Nest 1
+Cond 100
+Wear -1
+Cost 5500
+Affc 'reserved'   0 105  -1 500  19          0
+Affc 'reserved'   0 105  -1 200  18          0
+End
+
+#O
+Vnum 14551
+Nest 1
+Name boxers shorts~
+ShD  a pair of {WBoxers{x~
+Desc a pair of {WBoxers{x were left here.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Name star jewel starjewel~
+ShD  a sta{brje{xwel~
+Desc A beautiful crafted Silvanesti Jewel, shaped like an eight-pointed star, is here.~
+Cond 100
+Wear -1
+Cost 0
+ExDe according~ to the elven lore An elven lover will give this to his/her betrothed to promise they will marry, it will create a bond between the two's souls.
+~
+ExDe starjewel~ According to the elven lore An elven lover will give this to his/her betrothed to promise they will marry, it will create a bond between the two's souls.
+~
+End
+
+#O
+Vnum 3039
+Nest 1
+Name Ila Portrait~
+ShD  Ila's Portrait~
+Desc A portrait of a lovely and gorgeous woman is here.~
+Cond 100
+Wear -1
+Cost 1190
+Spell 1 'cancellation'
+ExDe portrait~ It's the portrait of a gorgeous human female with wavy light  blonde hair spills  down to  the middle of  her back  while longer bangs are swept to the right.  Her pink lips hold a soft smile, looking darker than they  are  against her  sun-kissed skin.  Light  green eyes  flecked with yellow, look kind and inviting,  rimmed with long and  dark eyelashes.  A pair of diamond earrings can be seen from time to time in her ears.
+~
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 107
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 188 0 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name wyvern tail saya ~
+ShD  ({BMasterwork{x) a wyvern's tail spike scabbard~
+Desc A scabbard made out of a wyvern's tail was left here.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 5700
+Nest 1
+Name stone dagger~
+ShD  a stone dagger~
+Desc There appears to be a dagger rudimentaly cut from stone.~
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  stone~
+Wear -1
+Lev  102
+Cost 1020
+Val  2 10 16 2 8
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 100
+Wear -1
+Cost 11083
+Val  2 10 14 33 5
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 100
+Wear -1
+Cost 15035
+Val  2 10 14 33 5
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 97
+Wear -1
+Cost 15500
+Val  2 10 14 33 5
+End
+
+#O
+Vnum 12093
+Nest 1
+Name soul cutter sword orfen~
+ShD  a {Dsoul cutter{x sword named {DOrfen{x~
+Desc A black bladed katana with a dented edge lays here releasing an evil aura.~
+Cond 99
+Wear -1
+Cost 5100
+Val  2 9 12 11 78
+End
+
+#O
+Vnum 5700
+Nest 0
+Name Scorpion Spear~
+ShD  a {DScorpion Spear{x~
+Desc A leaf-shaped blade with a handle with a ring on the pommel and then attached to a rope, was left here~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 100
+Mat  leather~
+Wear -1
+Lev  100
+Cost 1000
+Val  7 10 10 4 192
+Affc 'cultural artistry'   5  62  -1   0   0        128
+End
+
+#O
+Vnum 19008
+Nest 0
+Name coat trench long robe~
+ShD  a long {Dtrench{X coat~
+Desc A long grey trench coat was left here.~
+ExtF 17301600
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 3368
+Nest 1
+Name jacket blue~
+ShD  a {bdark blue{x jacket~
+Desc A jacket made from blue fabric lies here.~
+ExtF 262152
+Cond 28
+Wear -1
+Cost 500
+Val  25 25 25 22 0
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 73
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 5700
+Nest 1
+Name bone fossil humerus~
+ShD  ({WFossil{x) a left humerus~
+Desc A dagger carved out of a fossilized humerus lies here.~
+ExtF 2584
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 10
+Mat  stone~
+Wear -1
+Lev  91
+Cost 910
+Val  2 9 14 2 93
+Affc 'cultural artistry'   5  51  -1   0   0         16
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 100
+Wear -1
+Cost 14338
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 1627
+Nest 1
+Cond 100
+Wear -1
+Cost 13020
+End
+
+#O
+Vnum 1899
+Nest 1
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11144
+Nest 1
+Cond 53
+Wear -1
+Cost 3845
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 24
+Wear -1
+Cost 7400
+Val  2 9 12 1 73
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16779792
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 12 1 77
+End
+
+#O
+Vnum 16456
+Nest 1
+Cond 100
+Wear -1
+Cost 7400
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a well-cloaked thief's blood~
+Desc A jar of a well-cloaked thief's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1976
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 1973
+Nest 1
+Cond 100
+Wear -1
+Cost 76000
+End
+
+#O
+Vnum 1973
+Nest 1
+Cond 100
+Wear -1
+Cost 76000
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 1345
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9413
+Nest 1
+ExtF 17039360
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Dwarven foreman's blood~
+Desc A jar of a Dwarven foreman's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1404
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1245
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1253
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 758
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1298
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 990
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 9592
+Nest 1
+Name falcon pet~
+ShD  ({WFlying{x) (Pet) a Falcon~
+Desc A falcon flies high above your head.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 1
+Cond 100
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 5700
+Nest 1
+Name stone dagger~
+ShD  a stone dagger~
+Desc There appears to be a dagger rudimentaly cut from stone.~
+ExtF 2584
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 80
+Mat  stone~
+Wear -1
+Lev  100
+Cost 1000
+Val  2 10 14 2 86
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 4842
+Nest 1
+Name bwohrb crossbow~
+ShD  a bwohrb~
+Desc W Sea Elf weapon. Which is like a crossbow but launches harpoons is here.~
+Cond 100
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 9471
+Nest 1
+Name ring water fire~
+ShD  Ring of {CWater{x and {RFire{x~
+Desc A ring depicting water and fire lies here, the two elements converging as in a ying-yang, complementing each other yet different.~
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 68
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9471
+Nest 1
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 72
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 10967
+Nest 0
+Name shaded glasses~
+ShD  {dshaded{x glasses~
+Desc A pair of shaded glasses lie here.~
+ExtF 17039368
+Cond 52
+Wear 7
+Cost 2500
+Val  10 12 11 9 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name mist cloak~
+ShD  cloak of {cmist{x~
+Desc A cloak made entirely out of mist lies here.~
+ExtF 786440
+Cond 64
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9868
+Enchanted
+Nest 0
+Name hood mist helm~
+ShD  a hood of {cmist{x~
+Desc A hood made up entirely out of mist hovers here.~
+ExtF 16777216
+Cond 100
+Wear 6
+Cost 90000
+Affc 'detect hidden'   0 110  -1   0  26         32
+Affc 'detect hidden'   0 110  -1   0  26          0
+Affc 'detect invis'   0 110  -1   0  26          8
+Affc 'reserved'   0  80  -1   0   0          8
+Affc 'reserved'   0  80  -1   0   0         32
+Affc 'reserved'   1  80  -1   2   4          0
+Affc 'reserved'   1  80  -1   2   5          0
+Affc 'reserved'   1  80  -1  -4  20          0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 93
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name blue neck gaurd~
+ShD  (Reinforced) {bblue{x neck guard~
+Desc A blue, resistant neck guard lies here.~
+ExtF 786440
+Cond 63
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Name blue trouser~
+ShD  a pair of {bdark blue{x trousers~
+Desc A pair of trousers made from a blue fabric, lie here in a heap.~
+ExtF 8
+Cond 37
+Wear 8
+Cost 1500
+Val  6 4 10 3 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name barbed bracer~
+ShD  a barbed {bbracer{x~
+Desc A barbed blue bracer, with with scallops mainly used to block against knives or other stabbing weapons, was left here.~
+ExtF 262144
+Cond 85
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name barbed bracer~
+ShD  a barbed {bbracer{x~
+Desc A barbed blue bracer, with with scallops mainly used to block against knives or other stabbing weapons, was left here.~
+ExtF 262144
+Cond 79
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 100
+Wear 10
+Cost 5250
+End
+
+#O
+Vnum 16455
+Nest 0
+Cond 97
+Wear 9
+Cost 5250
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 4
+Mat  wool~
+Wear 13
+Lev  40
+Cost 0
+Val  15 15 15 11 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 14545
+Nest 0
+Name blue utility vest~
+ShD  ({CWaterproof{x)(Reinforced) a {bblue{x utility vest~
+Desc A vest covered with pouches lies here.{/It seems it has a breathing apparatus attached to it.~
+ExtF 16777740
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Name wyvern tail spike scabbard~
+ShD  a wyvern's tail spike scabbard~
+Desc A scabbard made out of a wyvern's tail was left here.~
+ExtF 16779800
+Cond 86
+Wear 24
+Cost 7400
+Val  2 9 16 1 77
+End
+
+#O
+Vnum 1200
+Nest 0
+Name silver wyvern~
+ShD  ({WFlying{x) an {Darmored{W silver{x wyvern~
+Desc A silver wyvern wearing a black plate armour and a saddle on his back is here flying around searching for his next pray.~
+ExtF 17039424
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name blue pauldrons~
+ShD  (Reinforced) {bblue{x pauldrons~
+Desc Some blue, reinforced pauldrons have been left here.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 43
+Mat  brass~
+Wear 14
+Lev  75
+Cost 750
+Val  22 22 22 18 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name wedding ring~
+ShD  a {YWedding{x Ring~
+Desc A golden wedding ring of elven design was left here.~
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1263
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Name soul cutter sword orfen~
+ShD  a {Dsoul cutter{x sword named {DOrfen{x~
+Desc A black bladed katana, with a dented edge, lays here releasing an evil aura.~
+ExtF 150997520
+Cond 97
+Wear 20
+Cost 7400
+Val  2 9 12 1 78
+End
+
+#O
+Vnum 16304
+Nest 0
+Name Jacen Crib Bassinet~
+ShD  Jacen's {yCrib{x~
+Desc A beautiful crib bearing the name of Jacen Ajime is here.~
+ExtF 16793600
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+ExDe it's~ a beautiful, cherry wood, crib bearing the name of Jacen Ajime and decorated with a plethora of protective runes.
+~
+ExDe crib~ It's a beautiful, cherry wood, crib bearing the name of Jacen Ajime and decorated with a plethora of protective runes.
+~
+End
+
+#O
+Vnum 919
+Nest 1
+Name baby boy Jacen~
+ShD  Jacen Ajime~
+Desc A beautiful baby boy is here looking at you.~
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 4960
+Nest 1
+Name stuffed toy otter~
+ShD  a stuffed toy {yOtter{x~
+Desc A stuffed toy otter, is here.{/A name tag reads 'I belong to Jacen Ajime'~
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 16304
+Nest 0
+Name Eva Crib Bassinet~
+ShD  Eva's {yCrib{x~
+Desc A beautiful crib bearing the name of Eva Ajime is here.~
+ExtF 16793600
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+ExDe it's~ a beautiful, cherry wood, crib bearing the name of Eva Ajime and decorated with a plethora of protective runes.
+~
+ExDe crib~ It's a beautiful, cherry wood, crib bearing the name of Eva Ajime and decorated with a plethora of protective runes.
+~
+End
+
+#O
+Vnum 919
+Nest 1
+Name baby girl Eva~
+ShD  Eva Ajime~
+Desc A beautiful baby girl is here looking at you.~
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 4960
+Nest 1
+Name stuffed toy dolphin~
+ShD  a stuffed toy {CDolphin{x~
+Desc A stuffed toy dolphin, is here.{/A name tag reads 'I belong to Eva Ajime'~
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#END

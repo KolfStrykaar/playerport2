@@ -1,0 +1,181 @@
+#PLAYER
+Name Bool~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1394665093
+LogO 1419917605
+Vers 10
+Act  CDGQTe
+Desc #include <iostream>
+using namespace std;
+
+int main (){
+
+cout << "A gnome stands here babbling to himself about 1s and 0s." endl;
+// He's wearing strange goggles.
+return 0;}
+~
+Prom <%hhp %mm %vmv> ~
+Race gnome~
+Sex  1
+Cla  13
+Hmtown 0
+Levl 3
+recall_point 3001
+Levscale 30
+Xptolev  824
+Sec  0
+Plyd 8966
+Not  1418706195 1395959842 0 0 0
+Scro 22
+Room 3005
+HMV  64 64 125 125 104 112
+Steel 0
+Gold 37
+Bank 0
+Exp  3626
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Prac 7
+Reward_timer 59
+Save  -25
+Alig  22
+Ethos 0
+Hit   25
+ACs 100 100 100 100
+Attr 12 20 13 11 15 10
+AMod 0 0 0 0 0 0
+Pass BoAOqeXCxwIlI~
+Titl  the Spell Student~
+Pretit ~
+Pnts 5
+TSex 1
+LLev 1
+HMVP 64 125 112
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'colour spray'
+Sk 1 'continual light'
+Sk 1 'create rose'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'fireball'
+Sk 1 'orb of containment'
+Sk 1 'gate'
+Sk 1 'ethereal warrior'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 76 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'aid'
+Sk 1 'protection evil'
+Sk 1 'refresh'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 75 'dagger'
+Sk 1 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'dragon skin'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'displacement'
+Sk 1 'rainbow pattern'
+Sk 1 'cantrip'
+Sk 1 'darkness'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 1 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 1 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'cause discord'
+Sk 1 'shifting shadows'
+Sk 1 'alter reality'
+Sk 1 'doppelganger'
+Sk 1 'looking glass'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'delusions of grandeur'
+Sk 1 'illusion'
+Sk 1 'mirror'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'sequester'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'scrye'
+Sk 1 'flash'
+Sk 1 'deafness'
+Sk 1 'trance'
+Sk 1 'cloak of evil'
+Sk 1 'hypnotic pattern'
+Sk 1 'staff'
+Sk 1 'phantom armor'
+Sk 1 'spook'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'bless'   0 164  42 -25  25          0
+Affc 'bless'   0 163  42  25  18          0
+End
+
+#O
+Vnum 3817
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

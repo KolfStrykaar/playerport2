@@ -1,0 +1,2726 @@
+#AREADATA
+Name Southern Roads~
+Builders Sargonnas~
+Continent Solamnia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 4600 4800
+Credits Sargonnas~
+Security 9
+End
+
+
+
+#MOBILES
+#4614
+road bandit~
+a Road Bandit~
+A Road Bandit prepares to rob the unwary
+~
+A life living on the road has made him a hard man.  Necessity gives him
+the determination to rob anyone passing by.  He hides here waiting for
+someone with a bulging purse to go by.  
+~
+human~
+ABS Qf 0 0
+30 30 61d10+304 30d10+85 10d3+20 sting
+-10 -10 -10 -4
+B 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#4635
+ariola greengrocer~
+Ariola the Greengrocer~
+Ariola the Greengrocer goes about washing her vegetables
+~
+A stern and disciplined woman stands here.  She travels these roads
+constantly to sell travelers some of her goods. She wears a dirty apron and
+very well worn travel boots.  Her skin is tanned dark from her life on the
+road.  
+~
+human~
+AB H 300 0
+150 150 301d50+4546 150d10+85 50d3+80 slash
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+#4636
+sulasa~
+Sulasa the hedge wizard~
+Sulasa busies himself with making potions
+~
+His love for life and devotion to aiding people in need, have stopped him
+from taking his test.  He has now devoted himself to making potions to aid
+people.  
+~
+human~
+ABR DJ 300 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+#4645
+mountain goat~
+a nimble mountain goat~
+A mountain goat jumps from rock to rock
+~
+BAAAA
+~
+unique~
+AB V -300 0
+30 30 61d10+304 30d10+85 10d3+20 bite
+-10 -10 -10 -4
+0 0 0 0
+stand stand female 0
+0 0 S unknown 0
+#4735
+hobgoblin~
+A hobgoblin lackey~
+A hobgoblin patrols the road
+~
+This is a small hobgoblin, but smells like a big one.  He looks
+reasonably trained, he patrols the road looking for spies.  
+~
+none~
+AGT 0 -1000 0
+14 14 29d4+142 14d10+85 4d3+12 pound
+0 0 0 2
+EI 0 0 0
+stand stand male 400
+0 0 M unknown 0
+#0
+
+
+
+#OBJECTS
+#4600
+sign road roadsign~
+a road sign~
+A road sign stands here.~
+wood~
+trash O 0 P
+0 0 0 0 0
+1 20 0 P
+E
+sign~
+Kaolyn--------> East
+Thelgaard-----> North
+Caergoth------> South
+~
+#4614
+silver rapier sword~
+a {Csilver{x rapier~
+A rapier made of silver lies here~
+silver~
+weapon 0 0 ANX
+sword 4 10 sting 0
+30 2 700 P
+#4634
+spinach~
+a green bunch of {gspinach{x~
+A green bunch of spinach lies here~
+plant~
+food S 0 AO
+BD BD 0 0 0
+20 1 500 P
+#4635
+watermelon~
+a large round watermelon~
+A large green watermelon lies here~
+plant~
+food S 0 AO
+D D 0 0 0
+15 2 300 P
+#4636
+gem squash~
+a small gem squash~
+A small gem squash lies here~
+plant~
+food S 0 AO
+AB AB 0 0 0
+10 1 150 P
+#4637
+luminous green potion~
+a luminous {Ggreen{x potion~
+A luminous {Ggreen{x potion sits here.~
+glass~
+potion GS 0 AO
+10 'invisibility' 'reserved' 'reserved' 'reserved'
+30 1 1500 P
+#4638
+luminous yellow potion~
+a luminous {Yyellow{x potion~
+A luminous {Yyellow{x potion sits here.~
+glass~
+potion GS 0 AO
+10 'heal' 'reserved' 'reserved' 'reserved'
+30 1 1800 P
+#4639
+luminous red potion~
+a luminous {Rred{x potion~
+A luminous {Rred{x potion sits here.~
+glass~
+potion GS 0 AO
+10 'haste' 'giant strength' 'reserved' 'reserved'
+30 1 1500 P
+#4640
+luminous orange potion~
+a luminous orange potion~
+A luminous orange potion floats here~
+glass~
+potion GS 0 AO
+10 '' 'pass door' 'reserved' 'reserved'
+30 1 1500 P
+#4741
+shimmering portal~
+a shimmering portal~
+A portal leading to Abanasinia, shimmers here before you!~
+energy~
+portal GOTa 0 0
+0 0 A ABCHKLN 0
+0 0 0 P
+#4743
+no name~
+unused~
+(no description)~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4600
+Note Room, Southern High Road~
+East to Solanthus
+Solanthus to Thelgaard: 55 miles
+Thelgaard to Garnet: 54 miles
+Garnet to Caergoth: 103 miles
+Total distance from Solanthus to Caergoth, overland: 212
+Leg 1: 19
+Leg 2: 36
+Leg 3: 22'
+Leg 4: 32
+Leg 5: 60
+Leg 6: 43
+ 
+Approximately 80-100 rooms will be road... this is to be done first.
+2.12 miles per room at a 100 room rate... soooooo
+First leg: 9 rooms
+Leg 2: 17 rooms
+Leg 3: 10 rooms
+Leg 4: 15 rooms
+Leg 5: 28 rooms
+Leg 6: 20 rooms
+~
+0 32772 0
+S
+#4601
+Solanthus Road~
+A long road lies ahead for those leaving Solanthus, for those entering
+the end of an arduous journey.  Travelers pass by, absorbed in their own
+thoughts and worries.  To the east lies the city of Solanthus.  
+~
+0 0 2
+D1
+~
+~
+0 0 5621
+D3
+~
+~
+0 0 4602
+S
+#4602
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+that well traveled, with only a few weary travelers and wagons that pass by
+on their long journey away from home.  
+~
+0 0 2
+D1
+~
+~
+0 0 4601
+D2
+~
+~
+0 0 4603
+S
+#4603
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D0
+~
+~
+0 0 4602
+D3
+~
+~
+0 0 4604
+S
+#4604
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D1
+~
+~
+0 0 4603
+D2
+~
+~
+0 0 4605
+S
+#4605
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D0
+~
+~
+0 0 4604
+D3
+~
+~
+0 0 4606
+S
+#4606
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D1
+~
+~
+0 0 4605
+D2
+~
+~
+0 0 4607
+S
+#4607
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D0
+~
+~
+0 0 4606
+D3
+~
+~
+0 0 4608
+S
+#4608
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D1
+~
+~
+0 0 4607
+D2
+~
+~
+0 0 4609
+S
+#4609
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Thelgaard and the Kingdoms beyond.  This road is not
+well traveled, with only a few weary travelers and wagons that pass by on
+their long journey away from home.  
+~
+0 0 2
+D0
+~
+~
+0 0 4608
+D3
+~
+~
+0 0 4610
+S
+#4610
+Solanthus Road~
+There are a few trees littering the countryside, allowing many places for
+travelers to camp and rest in relative safety.  To the west you can see a
+larger expanse of trees forming.  Off in the far distance to the east the
+white snow-capped Garnet mountains can be seen.  
+~
+0 0 2
+D1
+~
+~
+0 0 4609
+D3
+~
+~
+0 0 4611
+S
+#4611
+Solanthus Road~
+A large forest looms ahead to the west, its ancient trees towering high
+above you.  An occasional bird cry breaks the silence coming from the trees.
+Tracks of many people and wagons going into the forest are visible, but
+fewer tracks coming out.  A deer runs out of the forest frightened by
+something inside.  
+~
+0 0 2
+D1
+~
+~
+0 0 4610
+D3
+~
+~
+0 0 4612
+S
+#4612
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the west leads deeper into
+the forest, to the east the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4611
+D3
+~
+~
+0 0 4613
+S
+#4613
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the west leads deeper into
+the forest, to the east the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4614
+S
+#4614
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking in the deeper in the woods.  No
+cheerful bird song breaks the silence inside the forest.  To the west leads
+deeper into the forest, to the east the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4613
+D3
+~
+~
+0 0 4615
+S
+#4615
+Thelgaard Forest~
+You are in the middle of the forest.  A few rays of light break through
+the thick canopy of leaves illuminating the floor below.  Mushrooms break
+through the dead foliage and give off an eerie phosphorus glow.  A wood
+sprite sits on top of the largest mushroom, contemplating life.  He runs off
+into woods startled by the sight of you.  
+~
+0 1 3
+D1
+~
+~
+0 0 4614
+D3
+~
+~
+0 0 4616
+S
+#4616
+Thelgaard Forest~
+You are in the middle of the forest.  A few rays of light break through
+the thick canopy of dead leaves illuminating the floor below.  Mushrooms
+break through the dead foliage and give off an eerie glow.  A wood sprite
+sits on top of the largest mushroom, contemplating life.  He runs off into
+the woods frightened by the sight of you.  
+~
+0 1 3
+D1
+~
+~
+0 0 4615
+D3
+~
+~
+0 0 4617
+S
+#4617
+Thelgaard Forest~
+You are in the middle of the forest.  A few rays of light break through
+the thick canopy of dead leaves illuminating the floor below.  Mushrooms
+break through the dead foliage and give off an eerie phosphorus glow.  A
+wood sprite sits on top of the largest mushroom, contemplating life.  He
+runs off into the woods frightened by the sight of you.  
+~
+0 1 3
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4618
+S
+#4618
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the east leads deeper into
+the forest, to the west the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4617
+D3
+~
+~
+0 0 4619
+S
+#4619
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the east leads deeper into
+the forest, to the west the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4618
+D3
+~
+~
+0 0 4620
+S
+#4620
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the east leads deeper into
+the forest, to the west the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4619
+D3
+~
+~
+0 0 4621
+S
+#4621
+Thelgaard Forest~
+A canopy of leaves and branches cover the road.  A rabbit runs across the
+path scared off by something lurking deeper in the woods.  No cheerful bird
+song breaks the silence inside the forest.  To the east leads deeper into
+the forest, to the west the light of the end of the forest.  
+~
+0 1 3
+D1
+~
+~
+0 0 4620
+D3
+~
+~
+0 0 4622
+S
+#4622
+Thelgaard Road~
+A large forest looms ahead to the east, its ancient trees towering high
+above you.  An occasional bird cry breaks the silence coming from the trees.
+Tracks of many people and wagons going into the forest are visible, but
+fewer tracks coming out.  A deer runs out of the forest frightened by
+Something inside.  
+~
+0 0 2
+D1
+~
+~
+0 0 4621
+D3
+~
+~
+0 0 4623
+S
+#4623
+Thelgaard Road~
+There are a few trees littering the countryside, allowing many places for
+travelers to camp and rest in relative safety.  To the west the towers of
+Thelgaard pierce the horizon in all their splendor.  To the east you can see
+a large expanse of trees forming.  
+~
+0 0 2
+D1
+~
+~
+0 0 4622
+D3
+~
+~
+0 0 4624
+S
+#4624
+Thelgaard Road~
+There are a few trees littering the countryside, allowing many places for
+travelers to camp and rest in relative safety.  To the west the towers of
+Thelgaard pierce the horizon in all their splendor.  To the east you can see
+a large expanse of trees forming.  
+~
+0 0 2
+D1
+~
+~
+0 0 4623
+D3
+~
+~
+0 0 4625
+S
+#4625
+Thelgaard Road~
+There are a few trees littering the countryside, allowing many places for
+travelers to camp and rest in relative safety.  To the west the towers of
+Thelgaard pierce the horizon in all their splendor.  To the east you can see
+a large expanse of trees forming.  
+~
+0 0 2
+D1
+~
+~
+0 0 4624
+D3
+~
+~
+0 0 4626
+S
+#4626
+Thelgaard Road~
+There are a few trees littering the countryside, allowing many places for
+travelers to camp and rest in relative safety.  To the west the towers of
+Thelgaard pierce the horizon in all their splendor.  To the east you can see
+a large expanse of trees forming.  
+~
+0 0 2
+D1
+~
+~
+0 0 4625
+D3
+~
+~
+0 0 4627
+S
+#4627
+Thelgaard Road~
+You stand before the eastern gates of Thelgaard.  A guard stands at the
+entrance to the city checking incoming goods.  A kender is being escorted
+out of the city by five city guards with their hands on their weapons.  The
+walls of Thelgaard are under constant watch by the guards patrolling on top.
+The road heads east towards the city of Solanthus and south, towards Kaolyn.
+~
+0 0 2
+D0
+~
+~
+0 0 4800
+D1
+~
+~
+0 0 4626
+D2
+~
+~
+0 0 4628
+S
+#4628
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south the open road beckons
+you.  
+~
+0 0 2
+D0
+~
+~
+0 0 4627
+D2
+~
+~
+0 0 4629
+S
+#4629
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south the open road beckons you.  
+~
+0 0 2
+D0
+~
+~
+0 0 4628
+D2
+~
+~
+0 0 4630
+S
+#4630
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south the open road beckons you.. 
+~
+0 0 2
+D0
+~
+~
+0 0 4629
+D2
+~
+~
+0 0 4631
+S
+#4631
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south the open road beckons you.  
+~
+0 0 2
+D0
+~
+~
+0 0 4630
+D2
+~
+~
+0 0 4632
+S
+#4632
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south, the open road beckons you.
+~
+0 0 2
+D0
+~
+~
+0 0 4631
+D2
+~
+~
+0 0 4634
+S
+#4634
+Thelgaard Road~
+The spires of Thelgaard keep rise up to the north.  A patrol of town
+militia goes by, ensuring everyone's safety along the road.  A kender passes
+by with a grin on his face from topknot to tail, filtering through his
+pouches, of newly acquired findings.  To the south, the open road beckons you.
+~
+0 0 2
+D0
+~
+~
+0 0 4632
+D2
+~
+~
+0 0 4635
+S
+#4635
+Thelgaard Road~
+You stumble upon a caravan of traders.  They travel up from Caergoth to
+bring their wares to Thelgaard.  To the far east, you can see the garnet
+mountains in all their glory.  The smell of campfires blows through the
+caravan.  The caravan master prepares the oxen, to carry on their journey.  
+~
+0 1032 2
+D0
+~
+~
+0 0 4634
+D2
+~
+~
+0 0 4636
+S
+#4636
+Thelgaard Road~
+You stumble upon a caravan of traders.  They travel between Caergoth and
+Thelgaard to sell their wares to travelers.  To the far east you can see the
+Garnet mountains in all their glory.  The smell of campfires blows through
+the caravan. The caravan master prepares the oxen, to carry on their
+journey.  
+~
+0 1032 2
+D0
+~
+~
+0 0 4635
+D2
+~
+~
+0 0 4637
+S
+#4637
+Thelgaard Road~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 4636
+D2
+~
+~
+0 0 4638
+S
+#4638
+Thelgaard Road~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 4637
+D1
+~
+~
+0 0 4639
+S
+#4639
+Thelgaard Hill~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 4
+D2
+~
+~
+0 0 4640
+D3
+~
+~
+0 0 4638
+S
+#4640
+Thelgaard Hill~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 4
+D0
+~
+~
+0 0 4639
+D1
+~
+~
+0 0 4641
+S
+#4641
+Thelgaard Hill~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 4
+D2
+~
+~
+0 0 4642
+D3
+~
+~
+0 0 4640
+S
+#4642
+Thelgaard Hill~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 4
+D0
+~
+~
+0 0 4641
+D1
+~
+~
+0 0 4643
+S
+#4643
+Thelgaard Hill~
+You are standing on a wide trail with an occasional wagon track sunken
+into the dirt.  The road begins to slope upward making the journey a little
+bit more tedious.  There is a chill in the air that the sun can't even
+disperse, the closer you get to the Garnet Mountains.  
+~
+0 0 4
+D2
+~
+~
+0 0 4644
+D3
+~
+~
+0 0 4642
+S
+#4644
+Thelgaard Hill~
+The summit of this hill gives a great vantage point.  Thelgaard can be
+seen in the far distance to the north.  To the southeast the small town of
+Kaolyn can be seen, nestled between the Garnet mountains.  And Far to the
+southwest the great city of Caergoth can be seen on the horizon.  Travelers
+use the summit as a resting spot.  
+~
+0 0 4
+D0
+~
+~
+0 0 4643
+D1
+~
+~
+0 0 4645
+S
+#4645
+Thelgaard Hill~
+The road winds down the hill at a sharp decline.  It is covered with
+large crushed white stones clearly making it dangerous.  On a particularly
+large rock, some unwary travelers blood can be seen drying in the sun.  A
+vulture circles above on the currents, waiting for it's next pickings.  
+~
+0 0 4
+D2
+~
+~
+0 0 4646
+D3
+~
+~
+0 0 4644
+S
+#4646
+Thelgaard Hill~
+The road winds down the hill at a sharp decline.  It is covered with
+large crushed white stones clearly making it dangerous.  On a particularly
+large rock, some unwary travelers blood can be seen drying in the sun.  A
+vulture circles above on the currents, waiting for it's next pickings.  
+~
+0 0 4
+D0
+~
+~
+0 0 4645
+D1
+~
+~
+0 0 4647
+S
+#4647
+Thelgaard Hill~
+The road winds down the hill at a sharp decline.  It is covered with
+large crushed white stones clearly making it dangerous.  On a particularly
+large rock, some unwary travelers blood can be seen drying in the sun.  A
+vulture circles above on the currents, waiting for it's next pickings.  
+~
+0 0 4
+D2
+~
+~
+0 0 4648
+D3
+~
+~
+0 0 4646
+S
+#4648
+Thelgaard Hill~
+The road narrows to such an extent at this part of the road, that only
+one wagon can go by at a time.  A mountain goat bounds by, foraging for it's
+daily meal in the hills.  As the goat reaches a point above you, it
+dislodges a rock, which falls down just missing your head.  To the southeast
+the small town of Kaolyn can be seen.  
+~
+0 0 4
+D0
+~
+~
+0 0 4647
+D1
+~
+~
+0 0 4649
+S
+#4649
+Thelgaard Hill~
+The road narrows to such an extent at this part of the road, that only
+one wagon can go by at a time.  A mountain goat bounds by, foraging for it's
+daily meal in the hills.  As the goat reaches a point above you, it
+dislodges a rock, which falls down just missing your head.  To the southeast
+the small town of Kaolyn can be seen.  
+~
+0 0 4
+D2
+~
+~
+0 0 4650
+D3
+~
+~
+0 0 4648
+S
+#4650
+Thelgaard Hill~
+The road winds down the hill at a sharp decline.  It is covered with
+large crushed white stones clearly making it dangerous.  On a particularly
+large rock, some unwary travelers blood can be seen drying in the sun.  A
+vulture circles above on the currents, waiting for it's next pickings.  
+~
+0 0 2
+D0
+~
+~
+0 0 4649
+D1
+~
+~
+0 0 4651
+S
+#4651
+Thelgaard Hill~
+The road narrows to such an extent at this part of the road, that only
+one wagon can go by at a time.  A mountain goat bounds by, foraging for it's
+daily meal in the hills.  As the goat reaches a point above you, it
+dislodges a rock, which falls down just missing your head.  To the southeast
+the small town of Kaolyn can be seen.  
+~
+0 0 2
+D2
+~
+~
+0 0 4652
+D3
+~
+~
+0 0 4650
+S
+#4652
+Thelgaard Hill~
+The road narrows to such an extent at this part of the road, that only
+one wagon can go by at a time.  A mountain goat bounds by, foraging for it's
+daily meal in the hills.  As the goat reaches a point above you, it
+dislodges a rock, which falls down just missing your head.  To the southeast
+the small town of Kaolyn can be seen.  
+ 
+~
+0 0 4
+D0
+~
+~
+0 0 4651
+D1
+~
+~
+0 0 4653
+S
+#4653
+Thelgaard Hill~
+The road winds down the hill at a sharp decline.  It is covered with
+large crushed white stones clearly making it dangerous.  On a particularly
+large rock, some unwary travelers blood can be seen drying in the sun.  A
+vulture circles above on the currents, waiting for it's next pickings.  
+~
+0 0 4
+D2
+~
+~
+0 0 4654
+D3
+~
+~
+0 0 4652
+S
+#4654
+Crossroads~
+You stand outside the western gates of Kaolyn.  It is situated in between
+two mountains, providing it with protection from nature's elements.  To the
+north is the city of Thelgaard, to the south-west the city of Caergoth.  A
+cold mountain breeze blows through the valley, making the residents tuck
+deeper into their furs.  
+~
+0 0 2
+D0
+~
+~
+0 0 4653
+D2
+~
+~
+0 0 4655
+S
+#4655
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.  A small town of Kaolyn lies to the
+east.  To the west the city of Caergoth.  
+~
+0 0 2
+D0
+~
+~
+0 0 4654
+D2
+~
+~
+0 0 4656
+S
+#4656
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.  A small town of Kaolyn lies to the
+east.  To the west the city of Caergoth.  
+~
+0 0 2
+D0
+~
+~
+0 0 4655
+D2
+~
+~
+0 0 4657
+S
+#4657
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4656
+D2
+~
+~
+0 0 4658
+S
+#4658
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4657
+D2
+~
+~
+0 0 4659
+S
+#4659
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.
+~
+0 0 2
+D0
+~
+~
+0 0 4658
+D2
+~
+~
+0 0 4660
+S
+#4660
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.
+~
+0 0 2
+D0
+~
+~
+0 0 4659
+D2
+~
+~
+0 0 4661
+S
+#4661
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4660
+D2
+~
+~
+0 0 4662
+S
+#4662
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4661
+D2
+~
+~
+0 0 4663
+S
+#4663
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+ breeze blow's from the west refreshing you.
+~
+0 0 2
+D0
+~
+~
+0 0 4662
+D2
+~
+~
+0 0 4664
+S
+#4664
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.  
+~
+0 0 2
+D0
+~
+~
+0 0 4663
+D2
+~
+~
+0 0 4665
+S
+#4665
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.
+~
+0 0 2
+D0
+~
+~
+0 0 4664
+D2
+~
+~
+0 0 4666
+S
+#4666
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.
+~
+0 0 2
+D0
+~
+~
+0 0 4665
+D2
+~
+~
+0 0 4667
+S
+#4667
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.
+~
+0 0 2
+D0
+~
+~
+0 0 4666
+D2
+~
+~
+0 0 4668
+S
+#4668
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.
+~
+0 0 2
+D0
+~
+~
+0 0 4667
+D2
+~
+~
+0 0 4669
+S
+#4669
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4668
+D2
+~
+~
+0 0 4670
+S
+#4670
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.
+~
+0 0 2
+D0
+~
+~
+0 0 4669
+D3
+~
+~
+0 0 4671
+S
+#4671
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+blow's from the west refreshing you.  To the west the city of Caergoth.  
+~
+0 0 2
+D1
+~
+~
+0 0 4670
+D2
+~
+~
+0 0 4672
+S
+#4672
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.  To the west the city of
+Caergoth.  
+~
+0 0 2
+D0
+~
+~
+0 0 4671
+D3
+~
+~
+0 0 4673
+S
+#4673
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.  
+~
+0 0 2
+D1
+~
+~
+0 0 4672
+D2
+~
+~
+0 0 4674
+S
+#4674
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.  
+~
+0 0 2
+D0
+~
+~
+0 0 4673
+D3
+~
+~
+0 0 4675
+S
+#4675
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.  
+~
+0 0 2
+D1
+~
+~
+0 0 4674
+D2
+~
+~
+0 0 4676
+S
+#4676
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4675
+D3
+~
+~
+0 0 4677
+S
+#4677
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.
+~
+0 0 2
+D1
+~
+~
+0 0 4676
+D2
+~
+~
+0 0 4678
+S
+#4678
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D0
+~
+~
+0 0 4677
+D3
+~
+~
+0 0 4679
+S
+#4679
+Caergoth Road~
+The change in the road is drastic.  Lush fields on either side of the
+road can be seen going on for miles.  White daisies grow on either side of
+the road making it visible from far away.  A butterfly goes from
+flower-to-flower collecting pollen.
+~
+0 0 2
+D1
+~
+~
+0 0 4678
+D2
+~
+~
+0 0 4680
+S
+#4680
+Caergoth Road~
+A man and his family pass by in a wagon full of goods.  Their young son
+is shooting marbles at the butterflies from the back of the wagon.  A cool
+breeze blow's from the west refreshing you.
+~
+0 0 2
+D0
+~
+~
+0 0 4679
+D3
+~
+~
+0 0 4681
+S
+#4681
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4680
+D2
+~
+~
+0 0 4682
+S
+#4682
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.  To the east, a
+road leads through to the city of Port 'O' Call.  
+~
+0 0 2
+D0
+~
+~
+0 0 4681
+D1
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4683
+S
+#4683
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4682
+D3
+~
+~
+0 0 4684
+S
+#4684
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4683
+D3
+~
+~
+0 0 4685
+S
+#4685
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4684
+D3
+~
+~
+0 0 4686
+S
+#4686
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4685
+D3
+~
+~
+0 0 4687
+S
+#4687
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4686
+D3
+~
+~
+0 0 4688
+S
+#4688
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4687
+D3
+~
+~
+0 0 4689
+S
+#4689
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4688
+D3
+~
+~
+0 0 4690
+S
+#4690
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4689
+D3
+~
+~
+0 0 4691
+S
+#4691
+Caergoth Road~
+A group of armed men go by with the insignia of Caergoth militia on their
+uniforms.  They carry long spears with heads of goblins on them, two of the
+men are seriously injured and another man is strapped over his horse, dead. 
+The city of Caergoth can be seen on the horizon to the west.
+~
+0 0 2
+D1
+~
+~
+0 0 4690
+D3
+~
+~
+0 0 4692
+S
+#4692
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4691
+D3
+~
+~
+0 0 4693
+S
+#4693
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4692
+D3
+~
+~
+0 0 4694
+S
+#4694
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.  To the west the city of
+Caergoth.  
+~
+0 0 2
+D1
+~
+~
+0 0 4693
+D3
+~
+~
+0 0 4695
+S
+#4695
+Caergoth Road~
+Farmers are in their fields, harvesting the ripe grain, they take their
+grain to the markets in Caergoth.  A breeze blows through the fields, making
+the grain look like the sea in a mild storm.  A small field mouse runs into
+one of the farmer's wagons filling its cheeks with as much grain as possible
+before running down a small hole in the ground.  To the west the city of
+Caergoth.  
+~
+0 0 2
+D1
+~
+~
+0 0 4694
+D3
+~
+~
+0 0 4696
+S
+#4696
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4695
+D3
+~
+~
+0 0 4697
+S
+#4697
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4696
+D3
+~
+~
+0 0 4698
+S
+#4698
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4697
+D3
+~
+~
+0 0 4699
+S
+#4699
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4698
+D3
+~
+~
+0 0 4700
+S
+#4700
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4699
+D3
+~
+~
+0 0 4701
+S
+#4701
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4700
+D3
+~
+~
+0 0 4702
+S
+#4702
+Caergoth Road~
+A small row of trees form on either side of the road, protecting the
+travelers from the wind and providing a cool place to rest in the summer
+sun.  A calm sea breeze blows through the trees refreshing you.  Traders
+pass by in a rush to get to the market in time.  The city of Caergoth is not
+far off to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4701
+S
+#4703
+Solanthus Road~
+You stand on a beaten path just outside the eastern gates of Solanthus. 
+An eagle hovers above a field to the south waiting to catch some
+unsuspecting field mice.  A farmer passes by, heading off to his field with
+a hoe over his shoulder.  To the east the open road beckons you.  
+~
+0 0 2
+D1
+~
+~
+0 0 4704
+D3
+~
+~
+0 0 5792
+S
+#4704
+Solanthus Road~
+You stand on a beaten path just outside the eastern gates of Solanthus. 
+An eagle hovers above a field to the south waiting to catch some
+unsuspecting field mice.  A farmer passes by, heading off to his field with
+a hoe over his shoulder.  To the east the open road beckons you.  
+~
+0 0 2
+D1
+~
+~
+0 0 4705
+D3
+~
+~
+0 0 4703
+S
+#4705
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Lemming.  The road is poorly protected from bandits,
+making the road not well traveled, with only a few weary travelers making
+their way to their homes as quick as possible.  
+~
+0 0 2
+D1
+~
+~
+0 0 4706
+D3
+~
+~
+0 0 4704
+S
+#4706
+Solanthus Road~
+You stand on a beaten path just outside the eastern gates of Solanthus. 
+An eagle hovers above a field to the south waiting to catch some
+unsuspecting field mice.  A farmer passes by, heading off to his field with
+a hoe over his shoulder.  
+~
+0 0 2
+D2
+~
+~
+0 0 4707
+D3
+~
+~
+0 0 4705
+S
+#4707
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D0
+~
+~
+0 0 4706
+D1
+~
+~
+0 0 4708
+S
+#4708
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D2
+~
+~
+0 0 4709
+D3
+~
+~
+0 0 4707
+S
+#4709
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Lemming.  The road is poorly protected from bandits,
+making the road not well traveled, with only a few weary travelers making
+their way to their homes as quick as possible.  
+~
+0 0 2
+D0
+~
+~
+0 0 4708
+D1
+~
+~
+0 0 4710
+S
+#4710
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D2
+~
+~
+0 0 4711
+D3
+~
+~
+0 0 4709
+S
+#4711
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Lemming.  The road is poorly protected from bandits,
+making the road not well traveled, with only a few weary travelers making
+their way to their homes as quick as possible.  
+~
+0 0 2
+D0
+~
+~
+0 0 4710
+D1
+~
+~
+0 0 4712
+S
+#4712
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D2
+~
+~
+0 0 4713
+D3
+~
+~
+0 0 4711
+S
+#4713
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D0
+~
+~
+0 0 4712
+D1
+~
+~
+0 0 4714
+S
+#4714
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D2
+~
+~
+0 0 4715
+D3
+~
+~
+0 0 4713
+S
+#4715
+Solanthus Road~
+Fields of what seem to be corn stretch out before you as far as can be
+seen.  A traveler passes by seemingly in a big rush to get to his
+destination before nightfall.  A small sand dervish blows down the road
+picking up leaves and tossing the debris out recklessly.  
+~
+0 0 2
+D0
+~
+~
+0 0 4714
+D1
+~
+~
+0 0 4716
+S
+#4716
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Lemming.  The road is poorly protected from bandits,
+making the road not well traveled, with only a few weary travelers making
+their way to their homes as quick as possible.  
+~
+0 0 2
+D2
+~
+~
+0 0 4717
+D3
+~
+~
+0 0 4715
+S
+#4717
+Solanthus Road~
+You are traveling down Solanthus road.  This is the only established road
+between Solanthus and Lemming.  The road is poorly protected from bandits,
+making the road not well traveled, with only a few weary travelers making
+their way to their homes as quick as possible.  
+~
+0 0 2
+D0
+~
+~
+0 0 4716
+D1
+~
+~
+0 0 4718
+S
+#4718
+Solanthus Road~
+A small rabbit runs across the road straight into its hole, a few seconds
+later a fox runs past going straight for the rabbit hole.  A wagon wheel
+lies on the side of the road broken into pieces, an arrow shaft sticks out
+from one of the spokes.  The wagon tracks come from or go to the east, but
+none go west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4719
+D3
+~
+~
+0 0 4717
+S
+#4719
+Solanthus Road~
+A small rabbit runs across the road straight into its hole, a few seconds
+later a fox runs past going straight for the rabbit hole.  A wagon wheel
+lies on the side of the road broken into pieces, an arrow shaft sticks out
+from one of the spokes.  The wagon tracks come from or go to the east, but
+none go west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4720
+D3
+~
+~
+0 0 4718
+S
+#4720
+Solanthus Road~
+A small rabbit runs across the road straight into its hole, a few seconds
+later a fox runs past going straight for the rabbit hole.  A wagon wheel
+lies on the side of the road broken into pieces, an arrow shaft sticks out
+from one of the spokes.  The wagon tracks come from or go to the east, but
+none go west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4721
+D3
+~
+~
+0 0 4719
+S
+#4721
+Solanthus Road~
+A small rabbit runs across the road straight into its hole, a few seconds
+later a fox runs past going straight for the rabbit hole.  A wagon wheel
+lies on the side of the road broken into pieces, an arrow shaft sticks out
+from one of the spokes.  The wagon tracks come from or go to the east, but
+none go west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4722
+D3
+~
+~
+0 0 4720
+S
+#4722
+Solanthus Road~
+A small rabbit runs across the road straight into its hole, a few seconds
+later a fox runs past going straight for the rabbit hole.  A wagon wheel
+lies on the side of the road broken into pieces, an arrow shaft sticks out
+from one of the spokes.  The wagon tracks come from or go to the east, but
+none go west.  
+~
+0 0 2
+D1
+~
+~
+0 0 4723
+D3
+~
+~
+0 0 4721
+S
+#4723
+Solanthus Road~
+The road before you is empty and barren, no travelers can be seen down
+the road.  Trails that are too large to be made by animals can be seen
+leading through the fields heading off to the east.  A spiral of smoke grows
+on the horizon in that direction.  The wind blows the smoke off in the other
+direction 
+~
+0 0 2
+D2
+~
+~
+0 0 4724
+D3
+~
+~
+0 0 4722
+S
+#4724
+Lemish Road~
+The road before you is empty and barren, no travelers can be seen down
+the road.  Trails that are too large to be made by animals can be seen
+leading through the fields heading off to the east.  A spiral of smoke grows
+on the horizon in that direction.  The wind blows the smoke off in the other
+direction 
+~
+0 0 2
+D0
+~
+~
+0 0 4723
+D3
+~
+~
+0 0 4725
+S
+#4725
+Lemish Road~
+Vultures circle above an area to the east, the smell of death and decay
+drawing them from miles away.  From this point in the road, you can see what
+seems to be a burnt out farmhouse.  No movement can be seen coming from the
+ruins, either the residents have left or are dead.  To the south the town of
+Lemish.
+~
+0 0 2
+D1
+~
+~
+0 0 4724
+D2
+~
+~
+0 0 4726
+S
+#4726
+Lemish Road~
+The road before you is empty and barren, no travelers can be seen down
+the road.  Trails that are too large to be made by animals can be seen
+leading through the fields heading off to the east.  A spiral of smoke grows
+on the horizon in that direction.  The wind blows the smoke off in the other
+direction 
+~
+0 0 2
+D0
+~
+~
+0 0 4725
+D3
+~
+~
+0 0 4727
+S
+#4727
+Lemish Road~
+The road before you is empty and barren, no travelers can be seen down
+the road.  Trails that are too large to be made by animals can be seen
+leading through the fields heading off to the east.  A spiral of smoke grows
+on the horizon in that direction.  The wind blows the smoke off in the other
+direction 
+~
+0 0 2
+D1
+~
+~
+0 0 4726
+D2
+~
+~
+0 0 4728
+S
+#4728
+Lemish Road~
+Vultures circle above an area to the east, the smell of death and decay
+drawing them from miles away.  From this point in the road, you can see what
+seems to be a burnt out farmhouse.  No movement can be seen coming from the
+ruins, either the residents have left or are dead.  To the south the town of
+Lemish.
+~
+0 0 2
+D0
+~
+~
+0 0 4727
+D3
+~
+~
+0 0 4729
+S
+#4729
+Lemish Road~
+Vultures circle above an area to the east, the smell of death and decay
+drawing them from miles away.  From this point in the road, you can see what
+seems to be a burnt out farmhouse.  No movement can be seen coming from the
+ruins, either the residents have left or are dead.  To the south the town of
+Lemish
+~
+0 0 2
+D1
+~
+~
+0 0 4728
+D2
+~
+~
+0 0 4730
+S
+#4730
+Lemish Road~
+You stand on a road just north of Lemish.  To the west lies the
+snow-capped Garnet Mountains.  Supply wagons can be seen heading towards the
+town, heavily laden with food supplies and weapons.  The wagons have an
+escort of footman and you can see a flight of blue dragon flying overhead
+keeping all in order.  
+~
+0 0 2
+D0
+~
+~
+0 0 4729
+D3
+~
+~
+0 0 4731
+S
+#4731
+Lemish Road~
+You stand on a road just north of Lemish.  To the west lies the
+snow-capped Garnet Mountains.  Supply wagons can be seen heading towards the
+town, heavily laden with food supplies and weapons.  The wagons have an
+escort of footman and you can see a flight of blue dragon flying overhead
+keeping all in order.  
+~
+0 0 2
+D1
+~
+~
+0 0 4730
+D2
+~
+~
+0 0 4732
+S
+#4732
+Lemish Road~
+You stand on a road just north of Lemish.  To the west lies the
+snow-capped Garnet Mountains.  Supply wagons can be seen heading towards the
+town, heavily laden with food supplies and weapons.  The wagons have an
+escort of footman and you can see a flight of blue dragon flying overhead
+keeping all in order.  
+~
+0 0 2
+D0
+~
+~
+0 0 4731
+D3
+~
+~
+0 0 4733
+S
+#4733
+Lemish Road~
+You stand on a road just north of Lemish.  To the west lies the
+snow-capped Garnet Mountains.  Supply wagons can be seen heading towards the
+town, heavily laden with food supplies and weapons.  The wagons have an
+escort of footman and you can see a flight of blue dragon flying overhead
+keeping all in order.  
+~
+0 0 2
+D1
+~
+~
+0 0 4732
+D2
+~
+~
+0 0 4734
+S
+#4734
+Lemish Road~
+You stand on a road just north of Lemish.  To the west lies the
+snow-capped Garnet Mountains.  Supply wagons can be seen heading towards the
+town, heavily laden with food supplies and weapons.  The wagons have an
+escort of footman and you can see a flight of blue dragon flying overhead
+keeping all in order.  
+~
+0 0 2
+D0
+~
+~
+0 0 4733
+D3
+~
+~
+0 0 4735
+S
+#4735
+Lemish Road~
+To the south, the small town of Lemish can be seen.  Knights of Takhisis
+can be seen from here interrogating a traveler, not getting the information
+they need a draconian leads her off into the town .  A few moments later a
+high pitched scream can be heard, then nothing but the chilling wind song.  
+~
+0 0 2
+D1
+~
+~
+0 0 4734
+D2
+~
+~
+0 0 4736
+S
+#4736
+Lemish Road~
+You stand before the northern gates of Lemish.  A thick cloud of smoke
+above the town, depriving it of sunlight.  A patrol of the Dark Queens
+Knights move around outside the front gate, keeping post , awaiting either
+further orders, or an attack from foolish invaders.  
+~
+0 0 2
+D0
+~
+~
+0 0 4735
+D2
+~
+~
+0 0 762
+S
+#4737
+Port Road~
+The road has a large set of tracks, packed down hard into the ground.  A
+few caravans head down this road, coming from the east, where the great port
+city, Port 'O' Call lies.  Tall weeds and a few shrubs grow off to the sides
+of the trail.  The road continues on to the east to Port O Call, and to the
+west, towards Caergoth Road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4738
+D3
+~
+~
+0 0 4682
+S
+#4738
+Port Road~
+The road has a large set of tracks, packed down hard into the ground.  A
+few caravans head down this road, coming from the east, where the great port
+city, Port 'O' Call lies.  Tall weeds and a few shrubs grow off to the sides
+of the trail.  The road continues on to the east to Port O Call, and to the
+west, towards Caergoth Road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4739
+D3
+~
+~
+0 0 4737
+S
+#4739
+Port Road~
+The road has a large set of tracks, packed down hard into the ground.  A
+few caravans head down this road, coming from the east, where the great port
+city, Port 'O' Call lies.  Tall weeds and a few shrubs grow off to the sides
+of the trail.  The road continues on to the east to Port O Call, and to the
+west, towards Caergoth Road.  
+~
+0 0 2
+D1
+~
+~
+0 0 4740
+D3
+~
+~
+0 0 4738
+S
+#4740
+Port Road~
+The hard packed dirt tracks in this road, bend around a sharp corner. 
+Off in the distance to the south, a few gate guards can be seen, watching
+over the city of Port O Call.  The road heads on to the south, and into the
+city.  The road also heads west, leading to other lands.  
+~
+0 0 2
+D2
+~
+~
+0 0 4741
+D3
+~
+~
+0 0 4739
+S
+#4741
+Near the Northern Entrance into Port 'O' Call~
+You are just outside the city walls of Port O Call.  The cities guards
+can be visibly seen, pacing back and forth in heavy armor and wielding long
+spears and swords, to keep the city safe from any attacks.  The road here
+leads into the city if going south, and leads out of the city to other lands
+of Krynn, if heading north.  
+~
+0 0 2
+D0
+~
+~
+0 0 4740
+D2
+~
+~
+0 0 17701
+S
+#4800
+The Randar Estate~
+The keep on the Randar Estate shows signs of age, but it has been
+well maintained over the many years it has stood.  Banners decorate the
+halls, all marked with a Kingfisher grasping a rose in its claws, spreading
+its wings within a circle of barley stalks.  Fine oak columns decorate the
+inside, though the outside of the keep is set up for pure defense with few
+windows and only one main gate.  This illustrious Estate has been in the
+holding of the Randar family for generations, each previous proprietor
+illustrated in exquisite paintings on the walls.  
+~
+0 270344 0
+D2
+~
+~
+0 0 4627
+S
+#0
+
+
+
+#SPECIALS
+M 4614 spec_rloader
+S
+
+
+
+#RESETS
+M 0 4614 2 4614 1
+E 0 4614 0 20
+M 0 4614 2 4618 1
+E 0 4614 0 20
+M 0 4635 1 4635 1
+G 0 4635 0
+G 0 4636 0
+G 0 4634 0
+M 0 4636 1 4636 1
+G 0 4637 0
+G 0 4638 0
+G 0 4639 0
+G 0 4640 0
+M 0 4645 2 4645 1
+M 0 4645 2 4651 1
+O 0 4600 0 4654
+M 0 4735 3 4730 1
+M 0 4735 3 4733 1
+M 0 4735 4 4735 1
+S
+
+
+
+#SHOPS
+4635 0 0 0 0 0 100 100 0 23
+4636 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

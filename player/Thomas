@@ -1,0 +1,445 @@
+#PLAYER
+Name Thomas~
+Surname Featherfoot~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1343124616
+LogO 1409999523
+Vers 10
+Act  CDGQTe
+Desc Before you stands a pale skinned a human descent. Nothing stands out other than his bloody eyes and seeping cut beneath his hairline. 
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Devotee 2
+Sex  1
+Cla  14
+Hmtown 0
+Levl 42
+recall_point 3001
+Levscale 30
+Xptolev  5073
+Sec  0
+Plyd 217526
+Not  1367657635 1330770530 0 1365027617 1298827134
+Scro 22
+Room 3145
+HMV  745 745 749 749 346 346
+Steel 15562
+Gold 4812
+Bank 0
+Exp  268027
+Deaths 10
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3473408
+Comm NOQ
+Pos  8
+Prac 21
+Reward_timer 96
+Alig  667
+Ethos 0
+Hit   2
+Dam   12
+ACs -30 -30 -45 4
+Wimp  60
+Attr 18 35 22 13 18 13
+AMod 4 6 9 3 5 0
+Pass Thq7yub6ZS6Dk~
+Titl  the Lesser Summoner~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 35
+HMVP 595 669 346
+Cnd  0 53 20 0
+QuestPnts 3098
+QuestNext 1
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'incendiary cloud'
+Sk 1 'glitterdust'
+Sk 1 'orb of containment'
+Sk 100 'gate'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 89 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 1 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 94 'summon'
+Sk 85 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 86 'dagger'
+Sk 91 'whip'
+Sk 5 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'convoke swarm'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'wind wall'
+Sk 91 'gust of wind'
+Sk 1 'unseen servant'
+Sk 1 'cantrip'
+Sk 100 'iceblast'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 1 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 1 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 78 'detect presence'
+Sk 1 'mooncloak'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'rabbit summon'
+Sk 1 'thunderclap'
+Sk 1 'trance'
+Sk 1 'alarm'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+End
+
+#O
+Vnum 1234
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 9832
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 5751
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 3 'fireball'
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 98
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 97
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 97
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 98
+Wear 20
+Cost 8000
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16233
+Nest 0
+Cond 100
+Wear -1
+Cost 1350
+End
+
+#O
+Vnum 3827
+Nest 0
+Cond 100
+Wear 2
+Cost 1200
+End
+
+#O
+Vnum 3827
+Nest 0
+Cond 100
+Wear 1
+Cost 1200
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#END

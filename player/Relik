@@ -1,0 +1,194 @@
+#PLAYER
+Name Relik~
+Surname Harovin~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1326908068
+LogO 1390852232
+Vers 10
+Act  CDGTe
+Desc Standing before you is the visage of a man, strong features mark an equally strong frame, his eyes are hard, but there seems to be an air of friendliness to them.  Dark hair falls to armored shoulders as their contrast meets and diverges along his back. The man stands at somewhat over 6 feet tall, weighed down with honed muscle.  A slight scar mars his eyebrow, and points to a well-shaped nose above simple lips.
+ 
+At the man's belt is a long sheathe, a hilt bearing the symbol of eternity pokes out proudly, but simply along his belt.  The man walks with a stride measured in pride, his back straight, years of discipline marked in his step, and the timbre of his voice.
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Devotee 5
+Sex  1
+Cla  3
+Hmtown 0
+Levl 5
+recall_point 3001
+Levscale 30
+Xptolev  852
+Sec  0
+Plyd 20138
+Not  1390434707 1382804331 0 1388507934 1298827134
+Scro 22
+Room 3027
+HMV  105 105 110 110 105 124
+Steel 20
+Gold 200
+Bank 0
+Exp  6398
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Prac 12
+Trai 1
+Save  -25
+Alig  826
+Ethos 1
+Hit   26
+ACs 75 75 75 80
+Attr 23 13 13 13 13 13
+AMod 0 0 1 1 0 0
+Pass ReBVsMwhjAxVc~
+Titl  the Sentry~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 4
+HMVP 105 110 124
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 40 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 1 'guard'
+Sk 1 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'armor'   0 195   6 -20  17          0
+Affc 'bless'   0 195 184 -25  25          0
+Affc 'bless'   0 198 184  25  18          0
+End
+
+#O
+Vnum 1240
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3769
+Nest 0
+Cond 100
+Wear 5
+Cost 5
+End
+
+#O
+Vnum 3770
+Nest 0
+Cond 100
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 100
+Wear 20
+Cost 360
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3771
+Nest 0
+Cond 100
+Wear 21
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#END

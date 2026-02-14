@@ -1,0 +1,1391 @@
+#PLAYER
+Name Sievel~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email pedro.alexandre.f.reis@gmail.com~
+Id   1416942220
+LogO 1422422566
+Vers 10
+Act  CDGHQTe
+Desc You see a tall Draconian. His eyes are two red holes, eminating some sort of red flashes. When you look closely you see his scales, his hard skin. He wears a long black robe and a pouch. You wounder what is inside that pouch.
+~
+Prom %h/%H {b%m/%M{x {g%v/%V{x %B %e {r>{x ~
+Race draconian~
+Devotee 10
+Sex  1
+Cla  11
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194771
+Sec  0
+Plyd 2221780
+Not  1420281656 1417008291 0 1417008284 1417008287
+Scro 78
+Room 1943
+HMV  2877 2877 2201 2201 904 904
+Steel 27873
+Gold 1869449
+Bank 50000
+Exp  16259429
+AfBy Oc
+Deaths 13
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3735552
+Comm NO
+Pos  8
+Prac 677
+Trai 25
+Save  -79
+Alig  -1000
+Ethos 2
+Hit   79
+Dam   70
+ACs -436 -451 -441 -406
+Attr 16 13 13 17 11 10
+AMod 17 33 32 21 38 5
+Pass SiYnqBkxiqWvo~
+Titl  the Corruptor of the Innocent~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 610
+HMVP 1697 1401 754
+Cnd  0 57 57 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'chill touch'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect good'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'energy drain'
+Sk 1 'orb of containment'
+Sk 100 'harm'
+Sk 100 'life transfer'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'magic missile'
+Sk 100 'aid'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'protection good'
+Sk 1 'teleport'
+Sk 100 'weaken'
+Sk 75 'word of recall'
+Sk 100 'acid breath'
+Sk 100 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 100 'glide'
+Sk 100 'traject'
+Sk 6 'mount'
+Sk 100 'shadow walk'
+Sk 100 'animate corpse'
+Sk 100 'fear'
+Sk 100 'horrid wilting'
+Sk 100 'paralysis'
+Sk 100 'vampiric touch'
+Sk 100 'undead disruption'
+Sk 100 'nightmare'
+Sk 100 'cavorting bones'
+Sk 100 'enervation'
+Sk 100 'remove paralysis'
+Sk 100 'cantrip'
+Sk 100 'disintegrate'
+Sk 100 'wraithform'
+Sk 100 'word of death'
+Sk 100 'coldfire'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 1 'battle tactics'
+Sk 100 'knock'
+Sk 100 'drain rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 100 'dark taint'
+Sk 100 'drain blood'
+Sk 100 'forget'
+Sk 100 'forgedeath'
+Sk 100 'preservation'
+Sk 100 'seal door'
+Sk 100 'unseal door'
+Sk 100 'jab'
+Sk 100 'detect presence'
+Sk 100 'preserve dead'
+Sk 100 'ray of fatigue'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 100 'boil blood'
+Sk 100 'great wasting'
+Sk 100 'coldlight'
+Sk 100 'resist cold'
+Sk 100 'deadeye'
+Sk 100 'renew bones'
+Sk 100 'breath of the dead'
+Sk 100 'intensify death'
+Sk 100 'deafness'
+Sk 100 'trance'
+Sk 100 'staff'
+Sk 6 'unholyrite'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 100 'endure disease'
+Sk 100 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 9832
+Nest 1
+ExtF 17041937
+Cond 84
+Wear -1
+Lev  51
+Cost 8000
+Val  7 5 19 29 69
+End
+
+#O
+Vnum 5700
+Nest 1
+Name quarterstaff~
+ShD  a quarterstaff~
+Desc A quarterstaff carved from Ash wood stands against a wall.~
+ExtF 2584
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  ash~
+Wear -1
+Lev  99
+Cost 990
+Val  10 2 56 27 69
+End
+
+#O
+Vnum 5700
+Nest 1
+Name quarterstaff~
+ShD  a quarterstaff~
+Desc A quarterstaff carved from Ash wood stands against a wall.~
+ExtF 2584
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  ash~
+Wear -1
+Lev  99
+Cost 990
+Val  10 2 56 27 69
+End
+
+#O
+Vnum 5700
+Nest 1
+Name quarterstaff~
+ShD  a quarterstaff~
+Desc A quarterstaff carved from Ash wood stands against a wall.~
+ExtF 2584
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  ash~
+Wear -1
+Lev  99
+Cost 990
+Val  10 2 56 27 69
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16779800
+Cond 96
+Wear -1
+Cost 7400
+Val  2 9 16 1 77
+End
+
+#O
+Vnum 10702
+Nest 1
+ExtF 17039681
+Cond 91
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+ExtF 17039681
+Cond 96
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 5700
+Nest 1
+Name quarterstaff~
+ShD  a quarterstaff~
+Desc A quarterstaff carved from Ash wood stands against a wall.~
+ExtF 2584
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 59
+Mat  ash~
+Wear -1
+Lev  99
+Cost 990
+Val  10 2 56 27 69
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 59
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 59
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 102
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 58
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 58
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 58
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33358
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33358
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33358
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 110
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1200
+Nest 1
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 93
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9463
+Nest 1
+ExtF 17039424
+Cond 86
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 2652
+Cond 96
+Wear -1
+Cost 4710
+Val  0 10 14 19 33358
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82021
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82021
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82021
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3133
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2940
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 2940
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 53
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 54
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name serpent cloak~
+ShD  a {gSerpent Cloak{x~
+Desc A cloak made from the scales of a Serpent lies here.~
+Cond 88
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 79
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+ExtF 262144
+Cond 70
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 61
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 67
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 55
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 67
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 67
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 91
+Mat  brass~
+Wear 14
+Lev  93
+Cost 930
+Val  20 20 20 16 0
+Affc 'cultural artistry'   0 101  -1  40  13          0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 93
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 94
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 88
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 17039616
+Cond 90
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1911
+Nest 0
+ExtF 17039680
+Cond 91
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 97
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 92
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+ExtF 17039424
+Cond 88
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name black cloth sleeves~
+ShD  {Dblack{x cloth sleeves~
+Desc A set of plain cloth sleeves lie here.~
+ExtF 524288
+Cond 79
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 76
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name newbie orb knowledge~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+ExtF 17039425
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+ExtF 17039424
+Cond 86
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 3005
+Nest 0
+ExtF 0
+Cond 100
+Wear 20
+Cost 1500000
+Val  10 14 11 7 82021
+End
+
+#O
+Vnum 1250
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#END

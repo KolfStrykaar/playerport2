@@ -1,0 +1,1838 @@
+#PLAYER
+Name Circe~
+Surname Minar~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1065106017
+LogO 1399317263
+Vers 10
+Act  CDGHTe
+Desc In front of you stands a cloaked figure,when you pay a little more
+atencion you see an average size human with dark hair and {ggreen{x eyes
+always trying to hide. He is not a man of many words,all in him says that
+he doesnt like to be seen, you dont ear a thing when he moves...you think
+is this a real person or is that just a shadow.
+~
+Prom {R%h/%H {B%m/%M {G%v/%V {W%g {y%X{x %e{R>{x ~
+Race human~
+Religion 1
+Sex  1
+Cla  2
+Hmtown 0
+Levl 98
+recall_point 3001
+Levscale 30
+Xptolev  473588
+Sec  0
+Plyd 1851722
+Not  1388019326 1149658795 0 1090268474 1143620765
+Scro 88
+Room 4860
+HMV  2678 2678 666 666 701 701
+Steel 19222
+Gold 738810
+Bank 33580
+Exp  14672562
+AfBy DFO
+Deaths 20
+FlagTot 4 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+FParTot 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1507328
+Comm NO
+Pos  8
+Prac 21
+Save  -57
+Alig  -1000
+Ethos 1
+Hit   74
+Dam   77
+ACs -479 -486 -475 -462
+Wimp  200
+Attr 22 22 22 21 22 16
+AMod 14 3 9 14 5 0
+Pass CiOufqW0U28IY~
+Titl  the Thief of Souls~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 490
+HMVP 1808 331 701
+Cnd  0 23 49 0
+QuestPnts 540
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 95 'detect hidden'
+Sk 81 'detect poison'
+Sk 90 'infravision'
+Sk 100 'dagger'
+Sk 95 'shield block'
+Sk 100 'sword'
+Sk 95 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 77 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'demand'
+Sk 100 'circlestab'
+Sk 100 'blackjack'
+Sk 100 'dual wield'
+Sk 90 'mount'
+Sk 100 'pickpocket'
+Sk 75 'mountjack'
+Sk 100 'battle tactics'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 95 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'lore'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 50 'recall'
+Sk 100 'disguise'
+Sk 100 'tumble'
+Sk 100 'scout'
+Sk 100 'second backstab'
+Sk 90 'strip'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 100 'evade'
+Sk 100 'boobytrap'
+Sk 100 'disarm traps'
+Sk 100 'staff'
+Sk 2 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5833
+Nest 0
+ExtF 262144
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 5617
+Enchanted
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+Affc 'reserved'   1  80  -1   1   5          0
+Affc 'reserved'   1  80  -1   3  19          0
+Affc 'reserved'   1  80  -1   5  18          0
+Affc 'reserved'   1  80  -1  -2  20          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 425
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 9869
+Nest 1
+Cond 100
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 10877
+Nest 1
+ExtF 1310720
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10877
+Nest 1
+ExtF 1310720
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1211
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1211
+Nest 1
+Desc 1 restring left- Habbakuk~
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10611
+Nest 1
+ExtF 0
+Cond 98
+Wear -1
+Cost 352500
+Val  10 10 10 11 73
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  1 11 11 39 32782
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32782
+End
+
+#O
+Vnum 17851
+Nest 1
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 17851
+Nest 1
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 12262
+Nest 1
+Cond 100
+Wear -1
+Cost 4770
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 1209
+Nest 1
+Name plant life make over coupon~
+ShD  ({gUsed{x) A {gPlant{x-{gLife{x Make Over Coupon~
+Desc A coupon good for restringing 12 items. -Zivilyn~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+ShD  a {RChristmas{g Restring{x coupon~
+Desc A coupon good for 20 restrngs with Sargonnas ONLY.~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({CUsed{x) a {BMake Over{x coupon~
+Desc This coupon is good for 15 more restrings. -Solinari~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 90
+Wear -1
+Cost 0
+Val  2 10 14 33 77
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({rBurning{x) a used {DMake Over{x coupon~
+Desc A coupon good for restringing ONE shiney little item. And you thought you were going to get to do twenty, didn't you? :( *pats you* - Sargonnas~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17542
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({DUsed{x) {BMake Over{x Coupon~
+Desc Good for 2 restrings - Takhisis~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 17
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 17
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 12215
+Nest 1
+ExtF 16777820
+Cond 100
+Wear -1
+Cost 4810
+Val  1 9 16 34 24
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 86
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 16308
+Nest 1
+Name the cat's eye~
+ShD  {rThe Cat's{g Eye{x~
+Desc A eye that emanates light lies here.~
+Cond 100
+Mat  stone~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 11144
+Nest 1
+Name spectral shard blade dagger~
+ShD  {BSpectral{x Shard~
+Desc A glowing blade lies here.~
+ExtF 16777308
+Cond 90
+Wear -1
+Cost 3845
+Val  2 8 12 33 76
+End
+
+#O
+Vnum 1627
+Nest 1
+Name cursed dagger~
+ShD  ({rStained{x) a {dCursed{x dagger~
+Desc a blade stained with blood lies here.~
+ExtF 17301577
+Cond 95
+Wear -1
+Cost 15500
+Val  2 10 14 33 69
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 8
+Cond 96
+Wear -1
+Cost 5280
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 5700
+Nest 1
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear -1
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1627
+Nest 1
+Name cursed dagger~
+ShD  ({rStained{x) a {dCursed{x dagger~
+Desc a blade stained with blood lies here.~
+ExtF 17301577
+Cond 78
+Wear -1
+Cost 15500
+Val  2 10 14 33 69
+End
+
+#O
+Vnum 12267
+Nest 1
+Name midnight dagger~
+ShD  ({DDark{x) a {DMidnight{x Dagger~
+Desc A dark dagger has been left here.~
+ExtF 2652
+Cond 55
+Wear -1
+Cost 4710
+Val  0 10 14 19 33292
+End
+
+#O
+Vnum 12093
+Nest 1
+Cond 99
+Wear -1
+Cost 5100
+End
+
+#O
+Vnum 12215
+Nest 1
+ExtF 16777820
+Cond 100
+Wear -1
+Cost 4810
+Val  1 9 16 34 24
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 1952
+Nest 0
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 97
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 98
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name light belt~
+ShD  ({RVelvet{x) a light belt~
+Desc A thin, stylish belt lies here.~
+ExtF 0
+Cond 98
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9498
+Nest 0
+Name sharkskin boots~
+ShD  {bSharkskin{x Boots~
+Desc A pair of blue boots lie here.~
+ExtF 16777280
+Cond 94
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 2912
+Nest 0
+Name leather shoulder~
+ShD  leather shoulder pads~
+Desc A set of leather shoulder pads is resting here.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 3965
+Val  500 5 0 150 100
+End
+
+#O
+Vnum 9868
+Nest 1
+Name crown power~
+ShD  {DCrown {xof {rPower{x~
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 80
+Wear -1
+Cost 0
+Val  1 10 10 11 78
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Drudgen's blood~
+Desc A jar of Drudgen's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Nuinqua's blood~
+Desc A jar of Nuinqua's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  82 82 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Marthias's blood~
+Desc A jar of Marthias's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  164 164 13 1 0
+End
+
+#O
+Vnum 4948
+Nest 1
+Name raven's left claw~
+ShD  Raven's Left {RClaw{x~
+Desc Here lies Raven's Left Claw.~
+Cond 99
+Wear -1
+Cost 19924
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 0
+Cond 65
+Wear -1
+Lev  51
+Cost 5180
+Val  1 11 10 3 79
+End
+
+#O
+Vnum 12093
+Nest 1
+ExtF 8
+Cond 77
+Wear -1
+Cost 5100
+Val  2 11 13 11 78
+End
+
+#O
+Vnum 1627
+Nest 1
+Name heart carver~
+ShD  {rHeart{x carver~
+Desc A small sharp dagger lies here.~
+ExtF 524296
+Cond 81
+Wear -1
+Cost 15500
+Val  2 10 13 2 77
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16812570
+Cond 100
+Wear -1
+Cost 800
+Val  2 8 20 2 205
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16779802
+Cond 100
+Wear -1
+Cost 900
+Val  2 10 16 2 140
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Svethen's blood~
+Desc A jar of Svethen's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  160 160 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Raemira's blood~
+Desc A jar of Raemira's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  174 174 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Exar's blood~
+Desc A jar of Exar's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  176 176 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Sonidor's blood~
+Desc A jar of Sonidor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  88 88 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Raegene's blood~
+Desc A jar of Raegene's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Shogum's blood~
+Desc A jar of Shogum's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+Name empty jar water~
+ShD  a jar of Zandor's blood~
+Desc A jar of Zandor's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  194 34 0 0 0
+End
+
+#O
+Vnum 11144
+Nest 1
+Name onyx dagger stained~
+ShD  ({rStained{x) an {WOnyx{x dagger~
+Desc A dagger made of onyx lies here.~
+ExtF 17039452
+Cond 100
+Wear -1
+Cost 3845
+Val  2 9 13 11 78
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  plant~
+Wear -1
+Lev  100
+Cost 1000
+Val  1 10 10 1 16458
+Affc 'cultural artistry'   5 100  -1   0   0      16384
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 11967
+Nest 0
+ExtF 16779868
+Cond 99
+Wear -1
+Cost 5180
+Val  1 11 14 31 207
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12267
+Nest 0
+Cond 100
+Wear -1
+Cost 4710
+End
+
+#O
+Vnum 12262
+Nest 0
+Cond 100
+Wear -1
+Cost 4770
+End
+
+#O
+Vnum 12233
+Nest 0
+Cond 100
+Wear -1
+Cost 94
+End
+
+#O
+Vnum 12263
+Nest 0
+Cond 100
+Wear -1
+Cost 5145
+End
+
+#O
+Vnum 12266
+Nest 0
+Cond 100
+Wear -1
+Cost 94
+End
+
+#O
+Vnum 12215
+Nest 0
+Cond 100
+Wear -1
+Cost 4810
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039957
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 524288
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9426
+Nest 0
+Name night smoke cape~
+ShD  ({mCursed{x) {DNightsmoke{x~
+Desc A black cape lies here, emanating a sense of evil...~
+ExtF 0
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9465
+Nest 0
+Cond 100
+Mat  blood~
+Wear -1
+Cost 0
+Val  2 9 12 1 206
+End
+
+#O
+Vnum 11144
+Nest 0
+ExtF 17039452
+Cond 81
+Wear 24
+Cost 3845
+Val  2 9 13 11 76
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14278
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 11144
+Nest 0
+Name stained Crysttallized shadow dagger~
+ShD  ({rStained{x) {WCrystallized {DShadow{x Dagger~
+Desc A Crysttallized shadow dagger lies here.~
+ExtF 262152
+Cond 73
+Wear -1
+Cost 3845
+Val  2 9 13 11 77
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 28
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 9866
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9866
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 58
+Mat  iron~
+Wear 10
+Lev  105
+Cost 1050
+Val  28 28 28 24 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 31
+Mat  iron~
+Wear 9
+Lev  105
+Cost 1050
+Val  28 28 28 24 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 2563
+Nest 0
+Cond 100
+Wear -1
+Cost 473
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 12093
+Nest 0
+ExtF 16777822
+Cond 53
+Wear 20
+Cost 5100
+Val  2 9 16 11 14
+End
+
+#O
+Vnum 4856
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 16100
+Nest 0
+Cond 100
+Wear -1
+Cost 6920
+Val  200 200 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 204 0 0 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1399317263
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Circe'.
+~
+Sex  1
+HMV  125 125 144 144 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

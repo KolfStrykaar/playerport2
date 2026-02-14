@@ -1,0 +1,1773 @@
+#PLAYER
+Name Kulox~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1099237307
+LogO 1422465953
+Vers 10
+Act  CDGHLQTe
+Desc A huge figure, with about 12 feet stands before you. This Draconian due to
+his size and his stench you can see and smell him from far away. You can
+see above his dark and putrified scales, a darkned armor, stained with
+blood. Deep black eyes seem to absorb the light surrounding, as he glides
+by your side. He holds in his hands two powerfull axes, bloodstained.
+~
+Prom <%h/%H {b%m/%M {g%v/%V {x%e %B {y%g{r>{x ~
+Race draconian~
+Org 4
+Religion 16
+Sex  1
+Cla  3
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194506
+Sec  0
+Plyd 2402833
+Not  1420281656 1395959842 0 1410808993 1298827134
+Scro 98
+Room 3005
+HMV  3503 3503 1019 1019 894 894
+Steel 247
+Gold 16973
+Bank 230000
+Exp  16259694
+AfBy GOac
+AfBy2 D
+Deaths 28
+FlagTot 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3342336
+Comm NOQ
+Pos  8
+Reward_timer 30
+Save  -73
+Alig  -996
+Ethos 2
+Hit   114
+Dam   111
+ACs -320 -314 -356 -257
+Wimp  344
+Yield  50
+Attr 26 12 31 30 31 10
+AMod 16 4 6 15 2 5
+Pass KuuaCOCCHPJWk~
+Titl  the Master of War~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 545
+HMVP 2548 329 744
+Cnd  0 51 52 0
+QuestPnts 115
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 98 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 87 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 1 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 30 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 12 'sharpen'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'glide'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 87 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 70 'battlecry'
+Sk 98 'bind wounds'
+Sk 99 'breakneck'
+Sk 100 'guard'
+Sk 100 'headbutt'
+Sk 70 'backup'
+Sk 76 'mounted combat'
+Sk 59 'impale'
+Sk 100 'cleave'
+Sk 43 'trammel'
+Sk 3 'flank attack'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 11 'eyerub'
+Sk 100 'finger break'
+Sk 66 'earpunch'
+Sk 61 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 51 'heroic demise'
+Sk 27 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'berserk'   0  99   6 200  17   67108864
+Affc 'berserk'   0  97   6  20  19   67108864
+Affc 'berserk'   0  98   6  20  18   67108864
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 94
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 95
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 97
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 94
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 86
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 94
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 76
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  24 24 24 20 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 98
+Mat  leather~
+Wear 7
+Lev  101
+Cost 1010
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cape satin~
+ShD  ({DSatin{x) the cape of the {bLily{x~
+Desc A satin cape rests here, folded neatly into a pool of deep blue.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  91  -1  -5  25          0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name tabard satin~
+ShD  ({DSatin{x) a {bLily{x Knight's tabard~
+Desc A tabard rests here, folded neatly into a pool of deep blue with the insignia of a Knight of the Lily woven onto it.~
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion cancellation~
+ShD  a potion of cancellation~
+Cond 100
+Wear -1
+Lev  24
+Cost 0
+Val  12 8 -1 -1 -1
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1206
+Nest 1
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 9592
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3158
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion cancellation~
+ShD  a potion of cancellation~
+Cond 100
+Wear -1
+Lev  24
+Cost 0
+Val  12 8 -1 -1 -1
+Spell 1 'cancellation'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 9498
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11878
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'haste'
+Spell 2 'giant strength'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+ExtF 67
+Cond 95
+Wear -1
+Cost 0
+Val  1 12 11 18 84033
+Affc 'enchant weapon'   1  95  -1   8  19          0
+Affc 'enchant weapon'   0  95  -1   8  18          0
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 96
+Wear -1
+Cost 0
+Val  1 10 10 11 78
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12009
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 14510
+Nest 1
+Cond 85
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17553
+Nest 1
+ExtF 0
+Cond 99
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 9868
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 97
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name amulet crescent~
+ShD  an {DAmulet{x of a {DBlack{x Crescent~
+Desc A blackened amulet rests here, scorched by blackened fire.~
+ExtF 17563977
+Cond 93
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1895
+Nest 0
+Name plate breastplate scorched~
+ShD  ({DScorched{x) a {Dblack{x steel breastplate~
+Desc A blackened breastplate rests here, scorched by blackened fire.~
+Cond 99
+Wear 5
+Cost 4500000
+End
+
+#O
+Vnum 17555
+Nest 0
+ExtF 0
+Cond 93
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 17552
+Nest 0
+ExtF 0
+Cond 94
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 90
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 3093
+Nest 1
+ExtF 17073666
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 12251
+Nest 1
+Cond 100
+Wear -1
+Cost 4435
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32782
+End
+
+#O
+Vnum 11129
+Nest 1
+Cond 100
+Wear -1
+Cost 4240
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3805
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3158
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16066
+Nest 1
+ExtF 2641
+Cond 92
+Wear -1
+Cost 0
+Val  8 10 12 21 12
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  8 14 11 21 58
+End
+
+#O
+Vnum 12267
+Nest 1
+Cond 98
+Wear -1
+Cost 4710
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777820
+Cond 100
+Wear -1
+Cost 5180
+Val  1 11 14 31 203
+End
+
+#O
+Vnum 12188
+Nest 1
+Cond 100
+Wear -1
+Cost 5280
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 94
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name claymore~
+ShD  a claymore~
+Desc a wicked-looking claymore sits here.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   8
+Cond 98
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 9 65
+Affc 'enchant weapon'   0 101  -1   7  18          0
+Affc 'enchant weapon'   1 101  -1   7  19          0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name bastard sword~
+ShD  a bastard sword~
+Desc A large bastard sword sits here, daunting.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   5
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 25 65
+Affc 'enchant weapon'   0 101  -1   7  18          0
+Affc 'enchant weapon'   1 101  -1   7  19          0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name flamberge~
+ShD  a flamberge~
+Desc A two-bladed flamberge sits in the room.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   4
+Cond 93
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 3 65
+Affc 'enchant weapon'   0 101  -1   7  18          0
+Affc 'enchant weapon'   1 101  -1   7  19          0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name backsword~
+ShD  a backsword~
+Desc A backsword sits in the far corner.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 3 65
+Affc 'enchant weapon'   0 101  -1   6  18          0
+Affc 'enchant weapon'   1 101  -1   6  19          0
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16777290
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 5700
+Nest 1
+Name stiletto~
+ShD  a stiletto~
+Desc A small, thin stiletto sits in the corner.~
+ExtF 8
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  steel~
+Wear -1
+Lev  100
+Cost 1000
+Val  2 10 14 2 65
+End
+
+#O
+Vnum 12234
+Nest 1
+Cond 100
+Wear -1
+Cost 4710
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777820
+Cond 94
+Wear -1
+Cost 0
+Val  1 11 14 31 203
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16809986
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 2602
+Nest 1
+ExtF 2
+Cond 99
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1976
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 9832
+Enchanted
+Nest 1
+ExtF 17042003
+Cond 81
+Wear -1
+Lev  57
+Cost 0
+Val  7 5 19 29 77
+Affc 'enchant weapon'   1  98  -1   7  19          0
+Affc 'enchant weapon'   0  98  -1   7  18          0
+End
+
+#O
+Vnum 13700
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  8 14 11 21 58
+End
+
+#O
+Vnum 9826
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 11600
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1976
+Nest 1
+ExtF 0
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1971
+Nest 1
+Cond 100
+Wear -1
+Cost 46000
+End
+
+#O
+Vnum 12263
+Nest 1
+ExtF 2590
+Cond 97
+Wear -1
+Cost 5145
+Val  1 10 15 3 12
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 64
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 10 19 33353
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11144
+Nest 1
+ExtF 17039452
+Cond 68
+Wear -1
+Cost 3845
+Val  2 9 13 11 77
+End
+
+#O
+Vnum 11969
+Nest 0
+Cond 97
+Wear 12
+Cost 96
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  20 15 0 1 0
+End
+
+#O
+Vnum 9405
+Nest 0
+Cond 84
+Wear 20
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 19002
+Nest 0
+ExtF 524288
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19009
+Nest 0
+ExtF 9
+Cond 97
+Wear 24
+Cost 10000
+Val  1 10 14 11 194
+End
+
+#O
+Vnum 17550
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17551
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17552
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17553
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 17554
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#END

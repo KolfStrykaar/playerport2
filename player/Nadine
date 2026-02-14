@@ -1,0 +1,614 @@
+#PLAYER
+Name Nadine~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1337645820
+LogO 1415321454
+Vers 10
+Act  CDEFGHQTe
+Desc This figure stands tall, the bovine snout automatically giving away her
+minotaur heritage. She is a rare beast, as not many female minotaur are
+seen outside of Mithas. Her fur is a dark hue, almost black, though the
+sunlight will reveal its blue tones. It is lightened by silvery spots that
+speckle over her thick arms and down her nose. She carries herself with
+ease, but also with dignity. Her frame is quite built, years of arduous
+work solidifying her muscle with strength. At her hip is a two-handed
+sword, though she also carries a dagger upon her belt. Her form is wrapped
+in various pieces of armor that she obviously takes great pains to
+maintain and keep clean. Looking upon her face, she would return the gaze
+with crystalline blue eyes, strange in their cowish nature, but belying an
+intelligence that rivals that of a human's. Her head is horned, but the
+horns are not nearly as prominent as a male minotaur's would be --
+instead, they remain close to her head, pointing out forward over her
+eyes, as though to protect her face, though they must make any sort of
+protective headwear nigh impossible to wear.
+~
+Prom {D<%h/%H> {W<%m/%M> {c<%v/%V>{x %X %B %b ~
+Race minotaur~
+Devotee 13
+Sex  2
+Cla  3
+Hmtown 0
+Levl 58
+recall_point 3001
+Levscale 30
+Xptolev  11988
+Sec  0
+Plyd 129723
+Not  1381433424 1381433426 0 1381433429 1337737791
+Scro 22
+Room 3369
+HMV  1238 1238 236 236 449 449
+Steel 4623
+Gold 141653
+Bank 0
+Exp  865212
+AfBy J
+AfBy2 T
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm NO
+Pos  8
+Alig  -996
+Ethos 0
+ACs 100 100 100 100
+Wimp  40
+Attr 28 12 21 20 20 10
+AMod 0 0 0 0 0 0
+Pass Na8WYX8Cn/VZ2~
+Titl  the Underlord~
+Pretit ~
+Pnts 15
+TSex 2
+LLev 34
+HMVP 1238 236 449
+Cnd  0 61 61 100
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {W+{r----{W+ {DMoo {W+{r----{W+{x: {r~
+Sk 1 'frenzy'
+Sk 88 'axe'
+Sk 78 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 76 'shield block'
+Sk 75 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 100 'bash'
+Sk 76 'berserk'
+Sk 1 'dirt kicking'
+Sk 41 'disarm'
+Sk 80 'dodge'
+Sk 100 'enhanced damage'
+Sk 76 'hand to hand'
+Sk 100 'kick'
+Sk 84 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 94 'second attack'
+Sk 89 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 75 'counter'
+Sk 75 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 100 'lunge'
+Sk 76 'dual wield'
+Sk 76 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 75 'wear chain'
+Sk 75 'wear leather'
+Sk 1 'wear plate'
+Sk 89 'fast healing'
+Sk 100 'common'
+Sk 100 'minotaur tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 75 'bind wounds'
+Sk 1 'breakneck'
+Sk 75 'guard'
+Sk 1 'headbutt'
+Sk 75 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'invul'   6  56   1   0   0     524288
+Affc 'infravision'   0  57   1   0   0        512
+End
+
+#O
+Vnum 1256
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 94
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 94
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 94
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 17709
+Nest 1
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 17713
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 16230
+Nest 1
+Cond 91
+Wear -1
+Lev  36
+Cost 2500
+Val  2 5 7 11 194
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 87
+Wear -1
+Lev  26
+Cost 0
+Val  2 3 8 11 65
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9827
+Enchanted
+Nest 1
+ExtF 67
+Cond 93
+Wear -1
+Lev  54
+Cost 9000
+Val  1 4 22 33 69
+Affc 'enchant weapon'   1  74  -1   8  18          0
+Affc 'enchant weapon'   1  74  -1   8  19          0
+End
+
+#O
+Vnum 13715
+Nest 1
+Cond 95
+Wear -1
+Lev  41
+Cost 0
+Val  1 7 9 3 73
+End
+
+#O
+Vnum 21
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 98
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 94
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3368
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4842
+Nest 0
+Cond 100
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 14917
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 172 0 0 0
+End
+
+#END

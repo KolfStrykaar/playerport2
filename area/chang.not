@@ -1,0 +1,1772 @@
+Sender  Hiddukel~
+Date    Wed Feb  9 05:46:33 2005~
+Stamp   1107953193
+To      all~
+Subject Hometowns~
+Text
+For those who wish to change your Hometown, may now do so in the
+respective hometowns.  In case anyone has forgotten which hometowns are
+currently available, they are: 
+ 
+Palanthas
+Solanthus
+Solace
+Thorbardin
+Mt. Nevermind
+Neraka
+Kendermore
+ 
+There is an Office in each one of those areas, most having names/descriptions
+along the lines of being a Regitrar's office or of the like. You MUST have
+5,000 steel coins in order to change your hometown. There is a SIGN posted
+in each one of the rooms in each hometown that tells you HOW to change your
+hometown. It's quite simple. Immortals will no longer change anyone's HOMETOWN
+for them anymore. Also, to become a citizen of a hometown, you MUST be in that
+hometown in order to do so. If not, you'll be kindly told so by the MOB.
+ 
+Hiddukel
+~
+Sender  Gilean~
+Date    Thu Feb 10 09:19:38 2005~
+Stamp   1108052378
+To      all~
+Subject Silvanesti~
+Text
+Hey all - While Silvanesti is scheduled for an eventual overhaul, I've
+made a few adjustments in the meantime..  Since there currently is a lack of
+places for mid to high level evil folks to go and level, I've adjusted the
+alignments on a few mobs and increased the level of several of the guards,
+etc.  
+ 
+Hopefully, this will help offset some of the levelling difficulty
+for evil type folks until we can get more areas in.
+ 
+Good luck, and beware - many of the town guards, etc will be
+a LOT tougher.
+ 
+- Gil
+~
+Sender  Hiddukel~
+Date    Thu Feb 10 16:33:13 2005~
+Stamp   1108078393
+To      all~
+Subject New Stuff~
+Text
+Ok, there's a bunch of things I did here, so lets get to the point.
+ 
+- Bards have aquired 7 new songs. Yes, there's help files on all of them already.
+  The songs are as follows:
+ 
+  * Song of Wollen Feet
+  * Song of Nightmares
+  * Song of Diplomacy
+  * Song of Compassion
+  * Song of Sustenance
+  * Song of Idiocy
+  * Song of Barbarians
+ 
+-Now, all of those I tested thoroughly, but ya never know, so if anyone finds
+ a BUG, and by that, I mean it causes the MUD to crash; do NOT send me reports
+ because it doesn't quite work like you thought it did.
+ 
+- The Bard song, called Song of Rage has been finally fixed. It now displays
+  the correct amount of damage your actually doing to your victim.
+ 
+- ALL New characters that are created now will start out with:
+ 
+  * 40 Hit Points instead of 20
+  * 20 Steel Coins
+  * 200 Gold Coins
+ 
+- The LORE skill is now fixed to include the EQ SLOTS I had added a while ago,
+  those being the ANKLE, FACE, SHOULDERS, and MARK slots.
+ 
+- Conjurors now have the Acid Blast spell. They were suppose to originally, but
+  for some reason it was forgotten about actually adding it to the Conjuror
+  table.
+ 
+That's all I got for now. Since I was finally able to get that website template,
+I'll probably be working on that for a while instead of programming, till I can
+get it up and running that is.
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu Feb 10 16:36:58 2005~
+Stamp   1108078618
+To      all~
+Subject Stalk~
+Text
+Forgot one other thing I changed too.  Stalk now only requires 400
+Movement points, versus what it required before, which was 1,000 movement
+points, which was almost impossible to get.  
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Feb 12 17:00:30 2005~
+Stamp   1108252830
+To      all~
+Subject New Things~
+Text
+Ok, I made some modifications here and added 1 new spell.
+ 
+* All BREATH spells will NO longer hit people in your group anymore. They will
+  hit everyone else in the room not in your group though, like before.
+ 
+* The BARD spell, Chords of Dissonance will no longer hit people in your group
+  either, only everyone else in the room with you.
+ 
+* New spell for: Spellfilchers, Clerics, Necromancers and Battlemages called:
+  ENDURE DISEASE. There's a help file on it already.
+ 
+* TRIP and BASH and even WHIRLWIND skills have a lot more meaning to them now.
+  When you use any of those skill commands on someone, and they go DOWN, well, from
+  now on, they STAY DOWN, until they actually type WAKE to get up themselves. So,
+  what does this mean for those who get knocked down? Well, it means you won't
+  get in any HITs on your foe, nor will you be able to cast any offensive
+  spells, nor will you be able to use offensive skills either, for the most part.
+ 
+Enjoy
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Feb 12 17:02:49 2005~
+Stamp   1108252969
+To      imp~
+Subject Small Thing~
+Text
+I've modified the Immortal Channel so that from now on, even if ANY other
+Immortal has their IMM channel turned off, they will still see any IMM tells
+sent by ANY Implementor.  Pretty much, they won't be able to ignore
+Implementors in any which way.  This will definately come in handy in case
+your trying to talk to one of the staff members, and they fail to respond
+because their Imm channel was off and you didn't know it.  They won't see
+any posted IMM Tells by other Immortals when their channel is off, that
+stays the same..  They just can't ignore us.  
+ 
+Hiddukel
+~
+Sender  Gilean~
+Date    Thu Feb 24 17:50:30 2005~
+Stamp   1109292630
+To      all~
+Subject New Weight System~
+Text
+Ok.. this one has been a long overdue issue, and has finally been
+addressed. Up to this point, armor and weapons had all kinds of random
+wacky weights IF they had any at all...  So:
+ 
+After consulting ye olde weight guides in me 3rd Ed. D&D book, and
+making some adjustments here and there, I've gone through all
+of the weapons, and all armor under lvl 35 and applied the changes.
+ 
+WHAT THIS MEANS TO YOU THE PLAYER:
+----------------------------------
+No longer will you be able to walk around with 40,000 pounds of gear.
+Things have weight. In some cases they've gotten lighter, but in most
+cases not.
+ 
+Some of your favorite dual-wield combos may no longer work. Sorry, but you'll
+have to deal with it. Weight values have been established on a much more
+realistic and balanced scale, and other than a couple of small tweaks here
+and there, chances are they're gonna stay that way. HOWEVER - be on the
+lookout for other potential combinations... Options have been added as well
+as removed, so like it sez in HELP DUAL, it's on you to find em.
+ 
+Blacksmiths will probably find themselves up to their ears in materials for
+awhile, due to the formula involved in DISMANTLE. This is something I'm hoping
+to rework with Pal at a later date.
+ 
+I'll be on the lookout for any MAJOR issues that may arise, but please do
+not bug me or the staff griping because you can no longer walk around with
+a Golden Glaive in one hand and a Frostreaver in the other. Changes are part of
+the game, and in this case were done for the purposes of consistancy, balance,
+and a certain degree of "realism".
+ 
+Enjoy ;)
+ 
+P.S. - Any weapons you already had in your posession will NOT be affected by
+this. Changes will apply to all newly loaded objs from here on.
+~
+Sender  Gilean~
+Date    Sun Mar  6 13:17:24 2005~
+Stamp   1110140244
+To      all~
+Subject Weight System v2.0~
+Text
+Ok.. redid the weight values to reflect proper ratio,
+and fixed a bunch of wacky values in objs under lvl 35.
+ 
+Some lower lvl armor should be a bit friendlier on
+encumberance and a number of weapons that became unwieldable
+should now be working properly again.
+~
+Sender  Hiddukel~
+Date    Mon Mar  7 17:31:31 2005~
+Stamp   1110241891
+To      all~
+Subject Tweaks/Mods~
+Text
+Here's the nit and gritty:
+ 
+* Weapons will ALL do a little more damage
+
+* Some of the DAMAGE messages have been modified, not the text itself, but
+{x  at how much damage each one displays at.
+ 
+* Some of the POSES had spelling errors that were fixed.
+ 
+-- The rest below are all for Blacksmiths --
+ 
+* FORGE skill has another new Argument that must be entered when forging an item.
+{x  You will now be required to enter in a Numeric value, that will be used to set
+{x  the object's LEVEL. As the modified HELP file states, you can NOT go over
+{x  10 LEVELS from the level at which you are when using it.
+ 
+* With that, ALL Weapons and Armor that are created, are now a little more
+  equal, with that the Damage values for Weapons, and the AC (Armor Class)
+{x  values for Armor, will be set accordingly.. to it's level of course. Now,
+{x  while no matter what KIND of weapon or armor you create, those STATS will
+{x  always be the same (ie: a level 50 shortsword and a level 50 torture whip
+{x  will have the SAME Damage values), there are OTHER differences in the items.
+{x  As well, MORE differences will be created at a later date.
+ 
+* MEND, ALL REPAIR skills, and pretty much ANY skill that once required
+{x  the Blacksmith to HOLD an Anvil, has been modified so that the Anvil
+{x  just needs to be on the ground in the same room. No longer is a Blacksmith
+{x  required to actually HOLD an Anvil (didn't make any sense why it was set so
+{x  that you HELD an anvil while pounding on it). Also, these skills have also
+{x  been allowed to use ANY kind of anvil, so long as it has the proper ANVIL flag
+{x  set on it (You'll know if you do or not, because it will always ask you to
+{x  make sure you got one in the room with you, if you don't). Previously, the
+{x  ONLY Anvil you were authorized to use, was the one you have to create using
+{x  your CREATE ANVIL spell.
+ 
+* CULTURAL ARTISTRY - Many changes have come about to this skill. The AMOUNT of
+{x  Steel Coins needed to use THIS skill, has been increased a little more. Some
+{x  of the desired AFFECTS created by various RACES have been modified a little,
+{x  adding either more variety, better stats, or both.
+ 
+* The COST for some of the skills have slightly increased, while others have
+{x  decreased or remained the same. The prices are much more logical and practical.
+ 
+* FLAMEBLAE - Some more materials have been added to the LIST of ACCEPTABLE
+{x  MATERIALS weapons can be made of to use this skill on. Likewise, there were
+{x  1 or 2 materials that were removed due to their structural integrity.
+ 
+* MASTERWORK - The COST to use this skill was set at an outragous price. This
+{x  has been seriously modified. The TOTAL cost will now be as follows: For items
+{x  that have NOT been forged, the cost will be 5 TIMES the amount of the objects
+{x  actual cost (to buy, etc., you can see this through stating the object). The
+{x  cost for items that WERE FORGED, will be 10 times the amount the object itself
+{x  costs, (NOTE: Forged items no longer have 1 default integer set as the cost.
+{x  The cost of the item is based on it's LEVEL times 100. So, if you FORGED an
+{x  item and made it level 50, the COST of that object would be set as 5000, and of
+{x  course, this COST is in GOLD, not STEEL).
+ 
+{x  Also, Masterwork has different effects for Failure now. If EVERYTHING fails,
+{x  the smiths are no longer charged the full price it costs to use this skill, but
+{x  rather one-half the cost. However, there are other kinds of failures. Each one
+{x  however, will at least still give SOME kind of positive attributes, rather than
+{x  making the item actually WORSE than what it was and still charging the full
+{x  price to use like before. Also, the requirements of OBJECTS that this skill
+{x  can be used on, have been relaxed a little bit.
+ 
+* RETOOL - This skill has been modified some for some of the races, allowing for
+{x  a more wider range of attributes to be put onto an object than before.
+ 
+- This is all I can remember at this time, and there will always be more to come -
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu Mar 24 01:31:26 2005~
+Stamp   1111653086
+To      all~
+Subject Some big stuff~
+Text
+Here Goes:
+ 
+* Dual Wielding weapons now has a bigger role than before. There is now a chance
+  that you will also be able to get in an extra hit with your off-hand weapon, IF
+  you have Second Attack and Third Attack. (Forth attack does NOT apply).
+ 
+* STRIP, now requires that the victim must NOW be Subdued, in order to work.
+  You can no longer simply strip someone of their gear, if they are just simply
+  sleeping.
+ 
+* AUTOMERCY and AUTOYIELD and YIELD commands have been added. Please see the HELP
+  files on all three to get the low down on them. If you find any BUG's with these,
+  any by that I mean, if one of these causes the MUD to crash, *NOT* something
+  that doesn't work the way you want it to work, or THINK or ASSUME it should work
+  a certain way, let me know.
+ 
+* You can no longer outright KILL someone anymore if you are more than 10 levels
+  above your victim. You can still attack them, but you will only subdue them in
+  the end, rather than outright kill them.
+ 
+* Solamnics will now be able to apprehend ANYONE who is above their level, *IF*
+  the victim has been subdued (Victim must be affected by Subdue, in order to work).
+ 
+That's it... not a lot posted in this change, but it was a lot of programming.
+Estimated Programming time for all this: 34 hours
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu May 19 00:32:10 2005~
+Stamp   1116484330
+To      all~
+Subject Lots of things~
+Text
+Ok.. there's a lot of changes I've been making while I've been on the ship
+over the last 2 months, so I hope I don't forget anything here. The only
+thing I don't have added right now, are the HELP files for new skills/commands
+etc..
+ 
+** Blacksmith's - New Skill called KEY ORIGIN. This skill allows a Blacksmith
+                  to be able to tell the origin a key came from (e.g. the
+                  name of the area it came from, like Palanthas, etc.)
+ 
+** Knights - New Skill called Polish. This skill will allow knights to polish
+             their armor, which gives knights a bonus in Charisma
+ 
+** Knights - 3 New Skills, which all use 1 command. The skills are:
+             Company Might, Company Valor, and Company Honor. The command
+             to use these skills is called: INSPIRE. Syntax will be:
+             Inspire Might or Inspire Valor, or Inspire Honor. The Knight MUST
+             BE in a GROUP in order to inspire those around him.
+ 
+** Knights, Battlemages, Clerics and Warriors - New skill obtained called:
+             Shatter Shield. This skill will allow the listed classes to
+             be able to shatter an opponants shield in combat, if using
+             a MACE, FLAIL, or AXE.. if the opponant is using a shield that
+             is made of WOOD, or any wood type Material, or any other
+             material that shares similar properties as wood ONLY.
+ 
+** Druids - New Spell called Plant Growth. This spell will create a plant
+            (with other shrubbery, use your imagination), which will allow
+            druids to then be able to cast some of their spells that normally
+            would require them to be in a forest enviroment. This spell
+            won't work indoors, etc.. It works in places like Cities, etc..
+            If it don't work, then it's not suppose to. If it does, then it's
+            suppose to.
+ 
+** A bunch of classes - Got a new skill called Arrow Deflection. This skill
+            is automatic. IT will only work, if the person with the skill is
+            wearing a shield. This will only work, at most, 50% of the time.
+ 
+** ALL EQUIPMENT and MOBS - Now have SIZE slots or definitions. Equipment,
+            flagged with a particular WEAR flag (Large, Small, Tiny, etc.)
+            will determine the size of the object. What EQ you can wear
+            from now on, will be determined also on your characters size
+            compared with the size of the Object. Some EQ, you can wear
+            up to 1 size larger than you, some 1 size larger or smaller than
+            you, and some, only if it's the same size as you. As of right
+            now, a lot of EQ have no size flags set on them, so pretty much
+            all EQ can be worn by anyone. However, this will all soon change.
+ 
+** Enchanters, Spellfilchers, Battlemages - Ench's gained 2 new spells, and
+            the Spellfilcher and Battlemage classes each gained only 1 of
+            these spells (One has one, the other has the other). These spells
+            are called SHRINK and ENLARGE. These spells will SHRINK or
+            ENLARGE a person. They will only increase a person's size by
+            ** 1 **. These spells can be used effectively to allow people
+            to be able to wear EQ that might be too large or too small for
+            them (Provided the EQ size is then still within wearable size
+            limits).
+ 
+** New COMMAND - Background. This command works similar to Description.
+            Currently, there's no way for other people to see your Background
+            but there will be soon. As well, backgrounds will be noticable
+            on the website when your character is logged on. So, feel free
+            to start writing your character's background now.
+ 
+** STALK and a couple other similar spells, have been fixed so you shouldnt
+   be able to stalk into a PET room, or a room marked as Gods Only.
+ 
+** A new Cantrip has been added, FAIRY.
+ 
+* Well shit, I know I did more changes, but I can't remember them all, but
+  I'm sure most of you will notice them immediately, so please hold your
+  notes containing (I noticed...) info.
+ 
+Enjoy
+ 
+iddukel
+~
+Sender  Gilean~
+Date    Sun May 29 19:45:46 2005~
+Stamp   1117417546
+To      all~
+Subject Sizing~
+Text
+Ok guys - the resizing is done. All mobs, armor and weapons have now
+been assigned a size value, so if you can no longer use/wear something
+you could before, you'll just have to adjust because those items are
+set that way on purpose. Having said that, here are a few bits of info
+to consider before the complaints start rolling in:
+ 
+1) Large creatures will find themselves unable to effectively wield
+   most smaller weapons. Same thing with small creatures and large
+   weapons. Don't expect to be seeing dwarves wielding greatswords,
+   kender wielding huge battleaxes and Minos fumbling around with
+   short blades and tiny daggers.
+ 
+2) Whenever possible, items were sized according to the race of the
+   MOB wearing it (duh.), or what race the item was MADE for. Shops
+   however, will continue to custom make most armor to fit.
+ 
+3) Most of the world population is made up of medium sized creatures;
+   therefore, larger and smaller races will have a somewhat tougher time
+   finding some kinds of gear. This is simply an inherent challenge of
+   being a "minority", and one that you will have to rise to meet.
+ 
+4) Minotaurs will be at a disadvantage to finding headgear (even if it IS
+   large-sized) due to the problem of fitting it around their horns. This
+   is intentional and based in common sense.
+ 
+and lastly:
+ 
+5) While they may be rare or hard to find, exceptions DO exist to just
+   about every category. They may not be the ones YOU would prefer, but
+   they are out there. If they aren't the "good" ones in your opinion, such is
+   life. Toughen up your hide and make the best of it.
+ 
+This game is about challenge and diversity, and we continue to work to
+bring you both. Use it to your advantage instead of complaining that you
+don't have the same gear as 98% of everyone else ;)
+ 
+Enjoy!
+ 
+- Gilean
+~
+Sender  Gilean~
+Date    Sat Jul  9 12:46:06 2005~
+Stamp   1120934766
+To      all~
+Subject Small but important smithing change~
+Text
+Just an FYI - as of now, smith-forged items will now be "sized to fit",
+meaning that forged items will no longer require shrinking/enlarging
+to wear. Once again, this applys ONLY to smith-forged items.
+ 
+Enjoy!
+~
+Sender  Hiddukel~
+Date    Sat Nov  5 23:47:29 2005~
+Stamp   1131259649
+To      all~
+Subject New Autotitle~
+Text
+You can now turn titles on and off, using the new Autotitle command. 
+It's a toggle command, so type Autotitle and hit return, and it will turn it
+on and off.  Turning it off will prevent people from seeing your titles
+(except Immortals), and turning it on, will let everyone see them.  
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Nov  6 00:18:05 2005~
+Stamp   1131261485
+To      all~
+Subject Addition to Title~
+Text
+Ok, modified some quick things with the WHOS ONLINE code too.  The new
+Autotitle code is also reflected on the WHOS ONLINE code, so for those who
+thought they'd be able to exploit the new code by just countering it's
+affects by checking the WHOS ONLINE link to see their titles anyways, won't
+be able to.  Also, I modified the WHOS ONLINE code so that all players who
+are now INVIS or HIDDEN, will no long show up on that WHOS ONLINE list
+anymore..  This also reflect those who are Camo'd and Wraith'd..  
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Nov  6 23:55:35 2005~
+Stamp   1131346535
+To      all~
+Subject Surnames~
+Text
+I finally got around to adding in code to display your character's
+Surname on the WHO list.  If you had custom titles to add them in before,
+let an Immortal know right away, so you don't have double Surnames displayed
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Nov 26 03:43:27 2005~
+Stamp   1133001807
+To      all~
+Subject Some smaller things~
+Text
+A few minor addions/tweaks and some major BUG fixes.
+ 
+* You can no longer PUT or DONATE items into a Hometown PIT (Pit at your recall
+  point) if there is 10 of those items already in there. This will help cut down
+  on some PIT clutter.
+ 
+* Fixed - Eavesdrop no longer will give away a whisper target, if that targeted
+  person is INVIS (higher level than you) and the whisperer was visable. Now it's
+  set up correctly so that you must be able to see both the whisperer AND their
+  intended target, otherwise one or the other or both, will display as being
+  "Someone"
+ 
+* Fixed - Well, obviously this BUG has been around since I created the Mirror
+  Image spell, but either nobody wanted to report it until recently, by Rihivan,
+  or nobody could figure out what it was that caused a crash, because to them, they
+  were just moving. Turns out, when MIRRORED, and those Mirrored images were
+  in the room with you, and you moved in a direction, and the room you were moving
+  from happened to have an EXIT trigger on it, it would crash the MUD. I set the
+  Mirror Image code up so that the MOBS would be placed in a Random order, so when
+  you moved, it would actually make those MOBS move first, before you (code wise),
+  but at the same time. So, it would end up bypassing the NPC check. This is fixed,
+  however, there may still be some more BUG's out there pertaining to other triggers
+  we have, when it comes to triggering them while with Mirror'd images of yourself.
+  So, if the MUD happens to crash while you have Mirror'd images with you, re-cast
+  that spell, and see if you can do it again. If it crashes again, then you found
+  a BUG. Please report it, do NOT exploit it, and then try to avoid doing it again.
+ 
+* Subdued players, can no longer be code bypassed. In other words, for
+  those who were trying to bypass the PK rules and Code check, by simply casting
+  a spell like PLAGUE or POISON on someone who they subdued, or anyone who they
+  may come across who's subdued, which would bypass any LEVEL check for PK, AND
+  would bypass a few other code checks, will find that they can no longer do that.
+ 
+* Fixed - RECALL has been fixed so that when in a fight and you typed RECALL, it'll
+  actually send you to your hometown recall. Before, it was being used as a way to
+  stop fighting, but stay in the same room, and allowed for a person to Mass-LUNGE
+  their victim to death.
+ 
+ 
+** For those of you who reported BUGs you found to me, keep up the good work and
+for respecting me and the Rules I have set forth, I give you my respect in return.
+Some might think that's not much, but ask some of the other players, Mortals and
+Immortals alike, who've known me for a while, how hard it is to earn my respect.
+Your honesty will carry a long ways here, and might even be a "get outta jail free"
+card later in the future, if you find yourself in a bind.
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Nov 27 18:18:03 2005~
+Stamp   1133140683
+To      all~
+Subject Springs~
+Text
+Just a small quick change to the Create Spring spell, as hinted by Moraine and
+a few others over the years.
+ 
+* Create Spell will no longer allow anyone to create multiple springs in the same
+  room, as one already resides in. Also, springs created in Cities, will now dry
+  up (for some reason, I didn't have a TIMER set on those).
+ 
+  As well, you can no longer create "Water Parks" in cities anymore. NO MORE
+  than *2* Springs (Geysers) can exist at the same time in a City. This will help
+  tone down the non-IC-enviroment with those Gesyers, being sprung up all over the
+  place. Also, a new MESSAGE will appear from now on, when those Geysers dry up.
+ 
+  Also, you will no longer be able to cast these spells while in a room marked as
+  INDOORS (Previously, they were only checking for appropriate SECTOR flags, but
+  not the actual ROOM flags, for Indoor type flags.
+ 
+ 
+That is all for now,
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Dec  3 20:43:49 2005~
+Stamp   1133667829
+To      all~
+Subject 2 new additions~
+Text
+2 additions have been made.
+ 
+* New CLERIC skill, called PREACH. This skill will allow a Cleric to Preach to
+  EVERYONE in the same room as him/her, allowing the cleric to change the Alignment
+  of EVERYONE in the same room. However, there are many checks that must be met
+  for it to be successful. First, the Cleric must already be MARKED by a GOD, and
+  not only just marked, BUT ALSO marked as a HIGH PRIEST or PRIESTESS of that God
+  as well. Also, if say your Evil and marked by an evil God, you can only alter
+  the alignment of people who are both, NOT already totaly evil (-1000), Nor, can
+  they be completely GOOD (1000). This works vice versa, and for those who have
+  a Neutral alignment, you can't change people's aligment if they are either or,
+  at 1000 or -1000, nor if they are already at 0. This skill works perfectly, or
+  so my 3 days of testing has concluded, but I don't guarantee there isn't a
+  possibility of a crash BUG, since most of you do more things and run into tons
+  more situations than I could ever imagine, so who knows.
+ 
+* PASSIVE XP - Has been given to ALL CLASSES NOW. Blacksmiths however, will NOW get
+  nearly DOUBLE the amount of Passive XP per tick they had recieved before. However,
+  there are stipulations to every class having this as well. First, you will not
+  and can not gain ANY Passive XP if you are below level 20. You can only reach to
+  level 20 by hunting. Second, the amount of XP you get per tick, is based on 5
+  different LEVEL checks I added. At those intervals, the amount of XP per tick you
+  can get, will go up. However, for each interval, I added in another check. It
+  checks to see how much XP till next level you need, and based on an X amount, which
+  is determined by those intervals, you will stop gaining XP. So, for example, at
+  level 20 through 25, you will gain an X amount of Experience Points per tick, BUT
+ only up until you get to where you need around 1500 more points to gain a level.
+  You will be required to go out and KILL (hunt) for the remaining Experience Points
+ if you wish to gain the next level. Again, the amount is determined based on the
+  defined intervals that are set to base how much XP per tick you gain. So like at
+  level 75 through 100, you'll gain Passive XP until you get to where you need around
+  10,000 XPTNL, and then the Passive XP will stop, and you'll habe to go out and
+  hunt to gain the rest in order to level. The AMOUNT of XP Per tick given at
+  each interval, is what the Blacksmith class used to get, so if you played a
+  Blacksmith before, you'll have an idea as to how much you need. Again, Blacksmiths
+  now recieve almost DOUBLE the amount per tick as they recieved before.
+ 
+Enjoy,
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Dec  4 02:08:39 2005~
+Stamp   1133687319
+To      all~
+Subject Dual Wield~
+Text
+It was brought to my attention, that while Dual wielding a weapon, in
+which you normally do not have the skill for that weapon anyways, was still
+allowing people to hit with that dual wielded weapon, but also for the full
+amount of damage points that the weapon normally would deal if the person
+had that weapon skill at 100 percent.  I'm not sure how often it would hit,
+because when I tested it on the Builder Port, I was wielding a Sword, which
+was at 100 percent, and Dual Wielding a Dagger, which the Dual Wield was at
+100 percent, but the Dagger Skill was at 50.  When the Dual Wield skill is
+at 100 percent, that's suppose to mean that the chances you have of being
+successful at making a successful HIT with your secondary weapon, is then
+based completely on the percentage of that Weapon Skill.  So, with the
+Dagger Skill at 50, that means on average, at least 50 percent of the time,
+I should have been hitting my victim with that secondary weapon.  Turns out,
+I couldn't hit it at all, unless I beefed up that weapon skill to 100.  So,
+I'm not sure how anyone was actually able to hit anything with their
+secondary weapon, it that secondary weapon wasn't even at 100% in the first
+place.  But anyhoo, I did find an error anyways with that percentage.  Turns
+out, the calculation was doing the math all wrong.  The equation was written
+correctly, but for some reason, the output (answe to equation) it was
+giving, wasn't working correctly.  So, that's fixed, so people with the Dual
+Wield skill, should be able to hit more often with the Secondary weapon now,
+as well, the damage I was doing with that secondary weapon, seemed to deal
+the correct amount, based on how well I learned that weapon skill (For
+example, when Wielding it, it wasn't like it was doing little to no damage,
+but when Dual Wielded, it all of a sudden was doing god-like damages).  
+ 
+If anyone is still having problems with this skill, or see something really amiss,
+let me know.
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Fri Dec  9 09:43:15 2005~
+Stamp   1134146595
+To      all~
+Subject Bards~
+Text
+Just a couple additions for Bards,
+ 
+* Added 2 new songs to PLAY for bards, Song of the Rose, and Song of the Kender.
+  see Help files for details.
+ 
+* Added a new entire SONG/SING system for Bards. For those of you who played over
+  on the Turning Point, know what it's all about. I programmed it to work
+  the same way here. First, for the HELP file, HELP SONG, HELP SING and
+  HELP SINGING shows you how to use it. For the list of SONGS that
+  you *PLAY*, you now have to type the full word out, SONGS, in order to see that
+  list, as the word SONG (non-plural), is now the Keyword for the new
+  Songs can be written by Any Bard. Please read the HELP file on this before
+  writing any songs, because there are many detailed things to this skill. Once
+  a song is written and composed, you may then SING it. Singing is automatic,
+  with a short pause between each line that is displayed. I will probably do a
+  few more tweaks to this skill, but it works like a charm thus far. Enjoy it.
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Wed Mar 29 01:03:43 2006~
+Stamp   1143619423
+To      all~
+Subject Long Awaited Changes~
+Text
+Ok, sorry about the wait folks.  The amount of code added isn't so much
+great in terms of quantity, but rather quality.  And with that, I wanted to
+make sure that everything worked perfectly.  
+ 
+ 
+** First, NEW AREAS have been Added!!!! Well, there's 3 AREAS that make up the
+   land mass, but it's actually 1 area. These areas as you will see on the AREA
+   list, are labeled as Urione, Urione2, and Undersea Roads. Have fun and please
+   report any typos/bugs/etc. immediately so we can get to fixing them as soon as
+   possible. These areas were created and are brought to you by Zeboim. For those
+   who don't know, she is an Immortal who is currently working behind the scenes
+   on bringing new and wonderous areas for LoK. She retains from coming on the
+   player port here for now, until more work has been accomplished, and then she
+   promises to come play.
+ 
+** Potion Quaffing now has a small lag timer. This is to prevent people from
+   quaffing potion after potion, quickly, in order to bring them to full health
+   in a heart beat. This created conflicts between players who were fighting
+   against other players, making the fight more or less come down to a matter of
+   who had the most Healing potions. This was not only unrealistic, but gave an
+   an unfair advantage to those who could not afford to run around with a liquor
+   store of Health Potions in their knapsacks.
+ 
+** New Cantrip spell by request called Shadows.
+ 
+** New Spell for Clerics and Battlemages called: CLEAR THOUGHTS. This spell will
+   lessen the chances that a Mindshatter spell will be successfully cast upon them
+   by a GREAT amount.
+** ALL Immortal Marks can now be called upon for Divine Favor. Each mark has it's
+   own special phrase which must be recited EXACTLY (punctuation and capitolization
+   is required as well) in order for the Mark to work. Now, some spells and/or
+   effects that some marks give, MIGHT appear to be "better" than others. However,
+   I'm only going to say this ONCE. DO NOT COMPARE THEM!!! They all have their own
+   effects for specific reasons... one of those reasons is that they effect(s) they
+   give, FIT the Immortal they devoted to. These shouldn't even considered to be
+   purely "the benefits" of worshiping a particular God/Goddess.. in other words
+   don't put these up on a pedestal as being something that should give out GREAT
+   powers and spell effects. These are merely fringe benefits for being devoted to
+   a God/Goddess. As well, don't let us catch any of you devoting to a God/Goddess
+   merely BASED on what Divine Favor call a particular God/Goddess will grant you.
+   If you are caught doing that, you'll lose your Mark, if you already have one, and
+   your character will never be granted a True Mark again. Note, these Divine Favor
+   calls ONLY work when you have a True Mark... they do NOT work for Devotee marks
+   and if you ask "why not?" I'm going to drive to your house and knock you on the
+   head with a tack hammer, cuz your a retard. I will NOT list the phrases that must
+   be said in order to call for Divine Favor in this CHANGE. However, I will be
+   informing each Immortal what the phrase is for them, and they may choose to tell
+   people who have a True Mark of them, what it is. As well, ALL Phrases will
+   be posted somewhere in each Temple for each Immortal, so make sure to check your
+   God's temple regularly for these updates.
+ 
+******** Ok, this CHANGE is becoming quite long, so I will continue it on another
+         CHANGE *********
+~
+Sender  Hiddukel~
+Date    Wed Mar 29 01:26:05 2006~
+Stamp   1143620765
+To      all~
+Subject Part 2~
+Text
+** The final change that has been implemented in, which is actually quite
+a large change, is on Land Control.  There are ** 3 ** ...  I said, THREE,
+different states of control that every AREA in the GAME can and will be in. 
+These STATES are as follows: Controlled by Solamnic Knights; Controlled by
+the Knights of Takhisis, AND Uncontrolled by ANY military forces.  Now,
+Palanthas and Neraka (which there's actually 2 area files that make up
+Neraka, so include Neraka2), will ALWAYS be under specific control. 
+Palanthas, under the KoS, and Neraka under the KoT.  These control factors
+can NEVER change.  As well, ANY land which is Uncontrolled...  ALSO can NOT
+be changed.  I do NOT want the entire MUD being under complete control by
+only 2 occupying forces, so I have written an Uncontrolled Flag in order to
+mark certain areas as being uncontrolled.  However, ANY area, besides the
+areas listed above, that IS under control by either the KoS or KoT **CAN**
+change control.  This means for example, that if say an area is under the
+control of the KoT, it could potentially change sides and control could be
+gained by the KoS.  However, control can always go back and forth.  This
+will help give some realism to the game, spice up the flavor a little bit
+and make you, the players, feel like you can control the outcome of some of
+the GAME yourself.  Now, how does control over an area change???  Quite
+simple, and this will not change, so please don't bother me with "ideas" on
+things that could further change the control over an areas...  What is set
+up now, is plenty enough.  Control can go to either side through any of the
+following means: 
+ 
+- A Solamnic Knight kills Knight of Takhisis
+- A Knight of Takhisis kills a Solamnic Knight
+- A Conclave Wizard kills a Knight of Takhisis
+- A Blackorder member kills a Solamnic Knight
+ 
+Now, if a Blackorder or Conclave is killed by ANY part, control over the land will
+NOT change. Only the death of a Solamnic Knight or Knight of Takhisis can actually
+change the control over an areas.
+ 
+Control is determined on a point system. Of course, this point scale can NOT be
+seen by any Player, nor Immortal. It is purely in the code. However, I will say
+this. If a Solamnic or KoT member does the killing, control over that area (the
+area in which the Solamnic or KoT who's being attacked, dies in) then the area
+will change control in favor of the victor more quickly, than what it will change
+if say, the successor was a Conlave or Black Order member. (2 points KoT or KoS
+does the killing / 1 point of conclave/balck order does the killing). With this
+one of the things that has bearing on who controls what lands, is in the case
+of the APPREHEND command. Solamnics will NOW only be able to APPREHEND criminals
+in Solamnic Controlled areas.
+ 
+Now, how do you check to see who controls what area? Well, ANYONE and EVERYONE can
+see who has control over an area, if any, by utilizing a new command called:
+OCCUPANCY. This command will show you who has control, of course if there is no
+control, it will tell you that too ;-) So far, this is the only thing that has any
+REAL bearing on controlled lands, but stay tuned for future changes that will
+possibly include land control, where who has control will make a difference.
+ 
+Currently, I have YET to set the areas up with the appropriate flags, so give it
+a few days before I have all the lands set with the correct control flags. As well
+let it be known that Area control, can NOT be an only reason to PK someone. PK Rules
+are still the same, and MASS PKing someone to change the control of an area over
+quickly, will definately not be tolerated. I tested the code over and over, so
+there shouldn't be any problems. If you think you found one, feel free to report
+it, but just keep in mind, chances are it seems broke, only because you have made
+your own assumptions as to how something should work, and it doesn't work like those
+assumptions.
+ 
+Enjoy the changes....
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Jul 15 22:03:39 2006~
+Stamp   1153022619
+To      all~
+Subject Modifications~
+Text
+Some fixes and modifications, more of course soon to come.
+ 
+* Gave a slight lag timer to Blackjack. It needed one as it had the potential
+  for, and was being, abused (spammed till it had a success)
+ 
+* Fixed STEAL so that people without the command, can no longer even attempt
+  to use it (even though it would always fail anways).
+ 
+* Also fixed STEAL so that Blackjacked people wouldn't be auto-standing and
+  awake, while still under the AFFECT of Blackjack.
+ 
+* Fixed the VULNERABILITY and RESISTANT flags for the UNDERWATER flag, so that
+  they will deal out the appropriate negative gains. It was currently set up
+  so that it was using only the default negative gains, so even if someone
+  was RESISTANT to drowning, they would still take the same amount of a
+  negative gain as if they weren't resistant, which is a big difference. As
+  well, people who are Vulnerable to drowning, were also able to take the
+  same amount, instead of the Double amount they normally should of had.
+  This of course, is ALL In regards to people who are NOT affected already
+  by WATERLUNGS.
+ 
+* Fixed the UNDERWATER check so that MOBS can not drown (cause for potential
+  crash with that one), and won't look retarded anymore after seeing Sharks
+  actually drowning (Trying to take a breath) Surprised nobody
+  brought this to my attention before.
+ 
+* Cancellation, as per the HELP File and it's ORIGINAL intent on how it's
+  suppose to work, will now ONLY work on YOURSELF *and* your fellow GROUP
+  MEMBERS. It can no longer be used on opponants or anyone else who does not
+  belong to your group. That's what Dispel Magic is for.
+ 
+* As well, Cancellation will ALSO have a 50% failure if used on people (your
+  group members OR yourself), if said people are in the middle of FIGHTING.
+ 
+That's it for now folks, stay tuned for more to come....
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Mon Jul 31 11:20:01 2006~
+Stamp   1154366401
+To      all~
+Subject Some BUG fixes and Modifications~
+Text
+Just a few BUG fixes and some modifications, more are going to be done
+here shortly.  
+ 
+- Made Quests no longer use Clan Guards as a quest mob to kill
+ 
+- Fixed exploitable BUG that now prevents players from ordering
+charmies to recite scrolls, zap wands, and brandish staves.
+ 
+- Changed LIST display for notes, changes, etc. Easier to read.
+ 
+- Fixed Palanthas to Mt. Nevermind ship so doors can no longer be
+sealed with the Magic Seal spell.
+ 
+- Demand will no longer work on Shopkeepers or MOBs that are there
+to train, practice, etc.
+ 
+- Quests should no longer be given to kill mobs that are located
+in SAFE rooms, however, this will also lower the chances that a
+Questmaster will actually have a Quest for someone, if the chance
+is there to give the player a quest to kill a MOB, and the only MOB
+it can find for the player to kill at the time of the request,
+happens to be in a SAFE room, whether it's always in that safe room,
+or just so happened to walk into a room marked as safe.
+ 
+- Can't stalk while mounted anymore. Player was still mounted, but
+mount wasn't with them when they stalked.
+ 
+- Fixed Money CHANGERS so that one MUST be visable in order to get
+money changed
+ 
+- MOBs that wander around on their own should no longer walk into
+Clan Hall rooms.
+ 
+- Ranger Guild in Kalaman should only allow Rangers to enter now.
+ 
+As I said, just minor things, but more are to come.
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu Aug 10 10:24:14 2006~
+Stamp   1155227054
+To      all~
+Subject More Modifications/Fixes~
+Text
+Just a few more modifications/fixes. I'm almost done with the BUG list and
+will soon be able to get back to working on more new code.
+ 
+- Gave Charron in the Undead Clan Hall some potions to sell
+ 
+- Tika's room is once again, a NO-SAFE room as was originally intended
+when I created it
+ 
+- Removed Hillhome... not sure why that area was in there
+ 
+- Dargaard Mobs have appropriate alignments set (Undead act flags were
+already set on all that required them, for the person who submitted this
+BUG notice)
+ 
+- Banquet Hall Door in Palanthas fixed, so there's a DOOR that can
+actually be opened and closed from both sides.
+ 
+- Skeleton Warriors from Necromancer spell, Cavorting Bones, has been
+modified... grammar errors and SEX changed to Neutral.
+ 
+- Farmers harvesting grain should no longer be seen wandering around
+in the middle of the water of Crystalmir Lake, nor underneath it.
+ 
+- Hobgoblin Guards are no longer set up to act as normal guards (Done
+so by a specific SPEC, or SPECIAL flag) do, since while they are
+guards, the special acts they were set to perform, would normally
+only be seen by GOOD aligned guards, not Evil ones.
+ 
+- Door in Palanthas leading from Audience Chamber north, into the
+Gardens, can be closed from both sides now, not just one side and not
+the other.
+ 
+- Spectre in Urione now set as being UNDEAD
+ 
+- Spiral Staircase in Urione fixed with correct Sector Flag, as they
+are rooms that are indoors/inside, so they can now be accessed by walking.
+ 
+- Modified the COMPARE command so there will be no more confusion
+anymore with people who use the command but never provide a SECOND
+argument and rely only on the first Argument to do the work. Compare,
+if only the first argument is given, randomly picked an object in a
+person's inventory, but only checked to make sure that the item it picked,
+was the same TYPE as the argument given of the first object. This
+created confusion when 2 objects shared identical item TYPES (Armor, etc.),
+but the items appear to be different (Different WEAR locations, etc.),
+and were being compared to each other. This change will ensure it is
+the Player's responsibility to make sure they are comparing 2 objects
+they really want to compare with.
+ 
+- Fixed LULL skill so that if victim is mounted, they will fall off
+their mount, and will no longer be stuck sleeping.
+ 
+- * FOR IMMORTALS ONLY * WIZNET CLAN will now only display messages
+from PCs... will no longer show NPCs.
+ 
+- Modified RALLY so that it will no longer go into negative Mana.
+ 
+- Fixed Preach so that it will only affect AND take into account, people
+that the person can actually see... will no longer have any effect on
+people that the preacher can not see.
+ 
+ 
+Like I said, more are to come. Stay Tuned and have a wonderful day/night
+ 
+Hiddukel
+~
+Sender  Hiddukel~
+Date    Wed Mar 14 00:45:05 2007~
+Stamp   1173858305
+To      immortal~
+Subject Immortal Modifications~
+Text
+Ok folks, just made a few adjustments here.
+ 
+* First, I've modified a few Immortal commands so that they can no longer be
+{x  used as an exploit to see if Immortals above them who were WIZINVIS at a
+  higher level than they could see, were actually logged on or not.
+ 
+* Due to some misundertanding that when I disable a command, it's for a really
+  good reason, I've modified the command so that if a command has been disabled
+  by me, only I myself, can re-enable it.  Oh, I've also altered a few other
+  commands in case someone would try to pload my char, or use ASPERSON on my
+  char, to re-enable them... even though I can see the logs if that were to
+  happen, I'd rather prevent it from happening at all.
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu Mar 15 00:22:38 2007~
+Stamp   1173943358
+To      immortal~
+Subject Illegalname~
+Text
+I've fixed the Illegalname command.  Was having a problem appending the
+file with new additions, in case anyone didn't know.  Got it fixed, so the
+command is now removed from the Disabled list and can once again be utilized
+for those piss-ants who like to create using dumbass names.  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Tue Mar 20 09:49:18 2007~
+Stamp   1174409358
+To      all~
+Subject Long Awaited Changes~
+Text
+I know it's been a while since I've done some changes on the MUD, since
+I've been distracted with modifying the website for the last 8 months.  But
+anyhoo, without further delay, here they are: 
+ 
+* Modified code so that MISSES will now display what type of
+{x  hit it was they attempted to make and missed with. However,
+{x  the fix may create problem(s) with something else, but not sure
+{x  yet. Please keep a look out and report any odd behaviors with
+{x  damage messages.
+ 
+* Recalling while in combat will still retain the normal Experience
+{x  Point loss if done while in combat (25 Exp for those WITH a description,
+{x  and 50 for those without one), however, that Experience Point loss
+{x  penalty will only be for people who recall out of battle when fighting
+{x  an NPC (Mob). Those who recall out of battle while fighting another
+{x  player will now sustain a greater penalty (1000 Experience Points for
+{x  those WITH a description, and a 5000 point loss for those without).
+{x  This was modified to help curb thoe who used it as a way to recall out
+{x  of a PK, then go back and re-attack that player, but using a more
+{x  powerful initial attack.
+ 
+* Modified the EQUIPMENT sheet to display PRIMARY WEAPON instead of
+{x  WIELDED.
+ 
+* Fixed Pacify so that it will no longer turn off people's Autosac
+{x  when they had it on.
+ 
+* Scavenger mobs should no longer be able to pick up furniture items
+{x  that people are on.
+ 
+* Possible Exploit resolved with serving time in jail.  No longer can
+{x  anyone make themselves die from hunger or thirst in order to cut
+{x  sentencing time down in order to get out prematurely.
+ 
+* Fixed the Quest code for having to obtain Objects, so that objects
+{x  a person is being sent to retrieve, will no longer spawn in the same
+{x  spot every time.
+ 
+* Fixed HIT POINT and MANA regen values to properly compensate those
+{x  who have items that are suppose to help recovery go faster when sleeping
+{x  or resting on them.  Should be noted that these items will not affect
+{x  the recovery rate for Movement, only Hit Points and Mana.
+ 
+I know some of you were probably hoping for more NEW additions instead of
+these, but it's always more important to fix what one has first, than to
+add new stuff all the time that only partially works.  Not to fret though,
+new things will be added soon.  I'm going to take a break from the website
+for a while and focus more on coding again.
+ 
+Hope you all enjoy the changes
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Mon May  7 07:53:52 2007~
+Stamp   1178524432
+To      all~
+Subject Few New Things~
+Text
+* Rainbow pattern will no longer affect the caster.  However, the spell
+{x  CALM, will still retain it's function to affect the caster due to it's
+{x  IC mechanics.
+ 
+* Assassins and Thieves will now be 100 percent successful at DRAGGING,
+{x  and ONLY DRAGGING (not pushing), victims who have fallen victim to their
+{x  Blackjack/Strangle/Etc.. Naturally, the victim MUST be affected by a sort
+{x  of SLEEP affect, like the above stated.  Normal sleep will not only prove
+{x  to be ineffective, but from now on, DRAG/PUSH will never work on victims
+{x  who are sleeping normally (ICly, they'd wake up..duh) for ANYONE.  Of
+{x  course, this new ability does not come without cost.  A normal Push/Drag
+{x  costs only 10 movement points (Plus whatever additional movement points it
+{x  would normally cost you for the actual MOVE itself), however, for Assassins
+{x  and Thieves who wish to DRAG an unconscious victim, it will cost them a lot
+{x  more movement, depending on the size differential between both players. Of
+{x  course, if a victim is 2 sizes larger, or more, than the person doing the
+{x  dragging, they won't be able to move them at all (i.e. if a victim is LARGE
+{x  and the person attempting the drag is SMALL, they won't be able to move the
+{x  victim at all).
+ 
+* SUBDUE will now display a message to everyone, the attacker, the victim,
+{x  and everyone in the same room.  This will help people understand what
+{x  happened, rather than not getting any sort of message at all.
+ 
+* New IMMORTAL wiznet feature, SUBDUE.  Allows Immortals to see people who
+{x  are subdued, by whom, and the room it took place in.
+ 
+* Quests should no longer tell people to attack and kill mirrored images.
+ 
+* Quests should no longer require anyone to have to kill anyone or retrieve
+{x  any object from Shoikan Grove or MUD School anymore.
+ 
+* New Spell called LOCK, has been added to compliment the KNOCK spell.
+{x  Allows the caster to lock doors and objects without the need of the
+{x  appropriate key.
+ 
+- As few as these seem, I hope they are still satisfactory changes. As usual,
+  more to come soon :-)
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Thu Jul 26 09:15:31 2007~
+Stamp   1185441331
+To      all~
+Subject Few new things/mods~
+Text
+Just made some changes/modifications/additions in accordinance with some of
+the posts that were submitted by people like you, under the IDEAS category.
+ 
+* Modified the FLAG command so it is now a 110 command ONLY!
+{x- Idea submitted by Paladine
+{X
+* Added a new Immortal Command for level 105 and above Immortals called
+{x  SALIGN, which will allow Immortals with the command, to be able to
+{x  modify the alignment of players, without needing an higher Immortal on
+{x  anymore to change it via the SET command.
+{x  - Idea submitted by Paladine
+{X
+* Campfires will now light up the room, so there should be no more dark
+{x  rooms for people who have a campfire there.
+{x  - Idea submitted by Akiran
+{x
+* Due to the powerful usefulness of the Silence spell, there has been a slight
+{x  penalty added to it's success rate.  The SILENCE spell now has a 15% chance
+{x  of failure.
+{x  - Idea sumbitted by Darkahn
+{x
+* A weapon that has DEATHGRIP on it, will no longer be able to be disarmed from
+{x  it's wielder.
+{x  - Idea submitted by Vilae
+{x
+* Although there will soon be a major overhaul with the Quest system, an
+{x  additional item for purchase has been added.... Experience Points.  You
+{x  may now purchase 2,000 experience points at the cost of 1,000 Quest Points.
+{x  - Idea submitted by Hirold
+{x
+* Revamped the CONSIDER command to give a little more detailed information about
+{x  your consideration of the victim.
+{x  - Idea submitted by Sunder
+{x
+* Modified the SEQUESTER spell so that it is no longer an OFFENSIVE spell.  This
+{x  was negating the paralysis affect the spell had, immediately after it was cast
+{x  upon a victim, as an attack will always remove paralysis like affects to
+{x  prevent someone being attacked without being able to even defend oneself.
+ 
+- I didn't want to port these changes over just yet, but decided to go ahead
+  since I had to modify the SEQUESTER spell, but stay tuned, more to come.
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Mon Sep 17 09:13:48 2007~
+Stamp   1190020428
+To      all~
+Subject ** New Area **~
+Text
+New Area has been put in, brought to you by Sirrion.  Sirrion has
+strugged with english grammar and spelling, so if anyone sees anything that
+appears to be questionable, don't hesitate to send him up a note or a tell
+so he can fix it.  If it's sentence structuring that needs to be fixed,
+you'll more than likely need to give him an example of what would sound
+better.  So help him out if needed and give a little thanks for his hard
+work.  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Jan 19 01:28:25 2008~
+Stamp   1200706105
+To      all~
+Subject New Area (Sorta)~
+Text
+Qualinost has been added back in.  This area has been revamped however
+and has a lot of different things.  Any errors such as MOBs that cause
+crashes, or Spelling/Grammar errors, should be reported on the Forums under
+the Typos forum.  Thank you and enjoy.  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Jan 19 01:29:30 2008~
+Stamp   1200706170
+To      all~
+Subject Re: New Area~
+Text
+On a side note, it has only been linked to the Qualinesti Forest in 1
+spot.  There's currently only a southern entrance into the area.  Will be
+modified again at a later date.  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat May 24 09:13:24 2008~
+Stamp   1211620404
+To      all~
+Subject Eff: 24-May-2008~
+Text
+Ok folks.  I know it's been a while..  Here's the latest changes made.  I
+realize however, that some of these changes were made quite a while ago and
+most of you already know about them.  I still need to put them into a CHANGE
+for historical purposes.  I've finished the Undead website ( 3 done total
+thus far ) so I will return my focus back on some coding here.  If I try to
+do any more websites right now, I'd get burned out on it.  So here they are:
+ 
+* A new spell has been added for ALL Mage classes.  This is for pure MAGE
+{x  CLASSES ONLY!! The new spell is called MARK OF ORIGIN.  This spell will allow
+{x  the caster to commit the place he/she is in at the time, to memory.  This
+{x  memorized place will then become the caster's point of origin for recalling
+{x  from that time on, lasting forever, or until the caster uses the spell in a
+{x  different location. This will work for both, the RECALL command, AND the 
+{x  spell, WORD OF RECALL.  Recalling will then bring the caster to the room they
+{x  cast the spell in, instead of their default, HOMETOWN recall point.  Again,
+{x  this makes a permenant change, so be careful with how you use this spell.
+ 
+{x  This spell is one of the FIRST, of many spells and skills to come
+{x  that are created solely for HEROS.  Spells and skills created for the Hero
+{x  level, are designed so that they not only require Mana (for spells), but will
+{x  also require a character to have Experience Points as well.  Once a player hits
+{x  level 100, they no longer accumulate experience point gains.  As everyone already
+{x  knows, it takes Roleplay to achieve level 101.. or Hero status.  At this level
+{x  the experience point pool that one has accumulate, becomes a waste, since they
+{x  are no longer needed for anything.  With that, I decided to design special skills
+{x  and spells that will now use those wasted points... think of it as a secondary
+{x  type of energy source that is required to use these skills and spells.  This means
+{x  that yes, they become a Limited Use ONLY spell/skill... limited by the amount of
+{x  experience points you have in your pool.  Of course, unless someone is a frequent
+{x  and overzealous user of these skills/spells.... it would be very unlikely that you
+{x  would burn those XPs up before your character goes into age death.  But, this will
+{x  at least give you all a sense of fulfillment knowing that your hard work getting
+{x  to the top and acquiring all those Experience Points, will go to good use.  From
+{x  here on out, you can expect that any new Spells or Skills that are implemented in
+{x  for HEROS will always require Experience Points to use.
+ 
+* Players at level 100 or above, will no longer receive a message telling them
+{x  that they had gained experience points, upon a kill... since at that level
+{x  or higher, you never really do actually gain anything, just had to remove
+{x  the message as well.
+ 
+* For Imps/Imms - Skills that are of the instant death nature, are now
+{x  appropriately logged and displayed under your log buffer for your wiznet
+{x  feature.
+ 
+* Fixed the song called:  Song of Compassion to its appropriate name.  Also wrote
+{x  the rest of the help files on the songs in the bards list.
+{x
+* Fixed the TIME format so that it will display in sinc with US Central Time Zone.
+{x (Not much of a change, but bugged the shit out of me seeing the time 6 hours ahead
+{x  of the time in reference to where I'm at.)
+{x
+* Fixed Unholyrite so that the Jar of Blood must now actually contain blood.  If empty,
+{x  you will no longer be able to make a sacrifice.  Also fixed a potential loop hole
+{x  where someone could fill an empty jar of blood up with any other liquid and still
+{x  make the sacrifice successfuly.  The jar must now be positively filled with blood
+{x  to make the sacrifice.
+{x
+* Fixed Questmaster so that if a quest item's value is negated to a cost of 0,
+{x  the Questmaster will not accept the item back.
+{x
+* Added in some help files for battlemages that were missing.
+ 
+- Now I will hit hard on more changes!!
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Jun 29 10:25:03 2008~
+Stamp   1214735103
+To      all~
+Subject Eff: 29-June-2008~
+Text
+* Note spools for clans and general public have been cleaned up a bit.
+{x
+* Fixed LULL so when a lulled victim is attacked, the affect will be removed.
+{x
+* Sleep spell affect time has been reduced slightly.
+{x
+* After seeing numerous Immortals abusing it numerous times, Immortals will no longer be
+{x  able to drop link and collect on LOGIN Hours.  If you drop link, you will now
+{x  be auto-booted just like all other players.
+{x
+* Members of the UNDEAD Clan will no longer be affected by normal means of hunger
+{x  However, this will not negate other factors that may make them become hungry.
+{x  Also, since they have been afforded this luxury based on what was suggested as
+{x  something that "makes sense", I have also decided to make something a little more
+{x  realistic for the Undead as well.  While they are still affected by thirst, they
+{x  can no longer quench that thirst via drinking water.  Only blood will quench their
+{x  thirst.  (Note, they are NOT however, Vampires.. Vamps do not exist in this time
+{x  period)
+{x
+* Those who have RECALL ability and are in a Clan, will now be given a selection
+{x  option when executing the recall command.  They will be offered a choice as
+{x  to whether or not they wish to recall to their Hometown or Clanhall. Note however,
+{x  the spell 'Word of Recall' will still target the player's hometown recall point.
+{x  The spell will not allow the caster to choose between hometown and clanhall.
+{x
+* New spell for Conjurors... a little spell geared more for Roleplay enhancement.
+{x  The spell is called "Conjure Food".  Will randomly generate a food item.  If
+{x  in the Undead clan, it will generate vials of blood, rather than food items.
+~
+Sender  Hiddukel~
+Date    Fri Aug 29 17:38:14 2008~
+Stamp   1220053094
+To      immortal~
+Subject New addition to the FOR Command~
+Text
+The level 107 Immortal command, FOR, has been modified so that you can target
+players of a specific level and higher.  This argument does NOT mean that
+it will only affect those of the SAME level... it will affect ALL players
+(except yourself) of the same level OR higher, than the argument you entered.
+Naturally, I programmed it so that you can not enter in a value below 1, nor
+a value that exceeds 110.
+ 
+I added this option to the FOR command because there were times where I wanted
+to reward players with XP for roleplay, but wanted to give players at higher
+levels a greater amount than those who were sitting at the bottom levels.
+So now if I want to reward all players in the game who are at least level 40
+or higher with 5K XP, I can... and it will only be given to those players.
+If I wanted to do it in a range... and I figured I'd give players at 40+
+5K, and players below that level only 2K, I'd first give those level 40+ 3K,
+then I'd execute the FOR command again, but make the argument much lower and
+give everyone 2K... so now the higher levels have a total of 5K, and those in
+the lower level range only get 2K.
+ 
+I didn't add in an addition argument to specify <ABOVE> or <BELOW>, but may
+do so in the future.
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Aug 30 21:54:06 2008~
+Stamp   1220154846
+To      all~
+Subject Prompt~
+Text
+Players may now use the DOOR DIRECTION variable in their prompt once
+again.  The problem has been fixed...  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sat Sep 20 09:54:04 2008~
+Stamp   1221926044
+To      all~
+Subject New Changes: 20 Sept 2008~
+Text
+Some new changes added here.  As always, there may have been some things that
+were overlooked.  If you see any, please report them to me.
+ 
+* Players who attack other players have always had a timer set, where they
+{x  could not log off right after a PK attempt.  This was put in place to help
+{x  curve players abusing PK by attacking, then logging off right away to avoid
+{x  retribution.  Lo and behold, players were able to skirt around this timer
+{x  by simply attacking and (either killing right away, or flee right away).  This
+{x  always got around the timer and reset it, which still allowed players to continue
+{x  the potential abuse.  This has been changed. No longer will players be able
+{x  simpley attack a MOB to get rid of the quit timer.  It will stay in effect
+{x  through it's normal duration.
+{x
+* Invis/Hidden/Camo/Wraithform - The effects of these spells has not changed.
+{x  However, the ability to see people while under these effects has (using Detection)
+{x  Now, just being the same level or higher than the person who is invis by one of
+{x  these spells/skill, will not be good enough to see them when you have the appropriate
+{x  detection spell on you.  Before if player A was hidden, player B could always see
+{x  them hidden when under the affects of the Detect Hidden spell, so long as player
+{x  B was at least the same level or higher than player A.  Now, player B must ALSO
+{x  comply with another check... and that is that the Detection spell is ALSO at least
+{x  the same level or higher than player A's level(minus 5).  When affected by a spell, 
+{x  there is a level of the affect. Most spells usually have a level affect of the same level
+{x  as the caster.  So me being 110, if I cast "Detect Hidden" on myself, my spell's
+{x  level affect would be 110.  However, there are potions, scrolls, wands, etc. out there
+{x  who's affect level is set at a certain rate by the Builder.  Potion of TRUE SIGHT for
+{x  example, is set so that the spell affect level for all of the detection spells it
+{x  casts on the quaffer, is level 15.  So now if player A is hidden, and player B uses
+{x  a TRUE SIGHT potion; despite player B being of the same level or higher than player
+{x  A, player B will no longer be able to see player A, because the detection spell affect
+{x  is lower than player A's level(minus 5).  This change will help curb players from being able to
+{x  load up on detection potions when they don't have the necissary detection spell, but was
+{x  still able to see everyone who was invis/hidden/etc.  merely because they were of a
+{x  higher level.  This change also incorporates some more usefulness to spells having
+{x  a level affect assignment. In case you are wondering about the (minus 5) bit, I
+{x  basically made it so that the spell affect level can be below 5 levels of the player
+{x  who is affected by the invis spell/skill.  This is because spell affect levels do
+{x  lose strength over time.. in other words, the level slowly deteriorates at a random
+{x  time interval by 1 level.  This way if you had 2 people of the same level, the one
+{x  who's using the detection spell, wouldn't have to worry about not being able to
+{x  see the victim following the next tick due to spell level deterioration.  So your
+{x  detect spell can deteriorate down to 5 levels below the victim's level, before you
+{x  lose sight. And with this, I decided to add a new data display to the AFFECTS
+{x  command (and subsequently the SCORE if you have AFFECTS shown automatically).  This
+{x  display will show you what level the spell your affected by is.
+{x
+*  As a popular request, the HASTE affect given by Battlestaffs and Druidstaffs has been
+{x  reduced, as had been requested, in case the fight ends right after the effect takes
+{x  place so that the user won't have to wait so long for haste to wear off so they can
+{x  start healing.
+{x
+* The SCORE will now display addition data as well.  You will now be able to view your
+{x  characters vulnerabilities, resistants, and immunities.  You will see this info right
+{x  above your Email.
+{x
+* NEW SKILL for Druids called TREEFORM.  This skill will allow you to morph into the form
+{x  of a tree.  Your AC will increase, and it's amount varies depending on your level.
+{x  This AC increase is better than Bark Skin, however, while in this form, you will be
+{x  vulnerable to FIRE attacks. While under this affect, you will appear to others as
+{x  a mighty oak tree.  This is what players will see when your in the same room.  However,
+{x  you won't be able to take on this form unless already in an area that would typically
+{x  have trees growing (Forest, Mountain, Swamp, Hills, etc.).  Also, if you are in this
+{x  tree form and decide to move from a room marked as say, Forest for example, into a room
+{x  that would not normally allow you to use this skill, you will automatically lose your
+{x  morph affect and will return to normal... so stay in your designated area if you wish
+{x  to retain your form until it fades out on its own.  This skill is not completely identical
+{x  to Doppelganger/Disguise... one thing you will retain that is different, is your true NAME
+{x  field.. the argument that players have to type in to look at your, for example.  Although,
+ 
+{x.... to be continued on the next CHANGE
+~
+Sender  Hiddukel~
+Date    Sat Sep 20 09:55:19 2008~
+Stamp   1221926119
+To      all~
+Subject Continued from last change~
+Text
+{x.......
+{x  if they just logged in, and only now see a tree, and they don't know who's logged in to
+{x  put 2 and 2 together, chances are they'll never know what NAME you are to type in.  There's
+{x  a few other benefits/penalties for using this skill, but I'll let everyone figure that out
+{x  on their own. (Movement penalty is like the SLOW effect.. takes twice as much as normal)
+{x
+* Not sure how long it's been in place, but it seems there was no logic in place to
+{x  calculate movement loss when moving from/to rooms with a bunch of different
+{x  SECTOR types set for the rooms.  Pretty much since back when I started adding
+{x  new ones.  This has been fixed and you will start losing movement in these
+{x  rooms.... no more freebies :)
+{x
+* NEW SPELL for Druids called QUICKSAND.  This spell is a higher level spell that will
+{x  render a victim somewhat immobile.  This spell has many benefits and penalties.  The
+{x  spell may ONLY be cast while in a desert.  However, if successful at casting, this
+{x  spell will slow down the victim (similar to the SLOW spell, where the victim takes
+{x  a dexterity hit).  The victim will only have a 50/50 chance of being able to move
+{x  out of a room when in the quicksand.  If successful, they lose HALF of their movement.
+{x  As well, to prevent players from being able to SPAM a direction to move in till it's
+{x  successful without allowing the caster to take an advantage of their vulnerability,
+{x  I added in a lag timer.  This lag timer hits both, when successful and failed.  Failed
+{x  attempts will of course, have a much greater lag time than a successful throw.  As well,
+{x  I set it up so that during FLEE attempts from combat, there's still a 50/50 success rate,
+{x  but the lag timer will only kick in during failed attempts... successful attempts will not
+{x  carry a lag timer like it does when normally trying to move.
+ 
+ 
+Enjoy the new changes - Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Mar  8 17:03:09 2009~
+Stamp   1236553389
+To      all~
+Subject Song/Sing~
+Text
+For those of you who play as Bards, you may once again utilize your SING
+and SONG commands.  If you notice any other glitches that cause the MUD to
+crash, please let me know via NOTE or a message on the forums so I can fix
+the issue.  
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Fri Apr 10 19:20:27 2009~
+Stamp   1239412827
+To      all~
+Subject Bugs and Typos~
+Text
+Ok folks, to better help both myself and all of you, I've implemented in
+a new system for logging Bugs and Typos.  The commands still function as
+usual, I just modified a bunch of code so that the bugs and typos would be
+be registered in an XML file, then transfered over to the website's server. 
+With that, I've added 2 new links on the website to view the Bugs and Typos
+that have been logged already.  I won't go into details about the layout of
+it; you can see that for yourselves.  So please folks, if you find typos or
+bugs, please use the TYPO and BUG command.  Being able to check this through
+the website helps two fold.  It will help all of you to see what has or has
+not already been logged to help possible duplicates, and also makes it
+easier for me to see what's on the list.  The old code simply spit out the
+data to a text file, but for me to read it, U had to FTP into the MUD's
+server and navigate to the file, then open it.  And in a simple text file,
+it's ugly to say the least.  
+ 
+Happy Logging!
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun May  3 12:15:01 2009~
+Stamp   1241374501
+To      all~
+Subject New changes - May 03, 2009~
+Text
+* Can no longer recite scrolls if paralyzed
+{x
+* Apprehend will work in rooms where the area may not be controlled by
+{x  Solamnics, but the individual room a person is in, is a Solamnic
+{x  sector.
+{x
+* Fixed a few spell abilities for Immortals casting the spells.
+{x
+* Cavoriting bones fixed so that Skeletons are no longer gender specific.
+{x
+* The socials, SING and COMB have been changed to SINGSONG and COMBHAIR
+{x  respectively to help eliminate the confusion between those socials and
+{x  commands that begin with the same letters.  To help be able to modify
+{x  socials on the fly to correct issues like these, I've added in a new
+{x  ability to change the NAME of the social in SEDIT.
+{x
+* The PRAY command has been modifed so that if you have been killed, you can
+{x  still at least send your PRAY messages out to Immortals, in case you need
+{x  Immortal assistance.
+{x
+* Modified several instances for Immortals so that if a player has mirror images,
+{x  the intended target will only be the player him/herseld and not the images.
+{x  An example of this would be when sending tells.  They will now bypass the images
+{x  and go directly to the player.
+{x
+* With mirror images, players will no longer be able to create more mirror images
+{x  than allowed, even if you log off and back on.  This rule was already in effect
+{x  if you were logged in and tried to create more, but players were able to bypass
+{x  this mirror count check by simply logging off and back on, allowing for the
+{x  possibility to plague the MUD with numerous mirror images.
+{x
+* BUG FIX - Marble bench in Kalaman can now be rested on, as opposed to just sat
+{x  and slept on.
+{x
+* A few help files, like HELP REPORT, have been fixed to reflect current and updated
+{x  information.  There may be more that require these updates, so please continue
+{x  to report them where needed.  Also added a few that were missing, like feeblemind.
+{x
+* Fixed CREATE ROSE so that the rose will not load into one's inventory if they
+{x  are already holding the MAX items they're allowed to hold.  Now, the rose
+{x  will appear on the ground if your maxed out, but will still create into
+{x  your inventory if you are not maxed out yet.  If anyone finds any spells or
+{x  skills that do something similar, where you find yourself at your maximum
+{x  allowable items you can hold but a skill or spell allows you to add in
+{x  more items (making you go over your max), please let me know.
+{x
+* EVERSHARP and SHARPEN skills are now properly restricted to only allow you
+{x  to sharpen bladed weapons.  Without the restriction, people were able to
+{x  sharpen a weapon of any type.  RUNEBLADE has been left alone, albeit the
+{x  fact that the word "blade" within the name of the skill can sometimes
+{x  provoke the notion that it would only work on bladed weapons, when it
+{x  actually is applicable to all weapon types.
+{x
+* The ENLIGHTEN spell has been fixed so that it can no longer be stacked on
+{x  those you cast it upon.
+{x
+* BACKSTAB has been fixed so that it will properly remove the SNEAK affect
+{x  after you backstab a victim. (you aren't really sneaky at that point).
+* NOT a change, but a reminder for those who submitted a BUG about certain
+{x  stores not being set with the SAFE ROOM flag.  They aren't always suppose
+{x  to be.  So be careful, they will fight back... and chances are you'll lose.
+{x
+* Fixed the Immortal command RWHERE so that the code will accept a room that
+{x  is using the area's max VNUM range number as an argument in the array.
+{x  An example was room 4800 when using RWHERE to find rooms with a name
+{x  that matched the title used in room 4800.
+{x
+* Fixed money changers so that they will no longer allow you to give money to
+{x  them to exchange.  While disguised, people were losing their money if they
+{x  tried to exchange anything.
+{x
+* BOUNTY has been altered for Immortals.  Immortals may remove bounties from the
+{x  list at no cost.. basically the HEAD (proof) and MONEY checks are bypassed
+{x  for Immortals.
+{x
+* Changed some of the QUEST commands so they can be used, even if sleeping, as
+{x  this came in as a request that one should be able to see quest time/info/etc
+{x  even if sleeping.
+{x
+* Fixed the Sandstorm in the Plains of Dust so that the trasnfer it does will
+{x  transfer everyone in the room, rather than just the player who entered the
+{x  room.  With it transfering just the player, a player would both lose their
+{x  mount, and still be "mounted" despite the pet not being there.
+{x
+*  Not a fix, but something that should be noted about the Word of Death spell.
+{x  Yes, it is intentional that a timer is put in place, whether successful or
+{x  not, to help avoid Necromancers from spamming a very powerful spell AND
+{x  to help limit spell abuse where a Necromancer could cast word of death, gate
+{x  or shadow walk out to avoid PK, then back in to immediately re-cast.
+{x
+* BERSERK skill fixed to work as it should, where anyone who's playing a
+{x  warrior class and is any of the dwarven races, they will not be charged
+{x  movement and mana for using the skill.
+ 
+ 
+**** I know most of these are more fixes/updates/changes than actual new
+     content, but rest assured, new content will be added here soon.  It's
+     always better quality over quantity, and fixing what is in first, always
+     takes top priority.
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Wed Jun 10 20:34:13 2009~
+Stamp   1244687653
+To      all~
+Subject New changes - June 10th, 2009~
+Text
+New changes folks... enjoy
+ 
+* Fixed the issue where some MOBs, when hitting or missing, would
+{x  sometimes not show the NOUN, which inserted a BLANK, making it
+{x  look like they didn't have a DAM TYPE set.  The issue was actually
+{x  with the TAIL skill (Mobs and Draconians PCs only).. was missing
+{x  the action noun.
+{x
+* Fixed MOBs from wandering off in the middle of a fight.  If anyone
+{x  continues to see it happen, please let me know so I can look back
+{x  into it and see if there's something else going on I haven't accounted
+{x  for yet.
+{x
+* Modified the command VISIBLE; removed the "Ok" message and replaced the
+{x  messages with custom ones, depending on what sort of invis/hide your
+{x  affected by.
+{x
+* New SKILL for Druids called: WINDTALK   -  This was added at the request
+{x  of a submitted spell idea for Druids, but do to the nature of what was
+{x  needed to make work, it is technically classified as a skill, but works
+{x  like a spell in that it requires mana and burns up mana to use it (30 mana).
+{x
+* New SKILL for Bards called: DANCING STRIKE  -  Added at the request of a
+{x  submitted skill on the forums, slightly altered in both the name and the
+{x  mechanics/effects from what was in the idea.
+{x
+* Added a little bit more of a lag on the skill LUNGE, as was proposed on the
+{x  forums since it had virtually little to no lag already, allowing for
+{x  potential over-powered combinations of lunge/flee.
+{x
+* New SKILL for Rangers called: POINT-BLANK SHOT.  This skill utilizes the Bow
+{x  skill which means using it is automatic when using the FIRE command to fire
+{x  arrows at a victim.  However, while the normal firing of arrows will still
+{x  be taken into account when in the REAR position, the point-blank shot will
+{x  be used when in the MIDDLE position, so this skill allows you to fire at a
+{x  closer range.  As well, damage has been slightly increased for point-blank
+{x  shots.
+{x
+* New skill for Druids called:  WILDERNESS LORE.  This skill allows a druid to
+{x  determine what kind of terrain he/she is in and helps them know what kind of
+{x  herbs they can find in the respective area.
+{x
+* New spells for Battlemages called:  BATTLETIDE.
+{x
+* New Spells and 1 new Skill for Clerics called: BLACK CAIRN, BLESSED WARMTH,
+{x  and BLESSED WATCHFULNESS.
+{x
+* New spell for Druids called: BEASTSPITE
+{x
+* SPELLS and SKILLS: BATTLEFATE, BLOOD BOND, and BESTOW CURSE - These will be
+{x  implemented in at a later time.  Kind of struggling with how I want blood
+{x  bond to work, since the original idea will not work given our current
+{x  fighting system, without completely re-vamping all of the fighting code
+{x  just to accomodate this one new spell.  With that, I decided to hold off
+{x  on the other two because I hadn't gotten to them yet; was going to work
+{x  on those after I finished blood bond, but with getting stuck, decided
+{x  to port over these current changes, and implement the others at a later
+{x  time, the same time I'm satisfied and ready to port over blood bond.
+{x
+{x
+**** As always, please let me know if anyone discovers any issues with these
+{x     new spells and skills.  Also, I do not have all the help files created
+{x     for these yet, please be patient.
+{x
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Nov 21 07:43:24 2010~
+Stamp   1290350604
+To      all~
+Subject Backgrounds~
+Text
+There are going to be a bunch of changes coming down the road here, but there
+is one that I just added in that I wanted to shed some light on right away.
+ 
+There is a new Immortal command (backcheck) that will allow Immortals to view
+everyone's background.  This will be another instrumental tool Roleplay Imms
+will now have to really get a feel for how well a player's roleplay truely
+is.  Now, I do have plans to write code that will also allow mortals to be
+able to view other people's backgrounds as well, but haven't quite figured
+out all the details on how it will work.  I don't want a command that will
+allow any player to check anyone's background at a whim.  I'd like it to be
+something where it's a mutual agreement... that one must have introduced
+themselves to the other person, before that other person can see their
+background.  I just haven't come up with the best way to program it yet that
+won't eat away at memory.... like if I just appended to player files with
+a new section of players that one has introduced themselves to, pfile size
+could get out of control and create potential for corruption.  I will keep
+everyone updated as I progress on that.
+ 
+To get a feel for what I am working on, there is a new feature on the website
+called "Project Tracking".  Right now, I have Chemosh going through all of
+the idea spools (both forums and on here) and creating priorities on what
+should be worked on first.  Some of them may not make it, but most will. So
+if your interested on what I'm working on, you can check it out.  Once I'm
+finished with the set that he's put up, I will submit a follow-up report of
+my own, so he can then go ahead and get the next batch of ideas up.
+ 
+- Hiddukel
+~
+Sender  Hiddukel~
+Date    Sun Feb 27 10:18:54 2011~
+Stamp   1298827134
+To      all~
+Subject New changes - 27 Feb 2010~
+Text
+I didn't want to import the changes I already have over quite yet until I
+had a few more, but until I get this BUG on the development port figured
+out, I would have needed to put it off longer.  I wanted to at least provide
+some changes for some of you to enjoy, so here they are: 
+ 
+* For the Undead who no longer hunger but have to drink blood to quench
+their thirst; drinking blood and not having to eat still carries a penalty
+when compared to drinking water to quench one's thirst, but the quench
+variable has been changed from 2 to 5 per drinking action.  This should
+help alleviate some of the constant burden of having to drink so much.
+
+* Clerics gained a new level 70 skill called Relegate.  This skill will
+allow a Cleric to "push" someone into a dimensional rift, removing them
+from a temple and sending them to a random room somewhere within the
+same vicinity (area). This serves as both a good RP tool in regards to
+those who cause RP chaos in temple safe rooms, and also as an tool to
+help alleviate the problem of people who run around trying to PK, and
+then run off to safe room temples to avoid retribution.  This skill has
+no fail chance (other than the normal failure of working due to the
+percent of the skill learned not being at 100). However, Clerics MUST
+be devoted to a religion and MARKED by respective God in order to use
+this skill.  Likewise, Clerics can not use this skill on other fellow
+Clerics.  And this skill can ONLY be used in rooms marked as a temple
+(room flag is what is checked here, not room description... so some
+rooms that have a light description of being a "temple", may not truely
+be marked as a temple room, and therefor the skill won't work).
+- Skill idea came from Divine-Light on the forums.
+ 
+* Banish and Vortex have been fixed so that they won't transport people
+to rooms marked as being no_recall, immortal only, etc..
+
+* The GROUP command has been modified so that you can see your GROUP stats
+even while sleeping.
+
+* The pool in the Undead clan hall has been modified and now offers blood
+as a liquid, versus water.
+
+* New help file suggested by Silynt in regards to the Conclave Test has
+been added as she had posted. I've already deleted the post from the forum,
+so you'll have to read the help file to see what she had written.  Following
+up on Conclave matters, I registered a username on the old Conclave forums
+that Darkahn had created.  If any of those items would like to be added to
+the MUD help files, please post your ideas on our Forums.
+~

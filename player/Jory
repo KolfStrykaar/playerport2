@@ -1,0 +1,1586 @@
+#PLAYER
+Name Jory~
+Surname Stormcrow~
+MaskedIp ~
+Lokprot ~
+Email shroom22@hotmail.com~
+Id   1120771823
+LogO 1412403749
+Vers 10
+Act  CDEGHTe
+Desc {WA middle aged human male stands here before you.  Physically he is of
+average height but thin and gauntly.  Peircing grey eyes, that may have once
+been blue, peer out from beneath a deep hood, while silver {wstrands{W have
+started to slowly take over his long brown {yhair{W.  He has a noticeable
+vertical {rscar{W along the left side of his neck and a few smaller
+{rscars{W along his hands and wrists, snaking their way under the {Dcuffs{W
+of his robes.  The man wears soft velvet robes of grey with black {Dcuffs{W.
+Over this he also wears a thick woolen cloak of the deepest shade of grey
+and intricate silver {wrunes{W adorne the black wool {Dhem{W of the hood as
+well as the {Dcuffs{W of his robes.  The cloak is clasped together with a
+small pendant in the shape of the hydra.  Blood red {rspell pouches{W hang
+from his weaved belt and across his shoulder he carries a black {Dleather
+satchel{W.  He carries a sword at his side, a sword with a blackened
+{Dblade{W and engraved with unholy {rrunes{W.  The pommel of the sword is in
+the shape of a small dragon curled around a black {Drose{W.  He also carries
+a {Dstaff{W made of dark ebony.  The smooth shaft of the {Dstaff{W gives way
+to the carved visage of the five chromatic dragons culminating with a small
+red {Rcrystal ball{W clutched within the maw of a mighty dragon.  Finally
+upon his right hand he wears a {Ygolden ring{W with a simple signet upon it,
+a solitary crow flying against the oncoming storm.  {x 
+~
+Prom {r<{W%hhp %mm %vmv {R%Xtnl{r>{x%B ~
+Race human~
+Org 4
+Religion 16
+Sex  1
+Cla  11
+Hmtown 2
+Levl 100
+recall_point 2659
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 1953465
+Not  1411175767 1395959842 0 1149667938 1298827134
+Scro 22
+Room 10128
+HMV  2388 2388 2174 2232 864 864
+Steel 4652
+Gold 70
+Bank 62000
+Exp  16259300
+AfBy DJO
+Deaths 48
+FlagTot 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3014656
+Comm NO
+Pos  8
+Prac 9
+Save  -79
+Alig  -1000
+Ethos 1
+Hit   74
+Dam   74
+ACs -523 -527 -528 -532
+Attr 18 31 25 24 31 13
+AMod 13 7 5 23 5 5
+Pass Joc.2Z7m8PQsQ~
+Titl  the Corruptor of the Innocent~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 416
+HMVP 1498 1482 714
+Cnd  0 46 41 0
+QuestPnts 8
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt -=Insert Witty Line Here=-{D'~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 1 'burning hands'
+Sk 97 'chill touch'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 10 'detect good'
+Sk 75 'detect magic'
+Sk 1 'detect poison'
+Sk 99 'dispel magic'
+Sk 78 'energy drain'
+Sk 75 'orb of containment'
+Sk 1 'harm'
+Sk 100 'life transfer'
+Sk 7 'infravision'
+Sk 95 'invisibility'
+Sk 77 'know alignment'
+Sk 1 'magic missile'
+Sk 100 'aid'
+Sk 90 'plague'
+Sk 76 'poison'
+Sk 95 'protection good'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 78 'word of recall'
+Sk 97 'acid breath'
+Sk 100 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 75 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 76 'traject'
+Sk 70 'mount'
+Sk 100 'shadow walk'
+Sk 84 'animate corpse'
+Sk 82 'fear'
+Sk 82 'horrid wilting'
+Sk 100 'paralysis'
+Sk 84 'vampiric touch'
+Sk 100 'undead disruption'
+Sk 77 'nightmare'
+Sk 75 'cavorting bones'
+Sk 100 'enervation'
+Sk 84 'remove paralysis'
+Sk 100 'cantrip'
+Sk 93 'disintegrate'
+Sk 100 'wraithform'
+Sk 76 'word of death'
+Sk 2 'coldfire'
+Sk 79 'brew'
+Sk 100 'scribe'
+Sk 75 'battle tactics'
+Sk 95 'knock'
+Sk 87 'drain rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 91 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 95 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 100 'dark taint'
+Sk 70 'battlecry'
+Sk 96 'drain blood'
+Sk 100 'forget'
+Sk 76 'forgedeath'
+Sk 70 'backup'
+Sk 76 'preservation'
+Sk 76 'seal door'
+Sk 75 'unseal door'
+Sk 1 'jab'
+Sk 100 'detect presence'
+Sk 75 'preserve dead'
+Sk 78 'ray of fatigue'
+Sk 81 'surge'
+Sk 100 'endure'
+Sk 75 'boil blood'
+Sk 75 'great wasting'
+Sk 77 'coldlight'
+Sk 1 'resist cold'
+Sk 100 'deadeye'
+Sk 75 'renew bones'
+Sk 100 'breath of the dead'
+Sk 100 'intensify death'
+Sk 80 'deafness'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'trance'
+Sk 78 'staff'
+Sk 88 'unholyrite'
+Sk 76 'eyerub'
+Sk 100 'instruct'
+Sk 77 'endure disease'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Affc 'deadeye'   0  83  27   0   0        512
+Affc 'deadeye'   0  82  27   0   0          8
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name stormcrow ring~
+ShD  {DStormcrow{x signet ring~
+Desc A ring with the engraved image of a crow.~
+Cond 98
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 97
+Mat  wool~
+Wear 13
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear -1
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name clerical robes night~
+ShD  ({WRuned{X) {DClerical Robes{X of {bNight{X~
+Desc A velvet black robe stitched with white runes.~
+ExtF 262144
+Cond 94
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 97
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 96
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 98
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 99
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 16304
+Nest 0
+Name satchel~
+ShD  a {Dblack leather{x satchel~
+Desc A black leather satchel lies here.~
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5424
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5424
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5424
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5424
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5424
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10877
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Maerty's blood~
+Desc A jar of Maerty's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 15212
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a shepherd's blood~
+Desc A jar of a shepherd's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a large leopard's blood~
+Desc A jar of a large leopard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a gnome's blood~
+Desc A jar of a gnome's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 158
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10975
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 97
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 3369
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16206
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 17850
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 159
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15211
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9465
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9059
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2969
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Nest 1
+ExtF 2584
+Cond 99
+Wear -1
+Cost 0
+Val  1 11 11 3 81924
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1625
+Nest 0
+ExtF 17039435
+Cond 97
+Wear 7
+Cost 14500
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll drain rune~
+ShD  a scroll of drain rune~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 223 -1 -1 0
+Spell 1 'drain rune'
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3367
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 10661
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 12093
+Nest 0
+Cond 98
+Wear 20
+Cost 5100
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+ExtF 17041937
+Cond 83
+Wear -1
+Lev  51
+Cost 0
+Val  7 5 19 29 5
+End
+
+#O
+Vnum 2954
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2956
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2972
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2983
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2983
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2983
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 9868
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1951
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9830
+Nest 0
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 9826
+Nest 0
+ExtF 1313360
+Cond 100
+Wear -1
+Cost 12000
+Val  5 8 10 39 46
+End
+
+#O
+Vnum 9826
+Nest 0
+ExtF 1313360
+Cond 100
+Wear -1
+Cost 12000
+Val  5 8 10 39 46
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 9869
+Nest 0
+Cond 99
+Wear -1
+Cost 150000
+End
+
+#O
+Vnum 9405
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+Cond 93
+Wear -1
+Cost 0
+Val  2 9 12 1 74
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#PET
+Vnum 23
+Name zombie~
+LogO 1412403749
+Sex  1
+Levl 101
+HMV  8889 8889 631 631 100 100
+Act  ABIO
+AfBy SY
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -531 -531 -531 -215
+Attr 36 36 36 36 36 36
+AMod 0 0 0 0 0 0
+End
+#END

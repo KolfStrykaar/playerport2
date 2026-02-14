@@ -1,0 +1,1840 @@
+#PLAYER
+Name Cyrus~
+Surname DelRivian~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1210863463
+LogO 1413679282
+Vers 10
+Act  DGHQT
+Desc Standing here before you is a tall and well-built half-elven man of six
+
+paces in height and one-hundred and ninety stones in weight.  His long
+
+flowing black hair dangles about his oblong shaped head, while two pointed
+
+ears poke out on each side.  Bushy black eyebrows rest above a set of large
+
+emerald eyes while his medium sized nose looms over small pink chapped lips.
+
+From what can be seen from beneath his robes he appears to be well-toned and
+
+muscular.  
+
+~
+Prom <{C%h-hp {R%m-m {Y%v-mv {B%X-tnl %B{x>   ~
+Race half-elf~
+Org 257
+Religion 1
+Sex  1
+Cla  9
+Hmtown 2
+Levl 101
+recall_point 10541
+Levscale 30
+Xptolev  1540150
+Sec  0
+Plyd 2715265
+Not  1409834400 1300414317 0 1389586850 1298827134
+Scro 22
+Room 1926
+HMV  2947 2947 986 986 890 890
+Steel 15038
+Gold 5117061
+Bank 93603095
+Exp  20943900
+AfBy JO
+Deaths 22
+FlagTot 1 6 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 2 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 3342336
+Comm NOQZ
+Pos  8
+Prac 5
+Save  -95
+Alig  -999
+Ethos 0
+Hit   84
+Dam   75
+ACs -415 -430 -420 -365
+Attr 21 22 26 24 24 16
+AMod 16 4 3 13 3 5
+Pass CyXuz8v9hbuK.~
+Titl  - {rMerchant{x of the {cBroken Scale{x~
+Pretit Tyrant{x~
+Pnts 8
+TSex 1
+LLev 477
+HMVP 2082 336 740
+Cnd  0 51 48 0
+QuestPnts 139
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {D<<<{W>>>{y~
+Sk 98 'detect hidden'
+Sk 83 'detect poison'
+Sk 86 'haste'
+Sk 80 'infravision'
+Sk 96 'axe'
+Sk 100 'dagger'
+Sk 75 'flail'
+Sk 89 'mace'
+Sk 75 'polearm'
+Sk 92 'shield block'
+Sk 94 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 78 'dirt kicking'
+Sk 83 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 70 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 96 'deathgrip'
+Sk 75 'demand'
+Sk 83 'circlestab'
+Sk 100 'dual wield'
+Sk 90 'mount'
+Sk 85 'battle tactics'
+Sk 75 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 72 'thieves cant'
+Sk 100 'peek'
+Sk 91 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 100 'strangle'
+Sk 78 'cutthroat'
+Sk 100 'assassinate'
+Sk 100 'tumble'
+Sk 78 'scout'
+Sk 91 'second backstab'
+Sk 100 'taunt'
+Sk 100 'eavesdrop'
+Sk 75 'staff'
+Sk 77 'eyerub'
+Sk 75 'tonguecut'
+Sk 100 'stalk'
+Sk 100 'instruct'
+End
+
+#O
+Vnum 12
+Nest 0
+Name head Egren~
+ShD  the head of Egren~
+Desc The severed head of Egren is lying here.~
+ExtF 33554560
+Cond 25
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name jeweled emerald bracelet~
+ShD  ({mJeweled{x) an {gemerald{x bracelet~
+Desc A valuable emerald bracelet catches your eye.~
+ExtF 262144
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 5617
+Nest 0
+Name cotton loose black pants~
+ShD  ({WCotton{x) a pair of loose {Dblack{x pants~
+Desc A pair of black cotton pants are neatly folded here before you.~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name chaotic flames abyss~
+ShD  ({rChaotic{x) {RFlames{x of the {DAbyss{x~
+Desc A set of shadows looms here upon the ground, flames appearing to burn along the outside edges.~
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  86
+Cost 860
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name boot~
+ShD  the {rHigh Warlord's{x {DBoots{x~
+Desc A set of thick black-leather boots rest here upon the ground.~
+Cond 97
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name robe cotton thick~
+ShD  ({mJeweled{x) the {cNight{Dslayer's{x Robe~
+Desc A large hooded black robe rests here before you, blood diamonds outlining its trim.~
+ExtF 262144
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name helm~
+ShD  the {rHigh Warlord's{x {DHelm{x~
+Desc A helm made of onyx sits here, giving off a demonic glow.~
+ExtF 0
+Cond 100
+Wear -1
+Cost 90000
+End
+
+#O
+Vnum 1673
+Nest 0
+Name pendant~
+ShD  ({rUnholy{x) a pendant of the {DDark Gods{x~
+Desc A demonic looking pendant lies here in the dirt.~
+ExtF 786440
+Cond 99
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Enchanted
+Nest 0
+Name symbol broken scale hiddukel betrayal corruption lies~
+ShD  ({rDark Aura{x) a {DSymbol{x of the {cBroken Scale{x~
+Desc A holy symbol of the Prince of Lies rests here before you, curruption seeming to pour from it and cling lightly to your pathetic soul.~
+ExtF 786440
+Cond 99
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+Affc 'reserved'   1 110  -1 -10  23          0
+Affc 'reserved'   1 110  -1  15  12          0
+Affc 'reserved'   1 110  -1  40  13          0
+Affc 'reserved'   1 110  -1   2   2          0
+Affc 'reserved'   1 110  -1   5  19          0
+Affc 'reserved'   1 110  -1   5  18          0
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name dragonlance~
+ShD  a dragonlance~
+Desc This is one of the legendary Silver DragonLances!~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   20
+Cond 92
+Mat  silver~
+Wear -1
+Lev  81
+Cost 810
+Val  8 8 14 34 262144
+Affc 'cultural artistry'   1 104  -1   0   0          0
+End
+
+#O
+Vnum 16306
+Nest 1
+Name bag seeds~
+ShD  a {yBag {Xof Seeds~
+Desc A small bag lies here, seeming full of seeds of various plants and trees.~
+Cond 97
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2079
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1607
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1859
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1544
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1344
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1565
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 62
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 73
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 89
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 88
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 68
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 76
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring signet house delrivian~
+ShD  ({yAncient{x) a signet ring of {DHouse {rDelRivian{x~
+Desc A silver sigent ring bearing the crest of House DelRivian lies here before you.~
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 448
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 1
+Name shirt black~
+ShD  a {Dblack{x shirt~
+Desc A plain black t-shirt lays here upon the ground.~
+ExtF 262144
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 14497
+Nest 1
+Cond 100
+Wear -1
+Cost 3043
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 14497
+Nest 1
+Cond 100
+Wear -1
+Cost 3349
+Spell 1 'levitate'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1868
+Nest 1
+ShD  the sliced off ear of Vilae~
+Desc The sliced off ear of Vilae lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1869
+Nest 1
+ShD  the sliced off nose of Vilae~
+Desc The sliced off nose of Vilae lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1017
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1209
+Nest 1
+Name make over coupon used~
+ShD  ({DUsed{x) a {cMake {YOver{x coupon~
+Desc This coupon is good for 11 more restrings. -Taky~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1870
+Nest 1
+ShD  the knocked-out tooth of Vilae~
+Desc The knocked-out tooth of Vilae lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2069
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2048
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1827
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1365
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1827
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2100
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1313
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1880
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1974
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1287
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1485
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1296
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1278
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1125
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1359
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1916
+Nest 0
+Name belt~
+ShD  the {rHigh Warlord's{x {DBelt{x~
+Desc A dark leather belt rests here upon the ground.~
+ExtF 17039616
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9592
+Nest 0
+Name tamed large falcon~
+ShD  ({rTamed{x) a {Dlarge {yfalcon{x~
+Desc A large falcon is perched here upon the ground.~
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 12
+Nest 0
+Name head Mikhal~
+ShD  the head of Mikhal~
+Desc The severed head of Mikhal is lying here.~
+ExtF 33554560
+Cond 25
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1231
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+ExtF 32
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 99
+Mat  leather~
+Wear -1
+Lev  86
+Cost 860
+Val  7 4 22 4 0
+Affc 'cultural artistry'   1  76  -1   0   0         32
+End
+
+#O
+Vnum 9471
+Nest 0
+Name grandmaster signet ring~
+ShD  a {rGrandmaster{x signet ring~
+Desc a ring designed to be stamped into wax, bearing the seal of the Grandmaster lies here.~
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Name blood soaked robes ebon hand~
+ShD  ({yTainted{x) {rBlood{x Soaked {WRobes{x of the {DEbon Hand{x~
+Desc Blood soaked robes lay here upon the ground before you, upon further inspection skeletal black hand prints seem to be placed all about the set of robes.~
+ExtF 17305792
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spaulders~
+ShD  the {cDeathdealer's{x {DSpaulders{x~
+Desc A set of spaulders lies here collecting dust.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear -1
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 1868
+Nest 1
+ShD  the sliced off ear of Vilae~
+Desc The sliced off ear of Vilae lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name stiletto~
+ShD  a stiletto~
+Desc A small, thin stiletto sits in the corner.~
+ExtF 1032
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 97
+Mat  steel~
+Wear -1
+Lev  60
+Cost 600
+Val  2 6 11 2 0
+Affc 'cultural artistry'   1  51  -1   0   0       1024
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14510
+Nest 1
+Name excerpt book krynn~
+ShD  ({yAged{X) ({DLong Lost{X) an excerpt from the Book of Krynn~
+Desc A long lost excerpt from the Book of Krynn lies here, it's meaning nearly impossible to understand.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1596
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1953
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 2048
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1554
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 14003
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'heal'
+Spell 2 'refresh'
+Spell 3 'frenzy'
+End
+
+#O
+Vnum 903
+Nest 1
+Cond 100
+Wear -1
+Cost 714
+Spell 1 'haste'
+End
+
+#O
+Vnum 9832
+Nest 1
+Name solamnic bull whip~
+ShD  ({yLeather{x) a {cSolamnic{x bullwhip~
+Desc A leather bullwhip made in a solamnic fashion rests here before you.~
+ExtF 264720
+Cond 100
+Wear -1
+Lev  51
+Cost 7920
+Val  7 5 19 29 69
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Darkahn's blood~
+Desc A jar of Darkahn's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Muira's blood~
+Desc A jar of Muira's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Arlanthis's blood~
+Desc A jar of Arlanthis's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Sera's blood~
+Desc A jar of Sera's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Celmarian's blood~
+Desc A jar of Celmarian's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Talana's blood~
+Desc A jar of Talana's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Kirala's blood~
+Desc A jar of Kirala's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 98 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Magnus's blood~
+Desc A jar of Magnus's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Bjorn's blood~
+Desc A jar of Bjorn's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Delacroix's blood~
+Desc A jar of Delacroix's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Nuantho's blood~
+Desc A jar of Nuantho's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Sinjin's blood~
+Desc A jar of Sinjin's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Arlanthis's blood~
+Desc A jar of Arlanthis's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 9471
+Nest 1
+Name ring akamatsu clan~
+ShD  ring of the {DAkamatsu{x clan~
+Desc A ring bearing the insignia of a wilted rose on it lies here.~
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name wicked steak knife~
+ShD  ({rSerrated{x) a {DWicked {WSteak{x Knife~
+Desc A wooden hilted steak knife rests here upon the ground before you.~
+ExtF 8391262
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 99
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  2 10 16 11 69
+Affc 'cultural artistry'   1 105  -1   4   1          0
+Affc 'enchant weapon'   1 105  -1   6  19          0
+Affc 'enchant weapon'   0 105  -1   6  18          0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Name vile aura power~
+ShD  ({rVile{x) an {DAura{x of {RPower{x~
+Desc A bright ball orange aura illuminates the ground near your feet.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Name star gold~
+ShD  a {ygold star{x~
+Desc You get a gold star!~
+Cond 100
+Wear -1
+Cost 395
+ExDe stormstone~ This stone is cool to the touch, but constantly flashes with what looks like bolts of lightning through dark clouds. The flashing will stop when the stone is gripped tightly, and become a static and brilliant light to be used in dark places.
+~
+ExDe stone~ This stone is cool to the touch, but constantly flashes with what looks like bolts of lightning through dark clouds. The flashing will stop when the stone is gripped tightly, and become a static and brilliant light to be used in dark places.
+~
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2563
+Nest 0
+Cond 100
+Wear -1
+Cost 278
+End
+
+#O
+Vnum 5700
+Nest 0
+Name iron skullcap~
+ShD  an iron skullcap~
+Desc A large and heavy-looking iron skullcap lies upside down.~
+ExtF2 2
+WeaF 268435473
+Ityp 9
+Wt   9
+Cond 100
+Mat  iron~
+Wear 6
+Lev  110
+Cost 1100
+Val  23 23 23 19 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 1627
+Nest 0
+Name curved dagger darkness~
+ShD  a {Dcurved{x dagger, 'The {DDarkness{x'~
+Desc A curved dagger resembling that of Draconian make lies here. Inscribed in it in their language is 'The Darkness'.~
+ExtF 17301769
+Cond 94
+Wear 24
+Cost 15500
+Val  2 10 13 33 77
+End
+
+#O
+Vnum 12093
+Enchanted
+Nest 0
+Name hiddukel's boot knife~
+ShD  ({rCeremonial{x) Hiddukel's {yBoot {WKnife{x~
+Desc A vile knife seeming to drip blood from it's tip rests here before you with these word's etched upon it's blade, discover someone's deepest desire and you will find the key to their soul.~
+ExtF 134217795
+Cond 100
+Wear 20
+Cost 5100
+Val  2 9 12 11 70
+Affc 'enchant weapon'   1 500  -1  16  19          0
+Affc 'enchant weapon'   0 500  -1  16  18          0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name tattered arm wraps~
+ShD  a set of {Wtattered{x arm wraps~
+Desc A pile of white silk lies here in a bundle.~
+ExtF 0
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  86
+Cost 860
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name gloves~
+ShD  the {rHigh Warlord's{x {DGloves{x~
+Desc A set of thick black-leather gloves rest here upon the ground.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 4948
+Nest 0
+Name jade encrusted dirk~
+ShD  a {mjade{X {Gencrusted{X dirk~
+Desc A very keen edged dirk with a jade encrusted hilt rests here before you.~
+ExtF 25690255
+Cond 99
+Wear -1
+Lev  70
+Cost 19924
+Val  2 10 15 2 213
+End
+
+#O
+Vnum 10540
+Nest 0
+Cond 100
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 103
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 110
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 73
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 81
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 98
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 101
+End
+
+#END

@@ -1,0 +1,988 @@
+#PLAYER
+Name Veria~
+Surname EsEthak~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1381696182
+LogO 1420195745
+Vers 10
+Act  CDGQTe
+Desc Before you stands female minotaur.  Her fur is a dark black and singed in
+a few places.  Around her neck she wears a necklace of shark teeth.  She is
+clad in nothing but a leather kilt and a large leather apron to protect her
+from her craft.  Around her waist, attached by leather chord to her kilt, is
+a large bag made of sharkskin.  In one hand she carries a forge hammer made
+of the deepest ebony.  
+~
+Prom %h %m %v %X    %g steel %s gold ~
+Race minotaur~
+Sex  2
+Cla  15
+Hmtown 0
+Levl 50
+recall_point 3001
+Levscale 30
+Xptolev  42960
+Sec  0
+Plyd 298694
+Not  1420195738 1395959842 0 1420195742 1381716233
+Scro 22
+Room 5796
+HMV  704 704 669 669 396 396
+Steel 5348
+Gold 5189
+Bank 13000
+Exp  620790
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1376256
+Comm NOQ
+Pos  8
+Prac 57
+Trai 4
+Save  -12
+Alig  -738
+Ethos 2
+Hit   2
+Dam   4
+ACs 17 3 10 81
+Attr 19 12 23 25 15 10
+AMod 7 3 11 6 6 0
+Pass VeZKZP0UWSmqA~
+Titl  the Apprentice Artisan~
+Pretit ~
+Pnts 15
+TSex 2
+LLev 80
+HMVP 654 669 396
+Cnd  0 21 6 100
+QuestPnts 272
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 005 003 004 004
+Colourd     012 007 002 007 002
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'bash'
+Sk 1 'hand to hand'
+Sk 1 'sharpen'
+Sk 100 'mount'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 32 'fast healing'
+Sk 100 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'lore'
+Sk 50 'recall'
+Sk 100 'mend'
+Sk 75 'repair shield'
+Sk 100 'leather repair'
+Sk 75 'plate repair'
+Sk 75 'chain repair'
+Sk 100 'weapon repair'
+Sk 95 'deathblade'
+Sk 51 'flameblade'
+Sk 92 'runeblade'
+Sk 100 'fast working'
+Sk 98 'stainless'
+Sk 96 'eversharp'
+Sk 75 'purifying fire'
+Sk 100 'fletching'
+Sk 100 'smith'
+Sk 83 'create furnace'
+Sk 100 'create barrel'
+Sk 82 'create grinder'
+Sk 100 'create anvil'
+Sk 77 'masterwork'
+Sk 100 'create flame'
+Sk 11 'thors hammer'
+Sk 100 'dismantle'
+Sk 32 'eyerub'
+Sk 76 'cultural artistry'
+Sk 100 'instruct'
+Sk 100 'key origin'
+End
+
+#O
+Vnum 5710
+Nest 0
+Cond 100
+Wear 20
+Cost 400
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 16186
+Nest 0
+Cond 100
+Wear 12
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear 0
+Cost 10
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  25
+Cost 250
+Val  6 6 6 2 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  25
+Cost 250
+Val  6 6 6 2 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name mask~
+ShD  a wooden mask~
+Desc An exquisite wooden mask sits on the floor.~
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   4
+Cond 100
+Mat  wood~
+Wear 7
+Lev  30
+Cost 300
+Val  7 7 7 3 0
+Affc 'cultural artistry'   0 100  -1  -4  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  30
+Cost 300
+Val  7 7 7 3 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 9027
+Nest 0
+Cond 100
+Wear -1
+Cost 179
+End
+
+#O
+Vnum 5671
+Nest 1
+Cond 100
+Wear -1
+Cost 11000
+End
+
+#O
+Vnum 9006
+Nest 1
+Cond 100
+Wear -1
+Cost 1688
+Spell 1 'detect magic'
+Spell 2 'detect invis'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5700
+Nest 1
+Name rapier~
+ShD  a small rapier~
+Desc A small rapier lies covered in dust.~
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  silver~
+Wear -1
+Lev  10
+Cost 100
+Val  1 2 7 11 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name rapier~
+ShD  a small rapier~
+Desc A small rapier lies covered in dust.~
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  silver~
+Wear -1
+Lev  10
+Cost 100
+Val  1 2 7 11 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name rapier~
+ShD  a small rapier~
+Desc A small rapier lies covered in dust.~
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 100
+Mat  silver~
+Wear -1
+Lev  10
+Cost 100
+Val  1 2 7 11 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear 21
+Cost 100
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece steel raw material~
+ShD  a piece of steel material~
+Desc This piece of steel material looks good for raw materials.~
+Cond 100
+Mat  steel~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece brass raw material~
+ShD  a piece of brass material~
+Desc This piece of brass material looks good for raw materials.~
+Cond 100
+Mat  brass~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 290
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 15195
+Nest 1
+Name potion halloweeny bubbling magenta~
+ShD  a {YHa{yll{Dow{yee{Yny{x potion~
+Desc A bubbling potion lies here.~
+Cond 100
+Wear -1
+Lev  53
+Cost 168
+Val  26 92 -1 -1 -1
+Spell 1 'teleport'
+ExDe potion halloweeny~ This potion bubbles constantly. Could there be a treat inside? Or a trick?!
+~
+End
+
+#O
+Vnum 10967
+Nest 1
+Name fangs plastic bloodied~
+ShD  ({RBloodied{X) a pair of {Wplastic fangs{X~
+Desc A pair of plastic fangs lies here.~
+Cond 100
+Wear -1
+Cost 1275
+ExDe plastic fangs bloodied~ These plastic fangs have been painted with fake blood. That's no fun!
+~
+End
+
+#O
+Vnum 15195
+Nest 1
+Name potion halloweeny bubbling magenta~
+ShD  a {YHa{yll{Dow{yee{Yny{x potion~
+Desc A bubbling potion lies here.~
+Cond 100
+Wear -1
+Lev  53
+Cost 168
+Val  26 92 -1 -1 -1
+Spell 1 'teleport'
+ExDe potion halloweeny~ This potion bubbles constantly. Could there be a treat inside? Or a trick?!
+~
+End
+
+#O
+Vnum 17540
+Nest 1
+Name cookie ghost sugary~
+ShD  ({WSugary{X) a {Wghost-shaped{X cookie~
+Desc A sugar cookie in the shape of a ghost lies here.~
+Cond 100
+Wear -1
+Cost 18
+Spell 1 'haste'
+ExDe cookie sugar ghost~ A layer of white frosting covers this cookie that has been made in the shape of a spooky-looking ghost.
+~
+End
+
+#O
+Vnum 8792
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'plague'
+Spell 2 'paralysis'
+Spell 3 'poison'
+End
+
+#PET
+Vnum 9012
+Name elven ceremonial war steed~
+LogO 1420195745
+Desc A large warsteed stands here, its gaze looking about as it snorts in
+anticipation.  Its massive body is decorated with the ceremonial barding of
+the Qualinesti elves, each inscribed with intricate patterns of ivy and
+golden suns.  
+A neck tag says 'I belong to Veria'.
+~
+Sex  0
+HMV  796 796 302 302 100 100
+AfBy SZa
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  -120 -120 -120 -20
+Attr 25 20 21 23 23 21
+AMod 0 0 0 0 0 0
+End
+#END

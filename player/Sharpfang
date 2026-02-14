@@ -1,0 +1,1115 @@
+#PLAYER
+Name Sharpfang~
+Surname Nightwolf~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1311560073
+LogO 1422395249
+Vers 10
+Act  DEFGHQTe
+Desc Standing here roughly five foot is a man with pointy ears an very dark tan skin. His hair is {Wwhite{x and cut short on the sides with a strip of hair running from his forehead in a point to the base of his neck.  He wears a leather head band with a couple of feathers in it.
+You notice his eyes are are hazel an very kind looking. You can tell not only by his dark skin that he spends a lot of time in nature but also by the fact that he has very toned muscle.
+On his back is a bow, javelin, spear, sword and on his hip is a dagger and a axe. From the weapons you can see you would assume he is a warrior. 
+He wears frilly {gleather{x bracer's and shin guards and a {rmetal{x breast plate.
+~
+Prom <%hHp %mM %vMv %XNnl>%c<%gS %sG>%c<%b %B>%c~
+Race kagonesti~
+Org 8
+Devotee 11
+Sex  1
+Cla  3
+Hmtown 2
+Levl 78
+recall_point 2659
+Levscale 30
+Xptolev  147611
+Sec  0
+Plyd 807974
+Not  1420949255 1395959842 0 1394923999 1313068214
+Scro 98
+Room 4860
+HMV  2092 2092 494 494 587 587
+Steel 5598
+Gold 949512
+Bank 15398
+Exp  4428639
+AfBy Jc
+Deaths 15
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4128768
+Comm NO
+Pos  8
+Prac 55
+Trai 1
+Save  -24
+Alig  1000
+Ethos 0
+Hit   34
+Dam   21
+ACs -50 -38 -80 7
+Wimp  360
+Attr 20 20 20 25 22 16
+AMod 8 9 20 4 9 0
+Pass Sh41KwqrfBRWM~
+Titl  the Master of Copper~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 205
+HMVP 1897 284 587
+Cnd  0 63 63 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt GT {G<{gWarrior {Dof {gNature{G> {g~
+Alias ; ; {W<{DThe Master of the {gSPear{W> ~
+Sk 31 'frenzy'
+Sk 100 'axe'
+Sk 94 'dagger'
+Sk 24 'flail'
+Sk 100 'mace'
+Sk 41 'polearm'
+Sk 87 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 22 'bash'
+Sk 53 'berserk'
+Sk 18 'dirt kicking'
+Sk 18 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 81 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 56 'rescue'
+Sk 9 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 71 'fourth attack'
+Sk 75 'break weapon'
+Sk 89 'counter'
+Sk 100 'critical strike'
+Sk 1 'sharpen'
+Sk 87 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 96 'mount'
+Sk 90 'nerve pinch'
+Sk 93 'caltrops'
+Sk 96 'battle tactics'
+Sk 100 'wear chain'
+Sk 75 'wear leather'
+Sk 100 'wear plate'
+Sk 98 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 80 'bow'
+Sk 49 'bind wounds'
+Sk 1 'breakneck'
+Sk 100 'guard'
+Sk 82 'headbutt'
+Sk 82 'mounted combat'
+Sk 83 'impale'
+Sk 43 'cleave'
+Sk 67 'trammel'
+Sk 47 'flank attack'
+Sk 70 'quiet movement'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 70 'eagle eye'
+Sk 1 'heroic demise'
+Sk 76 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Affc 'bless'   0  74  11  10  18          0
+Affc 'bless'   0  69  11 -10  25          0
+Affc 'enlightenment'   6  66   5   3   4          0
+Affc 'regeneration'   0  78   8   0   0  268435456
+End
+
+#O
+Vnum 1252
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 28 0 0 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 94
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 91
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 97
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 88
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 3086
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'cure poison'
+Spell 2 'cure light'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 97
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 94
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 90
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3026
+Nest 1
+Cond 88
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 100
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 11998
+Enchanted
+Nest 1
+ExtF 17039427
+Cond 71
+Wear -1
+Lev  43
+Cost 0
+Val  3 4 10 11 65
+Affc 'enchant weapon'   1  73  -1   5  19          0
+Affc 'enchant weapon'   1  73  -1   5  18          0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name morningstar~
+ShD  a morningstar~
+Desc This huge, spiked morningstar looks menacing.~
+ExtF 65
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  onyx~
+Wear -1
+Lev  63
+Cost 620
+Val  4 4 16 7 66
+Affc 'enchant weapon'   1  77  -1   2  19          0
+Affc 'enchant weapon'   0  77  -1   2  18          0
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 94
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 91
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5600
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 1
+Name piece onyx raw material~
+ShD  a piece of onyx material~
+Desc This piece of onyx material looks good for raw materials.~
+Cond 100
+Mat  onyx~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4842
+Nest 1
+Cond 100
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+Val  100 10 0 1 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 96
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 2400
+Nest 0
+Cond 99
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 74
+Wear 20
+Cost 10000
+Val  3 10 10 28 66
+End
+
+#O
+Vnum 19009
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10502
+Nest 0
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 2036
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear 1
+Cost 2036
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 8840
+Nest 0
+Cond 100
+Wear 21
+Cost 260
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 4842
+Nest 0
+Cond 100
+Wear -1
+Cost 498
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 10619
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 1895
+Nest 0
+ExtF 262144
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear -1
+Cost 10250
+End
+
+#END

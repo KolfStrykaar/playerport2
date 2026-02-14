@@ -1,0 +1,662 @@
+#PLAYER
+Name Marthias~
+Surname Skelsule~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1381002674
+LogO 1398480070
+Vers 10
+Act  CDGQT
+Desc Figuratively applied to the situation, a hypnotized, crumbling,
+{yrancid{x, person bereft of consciousness, {yfetid{x but with some
+self-awareness, yet ambulant and able to respond to surrounding stimuli
+rots here. A mindless, shambling, {Ddecaying{x, abomination who lurks in
+the darkest {Dshadows{x of your nightmares, waiting silently for his
+{rravenous{x time to come.
+~
+Prom [{R%h{r/%H] {c[{C%m{c/%M] {g[{G%v{g] {y[%X]{x %b ~
+Race human~
+Org 266
+Religion 10
+Sex  1
+Cla  14
+Hmtown 0
+Levl 50
+recall_point 3001
+Levscale 30
+Xptolev  14171
+Sec  0
+Plyd 305585
+Not  1397922373 1395959842 0 1388507934 1385324977
+Scro 98
+Room 151
+HMV  1129 1129 1026 1026 400 400
+Steel 1836
+Gold 168
+Bank 39000
+Exp  477579
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1638400
+Comm NOQZ
+Pos  8
+Reward_timer 52
+Save  -4
+Alig  -800
+Ethos 2
+ACs -4 -13 -9 23
+Attr 17 27 19 13 19 13
+AMod 0 8 18 8 14 0
+Pass MakYYqePtrXc2~
+Titl  - {DSmoke{x of the {DBlack Wind{x~
+Pretit Nightmaster{x~
+Pnts 0
+TSex 1
+LLev 60
+HMVP 934 801 400
+Cnd  0 25 18 0
+QuestPnts 31
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell {D>>>{BNightfall{x on {WMercy{D>>>{D'~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 75 'blindness'
+Sk 85 'burning hands'
+Sk 1 'call lightning'
+Sk 76 'control weather'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 93 'create water'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 100 'incendiary cloud'
+Sk 100 'glitterdust'
+Sk 1 'orb of containment'
+Sk 96 'gate'
+Sk 1 'life transfer'
+Sk 85 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 1 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 100 'refresh'
+Sk 100 'summon'
+Sk 83 'teleport'
+Sk 75 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 90 'dagger'
+Sk 1 'whip'
+Sk 54 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 57 'parry'
+Sk 1 'second attack'
+Sk 1 'convoke swarm'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 94 'wind wall'
+Sk 100 'gust of wind'
+Sk 1 'unseen servant'
+Sk 100 'cantrip'
+Sk 70 'unholy armor'
+Sk 100 'iceblast'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 100 'knock'
+Sk 64 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 82 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 41 'detect presence'
+Sk 61 'mooncloak'
+Sk 1 'surge'
+Sk 76 'endure'
+Sk 84 'rabbit summon'
+Sk 4 'thunderclap'
+Sk 100 'trance'
+Sk 1 'alarm'
+Sk 1 'staff'
+Sk 70 'unholyrite'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 100 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+End
+
+#O
+Vnum 1249
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 97
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 99
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 96
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 98
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 3091
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 13 0 500 80
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({cCrumpled{X) a {Rripped {rMake Over{X coupon~
+Desc This coupon is good for 7 more restrings. -Zeb~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3016
+Nest 0
+Name garb ornamental sacred robe~
+ShD  ({rSacred{x) Ornamental {DGarb{x~
+Desc Here lies an ancient robe. This garb is filthy.~
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 14551
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5401
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name pail spooky trick treat~
+ShD  ({DSpooky{X) a {YTrick{y-or-{YTreat{X pail~
+Desc A pail lies here, full of spooky goodies!~
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+ExDe pail spooky trick treat~ This pail is complete with the silhouettes of spooky-looking trees full of spiderwebs painted around the sides.
+~
+End
+
+#O
+Vnum 1813
+Nest 0
+ShD  a jar of a small rabbit's blood~
+Desc A jar of a small rabbit's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 0
+ShD  a jar of a majestic buck's blood~
+Desc A jar of a majestic buck's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 75
+Val  300 4 0 0 0
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4856
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17713
+Nest 0
+Cond 99
+Wear 20
+Cost 550
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 93
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16308
+Nest 0
+Name eyeball eye manticore eerie~
+ShD  ({DCursed{x) ({CEerie{X) a {mManticore's{X Left Eye~
+Desc An eyeball that glows with a strange aura is squished here.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 5762
+Nest 0
+Name band ring flesh rancid~
+ShD  ({DRancid{X) a Cultist's Flesh Band of {rDisease{X~
+Desc A ring made of flesh rots in the mud.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Name ring seal pestilence hate sacred~
+ShD  ({CSacred{X) a Seal of {DPestilence{X and {rHate{X~
+Desc A ring lies in the dust. It emits a strong feeling of hate.~
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 19003
+Nest 0
+Name amulet cursed metal~
+ShD  ({CCursed{X) ({DSnickering{X) {WAmulet{x of Broken Dreams~
+Desc A cursed piece of metal lies in the dirt. It seems to be an amulet of sorts.~
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Name cowl hungering dark unholy~
+ShD  ({rUnholy{X) a {DCowl{X of the Hungering {mDark{X~
+Desc A piece of cloth has been discarded. This cowl gives off an unholy feel to it.~
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3078
+Nest 0
+Name face facial stubble rough~
+ShD  ({DRough{x) Black Facial {DStubble{X~
+Desc Ew, someone left their face on the ground.~
+Cond 100
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3707
+Nest 0
+Name leggings boneshard unholy terrorblade~
+ShD  ({rUnholy{x) Terrorblade {DBoneshard{X Leggings~
+Desc A pair of bone leggings has been discarded.~
+Cond 97
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 914
+Nest 0
+Name boots boneshard unholy~
+ShD  ({rUnholy{X) Terrorblade {DBoneshard{X Boots~
+Desc A pair of boots made of bone lie here.~
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3713
+Nest 0
+Name bracers rotten sacred conqueror~
+ShD  ({WSacred{X) {DConqueror's{X Rotten {mBracers{X~
+Desc A pair of sacred bracers are here.~
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Name flesh maggots rancid bugs~
+ShD  ({DRancid{X) Exposed {rFlesh{X of {mMaggots{X~
+Desc Someone left their bugs behind. They look to be wormlike. Maybe they are some kind of maggot.~
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 16194
+Nest 0
+Name waistguard belt boneshard unholy terrorblade~
+ShD  ({rUnholy{X) Terrorblade {DBoneshard{X Waistguard~
+Desc A belt made of bone lies here.~
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 3724
+Nest 0
+Name psyche cultist crazed insane~
+ShD  ({rInsane{X) Psyche of a {DCrazed Cultist{X~
+Desc The scrambled mind of a crazed cultist has managed to poke its way out of the dirt.~
+ExtF 18088001
+Cond 94
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 2
+Cost 15000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 1
+Cost 15000
+End
+
+#O
+Vnum 15212
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3202
+Nest 0
+Cond 100
+Wear 23
+Cost 5000
+End
+
+#O
+Vnum 1868
+Nest 0
+ShD  the sliced off ear of Reorx~
+Desc The sliced off ear of Reorx lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9572
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#END

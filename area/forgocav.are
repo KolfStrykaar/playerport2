@@ -1,0 +1,3119 @@
+#AREADATA
+Name Forgotten Caverns~
+Builders Sirrion~
+Continent None~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 19000 19149
+Credits Sirrion~
+Security 9
+End
+
+
+
+#MOBILES
+#19000
+no name~
+(no short description)~
+(no long description)
+~
+~
+kagonesti~
+A J 0 0
+100 100 150d33+1821 100d10+85 28d3+38 none
+-37 -37 -37 -16
+0 0 I 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#19001
+elven zombie~
+an elven zombie~
+A drooling elven zombie moans at you.
+~
+Elven features reach out of the zombies face, but they're distorted now
+for death has taken its toll on the once delicate elf.  Its mutilated body
+is not the only thing that's changed, you can see from the murkey white eyes
+of the undead creature, that it is thoughtless as well.  
+~
+elf~
+AGO DFHJZ -200 0
+75 75 113d25+1365 75d10+85 21d3+30 none
+-26 -26 -26 -10
+FI 0 B Z
+stand stand either 750
+AHMV ABCDEFGHIJK M unknown 0
+#19002
+skeletal skeleton bats~
+a group of skeletal bats~
+A group of skeletal bats hang here upsidedown.
+~
+These bats appear to be merely bone strung together by decaying flesh. 
+Their wing spans range from two to three foot across, and their fangs are
+viciously long and sharp.  Each bat glares at you with glowing red eyes.  
+~
+bat~
+ABFH DFTVZc 0 0
+100 100 150d33+1821 100d10+85 28d3+38 bite
+-37 -37 -37 -16
+FHKN BLQXZ CD HJOS
+stand stand none 4000
+AGV ACHJKPV S unknown 0
+F par DEF
+#19003
+flesh bone golem~
+a flesh golem~
+A flesh golem constructed of various bodies is here, dripping with blood.
+~
+A nine foot tall bulk of flesh and bone stands before you.  This undead
+creature has been created through the joining of various bodies.  Its flesh
+is decayed, falling in chunks to the ground and giving off a terrible smell.
+The golem's eyes sockets are empty, but it still turns to look at you.  
+~
+unique~
+A VZa -750 0
+95 95 143d31+1729 95d10+85 27d3+36 drain
+-35 -35 -35 -16
+ADE LQX 0 NO
+stand stand none 9500
+ABI ABCFIK L unknown 0
+#19004
+rock stone golem~
+a rock golem~
+A golem stands here, made purely of rock and stone.
+~
+This golem is made completely of rock and stone, no features adorn its
+face, only two large black pits for eyes.  It stands approximately twelve
+feet tall and must weight close to a thousand stone.  Its hands have no
+fingers, and are in fact simply boulders.  The golem moves slowly, but a
+single hit could be devastating.  
+~
+unique~
+AG Zad -450 0
+80 80 120d26+1457 80d10+85 22d3+31 crush
+-28 -28 -28 -12
+CD ELQX D C
+stand stand none 8000
+I ABCG L unknown 0
+#19005
+transparent phantom~
+a transparent phantom~
+A phantom floats here things seem to pass right through it.
+~
+Hovering two feet from the ground, a phantom floats before you.  It's
+hard to determine whether this phantom is a spirit of someone who once
+lived, or if perhaps it is merely a magical creation, created from the
+twisted mind of a mage gone mad.  The phantom howls, though the sound does
+not come from its ghostly white mouth, but rather from deep inside.  You can
+see right through the phantoms transparent form and your standard weapons
+will not harm it.  
+~
+unique~
+AGM DFTUZ -180 0
+74 74 111d24+1347 74d10+85 21d3+29 magic
+-25 -25 -25 -10
+FK BDLQXZ 0 CHJN
+stand stand none 740
+0 0 M unknown 0
+#19006
+frail skeleton~
+a frail skeleton~
+A frail looking skeleton stands before you, bones held together by some unknown power.
+~
+Before you, standing at about six feet tall, is a skeleton with no flesh
+showing on its bones.  The skeleton's eye sockets glow red, and its jaw
+moves slowly, perhaps even hungrily.  Looking to weigh only forty stones,
+the skeleton's strength obviously comes from an unnatural force.  
+~
+human~
+AG 0 0 0
+62 62 93d20+1129 62d10+85 17d3+25 chop
+-19 -19 -19 -6
+EKN ABC 0 D
+stand stand either 620
+AHIMV ABCGHIJKM M unknown 0
+F par DEF
+#19007
+necromancer minotaur~
+a minotaur necromancer~
+A minotaur casting necromancer spells stands before you.
+~
+A battle worn old minotaur towers above you, he is surrounded in a dark
+aura.  Dark beady eyes poke out from his weathered face, and two great horns
+with sharp tips adorn his head.  He chants softly beneath his breath,
+mumbling, or casting?  
+~
+minotaur~
+AB HVZac -1000 0
+130 130 195d43+3550 130d10+85 37d3+48 smash
+-56 -56 -56 -46
+CEFHK ABM EHI JK
+stand stand male 11000
+AHMV ABCDEFGJK L unknown 0
+F par HI
+#19083
+black dragon~
+a Black Dragon~
+An enormous Black Dragon towers above you.
+~
+Before you looms an enormous beast- a Black Dragon.  The dragons wing
+span covers the large cavern tunnel; it's maw is big enough to be home to a
+giant, and his claws could cut stone better then any dwarfs pick.  A huge
+tail swings about violently, it seems this ones not one to be played with.  
+~
+dragon~
+AB BHJTVZc -1000 0
+130 200 300d66+7281 200d10+85 57d3+71 tail
+-92 -92 -92 -62
+CFK ABFGLPT CEHQ 0
+stand stand male 50000
+AHZ ACDEFHJKPQUVX H unknown 0
+F res B
+F vul FI
+#0
+
+
+
+#OBJECTS
+#19000
+pool slime~
+a pool of slime~
+A pool of slime covered with bugs and beetles.~
+unknown~
+drink Y 0 0
+999 999 'slime mold juice' 1 0
+0 0 0 P
+#19001
+chute crevice~
+a dark chute~
+{}~
+unknown~
+portal CY 0 0
+0 0 A ABCDEGJLO 0
+0 0 0 P
+#19002
+dragon scale arm guard ~
+{Ddragon scale {xarm guards~
+A set of dragon scale arm guards lie here.~
+dragon skin~
+armor FTY 0 AIZ
+DE ABF DE CE 0
+115 2 8000 P
+A
+18 7
+A
+12 100
+A
+13 100
+#19003
+necklace bat fangs~
+a necklace of bat {Wfangs{x~
+A necklace of long sharp bat fangs lies here in the dust.~
+bone~
+jewelry 0 0 ACc
+0 0 0 0 0
+40 1 250 P
+A
+5 3
+A
+4 5
+A
+13 10
+#19004
+wooden club~
+a {ywooden{x club~
+A wooden club with a cracked handle lies here in the dirt.~
+wood~
+weapon M 0 AN
+mace 7 10 crush 0
+70 8 50 A
+#19005
+sharpened bone~
+a sharpened {Wbone{x~
+A bone sharpened to a tip lies here collecting slime.~
+bone~
+weapon J 0 AN
+dagger 3 28 bite 0
+80 2 200 P
+A
+19 3
+A
+18 3
+#19006
+long staff charred obsidian~
+a {rcharred {Dobsidian{x long staff~
+A long staff made of obsidian lies here on the ground.~
+obsidian~
+weapon CEJLMPUY 0 AN
+staff 12 13 beating CFP
+121 5 1200000 P
+A
+18 13
+A
+19 13
+A
+13 80
+#19007
+parchment skin~
+a parchment of {rskin{x~
+A parchment of skin lies here getting trod on.~
+unknown~
+scroll Ya 0 AO
+100 'nightmare' 'fear' 'reserved' 'reserved'
+100 0 100000 P
+#19008
+black robes~
+long {Dblack {xrobes~
+Robe with many hidden pockets lie here on the ground.~
+silk~
+container G 0 ADZ
+500 0 0 50 80
+75 3 10250 P
+A
+20 -10
+A
+24 -15
+A
+1 3
+#19009
+crystal rapier~
+a crystal rapier~
+A crystal rapier lies here glowing like polished glass.~
+crystal~
+weapon A 0 ANc
+sword 10 10 pierce BGH
+50 2 10000 P
+A
+18 8
+A
+19 8
+A
+4 3
+#19010
+immweapon~
+a immweapon~
+A immweapon is here~
+magic~
+weapon AGIKLY 0 ANc
+exotic 15 15 magic ABIOQS
+123 5 0 P
+A
+18 15
+A
+19 15
+#0
+
+
+
+#ROOMS
+#19000
+A Dark Entrance~
+A rotting tree sweeps down over an opening in the rock, broad enough to
+allow even an ogre's passage.  The tunnel beyond fades quickly into
+darkness, as though the steep cave walls have swallowed the outside light. 
+It feels eerily still.  What little life there is in these forsaken
+mountains would not dare brave the entrance.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19001
+D3
+~
+~
+0 0 4860
+S
+#19001
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19002
+D3
+~
+~
+0 0 19000
+S
+#19002
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 19001
+D5
+~
+~
+0 0 19003
+S
+#19003
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D4
+~
+~
+0 0 19002
+D5
+~
+~
+0 0 19004
+S
+#19004
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 19005
+D4
+~
+~
+0 0 19003
+D5
+~
+~
+0 0 19007
+S
+#19005
+Hidden Nook~
+You're just off to the side of the steep winding tunnel.  This side cave
+is a lot cleaner then the tunnel itself, and the walls are smooth and slime
+free.  Light manages to seep its way in through a long thin crack in the far
+wall of the nook.  
+~
+0 4195328 0
+D1
+~
+~
+0 0 19004
+S
+#19006
+~
+~
+0 4228100 0
+S
+#19007
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D4
+~
+~
+0 0 19004
+D5
+~
+~
+0 0 19008
+S
+#19008
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19009
+D4
+~
+~
+0 0 19007
+S
+#19009
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19008
+D3
+~
+~
+0 0 19010
+S
+#19010
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19009
+D2
+~
+~
+0 0 19011
+S
+#19011
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19010
+D5
+~
+~
+0 0 19012
+S
+#19012
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19013
+D4
+~
+~
+0 0 19011
+S
+#19013
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19014
+D3
+~
+~
+0 0 19012
+S
+#19014
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19013
+D3
+~
+~
+0 0 19015
+S
+#19015
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19014
+D5
+~
+~
+0 0 19016
+S
+#19016
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19017
+D4
+~
+~
+0 0 19015
+S
+#19017
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19018
+D3
+~
+~
+0 0 19016
+S
+#19018
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 19017
+D5
+~
+~
+0 0 19019
+S
+#19019
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19020
+D4
+~
+~
+0 0 19018
+S
+#19020
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19021
+D3
+~
+~
+0 0 19019
+S
+#19021
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19022
+D3
+~
+~
+0 0 19020
+S
+#19022
+A Winding Tunnel~
+The tunnel curves narrowly, carving its way through the dark rock against
+all logic.  Nothing natural could have carved the labyrinth caves.  The
+walls are crooked and angled, as though some unholy god must have delved
+into the mountain to create the oppresive, strange darkness.  
+~
+0 4194309 0
+D1
+~
+~
+0 0 19058
+D3
+~
+~
+0 0 19021
+S
+#19023
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19027
+D1
+~
+~
+0 0 19026
+D2
+~
+~
+0 0 19024
+D3
+~
+~
+0 0 19144
+S
+#19024
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19023
+D1
+~
+~
+0 0 19025
+S
+#19025
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19026
+D1
+~
+~
+0 0 19029
+D3
+~
+~
+0 0 19024
+S
+#19026
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19028
+D1
+~
+~
+0 0 19030
+D2
+~
+~
+0 0 19025
+D3
+~
+~
+0 0 19023
+S
+#19027
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D1
+~
+~
+0 0 19028
+D2
+~
+~
+0 0 19023
+S
+#19028
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D1
+~
+~
+0 0 19031
+D2
+~
+~
+0 0 19026
+D3
+~
+~
+0 0 19027
+S
+#19029
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19030
+D1
+~
+~
+0 0 19032
+D2
+~
+~
+0 0 19035
+D3
+~
+~
+0 0 19025
+S
+#19030
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19031
+D1
+~
+~
+0 0 19033
+D2
+~
+~
+0 0 19029
+D3
+~
+~
+0 0 19026
+S
+#19031
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo.  Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air.  The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19034
+D2
+~
+~
+0 0 19030
+D3
+~
+~
+0 0 19028
+S
+#19032
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19033
+D2
+~
+~
+0 0 19036
+D3
+~
+~
+0 0 19029
+S
+#19033
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19034
+D2
+~
+~
+0 0 19032
+D3
+~
+~
+0 0 19030
+S
+#19034
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D2
+~
+~
+0 0 19033
+D3
+~
+~
+0 0 19031
+S
+#19035
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 1 0
+D0
+~
+~
+0 0 19029
+D1
+~
+~
+0 0 19036
+D2
+~
+~
+0 0 19037
+S
+#19036
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo. Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air. The only hint of anything moving is
+the hint of cold presences just beyond the edge of perception, that tickling
+sense that something unnatural is watching from the depths of the cave. 
+~
+0 4194305 0
+D0
+~
+~
+0 0 19032
+D2
+~
+~
+0 0 19038
+D3
+~
+~
+0 0 19035
+S
+#19037
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo.  Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air.  Chute like cracks show along the walls
+here.  The only hint of anything moving is the hint of cold presences just
+beyond the edge of perception, that tickling sense that something unnatural
+is watching from the depths of the cave.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19035
+D1
+~
+~
+0 0 19038
+S
+#19038
+Lightless Cavern~
+The walls stretch outwards to vanish into the impenetrable darkness. 
+Despite the feeling of immense space, the air still feels oppresively close,
+any sound immediately falling back into the darkness without even the
+glimmer of an echo.  Worse yet is the smell, the scent of dead and dying
+things hovering in the unmoving air.  Chute like cracks show along the walls
+here.  The only hint of anything moving is the hint of cold presences just
+beyond the edge of perception, that tickling sense that something unnatural
+is watching from the depths of the cave.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19036
+D3
+~
+~
+0 0 19037
+S
+#19039
+Small Landing~
+Flat stone spreads out in all directions, but not very far, this small
+landing has been unnaturally formed for people without such nimble feet. 
+Charred walls line the tunnel heading south from here, the only other exit
+is upward, and the climb up the chute to the cavern above.  
+~
+0 4202497 0
+D2
+~
+~
+0 0 19040
+D4
+~
+~
+0 0 19038
+S
+#19040
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D0
+~
+~
+0 0 19039
+D2
+~
+~
+0 0 19042
+S
+#19041
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D1
+~
+~
+0 0 19083
+D3
+~
+~
+0 0 19044
+S
+#19042
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D0
+~
+~
+0 0 19040
+D4
+~
+~
+0 0 19043
+S
+#19043
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D0
+~
+~
+0 0 19044
+D5
+~
+~
+0 0 19042
+S
+#19044
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D1
+~
+~
+0 0 19041
+D2
+~
+~
+0 0 19043
+S
+#19045
+{}~
+~
+0 33796 0
+S
+#19046
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here.  The air feels close,
+undisturbed by anything's passage.  While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19047
+D2
+~
+~
+0 0 19075
+S
+#19047
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19048
+D2
+~
+~
+0 0 19046
+S
+#19048
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19049
+D2
+~
+~
+0 0 19047
+S
+#19049
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19050
+D2
+~
+~
+0 0 19048
+S
+#19050
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19051
+D3
+~
+~
+0 0 19049
+S
+#19051
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19052
+D3
+~
+~
+0 0 19050
+S
+#19052
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19053
+D3
+~
+~
+0 0 19051
+S
+#19053
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D2
+~
+~
+0 0 19054
+D3
+~
+~
+0 0 19052
+S
+#19054
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19053
+D2
+~
+~
+0 0 19055
+S
+#19055
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19054
+D2
+~
+~
+0 0 19056
+S
+#19056
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194309 0
+D0
+~
+~
+0 0 19055
+D1
+~
+~
+0 0 19057
+S
+#19057
+A Sloped Tunnel~
+It is unnaturally dark and oddly still in here. The air feels close,
+undisturbed by anything's passage. While there is a stale, dead scent
+hovering in the air, there is no moisture, no sound of trickling water down
+the dark rock walls that lean in, daring any who enter to continue onward.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19086
+D3
+~
+~
+0 0 19056
+S
+#19058
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19068
+D1
+~
+~
+0 0 19063
+D2
+~
+~
+0 0 19059
+D3
+~
+~
+0 0 19022
+S
+#19059
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19058
+D1
+~
+~
+0 0 19062
+D2
+~
+~
+0 0 19060
+S
+#19060
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19059
+D1
+~
+~
+0 0 19061
+S
+#19061
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19062
+D3
+~
+~
+0 0 19060
+S
+#19062
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19063
+D1
+~
+~
+0 0 19070
+D2
+~
+~
+0 0 19061
+D3
+~
+~
+0 0 19059
+S
+#19063
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19064
+D1
+~
+~
+0 0 19071
+D2
+~
+~
+0 0 19062
+D3
+~
+~
+0 0 19058
+S
+#19064
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19065
+D1
+~
+~
+0 0 19072
+D2
+~
+~
+0 0 19063
+D3
+~
+~
+0 0 19068
+S
+#19065
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19066
+D1
+~
+~
+0 0 19073
+D2
+~
+~
+0 0 19064
+D3
+~
+~
+0 0 19069
+S
+#19066
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19067
+D1
+~
+~
+0 0 19074
+D2
+~
+~
+0 0 19065
+S
+#19067
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19075
+D2
+~
+~
+0 0 19066
+S
+#19068
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19069
+D1
+~
+~
+0 0 19064
+D2
+~
+~
+0 0 19058
+S
+#19069
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D1
+~
+~
+0 0 19065
+D2
+~
+~
+0 0 19068
+S
+#19070
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19071
+D3
+~
+~
+0 0 19062
+S
+#19071
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19072
+D2
+~
+~
+0 0 19070
+D3
+~
+~
+0 0 19063
+S
+#19072
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19073
+D1
+~
+~
+0 0 19076
+D2
+~
+~
+0 0 19071
+D3
+~
+~
+0 0 19064
+S
+#19073
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19074
+D1
+~
+~
+0 0 19077
+D2
+~
+~
+0 0 19072
+D3
+~
+~
+0 0 19065
+S
+#19074
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19075
+D1
+~
+~
+0 0 19078
+D2
+~
+~
+0 0 19073
+D3
+~
+~
+0 0 19066
+S
+#19075
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19046
+D1
+~
+~
+0 0 19079
+D2
+~
+~
+0 0 19074
+D3
+~
+~
+0 0 19067
+S
+#19076
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19077
+D1
+~
+~
+0 0 19080
+D3
+~
+~
+0 0 19072
+S
+#19077
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19078
+D1
+~
+~
+0 0 19081
+D2
+~
+~
+0 0 19076
+D3
+~
+~
+0 0 19073
+S
+#19078
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19079
+D1
+~
+~
+0 0 19082
+D2
+~
+~
+0 0 19077
+D3
+~
+~
+0 0 19074
+S
+#19079
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D2
+~
+~
+0 0 19078
+D3
+~
+~
+0 0 19075
+S
+#19080
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19081
+D3
+~
+~
+0 0 19076
+D5
+~
+~
+0 0 19084
+S
+#19081
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D0
+~
+~
+0 0 19082
+D2
+~
+~
+0 0 19080
+D3
+~
+~
+0 0 19077
+S
+#19082
+Slimy Cavern~
+The crooked walls fall back into an underground grotto.  A thick, dank
+smell pervades the air, the source of which is a sticky, gelatenous slime
+trickling down the walls and sliding off of the rocks.  The slime pools on
+the uneven ground, making the passage here extremely treacherous.  One
+mis-step could spell disaster.  The heavy darkness doesn't make walking any
+easier, and the deathly smells make it difficult to breathe very deeply.
+~
+0 4194305 0
+D2
+~
+~
+0 0 19081
+D3
+~
+~
+0 0 19078
+S
+#19083
+A Charred Tunnel~
+This tunnel is thick with stale smoke, it stings your eyes, and makes
+things even harder to see in the complete darkness.  The walls of this
+tunnel are black with soot, and bones crunch beneath your boots.  
+~
+0 4202497 0
+D1
+~
+~
+0 0 19085
+D3
+~
+~
+0 0 19041
+S
+#19084
+Down a Crevice~
+You've slipped down a slimy crevice.  An abundance of slime has collected
+here, with large beatles and bugs covering most of its surface.  The walls
+are comprised mostly of jagged rock, sharp enough to cut through even the
+toughest orc skin.  The only way out of here is back up to the cavern.  
+~
+0 4202501 13
+D4
+~
+~
+0 0 19080
+S
+#19085
+Dead End~
+You've reached the a dead end in the tunnel, the stale smoke is even
+thicker head, for it has only one way to disperse.  The walls are thick with
+soot like the rest of the tunnel, and a large pile of bones is piled here,
+higher then all the rest.  
+~
+0 4203521 0
+D3
+~
+~
+0 0 19083
+M 300 H 300
+S
+#19086
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19087
+D3
+~
+~
+0 0 19057
+S
+#19087
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19088
+D2
+~
+~
+0 0 19086
+S
+#19088
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19092
+D2
+~
+~
+0 0 19089
+D3
+~
+~
+0 0 19087
+S
+#19089
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19088
+D2
+~
+~
+0 0 19090
+S
+#19090
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19089
+D3
+~
+~
+0 0 19091
+S
+#19091
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19090
+S
+#19092
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19093
+D2
+~
+~
+0 0 19088
+S
+#19093
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19094
+D3
+~
+~
+0 0 19092
+S
+#19094
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19093
+D1
+~
+~
+0 0 19095
+S
+#19095
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19098
+D2
+~
+~
+0 0 19096
+D3
+~
+~
+0 0 19094
+S
+#19096
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19095
+D3
+~
+~
+0 0 19097
+S
+#19097
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19096
+S
+#19098
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19099
+D2
+~
+~
+0 0 19095
+S
+#19099
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19104
+D2
+~
+~
+0 0 19098
+D3
+~
+~
+0 0 19100
+S
+#19100
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19099
+D3
+~
+~
+0 0 19101
+S
+#19101
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19100
+D3
+~
+~
+0 0 19102
+S
+#19102
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19101
+D2
+~
+~
+0 0 19103
+S
+#19103
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19102
+S
+#19104
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19105
+D3
+~
+~
+0 0 19099
+S
+#19105
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19104
+D2
+~
+~
+0 0 19106
+S
+#19106
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19105
+D1
+~
+~
+0 0 19107
+S
+#19107
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19108
+D3
+~
+~
+0 0 19106
+S
+#19108
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19109
+D1
+~
+~
+0 0 19110
+D2
+~
+~
+0 0 19107
+S
+#19109
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19108
+S
+#19110
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19115
+D2
+~
+~
+0 0 19111
+D3
+~
+~
+0 0 19108
+S
+#19111
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19110
+D2
+~
+~
+0 0 19112
+S
+#19112
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19111
+D3
+~
+~
+0 0 19113
+S
+#19113
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19112
+D3
+~
+~
+0 0 19114
+S
+#19114
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19113
+S
+#19115
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19116
+D1
+~
+~
+0 0 19121
+D2
+~
+~
+0 0 19110
+S
+#19116
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19115
+D3
+~
+~
+0 0 19117
+S
+#19117
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19116
+D3
+~
+~
+0 0 19118
+S
+#19118
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19117
+D3
+~
+~
+0 0 19119
+S
+#19119
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19118
+D4
+~
+~
+0 0 19120
+S
+#19120
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D4
+~
+~
+0 0 19145
+D5
+~
+~
+0 0 19119
+S
+#19121
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19115
+S
+#19122
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19123
+D3
+~
+~
+0 0 19121
+S
+#19123
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19124
+S
+#19124
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19123
+D2
+~
+~
+0 0 19125
+S
+#19125
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19124
+D1
+~
+~
+0 0 19126
+S
+#19126
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19127
+D3
+~
+~
+0 0 19125
+S
+#19127
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19126
+S
+#19128
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19129
+D3
+~
+~
+0 0 19127
+S
+#19129
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19130
+S
+#19130
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19131
+D1
+~
+~
+0 0 19129
+S
+#19131
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19132
+D1
+~
+~
+0 0 19138
+D2
+~
+~
+0 0 19130
+S
+#19132
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19135
+D2
+~
+~
+0 0 19131
+D3
+~
+~
+0 0 19133
+S
+#19133
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19132
+D3
+~
+~
+0 0 19134
+S
+#19134
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19133
+S
+#19135
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19136
+D1
+~
+~
+0 0 19137
+D3
+~
+~
+0 0 19132
+S
+#19136
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19135
+S
+#19137
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 19135
+S
+#19138
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19139
+D3
+~
+~
+0 0 19131
+S
+#19139
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D2
+~
+~
+0 0 19140
+D3
+~
+~
+0 0 19138
+S
+#19140
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19139
+D1
+~
+~
+0 0 19141
+D2
+~
+~
+0 0 19142
+S
+#19141
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D3
+~
+~
+0 0 19140
+S
+#19142
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D0
+~
+~
+0 0 19140
+D1
+~
+~
+0 0 19143
+S
+#19143
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194305 0
+D1
+~
+~
+0 0 19144
+D3
+~
+~
+0 0 19142
+S
+#19144
+Maze of Tunnels~
+Tunnels crisscross in all directions, most leading to dead ends.  Echos
+of footsteps and moans reverberate from each and every slime covered wall. 
+The tunnel is relatively narrow, the walls only the six feet apart, yet the
+darkness sits so thick about you that it is hard to see them.  
+~
+0 4194309 0
+D1
+~
+~
+0 0 19023
+D3
+~
+~
+0 0 19143
+S
+#19145
+Plateau Above the Maze ~
+From this vantage point, you can see the entire expanse of the maze
+stretch out for miles and miles.  You notice however, that the exit looks
+relatively eastwards.  The stone around you is slippery, so watch your
+footing...  It would be a painful fall.  
+~
+0 4194305 0
+D5
+~
+~
+0 0 19120
+S
+#0
+
+
+
+#SPECIALS
+M 19005 spec_ghost
+M 19007 spec_cast_undead
+M 19083 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 19006 7 19008 1
+E 0 19005 0 20
+M 0 19006 7 19015 1
+E 0 19005 0 20
+M 0 19006 7 19018 1
+E 0 19005 0 20
+M 0 19007 1 19023 1
+E 0 19006 0 20
+M 0 19003 3 19024 1
+M 0 19004 3 19027 1
+M 0 19004 3 19030 1
+M 0 19004 3 19032 1
+M 0 19003 3 19034 1
+G 0 19007 0
+M 0 19003 3 19035 1
+E 0 19008 0 16
+O 0 19001 0 19038
+M 0 19005 6 19049 1
+M 0 19006 7 19053 1
+E 0 19005 0 20
+M 0 19005 6 19055 1
+M 0 19001 6 19060 1
+E 0 19004 0 20
+M 0 19006 7 19061 1
+E 0 19005 0 20
+M 0 19001 6 19063 1
+E 0 19004 0 20
+M 0 19001 6 19065 1
+E 0 19004 0 20
+M 0 19005 6 19067 1
+M 0 19005 6 19068 1
+M 0 19005 6 19070 1
+E 0 19009 0 20
+M 0 19001 6 19072 1
+E 0 19004 0 20
+M 0 19006 7 19073 1
+E 0 19005 0 20
+M 0 19001 6 19075 1
+E 0 19004 0 20
+M 0 19005 6 19078 1
+M 0 19001 6 19081 1
+E 0 19004 0 20
+M 0 19083 1 19083 1
+G 0 19002 0
+O 0 19000 0 19084
+M 0 19006 7 19088 1
+E 0 19005 0 20
+M 0 19002 9 19089 1
+M 0 19002 9 19096 1
+M 0 19002 9 19103 1
+G 0 19003 0
+M 0 19002 9 19104 1
+M 0 19002 9 19110 1
+M 0 19002 9 19112 1
+M 0 19002 9 19123 1
+M 0 19002 9 19131 1
+M 0 19002 9 19136 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

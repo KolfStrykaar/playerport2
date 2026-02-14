@@ -1,0 +1,822 @@
+#PLAYER
+Name Lyssara~
+Surname Tamarin~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1389241550
+LogO 1397960743
+Vers 10
+Act  CDFGQTe
+Desc Before you stands an elven maiden with a light teal skin and bright
+coppery hair.  Her hair is shorn short, reaching just below her pointed
+ears, allowing her gills to easily be seen.  She is taller than land elves,
+standing at almost 8 feet tall.  She wears light leathers that range in blue
+shades, from a sky blue to a dark midnight blue.  She has a shield strapped
+to her left arm, bleached a bright white.  At her side she wears a mace made
+of red coral.  
+~
+Prom %h %m %v %X %b %B ~
+Race dargonesti~
+Devotee 6
+Sex  2
+Cla  1
+Hmtown 0
+Levl 20
+recall_point 3001
+Levscale 30
+Xptolev  3797
+Sec  0
+Plyd 102054
+Not  1390434707 1389509567 0 1389586850 1389509564
+Scro 22
+Room 1980
+HMV  506 506 338 338 216 216
+Steel 265
+Gold 11789
+Bank 0
+Exp  54603
+AfBy Jb
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2490368
+Comm NOQ
+Pos  8
+Prac 106
+Trai 3
+Save  -2
+Alig  555
+Ethos 0
+Hit   9
+Dam   8
+ACs -28 -40 -45 38
+Attr 11 15 16 13 15 16
+AMod 4 10 18 7 10 0
+Pass Lye8qGhk8Onv2~
+Titl  the Minister~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 26
+HMVP 386 338 216
+Cnd  0 38 38 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 005 003 004 004
+Colourd     012 007 002 007 002
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; gtell {B<----{WFollower of the Phoenix{B---->{m~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 7 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 1 'create spring'
+Sk 1 'cure blindness'
+Sk 30 'cure critical'
+Sk 1 'cure disease'
+Sk 100 'cure light'
+Sk 1 'cure poison'
+Sk 100 'cure serious'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 92 'dispel evil'
+Sk 4 'dispel good'
+Sk 1 'dispel magic'
+Sk 100 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 93 'flamestrike'
+Sk 75 'orb of containment'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 100 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 100 'protection evil'
+Sk 1 'ray of truth'
+Sk 100 'refresh'
+Sk 1 'remove curse'
+Sk 1 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 20 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dargonesti tongue'
+Sk 37 'meditation'
+Sk 100 'scrolls'
+Sk 1 'staves'
+Sk 33 'wands'
+Sk 50 'recall'
+Sk 1 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 1 'quench'
+Sk 1 'cure deafness'
+Sk 100 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 3016
+Enchanted
+Nest 0
+ExtF 16777281
+Cond 100
+Wear 16
+Lev  20
+Cost 0
+Affc 'reserved'   1  15  -1   1   4          0
+Affc 'reserved'   1  15  -1   1   3          0
+Affc 'enchant armor'   1 101  -1  -7  17          0
+End
+
+#O
+Vnum 16186
+Enchanted
+Nest 0
+ExtF 262209
+Cond 100
+Wear 12
+Lev  17
+Cost 850
+Affc 'reserved'   1  14  -1   2   1          0
+Affc 'enchant armor'   1 101  -1  -6  17          0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 11216
+Enchanted
+Nest 0
+ExtF 262209
+Cond 100
+Wear 5
+Lev  14
+Cost 0
+Affc 'reserved'   1  10  -1   1   4          0
+Affc 'reserved'   1  10  -1   1   3          0
+Affc 'enchant armor'   1 101  -1  -6  17          0
+End
+
+#O
+Vnum 3008
+Nest 0
+ExtF 64
+Cond 100
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 914
+Enchanted
+Nest 0
+ExtF 17039427
+Cond 100
+Wear 11
+Lev  20
+Cost 1500
+Affc 'reserved'   1  15  -1   3   2          0
+Affc 'enchant armor'   1 101  -1  -7  17          0
+End
+
+#O
+Vnum 16196
+Enchanted
+Nest 0
+ExtF 262209
+Cond 100
+Wear 4
+Lev  22
+Cost 850
+Affc 'reserved'   1  17  -1   3   4          0
+Affc 'enchant armor'   1 101  -1  -8  17          0
+End
+
+#O
+Vnum 1242
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 97
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 3029
+Nest 0
+Cond 90
+Wear -1
+Cost 77
+End
+
+#O
+Vnum 3062
+Nest 0
+Cond 90
+Wear 8
+Cost 136
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3028
+Nest 0
+Cond 90
+Wear -1
+Cost 580
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 28 0 0 0
+End
+
+#O
+Vnum 4853
+Enchanted
+Nest 0
+ExtF 262211
+Cond 97
+Wear 20
+Lev  34
+Cost 547
+Val  4 5 5 8 69
+Affc 'enchant weapon'   0 101  -1   6  18          0
+Affc 'enchant weapon'   1 101  -1   6  19          0
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 3036
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16364
+Nest 0
+Cond 100
+Wear 6
+Cost 1000
+End
+
+#O
+Vnum 3817
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16207
+Nest 1
+Cond 100
+Wear -1
+Cost 1700
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 10892
+Nest 1
+Cond 100
+Wear -1
+Cost 6575
+End
+
+#O
+Vnum 16230
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 10978
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3707
+Nest 1
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 10965
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 3007
+Nest 1
+ExtF 262152
+Cond 100
+Wear -1
+Cost 3800
+Val  7 7 7 4 0
+End
+
+#O
+Vnum 9586
+Enchanted
+Nest 1
+ExtF 262211
+Cond 96
+Wear -1
+Lev  17
+Cost 50
+Val  4 2 10 27 65
+Affc 'enchant weapon'   1 101  -1   8  18          0
+Affc 'enchant weapon'   1 101  -1   8  19          0
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 5700
+Nest 1
+Name mask~
+ShD  a wooden mask~
+Desc An exquisite wooden mask sits on the floor.~
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   4
+Cond 100
+Mat  wood~
+Wear -1
+Lev  20
+Cost 200
+Val  5 5 5 1 0
+Affc 'cultural artistry'   0  50  -1  15  13          0
+End
+
+#O
+Vnum 16184
+Enchanted
+Nest 1
+ExtF 262209
+Cond 100
+Wear -1
+Lev  18
+Cost 750
+Affc 'reserved'   1  12  -1   2   4          0
+Affc 'enchant armor'   1 101  -1  -8  17          0
+End
+
+#O
+Vnum 16196
+Enchanted
+Nest 1
+ExtF 262209
+Cond 100
+Wear -1
+Lev  20
+Cost 850
+Affc 'reserved'   1  17  -1   3   4          0
+Affc 'enchant armor'   1 101  -1  -5  17          0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 97
+Wear 3
+Cost 250
+End
+
+#END

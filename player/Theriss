@@ -1,0 +1,2277 @@
+#PLAYER
+Name Theriss~
+Surname DelRivian~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1267910507
+LogO 1412713976
+Vers 10
+Act  DGLQT
+Desc Here before you is that of a rather tall, yet slender male elf.  Short
+black hair is neatly cropped to his oval shaped head, while two pointed ears
+poke out on each side.  Sapphire eyes peer out into their surroundings from
+above a typical elven nose.  Clean white teeth can be seen from behind a
+wicked grin.  
+~
+Prom {w%h/%H -{Chp{x  %m/%M -{R m{x  %v -{G mv{x %B ~
+Race silvanesti~
+Org 10
+Devotee 17
+Sex  1
+Cla  14
+Hmtown 1
+Levl 101
+recall_point 10541
+Levscale 30
+Xptolev  1284650
+Sec  0
+Plyd 1635215
+Not  1381404491 1216210920 0 1305858525 0
+Scro 22
+Room 10541
+HMV  3169 3169 2060 2060 883 883
+Steel 11233
+Gold 164
+Bank 3490000
+Exp  17452200
+AfBy JO
+Deaths 22
+FlagTot 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 655360
+Comm NO
+Pos  8
+Prac 3
+Save  -85
+Alig  -1000
+Ethos 2
+Hit   58
+Dam   56
+ACs -349 -353 -354 -327
+Wimp  500
+Attr 15 25 20 15 19 16
+AMod 16 5 3 13 3 5
+Pass ThSBevoyz2e8k~
+Titl  - the {gEye{X of the {rSeething Storm{X~
+Pretit Arcanist{x~
+Pnts 10
+TSex 1
+LLev 322
+HMVP 2304 1385 733
+Cnd  0 10 48 0
+QuestPnts 7
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {R<{D<{R<{DHarbinger{x of {yWoe {D>{R>{D>{r~
+Sk 91 'acid blast'
+Sk 47 'armor'
+Sk 97 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'control weather'
+Sk 78 'create food'
+Sk 82 'create spring'
+Sk 12 'create water'
+Sk 3 'detect good'
+Sk 95 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 75 'dispel magic'
+Sk 1 'incendiary cloud'
+Sk 75 'glitterdust'
+Sk 1 'orb of containment'
+Sk 100 'gate'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 100 'invisibility'
+Sk 75 'know alignment'
+Sk 1 'storm of vengeance'
+Sk 80 'magic missile'
+Sk 99 'nexus'
+Sk 90 'aid'
+Sk 75 'dimensional door'
+Sk 75 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 1 'weaken'
+Sk 100 'word of recall'
+Sk 75 'fire breath'
+Sk 75 'frost breath'
+Sk 87 'gas breath'
+Sk 82 'lightning breath'
+Sk 100 'dagger'
+Sk 1 'whip'
+Sk 99 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 100 'parry'
+Sk 97 'second attack'
+Sk 100 'convoke swarm'
+Sk 3 'traject'
+Sk 100 'mount'
+Sk 1 'wind wall'
+Sk 99 'gust of wind'
+Sk 82 'unseen servant'
+Sk 1 'cantrip'
+Sk 70 'unholy armor'
+Sk 90 'iceblast'
+Sk 1 'brew'
+Sk 100 'scribe'
+Sk 87 'battle tactics'
+Sk 92 'knock'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 82 'closing weave'
+Sk 100 'jab'
+Sk 95 'detect presence'
+Sk 76 'mooncloak'
+Sk 1 'surge'
+Sk 91 'endure'
+Sk 80 'rabbit summon'
+Sk 75 'thunderclap'
+Sk 100 'trance'
+Sk 1 'alarm'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 83 'eyerub'
+Sk 100 'instruct'
+Sk 93 'lock'
+Sk 75 'mark of origin'
+Sk 1 'conjure food'
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 0
+ExtF 17039680
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 17039616
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 9498
+Nest 0
+Name black leather boots~
+ShD  a pair of {Dblack{x leather boots~
+Desc A pair of black leather boots sit on the ground here.~
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+ExtF 16777216
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+ExtF 16777216
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5700
+Nest 0
+Name satin black gloves~
+ShD  ({dSatin{x) a set of {Dblack{x gloves~
+Desc A set of black satin gloves lie here before you.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 100
+Mat  homespun~
+Wear 12
+Lev  86
+Cost 860
+Val  24 24 24 20 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  86
+Cost 860
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1  76  -1  -3  25          0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name signet ring house delrivian~
+ShD  {y(Relic){x a signet ring of {DHouse {RDelRivian{x~
+Desc A worn platinum signet ring, with a panther and a red dragon imprinted upon it lay before you. ~
+ExtF 17301600
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 19008
+Nest 0
+Name black robes conlcave~
+ShD  ({yTainted{x) {DBlack Robes{x of the {WConclave{x~
+Desc A set of velvet Black Robes belonging to one of the mages of the conclave lie here forgotten, a vile taint can be felt seeping from them.~
+ExtF 17308368
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16457
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({yUsed{x) a {DMake Over{x coupon~
+Desc A coupon good for 16 restrings.~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 164
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 164
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 164
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 196
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 196
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 196
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 5617
+Nest 0
+Name black silk pants~
+ShD  a pair of {Dblack{x silk pants~
+Desc A pair of black silk pants lay here neatly folded upon the ground.~
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3817
+Nest 0
+ExtF 16777345
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12
+Nest 0
+Name head Gwenniver~
+ShD  the head of Gwenniver~
+Desc The severed head of Gwenniver is lying here.~
+ExtF 33554560
+Cond 25
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16460
+Nest 0
+Cond 100
+Wear 14
+Cost 84
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1502
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1302
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion sanctuary potion cloak of starlight potion clear thoughts~
+ShD  a potion of sanctuary, cloak of starlight, clear thoughts~
+Cond 100
+Wear -1
+Lev  53
+Cost 158
+Val  26 85 258 444 -1
+Spell 1 'sanctuary'
+Spell 2 'cloak of starlight'
+Spell 3 'clear thoughts'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion cloak of evil potion shifting shadows potion dragon skin~
+ShD  a potion of cloak of evil, shifting shadows, dragon skin~
+Cond 100
+Wear -1
+Lev  53
+Cost 200
+Val  26 393 277 143 -1
+Spell 1 'cloak of evil'
+Spell 2 'shifting shadows'
+Spell 3 'dragon skin'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 100
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 100
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 19006
+Nest 0
+ExtF 17308308
+Cond 98
+Wear -1
+Cost 1200000
+Val  10 12 13 13 32869
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 15192
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  70
+Cost 164
+Val  35 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 1264
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 0
+Name shackles dark queen embrace~
+ShD  ({rDark Aura{x) {yShackles{x of the {DDark Queen's{x Embrace~
+Desc A set of vile broken shackles lies here, an aura of ultimate evil emanating from them.~
+ExtF 524320
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 16453
+Nest 0
+Name tattoo black moon~
+ShD  a tattoo of the {DBlack Moon{x~
+Desc A tattoo is here.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  67
+Cost 200
+Val  33 137 137 137 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

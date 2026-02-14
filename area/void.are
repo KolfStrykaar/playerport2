@@ -1,0 +1,522 @@
+#AREADATA
+Name The Void~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 1 25
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#1
+familiar~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 5d7+5 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#2
+banner~
+banner~
+Banner name banned until further notice
+~
+~
+human~
+ABG 0 0 0
+800 800 1601d266+-1791 800d10+85 266d3+405 none
+-532 -532 -532 -364
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#3
+palanthas warden~
+the Palanthas Warden~
+Palanthas' Warden stands here keeping watch over the prison's prisoners.
+~
+It is a Male Human; 5' 1", with a Strong build.  Bald and has
+White colored skin that is Flaky with Hazel eyes.  The appearance of Young
+and Unkempt 
+~
+human~
+ABI DFJW 0 0
+200 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 2 100~
+M DELAY 3 100~
+#4
+guard~
+a guard~
+A guard stands here.
+~
+Not much to look at.
+~
+human~
+AB 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 pound
+-3 -3 -3 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#5
+squire young man~
+a young squire~
+A young squire stands here, waiting for orders.
+~
+Before you stands a young man, a squire who serves his master loyally. 
+He awaits orders from his commander, standing at the position of attention. 
+Clad in a polished set of armor, a long sword strapped to the left side of
+his hip and a long dagger strapped to the right side, his appearance almost
+resembles that of a Solamnic Knight.  This young man's goals are far
+different however.  His duties are to serve and obey his master, in order to
+maintain balance between Good and Evil.  
+~
+human~
+AB NO 0 0
+1 1 2d2+10 1d10+85 1d2+5 none
+8 8 8 9
+N 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#6
+rabbit small~
+a small rabbit~
+A small rabbit hops around it's master here.
+~
+The rabbit appears to be cute and friendly, hopping around it's master. 
+Upon close examination, you can see some slight differences with this rabbit
+from others you've seen around the world.  This rabbit's has long, razor
+sharp claws on its feet.  Long, sharp teeth hang down over it's lips. 
+Lastly, this rabbit's eyes are glowing red, as if some evil force is behind
+this rabbit's existence.  
+~
+rabbit~
+AB S 0 0
+3 3 5d2+28 3d10+85 1d3+6 bite
+7 7 7 8
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJK S unknown 0
+#7
+alarm keeper~
+an alarm~
+An alarm keeper stands here.
+~
+I set off an alarm when someone walks into the same room as me.  Watch
+out now!  
+~
+doll~
+AB 0 0 0
+200 200 300d66+7281 200d10+85 57d3+71 chop
+-86 -86 -86 -44
+0 ABCDILMNPQR ES GHJKO
+stand stand none 0
+EJMc ABCGHK T unknown 0
+#9
+bear~
+a bear~
+A mean looking bear stands here.
+~
+~
+bear~
+ADI ad 0 0
+10 10 21d3+102 10d10+85 3d3+10 claw
+2 2 2 4
+DELO 0 EI 0
+stand stand male 0
+AGV ABCDEFHJKUV L unknown 0
+#15
+mirror~
+a mirror image~
+A mirror image stands here.
+~
+~
+human~
+A 0 0 0
+1 1 1d1+1 1d1+1 1d1+1 none
+8 8 8 8
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#21
+unseen servant~
+an unseen servant~
+An unseen servant hovers above the ground in the form of a {wwhite mist{x.
+~
+All you can make out clearly is a {wwhite mist{x that seems to fade into
+and out of existence.  
+~
+human~
+AB BU 0 0
+1 1 2d2+10 1d10+85 1d2+5 wrath
+8 8 8 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#22
+ethereal warrior~
+an ethereal warrior~
+An ethereal warrior stands here looking very dangerous.
+~
+Hovering before you is a translucent being from the ethereal planes.  It
+stands sternly, unwavering within a circle of power that must have been
+drawn by a relatively skilled sorcerer.  He glares at you, with eyes that
+seem to reveal you are not alone.  
+~
+human~
+AI S 0 0
+1 1 3d2+11 1d10+85 1d2+5 crush
+0 0 0 0
+0 0 Q S
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#23
+zombie~
+a hideous zombie~
+A hideous zombie is here, slaving away for its master.
+~
+Standing before you is a shambling zombie, its eyes possessing only a
+faint shadow of the life it possessed in its corruptible mortal state.  Now
+it serves its master faithfully in undying service.  
+~
+human~
+ABO Y -1000 0
+10 10 21d3+102 10d10+85 3d3+10 chomp
+2 2 2 4
+0 LMQ N K
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#24
+nightmare~
+a nightmare~
+A fearful looking nightmare stands tall before you.
+~
+Its nostrils flare at the odor emanating off your body. Its eyes stare
+wildly far ahead of itself.  The heavy fur coat and mane of this demonic
+creature make the moon of Nuitari look white in comparison.  
+~
+horse~
+ADI OYZ -1000 0
+10 10 21d3+102 10d10+85 3d3+10 bite
+2 2 2 4
+FHI 0 0 0
+stand stand male 0
+AGV ACDEFJKLQ L unknown 0
+#25
+skeleton warrior~
+a skeleton warrior~
+A skeleton warrior is here, prepared to serve its master in the unlife.
+~
+Standing before you is a horrific skeleton that has risen from the bowels
+of the earth to serve it's master in the unlife.  Cold and uncalculating, it
+is clear that this being is incapable of remorse or compassion.  
+~
+human~
+ABT V -1000 0
+10 10 21d3+102 10d10+85 3d3+10 slice
+2 2 2 4
+HN LMQ 0 K
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#1
+coin gold gcash~
+a gold coin~
+One miserable gold coin.~
+gold~
+money 0 0 A
+A 0 0 0 0
+0 0 0 P
+#2
+coin steel gcash~
+a steel coin~
+One valuable steel coin.~
+steel~
+money 0 0 A
+0 A 0 0 0
+0 0 0 P
+#3
+coins steel gcash~
+%d steel coins~
+A pile of steel coins.~
+steel~
+money 0 0 A
+0 0 0 0 0
+0 0 0 P
+#4
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 0 A
+0 0 0 0 0
+0 0 0 P
+#5
+coins gold steel gcash~
+%d gold coins and %d steel coins~
+A pile of coins.~
+steel~
+money 0 0 A
+0 0 0 0 0
+0 0 0 P
+#6
+bluelight blue light~
+a blue light~
+A {Bblue{x light hovers before you.~
+energy~
+light Ta 0 AQ
+0 0 AC 0 0
+0 0 0 P
+#7
+bouquet flowers~
+a bouquet of flowers~
+A beautiful bouquet of flowers lay upon the ground.~
+plant~
+trash 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#8
+scroll~
+a scroll~
+An unused scroll lies here.~
+paper~
+scroll 0 0 AO
+0 '' '' 'reserved' 'reserved'
+0 1 0 P
+#9
+flower yellow daisy~
+a {Yyellow daisy{x~
+A {Yyellow daisy{x lies here on the ground.~
+plant~
+trash 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+unknown~
+npc_corpse a 0 A
+0 0 0 A 0
+0 50 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+unknown~
+pc_corpse Oa 0 A
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+unknown~
+trash 0 0 A
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+unknown~
+food 0 0 A
+E E 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+unknown~
+food 0 0 A
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+unknown~
+food 0 0 A
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+unknown~
+food 0 0 A
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+unknown~
+food 0 0 A
+BD BD 0 0 0
+0 20 0 D
+#18
+mouthwatering food pear~
+a mouthwatering pear~
+A mouthwatering pear lies here on the ground.~
+wax~
+food 0 0 AO
+A 0 0 0 0
+1 1 0 P
+#19
+camp fire campfire~
+a campfire~
+A campfire {rburns{x here.~
+wood~
+furniture AT 0 P
+BD DHIJM ADGJ BD BD
+0 0 0 P
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+unknown~
+food 0 0 A
+B D 0 0 0
+1 1 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A 0 A
+0 0 CEFGHI 0 0
+0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+unknown~
+fountain G 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#23
+orb containment floating black~
+an orb of containment~
+A floating {Dblack{x orb hovers in the air.~
+energy~
+container GMPUYZ 0 AQ
+0 E 0 0 0
+1 0 0 P
+#24
+steak~
+a steak~
+A delicious steak lies here.~
+unknown~
+food 0 0 AO
+CE ABCD 0 0 0
+1 1 0 P
+#25
+shimmering black gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+energy~
+portal GOT 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of
+physical matter, surrounded by swirling glowing light, which fades into the
+relative darkness around you without any trace of edges or shadow.  There is
+a "No Tipping" notice pinned to the darkness.  
+~
+0 1032 1
+D4
+~
+~
+0 -1 3001
+S
+#3
+The Palanthas Dungeon~
+Four bare walls, no torches, no pretty tapestries and no means of any
+possible escapes.  The only thing here is a cold, hard stone floor.  Might
+as well sit and wait out your sentence.  
+~
+0 533517 1
+S
+#0
+
+
+
+#SPECIALS
+M 3 spec_patrolman
+S
+
+
+
+#RESETS
+M 0 3 1 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1
+~
+#2
+if act $n killer
+say Welcome to Prison!
+say You are a killer, hence you do the crime, you do the time!
+say You are to remain here for 25 hours.
+mob remember $n
+mob delay 25
+break
+endif
+~
+#3
+if hastarget $i
+say You are now free to go.  You have served your time.
+mob echoat $q The warden unlocks the cell door and kicks you out.
+mob pardon $q killer
+mob transfer $q 3005
+mob forget
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

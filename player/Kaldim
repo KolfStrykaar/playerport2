@@ -1,0 +1,1079 @@
+#PLAYER
+Name Kaldim~
+Surname Farrin~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1264528552
+LogO 1384406374
+Vers 10
+Act  CDGHQT
+Desc The man you see before you is of average build.  Standing about five and
+a half feet tall, with tan skin.  He has dark brown hair and bright green
+eyes, with sparkling white teeth.  He is dressed simply in leather armor and
+cotton clothes.  A dagger at his side and a backpack on his back.  
+~
+Prom <%hhp %mm %vmv %Xxp TNL %b %B> ~
+Race human~
+Org 4
+Devotee 16
+Sex  1
+Cla  9
+Hmtown 0
+Levl 86
+recall_point 3001
+Levscale 30
+Xptolev  15459
+Sec  0
+Plyd 581693
+Not  1373921252 1373921259 0 1373921261 1298827134
+Scro 22
+Room 3145
+HMV  2450 2450 518 518 664 664
+Steel 80774
+Gold 2718517
+Bank 0
+Exp  6448541
+AfBy DFV
+Deaths 3
+FlagTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1507328
+Comm NO
+Pos  8
+Prac 13
+Trai 4
+Reward_timer 87
+Save  -19
+Alig  -997
+Ethos 0
+Hit   55
+Dam   56
+ACs -176 -181 -174 -175
+Wimp  482
+Attr 15 13 19 16 25 13
+AMod 5 31 46 13 46 0
+Pass Ka3SWf3fX6kjM~
+Titl  - {DNight Warrior{x of the {BLily{x~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 144
+HMVP 2155 293 664
+Cnd  0 23 23 0
+QuestPnts 536
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {G~
+Alias ; gt~
+Sk 73 'detect hidden'
+Sk 1 'detect poison'
+Sk 81 'haste'
+Sk 1 'infravision'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 16 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dirt kicking'
+Sk 74 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 40 'envenom'
+Sk 94 'hand to hand'
+Sk 100 'kick'
+Sk 95 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'track'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'deathgrip'
+Sk 25 'demand'
+Sk 100 'circlestab'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'battle tactics'
+Sk 100 'wear leather'
+Sk 94 'fast healing'
+Sk 49 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 30 'peek'
+Sk 11 'pick lock'
+Sk 100 'sneak'
+Sk 50 'recall'
+Sk 70 'battlecry'
+Sk 100 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 70 'backup'
+Sk 100 'tumble'
+Sk 1 'scout'
+Sk 100 'second backstab'
+Sk 80 'taunt'
+Sk 76 'eavesdrop'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 75 'eyerub'
+Sk 100 'tonguecut'
+Sk 82 'stalk'
+Sk 100 'instruct'
+Affc 'haste'   0  76   5   4   2    2097152
+End
+
+#O
+Vnum 1262
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 97
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 94
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 9868
+Nest 0
+ExtF 0
+Cond 85
+Wear 6
+Cost 90000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 91
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 88
+Mat  brass~
+Wear -1
+Lev  71
+Cost 710
+Val  15 15 15 11 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 85
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16365
+Nest 0
+Cond 94
+Wear 11
+Cost 400
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag~
+ShD  bag made from Kaldim's hide~
+Desc A bag of fine Kaldim hide catches your eye.~
+ExtF 67125248
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  16
+Cost 2400
+Val  480 1 -1 100 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 88
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 97
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 88
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 3048
+Nest 0
+ExtF 262208
+Cond 91
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 2972
+Nest 0
+Cond 91
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5833
+Nest 0
+Name black tunic~
+ShD  a simple {DBlack{x Tunic~
+Desc A simple black tunic lies on the floor here.~
+ExtF 262144
+Cond 97
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear 14
+Cost 5200
+End
+
+#O
+Vnum 1868
+Nest 1
+ShD  the sliced off ear of a straw dummy~
+Desc The sliced off ear of a straw dummy lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3026
+Nest 1
+Cond 90
+Wear -1
+Cost 650
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 94
+Wear -1
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 150994952
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16457
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 1
+Cond 100
+Wear -1
+Cost 1263
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1854
+Nest 1
+Cond 97
+Wear -1
+Cost 75000
+End
+
+#O
+Vnum 10702
+Nest 1
+ExtF 17039681
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 1
+ExtF 17039681
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 16453
+Nest 1
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 51
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 150994952
+Cond 40
+Wear 20
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 12014
+Nest 0
+Cond 100
+Wear -1
+Cost 90
+Spell 1 'teleport'
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill detect invis~
+ShD  a pill of detect invis~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 35 0 0 0
+Spell 1 'detect invis'
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name @~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowlege floats here.~
+ExtF 1
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 10660
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 10660
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9866
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 5749
+Nest 0
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 9866
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear -1
+Cost 1170
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 150994952
+Cond 74
+Wear 24
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

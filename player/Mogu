@@ -1,0 +1,1520 @@
+#PLAYER
+Name Mogu~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1152415194
+LogO 1398782635
+Vers 10
+Act  CDGLQT
+Desc {DHere standing at six feet tall is a Lizard-like creature.  This creature
+is covered in bronze colored scales, some seeming to fade away to a
+dullish silver hue.  A head the shape of a lizards sits atop his neck, a
+narrow snout protruding from it.  The brow where hair would be on a normal
+human is replaced with scales, it shadows over a pair of amber hued,
+snake-like eyes.  Protruding from the top and bottom of his mouth are
+dozens of gray teeth, each looking to be almost an inch and a half long.
+{DComing out of the top of this creatures head are two horns, completely
+parallel of eachother.  The horns come out and swirl inward into a circle,
+looking much like the horns of a goat.  Towering almost two feet over the
+head of this creature are the tips of his thin, paper-like wings, the ends
+looking to be razor sharp.
+
+{DThis creature has disdained any type of armor.  It wears a simple set of
+black robes, a pendant with a five headed dragon worn atop the robes.  In
+his hands is held a long, plain bronze staff in one hand, and a large,
+black book in the other.{x
+~
+Prom <%hhp %mm %vmv %Xtnl>%b%B ~
+Race draconian~
+Org 4
+Religion 16
+Sex  1
+Cla  1
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 1737365
+Not  1347089907 1249275267 0 1228669644 1298827134
+Scro 22
+Room 17784
+HMV  3396 3396 1919 1919 854 854
+Steel 1856
+Gold 59407
+Bank 0
+Exp  16259300
+AfBy DFOc
+Deaths 8
+FlagTot 0 1 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 3735552
+Comm NOQ
+Pos  8
+Save  -68
+Alig  -1000
+Ethos 1
+Hit   76
+Dam   67
+ACs -622 -637 -623 -598
+Wimp  214
+Attr 28 13 16 23 19 10
+AMod 14 4 5 21 11 5
+Pass MoW2/gwaBSOQ6~
+Titl  - {DMaster{x of the {WSkull{x~
+Pretit Inquisitor{x~
+Pnts 10
+TSex 1
+LLev 116
+HMVP 2236 1194 704
+Cnd  0 57 57 0
+QuestPnts 11
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt {W|{BU{Wh{BO{Wh{BU{Wh{BO{Wh{B| {W~
+Alias say say~
+Alias say1 say~
+Alias c c~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'energy drain'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'orb of containment'
+Sk 100 'harm'
+Sk 100 'heal'
+Sk 100 'life transfer'
+Sk 33 'holy word'
+Sk 100 'know alignment'
+Sk 100 'mass healing'
+Sk 100 'aid'
+Sk 100 'plague'
+Sk 100 'protection evil'
+Sk 97 'ray of truth'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 100 'word of recall'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 99 'deathgrip'
+Sk 1 'demand'
+Sk 100 'glide'
+Sk 64 'silence'
+Sk 100 'traject'
+Sk 100 'mount'
+Sk 100 'remove paralysis'
+Sk 100 'undetectable align'
+Sk 100 'repulsion'
+Sk 100 'firestorm'
+Sk 1 'sunbeam'
+Sk 29 'spiritual hammer'
+Sk 100 'pillify'
+Sk 100 'enlightenment'
+Sk 97 'aura cleanse'
+Sk 1 'brew'
+Sk 7 'scribe'
+Sk 2 'battle tactics'
+Sk 1 'wear chain'
+Sk 12 'wear leather'
+Sk 93 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 34 'scrolls'
+Sk 1 'staves'
+Sk 100 'wands'
+Sk 50 'recall'
+Sk 70 'battlecry'
+Sk 70 'backup'
+Sk 100 'sate'
+Sk 100 'invigorate'
+Sk 100 'purify'
+Sk 4 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 100 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 32 'eyerub'
+Sk 100 'instruct'
+Sk 10 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 33 'black cairn'
+Sk 38 'blessed warmth'
+Sk 59 'blessed watchfulness'
+Sk 1 'relegate'
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 98
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2972
+Nest 1
+ExtF 262144
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  plant~
+Wear -1
+Lev  110
+Cost 1100
+Val  1 10 16 1 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 3818
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 12188
+Nest 1
+Cond 100
+Wear -1
+Cost 5280
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11199
+Nest 1
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5435
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12221
+Nest 1
+Cond 100
+Wear -1
+Cost 4830
+End
+
+#O
+Vnum 1673
+Nest 1
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 14550
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14551
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16102
+Nest 1
+ExtF 17563648
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 140 0 0 0
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16455
+Nest 1
+Cond 100
+Wear -1
+Cost 5250
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 5614
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1913
+Nest 1
+ExtF 16777283
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 1
+Cond 98
+Wear -1
+Cost 750000
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 1206
+Nest 1
+Name aurolite~
+ShD  Aurolite~
+Desc Emplazoned into the ground is a complicated rune of black magic. It swirls with the arcane and: staring into it, it almost seems to stare back into you.~
+ExtF 1074266144
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1211
+Nest 1
+ShD  ({CUsed{x) a {MQuest{x note~
+Desc Good for just one more restring.~
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 11967
+Nest 1
+Cond 100
+Wear -1
+Cost 5180
+End
+
+#O
+Vnum 9059
+Nest 1
+ExtF 16777217
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1976
+Nest 1
+Cond 99
+Wear -1
+Cost 100000
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 16777473
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Alesia's blood~
+Desc A jar of Alesia's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name staff garein~
+ShD  The {WStaff{x of {rGarein{x~
+Desc The staff, made of dark ironwood and vallenwood, is as high as the mage wielding it and smooth as the touch of the owner.  On the top, the wood parts to give place to a red ruby on the centre.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  ash~
+Wear -1
+Lev  102
+Cost 1020
+Val  10 10 16 27 65
+Affc 'enchant weapon'   1  95  -1   9  19          0
+Affc 'enchant weapon'   0  95  -1   9  18          0
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+Spell 1 'levitate'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 4639
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 1804
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+Spell 1 'heal'
+Spell 2 'pass door'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  48
+Cost 500
+Val  24 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 5424
+Nest 1
+Name ornate glass vial potion potion shrink~
+ShD  a potion of shrink~
+Cond 100
+Wear -1
+Lev  48
+Cost 500
+Val  24 441 -1 -1 -1
+Spell 1 'shrink'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1900
+Nest 1
+Cond 100
+Wear -1
+Cost 1439
+Spell 1 'invisibility'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 1899
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll mind shatter scroll convoke swarm~
+ShD  a scroll of mind shatter, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 61 137 -1 0
+Spell 1 'mind shatter'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll undead disruption scroll convoke swarm~
+ShD  a scroll of undead disruption, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 157 137 -1 0
+Spell 1 'undead disruption'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll glimpse unthinkable~
+ShD  a scroll of Glimpse the Unthinkable~
+Cond 100
+Wear -1
+Lev  70
+Cost 130
+Val  35 61 317 292 0
+Spell 1 'mind shatter'
+Spell 2 'sleepless curse'
+Spell 3 'looking glass'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 16457
+Nest 0
+Name ray lunitari beam~
+ShD  ({bCaptured{x) Rays of {RLunitari{x~
+Desc The faint red glow of Lunitari floats in mid air before you, its essence captured.~
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name skull ring signet~
+ShD  a signet ring of the {WSkull{x~
+Desc A ring lies here in the dust, a small symbol of the Skull branded upon it.~
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name hatred band~
+ShD  a band of {rHatred{x~
+Desc A dark glow of evil lies here, a feel of hatred blooming from it.~
+Cond 97
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name takhisis necklace symbol hatred~
+ShD  ({rHatred{x) a holy symbol of {DTakhisis{x~
+Desc A long silver necklace lies ehre, the symbol burned upon it is that of the Dark Queen, Takhisis.~
+ExtF 786440
+Cond 100
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name symbol five headed dragon takhisis~
+ShD  a symbol of the five-headed dragon~
+Desc A symbol of the five-headed dragon lies here, attached to a chain. Each of the dragon's heads correpondss to one of the chromatic dragons of Krynn.~
+ExtF 786440
+Cond 97
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 9868
+Enchanted
+Nest 0
+Name crown skull takhisis~
+ShD  Crown of the {WSkull{x~
+Desc A crown representing the Lord of the Skull lies here.~
+ExtF 8
+Cond 79
+Wear 6
+Cost 90000
+Val  23 23 21 19 0
+Affc 'reserved'   0  80  -1   0   0          8
+Affc 'reserved'   0  80  -1   0   0         32
+Affc 'reserved'   1  80  -1   2   4          0
+Affc 'reserved'   1  80  -1   2   5          0
+Affc 'reserved'   1  80  -1  -4  20          0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name gaze takhisis face~
+ShD  the gaze of {DTakhisis{x~
+Desc The fierce gaze of Takhisis is here. Radiating an aura of evil.~
+ExtF 262152
+Cond 97
+Wear 7
+Cost 14500
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 5617
+Enchanted
+Nest 0
+Name black pants~
+ShD  a pair of {Dblack{x pants~
+Desc A pair of plain black pants lies here.~
+Cond 97
+Wear 8
+Cost 0
+Affc 'reserved'   1  80  -1   1   5          0
+Affc 'reserved'   1  80  -1   3  19          0
+Affc 'reserved'   1  80  -1   5  18          0
+Affc 'reserved'   1  80  -1  -2  20          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name darkened spur~
+ShD  a {Ddarkened{x spur~
+Desc A dark black spur lies here in the dirt, waiting to be worn.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name darkened spur~
+ShD  a {Ddarkened{x spur~
+Desc A dark black spur lies here in the dirt, waiting to be worn.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name black leather boots~
+ShD  a pair of {Dblack{x leather boots~
+Desc A pair of worn, leather boots lies here in the dirt.~
+Cond 98
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3818
+Nest 0
+Name charred black gauntlets~
+ShD  a pair of charred {Dblack{x gauntlets~
+Desc A pair of black gauntlets meant to be worn by the High Priest to touch the most holy of artifacts lies here.~
+ExtF 262152
+Cond 94
+Wear 12
+Cost 1000
+Val  17 17 17 13 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name high priest stole~
+ShD  Stole of the {WHigh Priest{x~
+Desc A stole of the High Priest lies here, embroidered with the holy symbols of Takhisis.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name blessings takhisis~
+ShD  the {Wblessings{x of {DTakhisis{x~
+Desc Here lies the blessings of Takhisis, meant to shield those who worship her.~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5833
+Nest 0
+Name robes high priest silk~
+ShD  ({DSilk{x) Robes of the {WHigh Priest{x~
+Desc A set of silken robes lie here, crumpled on the ground. The edges lined with silver markings of the High Priest.~
+ExtF 17039424
+Cond 94
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name silk black robe~
+ShD  ({DSilk{x) {DBlack{x Robes~
+Desc A set of silk black robes lies here.~
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name sash hatred runed~
+ShD  ({DRuned{x) a Sash of {rHatred{x~
+Desc Here lying in the dirt is a sash, runed with the Holy Symbols of Takhisis.~
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name shackle hatred~
+ShD  a shackle of {rHatred{x~
+Desc A dark, broken shackle lies here.~
+ExtF 17039617
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracelet bone elven~
+ShD  a bracelet made of {Wbone{x~
+Desc A bracelet made of elven bones lies here.~
+ExtF 17039617
+Cond 94
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 0
+Name skull topped staff vallenwood wood~
+ShD  a {WSkull{x topped {ystaff{x~
+Desc A long, wooden staff made from the wood of a Vallen Wood tree lies here. A small skull of a kender sits atop the staff.~
+ExtF 134220371
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 79
+Mat  ash~
+Wear 20
+Lev  110
+Cost 1100
+Val  10 10 16 27 4
+Affc 'enchant weapon'   0 100  -1   9  18          0
+Affc 'enchant weapon'   1 100  -1   9  19          0
+End
+
+#O
+Vnum 9463
+Nest 0
+Name holy preachings hatred book~
+ShD  ({WHoly{x) The Preachings of {rHatred{x~
+Desc A black book lies here, a black crescent sits upon the cover.~
+Cond 94
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 19002
+Nest 0
+Name faded scales~
+ShD  faded scales~
+Desc Here, upon the arms of this creature are scales, faded from years of life.~
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll doppelganger~
+ShD  a scroll of doppelganger~
+Cond 100
+Wear -1
+Lev  50
+Cost 100
+Val  25 283 -1 -1 0
+Spell 1 'doppelganger'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll mind shatter scroll convoke swarm~
+ShD  a scroll of mind shatter, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 61 137 -1 0
+Spell 1 'mind shatter'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 5421
+Nest 0
+Name scroll parchment scroll mind shatter scroll convoke swarm~
+ShD  a scroll of mind shatter, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 61 137 -1 0
+Spell 1 'mind shatter'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll mind shatter scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of mind shatter, convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  70
+Cost 139
+Val  35 61 137 137 0
+Spell 1 'mind shatter'
+Spell 2 'convoke swarm'
+Spell 3 'convoke swarm'
+End
+
+#O
+Vnum 16456
+Nest 0
+Name dirk decapitation~
+ShD  ({mGem {x{WEncrusted{x) Dirk of {WDecapitation{x~
+Desc A very valuable looking blade seems to be forgotten, here. ~
+ExtF 150997520
+Cond 96
+Wear -1
+Cost 7400
+Val  2 9 12 1 12
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1398782635
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Mogu'.
+~
+Sex  1
+HMV  121 121 143 143 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

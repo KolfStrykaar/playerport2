@@ -1,0 +1,406 @@
+#AREADATA
+Name Undead Caves~
+Builders Chemosh~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 14000 14050
+Credits Chemosh~
+Security 9
+End
+
+
+
+#MOBILES
+#14000
+undead body conditioner healer form humanoid~
+An Undead Body Conditioner~
+You see the form of what might have been a humanoid at one point sitting here.
+~
+You see a form that resembles what might have been a human at one time. 
+Slowly, ever so slowly he looks up at you and rasps 
+"{gPleeeaase, let me help you!{x"
+ 
+Type '{YHeal{x' for a list of things he can help you with
+ 
+~
+human~
+ABa 0 -1000 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+0 0 0 0
+stand stand none 0
+AHIMV ABCDEFGHIJK M unknown 0
+#14001
+skeleton guard undead~
+{xA Skeleton Guard~
+A Skeleton Guard of the Undead, stands here keeping watch.
+~
+Standing here is the decaying remains of a human skeleton.  Rotting flesh
+barely cling to sparse places on his bones.  Two large hollow eye sockets
+glow an eerie yellow.  He appears to be alert and ready to attack any
+intruder who dares to challenge him.  In his right hand, he wields a fierce
+looking sword, with a miniature skull pommel to compliment his body.  He
+doesn't appear to be wearing any armor, except for a skull horned helmet.  
+~
+human~
+ABNO DFOV -1000 0
+88 88 132d29+1601 88d10+85 25d3+34 beating
+-32 -32 -32 -14
+EKU AB C 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 11
+#14002
+corpse solamnic~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#14007
+charron alchemist undead~
+Charron, the Undead Alchemist~
+Charron, the Undead Alchemist, stands here stirring a pot of fizzling red liquid.
+~
+The skeletal alchemist of the Undead Legion stands here, draped in a
+black silk robe trimmed in red embroidery.  His bony hand motions for you to
+come closer as he continues to stir his cauldron.  
+~
+human~
+AB H -1000 0
+200 200 300d66+7281 200d10+85 57d3+71 none
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#14000
+split bloody corpse pit creature~
+a {rbloody{x corpse~
+An open corpse of a large creature lies here holding treasure.~
+flesh~
+container 0 0 P
+9000 0 0 9000 0
+0 0 0 P
+#14001
+portal blood pool~
+a pool of {rblood{x~
+A large pool of {rblood{x gathers here, seeming to ripple of its own accord.~
+blood~
+portal O 0 0
+0 0 A BCDFGHIJL 0
+0 0 0 P
+#14002
+statue satyr water pool~
+a pool of stagnant blood~
+A statue of a satyr stands here, trickling blood into a pool.~
+bone~
+fountain O 0 0
+-1 -1 'blood' 0 0
+0 0 0 P
+#14003
+potion bloodlust~
+a Potion of {RBloodlust{x~
+A small flask of {Rblood{x lies here on the floor.~
+glass~
+potion AGS 0 A
+70 'heal' 'refresh' 'frenzy' 'reserved'
+70 1 1500 P
+#14004
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary lies here.~
+glass~
+potion GS 0 A
+50 'sanctuary' 'armor' 'reserved' 'reserved'
+70 0 1500 P
+#14005
+potion demon essence~
+a potion of {RDemon {DEssence{x~
+An engraved black jar containing a strange, fizzling red liquid lays here on the ground.~
+glass~
+potion AGS 0 A
+50 'intensify death' 'wraithform' '' 'unholy armor'
+70 1 3000 P
+#14007
+skeleton skeletal sword undead~
+{xSkeletal Sword of the Undead~
+A large charred sword with a skull pommel lies here.~
+steel~
+weapon AEJL 0 ANZ
+sword 9 16 slice CP
+95 6 850 P
+#14008
+skull helmet horned undead~
+{xHorned Skull Helmet of the Undead~
+A large horned skull helmet lies here on the ground, glowing an eerie green~
+bone~
+armor AEJLZ 0 AEc
+ACE BCE CE BE 0
+95 3 850 P
+A
+5 3
+#14009
+corpse solamnic knight~
+the corpse of a young Solamnic Knight~
+The corpse of a young Solamnic Knight lays here, lifeless.~
+flesh~
+npc_corpse 0 0 AP
+0 0 0 0 0
+122 0 0 P
+E
+corpse~
+A bloody, lifeless corpse is lying on the ground.  Most of the blood
+appears to have been drained, and the major organs harvested.  Strings of
+small intestine hang from the mangled body, they look like they have been
+recently chewed on, or partially eaten and then left.  The body is
+unidentifiable.  
+~
+#0
+
+
+
+#ROOMS
+#14000
+{DBefore a Large Hole{x~
+The cave opens up into a moderate size room.  In which is a hole.  You
+begin to climb down the hole realizing that this hole changed size to
+accommodate you.  You notice a strange smell you hadn't noticed before.  You
+know this smell but you can not quite place what it is.  
+~
+0 8 23
+D2
+~
+~
+0 0 14001
+D5
+~
+~
+0 0 14002
+S
+#14001
+{DInside a Cave{x~
+You are standing inside a small cave, it is hardly large enough for you
+to stand in, it goes off to the south.  Aside from it being extremely dark
+there is nothing strange about this cave.  
+~
+0 8 23
+D0
+~
+~
+0 0 14000
+D2
+~
+~
+0 0 4838
+S
+#14002
+{DTraveling Down the hole{x~
+As you climb down the hole you realize it is not made of rock anymore. 
+The wall has give to it.  It reeks of decay, pieces of it come off in your
+hands, and you begin to fall downwards.  
+~
+0 8 23
+D4
+~
+~
+0 0 14000
+D5
+~
+~
+0 0 14003
+S
+#14003
+{DFalling down the Hole{x~
+You are falling down a fleshy hole!  You reach out to break your fall... 
+Nothing happens...  It seems that you are falling more slowly...  Perhaps it
+is that the hole is growing more large as you descend into the unknown!  
+~
+0 8 23
+D4
+~
+~
+0 0 14002
+D5
+~
+~
+0 0 14004
+S
+#14004
+{DThe Beginning of the End{x~
+It’s very {Ddark{w here.  You slowly float to the ground after your long
+fall from above.  You look around in the darkness for anything
+recognizable...  You see nothing, yet you hear a slow drip *drip* *drip*
+*drip*.  Slowly as your eyes adjust to the lack of light in this room you
+see you are standing in a cavern walled with flesh dripping {Rblood{w into
+small pools at your feet.  Before you is a flesh and blood archway into the
+lair of all that is undead, dare you walk forth?  
+~
+0 8 23
+D0
+~
+~
+0 0 14005
+D4
+~
+~
+0 0 14003
+S
+#14005
+{DA {CPulsing {DJunction{x~
+You are standing in a corridor made of decaying flesh; it quivers as you
+walk through it.  There is a pulsing hole in the floor leading down to the
+{Rheart{w of all that is undead.  To the north is a normal door.  A strange
+scent wafts through the air from the east.  To the west is another flesh
+made corridor.  
+~
+0 8 23
+D0
+You are surprised by the sight of a normal door amid the decaying flesh that surrounds you.
+~
+~
+1 0 14006
+D1
+~
+~
+0 0 14007
+D2
+~
+~
+0 0 14004
+D3
+~
+~
+0 0 14008
+D5
+~
+~
+0 0 14009
+S
+#14006
+{DThe Office of the Prince{x~
+You are standing in a normal office.
+~
+0 8 23
+D2
+~
+~
+1 0 14005
+S
+#14007
+Chamber of Undead Alchemy~
+As you walk through the doorway, you notice a blackened chamber lighted
+with towering black marble torches at each of the four corners of the room
+illuminating the area.  Walking slowly towards the end of the room a low
+dense fog swirls at your feet, impeding your sight of the ground.  Toward
+the shop is a narrow walkway of black marble flooring with a pool of blood
+on each side of the walkway arousing your sense of smell.  Finally making
+your way to the shop, a black robed figure sits behind the marble wall
+looking downward.  With a deep cackling voice he says "How may I help you?" 
+Undead Legionnaire snapping his bone fingers together lighting up the back
+end of the shop.  Assortments of vials and elixirs are shelved from the left
+to the right bubbling of great power to one who drinks of them.  
+~
+0 8 23
+D3
+~
+~
+0 0 14005
+S
+#14008
+{YA Sunny Field{x~
+You are standing in a sunny field.  It is a beautiful day out.  As you
+look around you see people relaxing and enjoying the weather.  There is
+nothing out of the ordinary that you can see.  There is a slight breeze
+blowing.  You continue to watch the people and notice they are not moving! 
+As you approach one of them, you realize that they are dead!  People forever
+frozen in happy moments!  Frozen to suffer the agony of joy!  This isn't
+real you think!  Slowly the room melts into a horror upon horrors. 
+People’s bodies mutilated, headless corpses wandering around searching.  The
+sky melts into fire and brimstone, yet it is strangely silent!  
+~
+0 8 23
+D1
+~
+~
+0 0 14005
+S
+#14009
+The Heart of Death~
+You are standing in the heart of the Undead Caverns.  You are surrounded
+by numerous corpses of various states of decay, the smell of rotting flesh
+assaults your senses.  The walls pulse and quiver as though it was alive.  
+~
+0 8388616 28
+D4
+~
+~
+0 0 14005
+S
+#0
+
+
+
+#SPECIALS
+M 14001 spec_orgguard
+S
+
+
+
+#RESETS
+D 0 14005 0 1
+D 0 14006 2 1
+M 0 14001 5 14001 1
+E 0 14007 0 20
+E 0 14008 0 6
+M 0 14001 5 14003 1
+E 0 14007 0 20
+E 0 14008 0 6
+M 0 14001 5 14005 1
+E 0 14007 0 20
+E 0 14008 0 6
+M 0 14001 5 14006 1
+E 0 14007 0 20
+E 0 14008 0 6
+M 0 14007 1 14007 1
+G 0 14003 0
+G 0 14004 0
+G 0 14005 0
+O 0 14001 0 14008
+O 0 14002 0 14009
+O 0 14000 0 14009
+M 0 14000 1 14009 1
+M 0 14001 5 14009 1
+E 0 14007 0 20
+E 0 14008 0 6
+S
+
+
+
+#SHOPS
+14007 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

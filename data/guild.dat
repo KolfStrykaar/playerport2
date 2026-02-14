@@ -1,0 +1,228 @@
+
+Guild	thieves~
+Section	~
+Who	[    {gThieves{x    ]~
+SectionWho	~
+Rooms	1926
+Rank	1	Initiate~
+Rank	2	Petty Thug~
+Rank	3	Pick Pocket~
+Rank	4	Swindler~
+Rank	5	Robber~
+Rank	6	Gang Leader~
+Rank	7	Guild Official~
+Rank	8	Head Guild Official~
+Rank	9	Master Thief~
+Rank	10	Grand Master Thief~
+Skill	3	steal~
+ML	1  1  1  1
+Flags 0 
+
+
+Guild	Conclave~
+Section	Conclave~
+Who	[    {CConclave{x   ]~
+SectionWho	~
+Rooms	15201
+Rank	1	Initiate~
+Rank	2	Novice~
+Rank	3	Apprentice~
+Rank	4	Adept~
+Rank	5	Mage~
+Rank	6	Master~
+Rank	7	HighMage~
+Rank	8	HighMaster~
+Rank	9	Archmage~
+Rank	10	Grand Master~
+Skill	3	change sex~
+Skill	5	cloak of starlight~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Solamnic~
+Section	Solamnic~
+Who	[{CSolamnic Knight{x]~
+SectionWho	~
+Rooms	13780
+Rank	1	Squire~
+Rank	2	Crown Knight~
+Rank	3	High Warrior~
+Rank	4	Sword Knight~
+Rank	5	Lord Clerist~
+Rank	6	High Clerist~
+Rank	7	Rose Knight~
+Rank	8	Lord Justice~
+Rank	9	High Justice~
+Rank	10	Grand Master~
+Skill	1	charge~
+Skill	2	pardon~
+Skill	3	battlecry~
+Skill	4	backup~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	KOT~
+Section	KOT~
+Who	[{rKnight Takhisis{x]~
+SectionWho	~
+Rooms	11600
+Rank	1	Dark Knight~
+Rank	2	Dark Wanderer~
+Rank	3	Master of Evil~
+Rank	4	Blood Knight~
+Rank	5	Bone Knight~
+Rank	6	Skull Knight~
+Rank	7	Lord of the Thorn~
+Rank	8	Lord of the Lily~
+Rank	9	Lord of the Skull~
+Rank	10	Lord of the Night~
+Skill	4	backup~
+ML	1  0  1  1
+Flags 0 
+
+
+Guild	HolyOrder~
+Section	~
+Who	[   Holy Order  ]~
+SectionWho	~
+Rooms	3054
+Rank	1	Neophyte~
+Rank	2	Acolyte~
+Rank	3	Apostle~
+Rank	4	Priest~
+Rank	5	Abbott~
+Rank	6	Bishop~
+Rank	7	Deacon~
+Rank	8	High Clerist~
+Rank	9	Master Clerist~
+Rank	10	High Priest~
+Skill	2	warding~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Mercenary~
+Section	~
+Who	[   {rMercenary{x   ]~
+SectionWho	~
+Rooms	3054
+Rank	1	Bully~
+Rank	2	Thug~
+Rank	3	Sellsword~
+Rank	4	Cutthroat~
+Rank	5	Bodyguard~
+Rank	6	Enforcer~
+Rank	7	Overseer~
+Rank	8	Assassin~
+Rank	9	Master Assassin~
+Rank	10	Shadow Lord~
+Skill	4	backup~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Artisans~
+Section	~
+Who	[    Artisans   ]~
+SectionWho	~
+Rooms	3054
+Rank	1	Aide~
+Rank	2	Draftsman~
+Rank	3	Apprentice~
+Rank	4	Forger~
+Rank	5	Forge Master~
+Rank	6	Metal Smith~
+Rank	7	Armor Smith~
+Rank	8	Weapon Smith~
+Rank	9	Head Forger~
+Rank	10	Master Forger~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Forester~
+Section	~
+Who	[  {GForester{x  ]~
+SectionWho	~
+Rooms	3054
+Rank	1	Bushwalker~
+Rank	2	Earth Child~
+Rank	3	Treehugger~
+Rank	4	Druid~
+Rank	5	Deputy~
+Rank	6	Sheriff~
+Rank	7	Ranger~
+Rank	8	Lord Protector~
+Rank	9	Master Ranger~
+Rank	10	Lord Paladin~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	BalanceOrder~
+Section	~
+Who	[ {RBalance Order {x]~
+SectionWho	~
+Rooms	3054
+Rank	1	Neophyte~
+Rank	2	Acolyte~
+Rank	3	Apostle~
+Rank	4	Priest~
+Rank	5	Abbott~
+Rank	6	Bishop~
+Rank	7	Deacon~
+Rank	8	High Clerist~
+Rank	9	Master Clerist~
+Rank	10	High Priest~
+Skill	1	truefire~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	BlackOrder~
+Section	~
+Who	[  {DBlack Order{x  ]~
+SectionWho	~
+Rooms	158
+Rank	1	Neophyte~
+Rank	2	Acolyte~
+Rank	3	Apostle~
+Rank	4	Priest~
+Rank	5	Abbott~
+Rank	6	Bishop~
+Rank	7	Deacon~
+Rank	8	High Clerist~
+Rank	9	Master Clerist~
+Rank	10	High Priest~
+Skill	2	unholy armor~
+Skill	5	gaseous form~
+Skill	8	dark taint~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Undead~
+Section	~
+Who	[    Undead     ]~
+SectionWho	~
+Rooms	14008
+Rank	1	Ghoul~
+Rank	2	Gravewalker~
+Rank	3	Archlich~
+Rank	4	Skeleton~
+Rank	5	Spectre~
+Rank	6	Zombie Lord~
+Rank	7	Specter Lord~
+Rank	8	Death Knight~
+Rank	9	Pince of the Dead~
+Rank	10	King of the Dead~
+Skill	1	drain blood~
+Skill	4	unholy armor~
+Skill	8	dark taint~
+ML	0  0  0  0
+Flags 0 
+
+
+End

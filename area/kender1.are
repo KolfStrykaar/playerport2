@@ -1,0 +1,3592 @@
+#AREADATA
+Name Kendermore~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 14900 14999
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#14900
+kender scout~
+a kender scout~
+A kender scout patrols for enemies.
+~
+Kender scouts are respected by the whole community for their role in
+detecting potential threats to their village.  They are rather serious by
+Kender standards, as recent attacks have made them constantly alert for
+any invaders.  They thus glare at you VERY suspiciously.
+~
+kender~
+AGX FJ 400 0
+14 14 29d4+142 14d10+85 4d3+12 pound
+0 0 0 2
+R 0 0 L
+stand stand male 400
+AHMV ABCDEFGHIJK S unknown 0
+M GRALL 14900 100~
+M ENTRY 14900 100~
+#14901
+kender adult male~
+an adult male kender~
+An adult male kender rushes past you, topknot bobbing madly.
+~
+He sure seemed to be in a hurry.  Doubtless, he'd just discovered something
+curious he wanted to examine as soon as possible...  Hey! Didn't you have
+TWO of those silver bracelets???
+~
+kender~
+AGHX J 400 0
+9 0 2d6+60 0d0+0 1d6+1 pound
+0 0 0 0
+0 0 0 L
+stand stand male 500
+AHMV ABCDEFGHIJK S unknown 0
+#14902
+kender adult female~
+an adult female kender~
+An adult female kender smiles at you and curtseys.
+~
+She seems friendly enough.  In fact, she seems quite nice.  Imagine people
+thinking such sweet people could be THIEVES...  You smile as you reach for
+a trinket to give to her, only to notice that your trinkets are all gone...
+~
+kender~
+AGHX J 400 0
+8 0 2d7+46 0d0+0 1d5+1 pound
+0 0 0 0
+0 0 B L
+stand stand female 200
+AHMV ABCDEFGHIJK S unknown 0
+#14903
+kender child~
+a kender child~
+A small kender child gazes at you curiously.
+~
+Younger kender, unused to the outside world, find strangers and the strange
+items they bear of GREAT interest...
+~
+kender~
+AGHX J 400 0
+5 0 2d6+35 0d0+0 1d6+0 pound
+0 0 0 0
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14904
+doctor kender~
+the kender doctor~
+The kender doctor wanders around here, healing those who enter.
+~
+A fairly tall (for a kender) male stands before you.  He is dressed in a
+white button shirt and a pair of tan pants.  He wanders the room ceaselessly,
+save his frequent stops to attend to those who need his assistance with
+healing and health advice.  His brown hair was probably neatly combed at the
+beginning of the day is now disheveled and tangled from his often rushed
+emergency work.  If you need aid, this looks like a good man to help.  
+~
+kender~
+ABGLa CDEFHJN 1000 0
+102 102 205d34+2061 102d10+85 34d3+56 pound
+-59 -59 -59 -37
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#14905
+kender warrior~
+a kender warrior~
+A kender warrior swaggers past you, chased by a flock of young girls.
+~
+Kender warriors as a scary lot, scary in the way that it's scary to trust
+nuclear weapons in the hands of people with the minds of eight year olds-
+WAIT! We do that anyway!  Ah well...  Kender warriors, indeed all Kender, are
+most feared (to them, other races consider it avoiding) for their taunt
+ability, with which they can stoke the temper of the most placid of foes into
+a raging fury.
+~
+kender~
+ADGX J 400 0
+25 0 2d10+150 0d0+0 1d10+3 pound
+0 0 0 0
+0 P 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14906
+kender storyteller~
+the kender storyteller~
+The kender storyteller is amusing a horde of children with his tales.
+~
+Kender fairytales are quite fascinating and very humorous, maybe if you
+stay long enough one might be told.  
+~
+kender~
+ABGHX HJ 500 0
+39 0 3d9+308 0d0+0 2d7+5 pound
+0 0 0 0
+0 P 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+M GREET 14906 60~
+#14907
+kender chief~
+the kender chief~
+The chief of Kendermore greets you.
+~
+The chief is a cheery fellow, full of energy and humor.  He grabs your hand
+and shakes it rapidly, then pounds you on the back (or more likely your
+buttocks if you are over four feet tall) and invites you to the tavern for
+a drink and a chat.  What a splendid fellow!  You find yourself suddenly
+reaching for your wallet.  You could have SWORN you had it in your back
+pocket...
+~
+kender~
+ADGX HJ 400 0
+55 0 5d10+650 0d0+0 5d4+7 pound
+0 0 0 0
+0 0 0 L
+stand stand male 500
+AHMV ABCDEFGHIJK S unknown 0
+#14908
+kender tas tasslehoff burrfoot~
+Tasslehoff Burrfoot~
+A particularly inquisitive kender introduces himself as Tas.
+~
+Everyone knows Tas, that most famous of Kender.  Guard your possessions
+carefully.
+~
+kender~
+ABCGSX FHJP 1000 0
+44 44 66d14+401 44d10+85 12d3+19 pound
+-11 -11 -11 -2
+FHIN AB 0 L
+stand stand male 200
+AHMV ABCDEFGHIJK S unknown 0
+#14909
+kender drunk~
+a drunk kender~
+A drunken kender staggers into you.
+~
+Watch your wallet!
+~
+kender~
+AGHX J 400 0
+11 0 2d6+60 0d0+0 1d6+1 pound
+0 0 0 0
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14910
+kender baker~
+the kender baker~
+A kender baker greets you.
+~
+This fellow stocks a wide variety of goods.
+~
+kender~
+ABG 0 1000 0
+109 0 50d10+9000 0d0+0 8d6+26 pound
+-2 -2 -2 -2
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14911
+kender grocer~
+the kender grocer~
+A kender grocer greets you.
+~
+This woman stocks a wide variety of goods.
+~
+kender~
+ABG 0 1000 0
+109 0 50d10+9000 0d0+0 8d6+26 pound
+-2 -2 -2 -2
+0 0 0 L
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#14912
+kender armorer~
+the kender armorer~
+A kender armorer greets you.
+~
+This fellow stocks a wide variety of goods.
+~
+kender~
+ABG 0 1000 0
+109 0 50d10+9000 0d0+0 8d6+26 pound
+-2 -2 -2 -2
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14913
+kender herbalist~
+the kender herbalist~
+A kender herbalist greets you.
+~
+This woman stocks a wide variety of goods.
+~
+kender~
+ABG 0 1000 0
+109 0 50d10+9000 0d0+0 8d6+26 pound
+-2 -2 -2 -2
+0 0 0 L
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#14914
+kender bartender~
+the kender bartender~
+The bartender smiles and offers you a drink.
+~
+This rotund fellow was once an adventurer like yourself.  As he pours your
+beers he recounts a tale of a time when he slew two dragons.
+~
+kender~
+ABG 0 1000 0
+109 0 50d10+9000 0d0+0 8d6+26 pound
+-2 -2 -2 -2
+0 0 0 L
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#14915
+wild boar~
+a wild boar~
+A wild boar charges at you!
+~
+These boars are hunted by the Kender.  They deserve it.
+~
+kender~
+AFGX 0 -100 0
+11 11 23d3+100 11d10+85 3d3+7 charge
+1 1 1 4
+DIR 0 0 L
+stand stand none 0
+AHMV ABCDEFGHIJK S unknown 0
+M GREET 14915 100~
+#14916
+hunting dog~
+a hunting dog~
+A hunting dog barks at you.
+~
+A large dog stands here and barks at all those it passes by.  
+~
+dog~
+AGH 0 0 0
+8 0 2d7+46 0d0+0 1d5+1 pound
+0 0 0 0
+H 0 0 L
+stand stand none 0
+AGHMV ABCDEFGHIJKUV S unknown 0
+#14917
+kender child male~
+a male kender child~
+A male kender child sleeps soundly on a small bunk bed.
+~
+This little tyke is sleeping soundly in his bed; dreaming happily you'd
+guess from the large smile on his face.  You'd guess him no bigger than 3
+feet tall and he fits in the tiny bed quite nicely.  Maybe you should just
+let the little guy rest...  
+~
+kender~
+ABH 0 400 0
+3 0 40d1+0 0d0+0 1d4+1 pound
+-7 -7 -7 -7
+0 0 0 0
+sleep sleep male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#14918
+kender child female~
+a female kender child~
+A female kender child sleeps soundly on the top bunk.
+~
+Judging by her slightly bigger size, and the fact she gets the top bunk,
+you'd guess her to be the older sister.  Even in her sleep she quietly
+mutters 'that’s mine, but I’ll let you play with it if...  '.  From the
+sounds of it, she probably tricks the poor little guy often.  Letting her
+sleep would be a good idea, so she doesn’t pester him again.  
+~
+kender~
+ABH 0 400 0
+3 0 40d1+0 0d0+0 1d4+1 pound
+-7 -7 -7 -7
+0 0 0 0
+sleep sleep female 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#14919
+pa kender~
+Pa kender~
+Pa kender sits at the table, smoking his pipe and having his meal.
+~
+Before you sits an adult male kender.  He is dressed in baggy old
+fashioned looking clothes and puffing contentedly on his pipe.  He grumbles
+and mutters slightly as he enjoys his fresh home cooked meal.  Judging by
+the quality of the food and his well kept albeit loose clothes you'd guess
+Ma kender takes good care of him.  
+~
+kender~
+AB 0 400 0
+9 0 1d6+70 0d0+0 2d4+0 pound
+0 0 0 0
+0 0 0 0
+sit sit male 400
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+M GREET 14919 70~
+#14920
+ma kender~
+Ma kender~
+Ma kender stands here, cleaning with a vengeance.
+~
+Ma kender is a blur of motion, obscured by a roving cloud of dust
+caused by her frantic cleaning efforts.  What little you can make out
+suggests she is a fairly average female kender, dressed in a knee length
+dress and typical kender leggings.  Might want to stay out of her way,
+especially if your dirty!  
+~
+kender~
+AB 0 500 0
+8 0 1d6+60 0d0+0 1d4+1 pound
+0 0 0 0
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+M RANDOM 14920 45~
+#14921
+bartender ogre~
+the kindly old ogre bartender~
+The kindly old ogre bartender stands here, happily dispensing drinks.
+~
+Behind the bar stands the aged ogre bartender.  He is busy happily
+dispensing drinks to whatever patrons currently want something to drink. 
+However he is never to busy to relate a story about his old days of
+pillaging and murder with his fellow ogres.  He is obviously reformed
+however, and is not gentle as a mouse towards all around him.  Dressed in
+what appears to be several kender outfits sewn together to accommodate his
+size, you can none the less make out his still bulging muscles.  
+~
+ogre~
+AB 0 700 0
+1 1 200d200+2 0d0+0 1d50+10 pound
+0 0 0 0
+C C HI K
+stand stand male 20000
+AHMV ABCDEFGHIJK L unknown 0
+#14922
+inn keeper kender~
+the aged kender innkeeper~
+An aged looking kender stands here, renting out rooms.
+~
+An aged looking kender stands here, holding the keys to the rooms.  His
+face is lined with wrinkles, and his topknot of hair is changing from its
+former auburn to a silver grey.  Despite this, he seems quite healthy and
+always has time for a friendly conversation with the inn's patrons.  He
+smiles warmly at you and inquires if you will be wanting a room for the
+night.  
+~
+kender~
+AB 0 0 0
+101 101 203d33+2041 101d10+85 33d3+55 pound
+-58 -58 -58 -37
+0 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#14923
+kender receptionist~
+the kender receptionist~
+The kender receptionist sits behind the counter, writing in his ledger.
+~
+The kender receptionist appears pretty much like your average middle aged
+kender, except for his obviously studious and semi-serious nature.  He is
+dressed in the usual kender attire, and even has a hoopak propped against
+the counter next to him.  He appears to be busily scratching entries into a
+large ledger book even as you look at him.  
+~
+kender~
+ABSY J 400 0
+9 0 5d6+60 1d1+0 2d4+3 pound
+0 0 0 0
+FJN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+M GREET 14923 85~
+#14924
+kender real agent realtor~
+the kender realtor~
+The kender real estate agent reclines his bulk in a chair behind his desk.
+~
+While not impossibly so, this kender seems to have enough weight on him
+for two to three normal kender.  The fact that he sits around all day
+smoking his cigar may have something to do with it, but who knows.  He is
+dressed in oversized plain brown pants and a large grey vest on top of a
+white undershirt.  He doesn’t appear to even posses a weapon, or any of the
+normal kender gear.  All in all a very strange fellow.  
+~
+kender~
+AB J 350 0
+10 10 21d3+102 10d10+85 3d3+10 pound
+2 2 2 4
+0 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+M GREET 14924 100~
+#14925
+balithus guard~
+Balithus, guardian of the sacred fountain~
+A giant know as Balithus, guardian of the sacred fountain looms here.
+~
+The Final Guardian of the Sacred fountain.  He beams with goodness and
+loyalty.  His massive feet dwarf the fountain...  
+~
+giant~
+ABT 0 1000 0
+100 100 201d33+2021 100d10+85 33d3+55 crush
+-57 -57 -57 -37
+C 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK G unknown 0
+#14926
+kender candle maker~
+the kender candle maker~
+A middle-aged female kender stands behind the counter, selling candles.
+~
+Of average height and weight for her race and age there is very little to
+distinguish this middle-aged female kender from others.  What there is
+consists of her being nearly covered in wax, with splotches all over her
+body marking her craft and the fact she doesn’t seem at all bothered by it. 
+Maybe your not to late for that big bee's wax special?  
+~
+kender~
+AB 0 500 0
+10 10 21d3+102 10d10+85 3d3+10 none
+2 2 2 4
+0 0 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#14976
+loitering kender registrar~
+a loitering kender~
+A loitering kender stands here, poking through a stack of parchment.
+~
+A young kender stands here, wearing a bright green tunic and purple
+leggings.  Having nothing better to do at the moment, he wanders about and
+shuffles through the stack of registry forms looking for any interesting
+names.  His hands are stained with dried ink, and he appears to have several
+tattoos on his arms and face, until closer examination reveals that the
+markings were apparently the result of some fun with the large rubber stamp
+sitting on the counter.  
+~
+kender~
+AB V 850 0
+120 120 180d40+3277 120d10+85 34d3+45 thwack
+-47 -47 -47 -22
+FN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F vul L
+#0
+
+
+
+#OBJECTS
+#14900
+hoopak staff~
+a Hoopak~
+A hoopak lies here.~
+maple~
+weapon S 0 ANW
+staff 4 4 thwack F
+14 2 0 P
+A
+18 2
+E
+hoopak~
+A hoopak is a staff-sling that can be used to bash your opponent or hurl
+a rock at it.  Not being familiar with such a weapon, you can only use it
+to bash.
+~
+#14901
+kender topknot~
+a kender's topknot~
+A long, flowing bunch of hair lies here on the ground.~
+hair~
+armor S 0 AEX
+AC AC AC D 0
+0 1 0 P
+A
+14 10
+A
+2 1
+#14902
+blue breeches~
+a pair of {Bbreeches{x~
+A pair of blue breeches lie here.~
+cloth~
+armor S 0 AFX
+C C C B 0
+14 1 0 P
+#14903
+fur jacket~
+a fur jacket~
+This fur jacket will help keep the chill November wind out.~
+fur~
+armor S 0 ADX
+AB AC C B 0
+14 3 0 P
+A
+17 -10
+#14904
+brown cloak~
+a {ybrown{x cloak~
+A {ybrown{x cloak is crumpled up on the floor here.~
+cloth~
+armor S 0 ACX
+C C C 0 0
+16 1 0 P
+A
+5 2
+#14905
+toy~
+a child's toy~
+This toy could do you an injury if you stood on it.~
+wood~
+trash S 0 AO
+0 0 0 0 0
+0 1 0 P
+#14906
+pouch~
+a pouch~
+This pouch would hang well at your belt.~
+leather~
+container S 0 ALX
+100 A 0 100 0
+0 1 0 P
+#14907
+boar spear~
+a boar spear~
+A short spear ideal for boar hunting lies here.~
+ash~
+weapon S 0 ANX
+spear 4 7 stab 0
+25 4 0 P
+#14908
+magic short sword~
+a magical short sword~
+A magical short sword is here.~
+steel~
+weapon AG 0 ANX
+sword 7 8 pierce D
+55 4 7000 P
+A
+19 4
+A
+18 4
+#14909
+gem emerald~
+an emerald gem~
+A pretty emerald lies here.~
+emerald~
+treasure S 0 AO
+0 0 0 0 0
+0 1 1000 P
+#14910
+potion~
+a dark potion~
+A dark potion rests here.~
+glass~
+potion GS 0 AO
+10 'cure light' 'cure light' 'cure poison' ''
+10 1 0 P
+#14911
+loaf wheat bread~
+a loaf of wheat bread~
+A loaf of freshly-baked wheat bread sits here.~
+unknown~
+food S 0 A
+CD 0 0 0 0
+0 1 24 P
+#14912
+sweet roll~
+a sweet roll~
+*>MMM<* a sweet roll that looks DELICIOUS!~
+unknown~
+food S 0 A
+AB 0 0 0 0
+0 1 34 P
+#14913
+sponge cake~
+a sponge cake~
+A sponge cake sits neglected here.~
+unknown~
+food S 0 A
+BC 0 0 0 0
+0 1 22 P
+#14914
+black currant pie~
+a black currant pie~
+(Steaming) A black currant pie steams away here.~
+unknown~
+food S 0 A
+AC 0 0 0 0
+0 1 20 P
+#14915
+backpack~
+a small backpack~
+A small backpack lies on its side here.~
+canvas~
+container S 0 AS
+50 A 0 75 50
+23 1 3000 P
+#14916
+torch~
+a torch~
+A torch sits here.~
+wood~
+light S 0 AO
+0 0 DE 0 0
+15 1 50 P
+#14917
+tent~
+a camping tent~
+A camping tent has been pitched here.~
+canvas~
+furniture S 0 A
+B DEGJ FIL D ABC
+30 10 2500 P
+#14918
+blanket~
+a coarse blanket~
+A coarse blanket lies here.~
+wool~
+furniture S 0 A
+B 0 K BC AC
+20 2 1500 P
+#14919
+waterskin water skin~
+a waterskin~
+A full waterskin is here.~
+leather~
+drink S 0 AO
+5 5 'water' 0 0
+10 1 40 P
+#14920
+leather jerkin~
+a stout leather jerkin~
+A stout leather jerkin can be seen here.~
+leather~
+armor S 0 ADX
+AC BC BC 0 0
+14 6 1500 P
+A
+5 1
+#14921
+hoopak staff~
+a hoopak~
+A hoopak lies here.~
+maple~
+weapon S 0 ANWX
+staff 6 6 thwack F
+35 4 4500 P
+A
+19 1
+A
+18 1
+E
+hoopak~
+A hoopak is a staff-sling, that can be used to bash your opponent or hurl
+a rock at it.  Not being familiar with such a weapon, you can only use it
+to bash.
+~
+#14922
+sling~
+a sling~
+A sling has been left here.~
+leather~
+weapon S 0 ANX
+exotic 2 22 thwack 0
+40 0 5600 P
+A
+19 -3
+A
+18 3
+#14923
+hiking boots~
+a pair of hiking boots~
+A pair of hiking boots sit here.~
+leather~
+armor S 0 AGX
+AC ABC BC B 0
+25 2 2550 P
+A
+14 50
+#14924
+yellow herb~
+a yellow herb~
+A yellow herb is here.~
+plant~
+pill GS 0 A
+10 'armor' 'bless' '' ''
+23 1 500 P
+E
+yellow herb~
+This herb will increase your defenses and engender the blessing of the Gods.
+~
+#14925
+red herb~
+a red herb~
+A red herb is here.~
+plant~
+pill GS 0 A
+10 'infravision' 'detect invis' 'detect hidden' ''
+25 1 500 P
+E
+red herb~
+This herb will greatly increase your powers of perception.
+~
+#14926
+green herb~
+a green herb~
+A green herb is here.~
+plant~
+pill GS 0 A
+10 'invisibility' 'protection evil' '' ''
+25 1 500 P
+E
+green herb~
+This herb will conceal and protect you.
+~
+#14927
+white herb~
+a white herb~
+A white herb is here.~
+plant~
+pill GS 0 A
+10 'cure serious' 'refresh' '' ''
+0 1 500 P
+E
+white herb~
+This herb will heal and refresh you.
+~
+#14928
+pint beer~
+a pint of beer~
+A pint of beer foams here.~
+ceramic~
+drink S 0 AO
+2 2 'beer' 0 0
+0 1 20 P
+#14929
+glass whiskey~
+a glass of whiskey~
+A glass of whiskey sits here.~
+glass~
+drink S 0 AO
+1 1 'whisky' 0 0
+0 1 25 P
+#14930
+glass wine~
+a glass of wine~
+A glass of wine is here. Nice head.~
+glass~
+drink S 0 AO
+1 1 'red wine' 0 0
+0 1 25 P
+#14931
+pint ale~
+a pint of ale~
+A pint of ale is here.~
+lead~
+drink 0 0 AO
+2 2 'ale' 0 0
+0 1 20 P
+#14932
+counter~
+a shop counter~
+A shop counter rests here.~
+wood~
+furniture O 0 0
+0 0 D 0 0
+0 1 0 P
+#14933
+chair~
+a comfy chair~
+A comfy chair rests near a fireplace here.~
+cloth~
+furniture O 0 0
+B 0 E BD BD
+0 1 0 P
+E
+comfy chair~
+It is indeed a very comfortable-looking chair.
+~
+#14934
+hearth fireplace~
+a fireplace~
+A fire crackles merrily away in the hearth.~
+stone~
+furniture AO 0 0
+0 0 0 0 0
+0 1 0 P
+E
+hearth fireplace~
+You feel all toasty and warm!
+~
+#14935
+keg ale~
+a keg of ale~
+A keg of ale rests here.~
+oak~
+drink S 0 A
+25 25 'ale' 0 0
+0 25 100 P
+E
+keg ale~
+It has BASS in gold letters on one side...
+~
+#14936
+keg beer~
+a keg of beer~
+A keg of beer rests here.~
+oak~
+drink S 0 A
+25 25 'beer' 0 0
+0 25 100 P
+E
+keg beer~
+It has Kilkenny in gold letters on one side...
+~
+#14937
+keg spirits~
+a keg of spirits~
+A keg of spirits rests here.~
+oak~
+drink S 0 A
+25 25 'whisky' 0 0
+0 25 200 P
+E
+ale~
+It has Johnny Walker in gold letters on one side...
+~
+#14938
+bottle white wine~
+a bottle of white wine~
+A bottle of white wine is in a rack here.~
+glass~
+drink S 0 A
+5 5 'red wine' 0 0
+0 5 75 P
+E
+bottle white wine~
+Mmm!  A good year!
+~
+#14939
+bottle red wine~
+a bottle of red wine~
+A bottle of red wine is in a rack here.~
+glass~
+drink S 0 A
+5 5 'red wine' 0 0
+0 5 65 P
+E
+bottle red wine~
+Mmm!  A good year!
+~
+#14940
+desk~
+an ornate desk~
+An ornate desk sits in the center of the room.~
+oak~
+furniture O 0 0
+A 0 D 0 0
+0 1 0 P
+E
+desk~
+It looks to be very old and expensive.  You wonder who it was borrowed from...
+~
+#14941
+papers~
+some papers~
+Some papers are scattered about here.~
+paper~
+scroll S 0 AO
+20 'sleep' 'reserved' 'reserved' 'reserved'
+28 1 4800 P
+E
+papers~
+All figures and other accounting stuff... very dull.
+~
+#14942
+chair~
+an office chair~
+An office chair rests near a desk here.~
+oak~
+furniture O 0 0
+A 0 E 0 0
+0 1 0 P
+E
+chair~
+It is indeed a very comfortable-looking chair.
+~
+#14943
+bed~
+a four poster bed~
+A four-poster bed sits near the center of the room.~
+pine~
+furniture O 0 0
+AB 0 EHK C C
+0 1 0 P
+E
+bed~
+It is very comfortable looking, made with silk sheets and all.
+~
+#14944
+table oak~
+a small oak table~
+A small oaken table sits here, covered in dust.~
+oak~
+furniture O 0 0
+A DGH BEHK 0 0
+1 10 50 P
+#14945
+note~
+a small note tacked to the table~
+A small note is tacked to the table (type 'read note' to read) here.~
+paper~
+trash S 0 0
+0 0 0 0 0
+1 0 1 P
+E
+note~
+Welcome to my home, feel free to stay a while since I'm gone.
+ 
+        Assuming I'm gone that is, if I'm here then don’t be shy, say hi!
+ 
+- Boggle T. Spurfoot
+~
+#14946
+bed small feather~
+a small feather bed~
+A small feather bed lies here, covered with junk.~
+pine~
+furniture O 0 0
+B DGH BEILN BD BD
+1 9 50 P
+#14947
+bunk bed~
+a small bunk bed~
+A small, child sized, bunk bed stands here.~
+pine~
+furniture O 0 0
+B DGH BEHLN B B
+1 12 35 P
+#14948
+stool bar~
+a bar stool~
+A barstool sits up next to the bar.~
+wood~
+furniture O 0 0
+AC CFG BEH B B
+1 5 10 P
+#14949
+table wooden chair~
+a wooden table~
+A wooden table with four chairs around it sits here.~
+pine~
+furniture O 0 0
+C CFG BDGJ A A
+1 15 100 P
+#14950
+punch celebration mug~
+a mug of Celebration Punch~
+A mug of swirling rainbow liquid sits here.~
+ceramic~
+drink S 0 A
+8 8 'local specialty' 0 0
+1 2 10 P
+#14951
+ale dwarven flask~
+a flask of dwarven ale~
+A flask of some rich smelling ale sits here.~
+tin~
+drink 0 0 A
+14 14 'dark ale' 0 0
+1 3 20 P
+#14952
+milk glass~
+a glass of {Wmilk{x~
+A tall frosty glass of milk has been left here.~
+glass~
+drink S 0 A
+6 6 'milk' 0 0
+1 2 7 P
+#14953
+key 1~
+a key to room #1~
+A small brass key with a leather tag labeled '#1' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 W
+#14954
+key 2~
+a key to room #2~
+A small brass key with a leather tag labeled '#2' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14955
+key 3~
+a key to room #3~
+A small brass key with a leather tag labeled '#3' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14956
+brass key~
+a key to room #4~
+A small brass key with a leather tag labeled '#4' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14957
+key 5~
+a key to room #5~
+A small brass key with a leather tag labeled '#5' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14958
+key 6~
+a key to room #6~
+A small brass key with a leather tag labeled '#6' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14959
+key 7~
+a key to room #7~
+A small brass key with a leather tag labeled '#7' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14960
+key 8~
+a key to room #8~
+A small brass key with a leather tag labeled '#8' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14961
+key 9~
+a key to room #9~
+A small brass key with a leather tag labeled '#9' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14962
+key 10~
+a key to room #10~
+A small brass key with a leather tag labeled '#10' lies here.~
+brass~
+key PU 0 A
+0 0 0 0 0
+1 1 250 P
+#14963
+chest medium~
+a medium sized chest~
+A medium sized chest sits here, ready to store things.~
+pine~
+container O 0 0
+10000 AC 0 10000 1
+1 6 1 P
+#14964
+bed double~
+a large double bed~
+A large double bed covered in blankets sits here.~
+oak~
+furniture O 0 0
+AB EGHIJK BEKN BC BC
+1 8 1 P
+#14965
+ledger~
+a large ledger~
+A large ledger labeled 'barracks residency list' lies here.~
+paper~
+treasure SU 0 AO
+0 0 0 0 0
+9 7 25 P
+A
+4 1
+A
+3 1
+#14966
+list price~
+a Kendermore Real Estate price list~
+A list of prices for homes from Kendermore Real Estate lies here.~
+paper~
+trash SU 0 AO
+0 0 0 0 0
+1 1 2 P
+E
+list~
+______________________________________
+  |       Kendermore Real Estate         |
+  |     Housing Construction Costs       |
+  |       (prices in steel pieces)       |
+   --------------------------------------
+  Deed* (good for one room no extras)  500k
+  Additional rooms                      20k
+  Room flags** (each)                   10k
+  Door flags*** (each)                   5k
+  Furniture                             18k
+  Furniture with good regen rate        25k
+  Key, additional                        2k
+  Mob guardian****            1k(per level)
+ 
+ 
+  *required to purchase house
+  **flags are dark|no_mob|indoors|private|safe|solitary|no_recall
+              heroes_only|newbies_only|law|nowhere
+  ***door flags are door|closed|locked|pickproof|nopass|easy|hard
+                    infuriating|noclose|nolock
+  ****limit 1 per deed, 1k steel per level of mob i.e. level 20
+  mob 20k steel
+  No refunds, limit 6 additional rooms per deed.
+  (OOC: note Chaos with questions)
+~
+#14967
+deed house~
+a Kendermore House Deed~
+A small piece of paper with the emblem of the Kendermore Realty company stamped on it lies here.~
+paper~
+trash S 0 AO
+0 0 0 0 0
+1 0 50000000 P
+#14968
+key house pelemon~
+pelemon's house key~
+A key to Pelemon's house lies here.~
+iron~
+key 0 0 A
+0 0 0 0 0
+1 1 100 P
+#14969
+bed~
+a medium sized wooden bed~
+A medium sized wooden bed sits here.~
+oak~
+furniture O 0 0
+AB DEGJ BEHL BD BD
+1 8 1000 P
+#14970
+candle beeswax~
+a big beeswax candle~
+A large lumpy candle made of beeswax sits here.~
+wax~
+light AS 0 AO
+0 0 ABDG 0 0
+1 2 45 P
+#14971
+candle plain~
+a plain {Wwhite{x candle~
+A plain white candle sits here.~
+wax~
+light AS 0 AOc
+0 0 BEF 0 0
+1 1 25 P
+#14975
+pile goods kender~
+a pile of goods~
+A pile of goods is stacked in the room; gathered by kender all around the world.~
+unknown~
+container O 0 P
+10000 0 0 1000 100
+120 0 0 P
+#0
+
+
+
+#ROOMS
+#14900
+The Path Leading to Kendermore~
+You are standing on a narrow trail lined with crushed white stones with
+the occasional wagon rut on either side of the path.  Further westward down
+the trail, you can barely glimpse the small wooden palisade surrounding what
+you'd guess to be a town.  The leafy green trees that surround the road are
+just close enough together to protect one from the rain, but far enough
+apart to let pleasing beams of sunlight or moonlight shimmer down from
+above.  Although this is a pleasing spot, if you're in a hurry just continue
+west to the town, or east to go farther away.  
+~
+0 0 2
+E
+sign~
+The sign says-
+
+Hi! Welcome to the Village of Kendermore. Please don't be aggressive or we'll
+set the dogs on you.
+
+                    Regards,
+                            The Chief
+    
+PS Type Help Kendermore for more info.
+~
+D3
+~
+~
+0 -1 14901
+S
+#14901
+The Path Leading to Kendermore~
+You are standing on a narrow trail lined with crushed white stones with
+the occasional wagon rut on either side of the path.  Strains of what sound
+like cries of various sorts, and several unidentifiable noises filter to
+your ears from the west.  The occasional shift and slight noise within the
+woods surrounding you suggest you aren’t totally alone even out here.  The
+leafy green trees that surround the road are just close enough together to
+protect one from the rain, but far enough apart to let pleasing beams of
+sunlight or moonlight shimmer down from above.  The small trail continues
+east and west.  
+~
+0 0 2
+D1
+~
+~
+0 -1 14900
+D3
+~
+~
+0 -1 14902
+S
+#14902
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14903
+D1
+~
+~
+0 -1 14901
+D2
+~
+~
+0 -1 14907
+D3
+~
+~
+0 -1 14905
+S
+#14903
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D2
+~
+~
+0 -1 14902
+D3
+~
+~
+0 -1 14904
+S
+#14904
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D1
+~
+~
+0 -1 14903
+D2
+~
+~
+0 -1 14905
+S
+#14905
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, as if you were being watched.  The entrance to the village is directly
+west of here.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14904
+D1
+~
+~
+0 -1 14902
+D2
+~
+~
+0 -1 14906
+D3
+~
+~
+0 -1 14908
+S
+#14906
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14905
+D1
+~
+~
+0 -1 14907
+S
+#14907
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14902
+D2
+~
+~
+0 0 14989
+D3
+~
+~
+0 -1 14906
+S
+#14908
+Out of the Woods~
+You emerge once more onto a narrow, stone-lined path.  The gates of the
+kender village are directly before you.  From here you can peer down the
+main street of the village.  You see elderly kender seated upon porches
+watching their grandchildren play, while older kender youths stride about
+with their hoopaks, showing off to a group of giggling kender schoolgirls.  
+~
+0 0 1
+D1
+~
+~
+0 -1 14905
+D3
+~
+~
+0 0 14909
+S
+#14909
+Main Street~
+This is currently one of the main streets through Kendermore, seeming to
+lead through some of the main areas that are scattered haphazardly through
+town.  Toward the south you can see what look like houses arranged around a
+twisting and turning side road.  To the north lies a medium sized hut that
+has a cross emblazoned into the door and emits a medicinal smell.  The town
+gates that allow entrance into the town lie to the east, and you can
+continue down the road to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 14920
+D1
+~
+~
+0 0 14908
+D2
+~
+~
+0 -1 14914
+D3
+~
+~
+0 -1 14918
+S
+#14910
+A Side Street~
+You are walking along a side street, past the doors of several private
+residences.  You can enter them if you want- trespassing is rude (not to
+mention illegal) but what do you care?
+~
+0 0 1
+D0
+~
+~
+0 0 14912
+D1
+~
+~
+1 0 14913
+D2
+~
+~
+0 0 14919
+D3
+~
+~
+1 0 14911
+S
+#14911
+A Private Residence~
+You have entered the home of some kender family.  Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later.  Other than that the home looks
+quite comfortable.  
+~
+0 8 0
+D1
+~
+~
+1 0 14910
+S
+#14912
+A Side Street~
+This small dirt road winds through what at the moment appears to be a
+residential area.  However, knowing kender architecture, that could change
+at any moment.  The road appears to head away from the main road to the
+south, and go north to points unknown.  In the distance to the north, a
+small building is visible.  Or you could go toward either of the buildings
+to the east and west.  
+~
+0 8 1
+D0
+~
+~
+0 0 14974
+D2
+~
+~
+0 0 14910
+S
+#14913
+A Private Residence~
+You have entered the home of some kender family.  Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later.  Other than that the home looks
+quite comfortable.
+~
+0 8 0
+D3
+~
+~
+1 0 14910
+S
+#14914
+A Side Street~
+You are walking along a side street, past the doors to several private
+residences.  You would guess from the number of houses that this is some
+kind of residential area, but knowing kender architecture that could change
+at any moment.  As with any street in Kendermore, you never know when a
+spontaneous parade or election might break out so you may want to seek
+refuge in one of the houses unless you want to be trampled or elected.  
+~
+0 0 1
+D0
+~
+~
+0 0 14909
+D1
+~
+~
+1 0 14915
+D2
+~
+~
+0 0 14954
+D3
+~
+~
+0 0 14951
+S
+#14915
+A Private Residence~
+Looking around at this rather small home you'd guess it to be the
+residence of a family of kender.  Piles upon piles of junk are stashed in
+every corner of this room which appears to act as an entryway, living room,
+and dining room.  You could sit down at the table to dinner with Ma and Pa
+kender, or go into one of the bedrooms.  Of course, leaving is also an
+option the same way you got in.  
+~
+0 8 0
+D0
+~
+~
+0 0 14952
+D2
+~
+~
+0 0 14953
+D3
+~
+~
+1 0 14914
+S
+#14916
+A Private Residence~
+You have entered the home of some kender family.  Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later.  Other than that the home looks
+quite comfortable.  A window lies open on the southern side of this room,
+and a road appears to lie directly outside it as if it begins or ends at
+this window.  
+~
+0 8 0
+D0
+~
+~
+0 0 14954
+D2
+~
+window~
+0 0 14977
+S
+#14917
+A Private Residence~
+You have entered the home of some kender family.  Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later.  Other than that the home looks
+quite comfortable.
+~
+0 8 0
+D1
+~
+~
+1 0 14914
+S
+#14918
+Main Street~
+You are heading along a cobbled path that runs through the center of the
+kender village. The town square lies to the west of here, while the village
+gates lie east.
+~
+0 0 1
+D1
+~
+~
+0 -1 14909
+D3
+~
+~
+0 -1 14919
+S
+#14919
+The Village Square~
+Here, the kender gather for meetings, festivals, markets and general
+entertainment.  There is always something happening here.  You gaze
+admiringly at the neatly pruned hedges that line the stone floored area, and
+at the intricately carved fountain that sits in the center of the square (a
+"gift" from the elves; doubtless the elves didn't give it consciously).  
+~
+0 0 1
+D0
+~
+~
+0 0 14910
+D1
+~
+~
+0 -1 14918
+D2
+~
+~
+0 -1 14921
+D3
+~
+~
+0 -1 14922
+S
+#14920
+The Healer's Lodge~
+This fairly small building appears to house one of the town doctors. 
+Several cots with white sheets fill the back of the room, and a large pile
+of bandaging cloth sits next to each along with a bowl of clean water.  A
+kender healer stands near the cots, attending to any who need his help. 
+Despite this being a kender dwelling, the walls are very high - easily
+measuring twelve feet up, probably to accommodate the non-kender visitors who
+occasionally come to this town, since all are welcome.  If you need healing,
+the doctor will treat you soon.  
+ 
+( ** You may go DOWN to newbie school if your level 5 or below )
+~
+0 1032 0
+D2
+~
+~
+0 0 14909
+D5
+~
+~
+0 0 3700
+S
+#14921
+Entrance to the Town Hall~
+You are standing before the entrance to the City Hall of Kendermore. 
+Though the first floor seems fairly complete with all its doors and walls in
+place, the farther up you gaze you notice each floor is slightly less
+complete than the one below it all the way up to the third and top floor. 
+Up on the second floor, through the hole where a large window should be, you
+can almost catch a glimpse of what sounds like a trial.  A smaller office to
+the east bears the sign 'Town Registry'.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14919
+D1
+~
+~
+0 0 14976
+S
+#14922
+Main Street~
+You are heading along a cobbled path that runs through the center of the
+kender village.  The town square lies to the east of here, while the Grande
+Pub lies to the east.  Shops lie to the north of here, and there are some
+barracks to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 14926
+D1
+~
+~
+0 -1 14919
+D2
+~
+~
+0 -1 14923
+D3
+~
+~
+0 0 14932
+S
+#14923
+Kender Barracks~
+A large steel door allows entrance to what looks almost like a hotel
+receptionist area except with a military theme.  An officious looking kender
+sits behind a desk and in front of a wall of mailboxes with numbers on them.
+The grey marbled hallway leads to the south, down which are several doors to
+various rooms.  Sunlight from the only two windows in this room glints off
+the suits of kender sized armor on either side of the door.  You can go
+south down the hallway or leave north.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14922
+D2
+~
+~
+0 0 14924
+S
+#14924
+Hallway through the Barracks~
+Cold grey marble blocks make up this hallway to the barrack rooms.  In
+true kender fashion rugs, paintings, and other forms of colorful decoration
+cover much of the walls, floors and even ceiling.  To the north you can
+still see the receptionist scratching away with his quill pen in the ledger.
+To the east and west lie numbered doors to various militia members’ rooms,
+and the hallway continues to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14923
+D3
+~
+~
+1 0 14925
+S
+#14925
+Barrack Room~
+This room appears to have been designed so as to be able to accommodate
+many of the various races that make up the "kender" militia.  The room
+measures fifteen to twenty feet, and has been crammed as full as possible
+with various items of all kinds.  Over against the far wall stand a pair of
+bunk beds for the soldiers that reside here.  Thankfully, there is at least a
+trail through the junk to the beds, so the soldiers don’t have to sleep on
+junk.  Several bladed objects protruding from the pile suggest maybe you
+should leave if you're not supposed to be here.  
+~
+0 8 0
+D1
+~
+~
+1 0 14924
+S
+#14926
+Shopper's Row~
+This lane is lined with quaint little shops that cater largely to
+outsiders (Kender aren't known for paying for their possessions).  You will
+be able to buy and sell a variety of items here.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14928
+D2
+~
+~
+0 -1 14922
+D3
+~
+~
+0 -1 14927
+S
+#14927
+The General Store~
+The shelves of this establishment are piled high with goodies of all
+sorts.  Kender passing by each stop to stare longingly for a few seconds
+before they are shooed on by the good-natured proprietor.  While not very
+large in size, this establishment is so packed shoppers are almost forced to
+make their own trails through.  However, that effort is well rewarded by the
+very complete assortment of goods this place affords.  
+~
+0 1032 0
+D1
+~
+~
+0 -1 14926
+S
+#14928
+Shopper's Row~
+This lane is lined with quaint little shops that cater largely to
+outsiders (Kender aren't known for paying for their possessions).  You will
+be able to buy and sell a variety of items here.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14930
+D1
+~
+~
+0 -1 14931
+D2
+~
+~
+0 -1 14926
+D3
+~
+~
+0 -1 14929
+S
+#14929
+The Bakery~
+The mouth-watering aroma emanating from this place of business is enough
+to drive you mad!  You suddenly realize how hungry you are, and decide to
+sample a few locally baked items (or maybe more...:P).
+~
+0 8 0
+D1
+~
+~
+0 -1 14928
+S
+#14930
+The Herbalist~
+This store is crammed with sacks, jars, bags and baskets of freshly
+picked herbs.  Grown by the proprietor herself, these herbs have a wide
+variety of magical effects, though you won't know what until you buy and
+examine them.  
+~
+0 8 0
+D2
+~
+~
+0 -1 14928
+S
+#14931
+The Armory~
+Not a very popular destination for the locals, being as kender aren't the
+most aggressive of races, but perhaps it will be of interest to you.  
+~
+0 8 0
+D3
+~
+~
+0 -1 14928
+S
+#14932
+The Grande Pub~
+At last!  The place you were searching for all along (well, if you
+weren't, you are now ;P).  This magnificent pub is over 500 years old. 
+Fashioned from the finest cedar, its shining floors, massive benches, long
+stein-covered bars and intricately carved stools make you just want to drink
+yourself to death.  You elbow your way through the crowd that always fills
+this pub, and have a good look around.  Tapestries adorn the walls, as do
+massive portraits depicting kender of bygone years.  A huge iron chandelier
+hangs from the massive crossbeams that support the 20' high roof, and you
+estimate that at least 500 candles are currently burning in it.  
+~
+0 8 0
+E
+chandelier~
+This iron behemoth originally hung in the hall of Lord Garrison, commander of
+the Human armies at the Battle of the Blood Plains, but he "gave it to the
+kender as a reward for their services in the war" (it was actually to make
+them bugger off).
+~
+E
+tapestries portraits~
+These depict many famous kender, as well as scenes of nature and village life.
+The tapestries are all quite rustic and atypical for kender, and you surmise
+that they were "borrowed" from some poor hobbit community.
+~
+E
+stools~
+These stools were hand-carved by Thessala the patient nearly 200 years ago
+to replace the original stools, which were lost in the Great Brawl of '96.
+~
+E
+bar bars~
+There are several bars in this place, all crowded with drunken patrons, though
+the main bar lies further in, near the central hall.
+~
+E
+benches~
+Long, polished wooden benches line the walls, serving as support for the
+food and drink (and usually inebriated bodies) of the many patrons here.
+~
+E
+floors~
+These polished wooden floors have been painstakingly waxed every morning for
+centuries now, and they look as new as they did the day they were laid.
+~
+D1
+~
+~
+0 0 14922
+D3
+~
+~
+0 -1 14933
+S
+#14933
+The Central Hall~
+Dozens of patrons gather here day in and day out to drink, sing loud songs
+and swap tall stories.  You see denizens of practically every known race (and
+a few unknown) standing arm in arm singing "Auld Lang Syne", or challenging
+each other to arm-wrestles, games of darts or cards, or drinking contests.
+A HUGE bar lies to the north of here, staffed by a very busy bartender.
+~
+0 8 0
+D0
+~
+~
+0 -1 14934
+D1
+~
+~
+0 -1 14932
+D3
+~
+~
+0 -1 14935
+S
+#14934
+The Bar~
+The main bar of the pub lies here.  It is at least forty feet long,
+perhaps more, and though it is only 3 feet high (on account of the little
+folk), it is still impressive.  A burly kender is busy serving drinks, and
+though he is being practically run off his feet, he still manages to find
+time for a quick chat with every patron.  Such is the way of the Grande Pub.
+~
+0 8 0
+D2
+~
+~
+0 -1 14933
+D5
+~
+~
+1 0 14942
+S
+#14935
+The Dance Hall~
+In this part of the Pub, the Kender and their guests gather for dances,
+accompanied by a 7 piece band seated upon a dais in the corner of this huge
+room.  It is currently deserted, but when the moment is right, it will be
+flooded with inebriated customers enthusiastically throwing each other about
+to the tune of kender and dwarven reels, or swaying softly to the
+accompaniment of an elven waltz.  An elegantly carved staircase winds its
+way up to the next level in another corner here.
+~
+0 8 0
+D1
+~
+~
+0 -1 14933
+D4
+~
+~
+0 0 14936
+S
+#14936
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+0 8 0
+D0
+~
+~
+1 0 14937
+D2
+~
+~
+1 0 14945
+D3
+~
+~
+0 -1 14938
+D5
+~
+~
+0 0 14935
+S
+#14937
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D2
+~
+~
+1 0 14936
+S
+#14938
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+0 8 0
+D0
+~
+~
+1 0 14939
+D1
+~
+~
+0 -1 14936
+D2
+~
+~
+1 0 14944
+D3
+~
+~
+0 -1 14940
+S
+#14939
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D2
+~
+~
+1 0 14938
+S
+#14940
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+0 8 0
+D0
+~
+~
+1 0 14941
+D1
+~
+~
+0 -1 14938
+D2
+~
+~
+1 0 14943
+D3
+~
+~
+0 -1 14946
+S
+#14941
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D2
+~
+~
+1 0 14940
+S
+#14942
+The Cellar~
+This cramped room is stuffed with keg after keg full of every type of
+alcohol known to sentient life. You are sorely tempted to attempt to steal
+all of it, but you know you could never hope to carry it all.  Perhaps you
+could manage a couple of kegs, though...?  ;)
+~
+0 9 0
+D4
+~
+~
+1 0 14934
+S
+#14943
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D0
+~
+~
+1 0 14940
+S
+#14944
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D0
+~
+~
+1 0 14938
+S
+#14945
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with
+several comfortable chairs, a fireplace and a four-poster bed.  Better hope
+no one is in here...  
+~
+0 8 0
+D0
+~
+~
+1 0 14936
+S
+#14946
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+0 8 0
+D0
+~
+~
+0 0 14947
+D1
+~
+~
+0 -1 14940
+S
+#14947
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+0 8 0
+D1
+~
+~
+0 0 14948
+D2
+~
+~
+0 -1 14946
+S
+#14948
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+
+The door to the north reads- "OWNER"
+~
+0 8 0
+D0
+It says "Owner"~
+door~
+1 0 14950
+D1
+~
+~
+1 0 14949
+D3
+~
+~
+0 -1 14947
+S
+#14949
+A Function Room~
+This room is used by clubs and societies to hold functions.  It is strewn
+with balloons, streamers, ashtrays full of butts and half empty beers.  It
+also smells pretty bad.  No wonder the cleaner didn't show up for work
+today.  
+~
+0 9 0
+D3
+~
+~
+1 0 14948
+S
+#14950
+The Owner's Office~
+You have entered the office of the owner of the Grande Pub.  He is currently
+downstairs living it up with the rest of the town, so you can rifle through
+his office at will.
+~
+0 9 0
+D2
+~
+~
+1 0 14948
+S
+#14951
+Boggle T. Spurfoot's House~
+A sign on the door proclaims this is the house of Boggle T.  Spurfoot,
+infamous kender explorer.  Glancing around you see piles upon piles of
+debris from all over the world, a rather messy testament to this kender's
+exploring abilities.  Seeing as how the main, and only, room seems empty
+you'd guess Boggle isn’t home now.  Over in the far corner you notice a
+kender sized bed, so covered in junk you didn’t notice it before.  If your
+tired, you might want to take advantage of this free (albeit illegal)
+lodging.  You can stick around, or leave this place to the east.  
+~
+0 13 0
+D1
+~
+~
+0 0 14914
+S
+#14952
+Little Kender's Room~
+Upon entering this room, the first thing that sticks out is how crowded it
+is.  Just like the main room, this room is stuffed to the brim with assorted
+odds and ends.  In the far corner, you can even see what looks almost like
+the prow of a sailing ship.  Glancing to the other side, you see a child
+sized bunk bed on which two small kender children sleep soundly.  Knowing
+how kender can be, maybe you should let them sleep.  
+~
+0 0 0
+D2
+~
+~
+0 0 14915
+S
+#14953
+Ma and Pa's Room~
+This room is slightly smaller than the main room, but is still a decent
+sized room for a couple of kender.  Even stranger, this room is in perfect
+order with all the odds and ends stacked neatly on various shelves of stored
+in a large trunk in the corner.  In the corner opposite the shelf is a
+kender queen sized bed that is well made up and covered in throw pillows. 
+Directly above the bed is a window, angled just so they get the best of the
+daylight and the starlight.  
+~
+0 0 0
+D0
+~
+~
+0 0 14915
+S
+#14954
+A Side Street~
+This small dirt road winds through what at the moment appears to be a
+residential area.  However, knowing kender architecture that could change at
+any moment.  Northward appears to lead to a main road of some kind, with
+more houses to the northwest and northeast.  The road continues winding
+through the city to the west, and homes lie to the south and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 14914
+D2
+~
+~
+0 0 14916
+D3
+~
+~
+0 0 14955
+S
+#14955
+A Side Street~
+You are on a dirt road leading haphazardly through Kendermore.  This road
+appears to head east into a residential area and southwest-ish to some
+medium sized building.  From here you can almost make out the sounds of
+drunken revelry coming from the west over the sounds of home life to the
+east.  Thankfully, there don’t appear to be any parades forming at the
+moment, but I’d get moving before one does.  
+~
+0 0 0
+D1
+~
+~
+0 0 14954
+D2
+~
+~
+0 0 14956
+S
+#14956
+A Side Street~
+This is a small dirt road weaving through what is at the moment a back
+alley.  The road is just wide enough to allow two wagons to pass by each
+other.  From the look of the tracks on this road, it appears to be used more
+by people on foot than by people in wagons.  To the south you can make out
+what looks like a busy tavern, which would explain all the footprints. 
+Maybe you should seek refugee inside from the random parades and elections
+that tend to appear on open roads.  
+~
+0 0 1
+D0
+~
+~
+0 0 14955
+D2
+~
+~
+0 0 14957
+S
+#14957
+The Blunderbust Inn & Tavern~
+This room is relatively large for kender architecture and actually has a
+ceiling high enough to easily accommodate the larger races.  Over towards
+the east wall stretches out the large bar complete with comfortable looking
+stools.  Behind the bar stands a pleasant looking old ogre, cheerfully
+accepting drink orders.  The rest of the room is filled with a large
+collection of tables, all with four chairs each except a large table for
+bigger meetings.  Towards the southern side, you also see a large staircase
+leading up to what you'd guess to be the inn area.  Altogether a pleasant
+looking place to sit and have a drink, or you could head up to the rooms or
+east to the kitchen area.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14956
+D4
+~
+~
+0 0 14958
+S
+#14958
+Upstairs Hallway~
+A medium sized window across from the staircase allows daylight or
+moonlight to filter through into this room providing comfortable
+illumination.  Several sconces holding torches add to the illumination,
+making it easy to see all the way down the hardwood hallway.  Several doors
+line the walls, each with a small brass number nailed to it indicating the
+room number.  The variety of sounds filters up the staircase constantly, but
+the thick well made floors mute it enough to not be deafening.  Room #1 is
+to the east, and room #2 is to the west.  If you posses a key to either
+room, you can go on in.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14960
+D1
+~
+~
+1 0 14964
+D3
+~
+~
+1 0 14965
+D5
+~
+~
+0 0 14957
+S
+#14959
+Room #1~
+A single window with soft white curtains allows gentle light to filter
+through into the room.  During the evening hours the fireplace is usually lit
+to provide additional illumination and warmth.  The room is covered in oak
+panels, and rather solidly built despite this building having weathered many
+a powerful storm.  A soft comfy looking bed sits in the corner, with a
+descent sized oak chest next to it for possessions.  All in all, it looks to
+be a rather cozy place to spend the night.  
+~
+0 1036 0
+S
+#14960
+Upstairs Hallway~
+A medium sized window down the hall allows daylight or moonlight to
+filter through into this room providing comfortable illumination.  Several
+sconces holding torches add to the illumination, making it easy to see all
+the way down the hardwood hallway.  Several doors line the walls, each with
+a small brass number nailed to it indicating the room number.  A variety of
+sounds filters up but the thick well made floor mutes it enough to not be
+deafening.  Room #3 is to the east, and room #4 is to the west.  If you
+posses a key to either room, you can go on in.  
+~
+0 0 0
+D0
+~
+~
+0 0 14961
+D1
+~
+~
+1 0 14966
+D2
+~
+~
+0 0 14958
+D3
+~
+~
+1 0 14967
+S
+#14961
+Upstairs Hallway~
+A medium sized window down the hall allows daylight or moonlight to
+filter through into this room providing comfortable illumination.  Several
+sconces holding torches add to the illumination, making it easy to see all
+the way down the hardwood hallway.  Several doors line the walls, each with
+a small brass number nailed to it indicating the room number.  A variety of
+sounds filters up but the thick well made floor mutes it enough to not be
+deafening.  Room #5 is to the east, and room #6 is to the west.  If you
+posses a key to either room, you can go on in.  
+~
+0 0 0
+D0
+~
+~
+0 0 14962
+D1
+~
+~
+1 0 14968
+D2
+~
+~
+0 0 14960
+D3
+~
+~
+1 0 14969
+S
+#14962
+Upstairs Hallway~
+A medium sized window down the hall allows daylight or moonlight to
+filter through into this room providing comfortable illumination.  Several
+sconces holding torches add to the illumination, making it easy to see all
+the way down the hardwood hallway.  Several doors line the walls, each with
+a small brass number nailed to it indicating the room number.  A variety of
+sounds filters up but the thick well made floor mutes it enough to not be
+deafening.  Room #7 is to the east, and room #8 is to the west.  If you
+posses a key to either room, you can go on in.  
+~
+0 0 0
+D0
+~
+~
+0 0 14963
+D1
+~
+~
+1 0 14970
+D2
+~
+~
+0 0 14961
+D3
+~
+~
+1 0 14971
+S
+#14963
+End of the Hallway~
+A medium sized window built into the end of the hall allows daylight or
+moonlight to filter through into this room providing comfortable
+illumination.  Several sconces holding torches add to the illumination,
+making it easy to see all the way down the hardwood hallway.  Several doors
+line the walls, each with a small brass number nailed to it indicating the
+room number.  A variety of sounds filters up but the thick well made floor
+mutes it enough to not be deafening.  Room #9 is to the east, and room #10
+is to the west.  If you posses a key to either room, you can go on in.  
+~
+0 0 0
+D1
+~
+~
+1 0 14972
+D2
+~
+~
+0 0 14962
+D3
+~
+~
+1 0 14973
+S
+#14964
+Room #1~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D3
+~
+~
+1 14953 14958
+S
+#14965
+Room #2~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D1
+~
+~
+1 14954 14958
+S
+#14966
+Room #3~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D3
+~
+~
+1 14955 14960
+S
+#14967
+Room #4~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.
+~
+0 524 0
+D1
+~
+~
+1 14956 14960
+S
+#14968
+Room #5~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D3
+~
+~
+1 14957 14961
+S
+#14969
+Room #6~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D1
+~
+~
+1 14958 14961
+S
+#14970
+Room #7~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D3
+~
+~
+1 14959 14962
+S
+#14971
+Room #8~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D1
+~
+~
+1 14960 14962
+S
+#14972
+Room #9~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D3
+~
+~
+1 14961 14963
+S
+#14973
+Room #10~
+A comfortable level of illumination fills this room through a large
+double window pained with real glass.  A pair of soft hand sewn curtains
+with daisy patterns on them cover the windows but can be easily thrown open
+to provide more light or a good view of Kendermore.  A large double bed sits
+in one corner, almost directly across from the fireplace.  The fireplace
+burns warmly, the occasional pop and hiss from the fresh firewood being the
+only sound that can be heard from the inn.  Even the floor is not left
+undecorated, with a beautiful hand sewn carpet of swirling colors on the
+floor.  There is even a medium sized chest for storing your belongings in,
+making it truly a comfortable place to rest a while.  
+~
+0 524 0
+D1
+~
+~
+1 14962 14963
+S
+#14974
+A Side Street~
+Small wagon ruts and foot prints are all that mare this small path
+through Kendermore.  The path appears to lead towards some houses and back
+towards the main road to the south, and turns off to the west.  To the north
+lies a building with a small sign above the door with a picture of a house
+and the words "Kendermore Real Estate Agency" in red paint letters.  To the
+east is an empty lot, where one day a home may be built but that is not yet
+accessible.  
+~
+0 0 1
+D0
+~
+~
+1 0 14975
+D2
+~
+~
+0 0 14912
+D3
+~
+~
+0 0 14987
+S
+#14975
+Kendermore Real Estate Agency~
+At first this room is so filled with smoke, it is impossible to see a foot
+in front of your face.  Slowly the smoke fades out the door until it is
+dimly visible inside, allowing you to view the rooms contents.  The source
+of the smoke appears to be a rather fat kender reclining behind his desk and
+smoking a large cigar.  Since all the windows are close, and the door to the
+back room is as well, the smoke has nowhere to go when the front door is
+closed.  Anyone who values they're health would be advised not to stay long.  
+~
+0 1 1
+D2
+~
+~
+1 0 14974
+S
+#14976
+Town Registry~
+This bustling office is home to most of the city's day-to-day operations,
+or at least it would be, if kender cared about such things.  In truth, this
+office is more of a good-natured check in station, since most kender never
+bother to stick around for very long.  Those that do typically swap houses
+on a regular basis "to keep things interesting", so any form of census is
+practically impossible.  However, there is a stack of residence forms that
+have been set aside for those who, for whatever reason, choose to stay
+awhile.  
+ 
+*A small SIGN has been posted next to a "Gone Fishing" notice*
+~
+0 262152 1
+E
+sign~
+{x /--\__________________________________/--\
+{x! oo !                                !    !
+{x \__/----------------------------------\__/
+{x    |                                    |
+{x    |        {yWelcome to Kendermore{x       |
+{x    |                                    |
+{x    |  {rIf you wish to become a Citizen{x   |
+{x    | {rof Kendermore you must first make{x  |
+{x     \  {rSure you have 5,000 steel coins.{x \
+{x      \                                   \
+{x      | {rThen simply tell me you want{x       |
+{x      |     {rto live in Kendermore{x          |
+{x      |                                    |
+{x      | {r[{GHint{r: Using the SAY cmd, say:]{x    |
+{x      |   {yI wish to live in Kendermore{x     |
+{x      |                                    |
+{x      /--\______________________________/--\
+{x     ! oo !                            !    !
+{x      \__/------------------------------\__/
+~
+D3
+~
+~
+0 0 14921
+S
+#14977
+Bumblebee Street~
+A medium sized packed dirt road winds away from the side of a building in
+a generally southeastern direction.  Standing next to the road, a sign
+proclaiming this to be 'Bumblebee Street' creaks slightly whenever a breeze
+blows by.  Apparently from the footprints on the wall if one wants to go
+north going into the house the road ends through the window is a perfectly
+reasonable option.  Those who would prefer not can always take the road of
+course.  
+~
+0 0 1
+D0
+~
+window~
+0 0 14916
+D2
+~
+~
+0 0 14978
+S
+#14978
+Bumblebee Street~
+You are on a medium sized pack dirt street leading in a vaguely
+southeastern direction at the moment.  Trees line either side of the road
+sparsely, but seem to become thickly packed to the west.  A small dirt path
+winds its way off Bumblebee Street and into the thicker woods.  Next to the
+small trail sits a small sign on a wooden post that says 'Private Property'
+in both common and kender.  Despite the sign there are footprints in the
+dust going both ways.  
+~
+0 0 1
+D0
+~
+~
+0 0 14977
+D1
+~
+~
+0 0 14982
+D3
+~
+~
+0 0 14979
+S
+#14979
+Path Through the Woods~
+Tall trees grow close together here blotting out most of the sunlight,
+though enough still beams down in rays of yellow light to make it not
+blindingly dark.  Despite the initial ominous appearance of this place birds
+chirp merrily from tree branches and the occasional squirrel or other small
+creature darts here and there giving this place an almost serene aura. 
+Looking carefully you can begin to make out what looks like a wooden
+structure of some kind down the twisting trail to the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 14978
+D3
+~
+~
+0 0 14980
+S
+#14980
+A Shack in the Middle of the Clearing~
+The trail finally winds out of the trees and across a clearing, finally
+stopping at a medium sized wooden shack in the middle of the clearing.  The
+shacks almost seems to list slightly, being a large blight in the sunlight
+peaceful clearing.  The door to the shack is open slightly, but to dark
+inside to make anything out.  The only other oddity is the family of small
+black birds that have made a next on a corner of the shack.  
+~
+0 0 3
+D0
+~
+~
+0 0 14981
+D1
+~
+~
+0 0 14979
+S
+#14981
+Hoji's House~
+This is the humble abode of Hoji the monk.  The room is pitch black and
+looks in even worse repair from the inside that it does from the outside. 
+Small mats line the floor, as if for several people to sit at once in here. 
+One of the mats appears to have a statue of a human man in the lotus
+position.  At least it appears to be a statue until Hoji greets you warmly
+and inquires if you're in need of training.  
+~
+0 1037 0
+D2
+~
+~
+0 0 14980
+S
+#14982
+Tulip Street~
+Standing next to the road, an old weather worn signpost proclaims this
+to be Tulip Street.  The road consists of a medium sized strip of packed
+dirt and wagon ruts that leads in a southeastern direction currently, but
+appears to curve further down.  At the moment, the road doesn’t appear to lead
+anywhere interesting, but who knows about further down.  
+~
+0 0 1
+D2
+~
+~
+0 0 14983
+D3
+~
+~
+0 0 14978
+S
+#14983
+Tulip Street~
+A broad medium sized strip of dirt serves as what is currently known as
+Tulip Street.  Deep ruts that line either side of the road indicate several
+wagons have passed over it in its time.  Even now the clip clop sound of
+some beast of burden fades towards your ears, attesting to the traffic this
+road sometimes goes through.  The road continues southeast for the moment,
+but appears to curve towards southwest a short while down it.  
+~
+0 0 1
+D0
+~
+~
+0 0 14982
+D1
+~
+~
+0 0 14984
+S
+#14984
+Tulip Street~
+A broad medium sized strip of dirt serves as what is currently known as
+Tulip Street.  Deep ruts that line either side of the road indicate several
+wagons have passed over it in its time.  Even now the clip clop sound of
+some beast of burden fades towards your ears, attesting to the traffic this
+road sometimes goes through.  The road continues southeast for the moment,
+but appears to curve towards southwest a short while down it.  
+~
+0 0 1
+D2
+~
+~
+0 0 14985
+D3
+~
+~
+0 0 14983
+S
+#14985
+Tulip Street~
+A broad medium sized strip of dirt serves as what is currently known as
+Tulip Street.  Deep ruts that line either side of the road indicate several
+wagons have passed over it in its time.  Even now the clip clop sound
+of some beast of burden fades towards your ears, attesting to the traffic
+this road sometimes goes through.  The road continues southeast for the
+moment, but appears to curve towards southwest a short while down it.  
+~
+0 0 1
+D0
+~
+~
+0 0 14984
+D1
+~
+~
+0 0 14986
+S
+#14986
+Tulip Street~
+A broad medium sized strip of dirt serves as what is currently known as
+Tulip Street.  Deep ruts that line either side of the road indicate several
+wagons have passed over it in its time.  Even now the clip clop sound of
+some beast of burden fades towards your ears, attesting to the traffic this
+road sometimes goes through.  The road heads south for the moment, but
+appears to curve towards southwest a short while down it.  
+~
+0 0 1
+D3
+~
+~
+0 0 14985
+S
+#14987
+A Side Street~
+Small wagon ruts and foot prints are all that mare this small path
+through Kendermore.  The path appears to lead towards a small shop with a
+picture of a candle on its sign to the west and towards and empty lot to the
+east.  To the north and south sit the backsides of several buildings clumped
+so close together they're practically connected.  
+~
+0 0 1
+D1
+~
+~
+0 0 14974
+D3
+~
+~
+0 0 14988
+S
+#14988
+Candlemaker's Shop~
+This room is very well lit, either by the large windows by day or a
+series of half-burned candles by night.  Most of the floor, even parts of
+the walls and ceiling are covered in wax of all kinds.  Large stands of
+predominately beeswax candles cover most of the room on the north and south
+side.  On the western side of the room sits a small counter and a medium
+sized open window.  A large closet sized room for making candles and the
+door out are all that’s on the east side.  
+~
+0 0 0
+D1
+~
+~
+0 0 14987
+S
+#14989
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 0 14907
+D1
+~
+~
+0 0 14990
+D2
+~
+~
+0 0 14991
+S
+#14990
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D2
+~
+~
+0 0 14992
+D3
+~
+~
+0 0 14989
+S
+#14991
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 0 14989
+D1
+~
+~
+0 0 14992
+D2
+~
+~
+0 0 14993
+S
+#14992
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 0 14990
+D3
+~
+~
+0 0 14991
+S
+#14993
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D0
+~
+~
+0 0 14991
+D1
+~
+~
+0 0 14994
+S
+#14994
+Wendle Woods~
+You are passing through a lightly forested area that lies before the
+kender village.  You see shapes moving through the trees on either side of
+you, and you feel rather uneasy, as if you were being watched.  
+~
+0 0 3
+D2
+~
+~
+0 0 14995
+D3
+~
+~
+0 0 14993
+S
+#14995
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 2
+D0
+~
+~
+0 0 14994
+D3
+~
+~
+0 0 14996
+S
+#14996
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 2
+D1
+~
+~
+0 0 14995
+D2
+~
+~
+0 0 14997
+S
+#14997
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 2
+D0
+~
+~
+0 0 14996
+D2
+~
+~
+0 0 14998
+D3
+~
+~
+0 0 14999
+S
+#14998
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 2
+D0
+~
+~
+0 0 14997
+D3
+~
+~
+0 0 8769
+S
+#14999
+Beast's Run~
+The woods around you are thick, and the heavy canopy from above shadows
+most of the forest floor around you.  Beasts Run seems to be barely existent
+beneath the thick undergrowth.  As you look up you see little sunlight that
+manages to penetrate the thick leaves.  
+~
+0 0 2
+D1
+~
+~
+0 0 14997
+D2
+~
+~
+0 0 8769
+S
+#0
+
+
+
+#SPECIALS
+M 14900 spec_guard
+M 14901 spec_thief
+M 14902 spec_thief
+M 14903 spec_thief
+M 14904 spec_cast_adept
+M 14905 spec_guard
+M 14906 spec_cast_mage
+M 14907 spec_thief
+M 14908 spec_thief
+M 14909 spec_thief
+M 14915 spec_nasty
+M 14916 spec_fido
+M 14919 spec_thief
+M 14920 spec_thief
+M 14923 spec_thief
+M 14976 spec_hometownchanger
+S
+
+
+
+#RESETS
+D 0 14910 1 1
+D 0 14910 3 1
+D 0 14911 1 1
+D 0 14913 3 1
+D 0 14914 1 1
+D 0 14915 3 1
+D 0 14917 1 1
+D 0 14924 3 2
+D 0 14925 1 2
+D 0 14934 5 1
+D 0 14936 0 1
+D 0 14936 2 1
+D 0 14937 2 1
+D 0 14938 0 1
+D 0 14938 2 1
+D 0 14939 2 1
+D 0 14940 0 1
+D 0 14940 2 1
+D 0 14941 2 1
+D 0 14942 4 2
+D 0 14943 0 1
+D 0 14944 0 1
+D 0 14945 0 1
+D 0 14948 0 1
+D 0 14948 1 1
+D 0 14949 3 1
+D 0 14950 2 1
+D 0 14958 1 2
+D 0 14958 3 2
+D 0 14960 1 2
+D 0 14960 3 2
+D 0 14961 1 2
+D 0 14961 3 2
+D 0 14962 1 2
+D 0 14962 3 2
+D 0 14963 1 2
+D 0 14963 3 2
+D 0 14964 3 2
+D 0 14965 1 2
+D 0 14966 3 2
+D 0 14967 1 2
+D 0 14968 3 2
+D 0 14969 1 2
+D 0 14970 3 2
+D 0 14971 1 2
+D 0 14972 3 2
+D 0 14973 1 2
+D 0 14974 0 1
+D 0 14975 2 1
+M 0 14900 4 14902 4
+E 0 14900 0 20
+E 0 14901 0 6
+E 0 14902 0 8
+E 0 14903 0 5
+E 0 14904 0 3
+E 0 14906 0 17
+E 0 14907 0 21
+M 0 14915 2 14904 2
+M 0 14900 4 14905 4
+E 0 14900 0 20
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14904 0 3
+E 0 14906 0 17
+E 0 14907 0 21
+M 0 14915 2 14906 2
+M 0 14902 8 14911 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14901 8 14912 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14902 8 14913 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+O 0 14944 0 14915
+M 0 14919 1 14915 1
+M 0 14901 8 14916 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14902 8 14917 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14901 8 14918 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14903 6 14918 6
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14905 0 21
+M 0 14906 1 14919 1
+E 0 14901 0 6
+E 0 14902 0 8
+E 0 14903 0 5
+E 0 14906 0 17
+G 0 14910 0
+M 0 14901 8 14919 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14902 8 14919 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14903 6 14919 6
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14905 0 21
+M 0 14916 4 14919 4
+O 0 14975 0 14920
+M 0 14904 1 14920 1
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14906 0 13
+M 0 14901 8 14922 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14902 8 14922 8
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+M 0 14903 6 14922 6
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14905 0 21
+M 0 14923 1 14923 1
+E 0 14904 0 3
+E 0 14903 0 5
+E 0 14902 0 7
+E 0 14901 0 6
+E 0 14900 0 20
+E 0 14965 0 21
+M 0 14905 4 14924 4
+E 0 14900 0 20
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14904 0 3
+E 0 14907 0 21
+M 0 14905 4 14925 4
+E 0 14900 0 20
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14904 0 3
+E 0 14907 0 21
+O 0 14932 0 14927
+M 0 14911 1 14927 1
+G 0 14915 0
+G 0 14916 0
+G 0 14917 0
+G 0 14918 0
+G 0 14919 0
+O 0 14932 0 14929
+M 0 14910 1 14929 1
+G 0 14911 0
+G 0 14912 0
+G 0 14913 0
+G 0 14914 0
+O 0 14932 0 14930
+M 0 14913 1 14930 1
+G 0 14924 0
+G 0 14925 0
+G 0 14926 0
+G 0 14927 0
+O 0 14932 0 14931
+M 0 14912 1 14931 1
+G 0 14920 0
+G 0 14921 0
+G 0 14922 0
+G 0 14923 0
+M 0 14909 10 14933 10
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14906 0 17
+M 0 14914 1 14934 1
+G 0 14928 0
+G 0 14929 0
+G 0 14930 0
+G 0 14931 0
+O 0 14933 0 14937
+O 0 14934 0 14937
+O 0 14943 0 14937
+O 0 14933 0 14939
+O 0 14934 0 14939
+O 0 14943 0 14939
+O 0 14933 0 14941
+O 0 14934 0 14941
+O 0 14943 0 14941
+M 0 14908 1 14941 1
+E 0 14900 0 20
+E 0 14901 0 6
+E 0 14902 0 7
+E 0 14903 0 5
+E 0 14904 0 3
+E 0 14906 0 17
+G 0 14909 0
+G 0 14910 0
+O 0 14935 0 14942
+O 0 14936 0 14942
+O 0 14937 0 14942
+O 0 14938 0 14942
+O 0 14939 0 14942
+O 0 14933 0 14943
+O 0 14934 0 14943
+O 0 14943 0 14943
+O 0 14933 0 14944
+O 0 14934 0 14944
+O 0 14943 0 14944
+O 0 14933 0 14945
+O 0 14934 0 14945
+O 0 14943 0 14945
+O 0 14933 0 14949
+O 0 14934 0 14949
+O 0 14934 0 14950
+O 0 14940 0 14950
+O 0 14941 0 14950
+O 0 14942 0 14950
+O 0 14944 0 14951
+O 0 14945 0 14951
+O 0 14946 0 14951
+O 0 14947 0 14952
+M 0 14917 1 14952 0
+M 0 14917 1 14952 1
+M 0 14918 1 14952 1
+M 0 14920 1 14953 1
+M 0 14921 1 14957 1
+G 0 14950 0
+G 0 14951 0
+G 0 14952 0
+O 0 14949 0 14957
+O 0 14948 0 14957
+M 0 14922 1 14958 1
+G 0 14953 0
+G 0 14954 0
+G 0 14955 0
+G 0 14956 0
+G 0 14957 0
+G 0 14958 0
+G 0 14959 0
+G 0 14960 0
+G 0 14961 0
+G 0 14962 0
+O 0 14963 0 14964
+O 0 14964 0 14964
+O 0 14963 0 14965
+O 0 14964 0 14965
+O 0 14963 0 14966
+O 0 14964 0 14966
+O 0 14963 0 14967
+O 0 14964 0 14967
+O 0 14963 0 14968
+O 0 14964 0 14968
+O 0 14963 0 14969
+O 0 14964 0 14969
+O 0 14963 0 14970
+O 0 14964 0 14970
+O 0 14963 0 14971
+O 0 14964 0 14971
+O 0 14963 0 14972
+O 0 14964 0 14972
+O 0 14963 0 14973
+O 0 14964 0 14973
+M 0 14924 1 14975 1
+M 0 14976 1 14976 1
+M 0 3016 1 14981 1
+M 0 14926 1 14988 1
+G 0 14970 0
+G 0 14971 0
+S
+
+
+
+#SHOPS
+14910 19 0 0 0 0 180 20 0 23
+14911 1 15 17 19 22 100 50 0 23
+14912 5 9 0 0 0 150 50 0 23
+14913 10 26 0 0 0 180 20 0 23
+14914 17 8 0 0 0 190 10 0 23
+14921 17 0 0 0 0 100 100 0 23
+14922 18 0 0 0 0 100 100 1 24
+14924 13 0 0 0 0 100 100 0 23
+14926 1 0 0 0 0 50 100 0 23
+0
+
+
+
+#MOBPROGS
+#14900
+if mobhere 14915
+if mobhere boar
+say Ieeee! Kill the boar!
+kill boar
+endif
+~
+#14906
+say Now now, calm down children and I’ll read you a story
+emote straitens his spectacles and peers intently at the book.
+say Yes, now where was I...  Ahh, here we go...
+emote clears his throat.
+say Once upon a time, there was a little kender who wanted more than anything to be a historian...
+say But that little kender was told he wasn’t aloud to be a scribe in the great library of Palanthas, so...
+emote trails off, absentmindedly mumbling to himself.
+end
+~
+#14915
+k kender
+~
+#14919
+emote unfolds his newspaper and starts puffing on his pipe.
+say Damn!  Ol' Betsy lost the cow races again!  That puts me down 3 points... 
+emote grumbles discontentedly.
+~
+#14920
+emote whirls around the room, cleaning with a vengeance.
+~
+#14922
+set obj key timer 30
+say I should set obj key timer 30
+mob set obj key timer 30
+end
+~
+#14923
+emote busily writes new text into his ledger.
+say $n entered the barracks on business unknown.
+~
+#14924
+peer $n
+say yeeh..  what can I do ya for $n?  If you want more info on buying a home just say more info
+~
+#14925
+nod $n
+say In order to purchase a house you must first have a deed, which I sell.
+say A deed alone will get you a single room with no extras like doors or furniture.
+say However, once you have a deed you can pay the immortal construction agent more money for additional options like more rooms and furniture.
+say Buy one of my price lists for costs on options.  If you need more info, say still more info
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#HELPS
+0 Kendermore~
+Kender are unique to Krynn.  They are the halflings which many other
+worlds sport, but they are much more interesting than that.  Kender appear
+to be small human children; slight of build, beardless, about three and half
+to four feet tall.  Kender generally live for 100 years (or until their
+curiosity kills them).  Wanderlust is uniquely a kender trait, which is the
+fever which possesses young kender and causes them to travel the world over.
+Kender wander for years, settling down after they feel they have wandered
+down all the roads their heart desires.  Wanderlust usually lasts for about
+10 years.  In regard to personal belongings, kender have a relatively loose
+definition of what is "theirs."  In a kender home, a relic is anything that
+hasn't disappeared after three weeks.  Kender have the unique 'handling'
+ability which allows them to "find" objects unconsciously.  If a kender were
+to walk through a crowd of people, it would be unlikely if the kender's
+pouches were not bulging with the belongings of at least half the people
+there.  If anyone cornered him and asked him about it, the kender would
+truthfully reply that "it must have fallen into my pouch.  It's a good thing
+that I found it or somebody else might have taken it."  Because of their
+naivete in regards to personal belongings (especially how they come to
+possess those items which belong to other people), the worst name you may
+call a kender is either a 'cutpurse' or a 'thief,' for they believe that
+they are neither; rather it was an accident, "remember?"  Kender also have a
+trait which enables them to be entirely fearless.  While the rest of the
+party shies away from the edge of the bottomless gorge, the kender will skip
+merrily along the edge, cross the rotting foot bridge and stop to smell the
+roses on the other side while being charged by an enraged minotaur. 
+Everything is an adventure, including death, which is the last great
+adventure (many a kender have wondered what it is like to be breathed upon
+red dragon, but few who have experienced it live to tell the tale).  This
+fearlessness might be interpreted as stupidity, but kender are fiendishly
+clever in a child-like sort of way.  
+~
+
+-1 $~
+
+#$

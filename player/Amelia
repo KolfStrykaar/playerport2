@@ -1,0 +1,1386 @@
+#PLAYER
+Name Amelia~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1389063706
+LogO 1392436952
+Vers 10
+Act  DEFGHQTe
+Desc Before you stands a half-elf female, and her diminutive stature might
+declare her the runt of her kind.  Standing fully at a few inches below
+the five foot mark, it would seem that she might be overlooked, though
+another glance would prove that is certainly not the case.
+
+What her stature lacks, her presence more than makes up for.  When one
+might think of red hair, the image of coppery, carrot-colored strands
+might come to mind, but it is far different with this woman. Her hair is a
+{rdeep, startling red{x, nearly resembling the color of mahogany, the
+silken locks lying heavily along her spine in a tight braid, the ends
+finally reaching the middle of her thighs. Beneath lightly arched brows,
+wide eyes are framed by a fringe of thick, long lashes, their lengths
+adding to the expressiveness of the {gemerald{x eyes that flicker readily
+with her emotions.
+
+A slim nose compliments high cheekbones, as well as the delicate tapering
+of her chin.  Though not standing as tall most around her, she is fully
+grown, noted by the gentle curves of her frame. These are accentuated by
+the pale {Yyellow{x silk gown she wears, the fabric clinging to her flesh
+from shoulder to hip, then flaring out in soft folds to fall at her feet.
+The gown itself is unremarkable, simple and unadorned, though as she
+turns, it is revealed that the gown is backless.
+
+Instead of the vision of creamy skin meeting your eyes, an exquisite
+{Dblack-dragon{x tattoo covers the expanse of skin that meets your gaze,
+{ygold{x ink having been used to highlight the details, outlining each
+scale, the sweep of wings, and outlining the face.  The dragon's eyes glow
+{Rred{x against its {Dblack{x face, watching those who stand behind this
+small woman.
+
+~
+Prom <%h/%Hhp %v/%Vmv %Xtnl %B> ~
+Race half-elf~
+Sex  2
+Cla  3
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1314400
+Sec  0
+Plyd 420499
+Not  1390434707 1382804331 0 1388507934 1298827134
+Scro 22
+Room 3008
+HMV  2445 2445 330 330 732 733
+Steel 2840
+Gold 44227
+Bank 3886
+Exp  17885000
+AfBy HJV
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3670016
+Comm NOQ
+Pos  8
+Prac 150
+Save  -16
+Alig  -993
+Ethos 0
+Hit   33
+Dam   21
+ACs -70 -56 -85 -12
+Wimp  100
+Attr 34 23 21 25 23 16
+AMod 10 2 15 18 12 0
+Pass AmupYnBiDOIgc~
+Titl  the Mistress of War~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 86
+HMVP 2235 330 733
+Cnd  0 56 56 0
+QuestPnts 144
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 006
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 25 'frenzy'
+Sk 23 'axe'
+Sk 92 'dagger'
+Sk 50 'flail'
+Sk 15 'mace'
+Sk 19 'polearm'
+Sk 70 'shield block'
+Sk 31 'spear'
+Sk 100 'sword'
+Sk 23 'whip'
+Sk 45 'bash'
+Sk 8 'berserk'
+Sk 14 'dirt kicking'
+Sk 12 'disarm'
+Sk 98 'dodge'
+Sk 100 'enhanced damage'
+Sk 88 'hand to hand'
+Sk 100 'kick'
+Sk 92 'parry'
+Sk 12 'rescue'
+Sk 9 'trip'
+Sk 100 'second attack'
+Sk 97 'third attack'
+Sk 81 'fourth attack'
+Sk 75 'break weapon'
+Sk 66 'counter'
+Sk 93 'critical strike'
+Sk 75 'sharpen'
+Sk 76 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 45 'nerve pinch'
+Sk 28 'caltrops'
+Sk 19 'battle tactics'
+Sk 67 'wear chain'
+Sk 45 'wear leather'
+Sk 23 'wear plate'
+Sk 91 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 50 'recall'
+Sk 23 'bow'
+Sk 75 'bind wounds'
+Sk 19 'breakneck'
+Sk 45 'guard'
+Sk 84 'headbutt'
+Sk 12 'mounted combat'
+Sk 15 'impale'
+Sk 19 'cleave'
+Sk 19 'trammel'
+Sk 15 'flank attack'
+Sk 38 'staff'
+Sk 38 'eyerub'
+Sk 75 'finger break'
+Sk 75 'earpunch'
+Sk 75 'tonguecut'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 75 'heroic demise'
+Sk 45 'joust'
+Sk 38 'shatter shield'
+Sk 75 'arrow deflection'
+Affc 'armor'   0 109  22 -20  17          0
+Affc 'haste'   0 109  24   4   2    2097152
+Affc 'giant strength'   0 110 107   4   1          0
+Affc 'shield'   0 110 112 -20  17          0
+Affc 'sanctuary'   0 109  11   0   0        128
+Affc 'bless'   0 109 109 -13  25          0
+Affc 'bless'   0 109 109  13  18          0
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 97
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 97
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 16184
+Enchanted
+Nest 0
+ExtF 262209
+Cond 96
+Wear 6
+Lev  17
+Cost 0
+Affc 'enchant armor'   1 101  -1  -6  17          0
+Affc 'reserved'   1  12  -1   2   4          0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 5762
+Nest 0
+Cond 94
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 370
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 495
+End
+
+#O
+Vnum 16233
+Nest 1
+Cond 100
+Wear -1
+Cost 966
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 13715
+Nest 1
+Cond 53
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 100
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 16204
+Nest 1
+Cond 100
+Wear -1
+Cost 765
+End
+
+#O
+Vnum 17407
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17724
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 4821
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 1218
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9827
+Nest 1
+Cond 65
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 9577
+Nest 1
+Cond 62
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 91
+Wear 19
+Cost 6378
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 95
+Wear 11
+Cost 1395
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 748
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 88
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 88
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3016
+Enchanted
+Nest 0
+ExtF 0
+Cond 100
+Wear 16
+Lev  19
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 5762
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11258
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 10835
+Nest 0
+Cond 100
+Wear 5
+Cost 20
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3007
+Nest 0
+Cond 100
+Wear -1
+Cost 3800
+End
+
+#O
+Vnum 3017
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9831
+Nest 0
+Cond 97
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 14927
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'cure serious'
+Spell 2 'refresh'
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#END

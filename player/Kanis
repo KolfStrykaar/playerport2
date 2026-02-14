@@ -1,0 +1,473 @@
+#PLAYER
+Name Kanis~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1275478155
+LogO 1391453318
+Vers 10
+Act  DEGILQT
+Desc {xA large Bozak draconian stands before you.  Her {rhorn{x-tipped wings
+add an extra foot to her already six and a half foot tall frame.  The scales
+that cover her body are a deep {ybronze{x color, slightly darkened from
+{ydirt{x and {Dash{x.  Looking closer to her face you can tell she has
+swirling {ramber{x color eyes, always alert and peering about the room. 
+Kanis rarely shows her teeth, but you notice they are a light {Dgray{x
+color, and sharpened to a point.  The {yscales{x on her face are very thin
+and spaced out, becoming closer together and more thick as they go down her
+back.  As you look at other featurs of the draconian, you notice that the
+{rhorn{x at the end of her left wing is malformed, looking as if the tip had
+been damage by a hammer.  Next, you take note of her {Dblack{x leather gear
+covering most her body.  Being torn in multiple places, there are multiple
+strips of the same material looped around her body in some places.  On her
+right forearm you notice a mark of devotion to the Dark Queen, Takhisis,
+surrounded by a tattoo of a fearsome dragon wrapped around the marking.  The
+{Dblack{x leather on her torso has an indent of a skull on it, iconic of the
+{Wskulls{x of the {DDark{x Knighthood.  
+~
+Prom {DHP: %h MP: %m MV: %v %B %b {m%X %x{x ~
+Race draconian~
+Org 4
+Religion 16
+Highpriest 1
+Sex  2
+Cla  1
+Hmtown 0
+Levl 99
+recall_point 3145
+Levscale 30
+Xptolev  758824
+Sec  0
+Plyd 3108695
+Not  1390434707 1372452251 0 1376689430 1298827134
+Scro 0
+Room 4860
+HMV  3556 3556 1993 1993 860 860
+Steel 3988
+Gold 15351
+Bank 138837
+Exp  15500476
+AfBy Oc
+AfBy2 D
+Deaths 16
+FlagTot 0 2 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2686976
+Comm BNO
+Pos  8
+Prac 11
+Save  -54
+Alig  -976
+Ethos 2
+Hit   78
+Dam   69
+ACs -449 -464 -454 -429
+Attr 16 17 16 17 12 10
+AMod 12 2 2 21 10 5
+Pass KaPeIXkjl8nrA~
+Titl  - The {DVoice{X of {RHatred{X~
+Pretit High Priestess{x~
+Pnts 10
+TSex 2
+LLev 800
+HMVP 2326 1168 710
+Cnd  0 41 41 0
+QuestPnts 115
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     005 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; ({dKanis{x) {d:~
+Alias as c 'cure critical' shir~
+Alias ad cast firestorm ~
+Alias aq cast silence ~
+Alias af say I have given myself over to Hatred, empower me to unleash my wrath!~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 1 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 85 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 99 'energy drain'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 1 'orb of containment'
+Sk 100 'harm'
+Sk 100 'heal'
+Sk 100 'life transfer'
+Sk 47 'holy word'
+Sk 1 'know alignment'
+Sk 30 'mass healing'
+Sk 100 'aid'
+Sk 94 'plague'
+Sk 100 'protection evil'
+Sk 100 'ray of truth'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 82 'teleport'
+Sk 100 'word of recall'
+Sk 1 'flail'
+Sk 100 'mace'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 79 'hand to hand'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 12 'deathgrip'
+Sk 1 'demand'
+Sk 100 'glide'
+Sk 100 'silence'
+Sk 100 'traject'
+Sk 11 'mount'
+Sk 99 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 100 'repulsion'
+Sk 100 'firestorm'
+Sk 36 'sunbeam'
+Sk 81 'spiritual hammer'
+Sk 100 'pillify'
+Sk 100 'enlightenment'
+Sk 94 'aura cleanse'
+Sk 1 'brew'
+Sk 100 'scribe'
+Sk 1 'battle tactics'
+Sk 18 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 70 'battlecry'
+Sk 70 'backup'
+Sk 100 'sate'
+Sk 95 'invigorate'
+Sk 88 'purify'
+Sk 97 'taunt'
+Sk 1 'god fire'
+Sk 100 'wrath'
+Sk 100 'regeneration'
+Sk 100 'quench'
+Sk 100 'cure deafness'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 97 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 100 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 59 'preach'
+Sk 71 'clear thoughts'
+Sk 100 'black cairn'
+Sk 100 'blessed warmth'
+Sk 100 'blessed watchfulness'
+Sk 75 'relegate'
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill blessed watchfulness~
+ShD  a pill of blessed watchfulness~
+Cond 100
+Wear -1
+Lev  48
+Cost 0
+Val  48 458 0 0 0
+Spell 1 'blessed watchfulness'
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 99
+Wear 4
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 0
+Cond 100
+Wear 3
+Cost 13000
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 0
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 0
+Cond 100
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 19002
+Nest 0
+ExtF 524288
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 97
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Name set runes~
+ShD  ({DShadowy{x) a set of {Drunes{x~
+Desc A set of runes lies here on the ground.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 15212
+Nest 0
+ExtF 17039424
+Cond 100
+Wear 5
+Cost 4800
+End
+
+#O
+Vnum 9426
+Nest 0
+ExtF 17039424
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 0
+ExtF 17039680
+Cond 97
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 9463
+Nest 0
+Name black bound journal darkahn~
+ShD  ({DBlack Bound{x) the Journal of Darkahn~
+Desc The journal of Darkahn lies here, yet its contents appear black.~
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+ExtF 17039616
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1200
+Nest 0
+Name @~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear 7
+Cost 14500
+End
+
+#O
+Vnum 16462
+Nest 0
+ExtF 17039360
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+ExtF 17039360
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 2979
+Nest 0
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1976
+Nest 0
+ExtF 150995267
+Cond 96
+Wear 20
+Cost 100000
+Val  4 16 10 6 97
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

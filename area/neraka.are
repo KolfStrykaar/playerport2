@@ -1,0 +1,7071 @@
+#AREADATA
+Name Neraka~
+Builders Shinare~
+Continent (null)~
+Controlby 2~
+Faction -250~
+Sector 0
+VNUMs 11000 11200
+Credits Shinare~
+Security 9
+End
+
+
+
+#MOBILES
+#11000
+human city guard~
+A human city guard.~
+A human member of the elite city guard stands here.
+~
+From the insignia on this human's armour it is clear that he is a member
+of the elite city guard of Neraka.  During the war of the lance these elite
+troops were used to guard the city and act as a police force keeping the
+different dragonarmies in line.  This warrior carries his weapons with ease
+the mark of a truly skilled fighter.  His pride in his place among the elite
+is shown on the man's face.  His eyes reflect this and his ambitious nature.
+He would do anything to rise through the ranks and would clearly fight with
+true determination to the death to protect the city.  
+~
+human~
+ABT HV -400 0
+60 60 121d20+1213 60d10+85 20d3+35 slash
+-30 -30 -30 -18
+CEFIJKNOTU B F C
+stand stand male 450
+AHMV ABCDEFGHIJK M unknown 0
+#11001
+baaz city guard~
+a Baaz draconian city guard~
+A Baaz draconian member of the elite city guard stands here.
+~
+This Baaz draconian is a part of the elite City guard of Neraka.  His
+skill and bravery in battle has won him the right to wear the sought after
+insignia of the City guard.  He stands here proudly in his duties happy to
+serve his Dark Queen.  This loyal creature of evil will do anything to
+please his Queen.  Especially if that means killing her enemies.  
+~
+draconian~
+ABT HJOVc -550 0
+65 65 131d21+1313 65d10+85 21d3+37 claw
+-34 -34 -34 -20
+CDEFHIJKMNORTU LP BEHM FI
+stand stand male 600
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+M DEATH 12141 100~
+#11003
+city guard officer~
+a City guard officer~
+An officer of the elite City guard stands here.
+~
+From the insignia on this human's armor it is clear that he is an
+officer of the elite city guard of Neraka.  During the war of the lance
+these elite troops were used to guard the city and act as a police force
+keeping the different dragonarmies in line.  This warrior carries his
+weapons with ease the mark of a truly skilled fighter.  His pride in his
+place among the elite is shown on the man's face.  His eyes reflect this and
+his ambitious nature.  He would do anything to rise through the ranks and
+would clearly fight with true determination to the death to protect the
+city.  
+~
+human~
+ABFT HV -600 0
+80 80 161d26+1617 80d10+85 26d3+45 punch
+-44 -44 -44 -28
+ACEFIJKNQU 0 ABEFG 0
+stand stand male 1100
+AHMV ABCDEFGHIJK M unknown 0
+#11009
+ogre city guard~
+an ogre city guard~
+An ogre member of the elite city guard stands here.
+~
+This large ogre has made it all the way up the ranks and into the elite
+City guard of Neraka.  He serves his Dark Queen well by pounding and crushing
+her enemies into bloody pulps.  Due to the size of the ogre he has no
+City guard armor but he does have the insignia of the guards scarred into
+his yellow skin.  He wears this scar with as much pride as the other members
+of the elite force wear their armor.  
+~
+ogre~
+AFGT H -900 0
+70 70 141d23+1415 70d10+85 23d3+40 crush
+-37 -37 -37 -22
+CDEIJKNOQRTU 0 HI K
+stand stand male 950
+AHMV ABCDEFGHIJK L unknown 0
+#11011
+sivak draconian~
+a Sivak draconian~
+A Sivak draconian stands watch here.
+~
+The silver scales of this large draconian glistens in the light.  He
+looks at you with a wicked grin as he licks his sharp teeth with his pointed
+tongue.  The Sivak shifts his wings as he readies his weapon for battle.  
+~
+draconian~
+ABFT HJOVc -750 0
+85 85 171d28+1717 85d10+85 28d3+47 claw
+-48 -48 -48 -30
+EHKMNR Q BEI 0
+stand stand male 1000
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+F imm P
+F res M
+M DEATH 11011 100~
+#11013
+baaz officer~
+a Baaz draconian officer~
+A Baaz draconian officer of the City guard stands here.
+~
+This Baaz draconian is an officer in the elite City guard of Neraka.  His
+skill and bravery in battle has won him the right to wear the sought after
+insignia of the City guard.  He stands here proudly in his duties happy to
+serve his Dark Queen.  This loyal creature of evil will do anything to
+please his Queen.  Especially if that means killing her enemies.  
+~
+draconian~
+ABFT HJOVc -666 0
+80 80 161d26+1617 80d10+85 26d3+45 claw
+-44 -44 -44 -28
+CEFHIJKMNOQRT P BEHM FI
+stand stand male 1300
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+M DEATH 12141 100~
+#11018
+dragonarmy patrol~
+a dragonarmy patrol~
+A soldier of the dragonarmy patrols here.
+~
+This young soldier has been recruited to the banners of the old
+dragonarmies.  Since the war of the lance these armies scattered and are now
+being regrouped by agents of Lord Ariakan.  This new recruit to the cause
+stands proudly in his uniform ready to carry out the orders of the officers
+of the army and the dark knights.  
+~
+human~
+AGT 0 -600 0
+52 52 105d17+526 52d10+85 17d3+31 punch
+-25 -25 -25 -14
+CEFIJKNTU 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#11034
+cityguard patrol~
+a city guard patrolman~
+A soldier of the elite city guard is on patrol here.
+~
+This soldier is part of the elite City guard of Neraka.  He has been
+assigned to patrol here in the inner city.  This man takes his service to
+the Dark Queen very seriously and will do anything to gain Her favor and
+rise through the ranks of the elite.  
+~
+human~
+AGT HV -800 0
+55 55 111d18+1111 55d10+85 18d3+32 punch
+-27 -27 -27 -16
+CEFIJKNOTU 0 AB 0
+stand stand male 900
+AHMV ABCDEFGHIJK M unknown 0
+#11113
+cowering prisoner~
+a cowering prisoner~
+A prisoner of the City guard cowers here in his cell.
+~
+This prisoner cowers away from you as you approach.  It is clear he has
+been brutally beaten and tortured.  He feebly throws his hands in front of
+his face in an attempt to ward you away.  
+~
+human~
+AB Y -60 0
+45 45 91d15+455 45d10+85 15d3+27 scratch
+-21 -21 -21 -11
+DU AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11115
+captain guard~
+the Captain of the Guard~
+The Captain of the elite City guard stands here.
+~
+This man is in charge of the elite security forces of the city of Neraka.
+The City guard aren't a part of any of the dragonarmies and traditionally
+make up a 6th unit in the Dark Queen's forces.  Since the war of the lance
+ended the City guard helped to rebuild Neraka and now function completely
+separately from the dark army.  The talon of knights that arrived to
+organize the reformation of the army leave the running of the city to this
+man.  
+~
+human~
+ABT HV -750 0
+70 70 141d23+1415 70d10+85 23d3+40 punch
+-37 -37 -37 -22
+CEFIJKNOTU 0 AB 0
+stand stand male 1500
+AHMV ABCDEFGHIJK M unknown 0
+#11119
+lily knight~
+A Knight of the Lily~
+A Knight of the Lily stands here ready to train you.
+~
+This proud Knight of the Lily is clearly a veteran swordsman.  This
+knight has vowed to train all knights no matter what their alignment. 
+Standing tall the knight looks splendid in his black armor with the symbols
+of death emblazoned upon it.  His breastplate bears the symbol of the
+Knights of Takhisis the death lily.  
+~
+human~
+ABKTb 0 -600 0
+150 150 301d50+4546 150d10+85 50d3+80 slash
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11120
+citizen neraka~
+a citizen of Neraka~
+A citizen of Neraka is here running about her business.
+~
+This woman is busily running about her errands.  All the citizens of
+Neraka are members of the families of the dragonarmy soldiers.  Since the
+armies were called to regroup to fight alongside Lord Ariakan's Knights the
+families were brought to Neraka to boost morale of the troops.  
+~
+human~
+ACG 0 -350 0
+20 20 41d6+203 20d10+85 6d3+15 punch
+-3 -3 -3 0
+DEFU 0 0 0
+stand stand female 700
+AHMV ABCDEFGHIJK M unknown 0
+#11123
+dark cleric~
+A Dark Cleric~
+A Dark Cleric of Takhisis stands here.
+~
+This dark cleric is wrapped in robes of pure black velvet.  The medallion
+of the five headed dragon dangles from her neck.  A foul sense of evil
+exudes from this woman yet when you catch a glimpse of her face she is one
+of the most beautiful human females you have ever seen.  Another glimpse
+beneath her velvet hood reveals the face of an old crone.  
+~
+human~
+ABQa 0 -1000 0
+200 200 300d66+7281 200d10+85 57d3+71 claw
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#11125
+barman~
+A Barman~
+A barman is here sneering at you.
+~
+This barman seems pretty shrewd and has no patience for trouble makers. 
+From the scars on his face and arms and the pronounced limp he has when
+walking suggest that he is an ex soldier.  Indeed he is often seen talking
+with some of the older officers in a familiar manner.  
+~
+human~
+ABT Vac 0 0
+150 150 301d50+4546 150d10+85 50d3+80 pound
+-91 -91 -91 -60
+BCDEFIJKNO ABCD HI 0
+stand stand male 300
+AHMV ABCDEFGHIJK M unknown 0
+#11126
+dragonarmy officer~
+a dragonarmy officer~
+An officer of the dragonarmies stands here barking orders.
+~
+This officer stands around issuing orders to his troops.  He is
+responsible for the guards of this quarter of city.  If anything occurs in
+the quarter he quickly finds out about it and can easily send his troops to
+deal with the problem.  
+~
+human~
+AGT HV -750 0
+60 60 121d20+1213 60d10+85 20d3+35 punch
+-30 -30 -30 -18
+CEFIJKNOTU 0 AB 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#11128
+master thief~
+A Master Thief~
+A Master Thief stands here ready to train you.
+~
+This thief is one of the best thieves in Ansalon.  Attracted by the
+wealth of the Dark Queen's forces he has set up his own guild here training
+young thieves in the arts.  These young thieves usually slip in and out of
+the dwellings in the outer city quarters and bring him portions of wealth
+from the merchants and families of the armies.  Whilst training the thieves
+he stands plotting out how to get into the richer inner city districts.  
+~
+human~
+ABKSb 0 -600 0
+150 150 301d50+4546 150d10+85 50d3+80 pierce
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK M unknown 0
+#11130
+stout barman~
+A Stout Barman~
+A stout barman stands here serving drinks.
+~
+This half elven barman stands here muttering quietly to himself.  As you
+approach him for a drink he mutters the words outcast and Qualinost.  When
+he sees you he becomes quiet.  The man is quite stout but appears to have a
+magical strength about him.  He has dried green blood on his arms as though
+he's just ejected a couple of rowing draconians.  
+~
+half-elf~
+AB HJV -600 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+BCDEFIJKNO ABCD B 0
+stand stand male 400
+AHMV ABCDEFGHIJK M unknown 0
+#11133
+greedy herbalist~
+a greedy herbalist~
+A greedy herbalist stands behind is stall offering you small plants.
+~
+This greedy old man stands before his array of dried leaves and crushed
+herbs in jars.  The pungent smell of the herbs has rubbed off on the old
+man.  
+~
+human~
+ABT HV -800 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#11134
+fruit vendor~
+a fruit vendor~
+A fat fruit vendor stands by his stall.
+~
+This fat and greedy looking man is standing next to his fruit stall ready
+to satisfy your hunger.  
+~
+human~
+ABS HV -790 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#11135
+bread vendor~
+a shifty bread vendor~
+A shifty looking bread vendor stands beside his bread stand.
+~
+This shifty looking man stands beside his stall filled with bread
+products.  His eyes are darting all over the place especially over his stall
+scanning over his loaves.  
+~
+human~
+ABT HV -780 0
+150 150 301d50+4546 150d10+85 50d3+80 slice
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#11136
+sinister weaponsmith~
+a sinister weaponsmith~
+A sinister looking weaponsmith stands next to his wares.
+~
+This sinister looking dark elf stands beside his stall filled with unique
+and interesting weaponry.  This elf's main customers are Sivak draconians. 
+Their love for strange and unusually cruel swords brings them flocking to
+his stall.  
+~
+elf~
+ABT HJV -900 0
+150 150 301d50+4546 150d10+85 50d3+80 slash
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD B 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+F vul Z
+#11138
+dragonarmy officer~
+a dragonarmy officer~
+An officer of the dragonarmies stands here barking orders.
+~
+This officer stands around issuing orders to his troops.  He is
+responsible for the guards of this quarter of the outer city.  If anything
+occurs in the quarter he quickly finds out about it and can easily send his
+troops to deal with the problem.  
+~
+human~
+ABT HV -750 0
+60 60 121d20+1213 60d10+85 20d3+35 punch
+-30 -30 -30 -18
+CEFIJKNOTU 0 AB 0
+stand stand male 1000
+AHMV ABCDEFGHIJK M unknown 0
+#11139
+kapak draconian~
+a Kapak draconian~
+A Kapak draconian stands watch here.
+~
+This poisonous assassin spreads its wings and thrashes its thick tail
+eager to kill something.  Kapaks are among the largest of the species of
+draconians and are normally also the most devious.  They are often seen
+bullying their smaller Baaz cousins.  Flickering his tongue at you dripping
+poisonous saliva he grins wickedly at you.  
+~
+draconian~
+ABFMS JOPVc -900 0
+70 70 141d23+1415 70d10+85 23d3+40 claw
+-37 -37 -37 -22
+BEFGJNR LQ BEK 0
+stand stand male 1200
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+F imm P
+F res M
+M DEATH 11139 100~
+#11143
+dragonarmy soldier~
+a dragonarmy soldier~
+A soldier of the dragonarmies rushes about here carrying out orders.
+~
+This young soldier has been recruited to the banners of the old
+dragonarmies.  Since the war of the lance these armies scattered and are now
+being regrouped by agents of Lord Ariakan.  This new recruit to the cause
+stands proudly in his uniform ready to carry out the orders of the officers
+of the army and the dark knights.  
+~
+human~
+AGT 0 -600 0
+50 50 101d16+506 50d10+85 16d3+30 punch
+-24 -24 -24 -14
+CEFIJKNTU 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#11144
+bozak draconian~
+a Bozak draconian~
+A Bozak draconian stands watch here.
+~
+This cruel and evil draconian is a Bozak draconian.  This draconian, like
+all Bozaks, is a magic user and a powerful one at that.  His bronze scales
+glisten in the light, as do his sharp teeth.  
+~
+draconian~
+ABQ HJOTc -1000 0
+65 65 131d21+1313 65d10+85 21d3+37 claw
+-34 -34 -34 -20
+AFKR Q BEP 0
+stand stand male 1400
+AHMV ABCDEFGHIJKPQUVWX L unknown 0
+F imm P
+F res M
+M DEATH 11144 100~
+#11148
+fit young elflord~
+a fit young elflord~
+A fit young elflord that has been sold into slavery is here.
+~
+This young elflord has been sold into slavery.  His good looks and lithe
+body makes his sort very popular with the female officers of the dark armies.
+~
+elf~
+ABIT J 400 0
+30 30 45d10+274 30d10+85 8d3+15 punch
+-4 -4 -4 1
+EFHIJN 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11149
+slave master~
+a slave master~
+A slave master stands here ready to sell you a slave.
+~
+This man stands over his portion of the pens leering down at the slaves
+below.  He seems to enjoy his work selling people into slavery and beating
+the insolence out of the rowdy stock.  This man is a master of punishing
+people without leaving marks.  
+~
+human~
+ABT HV -850 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+BCDEFHIJKNO ABC 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+#11150
+strong young man~
+a strong young man~
+A strong young man stands here in slavery.
+~
+This young man is a slave.
+~
+human~
+ABIT 0 100 0
+40 40 81d13+405 40d10+85 13d3+25 crush
+-17 -17 -17 -9
+CDFINO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11152
+attractive young female~
+an attractive young female~
+An attractive young female slave stands here.
+~
+This poor young girl has been sold into slavery.  Forced to wear tiny
+frilly blouses and long flowing slit skirts.  
+~
+human~
+ABIT 0 250 0
+20 20 41d6+203 20d10+85 6d3+15 scratch
+-3 -3 -3 0
+FIJN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#11163
+rich armourer~
+a rich armourer~
+A rich armourer stands here ready to sell you his wares.
+~
+This armourer does very well for himself selling pieces of armor to the
+highly paid officers of the dragonarmies.  
+~
+human~
+ABT HV -500 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+BCDEFHIJKNO ABCDEFG 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 11163 100~
+#11167
+rich shopkeeper~
+a rich shopkeeper~
+A rich shopkeeper stands here ready to serve you.
+~
+This fine looking weaponsmith is wearing fine clothes and jewelry. 
+Having his shop in this part of the city has proven to be a fine move.  The
+high ranking officers that come here are very well paid indeed.  
+~
+human~
+ABT HV -500 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+BCDEFHIJKNO ABCDEFG 0 0
+stand stand male 90000
+AHMV ABCDEFGHIJK M unknown 0
+M GREET 11167 100~
+#11183
+huge bartender~
+A huge bartender~
+A huge bartender stands behind the bar.
+~
+This huge barrel of a man stands pouring drinks and scowling at the
+rowdier customers.  The man is very tall and has a broad chest to almost
+rival the hero of the lance Caramon Majere.  He is very muscular and is
+probably not one to be messed with.  
+~
+human~
+ABT HV -350 0
+150 150 301d50+4546 150d10+85 50d3+80 crush
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK L unknown 0
+#11184
+veteran warrior~
+A Veteran Warrior~
+A veteran warrior stands here ready to train you
+~
+This muscular human warrior stands here ready to train any warrior that
+requires his skills.  The warrior is dressed in a light flexible garment
+that allows full fluid movement of his body.  He walks around the practicing
+warriors and gives advice.  Occasionally joining in the grappling or
+swordplay to make a point.  
+~
+human~
+ABKTb 0 -600 0
+150 150 301d50+4546 150d10+85 50d3+80 punch
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK M unknown 0
+#11190
+troubled barman~
+A troubled barman.~
+A troubled barman stands behind the bar.
+~
+This barman stands here ready to serve the scum that traipse through his
+bar.  As you enter he eyes you worriedly in case you decide to break any
+more of his already dwindling stock of furniture.  The stout dwarf is
+wearing a white shirt and blue breeches.  He mutters into his beard every
+time a draconian enters the room.  
+~
+dwarf~
+AB J -300 0
+150 150 301d50+4546 150d10+85 50d3+80 pound
+-91 -91 -91 -60
+BCDEFHIJKNO ABCD LQ R
+stand stand male 15000
+AHMV ABCDEFGHIJK S unknown 0
+#11194
+barbarian guildmaster~
+A Barbarian Chieftain~
+A barbarian chieftain stands ready to train you
+~
+This tall and proud plainsman walks among his tribesmen and other
+barbarians.  Brought here to make a pact with the reforming armies at Neraka
+to save their own land it was agreed this man stay behind to help with the
+training of any barbarians that come to the city.  
+~
+human~
+ABKTb 0 -600 0
+150 150 301d50+4546 150d10+85 50d3+80 pound
+-91 -91 -91 -60
+0 ABCDEFG 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#11199
+no name~
+(no short description)~
+(no long description)
+~
+~
+none~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 M unknown 0
+#11200
+attractive barmaid~
+an attractive barmaid~
+An attractive barmaid stands here waiting to serve you.
+~
+This young barmaid is wearing a very low cut lacy top.  The top reveals
+her ample breasts.  Eventually your gaze reaches her baby blue eyes and her
+girlish blush.  Something in her eyes however suggests she can handle
+herself pretty well.  
+~
+human~
+AB HV 0 0
+150 150 301d50+4546 150d10+85 50d3+80 scratch
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 300
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#11000
+neraka city guard breast plate~
+a city guard breastplate~
+The breastplate of the elite city guard of Neraka lies here.~
+steel~
+armor EJY 0 ADc
+BCD CD BE AD C
+60 20 56 P
+A
+12 -20
+A
+13 30
+A
+1 2
+#11001
+stone draconian corpse~
+a stone draconian corpse~
+The stone corpse of a Baaz draconian lies here.~
+stone~
+npc_corpse PSTa 0 0
+0 0 0 0 0
+0 500 0 P
+E
+corpse~
+This Baaz draconian turned to stone when it died.
+~
+E
+stone~
+This Baaz draconian turned to stone when it died.
+~
+#11002
+neraka city guard helm leather~
+a city guard helm~
+The helm of the elite city guard of Neraka lies in the dust.~
+leather~
+armor EJSY 0 AEY
+ACD ABCD BCD AD A
+60 4 56 P
+E
+helmet~
+This shiny steel helm belongs to a member of the elite city guard of
+Neraka.  
+~
+#11003
+neraka guard short sword~
+a city guard's short sword~
+The short sword of a Nerakan city guard lies abandoned here.~
+steel~
+weapon EJY 0 ANX
+sword 7 9 thrust D
+60 4 3100 P
+A
+19 5
+A
+18 5
+E
+sword~
+This short sword is used by the elite city guards of Neraka.
+~
+E
+short~
+This short sword is used by the elite city guards of Neraka.  
+~
+#11004
+neraka city guard chain leggings~
+a city guard's leggings~
+A pair of leggings from the elite city guard of Neraka lies here.~
+steel~
+armor EJ 0 AFc
+CD AD ABD AC B
+40 11 44 P
+E
+leggings~
+These leggings belong to a member of the elite city guard.
+~
+#11005
+city key~
+a key to the city of Neraka~
+An iron key is here lying on the ground.~
+iron~
+key P 0 AO
+0 0 0 0 0
+0 1 0 P
+#11006
+hideous sword~
+a hideous sword~
+A hideous sword lies here abandoned.~
+steel~
+weapon CEJL 0 ANZ
+sword 8 11 slash DEF
+90 10 4710 P
+A
+19 8
+A
+18 8
+E
+sword~
+This sword is so wicked and cruel it is hideous. It is almost too evil to look upon.
+~
+E
+hideous~
+This sword is so wicked and cruel it is hideous. It is almost too evil to look upon.
+~
+#11007
+elite guard neraka plate sleeves~
+sleeves of the Elite Guard~
+A pair of sleeves from an elite City guard officer lies here.~
+steel~
+armor Y 0 AIc
+BE E BCE ACD C
+80 10 84 P
+E
+sleeves~
+These sleeves bear the insignia of an elite City guard officer.
+~
+#11008
+neraka elite guard plate greaves~
+greaves of the Elite Guard~
+A pair of greaves from an elite City guard officer lies here.~
+steel~
+armor Y 0 AFc
+BE E BCE ACD C
+80 13 84 P
+E
+greaves~
+These greaves bear the insignia of an elite City guard officer.
+~
+#11009
+neraka city guard club mace~
+a city guard's club~
+A club with the insignia of the city guard of Neraka etched on it lies here.~
+oak~
+weapon S 0 ANZ
+mace 8 9 pound F
+75 7 3645 P
+A
+19 6
+A
+18 6
+E
+club~
+This club has the insignia of the city guard of Neraka carved into it.  
+~
+#11010
+fur pelt~
+a fur pelt~
+A fur pelt lies abandoned on the floor.~
+fur~
+armor S 0 ADc
+BE CE ABE BCD 0
+85 8 81 P
+E
+pelt~
+This fur pelt looks warm and comfortable though slightly itchy.
+~
+#11011
+wicked broad sword~
+a wicked broadsword~
+A wicked looking broadsword lies on the floor.~
+steel~
+weapon CEGJ 0 ANZ
+sword 9 10 slash DE
+85 7 4340 P
+A
+1 3
+A
+19 7
+A
+18 7
+E
+broadsword~
+This wicked broadsword has sections with 2 razor sharp edges close
+together.  This causes a lot of damage that takes a long time to heal.  
+~
+E
+wicked~
+This wicked broadsword has sections with 2 razor sharp edges close
+together.  This causes a lot of damage that takes a long time to heal.  
+~
+#11012
+scaled chain sleeves~
+a pair of scaled sleeves~
+A pair of scaled sleeves lies here unused.~
+steel~
+armor CEJ 0 AIZ
+CE ABE CE BCD B
+85 6 81 P
+A
+23 -1
+A
+20 -1
+E
+sleeves~
+These sleeves are made from black dragon scales.
+~
+#11013
+scale chain greaves~
+a pair of scaled greaves~
+A pair of scaled greaves lie here on the floor.~
+steel~
+armor CEJ 0 AFZ
+CE ABE CE BCD B
+85 8 81 P
+A
+23 -1
+A
+2 -1
+A
+20 -1
+E
+greaves~
+These greaves are made from overlapping black dragon scales.
+~
+#11017
+an elite longsword~
+an Elite longsword~
+A longsword belonging to an elite City guard officer lies here.~
+steel~
+weapon EJ 0 ANZ
+sword 8 10 slash D
+80 6 4240 P
+A
+19 7
+A
+18 7
+E
+longsword~
+This longsword bears the emblem of the elite City guard of Neraka.
+~
+#11024
+iron key~
+a small iron key~
+A small iron key is here~
+iron~
+key 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#11031
+steel key~
+a steel key~
+A steel key is here.~
+steel~
+key 0 0 AO
+0 0 0 0 0
+0 1 0 P
+#11033
+black key~
+a black key~
+A black metal key lies on the ground.~
+obsidian~
+key P 0 A
+0 0 0 0 0
+0 2 0 P
+E
+key~
+A black metal key.
+~
+#11034
+an elite shortsword~
+an Elite shortsword~
+A short sword of the elite City guard lies here.~
+steel~
+weapon EJ 0 ANX
+sword 6 10 slash D
+55 4 2930 P
+A
+19 4
+A
+18 4
+E
+sword~
+This short sword bears the insignia of the elite City guard of Neraka.
+~
+E
+elite~
+This short sword bears the insignia of the elite City guard of Neraka.
+~
+E
+short~
+This short sword bears the insignia of the elite City guard of Neraka.
+~
+#11035
+elite guard uniform~
+an Elite guard uniform~
+A uniform of the elite City guard of Neraka lies here.~
+studded leather~
+armor CEGJS 0 ADY
+ACD ABCD BCD D 0
+55 8 51 P
+E
+uniform~
+This uniform belongs to a soldier of the elite City guard of Neraka.  The
+insignia of the City guard is stitched into the cloth of the uniform.  
+~
+#11109
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#11115
+axe justice~
+the Axe of Justice~
+The Captain of Neraka's Cityguard's axe of justice lies here.~
+steel~
+weapon ABGJ 0 ANZ
+axe 2 40 cleave DG
+70 10 3320 P
+A
+19 6
+A
+18 6
+E
+axe~
+This axe of justice belongs to the Captain of the elite City guard of Neraka.
+~
+#11120
+warm cloak~
+a warm {Dblack{x cloak~
+A warm {Dblack{x cloak lies on the floor.~
+cloth~
+armor S 0 AKc
+AC AC AC A 0
+20 1 16 P
+E
+cloak~
+This warm black cloak is popular among the citizens of Neraka.  
+~
+E
+warm~
+This warm black cloak is popular among the citizens of Neraka.  
+~
+#11129
+assassin needle~
+an assassin's needle~
+A long needle like weapon lies here in the dirt.~
+steel~
+weapon EY 0 ANc
+exotic 8 10 sting DH
+80 1 4240 P
+A
+19 -1
+A
+18 7
+E
+needle~
+A long thin needle used to sting poison into its victims.
+~
+#11130
+black herb~
+a {Dblack{x herb~
+The leaf of some {Dblack{x herb lies on the floor.~
+plant~
+pill S 0 A
+21 'teleport' 'cause serious' '' ''
+21 1 300 P
+E
+herb~
+This leaf is from a {mblack herb{x
+~
+#11131
+small dry leaf herb~
+a small {ydry{x leaf~
+A small {ydry{x leaf sits abandoned on the floor.~
+plant~
+pill S 0 A
+30 'word of recall' 'cause critical' '' ''
+30 1 250 P
+E
+herb~
+This dried up old leaf has herbal properties.
+~
+#11132
+crispy red herb~
+a crispy {rred herb{x~
+A crispy {rred herb{x lies on the floor.~
+plant~
+pill S 0 A
+25 'giant strength' 'refresh' 'haste' ''
+25 1 700 P
+E
+herb~
+This {rred herb{x is the herb of power.
+~
+#11133
+healing herb~
+a herb of healing~
+A herb with healing properties lies unused in the dust.~
+plant~
+food S 0 A
+DE AC 0 A 0
+30 1 990 P
+E
+herb~
+This herb has healing properties according to the herbalist.
+~
+#11134
+apple~
+an apple~
+A rather ugly looking apple sits on the ground.~
+plant~
+food S 0 A
+C B 0 0 0
+5 0 98 P
+E
+apple~
+A rather ugly looking apple.
+~
+#11135
+ugly pear~
+a pear~
+A rather nasty looking pear sits rotting on the ground.~
+plant~
+food S 0 A
+AB B 0 0 0
+5 1 88 P
+E
+pear~
+A rather ugly nasty looking pear.
+~
+#11136
+orange~
+an orange~
+A rather blackened orange sits on the ground.~
+plant~
+food S 0 A
+ABD AB 0 A 0
+5 1 95 P
+E
+orange~
+This orange is rather black and horrid.
+~
+#11137
+bread loaf~
+a loaf of bread~
+A loaf of bread lies on the floor.~
+unknown~
+food S 0 A
+CE AD 0 0 0
+10 1 100 P
+E
+loaf~
+A loaf of stale bread.
+~
+E
+bread~
+A loaf of stale bread.
+~
+#11138
+bagel~
+a bagel~
+A bagel sits in the dirt.~
+unknown~
+food S 0 A
+BD A 0 0 0
+10 1 90 P
+E
+bagel~
+Eww its a bagel yuck!
+~
+#11139
+bread roll~
+a bread roll~
+A bread roll sits here in the dirt.~
+unknown~
+food S 0 A
+CE B 0 A 0
+11 1 110 P
+E
+roll~
+A nice round bread roll.
+~
+#11140
+wicked barbed sword~
+a wicked barbed sword~
+A wickedly barbed sword lies here on the ground.~
+steel~
+weapon E 0 ANY
+sword 8 9 slash D
+70 8 3545 P
+A
+19 6
+A
+18 6
+E
+sword~
+This sword has wicked and sharp barbs along its edge.  
+~
+#11141
+spiked hair brush exotic~
+a spiked hairbrush~
+A hairbrush with metal spikes lies on the ground.~
+iron~
+weapon EY 0 ANX
+exotic 7 8 scratch H
+55 2 2930 P
+A
+19 4
+A
+18 4
+E
+hairbrush~
+This hairbrush has metal spikes.  The most feared weapon in the
+playground.  
+~
+#11142
+curved long sword~
+a curved longsword~
+A curved steel longsword lies abandoned on the floor.~
+steel~
+weapon Y 0 ANZ
+sword 7 8 slash D
+55 6 2930 P
+A
+19 4
+A
+18 4
+E
+longsword~
+This long curved sword looks deadly.
+~
+#11143
+black short sword~
+a {Dblack handled{x short sword~
+A short sword with a {Dblack handle{x lies here on the floor.~
+steel~
+weapon E 0 ANX
+sword 7 7 thrust D
+50 4 2655 P
+A
+19 4
+A
+18 4
+E
+short~
+This short sword belongs to a soldier of the black dragonarmy.  
+~
+E
+sword~
+This short sword belongs to a soldier of the black dragonarmy.
+~
+#11144
+dark dagger~
+a dark dagger~
+A dark dagger used by evil magi lies here.~
+onyx~
+weapon CEGSY 0 ANc
+dagger 9 9 pierce CDG
+80 2 3845 P
+A
+19 7
+A
+18 7
+E
+dagger~
+This dark and evil dagger is often carried by Bozak draconians.
+~
+#11145
+black dragonarmy uniform chain~
+a {DBlack Dragonarmy{x uniform~
+The uniform of a black dragonarmy soldier lies here.~
+iron~
+armor 0 0 ADY
+BCD AD ACD ABC B
+50 17 54 P
+E
+uniform~
+This is the uniform of a black dragonarmy soldier.  The uniform has the
+emblem of the old black dragonarmy stitched on it.  
+~
+E
+uniform~
+This is the uniform of a black dragonarmy soldier.  The uniform has the
+emblem of the old black dragonarmy stitched on it.  
+~
+#11146
+black plate mail~
+{Dblack{x plate mail~
+Some {Dblack metal{x plate mail sits here in the dirt.~
+steel~
+armor CEJ 0 ADY
+BCD CD BE AD C
+60 20 56 P
+E
+plate~
+This plate mail is most often worn by officers of the black dragonarmy.
+~
+E
+mail~
+This plate mail is most often worn by officers of the black dragonarmy.
+~
+#11147
+black long sword~
+a {Dblack handled{x longsword~
+A longsword with a {Dblack handle{x lies here in the dirt.~
+steel~
+weapon E 0 ANZ
+sword 7 9 slash D
+60 6 3100 P
+A
+19 5
+A
+18 5
+E
+longsword~
+This {mblack handled{x sword belongs to an officer of the black dragonarmy.
+~
+#11170
+white sword~
+a {Wwhite handled{x sword~
+A sword with a {Wwhite handle{x lies here.~
+steel~
+weapon G 0 ANc
+sword 5 10 slice D
+45 6 2460 P
+A
+19 3
+A
+18 3
+E
+sword~
+This steel sword has a {wwhite handle{x.
+~
+#11171
+white axe~
+a {Wwhite handled{x axe~
+An axe with a {Wwhite handle{x lies here.~
+steel~
+weapon E 0 ANc
+axe 5 9 cleave D
+44 5 2290 P
+A
+19 3
+A
+18 3
+E
+axe~
+The wooden handle of this battle axe is {wstained white{x.
+~
+#11172
+white flail~
+a {Wwhite handled{x flail~
+A flail with a {wwhite handle{x lies here.~
+iron~
+weapon 0 0 ANc
+flail 5 9 tail 0
+43 7 2045 P
+A
+19 3
+A
+18 3
+E
+flail~
+The wooden handle of this flail is {wstained white{x.
+~
+#11173
+white dagger~
+a {Wwhite hilted{x dagger~
+A dagger with a {wwhite hilt{x lies here.~
+steel~
+weapon 0 0 ANc
+dagger 4 12 pierce D
+46 3 2105 P
+A
+19 3
+A
+18 3
+E
+dagger~
+This dagger has a {wwhite hilt{x.
+~
+#11174
+white wand~
+a {wwhite wand{x~
+A {wwhite wooden{x magical wand lies humming in the dirt.~
+ash~
+wand BEGSY 0 AO
+40 1 1 'frost breath' 0
+40 2 1000 P
+#11175
+white staff~
+a {Wwhite{x staff~
+A staff made of {wwhite stained wood{x lies here in the dirt.~
+elm~
+staff BEGS 0 AO
+30 6 6 'heal' 0
+30 4 800 P
+E
+staff~
+This magical staff of {wwhite stained wood{x hums with power.
+~
+#11176
+white scroll~
+a {wwhite scroll{x~
+A scroll of {wwhite parchment{x lies in the dirt.~
+parchment~
+scroll EGS 0 AO
+45 'cancellation' '' '' ''
+45 1 999 P
+E
+scroll~
+Ancient arcane words are emblazoned upon the {wwhite parchment{x.
+~
+#11177
+white potion~
+a {wwhite potion{x~
+A vial containing a {wwhite potion{x sits on the floor.~
+glass~
+potion EGS 0 AO
+28 'protection good' 'bless' 'sanctuary' ''
+28 2 1200 P
+E
+potion~
+This vial contains a {wwhite potion{x.
+~
+#11178
+white leather breast plate~
+a {Wwhite leather{x breastplate~
+A {Wwhite{x breastplate lies on the floor.~
+dyed leather~
+armor ES 0 ADc
+AD ABD BD AC A
+40 6 44 P
+E
+breastplate~
+This breastplate bears the emblem of the {wwhite dragonarmy{x.
+~
+#11179
+white shield~
+a {Wwhite{x shield~
+A {Wwhite{x shield lies on the ground.~
+steel~
+armor AE 0 AJc
+BD BD BD BC 0
+45 15 41 P
+A
+20 -1
+E
+shield~
+The emblem of the {wwhite dragonarmy{x is emblazoned on this shield.
+~
+#11180
+white leather helmet~
+a {Wwhite leather{x helmet~
+A {Wwhite{x helmet sits on the floor.~
+dyed leather~
+armor ES 0 AEc
+D BD AD BC A
+44 4 40 P
+E
+helmet~
+A {wwhite helmet{x.
+~
+#11181
+white boots~
+a pair of {Wwhite{x boots~
+A pair of {wwhite boots{x are sitting here on the floor.~
+dyed leather~
+armor ES 0 AGc
+D BD AD AC 0
+40 2 44 P
+E
+boots~
+A pair of {wwhite boots{x
+~
+#11185
+white short sword~
+a {Wwhite handled{x short sword~
+A short sword with a {wwhite handle{x lies here.~
+steel~
+weapon E 0 ANX
+sword 7 7 thrust D
+50 4 2655 P
+A
+19 4
+A
+18 4
+E
+sword~
+This {wwhite handled{x short sword belongs to a soldier of the white dragonarmy.
+~
+#11186
+white leather dragonarmy uniform~
+a {WWhite Dragonarmy{x uniform~
+The uniform of a white dragonarmy soldier lies here.~
+dyed leather~
+armor S 0 ADY
+ABD ACD CD ABC A
+50 6 54 P
+E
+uniform~
+This uniform belongs to a soldier of the white dragonarmy.  The emblem
+of the white army is stitched into the uniform.  
+~
+#11191
+white herb~
+a {wwhite herb{x~
+The leaf of a {wwhite herb{x is lying abandoned on the ground.~
+plant~
+pill S 0 AO
+10 'teleport' 'cause light' '' ''
+10 1 98 P
+E
+herb~
+A leaf of a {wwhite herb{x.  
+~
+#11192
+white long sword~
+a {Wwhite handled{x longsword~
+A longsword with a {wwhite handle{x lies on the ground here.~
+steel~
+weapon E 0 ANZ
+sword 7 9 slash D
+60 6 3100 P
+A
+19 5
+A
+18 5
+E
+longsword~
+This longsword belongs to an officer of the white dragonarmy.
+~
+#11193
+white plate mail~
+{Wwhite{x plate mail~
+A set of {Wwhite metal{x plate mail sits here in the dirt.~
+steel~
+armor CEJ 0 ADY
+BCD CD BE AD C
+60 20 56 P
+E
+mail~
+This plate mail belongs to an officer in the white dragonarmy.
+~
+E
+plate~
+This plate mail belongs to an officer in the white dragonarmy.
+~
+#11194
+red wine glass~
+a glass of red wine~
+A wineglass stands here.~
+crystal~
+drink S 0 AO
+1 1 'red wine' 0 0
+15 1 79 P
+#11195
+glass white wine~
+a glass of white wine~
+A wineglass stands here.~
+crystal~
+drink S 0 AO
+1 1 'white wine' 0 0
+18 1 89 P
+#11196
+glass elven wine wineglass~
+a glass of elven wine~
+A wineglass of elven make stands here.~
+crystal~
+drink S 0 AO
+1 1 'elvish wine' 0 0
+21 1 90 P
+#11197
+small glass absinthe~
+a glass of absinthe~
+A small glass smelling of absinthe sits here.~
+glass~
+drink S 0 AO
+1 1 'absinthe' 0 0
+0 1 70 P
+#11198
+whisky tot~
+a tot of whisky~
+A small tot glass sits here.~
+glass~
+drink S 0 AO
+1 1 'whisky' 0 0
+15 1 40 P
+#11199
+bottle beer~
+a bottle of beer~
+A bottle of beer sits here.~
+glass~
+drink S 0 AO
+5 5 'beer' 0 0
+10 1 30 P
+#11200
+vodka shot glass~
+a shot of vodka.~
+A vodka shot glass sits here.~
+glass~
+drink S 0 AO
+1 1 'vodka' 0 0
+20 1 45 P
+#0
+
+
+
+#ROOMS
+#11000
+The Road to Neraka~
+You stand on the road to Neraka.  To the south you can see the mighty
+city of evil.  A dark oppressive force of pure evil exudes from the heart of
+the walled city itself.  Surrounding the city are the old camps of the
+various dragonarmies from the War of the Lance.  These camps have been built
+up into small towns that seem to embrace the walled city itself.  
+~
+0 4 1
+D0
+~
+~
+0 0 4928
+D2
+~
+~
+0 0 11001
+S
+#11001
+Before the Gates of Neraka~
+To the south looms the mighty fortress like gatehouse of the evil city of
+Neraka.  The towers of the gatehouse loom before you.  The mighty iron gates
+are guarded night and day by troops of the Dark Queen.  To the east a path
+stretches around the walled city and appears to lead to a section of the
+outer city.  The path appears well traveled and you can clearly make out
+tracks of booted soldiers and numerous slave trains passing through here.  
+~
+0 0 1
+D0
+~
+~
+0 0 11000
+D1
+~
+~
+0 0 11158
+D2
+~
+~
+0 0 11002
+S
+#11002
+The Gates of Neraka~
+Here the mighty iron gates of Neraka stand before you.  The massive gates
+are flanked on either side by guard stations in the gatehouse.  Through the
+arrow slits in the walls you can see glints of light shining off armor and
+weapons.  The sturdy gates themselves are closed and from the moss that is
+growing under them it appears that they have not swung open since the
+dragonarmies paraded into the city during the war of the lance.  There is a
+door in the gates leading into the city.  This door appears large enough for
+troops on horseback to enter the city to the south.  There are also doors on
+either side of the gates leading into the fortress.  
+~
+0 0 1
+E
+door~
+Wooden doors on either side of the gate lead into the fortress.  
+~
+E
+gate~
+This iron door is set into the gate allowing troops to enter the city. 
+The door is just large enough for troops on horseback to pass through.  
+~
+D0
+~
+~
+0 0 11001
+D1
+A wooden door leading into the guard room of the gatehouse.  
+~
+~
+1 0 11013
+D2
+This iron door is set into the gate allowing troops to enter the city. 
+The door is just large enough for troops on horseback to pass through.  
+~
+gate~
+1 11005 11015
+D3
+A wooden door leading into the fortress.  
+~
+~
+1 0 11003
+S
+#11003
+The Western Guardhouse~
+You are inside the mighty fortress that serves as the gatehouse to
+Neraka.  This is a guard station used to house those troops that watch over
+the mighty gates and scrutinize all those that seek entry into the city. 
+The arrow slits in the north wall give a fairly good view of the plains of
+Neraka and especially the road leading to the city itself.  From here those
+approaching can be seen quickly and the guards can be scrambled with little
+notice.  The door to the east leads out to the gates and a door to the south
+gives access to the city.  The fortress continues on to the west where
+stairs can be seen leading upwards.  
+~
+0 8 1
+E
+door~
+Wooden doors stand in the east wall and the south wall.  
+~
+D1
+This wooden door leads to the gates.
+~
+~
+1 0 11002
+D2
+This wooden door leads out into a large square in the city.
+~
+~
+1 0 11014
+D3
+~
+~
+0 0 11004
+S
+#11004
+At the Base of the Western Tower~
+You are deep within the fortress like building that serves as the
+gatehouse for the evil city of Neraka.  You are standing at the base of one
+of the mighty towers that loom threateningly over the plains of Neraka
+almost daring an assault on the city.  The walls are lit with torches here
+and the arrow slits and murder holes give a limited view of the plains. 
+Here though any attacking force would be first met with the arrows of the
+city guard safely hidden between these mighty walls.  There are circular
+stairs leading upwards.  
+~
+0 8 1
+E
+stairs~
+These stairs lead upwards in a clockwise direction.
+~
+D1
+~
+~
+0 0 11003
+D4
+These stairs lead upwards in a clockwise direction.  
+~
+stairs~
+0 0 11005
+S
+#11005
+A Landing in the Tower~
+You have come to a landing leading from a set of circular stairs.  The
+stairs ascend in a clockwise direction.  This gives defenders of the stairs
+an advantage should attackers penetrate the fortress.  Right handed
+attackers are less able to use their sword arm while assaulting such a
+staircase.  The walls are lined with arrow slits.  These are dotted around
+the staircase with small platforms for archers to stand from.  Each platform
+allowing enough space to hide behind the mighty walls and maneuver
+successfully.  A door to the east allows further access to the fortress.  
+~
+0 8 1
+E
+door~
+A wooden door.
+~
+E
+stairs~
+These stairs are designed to benefit defenders fighting from above..  
+~
+D1
+A wooden door.
+~
+~
+1 0 11007
+D4
+These stairs ascend clockwise.
+~
+stairs~
+0 0 11006
+D5
+These stairs descend counter clockwise.  
+~
+stairs~
+0 0 11004
+S
+#11006
+Top of the Western Tower~
+You stand at the top of the tower.  Through the holes in the walls you
+can observe the whole city and its surrounding plains.  To the north you can
+see the plains of Neraka and the road snaking off to the north.  To the
+northwest you can see the hustle and bustle of the White Quarter of the
+city.  To the southwest is the green quarter.  The red quarter can just be
+seen at the south of the city.  The southeast hoses the blue quarter and the
+black quarter is to the northeast of the city.  The path at the north of the
+city leads off into the black quarter and leads to a large structure.  
+~
+0 8 1
+E
+stairs~
+These stairs descend counter clockwise.
+~
+D5
+These stairs descend counter clockwise.  
+~
+stairs~
+0 0 11005
+S
+#11007
+In the Gatehouse of Neraka~
+You are within the walls of the mighty gatehouse fortress of Neraka. 
+Torches line the walls in sconces providing light within these walls. 
+Arrow slits are arranged across the wall to provide excellent cover against
+attacking forces.  Peering through one of them you can see how any unwanted
+guests could be shot easily from here.  The fortress is very wide here and
+you can see that this building can garrison at least five hundred men.  In
+times of war you can imagine this room filled with soldiers in dark armor
+standing ready to crush the forces of good.  
+~
+0 8 1
+E
+door~
+A wooden door.
+~
+D1
+~
+~
+0 0 11008
+D3
+A wooden door.
+~
+~
+1 0 11005
+S
+#11008
+Above the Gates~
+The northern wall of this large garrison is filled with holes and arrow
+slits.  Hideous death must befall all those that were to be beneath this
+place if the defenders felt threatened.  It is obvious from the piles of
+straw on the floor and the slumbering troops that this also acts as the
+barracks for the city guard.  When on duty the troops will give up their
+beds to those that are coming off watch.  Troops could possibly live in here
+for months without ever leaving the gatehouse and from the stench of the
+place you guess that they probably do not.  
+~
+0 8 1
+D1
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11007
+S
+#11009
+In the Gatehouse of Neraka~
+The walls here are lined with torches in sconces that light this mighty
+fortress.  There are buckets filled with sand about the place.  These would
+be used to douse any fires that were burning in the garrison.  Between the
+sconces the walls are filled with arrow slits where skilled archers can pick
+off any would be attackers coming from the plains surrounding the evil city.
+Through the arrow slits you can clearly see the plains and the road leading
+north.  You can also see the trail that lines the city walls.  
+~
+0 8 1
+E
+door~
+A wooden door.
+~
+D1
+A wooden door.
+~
+~
+1 0 11010
+D3
+~
+~
+0 0 11008
+S
+#11010
+A Landing in the Tower~
+You are on a landing of the stairs in the eastern tower.  The stairs go
+upwards to the top of the tower and downwards to the ground floor.  The
+staircase ascends in a clockwise direction.  This interferes with right
+handed swordsmen as they attack up the stairs.  Thus giving the fortress
+defenders a distinct advantage.  Arrow slits line the walls of this tower. 
+Small platform lead off from the stairs under each arrow slit allowing
+archers full access to them and leaving them with enough room to maneuver. 
+There is a door to the west.  
+~
+0 8 1
+E
+stairs~
+This staircase is designed to benefit defenders fighting from above.  
+~
+E
+door~
+A wooden door.
+~
+D3
+A wooden door.
+~
+~
+1 0 11009
+D4
+These stairs ascend clockwise.
+~
+stairs~
+0 0 11011
+D5
+These stairs descend counter clockwise.
+~
+stairs~
+0 0 11012
+S
+#11011
+Top of the Eastern Tower~
+You stand inside the top of the tower.  Through the arrow slits and
+observation holes you can see almost all of the city to the south and the
+surrounding plains.  You can see the black quarter to the northeast of the
+city and the trail that runs from before the gates to a large structure in
+this quarter.  You can see what looks like slaves being led into and out of
+the structure.  To the east of the city you can see the busy blue quarter
+with its large open markets.  To the south you can just see the red quarter
+sprawling away from you.  The green quarter is to the southwest of the city
+and the white to the northwest.  
+~
+0 8 1
+E
+stairs~
+These stairs descend counter clockwise.
+~
+D5
+These stairs descend counter clockwise.
+~
+stairs~
+0 0 11010
+S
+#11012
+At the Base of the Eastern Tower~
+You are standing at the bottom of a spiral staircase.  The staircase
+spirals upwards in a counter clockwise direction.  Sconces hold torches
+along the walls of this mighty fortress lighting the way for the many
+soldiers and city guards garrisoned here.  Between the sconces the walls are
+lined with arrow slits and observation holes.  Through here the city guard
+can defend the city gates with deadly effectiveness.  The arrow slits in the
+eastern wall give a clear view of slaves being thrust into pens in the black
+quarter of the city.  
+~
+0 8 1
+E
+stairs~
+These stairs ascend clockwise.
+~
+D3
+~
+~
+0 0 11013
+D4
+These stairs ascend clockwise.  
+~
+stairs~
+0 0 11010
+S
+#11013
+Eastern Gatehouse~
+You are inside the mighty fortress like gatehouse.  Here the guards can
+watch all those that approach the gates thorough arrow slits and observation
+holes in the northern wall.  Through these arrow slits any attacking force
+can be spotted approaching from the plains and the archers can make ready to
+pick them off one by one.  The fortress continues on to the east where you
+can see a staircase leading up into the tower.  The door to the west leads
+out into the gate.  The guards can quickly scrabble from here to halt all
+those that approach the massive iron structure.  To the south a door leads
+into a massive square in the city.  
+~
+0 8 1
+E
+door~
+A wooden door stands in the west wall and in the south wall.  
+~
+D1
+~
+~
+0 0 11012
+D2
+A wooden door.
+~
+~
+1 0 11016
+D3
+A wooden door.
+~
+~
+1 0 11002
+S
+#11014
+The Emperor's Court~
+You are in the northwestern corner of a huge square.  This square was
+used during the war of the lance to parade the dragonarmies one at a time in
+a mighty impressive show of force.  Now it is more likely to be used to
+parade foot soldiers and knights for the occasional drill instruction.  All
+around the court are the massive city walls.  Should any attacking force
+breach the main gate what was left of them could easily be stopped here.  To
+the north the massive gatehouse fortress stands blocking entry from the
+plains.  A small wooden door gives access to the fortress.  The court
+continues on to the south and the east.  
+~
+0 0 1
+E
+door~
+A wooden door leading into the mighty gatehouse.
+~
+D0
+A wooden door leading into the mighty gatehouse.
+~
+~
+1 0 11003
+D1
+~
+~
+0 0 11015
+D2
+~
+~
+0 0 11017
+S
+#11015
+South of the Gate~
+You are within the evil city of Neraka.  Once the center of the Dark
+Queen's armies during the war of the lance.  Now it is run by the infamous
+Knights of Takhisis and the old remnants of the dragonarmies.  You stand in
+a mighty square known as The Emperor's Court.  Here the dragonarmies paraded
+into the city overseen by the self styled emperor Dragon Highlord Ariakas. 
+To the north the mighty iron gates of the city stand shut and barred.  The
+only access is through a door set into the gates.  The rest of the square
+stretches out before you.  
+~
+0 0 1
+E
+gate~
+This door is set into the massive iron gates of the city.  The door is
+large enough for troops on horseback to enter.  
+~
+D0
+This door is set into the massive iron gates of the city.  The door is
+large enough for troops on horseback to enter.  
+~
+gate~
+1 0 11002
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11014
+S
+#11016
+The Emperor's Court~
+You are in the northeastern corner of a huge square.  This square was
+used during the war of the lance to parade the dragonarmies one at a time in
+a mighty impressive show of force.  Now it is more likely to be used to
+parade foot soldiers and knights for the occasional drill instruction.  All
+around the court are the massive city walls.  Should any attacking force
+breach the main gate what was left of them could easily be stopped here.  To
+the north the massive gatehouse fortress stands blocking entry from the
+plains.  A small wooden door gives access to the fortress.  The court
+continues on to the south and the west.  
+~
+0 0 1
+E
+door~
+A wooden door leading into the gatehouse.  
+~
+D0
+A wooden door leading into the gatehouse.
+~
+~
+1 0 11013
+D2
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11015
+S
+#11017
+The Emperor's Court~
+You stand in the mighty Emperor's Court.  It is a massive square behind
+the main gate of the city itself.  The square is surrounded by galleries and
+viewing stands used by high ranking officers to watch over their troops
+during parades and drills.  During the war of the lance the dragonarmies
+paraded through here one by one by order of their respective highlords rank.
+The square is surrounded on all sides by the huge inner walls.  The north
+wall is dominated by the fortress like gatehouse.  To the west you can see
+inner city gates leading to other parts of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11018
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11109
+S
+#11018
+The Emperor's Court~
+You stand in the middle of the mighty Emperor's Court.  It is a massive
+square behind the main gate of the city itself.  The square is surrounded by
+galleries and viewing stands used by high ranking officers to watch over
+their troops during parades and drills.  During the war of the lance the
+dragonarmies paraded through here one by one by order of their respective
+highlords rank.  The square is surrounded on all sides by the huge inner
+walls.  The north wall is dominated by the fortress like gatehouse.  To the
+west and the south you can see inner city gates leading to other parts of
+the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11015
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11017
+S
+#11019
+The Emperor's Court~
+You stand in the mighty Emperor's Court.  It is a massive square behind
+the main gate of the city itself.  The square is surrounded my galleries and
+viewing stands used by high ranking officers to watch over their troops
+during parades and drills.  During the war of the lance the dragonarmies
+paraded through here one by one by order of their respective highlords rank.
+The square is surrounded on all sides by the huge inner walls.  The north
+wall is dominated by the fortress like gatehouse.  To the west and the south
+west you can see inner city gates leading to other parts of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11023
+D3
+~
+~
+0 0 11018
+S
+#11020
+The Emperor's Court~
+This is the eastern most part of the court.  There are more Galleries
+and viewing stands here.  It appears the highest ranking officers will come
+here and watch the parading troops.  This part of the court also appears to
+be verily easily defended.  Attackers could be forced into this relatively
+small part of the court and cut to pieces by the defending troops.  To the
+west the square stretches out before you and all other directions are
+blocked by the tall looming city walls.  Far off to the west you can see a
+pair of inner city gates.  
+~
+0 0 1
+D3
+~
+~
+0 0 11019
+S
+#11021
+The Emperor's Court~
+You are in the south western corner of a huge square.  This square was
+used during the war of the lance to parade the dragonarmies one at a time in
+a mighty impressive show of force.  Now it is more likely to be used to
+parade foot soldiers and knights for the occasional drill instruction.  All
+around the court are the massive city walls.  Should any attacking force
+breach the main gate what was left of them could easily be stopped here.  To
+the north the massive gatehouse fortress stands blocking entry from the
+plains.  The south and the west are blocked by mighty walls.  Atop these
+walls guards patrol at random times discouraging those that would try to
+scale them.  The court continues on to the north and the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11022
+S
+#11022
+The Emperor's Court~
+You stand in the south of the mighty Emperor's Court.  It is a massive
+square behind the main gate of the city itself.  The square is surrounded by
+galleries and viewing stands used by high ranking officers to watch over
+their troops during parades and drills.  During the war of the lance the
+dragonarmies paraded through here one by one by order of their respective
+highlords rank.  The square is surrounded on all sides by the huge inner
+walls.  The north wall is dominated by the fortress like gatehouse.  To the
+south you can see inner city gates leading to other parts of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11021
+S
+#11023
+The Emperor's Court~
+You are in the southeastern corner of a huge square.  This square was
+used during the war of the lance to parade the dragonarmies one at a time in
+a mighty impressive show of force.  Now it is more likely to be used to
+parade foot soldiers and knights for the occasional drill instruction.  All
+around the court are the massive city walls.  Should any attacking force
+breach the main gate what was left of them could easily be stopped here.  To
+the north the massive gatehouse fortress stands blocking entry from the
+plains.  The south and the east are blocked by mighty walls.  Atop these
+walls guards patrol at random times discouraging those that would try to
+scale them.  The court continues on to the north and the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11022
+S
+#11024
+A Mighty Gate~
+A mighty gate stands to the south.  This wooden gate is not as large as
+the main gate but it still appears to be very sturdy.  A small wooden door
+is set into the gate to allow human sized troops to pass through.  The gate
+is flanked by huge towers on either side.  You see no way into the towers
+from here but through arrow slits you can see light glinting off armor and
+possibly arrow heads.  To the north a massive square stretches out before
+you and leads to the main gate itself.  
+~
+0 0 1
+E
+gate~
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+D0
+~
+~
+0 0 11022
+D2
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 11024 11026
+S
+#11025
+The Queen's Square~
+You are in the northwestern corner of the Queen's Square.  This large
+parade square sits astride the main road of the city.  'The Queen's Way'
+runs through the square from east to west continually spiraling into the
+heart of the city.  Even from here the evil from the center of the city is
+almost suffocating now.  The square continues on to the south and to the
+east.  To the west the Queen's Way snakes it's way into the city.  The
+square is surrounded by tall city walls.  Any large scale force attacking
+the city could be penned into this square and attacked from the walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 11026
+D2
+~
+~
+0 0 11028
+D3
+~
+~
+0 0 11059
+S
+#11026
+The Queen's Square~
+You are in the Queen's Square.  This large parade square sits astride the
+main road of the city.  'The Queen's Way' runs through the square from east
+to west continually spiraling into the heart of the city.  Even from here
+the evil from the center of the city is almost suffocating now.  The square
+continues on to the south and to the east and the west.  To the north a
+massive wooden gate stands blocking entry into the bigger Emperor's Square. 
+A similar gate can be seen some distance to the south.  The square is
+surrounded by tall city walls.  Any large scale force attacking the city
+could be penned into this square and attacked from the walls.  
+~
+0 0 1
+E
+gate~
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+D0
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 11024 11024
+D1
+~
+~
+0 0 11027
+D2
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11025
+S
+#11027
+The Queen's Square~
+You are in the northeastern corner of the Queen's Square.  This large
+parade square sits astride the main road of the city.  'The Queen's Way'
+runs through the square from east to west continually spiraling into the
+heart of the city.  Even from here the evil from the center of the city is
+almost suffocating now.  The square continues on to the south and to the
+west.  To the east the Queen's Way snakes back outwards to the outer parts
+of the city.  The square is surrounded by tall city walls.  Any large scale
+force attacking the city could be penned into this square and attacked from
+the walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11030
+D3
+~
+~
+0 0 11026
+S
+#11028
+The Queen's Square~
+You are in the southwestern corner of the Queen's Square.  This large
+parade square sits astride the main road of the city.  'The Queen's Way'
+runs through the square from east to west continually spiraling into the
+heart of the city.  Even from here the evil from the center of the city is
+more suffocating still.  The square continues on to the north and to the
+east.  The square is surrounded by tall city walls.  Any large scale force
+attacking the city could be penned into this square and attacked from the
+walls.  
+~
+0 0 1
+D0
+~
+~
+0 0 11025
+D1
+~
+~
+0 0 11029
+S
+#11029
+The Queen's Square~
+You are in the Queen's Square.  This large parade square sits astride the
+main road of the city.  'The Queen's Way' runs through the square from east
+to west continually spiraling into the heart of the city.  Even from here
+the evil from the center of the city is more suffocating now.  The square
+continues on to the north and to the east and the west.  To the south a
+massive wooden gate can be seen.  A similar gate can be seen off to the
+north.  The square is surrounded by tall city walls.  Any large scale force
+attacking the city could be penned into this square and attacked from the
+walls.  
+~
+0 0 1
+D0
+~
+~
+0 0 11026
+D1
+~
+~
+0 0 11030
+D2
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11028
+S
+#11030
+The Queens Square~
+You are in the southeastern corner of the Queen's Square.  This large
+parade square sits astride the main road of the city.  'The Queen's Way'
+runs through the square from east to west continually spiraling into the
+heart of the city.  Even from here the evil from the center of the city is
+more suffocating still.  The square continues on to the north and to the
+west.  The square is surrounded by tall city walls.  Any large scale force
+attacking the city could be penned into this square and attacked from the
+walls.  
+~
+0 0 1
+D0
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11029
+S
+#11031
+A Mighty Gate~
+A mighty gate stands to the south.  This wooden gate is not as large as
+the main gate but it still appears to be very sturdy.  A small wooden door
+is set into the gate to allow human sized troops to pass through.  The gate
+is flanked by huge towers on either side.  You see no way into the towers
+from here but through arrow slits you can see light glinting off armor and
+possibly arrow heads.  To the north a large square stretches out before you.
+Running across the square is the main city road known as 'The Queen's Way'
+this road spirals through the city and the surrounding districts.  
+~
+0 0 1
+E
+gate~
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+D0
+~
+~
+0 0 11029
+D2
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 11031 11032
+S
+#11032
+The Temple Square~
+You stand in a huge square.  The feeling of evil here is overwhelming. 
+Standing in the center of the square is the source of this dark feeling of
+evil.  The temple of Neraka stands once again defiantly at the heart of the
+evil city.  The evil pulses in waves like a massive heartbeat eminating from
+the temple itself.  The temple was built in secret after the war of the
+lance.  It still has a twisted and deranged looking exterior but it was
+built by human hands and not by Takhisis Herself.  The Temple Square
+stretches around the foul structure.  To the north a mighty gate stands
+between this square and the Queen's Square.  The east is barred by another
+gate of similar structure.  
+~
+0 5 1
+E
+gate~
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+D0
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 11031 11031
+D1
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 0 11033
+D2
+~
+~
+0 0 12234
+S
+#11033
+The Queen's Way~
+The road ends here at a massive gate.  This wooden gate is not as large
+as the main gate but it still appears to be very sturdy.  A small wooden
+door is set into the gate to allow human sized troops to pass through.  The
+gate is flanked by huge towers on either side.  You see no way into the
+towers from here but through arrow slits you can see light glinting off
+armor and possibly arrow heads.  The road to the east bends to the south
+and gives access to one of the inner districts of the city farther to the
+east.  There is a metal grating in the road here.  
+~
+0 0 1
+E
+gate~
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+E
+grating~
+This grating looks as though it can be opened.
+~
+D1
+~
+~
+0 0 11034
+D3
+A small wooden door is set in this massive gate allowing human sized
+persons to pass through.  
+~
+gate~
+1 11033 11032
+D5
+This metal grating covers a hole in the road.
+~
+grating~
+1 0 12074
+R EXALL 12000 5~
+S
+#11034
+Corner of Queen's Way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  To the east of this road is the entrance to the
+inner district of the black quarter of the city.  The road stretches on to
+the south and to the west it ends at a massive gate.  
+~
+0 0 1
+D1
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11033
+S
+#11035
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the north the road bends into a
+corner.  To the south the road stretches on.  
+~
+0 0 1
+D0
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11036
+S
+#11036
+An Inner City Gate~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  There is a large wooden gate here with
+two large towers flanking it on either side.  Usually only officers or
+knights are allowed this far into the city and so during times of peace
+these gates are usually open.  Built to stop fighting between different
+factions of the dragonarmies; these gates can hold up an aggressive force
+allowing the city guards to repel them more easily.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D0
+~
+~
+0 0 11035
+D2
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11037
+S
+#11037
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the east is the entrance to the
+inner district of the blue quarter.  The road continues on to the south and
+to the north through a large gate.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D0
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11036
+D1
+~
+~
+0 0 11198
+D2
+~
+~
+0 0 11038
+S
+#11038
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on to the north and
+to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11039
+S
+#11039
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on to the north and
+to the south.  You can see a corner in the road off to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11040
+S
+#11040
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on to the north. 
+You can see mighty towers looming over the road farther to the north.  To
+the south the road bends westwards.  Another pair of towers block any vision
+of the road to the west.  A grating covers a hole in the road here.  
+~
+0 0 1
+E
+grating~
+This grating looks like it can be opened.
+~
+D0
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11041
+D5
+This grating covers a hole in the road.
+~
+grating~
+1 0 12083
+R EXALL 12000 5~
+S
+#11041
+Corner of Queen's Way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  The road stretches on to the north and to the
+west.  There is a large wooden gate here with two large towers flanking it
+on either side.  Usually only officers or knights are allowed this far into
+the city and so during times of peace these gates are usually open.  Built
+to stop fighting between different factions of the dragonarmies; these gates
+can hold up an aggressive force allowing the city guards to repel them more
+easily.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D0
+~
+~
+0 0 11040
+D3
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11042
+S
+#11042
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the east there is a large gate. 
+This gate is normally only closed at times of war or rioting.  The road
+stretches on to the west.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D1
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11041
+D3
+~
+~
+0 0 11043
+S
+#11043
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road continues on to the west and
+to the east.  Two large towers stand astride a gate off to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11044
+S
+#11044
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on to the east and
+to the west.  You are in the middle of this stretch of road and both
+directions look the same.  
+~
+0 0 1
+D1
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11045
+S
+#11045
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the south there is a large gate
+barring entry to the inner district of the red quarter of the city.  The
+Queen's Way continues on to the east and the west.  A metal grating covers a
+hole in the road here.  
+~
+0 0 1
+E
+grating~
+This grating looks as though it can be opened.
+~
+E
+gate~
+A large gate stands here blocking the entrance to the Red Quarter.  
+~
+D1
+~
+~
+0 0 11044
+D2
+A large gate stands here blocking the entrance to the Red Quarter.  
+~
+gate~
+1 0 11954
+D3
+~
+~
+0 0 11046
+D5
+This grating covers a hole large enough for an ogre to get through.  
+~
+grating~
+1 0 12088
+R EXALL 12000 5~
+S
+#11046
+An Inner City Gate~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  There is a large wooden gate here with
+two large towers flanking it on either side.  Usually only officers or
+knights are allowed this far into the city and so during times of peace
+these gates are usually open.  Built to stop fighting between different
+factions of the dragonarmies; these gates can hold up an aggressive force
+allowing the city guards to repel them more easily.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D1
+~
+~
+0 0 11045
+D3
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11047
+S
+#11047
+A Corner in Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the east there is a large gate. 
+This gate is normally only closed at times of war or rioting.  The road
+stretches on to the north.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D0
+~
+~
+0 0 11048
+D1
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11046
+S
+#11048
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the south the road bends to the
+east and to the north the road stretches on.  
+~
+0 0 1
+D0
+~
+~
+0 0 11049
+D2
+~
+~
+0 0 11047
+S
+#11049
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on far off to the
+north and stretches on to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11050
+D2
+~
+~
+0 0 11048
+S
+#11050
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on far off to the
+north and stretches on to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11051
+D2
+~
+~
+0 0 11049
+S
+#11051
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road.
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  This is the middle of this stretch of
+the road.  Looking both north and south you can see the long road stretching
+through the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11052
+D2
+~
+~
+0 0 11050
+S
+#11052
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  The road stretches on far off to the
+south and to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11051
+S
+#11053
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the west is the entrance to the
+bustling inner city district of the Green Quarter.  To the north stands a
+large gate.  This gate is normally only closed at times of war or rioting. 
+The road stretches on to the south.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D0
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11054
+D2
+~
+~
+0 0 11052
+D3
+~
+~
+0 0 12025
+S
+#11054
+An Inner City Gate~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  There is a large wooden gate here with
+two large towers flanking it on either side.  Usually only officers or
+knights are allowed this far into the city and so during times of peace
+these gates are usually open.  Built to stop fighting between different
+factions of the dragonarmies; these gates can hold up an aggressive force
+allowing the city guards to repel them more easily.  To the east the road
+continues.  
+~
+0 0 1
+E
+gate~
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+D1
+~
+~
+0 0 11055
+D2
+This large wooden gate swings open and closed easily.  It is only
+normally closed during times of war.  
+~
+gate~
+0 0 11053
+S
+#11055
+A Corner of Queen's Way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  The road snakes off to the north and to the
+west.  
+~
+0 0 1
+D0
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11054
+S
+#11056
+A Corner of Queen's Way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  The road snakes off to the south and to the
+east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11055
+S
+#11057
+A Corner of Queen's way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  The road snakes off to the west and stretches
+off to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11056
+S
+#11058
+The Queen's Way~
+You are traveling along the Queen's Way the city of Neraka's main road. 
+The road is surrounded by high walls on either side with no chance of
+escape.  Invading forces could be channeled down this road and picked off by
+the city guards on top of the walls.  To the west is the entrance to the
+bustling inner city district of the White Quarter.  The road to the north
+bends eastwards and the road to the south bends westwards.  
+~
+0 0 1
+D0
+~
+~
+0 0 11059
+D2
+~
+~
+0 0 11057
+D3
+~
+~
+0 0 11159
+S
+#11059
+A Corner of Queen's Way~
+You are on a corner of Queen's Way the city of Neraka's main road.  The
+road is surrounded by high walls on either side with no chance of escape. 
+Invading forces could be channeled down this road and picked off by the city
+guards on top of the walls.  To the east a large square stretches out before
+you.  To the south the road snakes its way into the heart of the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 11025
+D2
+~
+~
+0 0 11058
+S
+#11060
+The Queen's Way~
+You are traveling along the Queens Way.  This part of the road is a part
+of the Black Quarter of the city.  This part of the city is patrolled by
+soldiers of the old black dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues on to the east.  To the
+west a large square opens out before you.  
+~
+0 0 1
+D1
+~
+~
+0 0 11061
+D3
+~
+~
+0 0 11027
+S
+#11061
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Black Quarter of the city.  This part of the city is patrolled by
+soldiers of the old black dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches off to the west and
+snakes off to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 11062
+D3
+~
+~
+0 0 11060
+S
+#11062
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Black Quarter of the city.  This part of the city is patrolled by
+soldiers of the old black dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road snakes off to the east and to the
+north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11061
+D1
+~
+~
+0 0 11063
+S
+#11063
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Black Quarter of the city.  This part of the city is patrolled by
+soldiers of the old black dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road snakes off to the west and
+stretches off to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 11064
+D3
+~
+~
+0 0 11062
+S
+#11064
+The Queen's Way~
+You are traveling along the Queens Way.  This part of the road is a part
+of the Black Quarter of the city.  This part of the city is patrolled by
+soldiers of the old black dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road snakes away to the north.  To the
+east is the entrance to the Black Quarter of the city.  A mighty gate
+flanked by tall towers looms to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11063
+D1
+~
+~
+0 0 11116
+D2
+~
+~
+0 0 11065
+S
+#11065
+An Inner City Gate~
+You are at the end of the road in the Black Quarter.  Before you to the
+south stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a bluish tint and from the
+other tower the light appears to be reflected off black armor.  It seems
+that the gate is guarded by troops from the old black dragonarmy and troops
+from the blue dragonarmy.  To the north the road stretches on into the
+black quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+~
+~
+0 0 11064
+D2
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11066
+S
+#11066
+An Inner City Gate~
+You are at the end of the road in the Blue Quarter.  Before you to the
+north stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a bluish tint and from the
+other tower the light appears to be reflected off black armor.  It seems
+that the gate is guarded by troops from the old black dragonarmy and troops
+from the blue dragonarmy.  To the south the road stretches on into the blue
+quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11065
+D2
+~
+~
+0 0 11067
+S
+#11067
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues on to a gate in the
+north and stretches on to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11066
+D2
+~
+~
+0 0 11068
+S
+#11068
+The Queen's way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches on to the north and on
+to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11067
+D2
+~
+~
+0 0 11069
+S
+#11069
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches on to the north and on
+to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11070
+S
+#11070
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches on to the north and
+turns westwards to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11069
+D2
+~
+~
+0 0 11071
+S
+#11071
+A Corner of Queen's Way~
+You are on a corner of the Queen's way.  This corner is a part of the
+Blue Quarter of the city.  This part of the city is patrolled by soldiers of
+the old blue dragonarmy.  These soldiers patrol in conjunction with the
+city guard.  The road is lined by high walls.  Each wall is patrolled by the
+elite city guard watching for disturbances along the road.  Attacking forces
+can also be trapped into the quartered road and denied access to the rest of
+the city.  The road stretches off to the north and snakes off to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11072
+S
+#11072
+A Corner of Queen's Way~
+You are on a corner of the Queen's way.  This corner is a part of the
+Blue Quarter of the city.  This part of the city is patrolled by soldiers of
+the old blue dragonarmy.  These soldiers patrol in conjunction with the
+city guard.  The road is lined by high walls.  Each wall is patrolled by the
+elite city guard watching for disturbances along the road.  Attacking forces
+can also be trapped into the quartered road and denied access to the rest of
+the city.  The road stretches off to the south and snakes away to the east. 
+~
+0 0 1
+D1
+~
+~
+0 0 11071
+D2
+~
+~
+0 0 11073
+S
+#11073
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues to the north and to the
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11074
+S
+#11074
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Blue Quarter of the city.  This part of the city is patrolled by
+soldiers of the old blue dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  To the east is the entrance to the busy
+sounding Blue Quarter of the city and to the south is a large gate flanked
+by two towers.  A grating covers a large hole in the street here.  
+~
+0 0 1
+E
+grating~
+This grating can be opened.
+~
+D0
+~
+~
+0 0 11073
+D1
+~
+~
+0 0 11901
+D2
+~
+~
+0 0 11075
+D5
+This grating covers a hole large enough for an ogre to crawl through.
+~
+grating~
+1 0 12134
+R EXALL 12000 5~
+S
+#11075
+An Inner City Gate~
+You are at the end of the road in the Blue Quarter.  Before you to the
+south stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a blueish tint and from the
+other tower the light appears to be reflected off red armor.  It seems that
+the gate is guarded by troops from the old red dragonarmy and troops from
+the blue dragonarmy.  To the north the road stretches on into the blue
+quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+~
+~
+0 0 11074
+D2
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11076
+S
+#11076
+An Inner City Gate~
+You are at the end of the road in the Red Quarter.  Before you to the
+south stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a bluish tint and from the
+other tower the light appears to be reflected off red armor.  It seems that
+the gate is guarded by troops from the old red dragonarmy and troops from
+the blue dragonarmy.  To the west the road stretches on into the red
+quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11075
+D3
+~
+~
+0 0 11077
+S
+#11077
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road ends in a large gate to the east
+and stretches on to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11078
+S
+#11078
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues to the east and snakes
+away to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11077
+D3
+~
+~
+0 0 11079
+S
+#11079
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches off to the east and
+snakes away to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 11078
+D2
+~
+~
+0 0 11080
+S
+#11080
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues to the west and snakes
+away to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11081
+S
+#11081
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues on to the west and to
+the east.  To the south is the entrance to the large Red Quarter of the
+city.  
+~
+0 0 1
+D1
+~
+~
+0 0 11080
+D2
+~
+~
+0 0 11965
+D3
+~
+~
+0 0 11082
+S
+#11082
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road continues on to the east and to
+the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11081
+D3
+~
+~
+0 0 11083
+S
+#11083
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches off to the east and
+snakes away to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11084
+D1
+~
+~
+0 0 11082
+S
+#11084
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road snakes off to the west and to the
+south.  
+~
+0 0 1
+D2
+~
+~
+0 0 11083
+D3
+~
+~
+0 0 11085
+S
+#11085
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Red Quarter of the city.  This part of the city is patrolled by
+soldiers of the old red dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road snakes off to the east and to the
+north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11086
+D1
+~
+~
+0 0 11084
+S
+#11086
+An Inner City Gate~
+You are at the end of the road in the Red Quarter.  Before you to the
+west stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a greenish tint and from the
+other tower the light appears to be reflected off red armor.  It seems that
+the gate is guarded by troops from the old red dragonarmy and troops from
+the green dragonarmy.  To the south the road snakes into the red quarter of
+the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D2
+~
+~
+0 0 11085
+D3
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11087
+S
+#11087
+An Inner City Gate~
+You are at the end of the road in the Green Quarter.  Before you to the
+west stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a greenish tint and from the
+other tower the light appears to be reflected off red armor.  It seems that
+the gate is guarded by troops from the old red dragonarmy and troops from
+the green dragonarmy.  To the west the road snakes into the green quarter
+of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D1
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11086
+D3
+~
+~
+0 0 11088
+S
+#11088
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Green Quarter of the city.  This part of the city is patrolled by
+soldiers of the old green dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  A tall gate stands off to the east and to
+the north the road stretches forth.  To the west is the entrance to the
+Green Quarter of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11089
+D1
+~
+~
+0 0 11087
+D3
+~
+~
+0 0 12033
+S
+#11089
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  To the south the road snakes away
+and to the north the road stretches on.  
+~
+0 0 1
+D0
+~
+~
+0 0 11090
+D2
+~
+~
+0 0 11088
+S
+#11090
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches on to the north
+and to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11091
+D2
+~
+~
+0 0 11089
+S
+#11091
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches on to the north
+and to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11092
+D2
+~
+~
+0 0 11090
+S
+#11092
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches on to the south
+and snakes off to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11091
+S
+#11093
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Green Quarter of the city.  This part of the city is patrolled by
+soldiers of the old green dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches off to the south and
+snakes away to the west.  
+~
+0 0 1
+D2
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11094
+S
+#11094
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the Green Quarter of the city.  This part of the city is patrolled by
+soldiers of the old green dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches off to the north and
+snakes away to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11095
+D1
+~
+~
+0 0 11093
+S
+#11095
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road continues to the south and
+to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11094
+S
+#11096
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the Green Quarter of the city.  This part of the city is patrolled
+by soldiers of the old green dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road continues on to the south
+and to the north stands a large gate flanked by tall towers.  
+~
+0 0 1
+D0
+~
+~
+0 0 11097
+D2
+~
+~
+0 0 11095
+S
+#11097
+An Inner City Gate~
+You are at the end of the road in the Green Quarter.  Before you to the
+north stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a greenish tint and from the
+other tower the light appears to be reflected off white armor.  It seems
+that the gate is guarded by troops from the old white dragonarmy and troops
+from the green dragonarmy.  To the south the road stretches on into the
+green quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11098
+D2
+~
+~
+0 0 11096
+S
+#11098
+An Inner City Gate~
+You are at the end of the road in the White Quarter.  Before you to the
+south stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a greenish tint and from the
+other tower the light appears to be reflected off white armor.  It seems
+that the gate is guarded by troops from the old white dragonarmy and troops
+from the green dragonarmy.  To the north the road snakes into the white
+quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+D0
+~
+~
+0 0 11099
+D2
+This mighty wooden gate was built to keep the different dragonarmies
+apart.  
+~
+gate~
+1 0 11097
+S
+#11099
+A Corner of Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road snakes off to the south and
+to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11100
+D2
+~
+~
+0 0 11098
+S
+#11100
+A Corner of Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches off to the north
+and snakes off to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11099
+S
+#11101
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches off to the north
+and snakes away to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11100
+S
+#11102
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches on to the north
+and to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11103
+D2
+~
+~
+0 0 11101
+S
+#11103
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  The road stretches on to the south
+and snakes away to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11104
+D2
+~
+~
+0 0 11102
+S
+#11104
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the White Quarter of the city.  This part of the city is patrolled by
+soldiers of the old white dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  The road stretches on to the south and to
+the east.  To the west stands a large gate barring the entrance to the White
+Quarter of the city.  
+~
+0 0 1
+E
+gate~
+This mighty wooden gate blocks access to the White Quarter.
+~
+D1
+~
+~
+0 0 11105
+D2
+~
+~
+0 0 11103
+D3
+This mighty wooden gate blocks access to the White Quarter.  
+~
+gate~
+1 0 11169
+S
+#11105
+The Queen's way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  To the west the road bends
+southwards and to the east the road stretches on.  
+~
+0 0 1
+D1
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11104
+S
+#11106
+The Queen's Way~
+You are traveling along the Queen's Way.  This part of the road is a
+part of the White Quarter of the city.  This part of the city is patrolled
+by soldiers of the old white dragonarmy.  These soldiers patrol in
+conjunction with the city guard.  The road is lined by high walls.  Each
+wall is patrolled by the elite city guard watching for disturbances along
+the road.  Attacking forces can also be trapped into the quartered road and
+denied access to the rest of the city.  To the west the road stretches on
+and to the east the road bends northwards.  
+~
+0 0 1
+D1
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11105
+S
+#11107
+A Corner of Queen's Way~
+You are on a corner of the Queen's Way.  This part of the road is a part
+of the White Quarter of the city.  This part of the city is patrolled by
+soldiers of the old white dragonarmy.  These soldiers patrol in conjunction
+with the city guard.  The road is lined by high walls.  Each wall is
+patrolled by the elite city guard watching for disturbances along the road. 
+Attacking forces can also be trapped into the quartered road and denied
+access to the rest of the city.  To the west the road stretches on.  To the
+north the road snakes away towards a large gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11106
+S
+#11108
+An Inner City Gate~
+You are at the end of the road in the White Quarter.  Before you to the
+east stands a large wooden gate flanked by two tall towers.  Flashes of
+light off armor and weapons can be seen through the arrow slits in the
+towers.  In one tower the glints of light have a White gleam and from the
+other tower the light appears to be reflected off armor used by the elite
+city guard.  It seems that the gate is guarded by troops from the old White
+dragonarmy and by members of the cities own elite guard.  To the south the
+road snakes off into the White Quarter of the city.  
+~
+0 0 1
+E
+gate~
+This large gate separates the Emperor's Square from the rest of the city.  
+~
+D1
+This large gate separates the Emperor's Square from the rest of the city.  
+~
+gate~
+1 0 11109
+D2
+~
+~
+0 0 11107
+S
+#11109
+An Inner City Gate~
+Before you to the west stands a large wooden gate flanked by two tall
+towers.  Flashes of light off armor and weapons can be seen through the
+arrow slits in the towers.  In one tower the glints of light have a White
+gleam and from the other tower the light appears to be reflected off armor
+used by the elite city guard.  It seems that the gate is guarded by troops
+from the old White dragonarmy and by members of the cities own elite guard.
+To the east the Emperor's square opens out before you.  
+~
+0 0 1
+E
+gate~
+This large gate separates the Emperor's Square from the rest of the city.  
+~
+D1
+~
+~
+0 0 11017
+D3
+This large gate separates the Emperor's Square from the rest of the city.  
+~
+gate~
+1 0 11108
+S
+#11110
+{mInner District of Black Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area
+watching for trouble.  The Black Quarter of the city is fairly unusual since
+it does not house the officers that now lead the remainder of the black
+dragonarmy.  This area is instead decked out with the insignia of the City
+Guard.  
+~
+0 0 1
+D0
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11034
+S
+#11111
+{mBefore the Blockhouse{x~
+You stand in the heart of the inner black district.  There is not a black
+dragonarmy officer in sight.  Standing to the west is a massive blockhouse
+flying the flag of the City Guard of Neraka.  The mark of the five headed
+dragon upon the walls of the blockhouse indicate that there is some form of
+temple to the Dark Queen inside.  The guards atop the mighty walls of the
+city appear to be watching this part of the inner city as intently as they
+watch the roads.  There is a grating in the road here covering a hole big
+enough for an ogre to crawl through.
+~
+0 0 1
+E
+grating~
+This grating looks like it can be opened.  
+~
+D2
+~
+~
+0 0 11110
+D3
+~
+~
+0 0 11112
+D5
+This grating covers a hole large enough for an ogre to crawl through.
+~
+grating~
+1 0 12121
+R EXALL 12000 5~
+S
+#11112
+{mThe Blockhouse{x~
+You are in a large building.  The room you are in is very large and
+clearly serves many purposes.  There are desks filled with clerks and high
+ranking officers of the City Guard making daily reports.  A foul acrid odor
+fills the air emanating from the southern wall.  A sense of cold pure evil
+oozes from the same direction.  A quick glance reveals an altar to the Dark
+Queen stands there.  Attended by dark clerics the City Guard can worship
+here away from the public churches and the temple.  To the west lies a large
+cellblock.  The north houses what appears to be the City Guard barracks.  
+~
+0 8 1
+E
+altar~
+This altar is draped in black cloth with black candles burning on either
+side.  Images of the Dark Queen embroidered on the cloth are hideous to
+behold.  
+~
+D0
+~
+~
+0 0 11114
+D1
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11113
+S
+#11113
+{mThe City Guard Cellblock{x~
+This cellblock is used by the City Guard.  They bring any persons found
+inside the city walls without the relevant authorization here to be
+questioned by the Captain of the guard.  The cells appear to be very
+uncomfortable.  The floors are made of hard stone with only a little straw
+scattered about each cell.  The straw might once have been relatively
+comfortable but most of it seems to have been used to mop up blood and other
+nasty things associated with prison cells.  The main room of the blockhouse
+is to the east.  
+~
+0 8 1
+E
+cells~
+These cells are uncomfortable looking.  Thin piles of blood soaked straw
+lie all about the floors.  
+~
+D1
+~
+~
+0 0 11112
+S
+#11114
+{mCity Guard Barracks{x~
+This part of the blockhouse is full of bunks made of straw with wooden
+frames.  There are many off duty City Guards here sleeping away the
+weariness of their shifts.  The northern part of the room appears to be some
+sort of mess hall.  Since the guards come in on regular shift patterns the
+meals are served here after each shift and before each shift.  This way the
+guards are fed properly and effectively.  A set of stairs stand away from
+the main guard's area.  The stairs ascend in a clockwise direction.  
+~
+0 8 1
+E
+bunks~
+These wooden framed straw filled bunks appear quite comfortable.
+~
+E
+stairs~
+These stairs ascend in a clockwise direction.
+~
+D2
+~
+~
+0 0 11112
+D4
+These stairs ascend in a clockwise direction.  
+~
+stairs~
+0 0 11115
+S
+#11115
+{mThe Captain of the Guard's Quarters{x~
+The stairs open out into the Captain's office and living quarters.  The
+quarters are separated from the office portion of this floor.  Here the
+Captain interrogates all those brought before him by his elite City Guard. 
+Those that do not satisfy his questions are taken to the inquisitors in
+their chambers below the Queen's temple.  The office appears fairly
+comfortable and is carpeted with a soft yet practical carpet.  Whilst not
+living in the lap of luxury this officer certainly lives better than most
+common soldiers.  The spiral stairs lead down into the main barracks of the
+blockhouse.  
+~
+0 8 1
+E
+stairs~
+These stairs descend in a counter clockwise direction.  
+~
+D5
+These stairs descend in a counter clockwise direction.  
+~
+stairs~
+0 0 11114
+S
+#11116
+{mEntrance to the Black Quarter{x~
+You are at the entrance to the Black Quarter.  To the north the black
+quarter stretches on.  To the east a mighty gate stands before you.  This
+gate blocks the way out into the outer city.  The gate is flanked on either
+side by two tall towers.  Each one is covered with arrow slits and
+observation holes.  Flashes of light can be seen through the slits from what
+can only be the armor of troops and arrowheads.  The gate itself is made of
+large beams of wood mounted upon well oiled hinges.  This gate looks like it
+can withstand a large force of aggressors for quite some time.  At least
+enough time to prepare the defense of the inner city.  
+~
+0 4 1
+E
+gate~
+This mighty wooden gate can withstand a massive assault.  
+~
+D0
+~
+~
+0 0 11117
+D1
+This mighty wooden gate can withstand a massive assault.  
+~
+gate~
+1 0 11127
+D3
+~
+~
+0 0 11064
+S
+#11117
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here and spend much of their free time in
+the many taverns and houses of ill repute within the quarter.  To the north
+the quarter continues and to the south is the Queen's Way.  
+~
+0 0 1
+D0
+~
+~
+0 0 11118
+D2
+~
+~
+0 0 11116
+S
+#11118
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here and spend much of their free time in
+the many taverns and houses of ill repute within the quarter.  The quarter
+continues to the north and to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11199
+D2
+~
+~
+0 0 11117
+S
+#11119
+{bThe Knight's Guild{x~
+Here a veteran Knight of the Lily stands ready to train those willing to
+learn.  This place is mainly for the dark knights of Takhisis but the guild
+is open to any young knight wishing to learn from a master.  Bound by some
+unspoken knightly honor all prejudices are ignored here and all knights
+and squires train side by side.  
+~
+0 2098184 1
+D2
+~
+~
+0 0 11198
+S
+#11120
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  The quarter continues to the west and
+to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11199
+D3
+~
+~
+0 0 11121
+S
+#11121
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  The quarter stretches on to the north
+and to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11122
+D1
+~
+~
+0 0 11120
+S
+#11122
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  The quarter continues on to the north
+and to the south.  A deep oppressive sense of evil exudes from a building to
+the east.  Marked on the doorpost of the building is the symbol of the five
+headed dragon.  
+~
+0 0 1
+E
+doorpost~
+Etched upon the doorpost is a five headed dragon.  The symbol of a dark
+church.  
+~
+D0
+~
+~
+0 0 11124
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11121
+S
+#11123
+{mShrine of the Dark Temptress{x~
+You are in the dark church of the black quarter.  Officers of the black
+dragonarmy come here to give thanks to the Dark Queen for victories or to
+ask for aid in upcoming battles.  The draconian officers are often found
+here almost as devout as the black robed clerics in their worship of
+Takhisis.  The eastern wall of this church is filled with hideous and
+deformed imagery of the Queen in her many guises.  Images of Her Dark
+Majesty line the walls depicting gruesome torture scenes and radiant
+glorious darkness.  The altar itself stands in the center of the room
+attended by dark clerics.  A crushing sense of pure evil oozes from a statue
+of The Temptress standing atop the altar. To the north, lies the entrance
+into the {DDark Orders'{x Clanhall.  
+~
+0 8389640 42
+D0
+~
+~
+0 0 158
+D3
+~
+~
+0 0 11122
+S
+#11124
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  To the east a building is filled with
+sounds of rough laughter and shouts.  A plank above the door has a crude
+sketch of a black dragon on it.  The quarter continues on to the north and
+south.  
+~
+0 0 1
+E
+plank~
+Sketched on this plank of wood is a picture of a black dragon.  
+~
+D0
+~
+~
+0 0 11126
+D1
+~
+~
+0 0 11125
+D2
+~
+~
+0 0 11122
+S
+#11125
+{mThe Black Dragon{w~
+You stand in a rough but fairly clean tavern.  Unlike the other dragon
+taverns this is not in the Inner Districts.  However it is still mainly
+occupied by officers of the black dragonarmy due to the prices being too
+high for the wage of the common soldier.  A few older officers sit reciting
+tales of the glorious battles they were in as young recruits during the war
+of the lance.  Although the armies were routed after the war they were
+reformed and regrouped here at Neraka.  Although now one army the units are
+still separated by color.  A few younger officers sit in hope that one of
+the knights will come in and tell of sweeping conquests rather than old
+conquests from times forgotten.  With the tavern out in this part of the
+city however the young officers are mainly disappointed.  
+~
+0 8 1
+D3
+~
+~
+0 0 11124
+S
+#11126
+{mEnd of The Black Quarter{x~
+You stand at the end of the Black Quarter of the city of Neraka.  High
+walls separate this quarter from the main roads of the city and from the
+outer city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  There is a large grating in the road
+just big enough for and ogre to climb through.  The quarter continues to the
+south.  
+~
+0 0 1
+E
+grating~
+This grating looks as though it can be opened and closed.  
+~
+D2
+~
+~
+0 0 11124
+D5
+This grating looks as though it can be opened and closed.
+~
+grating~
+1 0 12149
+R EXALL 12000 5~
+S
+#11127
+{mEntrance to the Inner City{x~
+You are at the entrance to the city of Neraka.  This entrance is mainly
+used by troops of the black dragonarmy.  To the east a mighty gate stands
+before you.  This gate blocks the way out into the outer city.  The gate is
+flanked on either side by two tall towers.  Each one is covered with arrow
+slits and observation holes.  Flashes of light can be seen through the slits
+from what can only be the armor of troops and arrowheads.  The gate itself
+is made of large beams of wood mounted upon well oiled hinges.  This gate
+looks like it can withstand a large force of aggressors for quite some time.
+At least enough time to prepare the defense of the inner city.  To the north
+stands a building with the symbol of thieves etched onto the door.  The
+outer city stretches off to the east.  
+~
+0 4 1
+E
+symbol~
+Etched upon the door is the symbol of the thieves guild.  
+~
+E
+door~
+Etched upon the door is the symbol of the thieves’ guild.  
+~
+E
+gate~
+This mighty wooden gate can withstand a massive assault.  
+~
+D0
+~
+~
+0 0 11128
+D1
+~
+~
+0 0 11129
+D3
+This mighty wooden gate can withstand a massive assault.
+~
+gate~
+1 0 11116
+S
+#11128
+{mThe Thieves Guild{x~
+You are in a room that at first glance appears totally empty save for the
+guildmaster himself.  Then looking closer you can see that the room is full
+of young thieves hidden about the place.  A quick movement here and there
+gives away a young thief practicing the sneaky arts.  Here thieves can learn
+new skills or practice the skills they have already learnt.  Glints of gold
+and the sparkle of diamonds and amethysts just barely visible from behind
+the guildmaster makes you realize just how good they are.  
+~
+0 2098185 1
+D2
+~
+~
+0 0 11127
+D5
+~
+~
+0 0 12157
+R EXALL 12000 5~
+S
+#11129
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  To the west lies a massive gate surrounded by the
+mighty walls of Neraka.  The wooden lined mud street continues on to the
+east and to the north stands a building.  Above the door of the building is
+a wooden sign with a crude picture of a black lion scrawled upon it.  
+~
+0 0 1
+E
+sign~
+Scrawled upon this wooden sign is the image of a ferocious black lion.  
+~
+D0
+~
+~
+0 0 11130
+D1
+~
+~
+0 0 11131
+D3
+~
+~
+0 0 11127
+S
+#11130
+{mThe Black Lion{x~
+This ramshackle hut passes for a tavern here in the outer city of Neraka.
+This cheap looking and ill used building looks as though it could fall apart
+at any minute.  But as long as there is a roof to keep rainwater out of
+their drinks the patrons don't seem to mind.  That or they are too drunk to
+care.  The floor of the bar is covered with sawdust and straw.  It is clear
+from the stench that the sawdust is not often cleared out.  Blood and vomit
+are soaked into most parts of the sawdust.  From the broken bits of
+furniture lying around it is clear that bar brawls happen here on a regular
+basis.  
+~
+0 8 1
+E
+door~
+A small door leads out the back way.
+~
+D0
+A small door leads out the back way.
+~
+~
+1 0 11134
+D2
+~
+~
+0 0 11129
+S
+#11131
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  The muddy paths lined with the wooden walkways
+continue on to the west and to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11132
+D2
+~
+~
+0 0 11926
+D3
+~
+~
+0 0 11129
+S
+#11132
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  The muddy streets continue on to the south and
+lead into a marketplace to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11133
+D2
+~
+~
+0 0 11131
+S
+#11133
+{mBlack Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the Black Quarter of the outer city.  Soldiers and
+mercenaries that fight for the black dragonarmy come here and sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The market square continues to the west and the black
+quarter continues to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 11132
+D3
+~
+~
+0 0 11134
+S
+#11134
+{mBlack Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the Black Quarter of the outer city.  Soldiers and
+mercenaries that fight for the black dragonarmy come here and sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The market continues to the west and to the east.  
+~
+0 0 1
+E
+door~
+On close inspection you find a hidden door leading into the building.  
+~
+D1
+~
+~
+0 0 11133
+D2
+On close inspection you find a hidden door leading into the building.
+~
+~
+1 0 11130
+D3
+~
+~
+0 0 11135
+S
+#11135
+{mBlack Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the Black Quarter of the outer city.  Soldiers and
+mercenaries that fight for the black dragonarmy come here and sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The marketplace continues on to the north and to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11136
+D1
+~
+~
+0 0 11134
+S
+#11136
+{mBlack Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the Black Quarter of the outer city.  Soldiers and
+mercenaries that fight for the black dragonarmy come here and sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The market continues to the south.  To the north the black
+quarter stretches on.  
+~
+0 0 1
+D0
+~
+~
+0 0 11137
+D2
+~
+~
+0 0 11135
+S
+#11137
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  The wooden walkways continue on to the west.  To
+the north stands a large stone building with a wooden door leading into it. 
+From the insignia above the door this appears to be a guardhouse.  
+~
+0 0 1
+E
+door~
+A wooden door leads into what appears to be a guardhouse.
+~
+D0
+A wooden door leads into what appears to be a guardhouse.
+~
+~
+1 0 11138
+D2
+~
+~
+0 0 11136
+D3
+~
+~
+0 0 11140
+S
+#11138
+{mA Guardhouse{x~
+You are inside a sturdy stone building with small windows on all sides. 
+This building appears to be purpose built to allow a large detachment of
+guards to spend a whole duty shift watching the city around them. 
+Occasionally guards will march out of here and patrol the streets bringing
+back any untoward persons for interrogation.  Small holding cells can be
+seen here to put these undesirables into before either being taken to the
+pens for a term of imprisonment or to be taken before the army’s commander
+for further questioning.  Between the windows are the banners of the black
+dragonarmy.  Each army is responsible for the well being of its own quarter.
+Doors to the south and west lead out into the black quarter whilst stone
+steps lead up to the next level of the guardhouse.  
+~
+0 8 1
+E
+door~
+Wooden doors lead out into the Black Quarter.
+~
+E
+stairs~
+These stone steps lead upwards.
+~
+D2
+A wooden door leads out into the Black Quarter.
+~
+~
+1 0 11137
+D3
+A wooden door leads out into the Black Quarter.
+~
+~
+1 0 11141
+D4
+These stone steps lead upwards.
+~
+stairs~
+0 0 11139
+S
+#11139
+{mTop of a Guardhouse{x~
+You are in the top of the guardhouse.  Stone steps lead down into the
+main part of the guardhouse.  Looking around this sturdy stone building you
+can see that there are observation points and arrow slits around the walls. 
+Looking through these windows to the east gives an excellent view of the
+surrounding Black Quarter of the city.  The view to the south gives a good
+view of the market square.  Through the north window the activities of the
+slaver pens can be watched closely and any escaping slaves or dodgy
+merchants can be shot down from here.  To the west guards can watch the
+muddy roads leading around the walls of the city itself.  These massive
+walls dominate this view and dwarves those looking out.  
+~
+0 8 1
+E
+stairs~
+These stone steps go downwards.
+~
+D5
+These stone steps go downwards.
+~
+stairs~
+0 0 11138
+S
+#11140
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  The wooden walkways used to mark the crude muddy
+streets continue on to the north and to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11141
+D1
+~
+~
+0 0 11137
+S
+#11141
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  The wooden walkways continue on to the north and
+to the south.  To the east stands a large stone building with a wooden door
+leading into it.  From the insignia above the door this appears to be a
+guardhouse.  
+~
+0 0 1
+E
+door~
+A wooden door leads into what appears to be a guardhouse.  
+~
+D0
+~
+~
+0 0 11142
+D1
+A wooden door leads into what appears to be a guardhouse.
+~
+~
+1 0 11138
+D2
+~
+~
+0 0 11140
+S
+#11142
+{mBlack Quarter of Outer City{x~
+You are in the Black Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  To the north stands a large stone building with a
+wooden door leading into it.  From the insignia above the door this appears
+to be a guardhouse.  To the east a large structure stands with several rich
+officers hanging around it.  To the west a dirt road snakes off and the
+muddy streets of the outer city continue to the south.  
+~
+0 0 1
+E
+door~
+A wooden door leads into what appears to be a guardhouse.
+~
+D0
+A wooden door leads into what appears to be a guardhouse.
+~
+~
+1 0 11143
+D1
+~
+~
+0 0 11145
+D2
+~
+~
+0 0 11141
+D3
+~
+~
+0 0 11153
+S
+#11143
+{mA Guardhouse{x~
+You are inside a sturdy stone building with small windows on all sides. 
+This building appears to be purpose built to allow a large detachment of
+guards to spend a whole duty shift watching the city around them. 
+Occasionally guards will march out of here and patrol the streets bringing
+back any untoward persons for interrogation.  Small holding cells can be
+seen here to put these undesirables into before either being taken to the
+pens for a term of imprisonment or to be taken before the army’s commander
+for further questioning.  Between the windows are the banners of the black
+dragonarmy.  Each army is responsible for the well being of its own
+quarter.  A door leads out into the black quarter to the south and stone
+steps lead up to the next level of the guardhouse.  
+~
+0 8 1
+E
+stairs~
+Stone steps lead upwards.
+~
+E
+door~
+A wooden door leads out into the Black Quarter.
+~
+D2
+A wooden door leads out into the Black Quarter.
+~
+~
+1 0 11142
+D4
+Stone steps lead upwards.
+~
+stairs~
+0 0 11144
+S
+#11144
+{mTop of a Guardhouse{x~
+You are in the top of the guardhouse.  Stone steps lead down into the
+main part of the guardhouse.  Looking around this sturdy stone building you
+can see that there are observation points and arrow slits around the walls. 
+Looking through these windows to the south gives an excellent view of the
+surrounding Black Quarter of the city.  The view to the north gives a good
+view of the plains of Neraka stretching out before the guardhouse.  Through
+the east window the activities of the slaver pens can be watched closely and
+any escaping slaves or dodgy merchants can be shot down from here.  To the
+west guards can watch the muddy roads leading around the walls of the city
+itself.  These massive walls dominate this view and dwarfs those looking
+out.  
+~
+0 8 1
+E
+stairs~
+Stone steps lead downwards.
+~
+D5
+Stone steps lead downwards.
+~
+stairs~
+0 0 11143
+S
+#11145
+{mThe Slaver Pens{x~
+You stand in a large structure built out of wooden timber framing.  The
+main structure simply exists to keep the weather from bothering the slave
+masters and the prospective buyers.  Large iron gratings cover a massive pit
+below the structure in which the young fit and healthy people of Krynn
+caught opposing the Dark Queen's forces are held.  These poor specimens have
+been captured and brought to Neraka for the finest and wealthiest of the
+Dark Queen's officers to take as slaves.  To the north and to the east
+buyers can walk over the gratings and look down into the pits viewing the
+slaves on offer.  Here the grating can be opened allowing access down into
+the pits for the more wealthy to get a hands on viewing of the merchandise. 
+~
+0 8 1
+E
+grating~
+This grating can be opened to allow access to the slave pits below.  
+~
+D0
+~
+~
+0 0 11149
+D1
+~
+~
+0 0 11147
+D3
+~
+~
+0 0 11142
+D5
+This grating can be opened to allow access to the slave pits below.
+~
+grating~
+1 0 11146
+S
+#11146
+{mIn the Slaver Pens{x~
+You are down inside the pit known as The Slaver Pens.  All around you
+young men and women of different races are being herded into small
+individual pens.  Above you is a large iron grating with catwalks running
+over them.  High ranking dragonarmy officers and the occasional Knight of
+Takhisis look down through the gratings looking at the living merchandise. 
+The prisoners here appear to be clean and healthy looking.  It would not do
+for a wealthy nobleman favored by the Queen Herself to purchase a dirty and
+mistreated slave.  The pens continue to the north and to the east.  But
+only the slave masters are allowed into these parts of the pens.  
+~
+0 8 1
+E
+grating~
+This grating can be opened to allow access to the world above.  
+~
+D0
+~
+~
+0 0 11150
+D1
+~
+~
+0 0 11148
+D4
+This grating can be opened to allow access to the world above.  
+~
+grating~
+1 0 11145
+S
+#11147
+{mAbove the Fit Young Men{x~
+You stand within the structure of the slaver pits.  The timber framed
+construction keeps the weather away from the prospective buyers of the
+slaves and the slave masters.  The floor is a large iron grating covering the
+large slave pits.  These pits are segregated into age and gender so that
+buyers can immediately choose what they need or take a leisurely stroll
+above the pits picking and choosing from the variety of wares held in the
+pits.  Looking down from one of the catwalks into the pit below shows
+several fit young men.  These young men appear very fit and agile.  These
+slaves will probably be used as runners and messengers.  Often women from the
+dark churches and the female officers come here and buy the handsome young
+men as slaves.  
+~
+0 4104 1
+D0
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11145
+S
+#11148
+{mAmong the Fit Young Men{x~
+Down here in the slaver pens the wares are separated and segregated by
+age, fitness and by sex.  In this part of the pens are the fit and healthy
+young men.  These men are all in their late teens or early to mid twenties
+or the equivalent age depending on what race they are.  These men are all
+dressed in tight leather pants and little else.  Their lithe physiques are
+on full show here.  Outside of the pens themselves slave masters stand
+watching over their spoils whilst greedily eyeing the rich men and women
+looking down at the fit young men.  
+~
+0 2662412 1
+D0
+~
+~
+0 0 11152
+D3
+~
+~
+0 0 11146
+S
+#11149
+{mAbove the Strong Young Men{x~
+You stand within the structure of the slaver pits.  The timber framed
+construction keeps the weather away from the prospective buyers of the
+slaves and the slave masters.  The floor is a large iron grating covering
+the large slave pits.  These pits are segregated into age and gender so that
+buyers can immediately choose what they need or take a leisurely stroll
+above the pits picking and choosing from the variety of wares held in the
+pits.  Looking down from one of the catwalks into the pit below shows
+several muscular men individually bound.  These men appear to be very strong
+and would fetch a high price in the open markets.  
+~
+0 4104 1
+D1
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 11145
+S
+#11150
+{mAmong the Strong Young Men{x~
+Down here in the slaver pens the wares are separated and segregated by
+age, fitness and by sex.  In this part of the pens are the strong and
+healthy young men.  There are a few older men here that look particularly
+strong but the majority of those in the pens are between twenty and thirty
+five.  The men are forced to regularly exercise and to oil themselves to
+show off their muscles and physique.  Outside of the pens themselves
+slave masters stand watching over their spoils whilst greedily eyeing the
+rich men looking down at the men.  Several large leaden blocks lie on the
+pit floor.  Occasionally customers like to see how strong the slaves are
+before they buy them.  The men are forced to lift the blocks until the
+customers are satisfied.  
+~
+0 2662412 1
+D1
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 11146
+S
+#11151
+{mAbove the Attractive Young Females{x~
+You stand within the structure of the slaver pits.  The timber framed
+construction keeps the weather away from the prospective buyers of the
+slaves and the slave masters.  The floor is a large iron grating covering
+the large slave pits.  These pits are segregated into age and gender so that
+buyers can immediately choose what they need or take a leisurely stroll
+above the pits picking and choosing from the variety of wares held in the
+pits.  Looking down from one of the catwalks into the pit below shows
+several attractive young women.  From here it seems the oldest among them is
+in her early thirties and the youngest about sixteen.  These women will be
+sold as serving women and for whatever else their purchaser wants from them.
+~
+0 4104 1
+D2
+~
+~
+0 0 11147
+D3
+~
+~
+0 0 11149
+S
+#11152
+{mAmong the Attractive Young Females{x~
+Down here in the slaver pens the wares are separated and segregated by
+age, fitness and by sex.  In this part of the pens are the attractive young
+women.  These women appear to be aged from sixteen up to women in their
+early thirties.  The women are forced to wear serving wench outfits that
+leave very little to the imagination.  The white frilly tops are cut low to
+expose the bosoms of the girls and leave bare their midriffs.  They are
+wearing long and flowing skirts with splits up both sides that more often
+than not reveal almost all the girl has to offer.  Outside of the pens
+themselves slave masters stand watching over their spoils whilst greedily
+eyeing the rich men looking down at the women.  
+~
+0 2662412 1
+D2
+~
+~
+0 0 11148
+D3
+~
+~
+0 0 11150
+S
+#11153
+{mA Dirt Path{x~
+You are traveling along a dirt path that stretches around the walled
+city and here enters the Black Quarter of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  The path snakes around the outside of the massive city walls.  The
+walls loom above you and hints of movement from the top of the walls hint to
+a number of City Guard patrol the walls keeping constant watch on those
+below.  To the north the path stretches on and to the west the Black Quarter
+opens out before you.  
+~
+0 0 1
+D0
+~
+~
+0 0 11154
+D1
+~
+~
+0 0 11142
+S
+#11154
+A Dirt Path~
+You are traveling along a dirt path that stretches around the walled
+city and appears to lead to a section of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  The path snakes around the outside of the massive city walls.  The
+walls loom above you and hints of movement from the top of the walls hint to
+a number of City Guard patrol the walls keeping constant watch on those
+below.  The path continues to the north and appears to enter the black
+quarter of the outer city to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11153
+S
+#11155
+A Dirt Path~
+You are traveling along a dirt path that stretches around the walled
+city and appears to lead to a section of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  The path snakes around the outside of the massive city walls.  The
+walls loom above you and hints of movement from the top of the walls hint to
+a number of City Guard patrol the walls keeping constant watch on those
+below.  The path stretches on to the west and continues to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 11154
+D3
+~
+~
+0 0 11156
+S
+#11156
+A Dirt Path~
+You are traveling along a dirt path that stretches around the walled
+city and appears to lead to a section of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  To the south the mighty gatehouse looms above you.  Through arrow
+slits and observation holes you can see light glinting off the armor of
+soldiers watching you.  You catch the occasional glimpse of movement on the
+battlements atop the gatehouse.  The dark city of Neraka is clearly well
+defended.  The path continues on to the west and snakes around the city wall
+to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11155
+D3
+~
+~
+0 0 11157
+S
+#11157
+A Dirt Path~
+You are traveling along a dirt path that stretches around the walled
+city and appears to lead to a section of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  To the south the mighty gatehouse looms above you.  Through
+arrow slits and observation holes you can see light glinting off the armor
+of soldiers watching you.  You catch the occasional glimpse of movement on
+the battlements atop the gatehouse.  The dark city of Neraka is clearly well
+defended.  The path continues on to the west and to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11156
+D3
+~
+~
+0 0 11158
+S
+#11158
+A Dirt Path~
+You are traveling along a dirt path that stretches around the walled
+city and appears to lead to a section of the outer city.  The path appears
+well traveled and you can clearly make out tracks of booted soldiers and
+what appears to be the tracks from numerous slave trains passing through
+here.  To the south the mighty gatehouse looms above you.  Through
+arrow slits and observation holes you can see light glinting off the armor
+of soldiers watching you.  You catch the occasional glimpse of movement on
+the battlements atop the gatehouse.  The dark city of Neraka is clearly well
+defended.  The path ends in a road to the west and continues on to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11001
+S
+#11159
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  This district is
+one of the larger inner districts.  To the west the district stretches out
+and no the north is a small guardhouse.  A grating covers a large hole in
+the ground here.  
+~
+0 0 1
+E
+door~
+A wooden door leads into the guardhouse.
+~
+E
+grating~
+This grating looks as though it can be opened.
+~
+D0
+A wooden door leads into the guardhouse.
+~
+~
+1 0 11160
+D1
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11161
+D5
+This grating covers a hole large enough for an ogre to get through.  
+~
+grating~
+1 0 12110
+R EXALL 12000 5~
+S
+#11160
+The Guardhouse~
+This small cramped building serves as a guard post for troops in the
+white dragonarmy.  There is a single cot on one side of the room.  The
+guardhouse could house three detachments at any one time in extreme states
+of alertness.  The cot therefore would probably be used on a rotational
+basis or by slovenly officers.  There is a crude jail here used to hold any
+undesirables captured by the guards on duty.  A door stands to the south
+leading back into the inner district.  
+~
+0 8 1
+E
+door~
+A wooden door stands between you and the Inner District of the White
+Quarter.  
+~
+D2
+A wooden door stands between you and the Inner District of the White
+Quarter.  
+~
+~
+1 0 11159
+S
+#11161
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  The large inner
+district stretches on to the north and continues to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 11164
+D1
+~
+~
+0 0 11159
+D2
+~
+~
+0 0 11162
+S
+#11162
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  To the west
+stands a shop.  Hanging above the door is a sign with a white shield upon
+it.  
+~
+0 0 1
+E
+sign~
+This wooden sign hangs above the shop front bearing an image of a white
+shield.  
+~
+D0
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11163
+S
+#11163
+{wThe White Shield{x~
+You are standing in the White Shield.  This armourer is used by the
+officers of the White dragonarmy and citizens of the city.  The shopkeeper
+does pretty well since the officers of the Dark Queen's forces are normally
+well paid.  The occasional Knight of Takhisis will stop by to purchase
+armor for some undercover task.  The room is fairly comfortable and the
+walls are decorated with some paintings of Feal-Thas the old White dragon
+Highlord.  Most of these show the dark elf riding to battle over snow
+covered land upon his dragon mount Sleet.  
+~
+0 8 1
+D1
+~
+~
+0 0 11162
+S
+#11164
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  To the west
+stands a tavern.  A large piece of wood with a white dragon painted upon it
+sways in the breeze above the door.  
+~
+0 0 1
+E
+wood~
+This wooden sign has a large white dragon hand painted on it.  
+~
+D0
+~
+~
+0 0 11166
+D2
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11165
+S
+#11165
+{wThe White Dragon{x~
+You stand in a fairly clean and well furnished tavern.  Like most taverns
+in the inner districts it is occupied by officers of the white dragonarmy. 
+A few older officers sit reciting tales of the glorious battles they were in
+as young recruits during the war of the lance.  Although the armies were
+routed after the war they were reformed and regrouped here at Neraka. 
+Although now one army the units are still separated by color.  A few
+younger officers sit in hope that one of the knights will come in and tell
+of sweeping conquests rather than old conquests from times forgotten.  
+~
+0 8 1
+D1
+~
+~
+0 0 11164
+S
+#11166
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  To the east the
+district continues and to the west stands a white building.  Above the door
+is a picture of a gleaming white sword.  
+~
+0 0 1
+E
+sign~
+Above the shop front is a large sign with a gleaming white sword painted
+upon it.  
+~
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11164
+D3
+~
+~
+0 0 11167
+S
+#11167
+{wThe White Sword{x~
+You stand in the White Sword the weapon shop of the white inner district.
+The shop is used mainly by rich citizens of Neraka or the officers of the
+white dragonarmy.  The officers of the Dark Queen's forces are paid very
+well so the shopkeeper makes a nice profit here.  The walls of this shop are
+covered with ancient and new weapons alike.  Racks of swords and axes stand
+behind the shop keeper.  
+~
+0 8 1
+D1
+~
+~
+0 0 11166
+S
+#11168
+{wInner District of White Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with white banners.  To the west the
+hustle and bustle of the inner district continues.  There is a large grate
+here in the road that is large enough for an ogre to climb through.  
+~
+0 0 1
+E
+grate~
+This grating looks as though it can be opened.  
+~
+D3
+~
+~
+0 0 11166
+D5
+This grating covers a hole in the floor large enough for an ogre to climb
+through.  
+~
+grating~
+1 0 12112
+R EXALL 12000 5~
+S
+#11169
+{wEntrance to White Quarter{x~
+You are at the entrance to the White Quarter.  To the north and to the
+west the white quarter stretches on.  To the east a mighty gate stands
+before you.  This gate blocks the way into the inner city.  The gate is
+flanked on either side by two tall towers.  Each one is covered with arrow
+slits and observation holes.  Flashes of light can be seen through the slits
+from what can only be the armor of troops and arrowheads.  The gate itself
+is made of large beams of wood mounted upon well oiled hinges.  This gate
+looks like it can withstand a large force of aggressors for quite some time.
+At least enough time to prepare the defense of the inner city.  
+~
+0 4 1
+E
+gate~
+This mighty wooden gate blocks access to the White Quarter.
+~
+D0
+~
+~
+0 0 11179
+D1
+This mighty wooden gate blocks access to the White Quarter.
+~
+gate~
+1 0 11104
+D3
+~
+~
+0 0 11170
+S
+#11170
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  The occasional low ranking soldier flits among the crowd carrying out
+errands quickly so that he can enjoy the taverns of the inner city.  Most
+parts of the inner city are separated from the outer city by the massive
+walls of Neraka.  Here however the wall breaks leaving the market place of
+the outer city stretching before you to the west.  To the south the walled
+white quarter continues and to the north stands a tall dark building.  The
+mark of the five headed dragon is etched onto the wall of the building
+announcing the building to be a dark church.  
+~
+0 0 1
+E
+wall~
+Etched onto the wall is the symbol of the five headed dragon.  This
+announces the building as a dark church dedicated to the Dark Queen.  
+~
+D0
+~
+~
+0 0 11177
+D1
+~
+~
+0 0 11169
+D2
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11185
+S
+#11171
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  The occasional low ranking soldier flits among the crowd carrying out
+errands quickly so that he can enjoy the taverns of the inner city.  This
+portion of the White Quarter is once again walled.  The looming high walls
+of Neraka block the way out into the outer city.  The breach in these mighty
+walls lies to the north.  To the south the walled White Quarter continues
+on.  To the east stands a busy shop.  A wooden sign above the entrance to
+the shop depicts a white hammer.  
+~
+0 0 1
+E
+sign~
+The sign above the shop shows a white hammer.
+~
+D0
+~
+~
+0 0 11170
+D1
+~
+~
+0 0 11172
+D2
+~
+~
+0 0 11173
+S
+#11172
+{wThe White Hammer{x~
+You are within the White Hammer.  This weapon shop is full of weapons and
+instruments of death.  The walls are lined with paintings of warriors using
+the weapons on display in various scenes of battle.  There are racks of
+finely crafted weaponry throughout the store.  The light from the many
+lanterns and torches along the walls gleams off the fine steelwork.  This
+shop mainly caters for the not so well off officers of the white dragon
+army.  
+~
+0 8 1
+D3
+~
+~
+0 0 11171
+S
+#11173
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  The occasional low ranking soldier flits among the crowd carrying out
+errands quickly so that he can enjoy the taverns of the inner city.  This
+portion of the White Quarter is once again walled.  The looming high walls
+of Neraka block the way out into the outer city.  Atop the walls the City
+Guards keep watch of the citizens as well as watching for intruders.  The
+quarter continues on to the north and to the south.  Mingled smells of
+spices and acrid odors coming from the west indicate a magic shop.  The sign
+above the magic shop shows the black moon Nuitari.  
+~
+0 0 1
+E
+sign~
+Above the shop door hangs a sign with Nuitari the black moon painted upon
+it.  
+~
+D0
+~
+~
+0 0 11171
+D1
+~
+~
+0 0 11174
+D2
+~
+~
+0 0 11175
+S
+#11174
+{wThe{x {mBlack{x {wMoon{x~
+The pungent smell of spell components and foul smelling potions fills
+your nostrils.  This magic shop has everything the black robed mage would
+ever need.  The shopkeeper will also serve other mages and members of the
+other classes but it is clear that the main custom here is from the dark
+ones.  The grey robed knights rarely come out to this part of the city
+although they too sometimes come here searching for stock that has perhaps
+run low in the inner city.  
+~
+0 8 1
+D3
+~
+~
+0 0 11173
+S
+#11175
+{wEnd of White Quarter{x~
+You are at the end of the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  The occasional low ranking soldier flits among the crowd carrying out
+errands quickly so that he can enjoy the taverns of the inner city.  This
+portion of the White Quarter is once again walled.  The looming high walls
+of Neraka block the way out into the outer city.  There are also high walls
+here within the city separating this quarter from the next.  Though the
+knights demand a unified army the soldiers still prefer to live separately
+in honor of the old days during the war of the lance.  To the east stands a
+shop.  The wooden board above the shop door shows a crude painting of a
+white crested helm.  
+~
+0 0 1
+E
+board~
+A white crested helm is painted on this crude sign.
+~
+D0
+~
+~
+0 0 11173
+D1
+~
+~
+0 0 11176
+S
+#11176
+{wThe White Helm{x~
+You are inside The White Helm.  This armourer is used by the officers of
+the White dragonarmy and citizens of the city.  The shopkeeper does pretty
+well since the officers of the Dark Queen's forces are normally well paid. 
+The room is fairly comfortable and the walls are decorated with some
+paintings of Feal-Thas the old White dragon Highlord.  Most of these show
+the dark elf riding to battle over snow covered land upon his dragon mount
+Sleet.  The walls are also decorated with fine armor from days long past. 
+These are part of the shopkeeper's personal collection.  
+~
+0 8 1
+D3
+~
+~
+0 0 11175
+S
+#11177
+{wThe Dark Church{x~
+This dark building is constantly chill.  Even when the sunlight pours
+through the stained windows the room never warms.  The windows are stained
+with dark and disturbing patterns of death and decay.  When the light of the
+sun or the moons hit these windows nightmarish patterns appear on the floor.
+Set near the north wall of this dread room is a dark altar devoted to the
+Dark Queen.  Idols of the lesser dark gods are arranged around the altar in
+eternal homage to the statue of the Dark Warrior standing behind the altar. 
+Near to the entrance of the church lie a set of stone steps leading upwards
+to a guardhouse.  
+~
+0 8389640 42
+E
+stairs~
+These stone steps lead up into the guardhouse.
+~
+D2
+~
+~
+0 0 11170
+D4
+These stone steps lead up into the guardhouse.
+~
+stairs~
+0 0 11178
+S
+#11178
+{wThe Guardhouse Above the Church{x~
+This stone structure was built primarily as a dark church to the evil
+gods.  However the breach in the wall leading directly into the White
+Quarter necessitates at least an observation post.  A detachment of guards
+from the white dragonarmy garrison this post keeping watch on the breach in
+the wall.  From here they can spot anyone out of place crossing the boundary
+from the outer city to the inner city.  Observation windows also line the
+walls of this room allowing a watch to be set on most of the White Quarter. 
+The main attention is fixed on the wall to the west and the way into the
+inner city to the south.  
+~
+0 8 1
+E
+stairs~
+These stone steps lead up into the guardhouse.
+~
+D5
+These stone steps lead up into the guardhouse.
+~
+stairs~
+0 0 11177
+S
+#11179
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  The occasional low ranking soldier flits among the crowd carrying out
+errands quickly so that he can enjoy the taverns of the inner city.  The
+walls of the city loom before you protecting the city from any force that
+would attack.  The inner city walls also loom around you patrolled by the
+City Guard watching for trouble.  The White Quarter snakes on to the east
+and to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 11180
+D2
+~
+~
+0 0 11169
+S
+#11180
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  This portion of the city is a little less busy than the other parts. 
+Most of the activity is centered around the markets and the main shops in
+the southern part of the White Quarter.  The sound of raucous laughter
+indicates that this part of the quarter contains most of the taverns and
+inns.  The quarter snakes off to the north and to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 11181
+D3
+~
+~
+0 0 11179
+S
+#11181
+{wWhite Quarter{x~
+You are within the White Quarter of the dark city of Neraka.  This
+portion of the city is controlled and governed by the white dragonarmy. 
+Looking around you can see officers and the families of the white dragon
+army.  This portion of the city is a little less busy than the other parts. 
+Most of the activity is centered around the markets and the main shops in
+the southern part of the White Quarter.  The sound of raucous laughter is
+louder here.  The occasional drunken officer staggers past you with one of
+his junior officers slumped over their arms.  No doubt the higher ranking
+man will return after his junior is safely in his bed.  The quarter
+continues to the south and the sound of laughter is louder to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11182
+D2
+~
+~
+0 0 11180
+S
+#11182
+{wEnd of White Quarter{x~
+You stand at the end of the White Quarter of the city of Neraka.  Here
+the sound of raucous laughter and loud voices is ever stronger.  The guards
+standing atop the mighty walls of the city around you seem to be keeping a
+close eye on things in this part of the city.  Many a drunk soldier is
+probably hauled out of here to The Pen in the Green Quarter.  The loudest
+sounds of drunken merriment appear to be coming from a large inn to the
+south.  Looking above the door you can see a wooden board with a finely
+painted white lion on it.  To the east a building stands with the symbol of
+warriors etched onto the doors.  
+~
+0 0 1
+E
+board~
+A finely painted ferocious white lion adorns this board.  
+~
+E
+doors~
+Etched upon the doors of this building is the symbol of a warrior guild.  
+~
+D1
+~
+~
+0 0 11184
+D2
+~
+~
+0 0 11183
+D3
+~
+~
+0 0 11181
+S
+#11183
+{wThe White Lion{x~
+This large tavern is surprisingly comfortable and clean.  The furniture
+all appears to be in one piece though a few splinters lie on the floors here
+and there.  The patrons all appear to be officers or higher ranked soldiers
+in the white dragonarmy.  Spending their wages relaxing after a long duty
+and discussing events with their fellow officers.  Several draconians sit
+around the many tables drinking heavily and clawing at several serving girls
+when they pass too close.  Every so often loud bursts of laughter can be
+heard ringing about the place as one of the younger officers falls to the
+floor losing yet another drinking contest with his older commander.  
+~
+0 8 1
+D0
+~
+~
+0 0 11182
+S
+#11184
+{wThe Warriors Guild{x~
+You stand in the warrior guild of Neraka.  Here soldiers and mercenaries
+of the dark armies come to train.  The guildmaster will train all that enter
+here not only those of the dark armies.  The room is full of large men
+wrestling or practicing defensive and offensive fighting skills.  The
+guildmaster walks among the men and women that are training here and gives
+them instruction where neccessary.  Many warriors after their training can
+be seen leaving and heading for The White Lion.  It seems no accident that
+this guild is here.  
+~
+0 2098184 1
+D3
+~
+~
+0 0 11182
+S
+#11185
+{wWhite Quarter of Outer City{x~
+You are in the White Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  The wooden sidewalks are buckled from overuse
+and wood rot but manage to keep people out of the mud.  Unless of course they
+have to cross the street.  To the east lies the mighty city of Neraka.  A
+large breach in the otherwise impenetratable walls allows access to the inner
+city.  To the north and to the south the wooden walkways continue down the
+muddy streets.  A large stone building bearing the insignia of the white
+dragonarmy stands to the west.  
+~
+0 0 1
+E
+door~
+A wooden door leading into the guardhouse.
+~
+D0
+~
+~
+0 0 11191
+D1
+~
+~
+0 0 11170
+D2
+~
+~
+0 0 11188
+D3
+A wooden door leading into the guardhouse.
+~
+~
+1 0 11186
+S
+#11186
+{wA Guardhouse{x~
+You are inside a sturdy stone building with small windows on all sides. 
+This building appears to be purpose built to allow a large detachment of
+guards to spend a whole duty shift watching the city around them. 
+Occasionally guards will march out of here and patrol the streets bringing
+back any untoward persons for interrogation.  Small holding cells can be
+seen here to put these undesirables into before either being taken to the
+pens for a term of imprisonment or to be taken before the army’s commander
+for further questioning.  Between the windows are the banners of the white
+dragonarmy.  Each army is responsible for the well being of its own
+quarter.  A door leads out into the white quarter to the east and stone
+steps lead up to the next level of the guardhouse.  
+~
+0 8 1
+E
+stairs~
+These stone steps lead upwards.
+~
+E
+door~
+A wooden door leading out to the outer city.
+~
+D1
+A wooden door leading out to the outer city.
+~
+~
+1 0 11185
+D4
+These stone steps lead upwards.
+~
+stairs~
+0 0 11187
+S
+#11187
+{wTop of the Guardhouse{x~
+You are in the top of the guardhouse.  Stone steps lead down into the
+main part of the guardhouse.  Looking around this sturdy stone building you
+can see that there are observation points and arrow slits around the walls. 
+Looking through these windows to the south gives an excellent view of the
+surrounding White Quarter of the city.  To the north and to the west the
+White Quarter stretches out into the plains of Neraka.  The view to the east
+is obviously the most watched since the stone around this observation area
+appears more worn than the others.  The post looks out at the breach in the
+city walls.  Any undesirables can be caught here before they can enter the
+city itself.  
+~
+0 8 1
+E
+stairs~
+These stone steps lead downwards.
+~
+D5
+These stone steps lead downwards.
+~
+stairs~
+0 0 11186
+S
+#11188
+{wWhite Quarter of Outer City{x~
+You are in the White Quarter of the outer city.  The roads are very muddy
+and are simply dirt avenues.  Sidewalks line the streets to keep those that
+choose to walk here out of the horrible mud.  If it rains here the streets
+become rivers of thick mud.  To the east lies the mighty city of Neraka. 
+It's high walls loom above you.  A breach in the wall to the north allows
+access to the city.  To the south is what appears to be a tavern though
+there aren’t the usual sounds of merriment.  The sign above the door shows
+the image of white sabers crossed.  The lack of sound from the tavern may
+have something to do with the dark and evil looking building to the west. 
+The mark of the five headed dragon is etched onto the wooden walls.  
+~
+0 0 1
+E
+sign~
+The image of two white sabers crossed is drawn upon this sign.  
+~
+E
+walls~
+These wooden walls are covered by the symbol of the five headed dragon
+etched on them.  
+~
+D0
+~
+~
+0 0 11185
+D2
+~
+~
+0 0 11190
+D3
+~
+~
+0 0 11189
+S
+#11189
+{wA Dark Church{x~
+This small wooden building is certainly not as splendid in its evil as
+the churches within the city.  The small altar dedicated to Takhisis has no
+statue adorning it and there are no fine images of destruction or the
+Queen's might.  This church serves the lowest warriors and soldiers of the
+white dragonarmy.  The sense of evil power oozing from the altar and the
+attendant clerics is no less powerful than the chill churches of the city. 
+The Queen's presence is strong here among her foot soldiers.  
+~
+0 1032 1
+D1
+~
+~
+0 0 11188
+S
+#11190
+{wThe White Arms{x~
+This poorly built ramshackle building passes for a tavern out here in the
+outer city.  The floors are covered in sawdust that is clearly used to mask
+the blood and other products of overdrinking.  The furniture lying around
+the place is not in good repair but at least most of it is still in one
+piece.  The numerous draconian soldiers and humans sit here quietly drinking
+all sorts of foul highly potent drinks.  You suspect the reason for the
+quiet and the lack of broken furniture here is largely due to the dark
+clerics dragging away more than one rowdy patron into the dark church nearby
+before the guards got there.  
+~
+0 8 1
+D0
+~
+~
+0 0 11188
+S
+#11191
+{wWhite Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the White Quarter of the outer city.  Soldiers and
+mercenaries that fight for the white dragonarmy come here to sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The marketplace continues to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 11192
+D2
+~
+~
+0 0 11185
+S
+#11192
+{wWhite Quarter Marketplace{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the White Quarter of the outer city.  Soldiers and
+mercenaries that fight for the white dragonarmy come here to sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  To the north through the market stalls you can see the
+plains of Neraka as they stretch out to the mountains in the distance.  The
+market continues to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11193
+D2
+~
+~
+0 0 11191
+S
+#11193
+{wEnd of White Quarter Market{x~
+This market square stands outside the walls of the city of Neraka.  This
+is the social hub of the White Quarter of the outer city.  Soldiers and
+mercenaries that fight for the white dragonarmy come here to sample the
+wares of the Dark Queen's artisans and merchants.  The Queen's armies and
+the numerous followers of Her army are not known for their trustworthiness. 
+Perhaps it would be best to be wary of the many products available for
+purchase here.  The market ends here.  The wooden walkways continue on to
+the east before a tall stone building before ending at the walled city.  To
+the north stands a building with the symbol of grass in the winds.  
+~
+0 0 1
+E
+symbol~
+This symbol of long grass bending in the wind is etched all over the
+building to the north.  This signifies it as a barbarian’s guild.  
+~
+D0
+~
+~
+0 0 11194
+D1
+~
+~
+0 0 11195
+D3
+~
+~
+0 0 11192
+S
+#11194
+{wBarbarian's Guild{x~
+This guild room is gaudily decorated with feathers of many colors.  Many
+tall plainsmen are training along side ice barbarians and other tribal
+warriors.  Like most of the guilds all differences are put aside here for
+the common training and practicing of skills.  A barbarian from the plains
+of Khur walks among the tribesman teaching and assisting them in their
+training.  
+~
+0 2098184 1
+D2
+~
+~
+0 0 11193
+S
+#11195
+{wEnd of White Quarter{x~
+Here the wooden walkways that form the streets of the Outer City end. 
+The White Quarter ends abruptly as the city wall looms before you blocking
+your path.  The White Quarter stretches off to the west.  The wooden
+walkways protecting those traveling through it from the muddy streets of
+the outer city.  To the north stands a large stone building marked with the
+insignia of the white dragonarmy etched upon the door.  
+~
+0 0 1
+E
+door~
+This wooden door has the insignia of the white dragonarmy etched upon it.  
+~
+D0
+This wooden door has the insignia of the white dragonarmy etched upon it.  
+~
+~
+1 0 11196
+D3
+~
+~
+0 0 11193
+S
+#11196
+{wA Guardhouse{x~
+You are inside a sturdy stone building with small windows on all sides. 
+This building appears to be purpose built to allow a large detachment of
+guards to spend a whole duty shift watching the city around them. 
+Occasionally guards will march out of here and patrol the streets bringing
+back any untoward persons for interrogation.  Small holding cells can be
+seen here to put these undesirables into before either being taken to the
+pens for a term of imprisonment or to be taken before the army’s commander
+for further questioning.  Between the windows are the banners of the white
+dragonarmy.  Each army is responsible for the well being of its own
+quarter.  A door leads out into the white quarter to the south and stone
+steps lead up to the next level of the guardhouse.  
+~
+0 8 1
+E
+stairs~
+These stone steps lead upwards.
+~
+E
+door~
+This wooden door has the insignia of the white dragonarmy etched upon it.
+~
+D2
+This wooden door has the insignia of the white dragonarmy etched upon it.  
+~
+~
+1 0 11195
+D4
+These stone steps lead upwards.
+~
+stairs~
+0 0 11197
+S
+#11197
+{wTop of the Guardhouse{x~
+You are in the top of the guardhouse.  Stone steps lead down into the
+main part of the guardhouse.  Looking around this sturdy stone building you
+can see that there are observation points and arrow slits around the walls. 
+Looking through these windows to the south and to the west gives an
+excellent view of the surrounding White Quarter of the city.  To the north
+there is a most fantastic view of the plains of Neraka as they stretch out
+before the city.  To the east the plains lead up to the mighty gatehouse of
+the city of Neraka.  Any invasion force attacking the main gate can be seen
+from here and the White dragonarmy can be scrambled.  
+~
+0 8 1
+E
+stairs~
+These stone steps lead downwards.
+~
+D5
+These stone steps lead downwards.
+~
+stairs~
+0 0 11196
+S
+#11198
+{bInner District of Blue Quarter{x~
+You stand in an inner district of the city.  The heart of the city is
+usually only inhabited by high ranking officers in the Dark Queen's forces. 
+Around you the same walls stand tall blocking your view of all but the
+district within which you stand.  The soldiers patrolling the walls are
+usually watching the Queen's Way but often cast a wary eye into the area. 
+The walls of the district are adorned with blue banners with streaks of
+lightning across them.  To the north is a building with the symbol of a
+knight's guild etched onto its door frames.  To the south is a tavern.  A
+placard hangs above the door with the image of a blue dragon on it.  
+~
+0 0 1
+E
+door~
+Etched into the wooden door frame is the age old symbol of a knights
+guild.  
+~
+E
+placard~
+This placard bears a hand painted image of a blue dragon.  
+~
+D0
+~
+~
+0 0 11119
+D2
+~
+~
+0 0 11200
+D3
+~
+~
+0 0 11037
+S
+#11199
+{mThe Black Quarter{x~
+You stand in the Black Quarter of the city of Neraka.  High walls
+separate this quarter from the main roads of the city and from the outer
+city.  These walls are patrolled by the elite City Guard.  The guards
+attention is mainly fixed on the roads and the gates that separate the inner
+and outer city and the gates that separate the quarters.  This portion of
+the city houses the residents of Neraka.  Families of the soldiers and
+knights of the Queen's Dark forces.  Many officers and high ranking soldiers
+of the black dragonarmy reside here.  The quarter stretches off to the
+south and continues to the west.  There is a grating in the road here that
+is big enough for an ogre to crawl through.  
+~
+0 0 1
+E
+grating~
+This grating looks as though it can be opened.
+~
+D2
+~
+~
+0 0 11118
+D3
+~
+~
+0 0 11120
+D5
+This grating looks as though it can be opened.
+~
+grating~
+1 0 12154
+R EXALL 12000 5~
+S
+#11200
+{bThe Blue Dragon{x~
+You stand in a fairly clean and well furnished tavern.  Like most taverns
+in the inner districts it is occupied by officers of the blue dragonarmy. 
+A few older officers sit reciting tales of the glorious battles they were in
+as young recruits during the war of the lance.  Although the armies were
+routed after the war they were reformed and regrouped here at Neraka. 
+Although now one army the units are still separated by color.  A few
+younger officers sit in hope that one of the knights will come in and tell
+of sweeping conquests rather than old conquests from times forgotten.  
+~
+0 8 1
+D0
+~
+~
+0 0 11198
+S
+#0
+
+
+
+#SPECIALS
+M 11034 spec_rloader
+M 11115 spec_cast_judge
+M 11123 spec_cast_adept
+M 11139 spec_poison
+M 11144 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 11002 1 1
+D 0 11002 2 1
+D 0 11002 3 1
+D 0 11003 1 1
+D 0 11003 2 1
+D 0 11005 1 1
+D 0 11007 3 1
+D 0 11009 1 1
+D 0 11010 3 1
+D 0 11013 2 1
+D 0 11013 3 1
+D 0 11014 0 1
+D 0 11015 0 1
+D 0 11016 0 1
+D 0 11024 2 2
+D 0 11026 0 2
+D 0 11031 2 2
+D 0 11032 0 2
+D 0 11032 1 1
+D 0 11033 3 1
+D 0 11033 5 1
+D 0 11040 5 1
+D 0 11045 2 1
+D 0 11045 5 1
+D 0 11065 2 1
+D 0 11066 0 1
+D 0 11074 5 1
+D 0 11075 2 1
+D 0 11076 0 1
+D 0 11086 3 1
+D 0 11087 1 1
+D 0 11097 0 1
+D 0 11098 2 1
+D 0 11104 3 1
+D 0 11108 1 1
+D 0 11109 3 1
+D 0 11111 5 1
+D 0 11116 1 1
+D 0 11126 5 1
+D 0 11127 3 1
+D 0 11130 0 1
+D 0 11134 2 1
+D 0 11137 0 1
+D 0 11138 2 1
+D 0 11138 3 1
+D 0 11141 1 1
+D 0 11142 0 1
+D 0 11143 2 1
+D 0 11145 5 1
+D 0 11146 4 1
+D 0 11159 0 1
+D 0 11159 5 1
+D 0 11160 2 1
+D 0 11168 5 1
+D 0 11169 1 1
+D 0 11185 3 1
+D 0 11186 1 1
+D 0 11195 0 1
+D 0 11196 2 1
+D 0 11199 5 1
+M 0 11000 20 11002 2
+E 0 11000 0 5
+E 0 11002 0 6
+E 0 11003 0 20
+E 0 11004 0 7
+M 0 11001 5 11002 1
+E 0 11000 0 5
+E 0 11003 0 20
+E 0 11004 0 7
+G 0 11005 0
+M 0 11003 1 11003 1
+E 0 11007 0 13
+E 0 11008 0 7
+E 0 11000 0 5
+E 0 11002 0 6
+E 0 11017 0 20
+M 0 11011 2 11006 1
+E 0 11010 0 5
+E 0 11012 0 13
+E 0 11013 0 7
+E 0 11006 0 20
+M 0 11009 2 11007 1
+E 0 11009 0 20
+M 0 11000 20 11008 3
+E 0 11003 0 20
+M 0 11009 2 11009 1
+E 0 11009 0 20
+M 0 11011 2 11011 1
+E 0 11011 0 20
+E 0 11010 0 5
+E 0 11012 0 13
+E 0 11013 0 7
+M 0 11013 1 11013 1
+E 0 11007 0 13
+E 0 11008 0 7
+E 0 11000 0 5
+E 0 11017 0 20
+M 0 11001 5 11024 1
+E 0 11000 0 5
+E 0 11003 0 20
+E 0 11004 0 7
+G 0 11024 0
+M 0 11001 5 11031 1
+E 0 11000 0 5
+E 0 11003 0 20
+E 0 11004 0 7
+G 0 11031 0
+M 0 11001 5 11033 1
+E 0 11000 0 5
+E 0 11003 0 20
+E 0 11004 0 7
+G 0 11033 0
+M 0 11034 6 11034 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11034 6 11040 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11034 6 11044 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11034 6 11049 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11034 6 11055 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11034 6 11059 1
+E 0 11034 0 20
+E 0 11035 0 5
+M 0 11018 10 11062 1
+E 0 11143 0 20
+E 0 11145 0 5
+M 0 11018 10 11063 1
+E 0 11143 0 20
+E 0 11145 0 5
+M 0 11018 10 11066 1
+E 0 11927 0 20
+E 0 11926 0 5
+M 0 11018 10 11072 1
+E 0 11927 0 20
+E 0 11926 0 5
+M 0 11018 10 11077 1
+E 0 12007 0 20
+E 0 12006 0 5
+M 0 11018 10 11085 1
+E 0 12007 0 20
+E 0 12006 0 5
+M 0 11018 10 11090 1
+E 0 12058 0 20
+E 0 12059 0 5
+M 0 11018 10 11094 1
+E 0 12058 0 20
+E 0 12059 0 5
+M 0 11018 10 11100 1
+E 0 11185 0 20
+E 0 11186 0 5
+M 0 11018 10 11105 1
+E 0 11185 0 20
+E 0 11186 0 5
+M 0 11001 5 11109 1
+E 0 11000 0 5
+E 0 11003 0 20
+E 0 11004 0 7
+M 0 11123 4 11112 1
+M 0 11113 1 11113 1
+M 0 11000 20 11114 2
+E 0 11000 0 5
+E 0 11003 0 20
+M 0 11115 1 11115 1
+E 0 11115 0 20
+E 0 11002 0 6
+E 0 11000 0 5
+E 0 11004 0 7
+M 0 11119 1 11119 1
+M 0 11120 10 11120 1
+E 0 11120 0 5
+M 0 11126 4 11121 1
+E 0 11146 0 5
+E 0 11147 0 20
+M 0 11123 4 11123 1
+M 0 11120 10 11124 1
+E 0 11120 0 5
+M 0 11125 1 11125 1
+G 0 11200 0
+G 0 11199 0
+G 0 11198 0
+G 0 11197 0
+M 0 11126 4 11126 1
+E 0 11146 0 5
+E 0 11147 0 20
+M 0 11000 20 11127 1
+E 0 11000 0 5
+E 0 11002 0 6
+E 0 11003 0 20
+E 0 11004 0 7
+M 0 11128 1 11128 1
+M 0 11120 10 11129 1
+E 0 11120 0 5
+M 0 11130 1 11130 1
+G 0 11200 0
+G 0 11199 0
+G 0 11198 0
+G 0 11197 0
+M 0 11133 5 11133 1
+G 0 11130 0
+G 0 11131 0
+G 0 11132 0
+G 0 11133 0
+M 0 11134 5 11134 1
+G 0 11134 0
+G 0 11135 0
+G 0 11136 0
+M 0 11135 5 11135 1
+G 0 11137 0
+G 0 11138 0
+G 0 11139 0
+M 0 11136 5 11136 1
+G 0 11140 0
+G 0 11141 0
+G 0 11142 0
+M 0 11120 10 11137 1
+E 0 11120 0 5
+M 0 11143 15 11138 2
+E 0 11143 0 20
+E 0 11145 0 5
+M 0 11138 2 11138 1
+E 0 11146 0 5
+E 0 11147 0 20
+M 0 11139 2 11139 1
+E 0 11129 0 20
+M 0 11143 15 11143 2
+E 0 11143 0 20
+E 0 11145 0 5
+M 0 11144 2 11144 1
+E 0 11144 0 20
+M 0 11149 3 11147 1
+M 0 11148 1 11148 1
+M 0 11149 3 11149 1
+M 0 11150 1 11150 1
+M 0 11149 3 11151 1
+M 0 11152 1 11152 1
+M 0 11143 15 11160 2
+E 0 11185 0 20
+E 0 11186 0 5
+M 0 11163 1 11163 1
+G 0 11178 0
+G 0 11179 0
+G 0 11180 0
+G 0 11181 0
+M 0 11200 5 11165 1
+G 0 11199 0
+G 0 11196 0
+G 0 11195 0
+G 0 11194 0
+G 0 11197 0
+M 0 11167 1 11167 1
+G 0 11170 0
+G 0 11171 0
+G 0 11172 0
+G 0 11173 0
+M 0 11000 20 11169 1
+E 0 11000 0 5
+E 0 11002 0 6
+E 0 11003 0 20
+E 0 11004 0 7
+M 0 12040 5 11172 1
+G 0 11170 0
+G 0 11171 0
+G 0 11172 0
+G 0 11173 0
+M 0 11120 10 11173 1
+E 0 11120 0 5
+M 0 12038 5 11174 1
+G 0 11174 0
+G 0 11175 0
+G 0 11177 0
+G 0 11176 0
+M 0 11126 4 11175 1
+E 0 11193 0 5
+E 0 11192 0 20
+M 0 12034 5 11176 1
+G 0 11178 0
+G 0 11179 0
+G 0 11180 0
+G 0 11181 0
+M 0 11123 4 11177 1
+M 0 11143 15 11178 2
+E 0 11185 0 20
+E 0 11186 0 5
+M 0 11120 10 11180 1
+E 0 11120 0 5
+M 0 11126 4 11182 1
+E 0 11193 0 5
+E 0 11192 0 20
+M 0 11183 1 11183 1
+G 0 11200 0
+G 0 11199 0
+G 0 11198 0
+G 0 11197 0
+G 0 11196 0
+M 0 11184 1 11184 1
+M 0 11143 15 11186 2
+E 0 11185 0 20
+E 0 11186 0 5
+M 0 11144 2 11187 1
+E 0 11144 0 20
+M 0 11123 4 11189 1
+M 0 11190 1 11190 1
+G 0 11200 0
+G 0 11199 0
+G 0 11197 0
+G 0 11198 0
+M 0 11133 5 11191 1
+G 0 11133 0
+G 0 11132 0
+G 0 11131 0
+G 0 11191 0
+M 0 11134 5 11192 1
+G 0 11136 0
+G 0 11135 0
+G 0 11134 0
+M 0 11135 5 11193 1
+G 0 11139 0
+G 0 11138 0
+G 0 11137 0
+M 0 11194 1 11194 1
+M 0 11120 10 11195 1
+E 0 11120 0 5
+M 0 11143 15 11196 2
+E 0 11186 0 5
+E 0 11185 0 20
+M 0 11138 2 11196 1
+E 0 11193 0 5
+E 0 11192 0 20
+M 0 11139 2 11197 1
+E 0 11129 0 20
+M 0 11200 4 11200 1
+G 0 11196 0
+G 0 11195 0
+G 0 11194 0
+G 0 11198 0
+G 0 11199 0
+S
+
+
+
+#SHOPS
+11125 0 0 0 0 0 110 0 0 23
+11130 0 0 0 0 0 105 0 0 23
+11133 0 0 0 0 0 115 94 8 20
+11134 0 0 0 0 0 115 90 7 20
+11135 0 0 0 0 0 115 95 7 20
+11136 0 0 0 0 5 117 75 6 21
+11149 0 0 0 0 0 150 50 0 23
+11163 0 0 0 0 0 150 75 7 21
+11167 0 0 0 0 5 149 76 7 22
+11183 0 0 0 0 0 105 0 0 23
+11190 0 0 0 0 0 105 0 0 23
+11200 0 0 0 0 0 140 100 0 23
+0
+
+
+
+#MOBPROGS
+#11011
+if level $n > $i
+mob echoat $n $I suddenly bursts into flames as you kill it burning you.
+mob echoaround $n $I suddenly bursts into flames as it dies burning $n
+mob damage $n 60 140 lethal
+mob goto 12212
+else
+mob echoat $n $I suddenly transforms into an exact replica of you before falling to the floor dead.
+mob echoaround $n $I suddenly turns into an exact replica of $n before falling to the floor dead.
+endif
+~
+#11012
+if level $n > 85
+mob echoat $n The Sivak suddenly bursts into flames as you kill it burning you.
+mob echoaround $n the Sivak suddenly bursts into flames as it dies burning $n
+mob damage $n 60 140
+mob remove $i all
+mob drop all
+mob goto 12212
+else
+mob echoat $n the Sivak suddenly transforms into an exact replica of you before falling to the floor dead.
+mob echoaround $n the Sivak suddenly turns into an exact replica of $n before falling to the floor dead.
+endif
+~
+#11139
+if rand 34
+mob echo $I drops something to the ground before it dies.
+if room $i == 11139
+mob oload 11129 0 R
+endif
+if room $i == 11928
+mob oload 11928 0 R
+endif
+endif
+mob echoat $n $I's death cry after your killing blow turns into a gurgle as it begins to turn to liquid.
+mob echoaround $n $I's death cry after $n's killing blow turns into a gurgle as it begins to turn to liquid.
+mob echo It's body completely liquefies and splashes over you. To your horror you realize it is acid.
+mob damage all 50 115 lethal
+mob goto 12212
+~
+#11140
+~
+#11144
+mob echo $I's bones begin to hum before exploding hitting you with shards of bone.
+mob damage all 45 100 lethal
+mob goto 12212
+~
+#11163
+if hour >= 7
+if hour <= 21
+if isvisible $n
+if race $n kender
+mob echoat $n $I looks at you with a horrified look.
+mob echoaround $n $I looks at $n with a horrified look.
+say Hey you, Kender.
+say Get out of my store.
+mob transfer $n 11162
+say phew thank goodness I caught $m in time.
+else
+say Welcome $n.
+endif
+endif
+endif
+~
+#11167
+if hour >= 7
+if hour <= 22
+if isvisible $n
+if race $n kender
+mob echoat $n $I looks at you with a horrified look.
+mob echoaround $n $I looks at $n with a horrified look.
+say Hey you, Kender.
+say Get out of my store.
+mob transfer $n 11166
+say phew thank goodness I caught $m in time.
+else
+say Welcome $n.
+endif
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,434 @@
+#AREADATA
+Name Caergoth~
+Builders Kiri~
+Continent None~
+Sector 1
+VNUMs 14700 14799
+Credits Kiri~
+Security 9
+End
+
+
+
+#MOBILES
+#14700
+elbert~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+150 150 225d50+4096 150d10+85 42d3+55 none
+-61 -61 -61 -30
+0 ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#14702
+knight crown~
+Knight of the Crown~
+Guarding these gates is a loyal Knight of the Crown.
+~
+~
+human~
+A 0 0 0
+20 20 30d6+183 20d10+85 5d4+11 none
+0 0 0 4
+0 0 0 0
+stand stand male 4
+AHMV ABCDEFGHIJK M unknown 0
+#14709
+michael wizard shopkeeper~
+Michael, the shopkeeper~
+A robed figure stands behind the counter examining various potions.
+~
+Here stands the man known to most by Michael.  Most of his features are
+undistinguishable, due to the red cloak of Lunitari that's fully covering
+his body.  However, his face pokes out from this cloak, and it illustrates
+many things.  One thing apparent to most from it, is his old age, for his
+face is full of wrinkles.  However, he doesn't seem as if he was going
+senile, and his eyes glow brightly, illustrating his wisdom.  
+~
+none~
+A 0 0 0
+150 150 225d50+4096 150d10+85 42d3+55 none
+-61 -61 -61 -30
+0 ABCD 0 0
+stand stand none 0
+0 0 M unknown 0
+#0
+
+
+
+#OBJECTS
+#14700
+potion divine protection~
+(no short description)~
+(no description)~
+unknown~
+potion 0 0 0
+20 'sanctuary' 'armor' 'reserved' 'reserved'
+0 0 0 P
+#14702
+no name~
+(no short description)~
+(no description)~
+unknown~
+fountain 0 0 0
+-1 0 'water' 0 0
+0 0 0 P
+#14711
+fountain~
+a fountain~
+A fountain sits here, gushing water.~
+unknown~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 1000 0 P
+#0
+
+
+
+#ROOMS
+#14700
+Center of the Courtyard~
+This is the center of the large courtyard, which is by far the most
+beautiful part of the city of Caergoth.  At each end of this rather large
+courtyard, for major roads converge.  Subsequently, this road is one of the
+busiest in the town.  Nearly everybody passing through the city has to come
+through here, which leads to a multitude of different types of people. 
+Also, at the center stands a fountain, shooting gleaming water skyward, with
+citizens and explorers gathered around it.  
+~
+0 0 1
+D0
+~
+~
+0 0 14701
+D1
+~
+~
+0 0 14707
+D2
+~
+~
+0 0 14705
+D3
+~
+~
+0 0 14703
+S
+#14701
+North End of the Courtyard~
+This point is the northern end of the large, distinguishing courtyard of
+Caergoth.  Not nearly as many people are here as are to the south, where the
+fountain is, but there's still a rather large amount of people gathered. 
+There's a road leading to the North Gate directly north of here, and one
+begins leading to the South Gate at the southern end of this courtyard. 
+From the center of the courtyard, one can pick up on the road leading east
+to west.  
+~
+0 0 1
+D2
+~
+~
+0 0 14700
+D3
+~
+~
+0 0 14702
+S
+#14702
+Northwest End of the Courtyard~
+This is the northeastern end of the large courtyard that makes up the
+center of Caergoth.  At this point, there's very few people passing by, but
+there's a lot of citizens, passing through here to take a stroll, and to get
+away from the cruelties of life.  The ground here is made up of neatly
+aligned cobblestone, and someone's gone through the trouble of creating and
+maintaining a garden at the far corner of this.  To both the east and the
+south, the courtyard continues.  
+~
+0 0 1
+D1
+~
+~
+0 0 14701
+D2
+~
+~
+0 0 14703
+S
+#14703
+Western End of the Courtyard~
+This is the western end of the courtyard which lies in the center of the
+merchant city of Caergoth.  Many a person passes through here, trying to get
+to the ship building district to the west.  At this end of the courtyard,
+the cobblestone is a bit dirtier than the rest, covered with ash, and the
+smell of liquor from the west is barely detectable in the air, except by
+keen noses.  The courtyard continues in every direction except west, where a
+road leads off.  
+~
+0 0 1
+D0
+~
+~
+0 0 14702
+D1
+~
+~
+0 0 14700
+D2
+~
+~
+0 0 14704
+S
+#14704
+Southwestern End of Courtyard~
+Here is the southwestern end of the courtyard in Caergoth.  As is done at
+each corner of the courtyard, a small garden is set up.  It's luscious
+greens stand out from everything else over here.  Many citizens are
+wandering around here, admiring the garden.  To the east and north is more
+of the courtyard.  
+~
+0 0 1
+D0
+~
+~
+0 0 14703
+D1
+~
+~
+0 0 14705
+S
+#14705
+Southern End of Courtyard~
+This is the southern end of the large and beautiful courtyard that makes
+up the center of the merchant town of Caergoth.  To the north is the center
+of the courtyard, where a fountain squirts water just barely above the head
+of most passerbys.  To the east and west are the corners of the courtyard,
+with their distinct gardens punctuating the very corners of it.  To the
+south leads a road, which ends abruptly with a huge gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 14700
+D1
+~
+~
+0 0 14706
+D3
+~
+~
+0 0 14704
+S
+#14706
+Southeastern End of the Courtyard~
+This is the southeastern end of the marvelous courtyard that makes up the
+center of the merchant town of Caergoth.  This corner is much like the other
+three, in that it has a garden in the corner of it.  However, this garden is
+different, in that is has flowers of different colors and hues than the
+rest.  Also, there seems to be a different person tending to them.  To both
+the north and the west is the rest of the courtyard.  
+~
+0 0 1
+D0
+~
+~
+0 0 14707
+D3
+~
+~
+0 0 14705
+S
+#14707
+Eastern End of the Courtyard~
+This is the eastern end of the courtyard that makes up the central part
+of Caergoth.  This is where the road from the eastern gate, which is by far
+the most used, meets up with the courtyard; leaving it quite busy.  To the
+east is the road, which leads up to the gate.  To the north, south, and west
+continue the courtyard, with the center being to the west.  
+~
+0 4 1
+D0
+~
+~
+0 0 14715
+D2
+~
+~
+0 0 14706
+D3
+~
+~
+0 0 14700
+S
+#14708
+Huma Road~
+This is a short cobblestone road that's named Huma Road.  This is the
+main road that goes north and south through the city of Caergoth.  A busy
+intersection is to the south of here, and a bit further south are the city
+gates.  To the north continues the road.  There's a sign over a building to
+the west, and many robed figures are traveling in and out of there.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14710
+D2
+~
+~
+0 0 14703
+D3
+~
+~
+0 0 14709
+S
+#14709
+Michael's Shop of Wizardry~
+In this medium sized shop, much clutter is about.  Among the things that
+stand out from the mess are two bookcases, made of a dark wood.  They are
+towering over the rest of the shop.  Books of all types, some dating far
+back, some from fairly modern times are lining these shelves.  Near these
+shelves are robed figures, most huddling over a book.  Also, at the back of
+the shop is a man in the red cloaks of Lunitari.  Surrounding him are
+floating discs, with various potions, scrolls, and staffs among them. 
+There's a little indentation on one of the discs noting it as Michael's.  
+~
+0 0 1
+D1
+~
+~
+0 0 14708
+S
+#14710
+Huma Road~
+A bit north of here is an intersection, marking the midpoint of Huma
+Road, which to most is the most beautiful in Caergoth.  It runs from the two
+iron gates representing the limits to the city; one south, one north.  To
+the east is a magnificent stone structure, with the outside of it covered in
+marble.  At the front of this structure is a sculpture depicting the great
+God Paladine.  To the south continues this beautiful, cobblestone road.  
+~
+0 0 1
+D0
+~
+~
+0 0 14711
+D2
+~
+~
+0 0 14708
+S
+#14711
+Intersection of Huma Road and Smith Lane~
+This is the intersection between the beautiful, albeit busy, Huma Lane
+and Smith Road.  Sitting here in the middle of it is a fountain, which is
+gushing water into the air.  Many members of the populace, as well as some
+who look like adventurers are traveling to and from this fountain; some
+armed with barrels, other with swords.  To the north and south are,
+respectively, the north and south gates.  Between them is Huma Road.  To the
+east and west are those gates, and Smith Lane.  
+~
+0 0 1
+D2
+~
+~
+0 0 14710
+D3
+~
+~
+0 0 14712
+S
+#14712
+Smith Lane~
+This part of the city seems to be the least glamorous.  The streets are
+caked in ash, and the smell of fire and metal resonates through the air. 
+The people traveling across here are either merchants, or travelers with
+dented armor or swords, mainly.  To the south is the city's armory, to the
+north is the guild of the smiths of Krynn.  
+~
+0 0 1
+D0
+~
+~
+0 0 14714
+D1
+~
+~
+0 0 14711
+D2
+~
+~
+0 0 14713
+S
+#14713
+Caergoth Armory~
+This is the armory of the busling city of Caergoth.  This shop is covered
+with a sheet of ash, and there's the smell of burning metal in the air. 
+There's a counter made of wood here, behind which is a stout dwarven man,
+who is hammering away at a sheet of armor.  On shelves behind him are scraps
+and sheets of all sorts of metals and materials.  
+~
+0 0 1
+D0
+~
+~
+0 0 14712
+S
+#14714
+Entrance to the Blacksmith's Guild~
+~
+0 0 1
+D2
+~
+~
+0 0 14712
+S
+#14715
+Northeastern End of the Courtyard~
+The courtyard extends in every direction from here, except to the north,
+and the east.  In these directions stand the marvelous gardens which stand
+in vivid greens, a stark contrast to the pale stone in the rest of the
+courtyard.  
+~
+0 0 1
+D2
+~
+~
+0 0 14707
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 14711 0 14711
+S
+
+
+
+#SHOPS
+14700 0 0 0 0 0 20 80 6 22
+14709 2 3 4 10 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

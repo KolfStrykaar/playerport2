@@ -1,0 +1,843 @@
+#PLAYER
+Name Demian~
+Surname Silverfoot~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1405289102
+LogO 1410583943
+Vers 10
+Act  DGQTe
+Desc Before you stands a hideous Draconian.  The robes it wears are torn and
+dirty, looking like it crawled through hell.  It has an odd look about them.
+Their eyes are almost uncertain with it's constant scanning.  
+~
+Prom {R<{Y%h/%Hhp {R%m/%Mm %B {Y%v/%Vmv {R%Xxp{Y>{x ~
+Race draconian~
+Sex  1
+Cla  1
+Hmtown 0
+Levl 38
+recall_point 3001
+Levscale 30
+Xptolev  2487
+Sec  0
+Plyd 446120
+Not  1406511396 0 0 0 0
+Scro 22
+Room 931
+HMV  492 492 713 713 322 322
+Steel 260
+Gold 23110
+Bank 0
+Exp  199913
+AfBy Oc
+Deaths 7
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2883584
+Comm NO
+Pos  8
+Prac 14
+Alig  -1000
+Ethos 0
+Hit   8
+Dam   10
+ACs 59 47 53 90
+Attr 16 24 16 17 27 10
+AMod 5 11 19 1 8 0
+Pass DeNG1R1aYrDd.~
+Titl  the Elder Patriarch~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 96
+HMVP 382 523 322
+Cnd  0 44 44 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gt gt <=={YDraconian {RCleric{x==>{C~
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'calm'
+Sk 1 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 4 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 100 'heal'
+Sk 100 'life transfer'
+Sk 1 'holy word'
+Sk 100 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 100 'plague'
+Sk 100 'protection evil'
+Sk 1 'ray of truth'
+Sk 100 'refresh'
+Sk 22 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'flail'
+Sk 40 'mace'
+Sk 4 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 100 'glide'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 100 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 96 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 100 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 100 'quench'
+Sk 1 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+End
+
+#O
+Vnum 5767
+Nest 0
+Cond 100
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 97
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 94
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 303
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+ExtF 17039681
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2050
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 91
+End
+
+#O
+Vnum 17535
+Nest 1
+Cond 100
+Wear -1
+Cost 2355
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 71
+Val  300 28 0 0 0
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Name ornate glass vial potion potion heal~
+ShD  a potion of heal~
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 59 -1 -1 -1
+Spell 1 'heal'
+End
+
+#O
+Vnum 5424
+Nest 0
+Cond 100
+Wear -1
+Lev  18
+Cost 500
+Val  9 -1 -1 -1 -1
+End
+
+#O
+Vnum 16231
+Enchanted
+Nest 0
+ExtF 67
+Cond 100
+Wear 20
+Lev  31
+Cost 800
+Val  2 3 8 11 65
+Affc 'enchant weapon'   0 100  -1   6  18          0
+Affc 'enchant weapon'   1 100  -1   6  19          0
+Affc 'reserved'   1  20  -1   2   4          0
+End
+
+#END

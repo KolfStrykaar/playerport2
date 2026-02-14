@@ -1,0 +1,524 @@
+#PLAYER
+Name Dailin~
+Surname Stoutsword~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1387595375
+LogO 1388832357
+Vers 10
+Act  CDGQTe
+Desc {xA young {yhumman male{x with a slightly absent look on his face is before you.
+He is covered in a hodge podge of mismatched pieces of {larmor{x. Some
+of them bear {rblood stains{x and evidence of hasty repairs. His long
+{Ddark plaited hair{x falls past his shoulders and frames his {lgrimey face{x.
+The {isword{x in his hand looks ancient both in design and wear.
+ 
+~
+Prom {S< {R%h/{r%Hhp {m%vmv {y%X {x%e %B {S>{x ~
+Race human~
+Sex  1
+Cla  5
+Hmtown 0
+Levl 51
+recall_point 3001
+Levscale 30
+Xptolev  31799
+Sec  0
+Plyd 149687
+Not  0 0 0 0 0
+Scro 22
+Room 17747
+HMV  1287 1287 229 261 401 401
+Steel 2033
+Gold 66084
+Bank 1500
+Exp  497051
+AfBy DFNV
+AfBy2 Z
+Deaths 17
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm NO
+Pos  8
+Prac 5
+Reward_timer 38
+Save  -3
+Alig  186
+Ethos 0
+Hit   27
+Dam   23
+ACs 19 42 -14 100
+Wimp  150
+Attr 18 13 13 13 28 13
+AMod 4 8 12 4 7 0
+Pass Da19YBqy8lsvI~
+Titl  the Elder Knight~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 40
+HMVP 1287 221 401
+Cnd  0 61 61 0
+QuestPnts 291
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 92 'frenzy'
+Sk 88 'protection evil'
+Sk 88 'axe'
+Sk 75 'flail'
+Sk 79 'mace'
+Sk 73 'polearm'
+Sk 76 'shield block'
+Sk 83 'spear'
+Sk 100 'sword'
+Sk 75 'whip'
+Sk 75 'bash'
+Sk 75 'berserk'
+Sk 75 'dirt kicking'
+Sk 76 'disarm'
+Sk 82 'dodge'
+Sk 100 'enhanced damage'
+Sk 82 'hand to hand'
+Sk 100 'kick'
+Sk 88 'parry'
+Sk 75 'rescue'
+Sk 75 'trip'
+Sk 95 'second attack'
+Sk 89 'third attack'
+Sk 79 'fourth attack'
+Sk 1 'break weapon'
+Sk 75 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 75 'whirlwind'
+Sk 100 'lunge'
+Sk 75 'dual wield'
+Sk 76 'mount'
+Sk 75 'nerve pinch'
+Sk 75 'caltrops'
+Sk 49 'battle tactics'
+Sk 75 'wear chain'
+Sk 75 'wear leather'
+Sk 100 'wear plate'
+Sk 92 'fast healing'
+Sk 74 'haggle'
+Sk 100 'common'
+Sk 75 'lore'
+Sk 26 'meditation'
+Sk 50 'recall'
+Sk 75 'bow'
+Sk 75 'bind wounds'
+Sk 75 'guard'
+Sk 75 'mounted combat'
+Sk 75 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 75 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 75 'joust'
+Sk 79 'polish'
+Sk 1 'shatter shield'
+Sk 1 'company might'
+Sk 1 'company valor'
+Sk 1 'company honor'
+Sk 1 'arrow deflection'
+Affc 'protection evil'   0  51  23  -1  25       8192
+Affc 'haste'   0  52  12   4   2    2097152
+Affc 'giant strength'   0  52  51   4   1          0
+Affc 'bless'   0  38  15   4  18          0
+Affc 'detect hidden'   0  38   8   0   0         32
+Affc 'detect invis'   0  38   8   0   0          8
+Affc 'frenzy'   0  36   5  30  17          0
+Affc 'frenzy'   0  37   5   6  19          0
+Affc 'frenzy'   0  37   5   6  18          0
+Affc 'bravado'   6  51  13   5  19   33554432
+Affc 'bravado'   6  50  13   5  18   33554432
+Affc 'attunement'   0  50  26   3   3          0
+Affc 'attunement'   0  41  26   3   4          0
+End
+
+#O
+Vnum 17724
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear 5
+Cost 3500
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 88
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3056
+Nest 0
+Cond 97
+Wear 7
+Cost 600
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 98
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 98
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 99
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 94
+Wear 17
+Cost 1064
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear 2
+Cost 3330
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 2053
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 468
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 608
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 96
+Wear 3
+Cost 642
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 96
+Wear 6
+Cost 735
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 420
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 13715
+Enchanted
+Nest 1
+ExtF 66
+Cond 96
+Wear -1
+Lev  40
+Cost 0
+Affc 'enchant weapon'   1  37  -1   5  19          0
+Affc 'enchant weapon'   0  37  -1   5  18          0
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 97
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 3366
+Nest 0
+Cond 100
+Wear -1
+Time 110
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5604
+Nest 0
+Cond 98
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 5606
+Nest 0
+Cond 100
+Wear 11
+Cost 75
+End
+
+#O
+Vnum 5605
+Nest 0
+Cond 97
+Wear 8
+Cost 175
+End
+
+#O
+Vnum 5603
+Nest 0
+Cond 97
+Wear 13
+Cost 150
+End
+
+#O
+Vnum 17714
+Nest 0
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 17713
+Nest 0
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9803
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3081
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9827
+Nest 0
+Cond 78
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 140 0 0 0
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 98
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9826
+Nest 0
+Cond 97
+Wear 20
+Cost 12000
+End
+
+#END

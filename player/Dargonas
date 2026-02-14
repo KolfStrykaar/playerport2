@@ -1,0 +1,1384 @@
+#PLAYER
+Name Dargonas~
+Surname Blackbreath~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1372275570
+LogO 1395206184
+Vers 10
+Act  DFGQT
+Desc Standing here before you is an interesting speciemen to the race of
+elves; just a bit shorter than most Silvanesti and Qualinesti and far more
+muscular than the two sub-species, this must be one of the hard to find,
+Wild Elves: A Kagonesti.  Not a joke to say that this one is an interesting
+speciment to the type of elf, though this kagonesti is muscular, and from
+its looks could take care of itself in a scrimage, there is a look of ill
+around the elven-beast.  His skin a tanned brown, it has a tinge of yellow
+to it.  Yes, the feeling of illness clings to this creature, as if it does
+not wan to let go of him, but is it a hinderance?  Maybe, for him, it is a
+greatness.  The kagonesti's face is hidden through a {Dblack{X mask tattoo
+{Dti{yngn{Ded{X with the same {ysickly yellow{X, and the only noticeable
+trait, is the {ch{ga{bz{ce{gl{x eyes, and yet these too have specks of
+{ydiseased yellow{X.  Hanging around this man's neck are different chains
+with medallions, {Wsilver medallions{X, {cturquoise medallions{X, all
+claiming the one to be of a sacred order of clerics; but the one chain and
+medallion that catches the eye is the {yburnished{X {Ygold{X chain holding a
+{Dtwisted black medallion{X, the only thing noticeable of this are the set
+of {Rred eyes{X in darkness.  This man reveals nothing more about him, his
+whole body encompassed by black robes, like as if a shadows wrapped around
+him, no weapons is seen.  But that means nothing.  
+~
+Prom <%hhp %mm %vmv> ~
+Race kagonesti~
+Org 10
+Religion 10
+Highpriest 1
+Sex  1
+Cla  1
+Hmtown 0
+Levl 72
+recall_point 3001
+Levscale 30
+Xptolev  33496
+Sec  0
+Plyd 618629
+Not  1394842534 1382804331 0 0 1372636166
+Scro 22
+Room 152
+HMV  862 1485 1196 1196 539 539
+Steel 5222
+Gold 4784
+Bank 75000
+Exp  2832554
+AfBy J
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4194304
+Comm NO
+Pos  8
+Prac 36
+Save  -14
+Alig  -1000
+Ethos 0
+Hit   5
+Dam   17
+ACs -152 -158 -155 -75
+Attr 15 25 19 15 21 16
+AMod 0 7 10 7 5 0
+Pass Da.GJowGp2lkE~
+Titl  - {DEmissary{x of the {yPlague{x~
+Pretit Blightbringer{x~
+Pnts 8
+TSex 1
+LLev 126
+HMVP 1195 1016 539
+Cnd  0 64 64 0
+QuestPnts 33
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 90 'armor'
+Sk 91 'bless'
+Sk 78 'blindness'
+Sk 75 'calm'
+Sk 79 'cancellation'
+Sk 88 'cause critical'
+Sk 98 'cause light'
+Sk 84 'cause serious'
+Sk 91 'create food'
+Sk 75 'create spring'
+Sk 75 'cure blindness'
+Sk 81 'cure critical'
+Sk 76 'cure disease'
+Sk 77 'cure light'
+Sk 75 'cure poison'
+Sk 89 'cure serious'
+Sk 80 'curse'
+Sk 81 'demonfire'
+Sk 75 'detect evil'
+Sk 78 'detect good'
+Sk 75 'detect invis'
+Sk 75 'detect poison'
+Sk 75 'dispel evil'
+Sk 75 'dispel good'
+Sk 75 'dispel magic'
+Sk 92 'earthquake'
+Sk 75 'energy drain'
+Sk 75 'fireproof'
+Sk 92 'flamestrike'
+Sk 1 'orb of containment'
+Sk 91 'harm'
+Sk 100 'heal'
+Sk 75 'life transfer'
+Sk 75 'holy word'
+Sk 75 'know alignment'
+Sk 79 'mass healing'
+Sk 86 'aid'
+Sk 87 'plague'
+Sk 75 'protection evil'
+Sk 75 'ray of truth'
+Sk 84 'refresh'
+Sk 78 'remove curse'
+Sk 100 'sanctuary'
+Sk 1 'teleport'
+Sk 80 'word of recall'
+Sk 85 'flail'
+Sk 89 'mace'
+Sk 76 'dodge'
+Sk 81 'enhanced damage'
+Sk 2 'hand to hand'
+Sk 77 'parry'
+Sk 75 'second attack'
+Sk 1 'deathgrip'
+Sk 75 'demand'
+Sk 1 'silence'
+Sk 75 'traject'
+Sk 77 'mount'
+Sk 75 'remove paralysis'
+Sk 76 'undetectable align'
+Sk 79 'repulsion'
+Sk 1 'firestorm'
+Sk 75 'sunbeam'
+Sk 76 'spiritual hammer'
+Sk 70 'unholy armor'
+Sk 98 'pillify'
+Sk 84 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 75 'brew'
+Sk 75 'scribe'
+Sk 75 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 84 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'meditation'
+Sk 100 'sneak'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 100 'sate'
+Sk 75 'invigorate'
+Sk 75 'purify'
+Sk 75 'taunt'
+Sk 76 'god fire'
+Sk 81 'wrath'
+Sk 78 'regeneration'
+Sk 100 'quench'
+Sk 75 'cure deafness'
+Sk 75 'staff'
+Sk 70 'unholyrite'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 78 'preach'
+Sk 1 'clear thoughts'
+Sk 75 'black cairn'
+Sk 77 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 75 'relegate'
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 5745
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5745
+Nest 1
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 484
+End
+
+#O
+Vnum 3016
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16193
+Nest 1
+Cond 98
+Wear -1
+Cost 762
+End
+
+#O
+Vnum 5767
+Nest 1
+Cond 100
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 5767
+Nest 1
+Cond 100
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 17711
+Nest 1
+Cond 100
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 16230
+Nest 1
+ExtF 2642
+Cond 100
+Wear -1
+Lev  33
+Cost 2500
+Val  2 5 7 11 132
+End
+
+#O
+Vnum 16231
+Nest 1
+Cond 100
+Wear -1
+Cost 668
+End
+
+#O
+Vnum 17713
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 715
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 715
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3369
+Nest 1
+Name hammer suffering~
+ShD  ({yRusted{x) The Hammer of {DSuffering{x~
+Desc This hammer radiates the pain and sorrows of thousands.~
+Cond 100
+Wear -1
+Lev  43
+Cost 0
+Val  4 5 10 7 65
+End
+
+#O
+Vnum 3078
+Nest 0
+Name eyes~
+ShD  ({cPained{x) {yDiseased{x spackled eyes~
+Desc These hazel eyes are spackled with a diseased yellow tinge.~
+Cond 100
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 5779
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Name ghastly fog of death~
+ShD  {w({mGhastly{w) Fog of {DDeath{x~
+Desc A chillness of death touches the soul.~
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3079
+Nest 0
+Name shroud constant sorrow howling~
+ShD  {w({RHowling{w) {mShroud{w of Constant {DSorrow{x~
+Desc A thousand souuls howl their pain and suffering.~
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 16194
+Nest 0
+Name Cilice~
+ShD  {w({RBloodied{w) ({WRazor Sharp{w) a Cilice of {YRepentance{x~
+Desc A corset made of dagger blades, meant to relieve it's wearer of his sins.~
+Cond 100
+Wear 17
+Cost 978
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16306
+Nest 0
+Name book~
+ShD  ({yAncient{x) ({mSacred Text{x) The Tome of {mPlagues{x~
+Desc An ancient book with two red eyes, once thought long lost radiates dark energies.~
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Name sacred rusting diseased hood medallion~
+ShD  {w({mSacred{w) ({oRusting{w) The {DDiseased Hood{x medallion~
+Desc This sacred medallion of Morgion radiates with perpetual illness.~
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 3724
+Nest 0
+Name swarm Locust Pestilence swarm~
+ShD  ({yPestilence{x) A swarm of {gLocust{x~
+Desc Buzzing noisily is a cloud of locust waiting to lay waste to lands.~
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 17715
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 1249
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 17405
+Nest 0
+Name Anthrax Whispering voice~
+ShD  ({dWhispering{x) The voice of {yAnthrax{x~
+Desc Whispering of death, decay and pestilence the voice of Anthrax caresses the mind.~
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 17529
+Nest 0
+Name Ring Sacred Dark Order~
+ShD  ({dSacred{x) Ring of the {DDark Order{x~
+Desc A ring of a secret sect is wrapped in shadows.~
+Cond 99
+Wear 1
+Cost 27500
+End
+
+#O
+Vnum 11700
+Nest 0
+Name pocks Scarred Diseased plague pocks~
+ShD  ({DScarred{X) {yDiseased{x plague pocks~
+Desc Forever a reminder of tribulation, the scares of a plague.~
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 17712
+Nest 0
+Name Armourment Thriving Beetles armor ~
+ShD  ({GThriving{x) Armourment of {yBeetles{x~
+Desc A set armour thrives with living beetles.~
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name Leeches Vampiric horde of~
+ShD  ({RVampiric{x) A horde of {dLeeches{x~
+Desc Leeches seek hungrily for life blood~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 11700
+Nest 0
+Name blisters Diseased Oozing Purple~
+ShD  ({DDiseased{x) {yOozing{x {dPurple{x blisters~
+Desc A reminder to the price of failure.~
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 17529
+Nest 0
+Name Fingers Rotting Blistered~
+ShD  ({DRotting{x) {dBlistered{x fingers~
+Desc A reminder to the price of failure.~
+Cond 99
+Wear 2
+Cost 38250
+End
+
+#O
+Vnum 2972
+Nest 0
+Cond 100
+Wear 13
+Cost 500
+End
+
+#O
+Vnum 16206
+Nest 0
+Name aura Radiating Disease~
+ShD  ({RRadiating{x) Aura of {yDisease{x~
+Desc Intense enrgies of the faith of pesilence shield the believer.~
+Cond 100
+Wear 15
+Cost 1200
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3027
+Nest 1
+Cond 89
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4814
+Nest 1
+Cond 100
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 17732
+Nest 1
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16370
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 19003
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 140 0 0 0
+End
+
+#O
+Vnum 17731
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 1
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 7920
+End
+
+#O
+Vnum 9826
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5609
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 5609
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 5609
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 9572
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9572
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cufflink~
+ShD  a cufflink~
+Desc This cufflink looks like it would go good with your shirt.~
+ExtF2 2
+WeaF 268439553
+Ityp 9
+Wt   1
+Cond 100
+Mat  jade~
+Wear 19
+Lev  91
+Cost 910
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name cufflink~
+ShD  a cufflink~
+Desc This cufflink looks like it would go good with your shirt.~
+ExtF2 2
+WeaF 268439553
+Ityp 9
+Wt   1
+Cond 100
+Mat  jade~
+Wear 18
+Lev  91
+Cost 910
+Val  19 19 19 15 0
+Affc 'cultural artistry'   1 101  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name flail rusting tainted pestilence~
+ShD  ({gRusting{X) ({DTainted{X) the Flail of {yPestilence{x~
+Desc A flail of crude maiming design lies here, rusting and crawling with maggots.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   10
+Cond 100
+Mat  tooled leather~
+Wear 20
+Lev  91
+Cost 910
+Val  6 9 10 10 16
+Affc 'cultural artistry'   5 101  -1   0   0         16
+End
+
+#O
+Vnum 1211
+Nest 0
+Name Coupon Vine covered Make over Coupon~
+ShD  ({cCrumpled{X) a {gvine-covered{x {BMake Over{x coupon~
+Desc This make over coupon is good for 8 more restrings. It smells sort of fishy...~
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 15194
+Nest 0
+Name fine vellum sheet scroll scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 200
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16366
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#END

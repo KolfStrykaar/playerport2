@@ -1,0 +1,526 @@
+#PLAYER
+Name Miko~
+Surname Sivaru~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1374629339
+LogO 1404873416
+Vers 10
+Act  CDGQTe
+Desc Dark {Mpink{x almost red hair rests from the top of this girls hair, only
+coming to below her hsoulder blades, Tied back with a {Dblack{x ribbon.
+The girl has a sand colored complection. The girls eyes are a {Csilver
+grey{x color. This girl seeems to radiate beauty.On her she wears a simple
+{Dblack{X and {Wwhite{x dress that falls to just below her knees.
+~
+Prom {W<{C%hhp %mm %vmv %B %b %X %x{W> ~
+Race silvanesti~
+Religion 19
+Sex  2
+Cla  13
+Hmtown 0
+Levl 51
+recall_point 3001
+Levscale 30
+Xptolev  26904
+Sec  0
+Plyd 43345
+Not  1394239782 1375147789 0 1375147793 1375147763
+Scro 22
+Room 17864
+HMV  952 952 934 934 404 404
+Steel 5366
+Gold 17704
+Bank 0
+Exp  501946
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Prac 339
+Trai 15
+Save  -4
+Alig  1000
+Ethos 1
+Hit   16
+Dam   16
+ACs 3 3 -13 49
+Attr 11 18 13 13 13 16
+AMod 4 41 47 6 37 0
+Pass Mi33eF.8YLaxc~
+Titl  the Trickster of Sound~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 10
+HMVP 767 734 404
+Cnd  0 65 65 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'colour spray'
+Sk 1 'continual light'
+Sk 1 'create rose'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'fireball'
+Sk 1 'orb of containment'
+Sk 5 'gate'
+Sk 1 'ethereal warrior'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'aid'
+Sk 1 'protection evil'
+Sk 1 'refresh'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 100 'dagger'
+Sk 82 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'dragon skin'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'displacement'
+Sk 1 'rainbow pattern'
+Sk 1 'cantrip'
+Sk 1 'darkness'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 1 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'cause discord'
+Sk 1 'shifting shadows'
+Sk 1 'alter reality'
+Sk 1 'doppelganger'
+Sk 1 'looking glass'
+Sk 1 'seal door'
+Sk 1 'unseal door'
+Sk 1 'delusions of grandeur'
+Sk 1 'illusion'
+Sk 1 'mirror'
+Sk 1 'glamour'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'sequester'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'scrye'
+Sk 1 'flash'
+Sk 1 'deafness'
+Sk 1 'trance'
+Sk 1 'cloak of evil'
+Sk 1 'hypnotic pattern'
+Sk 1 'staff'
+Sk 1 'phantom armor'
+Sk 1 'spook'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 10975
+Nest 0
+Cond 100
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 100
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 95
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 19003
+Nest 0
+Cond 100
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 2913
+Nest 0
+ExtF 118788352
+Cond 100
+Wear 23
+Cost 10000
+End
+
+#O
+Vnum 9832
+Nest 0
+ExtF 17039369
+Cond 92
+Wear -1
+Cost 7040
+Val  7 5 23 29 1
+End
+
+#O
+Vnum 1200
+Nest 0
+Name @~
+ShD  a {Mnewbie orb{x of {Wknowledge{x~
+Desc A crystal orb that radiates knowledge floats here.~
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 3818
+Nest 0
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 17405
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 2
+Cost 15000
+End
+
+#O
+Vnum 15196
+Nest 0
+Cond 100
+Wear 1
+Cost 15000
+End
+
+#O
+Vnum 1267
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 0
+ExtF 16777224
+Cond 52
+Wear 20
+Lev  50
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#END

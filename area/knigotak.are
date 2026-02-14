@@ -1,0 +1,899 @@
+#AREADATA
+Name KOT Stronghold~
+Builders Zeboim~
+Continent (null)~
+Controlby 2~
+Faction -250~
+Sector 0
+VNUMs 11600 11699
+Credits Zeboim~
+Security 9
+End
+
+
+
+#MOBILES
+#11600
+guardian kot stronghold~
+a Guardian of the Stronghold~
+A Guardian of the Stronghold stands here at full attention.
+~
+Imperial Guards of the Knights of Takhisis, as they are referred to as by
+their Queen, these knights stand tall and alert, ready to attack anyone who
+so boldly tries to intrude on the Stronghold.  This Knight wears scorched
+steel armor plating, with a helmet that looks like a demonic skull.  He
+holds a drawn longsword, held at a perfect forty-five degree angle across
+his chest.  His posture incredibly resembles that of a Solamnic, firm and
+unmoving.  
+~
+human~
+ABNT DFa -1000 0
+95 95 143d31+1729 95d10+85 27d3+36 slash
+-35 -35 -35 -16
+EFIKU AB C 0
+stand stand male 4000
+AHMV ABCDEFGHIJK M unknown 4
+#11606
+priestess skull healer~
+A priestess of the skull~
+A priestess of the skull stands here, praying to her goddess.
+~
+Clothed in loose-fitting robes, this skull knight looks every bit as dangerous
+as she does beautiful.  A steel-headed mace hangs gently at her side, giving
+you a nervous feeling as you approach her for healing.
+~
+human~
+ABQTa H -750 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#11611
+lily knight guard~
+a Knight of the {bLily{x~
+A Knight of the {bLily{x stands at attention, keeping watch over the prisoners.
+~
+This young Knight of the Lily stands at full attention, as he vigilantly
+watches over the prisoners in the holding cell.  His armor is polished to a
+brilliant shine and his face is set in strict self-discipline.  
+~
+human~
+AB DF -1000 0
+200 200 300d66+7281 200d10+85 57d3+71 punch
+-86 -86 -86 -44
+FI ABCD 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJK M unknown 0
+M SPEECH 11604 may the darkness of the queens will cloak your path~
+#11616
+knight skull healer~
+A knight of the skull~
+A knight of the skull is here, healing the wounded.
+~
+Looking as he has seem many battles himself, this skull knight is here getting
+the rest of his order healthy and ready to return to the fight...
+~
+human~
+ABQTa H -750 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#11623
+master thorn knight healer~
+a Master of the Thorn~
+A Master of the Thorn is here, studying tomes on herbalism and healing.
+~
+This knight is intently studying the texts spread before him, apparently trying
+to master the art of healing.  Perhaps he could use a guinea pig...
+~
+human~
+ABRTa 0 -750 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+EFK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#11600
+takhisis imperial sword long longsword knight~
+{xImperial Sword of the Knights of Takhisis~
+A large longsword with the symbol of Takhisis on it lies here.~
+steel~
+weapon AEJLP 0 AN
+sword 11 12 slice PQ
+100 7 1000 P
+A
+5 2
+#11606
+offering pit~
+an offering pit~
+A pit for offerings sits here.~
+obsidian~
+container 0 0 P
+10000 0 0 1000 100
+0 0 0 P
+#11608
+fountain lily~
+a lily-shaped fountain~
+A fountain, shaped like a lily, sits here.~
+stone~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#11609
+black stone archway portal~
+a black, stone archway~
+An archway, carved out of black stone, leans against the wall, leading somewhere...~
+obsidian~
+portal O 0 P
+0 0 0 ABCDEFHKL 0
+0 0 0 P
+#11612
+fountain skulls~
+a fountain of skulls~
+A fountain lined with skulls is here, spewing forth water.~
+bone~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#11613
+offering pit~
+an offering pit~
+A pit for offerings rests here before the altar.~
+stone~
+container 0 0 P
+10000 0 0 1000 100
+0 0 0 P
+#11619
+rune circle portal~
+a rune circle~
+A circle of magical runes is inscribed on the floor, creating a shimmering portal.~
+magic~
+portal AG 0 P
+0 0 0 BEIJLN 0
+0 0 0 P
+#11620
+large fountain black marble~
+a black marble fountain~
+A large fountain made from black marble stands here.~
+marble~
+fountain 0 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#11621
+obsidian armor skull knight guardian kot takhisis~
+{xGuardian Armor of the Knights of Takhisis~
+A brightly polished piece of obsidian armor with skulls embedded into it, lies here.~
+steel~
+armor EJLP 0 AD
+ADE ABCE ADE BCE C
+100 8 1000 P
+#11627
+iron storage chest~
+a storage chest~
+A iron storage chest is here.~
+iron~
+container 0 0 P
+10000 0 0 1000 100
+0 0 0 P
+#11630
+tin cup~
+a tin cup~
+A tin cup sits here, filled with stagnant water.~
+tin~
+drink 0 0 AO
+50 50 'water' 0 0
+0 0 0 P
+#11631
+stale bread~
+a stale loaf of bread~
+A crusty loaf of bread lies here, gathering flies.~
+unknown~
+food S 0 A
+ABCD 0 0 0 0
+0 0 0 P
+#11632
+holding cell key~
+a strange iron key~
+A dark, strangely shaped key lies here.~
+iron~
+key 0 0 A
+0 0 0 0 0
+0 0 0 P
+E
+key~
+Made of cold iron, this key has been wrought into the shape of a skull
+centered in a black lily, with an elongated thorn tapering from the skull's
+mouth.  
+~
+#11633
+military canvas cot~
+a military cot~
+A worn canvas cot rests against the far wall.~
+canvas~
+furniture S 0 P
+A 0 EHK 0 0
+0 2 0 P
+#0
+
+
+
+#ROOMS
+#11600
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of
+{Dblack lilies{x lining the cold stone walls.  This field appears to be a
+training ground for the foot soldiers of the Knights of Takhisis.  Although
+there are some assorted weapons and armor lying about the ground, the field
+has remained surprising clean, a testament to the discipline of the
+Knighthood.  
+~
+0 0 16
+D0
+~
+~
+0 0 11605
+D3
+~
+~
+0 0 11601
+S
+#11601
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of
+black lilies lining the cold stone walls.  This field appears to be a
+training ground for the foot soldiers of the Knights of Takhisis.  Although
+there are some assorted weapons and armor lying about the ground, the field
+has remained surprising clean, a testament to the discipline of the
+Knighthood.   
+~
+0 0 16
+D0
+~
+~
+0 0 11604
+D1
+~
+~
+0 0 11600
+D3
+~
+~
+0 0 11602
+S
+#11602
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of
+black lilies lining the cold stone walls.  This field appears to be a
+training ground for the foot soldiers of the Knights of Takhisis.  Although
+there are some assorted weapons and armor lying about the ground, the field
+has remained surprising clean, a testament to the discipline of the
+Knighthood.   
+~
+0 0 16
+D0
+~
+~
+0 0 11603
+D1
+~
+~
+0 0 11601
+S
+#11603
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of
+black lilies lining the cold stone walls.  This field appears to be a
+training ground for the foot soldiers of the Knights of Takhisis.  Although
+there are some assorted weapons and armor lying about the ground, the field
+has remained surprising clean, a testament to the discipline of the
+Knighthood.   
+~
+0 0 16
+D1
+~
+~
+0 0 11604
+D2
+~
+~
+0 0 11602
+S
+#11604
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of black
+lilies lining the cold stone walls.  This field appears to be a training
+ground for the foot soldiers of the Knights of Takhisis.  Although there are
+some assorted weapons and armor lying about the ground, the field has
+remained surprising clean, a testament to the discipline of the Knighthood. 
+To the north, a formidable iron door leads to a holding cell for prisoners
+and knights under discipline.  
+~
+0 0 16
+D1
+~
+~
+0 0 11605
+D2
+~
+~
+0 0 11601
+D3
+~
+~
+0 0 11603
+S
+#11605
+{BCourtyard of Lilies{x~
+With the strong smell of death in the air, you find yourself in an open
+courtyard, with a well-kept lawn and a carefully maintained garden of
+black lilies lining the cold stone walls.  This field appears to be a
+training ground for the foot soldiers of the Knights of Takhisis.  Although
+there are some assorted weapons and armor lying about the ground, the field
+has remained surprising clean, a testament to the discipline of the
+Knighthood.   
+~
+0 0 16
+D0
+~
+~
+0 0 11607
+D2
+~
+~
+0 0 11600
+D3
+~
+~
+0 0 11604
+S
+#11606
+{BTemple of Takhisis{x~
+Decorated in dark linens and made completely from {Dblack marble{x, this
+altar room looks to resemble the black heart of Takhisis herself.  A row of
+kneeling benches lines the front of the altar, where a few knights can be
+seen praying to the Dark Queen.  
+~
+0 8388616 42
+D1
+~
+~
+0 0 11607
+S
+#11607
+{BA Long Hallway{x~
+You find yourself in a well-lit hallway, made of a smooth stone floor
+obviously constructed with the powerful magic of the other orders.  The
+walls here are also adorned with various paintings of the leader and founder
+of the Knighthood of Takhisis, Ariakan.  To the west, you can hear the soft
+chanting and prayer of knights seeking their Vision.  To the south, you hear
+the clanging of weapons from the training courtyard.  
+~
+0 12 16
+D1
+~
+~
+0 0 11608
+D2
+~
+~
+0 0 11605
+D3
+~
+~
+0 0 11606
+S
+#11608
+{BA Long Hallway{x~
+The floor has a smooth polish, giving the obsidian marble a mirror
+finish.  Molded into the floor is a portrait of a multi-colored five headed
+dragon, representing the Dark Queen Takhisis.  You find yourself in a
+well-lit hallway, made of a smooth stone floor obviously constructed with
+the powerful magic of the other orders.  The walls here are also adorned
+with various paintings of the leader and founder of the Knighthood of
+Takhisis, Ariakan.  To the east and west, the hallway continues on.  To the
+south, lies a large stairwell, leading up into a tall, obsidian tower.  
+~
+0 8 16
+D0
+~
+~
+0 0 11283
+D1
+~
+~
+0 0 11609
+D2
+~
+~
+0 0 11620
+D3
+~
+~
+0 0 11607
+S
+#11609
+A Corner of the Hallway~
+The long hallway which leads to here from the west, abruptly turns north,
+heading down into a darker hallway.  The walls are constructed of obsidian
+stone, polished to a mirror finish.  A few sconces hang on the walls,
+holding long wax candles.  A large portrait of a multi-colored five headed
+dragon hangs high on the eastern wall, representing the Dark Queen,
+Takhisis.  
+~
+0 8 16
+D0
+~
+~
+0 0 11610
+D3
+~
+~
+0 0 11608
+S
+#11610
+A Dark Hallway~
+You appear to be in a dark hallway, with only a light coming from an
+opening to the north.  Despite the apparent lack of use of these halls, you
+can still sense you're being watched...  
+~
+0 8 16
+D0
+~
+~
+0 0 11611
+D2
+~
+~
+0 0 11609
+S
+#11611
+A Dark Hallway~
+You appear to be in a dark hallway, with only a light coming from an
+opening to the north.  Despite the apparent lack of use of these halls, you
+can still sense you're being watched...   
+~
+0 8 16
+D0
+~
+~
+0 0 11612
+D2
+~
+~
+0 0 11610
+S
+#11612
+Grand Temple of the Skull~
+Skulls are definitely the theme to this temple as you walk through this
+morbid hallway.  The torches, the furniture, and bases of the stone walls
+are all designed like skulls.  The smell of death is so strong here that you
+wonder if this place was built with the remains of the enemies of the Skull
+Knights.  To the north, you see the entrance to the altar, where several
+knights are attempting to renew their Vision.
+~
+0 8 16
+D0
+~
+~
+0 0 11613
+D1
+~
+~
+0 0 11617
+D2
+~
+~
+0 0 11611
+D3
+~
+~
+0 0 11614
+S
+#11613
+Altar of Skulls~
+Completely carved from black obsidian stone and decorated with ornamental
+skulls of all shapes and kinds, this altar is a testament to the pure evil
+and ruthlessness of the skull knights.  Several knights are here now,
+looking to renew their Vision from the Dark Queen.  
+~
+0 8389640 42
+D2
+~
+~
+0 0 11612
+S
+#11614
+Grand Temple of the Skull~
+Skulls are definitely the theme to this temple as you walk through this
+morbid hallway.  The torches, the furniture, and bases of the stone walls
+are all designed like skulls.  The smell of death is so strong here that you
+wonder if this place was built with the remains of the enemies of the Skull
+Knights.  
+~
+0 8 16
+D1
+~
+~
+0 0 11612
+D3
+~
+~
+0 0 11615
+S
+#11615
+Grand Temple of the Skull~
+Skulls are definitely the theme to this temple as you walk through this
+morbid hallway.  The torches, the furniture, and bases of the stone walls
+are all designed like skulls.  The smell of death is so strong here that you
+wonder if this place was built with the remains of the enemies of the Skull
+Knights.  To the north, you catch the smell of fresh blood.
+~
+0 8 16
+D0
+~
+~
+0 0 11616
+D1
+~
+~
+0 0 11614
+S
+#11616
+The Infirmary~
+With bloody rags spread across the floor, this appears to be the medical
+treatment room for the wounded knights.  Although there are not many wounded
+here, the smell of blood has become a permanent fixture in this room.  
+~
+0 8 16
+D2
+~
+~
+0 0 11615
+S
+#11617
+Grand Temple of the Skull~
+Skulls are definitely the theme to this temple as you walk through this
+morbid hallway.  The torches, the furniture, and bases of the stone walls
+are all designed like skulls.  The smell of death is so strong here that you
+wonder if this place was built with the remains of the enemies of the Skull
+Knights.  
+~
+0 8 16
+D1
+~
+~
+0 0 11618
+D3
+~
+~
+0 0 11612
+S
+#11618
+Grand Temple of the Skull~
+Skulls are definitely the theme to this temple as you walk through this
+morbid hallway.  The torches, the furniture, and bases of the stone walls
+are all designed like skulls.  The smell of death is so strong here that you
+wonder if this place was built with the remains of the enemies of the Skull
+Knights.  
+~
+0 8 16
+D0
+~
+~
+0 0 11619
+D3
+~
+~
+0 0 11617
+S
+#11619
+Summoning Chamber~
+You step into a room completely covered with runes and symbols of every
+sort.  This chamber is also lit by some mysterious source that you have yet
+to pinpoint.  Several skull knights are keeping watch around the edges of
+the room, apparently focusing their energy to maintain the stability of
+these runes.  
+~
+0 8 16
+D2
+~
+~
+0 0 11618
+S
+#11620
+{REntrance to the Tower of Thorns{x~
+You stand at the bottom of a spiraling stone staircase, running up along
+the inside of this tall tower.  Emanating with the powerful magic that
+constructed it, this place houses the wizard knights of Takhisis.  Cold and
+simple, the halls of the tower are plain and free of ornament, making it the
+perfect atmosphere to practice magic.  
+~
+0 8 16
+D0
+~
+~
+0 0 11608
+D4
+~
+~
+0 0 11621
+S
+#11621
+{RA Spiral Staircase{x~
+Looking above and below you, there appears to be no end to the stairs. 
+Although some voices can be heard, you cannot determine which direction
+they're coming from.  There is a door to the east.  
+~
+0 8 16
+D1
+~
+~
+1 0 11622
+D4
+~
+~
+0 0 11624
+D5
+~
+~
+0 0 11620
+S
+#11622
+{RCommons Area{x~
+This room appears to be the sole area given to the knights to relax and
+study in peace and privacy.  Several knights are here, going through their
+spellbooks and consulting with their brothers.  There is a feeling of safety
+here.  
+~
+0 8 16
+D2
+~
+~
+0 0 11623
+D3
+~
+~
+1 0 11621
+S
+#11623
+{RThe Library{x~
+Filled with manuals and spellbooks written by Thorn Knights, Renegades,
+and Conclave Wizards alike, this room is a warehouse of arcane power dating
+back thousands of years.  From original texts written by founders of the
+order, to an ancient and silver bound tomb of Fistandantilus, this library
+exists to further the ultimate power of the Thorn.  
+~
+0 8 16
+D0
+~
+~
+0 0 11622
+S
+#11624
+{RA Spiral Staircase{x~
+Looking above and below you, there appears to be no end to the stairs.
+Although some voices can be heard, you cannot determine which direction
+they're coming from.  
+~
+0 8 16
+D4
+~
+~
+0 0 11625
+D5
+~
+~
+0 0 11621
+S
+#11625
+{RA Spiral Staircase{x~
+Looking above and below you, there appears to be no end to the stairs.
+Although some voices can be heard, you cannot determine which direction
+they're coming from.  
+~
+0 8 16
+D4
+~
+~
+0 0 11626
+D5
+~
+~
+0 0 11624
+S
+#11626
+{RA Spiral Staircase{x~
+Looking above and below you, there appears to be no end to the stairs.
+Although some voices can be heard, you cannot determine which direction
+they're coming from.  There is a door to the west.
+~
+0 8 16
+D3
+~
+~
+1 0 11627
+D4
+~
+~
+0 0 11628
+D5
+~
+~
+0 0 11625
+S
+#11627
+{RStorage Room{x~
+This small room appears to be a warehouse for many of the artifacts and
+magic items found through campaigning and construction.  Because the truly
+powerful artifacts are only possessed by the heads of the Order, all the
+grey robes are welcome to rummage through the storage pit, taking whatever
+might be useful to them.  
+~
+0 8 16
+D1
+~
+~
+1 0 11626
+S
+#11628
+{RA Spiral Staircase{x~
+Looking above and below you, there appears to be no end to the stairs.
+Although some voices can be heard, you cannot determine which direction
+they're coming from.  
+~
+0 8 16
+D4
+~
+~
+0 0 11629
+D5
+~
+~
+0 0 11626
+S
+#11629
+{RTop of the Tower{x~
+As you ascend to the turret along the top of the tower, a strong gust of
+wind nearly blows you over the side.  All around you, there appears to be a
+thick mist which seems to flow up against the base of the railing like the
+ocean against the beach.  I wonder where it leads...  
+~
+0 8 16
+D0
+~
+~
+0 0 11026
+D1
+~
+~
+0 0 11026
+D2
+~
+~
+0 0 11026
+D3
+~
+~
+0 0 11026
+D5
+~
+~
+0 0 11628
+S
+#11630
+{BA Holding Cell{x~
+Upon entering this room, the first thing one may notice is it's size. 
+Built to hold multiple prisoners of war, the walls are made of solid
+granite; not a single window mars the bleak grey walls with even a sliver of
+hope.  Barely visible through the darkness, a single cot lies against the
+far wall; a threadbare blanket and chamber pot the only other items to be
+seen.  A lily knight stands silent vigil outside the solid iron door to the
+south.  
+~
+0 2630668 0
+S
+#0
+
+
+
+#SPECIALS
+M 11600 spec_orgguard
+S
+
+
+
+#RESETS
+D 0 11621 1 1
+D 0 11622 3 1
+D 0 11626 3 1
+D 0 11627 1 1
+M 0 11600 12 11601 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11600 12 11603 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11600 12 11605 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11606 1 11606 1
+O 0 11606 0 11606
+M 0 11600 12 11606 1
+E 0 11621 0 5
+E 0 11600 0 20
+O 0 11608 0 11608
+M 0 11600 12 11608 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11600 12 11610 1
+E 0 11621 0 5
+E 0 11600 0 20
+O 0 11612 0 11612
+M 0 11600 12 11612 1
+E 0 11621 0 5
+E 0 11600 0 20
+O 0 11613 0 11613
+M 0 11600 12 11615 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11616 1 11616 1
+M 0 11600 12 11618 1
+E 0 11621 0 5
+E 0 11600 0 20
+O 0 11619 0 11619
+O 0 11620 0 11620
+M 0 11600 12 11622 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11623 1 11623 1
+M 0 11600 12 11624 1
+E 0 11621 0 5
+E 0 11600 0 20
+M 0 11600 12 11626 1
+E 0 11621 0 5
+E 0 11600 0 20
+O 0 11627 0 11627
+O 0 11630 0 11630
+O 0 11631 0 11630
+O 0 11633 0 11630
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#11604
+if sex $n == 2
+say Greetings Mistress $n, my apologies for blocking your way.
+else
+say Greetings Lord $n, my apologies for blocking your way.
+endif
+mob oload 11632
+give key $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

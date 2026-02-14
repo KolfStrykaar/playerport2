@@ -1,0 +1,307 @@
+#PLAYER
+Name Tellurhen~
+Surname Handpockets~
+MaskedIp ~
+Lokprot ~
+Email trevorjuhl@yahoo.com~
+Id   1390981392
+LogO 1391061983
+Vers 10
+Act  CDEGQTe
+Desc Eyes bright, this small halfling's dirty-blond hair is done up in a messy topknot. He is lean, almost skinny, and on the small side even for a halfling. He skin has a light tan upon it, and his hands look soft, although they, like his face, are almost perpetually dirty.
+~
+Prom <%hhp %mm %vmv> ~
+Race kender~
+Sex  1
+Cla  2
+Hmtown 0
+Levl 4
+recall_point 3001
+Levscale 30
+Xptolev  353
+Sec  0
+Plyd 20193
+Not  0 0 0 0 0
+Scro 22
+Room 10966
+HMV  121 121 107 107 118 118
+Steel 533
+Gold 13
+Bank 0
+Exp  5447
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm NO
+Pos  8
+Alig  752
+Ethos 2
+Hit   1
+ACs 83 83 83 100
+Attr 12 13 10 19 11 16
+AMod 2 3 4 4 6 0
+Pass TeqoG3ADA9Pgo~
+Titl  the Bandit~
+Pretit ~
+Pnts 7
+TSex 1
+LLev 1
+HMVP 71 107 118
+Cnd  0 65 65 0
+QuestPnts 93
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 1 'detect poison'
+Sk 1 'infravision'
+Sk 58 'dagger'
+Sk 1 'shield block'
+Sk 1 'sword'
+Sk 1 'whip'
+Sk 6 'backstab'
+Sk 8 'dirt kicking'
+Sk 1 'disarm'
+Sk 15 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 17 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'blackjack'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'pickpocket'
+Sk 1 'mountjack'
+Sk 1 'battle tactics'
+Sk 26 'wear leather'
+Sk 1 'fast healing'
+Sk 17 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'kender tongue'
+Sk 1 'lore'
+Sk 9 'peek'
+Sk 1 'pick lock'
+Sk 100 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'disguise'
+Sk 1 'tumble'
+Sk 1 'scout'
+Sk 1 'second backstab'
+Sk 1 'strip'
+Sk 100 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'evade'
+Sk 1 'boobytrap'
+Sk 1 'disarm traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+End
+
+#O
+Vnum 3777
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 2 0 0
+End
+
+#O
+Vnum 3778
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 98
+Wear 20
+Cost 210
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear 0
+Cost 10
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 17557
+Nest 0
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#END

@@ -1,0 +1,5797 @@
+#AREADATA
+Name Mt. Nevermind~
+Builders Hiddukel~
+Continent Sancrist~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 10800 10999
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#10809
+sand serpent~
+a Sand Serpent~
+A Sand serpent slithers across the sand and over your feet.
+~
+Slithering around with the stealth of a persons shadow, this sandy
+colored snake like creature has a narrow body and yet it's head is fairly
+large, with sharp fangs just barely hanging out of it's mouth.  Being
+heavily camouflaged, you almost didn't see it.  However, when it slithered
+across your feet, you couldn't help but look down to see what this thing
+was.  
+~
+snake~
+ABFW FQTVZbc 0 0
+20 10 21d3+102 10d10+85 3d3+10 shbite
+2 2 2 4
+GHMOU E LR I
+stand stand none 1200
+AGWXYc ACDEFHKLPQVX S unknown 0
+#10810
+rat catcher~
+a Steel-plated Self-destructive rat catcher~
+A Steel-plated Self-destructive Rat Catcher is here snooping around the area.
+~
+Another one of those Gnomish inventions, these things seemed to have
+grown quite popular among Gnomes here in Mt Nevermind simply because half
+the time they actually work, catching unwanted rats then self detonating,
+killing the rat it caught and sometimes even unknowing on-lookers, usually
+curious Kender.  Mechanical in design, it almost looks to be an actual
+living creature, with the exception to it's steel plated body.  Perhaps you
+better be careful around these things.  Gnomes aren't notorious for creating
+inventions that work properly, let alone work, and this thing might just
+explode at any time.  
+~
+fido~
+ACGU DFV 0 0
+20 20 41d6+203 20d10+85 6d3+15 chomp
+-3 -3 -3 0
+CFHTU HILQR EX C
+stand stand none 1500
+BEGJ ACDEFHJKQV M unknown 0
+F off R
+F for AV
+M DEATH 10810 40~
+#10811
+giant spider~
+A giant spider~
+A giant spider sits here, feeding off its last kill.
+~
+Don't be nice to spiders, because they sure won't be nice to you. 
+Shouldn't be too difficult though, just give 'em a good old fashioned
+pounding with something painful.  It's body being completely black with
+long, hairy legs, it gives you a feeling of fear as you watch it devour the
+corpse of some poor young child you wandered into this things path unknowing
+of the consequences.  
+~
+modron~
+ABCW JVZa -500 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+DFHOQR BMNPQ HIK D
+stand stand none 1200
+H ABCGHJK G unknown 0
+#10819
+mechanized warrior~
+a Mechanized Warrior~
+A steam-powered Mechanized Warrior stands before the gate, keeping a look out.
+~
+Steam seeps out of it's ears as you begin to stare at this ---- thing. 
+It appears to be something invented by the Gnomes who live and die here, as
+a means of protection.  Gnomes not having enough time to cut out from their
+lifequest to do such boring duties, it doesn't come as a surprise to you that
+they would make something like this, obviously mechanized gate guard. 
+Although it appears to move slow, there's no doubt in your mind that it
+probably has some devastating fighting skills.  
+~
+gnome~
+ABT DFJNZ 500 0
+50 50 101d16+506 50d10+85 16d3+30 smash
+-24 -24 -24 -14
+CEFRTU LQ C J
+stand stand none 500
+EHJL ABCGHIJK S unknown 0
+F for AMV
+F par DEF
+#10823
+white wyrm~
+a White Wyrm~
+A {wWhite Wyrm{x stands here, overseeing Mt. Nevermind's safety.
+~
+Never having seen one of these rare creatures, you don't know much about
+them except for what you can see right now.  Large fang like teeth and razor
+sharp claws don't look too appealing to your comfort and his large muscles
+on his, already large worm like body, only bring more fear into your soul. 
+He appears to be surrounded by some sort of aura, as if he was brought here
+by the Gnomes to look after their mountains safety.  
+~
+wyvern~
+AGRW DFHJPTVZa 250 0
+80 60 121d20+1213 60d10+85 20d3+35 blast
+-30 -30 -30 -18
+CFHMORT LQ EI S
+stand stand male 4500
+ABGZ ACDEFHJKQVX L unknown 0
+#10854
+gatekeeper~
+the Gatekeeper~
+The Gatekeeper stands here fidgeting with some sort of device.
+~
+This little guy does not look to happy.  He's short, and wrinkly and yet
+shows a muscular physique.  He doesn't seem to happy to be babysitting a
+gate, when he could be off fulfilling his lifequest.  Perhaps it'd be best
+not to get on his bad side.  
+~
+gnome~
+ABCG DFHJVZa 350 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+DHINRT CDPQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10860
+large draconian~
+a Large {RDraconian{x~
+A Large {RDraconian{x jumps out at you.
+~
+Ssssssssssssoooooo youuuu wissssssssh tooooo die eeehhhhh?
+~
+draconian~
+ABT DFHOZc -1000 0
+120 120 241d40+3637 120d10+85 40d3+65 claw
+-71 -71 -71 -46
+CDGKMO ABP CEM 0
+stand stand male 230
+AHMV ABCDEFGHIJKLPQUVX L unknown 0
+F par W
+M BRIBE 10857 500~
+M DELAY 10858 100~
+M GRALL 10859 100~
+#10864
+ghost gnome~
+the Ghost of a Gnome~
+The Ghost of a long dead Gnome hovers here.
+~
+He looks to have been dead for a very long time.  He also looks like he
+was killed in some sort of freak accident.  Wandering around these tunnels
+maybe?  
+~
+gnome~
+AB BDFJKQTZ 0 0
+210 210 421d70+8485 210d10+85 70d3+110 slime
+-132 -132 -132 -88
+GS ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+M SPEECH 10864 order 1~
+M SPEECH 10863 order 2~
+M SPEECH 10862 order 3~
+M SPEECH 10861 order 4~
+M SPEECH 10860 order 5~
+#10867
+vision~
+a Vision~
+A vision appears before you.
+~
+It's just an ethereal face, hovering before your eyes.
+~
+gnome~
+ABCO BDFHQVZa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 blast
+-126 -126 -126 -84
+DEGHN ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+F res C
+M SPEECH 10866 4~
+M SPEECH 10866 3~
+M SPEECH 10866 2~
+M SPEECH 10867 1~
+#10877
+statue~
+a Gnome Statue~
+A Gnome Statue is here.
+~
+A statue made of smooth, black marble, resembling that of a gnome stands
+here.  
+~
+gnome~
+ABC DFHVZa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 pound
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+M GRALL 10877 100~
+#10887
+crazy gnome~
+a Crazy Gnome~
+A Crazy Gnome runs around like a chicken with it's head lopped off.
+~
+He looks like he lost his marbles.  Short and bleak, he sure is an odd
+fellow running around yelling about places you've never heard before.  Some
+say he was touched by Reorx himself, giving him the ability to peer into the
+future for a quick second, regardless if he wants to or not.  Dressed only
+in a yellow toga and bare footed, he doesn't appeal to you as important
+enough to stop and talk to.  
+~
+gnome~
+ABCGY ADFHJKUZa 0 0
+75 75 151d25+1515 75d10+85 25d3+42 beating
+-41 -41 -41 -25
+DERT ILQ C H
+stand stand male 5000
+AHMV ABCDEFGHIJK S unknown 0
+#10890
+triff handflute~
+Triff Handflute~
+Triff Handflute stands here reading through some blueprints.
+~
+Before you stands one of the most famous female inventresses ever to walk
+among Gnomes.  In her left hand, she appears to be holding some kind of
+instrument.  Could it be the infamous four-handed flute that everyone has
+been ranting about?  Perhaps it would be best not to disturb her from her
+work.  
+~
+gnome~
+ABY BV 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+M ACT 10890 looks at you.~
+#10891
+neargin smeargin~
+Neargin Smeargin~
+Neargin Smeargin sits in a chair, inspecting today’s latest inventions.
+~
+He wears a long grey robe which appears to be dirty and sweaty.  His hair
+appears to be falling out, perhaps due to the stress he must go through.  As
+you continue to stare, his face turns dark red with fury, annoyed that you
+just won't leave him alone.  
+~
+gnome~
+ABC Q 0 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+G ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+M ACT 10891 looks at you.~
+#10896
+thergin whitespell~
+Thergin WhiteSpell~
+Thergin WhiteSpell stands here waiting to aid you in healing.
+~
+The only Gnome to ever stray from his LifeQuest and walk the path of
+Magic, he stands here wrapped up in White Robes.  Perhaps it's at least
+better to know that he didn't follow the black robes.  To think what kind of
+crazy spells a black robed Gnome mage could drudge up is mind boggling. 
+However, Thergin smiles at you instead, offering any and all spells that he
+can.  
+~
+gnome~
+ABa DFHZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 none
+-126 -126 -126 -84
+ST ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10953
+busy waitress~
+a Busy waitress~
+A busy waitress stands here, tapping her foot impatiently as she waits for you  to make up your mind.
+~
+She appears to be the only one serving the customers and by the looks of
+it she seems to be quite busy.  Perhaps you better order something to go and
+leave before she gets any more impatient with you.  
+~
+gnome~
+ABC Va 100 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 AD BC 0
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+#10954
+maggots~
+a litter of Maggots~
+A litter of Maggots is here, feeding off any feces in the immediate area.
+~
+Covered in slime, their grotesque white bodies and foul smelling odor,
+make you want to gag.  They appear to be feeding off the feces which you
+just left on the ground.  Perhaps you'd best stay clear of these sickly
+looking things before they infect you with some sort of virus.  
+~
+centipede~
+ABIU A 0 0
+10 10 21d3+102 10d10+85 3d3+10 suction
+2 2 2 4
+C R FI E
+stand stand none 0
+ABGO ACK S unknown 0
+F aff Z
+#10955
+aase nissinsdaughter~
+Aase Nissinsdaughter~
+Aase Nissinsdaughter stands here, waiting to sell you a pet slave.
+~
+She beams a smile in your direction, as she catches you staring at her
+sheer beauty.  Her cheeks seem to turn a little reddish as you continue to
+stare.  Perhaps you'd better stop looking.  
+~
+gnome~
+AB DFZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 whip
+-126 -126 -126 -84
+CHIN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10957
+man fusoyung~
+man named Fusoyung~
+A man the Gnomes refer to as Fusoyung, stands here waiting to Train your abilities.
+~
+Short and thin, with a long nose he almost looks out of place.  He
+appears to be dressed down in a simple grey robe, held closed by a red sash.
+As you continue to stare, he looks right back at you with an unnerving
+glance.  Perhaps one day you might be as strong, both physically and mentally
+as him.  
+~
+gnome~
+ABJU DFJZa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+CDEHI ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10958
+stergin whitespell~
+Stergin WhiteSpell~
+Stergin WhiteSpell hovers in the air before you, waiting to train you.
+~
+Although many people think him to be long dead since his disappearance
+from the outside world, outside of this dead volcano that is, here he is,
+hovering in the air smiling at you as you walk in and take a good look at
+him.  Draped in white robes with the hood pulled over his head, leaving just
+enough back to make out his Gnomish descent, he almost reminds you of a
+ghost.  However, you know his purpose here is to help you practice your art,
+to become more efficient in casting any new spells which you may have
+recently learned.  
+~
+gnome~
+ABKRb DFTZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 magic
+-126 -126 -126 -84
+QR ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10959
+j'lerte tinkertot~
+J'lerte Tinkertot~
+J'lerte Tinkertot stands here waiting to aid you in your next Tinker lesson.
+~
+He's wrapped up in some sort of white lab coat, with loose fitted goggles
+hanging over his long nose.  Short and pudgy, he looks like something out of
+a children’s book, especially with the black ash that covers his face and
+arms, obviously from some sort of explosion.  However, being a Gnome who
+tinkers around with things, what'd you expect?  
+~
+gnome~
+ABKb DFVZ 500 0
+200 200 401d66+8081 200d10+85 66d3+105 smash
+-126 -126 -126 -84
+EFGHK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10961
+r'theb wolfsbane~
+R'theb WolfsBane~
+R'theb WolfsBane is standing in a corner pounding out some metal.
+~
+Short and bulky, this older Gnome has enough wrinkles on his face to
+scare away a Draconian.  Although he looks old, by the way he's pounding out
+the metal for his new creation, he looks like he'd still be hard to beat in
+a fight.  
+~
+gnome~
+AB DFZ 500 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+CEN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10962
+gristhle nimblefinger~
+Gristhle NimbleFinger~
+Gristhle NimbleFinger is walking around inspecting her work.
+~
+A middle aged looking woman, she doesn't seem to be annoyed at your
+presence.  Instead she seems to be more wrapped up in inspecting her work of
+art.  Perhaps making new, designer clothes is her LifeQuest.  
+~
+gnome~
+ABC JZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 slap
+-126 -126 -126 -84
+CDEH ABCD LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10964
+thuntal~
+Thuntal~
+Thuntal the dealer, walks around making sure each item is still there since he last left the room.
+~
+He appears to be more relaxed now that he has an accurate account for
+each item in the store.  Perhaps he might be interested in buying something
+from you, and if not, you could always buy something from him as gold bars
+seem to appear in his eyes.  
+~
+gnome~
+ABC CDFVZa 500 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+CDHN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10965
+master assassin~
+a master assassin~
+A master assassin stands here, waiting to aid you in your skills.
+~
+Dark clothing covers his entire body.  He wears some sort of full hooded
+mask, which fits in the exact shape as his head is.  A small slit has been
+cut out for the eyes, revealing almond shaped eyes, those of an elven
+feature.  Aside from that, only the shiny dagger which he holds in his hand
+is visible.  
+~
+qualinesti~
+ABKb DFJVZa -1000 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEGHIJNR ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#10966
+Drin GlowInTouch~
+Drin GlowInTouch~
+Drin GlowInTouch stands here looking dumbfound, waiting for you to purchase a gem from him.
+~
+His face is covered in some kind of glowing paint or of the like.  Small
+and young looking, he appears to be selling an array of Gems and precious
+stones.  Perhaps if he's nice enough he might sell you one.  
+~
+gnome~
+ABC DFVZa 400 0
+200 200 401d66+8081 200d10+85 66d3+105 chop
+-126 -126 -126 -84
+CDEHIT ABCD 0 0
+stand stand none 5660
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10968
+gnome banker~
+a Gnome Banker~
+A Gnomish Banker stands here waiting to take your gold.
+~
+A small fellow, with a large, pointy nose stands here offering his
+services as Mt.  Nevermind's bestevertoliveintheworldbanker.  He looks to be
+trustworthy enough to keep hold your wealth for you.  
+~
+gnome~
+ABde DFHZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 beating
+-126 -126 -126 -84
+FHR CD C 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+#10969
+census taker gnome nevermind~
+the Census-taker~
+A harried-looking gnome stands here, barely visible above a stack of forms.
+~
+A bookish looking gnome of middle age stands here, sorting through a
+large stack of parchment.  His fingers are stained with ink, and leave
+occasional streaks as he absently wipes the sweat from his balding head. 
+His expression is friendly, though his eyes have a somewhat beady appearance
+due to squinting at various forms for hours on end.  Scanning the pages with
+practiced ease, he pushes a pair of large spectacles from the edge of his
+nose as he stamps various applications deemed worthy of approval.  
+~
+gnome~
+AB 0 0 0
+120 120 180d40+3277 120d10+85 34d3+45 thwack
+-47 -47 -47 -22
+F ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10970
+shazam lightflicker~
+Shazam LightFlicker~
+Shazam LightFlicker is standing in a corner, lighting yet another candle.
+~
+With the shop being as bright as it is, it's almost impossible to make
+out any details of this man, except the fact that he's short and appears to
+be of Gnomish descent.  
+~
+gnome~
+ABCU DFVZ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 blast
+-126 -126 -126 -84
+CDEFHJK ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10971
+zaggi hardlinger~
+Zaggi Hardlinger~
+Zaggi Hardlinger stands in a corner pounding out a new shield.
+~
+He looks busy at work, perhaps you better buy what you need and get the
+heck away from him.  
+~
+gnome~
+AB DFVZ 500 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+CDE ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10972
+tired old man~
+the tired old man~
+A tired old man sits here, reading his book.
+~
+Tired and old, this Gnome doesn't look much interested in anything else
+but the book from which he reads.  Wrapped up in a small blanket with thin
+spectacles hanging off the tip of his nose, he kinda reminds you of..... 
+Na, couldn't be, he'd have to be a lot heavier.  
+~
+gnome~
+AB DFZa 500 0
+150 150 301d50+4546 150d10+85 50d3+80 thwack
+-91 -91 -91 -60
+CDEFHIK ABD C 0
+sit sit male 0
+AHMV ABCDEFGHIJK S unknown 0
+M GRALL 10972 100~
+#10973
+priestess cleric sirri~
+a Priestess of Sirrion~
+A priestess of Sirrion stands here, ready to train you in your spells and skills.
+~
+Draped in a gold-trimmed red robe, she appears to be a beautiful woman in
+excellent health and physical condition.  She wears no armor or weapons, her
+hands empty yet they seem to invite your soul to mend with hers.  As you
+peer at her Gnomish features, she looks and smiles at you as if she's hoping
+you'll take full advantage of her wisdom and power bestowed to her by
+Sirrion himself.  
+~
+gnome~
+ABJQ HZ 1000 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+FGHS ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK S unknown 0
+F res C
+#10983
+bunny~
+an Ugly Bunny~
+An Ugly Bunny stands here looking stupid.
+~
+Boy, don't he look DUMB?!?!?  Makes you want to kill him now and cook him
+up for dinner.  Rump roast anyone?  
+~
+rabbit~
+AGHU 0 0 0
+1 0 3d2+11 1d10+85 1d3+0 bite
+8 8 8 8
+FH 0 0 0
+stand stand male 56
+AGV ACDEFHJK T unknown 0
+#10984
+stout pig~
+a stout Pig~
+A stout Pig stands here giving off an unpleasant odor.
+~
+Foul smelling and quite dirty, this pig looks and smells like he's been
+rolling around in his own manure.  
+~
+pig~
+AGU 0 0 0
+3 1 7d2+31 3d10+85 1d6+1 charge
+7 7 7 7
+CDFR 0 0 0
+stand stand female 80
+AGV ACDEFHJK S unknown 0
+#10986
+mech rat~
+a mechanical rat~
+A Mechanical rat moves slowly about
+~
+A rat, created by Gnomes nonetheless, moves very slowly as it's aluminum
+limbs and steam powered engine seem to not be working just right.  
+~
+fido~
+AGU 0 0 0
+0 0 0d0+0 0d0+0 1d1+0 digestion
+10 10 10 10
+F 0 0 C
+stand stand none 65
+ABGJV ACDEFHJKQV T unknown 0
+F off R
+#0
+
+
+
+#OBJECTS
+#10829
+pooper scooper~
+a pooper scooper~
+Eww...Someone left a pooper scooper on the ground and it looks full.~
+tin~
+treasure BT 0 AOc
+0 0 0 0 0
+1 1 100 P
+A
+4 1
+#10830
+ring mail sleeves~
+ringmail sleeves~
+A set of ringmail sleeves lie here.~
+Steel~
+armor Y 0 AIX
+AD D AD AB 0
+30 5 500 P
+A
+5 1
+A
+2 -1
+#10831
+studded plate mail~
+studded platemail~
+A studded platemail lies here.~
+steel~
+armor 0 0 ADX
+AD D ACD C C
+35 20 1000 P
+A
+1 1
+#10832
+spiked iron boots~
+spiked iron boots~
+A pair of spiked iron boots lie here.~
+iron~
+armor 0 0 AGX
+AC A AD A 0
+20 9 600 P
+#10833
+metal kite fortification~
+a Metal Kite of Fortification~
+A large metal kite lies here on the ground.~
+adamantite~
+armor GY 0 AJX
+ABD ABD ABD ABC 0
+40 19 4000 P
+A
+23 -10
+#10834
+war spear~
+a War Spear~
+A long spear built for war lies here.~
+ironwood~
+weapon GPSY 0 ANX
+spear 2 22 thrust D
+35 7 200 P
+A
+19 1
+A
+18 1
+#10835
+jester suit~
+a {gJester{x Suit~
+Look! Someone left a {gJester's{x suit on the ground.~
+embroidered cloth~
+armor AGISTY 0 ADX
+ABCD ABCD ABCD ACD 0
+60 3 20 P
+A
+18 10
+A
+2 3
+#10836
+key city~
+a key to the city~
+A Key to the city of Mt. Nevermind lies here.~
+platinum~
+treasure AT 0 AO
+0 0 0 0 0
+0 1 0 P
+E
+key~
+It appears to be useless and you feel you've wasted your time getting it.  
+~
+#10837
+steel reinforced boots~
+steel reinforced boots~
+A pair of steel reinforced boots lie here.~
+steel~
+armor 0 0 AGc
+BC C BD B 0
+25 7 600 P
+#10843
+wooden sign~
+a wooden sign~
+A wooden sign has been posted here, maybe you should read it.~
+wood~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+_____________________________________________________________
+ |                                                            |
+ |                                                            |
+ |     Due to the fact that we can't seem to find another     |
+ |     Minotaur willing to take the position of Ship Captain, |
+ |     This dock will be closed, for a short period of time   |
+ |     we hope. If there are any questions, please go to the  |
+ |     Mountain and seek us out.                              |
+ |     Signed,                                                |
+ |                   -- The Committee of Mt. Nevermind --     |
+ |____________________________________________________________|
+~
+#10845
+small notice~
+a small notice~
+A small notice has been posted to one of the wooden dock posts.~
+parchment~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+notice~
+
+{x  #########################################
+  #|                                     |#
+  #|    Out for supplies! Will be back   |#
+  #|    As soon as they kick me out of   |#
+{x  #|    the tavern. Till then, go find   |#
+  #|    find your own way off the island |#
+  #|            ----Signed----           |#
+  #|     Trex Bluebeard, Ship's Captain! |#
+  #|                                     |#
+  #########################################
+~
+#10847
+wooden sign~
+a wooden sign~
+A wooden sign has been posted here.~
+wood~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+_______________________________________________________________
+|@                                                             @|
+|   Thispathleadsdowntothedepthsofthedeeptunnelsproceedwith     |
+|                        caution                                |
+|_______________________________________________________________|
+~
+#10849
+steam car~
+a Steam Car~
+A Steam Car invention, invites you to hop in.~
+iron~
+portal O 0 0
+0 0 0 BEFGJLN 0
+0 0 0 P
+E
+car~
+There's a small door open on the side of this, never before seen
+creation.  Drudged up by Gnomes is the only feasible idea you can come up
+with.  Perhaps jumping inside and trying it out wouldn't be a bad idea.  
+~
+#10850
+comfortable casket~
+a Comfortable Casket~
+A {RComfortable{x  Casket lies here.~
+oak~
+portal O 0 0
+0 0 0 BCFGJLN 0
+0 0 0 P
+E
+comfortable~
+It looks to be pretty comfortable, why not enter into it?
+~
+#10851
+cold casket~
+a {BCold{x  Casket~
+A {BCold{x  Casket lies here, chillin'.~
+unknown~
+portal O 0 0
+0 0 0 BCFGJLN 0
+0 0 0 P
+E
+cold~
+A cool, frost seems to give you the chills.
+~
+#10852
+uncomfortable casket~
+an Uncomfortable Casket~
+An Uncomfortable Casket lies here.~
+unknown~
+portal O 0 0
+0 0 0 ABEFGJLN 0
+0 0 0 P
+E
+uncomfortable~
+Doesn't it look like it might hurt to get into?
+~
+#10853
+fourth casket~
+a Fourth Casket~
+A Fourth Casket lies here.~
+unknown~
+portal O 0 0
+0 0 0 BCFGJLN 0
+0 0 0 P
+E
+fourth~
+A fourth one?
+~
+#10854
+steel sign~
+a steel bolted sign~
+A steel sign is bolted to the wall here.~
+steel~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+________________________________________________________________
+|@       @       @       @       @       @       @         @   |
+|                                                              |
+|                                                              |
+| You will have ONE tool to help survive the tunnels - Wits!   |
+|@                                                         @   |
+|      You will have:                                          |
+|                                                              |
+|          NO Weapons!                                         |
+|@         NO Armor!                                       @   |
+|          NO Spells!                                          |
+|                                                              |
+|      Every living adult Gnome has made this trip!            |
+|@                                                             |
+|                                                              |
+| (Scratched at the bottom):                                   |
+|    I would not try to make sense of any map of the place,    |
+|@   since the passages between rooms might be Ethereal and    |
+|    teleport you to another part of Mt. Nevermind.            |
+|                                                              |
+|                                                              |
+|@       @       @       @       @       @       @         @   |
+|______________________________________________________________|
+~
+#10861
+transporting gadget~
+a Transporting Device~
+Some sort of Transporting Gadget lies here.~
+unknown~
+portal BO 0 0
+0 0 A BCFGJLN 0
+0 0 0 P
+E
+gadget~
+It appears to be a gadget drudged up by the infamous Gnomes, to transport
+people from room to room.  Curiosity beckons you to enter into it and give
+it a test ride for yourself.  
+~
+#10863
+underground transporter~
+low Velocity Underground Transporter~
+An experimental model of a Low Velocity Underground Transporter lies here.~
+unknown~
+portal O 0 0
+0 0 0 EFGJLN 0
+0 0 0 P
+E
+transporter~
+What stands on the floor is the latest experimental model of the Low
+Velocity Underground Transporter Which Moves Gnomes (And Assorted Visitors)
+Safely (Provided We Have No Accidents) To The Required Destination Of Their
+Choice (As Long As The Destination Is Near The Tracks Used To Control The
+Direction), and up until now you have been certain this is only another
+rumor.  
+~
+#10870
+other platform~
+the Other Platform~
+The Other Platform lies here.~
+unknown~
+portal O 0 0
+0 0 0 ABCDEFGJLN 0
+0 0 0 P
+E
+other~
+Here is another platform, awaiting for you to enter it.
+~
+#10873
+experimental platform~
+an Experimental Platform~
+An Experimental Platform awaits for you to enter.~
+Steel~
+portal O 0 0
+0 0 0 BCDEFGJLN 0
+0 0 0 P
+E
+experimental~
+Please, enter onto the platform.
+~
+#10877
+report senior~
+a Senior Report~
+A Senior Report lies here.~
+vellum~
+trash PSU 0 AO
+0 0 0 0 0
+20 1 0 P
+E
+report~
+You have proven your skills to become one of the Senior Operators, if you
+chose to put your mind, where your mouth is.  Hang onto this, perhaps it can
+be useful later on.  
+~
+#10879
+pearl~
+a Beautiful Pearl~
+A Beautiful Pearl has been left behind.~
+freshwater pearl~
+gem AGSY 0 AO
+0 0 0 0 0
+20 1 3250 P
+A
+3 2
+A
+4 2
+#10880
+zig zag lantern~
+a zigzag lantern~
+A lantern with a zigzag pattern drawn on, lies here.~
+brass~
+light ITY 0 Ac
+0 0 BCEH 0 0
+10 1 500 G
+#10881
+crystal shard~
+a Crystal Shard~
+A shard made of crystal illuminates before your eyes.~
+crystal~
+light AGISTY 0 AX
+0 0 EHI 0 0
+35 1 1500 P
+#10882
+staff sun~
+a Sun Staff~
+A staff, containing a speck of the sun, shines brightly.~
+hickory~
+light AGISY 0 Ac
+0 0 ABCFGHIJ 0 0
+60 2 5000 P
+#10883
+wax candle~
+({RBurning{x) a Wax Candle~
+A long, wax candle flickers before you.~
+wax~
+light AGSY 0 Abc
+0 0 CDFI 0 0
+25 1 2500 P
+#10884
+star sapphire~
+a {BStar {bSapphire{x~
+A brilliant {bSapphire{x shaped like a star, has been left here.~
+sapphire~
+gem GSY 0 AO
+0 0 0 0 0
+0 1 15000 P
+A
+3 1
+#10885
+black moon stone~
+a Black Moonstone~
+A Moonstone in the shape of a waxing crescent, lies here.~
+gemstone~
+staff GSTY 0 AO
+60 3 2 'sympathy' 0
+60 2 25000 P
+A
+2 1
+A
+4 2
+#10886
+amethyst~
+an {mamethyst{x~
+Someone dropped an {mamethyst{x on the ground.~
+amethyst~
+treasure KSTY 0 AO
+0 0 0 0 0
+0 1 8000 P
+A
+12 10
+#10887
+oval ruby~
+an Oval {rRuby{x~
+A {rRuby{x in the shape of an oval, like an egg, lies here.~
+ruby~
+gem GSY 0 AO
+0 0 0 0 0
+35 1 7600 P
+A
+5 1
+#10888
+baked apple pie~
+a baked apple pie~
+A baked apple pie cools off here.~
+unknown~
+food S 0 AO
+D ABCD 0 0 0
+2 1 500 P
+#10889
+bowl stew~
+a bowl of stew~
+A bowl of stew sure does smell good lying here.~
+unknown~
+food S 0 AO
+CFG BCDE 0 0 0
+15 1 1500 P
+#10890
+water bowl~
+a water bowl~
+A wooden water bowl lies here.~
+wood~
+drink S 0 AO
+5 5 'water' 0 0
+5 1 200 P
+#10891
+knapsack~
+a knapsack~
+A knapsack is lying on the ground.~
+soft leather~
+container SY 0 ASc
+100 A 0 100 100
+30 2 5000 P
+A
+2 -2
+#10892
+rubber cuffs~
+rubber cuffs~
+A pair of rubber cuffs lie here.~
+unknown~
+jewelry BGST 0 AMc
+0 0 0 0 0
+35 1 6575 P
+A
+19 2
+A
+18 1
+A
+1 2
+#10893
+tube gnome glue~
+tube of Gnome Glue~
+A tube of Gnome Glue lies here.~
+magic~
+pill ES 0 AO
+20 'heal' 'reserved' 'reserved' 'reserved'
+23 1 2000 P
+E
+glue~
+The ingredients on the side of the tube read:
+- 5 horses ( 2 male, 3 female )
+- 8 wooden spoons
+- 10 packets of butter
+- 8 barrels of moist corn
+- 2 pair of leggings
+- 1 toupe
+- 4 leather boots
+- 19 crates of peeled lemon
+- a small amount of sulphur
+- 253 tomatoes
+- 76 potatoes
+- 87 coins, at a total sum of 1.9 gold
+~
+#10894
+walking stick~
+a walking stick~
+A walking stick lies here rotting away.~
+oak~
+staff BS 0 AO
+90 1 1 'refresh' 0
+20 1 5000 P
+A
+14 30
+E
+stick~
+It appears to be something to help you walk along rough trails.  There
+also appears to be some sort of crystal imbedded at the top.  Perhaps
+there's something else special about it.  
+~
+#10895
+water fountain~
+a beautiful water fountain~
+A marble fountain shoots forth water in every direction.~
+marble~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#10896
+strongbox~
+a strong box~
+A Strongbox lies here, holding inventions yet to be inspected.~
+iron~
+container O 0 0
+10000 0 0 10000 10000
+0 0 0 P
+E
+strongbox~
+It appears to be small, but inside, it holds anything of any size, shape
+or weight.  
+~
+#10897
+map nevermind~
+a map of Mt. Nevermind~
+A well detailed map lies before your feet, although it's almost too detailed to make out.~
+fine parchment~
+map PS 0 AO
+0 0 0 0 0
+0 1 800 P
+E
+map~
+***********************************************************************
+                               6                 
+             __________________|___________________________________
+            |      |         |         |             |     |       |
+            |   2  |         |         |            11     10      |
+            |    \-|         |       7-|             8     9       |
+____________|______|_______5-|-4_______|_____________|_____|_______|__12
+    \       |      |      20-|      16-|                           |  |
+     1      |-3    |      19-|         |                           |  13
+            |      |         |-18      |            15     14      |
+            |______|_________|_________|_____________|_____|_______|
+                      |          |                   
+                      21         17
+***********************************************************************
+               WELCOMETOTHEWONDERFULWORLDOFMTNEVERMIND
+***********************************************************************
+  1.  To the lower levels               2. The Thieves Hide Out
+  3.  Fusoyoung's Training Room         4. WolfsBane's Protection Dept.
+  5.  Gristhle's Clothing Store         6. The Pawn Shop
+  7.  The Assassin's Hide Out           8. To the upper levels
+  9.  Nevermind 1st Financial Bank     10. A Burned Up Room
+ 11.  Shazam's Lighting Fixtures       12. The Committee Room
+ 13.  To the Arena                     14. Zaggi's Shield Dept.
+ 15.  The Shortguydiditagain Inn       16. The Inner Glow
+ 17.  A Cleric's Sanction              18. The Bestspotforinventing Guild
+ 19.  Rosco's Steak and Waffles        20. The Bait Shop
+ 21.  Mages Galore
+~
+#10955
+small note~
+a small note~
+A small note rests on the counter~
+paper~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+note~
+_______________________________________________________
+|@                                                     @|
+|        Please make a selection from the following:    |
+|                                                       |
+|       Maggots - Our own breed of fish food!           |
+|                                                       |
+|       A Furry Animal - For the bear hunter!           |
+|                                                       |
+|       A Virgin slave - Get rid of the Dragon!         |
+|                                                       |
+|       Unicorn - Attracts virgins like nothing else!   |
+|                                                       |
+|_______________________________________________________|
+~
+#10956
+wool shirt~
+a wool shirt~
+A wool shirt lies on the ground, offering warmth and comfort.~
+wool~
+armor S 0 ADc
+AB AB AB A 0
+12 1 500 P
+#10957
+leather trousers~
+leather trousers~
+A pair of leather trousers lies on the ground~
+soft leather~
+armor S 0 AFc
+AB AC C 0 0
+15 4 1000 P
+#10958
+leather jacket~
+a leather jacket~
+A leather jacket lies on the ground.~
+leather~
+armor S 0 AKc
+C BC AC 0 0
+15 3 1200 P
+#10959
+leather boots~
+leather boots~
+A pair of leather boots lies here.~
+leather~
+armor S 0 AGc
+B C AB 0 0
+14 2 1500 P
+#10960
+dirty under wear~
+dirty underwear~
+A pair of dirty underwear has been left here.~
+cloth~
+armor S 0 AEc
+B B B 0 0
+5 0 200 P
+#10961
+formal doublet~
+({DEmbroidered{x) a formal doublet~
+A gentleman's formal doublet has been dropped here.~
+embroidered cloth~
+treasure IPS 0 ADc
+0 0 0 0 0
+1 1 8000 P
+#10962
+steel helmet~
+a steel helmet~
+A steel helmet has been carelessly dropped here.~
+steel~
+armor 0 0 AEc
+AC AB AD A 0
+20 13 500 P
+#10963
+leather gauntlets~
+leather gauntlets~
+A pair of leather gauntlets has been left here to rot.~
+soft leather~
+armor S 0 AHc
+B C AB 0 0
+15 2 1000 P
+#10964
+elbow caps~
+elbow caps~
+A set of elbow caps has been left here.~
+steel~
+armor 0 0 AIc
+AC AB AD B 0
+25 2 1500 P
+A
+2 1
+#10965
+knee caps~
+knee caps~
+A set of knee caps lies here.~
+steel~
+armor 0 0 AFc
+AC AB AD B 0
+25 4 1500 P
+A
+5 1
+#10966
+leather breastplate~
+a leather breastplate~
+A leather breastplate found it's way here.~
+banded leather~
+armor S 0 ADc
+AD BD BD AB 0
+30 6 3000 P
+A
+1 2
+#10967
+leather face mask~
+a leather facemask~
+A leather facemask lies here.~
+soft leather~
+armor SY 0 AUc
+C BC AC AB 0
+30 1 2500 P
+A
+3 1
+A
+4 1
+#10968
+steel addons~
+steel add-ons~
+Some steel add-ons have been left here.~
+steel~
+armor Y 0 ACc
+AC AB AD B 0
+25 5 2000 P
+A
+4 1
+#10969
+charred corpse remains~
+the Charred remains of a corpse~
+The charred remains of a corpse, lie in a heap off in the corner.~
+flesh~
+npc_corpse OT 0 0
+0 0 0 0 0
+0 0 0 R
+E
+corpse~
+There appears to be some sort of note on top of him, held in place with a
+long, wavy dagger. The note reads:
+Let this be a warning to all who try to invent potions or anything for
+that matter without first consulting the committee for approval. It 
+could prove fatal to your health, just it has for this poor soul,
+who was once a well respected Master among Bards. No longer will the
+skills of becoming a Bard be taught in this city!!
+----------------- Signed, The Committee!
+~
+#10973
+shrine sirrion~
+a Shrine to Sirrion~
+A flame-lit shrine to Sirrion has been erected here.~
+marble~
+treasure A 0 0
+0 0 0 0 0
+0 0 0 P
+#10974
+steel shield~
+a steel shield~
+A steel shield lies here.~
+steel~
+armor A 0 AJc
+BC C BD A 0
+20 6 1000 P
+A
+1 1
+#10975
+smart shield~
+a Smart shield~
+A shield lies here, emanating great power.~
+platinum~
+armor BITY 0 AJc
+D D AD C 0
+35 15 4000 P
+A
+4 1
+A
+3 2
+#10976
+chastity belt~
+a chastity belt~
+A belt, fit more for a woman, lies here.~
+iron~
+armor I 0 ALX
+BC C BC AB 0
+30 4 3500 P
+A
+2 2
+#10977
+shield might~
+a Shield of Might~
+A mighty-looking shield lies here on the ground.~
+adamantite~
+armor AGIY 0 AJZ
+ABCD ABCD ABCD ABD B
+60 19 10000 P
+A
+2 1
+A
+1 2
+A
+13 10
+#10978
+web belt~
+a {gWeb Belt{x~
+A {gWeb Belt{x  has been misplaced here.~
+burlap~
+armor GIPS 0 ALc
+AB AB AB 0 0
+15 1 1500 P
+A
+4 1
+#10990
+chicken leg~
+a chicken leg~
+A leg off of a chicken lies here.~
+flesh~
+food S 0 AO
+BD BD 0 0 0
+1 1 300 P
+#10991
+bloody steak~
+a {rbloody{x steak~
+A {rbloody{x steak looks delicious just sitting there.~
+flesh~
+food S 0 AO
+AD ABCD 0 0 0
+15 2 2500 P
+#10992
+strawberry waffle~
+a {rstrawberry{x waffle~
+A yummy waffle, toped with strawberries and cream lies here.~
+unknown~
+food S 0 AO
+AC AC 0 0 0
+1 1 150 P
+#0
+
+
+
+#ROOMS
+#10800
+Sancrist Bay~
+Stretching north over the waters of the Sirrion Sea, is a wooden dock
+which seems to be the only way on and off this island.  As you stand here,
+sand starts to fill your boots making it seemingly difficult to walk
+through.  Perhaps you'd better start moving before you sink right through
+the beach, never again to be seen.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10842
+D1
+~
+~
+0 0 10841
+D3
+~
+~
+0 0 10801
+S
+#10801
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10802
+D1
+~
+~
+0 0 10800
+S
+#10802
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10803
+D2
+~
+~
+0 0 10801
+S
+#10803
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10804
+D2
+~
+~
+0 0 10802
+S
+#10804
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10803
+D3
+~
+~
+0 0 10805
+S
+#10805
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10804
+D3
+~
+~
+0 0 10806
+S
+#10806
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10805
+D3
+~
+~
+0 0 10807
+S
+#10807
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10806
+D2
+~
+~
+0 0 10808
+S
+#10808
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10807
+D2
+~
+~
+0 0 10809
+S
+#10809
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10808
+D3
+~
+~
+0 0 10810
+S
+#10810
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10809
+D3
+~
+~
+0 0 10811
+S
+#10811
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10810
+D2
+~
+~
+0 0 10812
+S
+#10812
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10811
+D2
+~
+~
+0 0 10813
+S
+#10813
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10812
+D1
+~
+~
+0 0 10814
+S
+#10814
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10815
+D3
+~
+~
+0 0 10813
+S
+#10815
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 0 3
+D0
+~
+~
+0 0 10814
+D2
+~
+~
+0 0 10816
+S
+#10816
+A path leading to Mt. Nevermind~
+The ground feels a lot more stable beneath your feet, as the sand turns
+into more of a clay type terrain.  Looking around, you find yourself coming
+closer and closer to the large mountain.  Perhaps now it would be a good
+idea to start looking for the entrance; considering from hearsay and rumors,
+the gnomes tried to make it as difficult to find as it is to find the
+entrance to the Tower of Wayreth.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10815
+D1
+~
+~
+0 0 10817
+D2
+~
+~
+0 0 10818
+S
+#10817
+A path outside the gates of Mt. Nevermind~
+Not totally positive about where your at, you could swear the Gnomes have
+failed again at an attempt to cloaking their beautiful mountain, for you
+seem to be walking down the direct path which leads to the entrance.  A
+little more optimistic about where you are, you may head east or west.  
+~
+0 0 5
+D1
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10816
+S
+#10818
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10816
+D2
+~
+~
+0 0 10820
+S
+#10819
+Before the great gates of Mt. Nevermind~
+You find yourself standing before a large set of gates.  They seem to be
+open, an invitation to all who care to wander in and put up with the burden
+that all Gnomes seem to carry with them of never being able to complete out
+of their LifeQuest.  Listening closely, sounds of metal clanking against
+metal as well as a few gibbering Gnomish voices echo off the walls and into
+your ears.  Mechanical devices moving, gears turning and the occasional
+scream of a Gnome remind you of some freakish experiment gone bad.  Perhaps
+heading east into the great Mountain doesn't sound as exciting as you
+thought it would be.  Perhaps you'd better turn around and head back west.  
+~
+0 262144 1
+E
+east~
+The Great Gates leading inside to Mt Nevermind stand tall before you. 
+They also appear to be open at this time.  
+~
+D1
+~
+~
+0 0 10846
+D3
+~
+~
+0 0 10817
+S
+#10820
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 0 3
+D0
+~
+~
+0 0 10818
+D1
+~
+~
+0 0 10821
+S
+#10821
+Near Mt. Nevermind~
+Traveling further and further away from the sandy beach, you notice that
+you are coming closer and closer to the large Mountains.  Lush trees and
+plants surround you and the path which you walk upon.  Birds and other wild
+animals can be heard from all around, as if your walking in some sort of
+jungle.  
+~
+0 0 3
+D1
+~
+~
+0 0 10825
+D2
+~
+~
+0 0 10822
+D3
+~
+~
+0 0 10820
+S
+#10822
+A path through a forest~
+Off the sandy beaches you go, and right into a heavy thicket of trees. 
+Tall aspen trees surround you as the trail continues on, heading north and
+south.  Going north will take you back to the trail leading around Mt
+Nevermind, and going south will take you through the remainder of the
+Sancrist Island.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10821
+D2
+~
+~
+0 0 10823
+S
+#10823
+A path through a forest~
+Walking through a heavily shaded trail, completely surrounded by thick,
+tall aspen trees, you come up to a corner.  Heading north will bring you to
+the wondrous sandy beaches of Sancrist Island, which surround Mt Nevermind.
+Heading west, brings you deeper and deeper into the depths of the Forest.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10822
+D3
+~
+~
+0 0 10824
+S
+#10824
+A path through a forest~
+************  Coming Soon to an Area near You  ******************
+~
+0 524288 3
+D1
+~
+~
+0 0 10823
+S
+#10825
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10826
+D3
+~
+~
+0 0 10821
+S
+#10826
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10827
+D3
+~
+~
+0 0 10825
+S
+#10827
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10826
+D2
+~
+~
+0 0 10828
+S
+#10828
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10827
+D1
+~
+~
+0 0 10829
+S
+#10829
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10830
+D3
+~
+~
+0 0 10828
+S
+#10830
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10831
+D3
+~
+~
+0 0 10829
+S
+#10831
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D1
+~
+~
+0 0 10832
+D2
+~
+~
+0 0 10830
+S
+#10832
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10833
+D3
+~
+~
+0 0 10831
+S
+#10833
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10834
+D2
+~
+~
+0 0 10832
+S
+#10834
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10833
+D3
+~
+~
+0 0 10835
+S
+#10835
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10836
+D1
+~
+~
+0 0 10834
+S
+#10836
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10835
+D3
+~
+~
+0 0 10837
+S
+#10837
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10838
+D1
+~
+~
+0 0 10836
+S
+#10838
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10839
+D2
+~
+~
+0 0 10837
+S
+#10839
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10840
+D2
+~
+~
+0 0 10838
+S
+#10840
+On a beach~
+As you continue to trudge forth on your long walk around the island, sand
+fills your boots, making it seemingly difficult to walk.  Not far off in one
+direction, lies the sparkling sea which surrounds this island and not far
+off in the opposite direction, is the heavy plant life which grows up to the
+tall Mountain before you.  
+~
+0 524288 3
+D2
+~
+~
+0 0 10839
+D3
+~
+~
+0 0 10841
+S
+#10841
+Sancrist Bay~
+Stretching north over the waters of the Sirrion Sea, is a wooden dock
+which seems to be the only way on and off this island.  As you stand here,
+sand starts to fill your boots making it seemingly difficult to walk
+through.  Perhaps you'd better start moving before you sink right through
+the beach, never again to be seen.  
+~
+0 524288 3
+D0
+~
+~
+0 0 10844
+D1
+~
+~
+0 0 10840
+D3
+~
+~
+0 0 10800
+S
+#10842
+On a wooden dock~
+Stretching upon the Sirrion Sea, you stand on a wooden dock which leads
+on and off this island.  Going north will take you to the heavy currents of
+the churning waters and going south, will take you to the sandy beaches of
+this island which surround Mt Nevermind.  Better hurry, for examining these
+docks more closely, they don't look to be very sturdy, with its wood
+already rotting away.  
+~
+0 0 2
+D0
+~
+~
+0 0 10843
+D2
+~
+~
+0 0 10800
+S
+#10843
+On a wooden dock~
+You step onto a wooden dock.  Looking north, the Sirrion Sea twists and
+turns with the force of Zeboim.  Waves crash up against the dock, splashing
+you a little with it's salty water.  Looking south, a Large and vast
+mountain can be seen.  It appears to be the great Mt Nevermind, the dead
+Volcano which Gnomes call home.  To the west, the Dock continues on to where
+a Minotaur Captain pulls in his great Galleon to ferry passengers across the
+Sirrion Sea to Palanthas.  
+~
+0 0 2
+D2
+~
+~
+0 0 10842
+D3
+~
+~
+0 0 3164
+S
+#10844
+On a wooden dock~
+Stretching upon the Sirrion Sea, you stand on a wooden dock which leads
+on and off this island.  Going north will take you to the heavy currents of
+the churning waters and going south, will take you to the sandy beaches of
+this island which surround Mt Nevermind.  Better hurry, for examining these
+docks more closely, they don't look to be very sturdy, with its wood
+already rotting away.  
+~
+0 0 2
+D0
+~
+~
+0 0 10845
+D2
+~
+~
+0 0 10841
+S
+#10845
+On a wooden dock~
+You step onto a wooden dock.  Looking north, the Sirrion Sea twists and
+turns with the force of Zeboim.  Waves crash up against the dock, splashing
+you a little with it's salty water.  Looking south, a Large and vast
+mountain can be seen.  It appears to be the great Mt Nevermind, the dead
+Volcano which Gnomes call home.  Looking off to the east, it appears this is
+where one would load up onto a ship to sail off to Palanthas.  However, the
+only ship you see, is a massive one which appears to be docked a little ways
+out in the water, leaving the only way to get off of hear is with your own
+boat or to fly.  
+~
+0 0 2
+D1
+~
+~
+0 0 1660
+D2
+~
+~
+0 0 10844
+S
+#10846
+Inside the gates of Mt. Nevermind~
+You stand just inside the great Gates of Mt.  Nevermind.  A Volcano, long
+since dead and inhabited by the always thinking, always creating, always
+inventing Gnomes.  The unpleasant smell of Steam fills your nose and clouds
+your vision somewhat.  The sounds of metal clanking against metal as well as
+a few gibbering Gnomish voices echo off the walls and into your ears. 
+Mechanical devices moving, gears turning and the occasional scream of a
+Gnome reminds you of some freakish experiment gone bad.  The sounds get
+louder heading east and seem to, somewhat, go away further out west, through
+the massive Gates which stand before you.  
+~
+0 262152 1
+E
+west~
+The Great Gates of Mt Nevermind lie open in front of you, offering a way
+out of this crazy place.  
+~
+D1
+~
+~
+0 0 10847
+D3
+~
+~
+0 0 10819
+S
+#10847
+Inside Mt. Nevermind~
+Deeper and deeper into the tunnels of this extravagant Mountain you go. 
+Heading west will take you to the gates which lead out of this place and
+going east will take you into the Gnomish lifestyle.  You can also make out
+a small tunnel which leads down, with a small sign posted right next to the
+entrance.  
+~
+0 262152 1
+D1
+~
+~
+0 0 1659
+D3
+~
+~
+0 0 10846
+D5
+~
+~
+0 0 10848
+S
+#10848
+To the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  Looking further down, the tunnels go deeper and deeper. 
+~
+0 8 0
+D4
+~
+~
+0 0 10847
+D5
+~
+~
+0 0 10849
+S
+#10849
+To the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  Looking further down, the tunnels go deeper and deeper. 
+~
+0 8 0
+D4
+~
+~
+0 0 10848
+D5
+~
+~
+0 0 10850
+S
+#10850
+To the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  Looking further down, the tunnels go deeper and deeper. 
+~
+0 8 0
+D4
+~
+~
+0 0 10849
+D5
+~
+~
+0 0 10851
+S
+#10851
+Near the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  You may hike up towards the top, or perhaps take your
+chances going even deeper into the tunnels.  
+~
+0 8 0
+D1
+~
+~
+0 0 10852
+D4
+~
+~
+0 0 10850
+S
+#10852
+Near the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  Heading west will bring you out and going east brings
+you further into the depths of the tunnels.  
+~
+0 8 0
+D1
+~
+~
+0 0 10853
+D3
+~
+~
+0 0 10851
+S
+#10853
+Near the Deep Tunnels~
+You appear to be walking in a tunnel filled with green moss.  The
+moss appears to be lighting up the cave just enough to give you a good look
+as to where your going, without a torch.  The smell of something burning, a
+new invention the gnomes created or perhaps the entire Mountains themselves,
+fill you nostrils.  Heading west will bring you out and going east brings
+you further into the depths of the tunnels.  
+~
+0 8 0
+D1
+~
+~
+0 0 10854
+D3
+~
+~
+0 0 10852
+S
+#10854
+In front of the Deep Tunnel Gates~
+In front of you is the gate which leads into the Deep Tunnels of Mt. 
+Nevermind.  There is an old Gnome standing before you, known as the
+Gatekeeper.  On certain occasions he will be available to you for advice
+during your explorations in the uncharted tunnels deep below Mount
+Nevermind.  Before the gate is a sign, which perhaps you'd better read
+before entering, or perhaps you should turn back before it's too late.  
+~
+0 8 0
+E
+north~
+You see before you a large gate, however trying to get through it with
+out reading the sign first would be a mistake on your behalf, for this old
+Gatekeeper doesn't look to excited to be down here watching a gate.  
+~
+D0
+~
+~
+0 0 10855
+D3
+~
+~
+0 0 10853
+S
+#10855
+The Deep Tunnels~
+You are in the first part of the Deep Tunnels.  Behind you is the Gate,
+but that is NOT an option.  The stale air in here gives no hint of a
+"better" direction to choose.  It's up to you!  
+~
+0 532492 1
+D1
+~
+~
+0 0 10857
+D3
+~
+~
+0 0 10856
+S
+#10856
+The Deep Tunnels~
+Back to the east is a small cavity with a Gate at the end.  Looking
+around you can make out a small hole dug in the floor, with the top of a
+ladder protruding out from with-in.  
+~
+0 532492 1
+D1
+~
+~
+0 0 10855
+D5
+~
+~
+0 0 10858
+S
+#10857
+The Deep Tunnels~
+---- The sides of the tunnel are supported by fresh beams that look
+reliable enough.  You notice a hook in the beam next to you.  To the west is
+a small cavity with a Gate at the end.  To the south is another tunnel, not
+very different from this one.  
+~
+0 532492 1
+D2
+~
+~
+0 0 10862
+D3
+~
+~
+0 0 10855
+S
+#10858
+The Deep Tunnels~
+You are at the beginning of a low Tunnel, leading north and again back up
+a ladder.  The air down here is as stale as it was up above, but there is a
+hint of light at what appears to be the end of the Tunnel.  
+~
+0 532492 1
+D0
+~
+~
+0 0 10859
+D4
+~
+~
+0 0 10856
+S
+#10859
+The Deep Tunnels~
+As you walk closer to the source of the dim light, you notice a change in
+the air.  It's not stale anymore, although it can hardly be described as
+"fresh".  Cautiously, you peek around a bend in the tunnel.  A cave opens up
+before you, with walls covered with some kind of thick fungus which seems to
+be giving off the dim light, just enough to provide visibility throughout
+the cave.  A small heap of something lies on the floor in the middle of the
+cave.  Two exits are visible in the opposite wall.  
+~
+0 532492 1
+D1
+~
+~
+0 0 10861
+D2
+~
+~
+0 0 10860
+S
+#10860
+The Deep Tunnels~
+You walk away from the heap into a long and narrow passage, where you
+have to duck frequently to avoid obstacles from the ceiling.  As you crawl
+under a huge boulder, you hear a faint noise from ahead.  Carefully, you
+move closer to an opening in the wall, and risk a quick peek around the
+corner.  The roar from the draconian that was hiding in there makes your
+skin crawl.  Your newfound enemy throws a large stone at you, but your
+reflexes are good enough to dodge it.  'There must be a way out!  ' you say
+to yourself, but the only realistic option is the tunnel ahead -and the
+Draconian stands between you and it...  Of course, you could always try to
+bribe your way out.  
+~
+0 532492 1
+S
+#10861
+The Deep Tunnels~
+As you squeeze through a narrow entrance, a small sound from above is
+suddenly not that small anymore.  The large boulder falling upon you marks
+the end of your adventures - which is a pity, since the heap of gold in the
+next, adjacent room is enough to buy Mt.  Nevermind.  
+~
+0 12 0
+S
+#10862
+The Deep Tunnels~
+The floor here is covered with debris, and you watch your steps very
+carefully as you proceed through the tight turns of the tunnel.  You step
+through what has possibly once been a door and yelps when a voice thunders
+through the corridor.  You turn your head this way and that, trying to
+locate the owner of the voice -to no avail.  You try to turn back and run
+away, but your legs are numb...  Petrified, you try frantically to find
+some...  Thing to which the booming voice might belong.  -Something
+nice-looking, for preference.  Somehow you haven't noticed the large
+cupboard by the left wall until now.  It's quite big.  
+~
+0 532492 1
+D2
+~
+~
+0 0 10863
+S
+#10863
+The Deep Tunnels~
+When you leave the cupboard behind you, the voice follows you from a
+distance, cursing you and calling you names.  Suddenly, a bright light
+surrounds you, blinds you, and you feel a shiver through your body.  As the
+light disappears, you are able to see again.  You do not, however, recognize
+anything you see...  You are standing in a clearly lit room.  The walls are
+far apart, and made in some bluish metal that gleams in the light.  In the
+middle of the room is a large...  Thing, which you very cautiously walk up
+to, all the time prepared to run away from whatever it is.  Where you would
+run TO is an open question, since the walls appear to be solid, without any
+openings at all.  
+~
+0 524300 1
+S
+#10864
+The Deep Tunnels~
+You enter the machine, leaving your footprints in the dust that covers
+everything.  There are no signs of anyone having been around for ages...  As
+you find the main control room, you see five levers that possibly operates
+the machine.  
+They are marked:
+1 - [Main Ignition]
+2 - [Brakes]
+3 - [Pressure Control]
+4 - [Ignite Boiler]
+5 - [Track Operation] 
+In What Order do you operate the levers? 
+Order 1 - 1,2,3,4,5
+Order 2 - 1,3,4,2
+Order 3 - 4,1,3,5,2
+Order 4 - 4,3,1,2,5
+Order 5 - 4,1,3,2
+~
+0 524300 1
+S
+#10865
+The Deep Tunnels~
+Proving your skill as an Gnomish Engineer, you have operated the levers in
+the only sequence that will not blow everything into small pieces of searing
+hot metal, and have thus earned the right to call yourself Certified
+Nevermind Junior Operator of Mechanical Devices and Contraptions [CNJOMDC]
+Congratulations!  
+~
+0 524300 1
+S
+#10866
+The Deep Tunnels~
+The world goes fuzzy for a second, and You feel a quick, falling
+sensation.  As suddenly as it started, it is gone, and You find yourself in
+another cave -this one even larger than the one You just left.  There's
+something in Your hand.  Closer examination show it to be Your new
+Certificate as Junior Operator, and after a short admiring look at it, You
+tuck it away in a pocket.  You notice that you are surrounded by four
+caskets, each made from black marble and polished almost beyond shiny.  Do
+You chose The one making You feel comfortable or The one that makes You feel
+cold or The one making You feel uncomfortable or The fourth one 
+~
+0 524300 0
+S
+#10867
+The Deep Tunnels - Junior Operator~
+While it makes You feel clearly uncomfortable, this casket draws Your
+attention in a way that none of the other does, and as You touch it, the
+other three disappears.  Oh, well.  Nothing much to do about Your choice
+now, then.  The air above the casket shimmers, and an image appears in front
+of You.  "You are an Engineer", intones the vision.  "If this is truly so,
+then You will be able to solve my riddle with little or no effort."  The
+Image is very clear for an instant, and You back away, horrified at the
+sight.  "Otherwise, You will be mine to enjoy..!"  "Now, answer me this:"
+"How many Gnomes does it take to change a light bulb?"  
+Make Your choice: 
+1. One, and five more to fend off any committee trying to help!
+2. A Committee, and the chairman's nephew (for experience points)!
+3. We'll have the kender put it back in!
+4. Just Me!
+~
+0 524300 1
+S
+#10868
+The Deep Tunnels - Junior Operator~
+Of course!  It is important to know that the Committee, whatever else it
+may be, is there to support You in Your work and provide You with their
+valuable experience.  It is equally important to know when to ask for their
+assistance!  You have passed Your first test as an Engineer, and even as you
+read this, Your colleagues are performing the time-honored preparations for
+adding Your name in the Mt Nevermind Junior Engineer's Guild Ledger.  (As
+soon as they agree about how the quill should be sharpened).  
+~
+0 532492 1
+D0
+~
+~
+0 0 10870
+S
+#10869
+The Deep Tunnels - Junior Operator~
+"The answer is good" comes the visions voice.  "Unfortunately, it is also
+wrong."  "Would You be so kind as to remove Your clothes, please.  I hate it
+when the threads get caught between my teeth!"  Your scream of anguish is
+loud enough to be overheard several chambers away, chilling the blood of
+other Gnomes taking their test, ever to be part of their nightmares.  
+~
+0 525324 0
+S
+#10870
+{RThe Deep Tunnels - Junior Operator{x ~
+In front of You are Four doors.  They all lead to the same location, but
+take different routes.  Choose one, and complete the task assigned to you in
+the next room before proceeding.  Remember - An Engineer should be master of
+any situation.  To the north lies a Black door, to the east a Green door, to
+the west a blue door and to the south a red door.  
+~
+0 532492 1
+E
+north~
+You see a Black Door
+~
+E
+east~
+You see a Green Door
+~
+E
+west~
+You see a Blue Door
+~
+E
+south~
+You see a Red Door
+~
+D0
+~
+~
+0 0 10871
+D1
+~
+~
+0 0 10872
+D2
+~
+~
+0 0 10874
+D3
+~
+~
+0 0 10873
+S
+#10871
+The Deep Tunnels - Junior Operator~
+You are behind the Black Door, which has just slammed shut behind you. 
+Before proceeding, You will prepare Yourself for the often dangerous life of
+the Mt Nevermind Junior Engineer.  This includes working late hours, making do
+with cold coffee because the kitchen is closed, keeping your calm in
+critical situations (such as explosions), and being able to aid your fellow
+Gnomes after these explosions.  
+~
+0 532492 1
+D1
+~
+~
+0 0 10875
+S
+#10872
+The Deep Tunnels - Junior Operator~
+Your foot is caught in some kind of Gnomish invention.  You can't go
+anywhere!  
+~
+0 524300 1
+S
+#10873
+The Deep Tunnels - Junior Operator~
+In this room are two platforms.  One is marked "Experimental - Don't
+Touch!"  The other has a faded label from which you can make out the words
+"Pull .....  Down and .........."  
+~
+0 524300 1
+S
+#10874
+The Deep Tunnels - Junior Operator~
+You enter the vast chamber, and walk carefully along the ridge that
+criss-crosses the place.  From your vantage point you guess that it is at
+least a fifty-foot fall should you loose your footing.  There is a platform
+in the center of the chamber, and some ten minutes later you have found your
+way to it, having had a close call on free flight a couple of times getting
+here.  In the center of the platform is a hole, with an old stepladder
+disappearing down the darkness.  An odd feeling make you turn and look
+behind you, where the walls are closing in on you.  You decide to climb down
+the ladder, at least to get your head below the danger.  
+~
+0 532492 1
+D5
+~
+~
+0 0 10854
+S
+#10875
+The Deep Tunnels - Junior Operator~
+You see before you 3 statues.  One marble statue of an ancient Gnome
+looking up, One chalk statue of a Unicorn facing east and One metal statue
+of an Ogre facing north.  Each of the statues have a pair of handles, and
+there is no doubt that they are placed to help you get on top of the statues
+to get out of here.  Which statue do you climb?  
+~
+0 532492 1
+D0
+~
+~
+0 0 10854
+D1
+~
+~
+0 0 10872
+D4
+~
+~
+0 0 10876
+S
+#10876
+The Deep Tunnels - Junior Operator~
+Quoting your Mechanics teacher, "Nothing beats a Gnome -except possibly a
+committee" you use the handles on the statue of the Gnome to climb to it's
+shoulders, and find a fairly comfortable seat there.  Unsure of what to do
+now, since nothing unpleasant seems to be happening, you begin to examine
+the statue more carefully.  In the back of the statue's head is a small
+green button, and no matter how hard you look you can't find anything else
+that should not be on a statue.  Bracing yourself, you push the button.  
+~
+0 532492 1
+D3
+~
+~
+0 0 10877
+S
+#10877
+The Deep Tunnels - Junior Operator~
+The Gnome statue starts to rumble, and You wonder briefly how it will
+feel to be in the very center of an explosion.  Your ponderings are
+interrupted by a wheezing voice from the statue: "You are the first person
+to choose correctly in fifteen years.  I congratulate Your skill to reach a
+correct conclusion based on very little facts."  The enormous head turns to
+face you, and a thin sheet of paper comes out from a wrinkle in its
+forehead, accompanied by a rattling sound.  "Do not loose this report!  It
+is proof that You are eligible for taking the tests to become Senior
+Operator, so keep it safe!"  You take the paper, smooth it out over the
+brow of the statue, and read it.  It's the real thing, no doubt about it. 
+By accident, you have selected the correct route to this room, and are one
+of a very small number of People to have the opportunity to make it all the
+way to Senior Operator.  And only yesterday, you were cleaning tables for a
+living...  
+~
+0 532492 1
+E
+north~
+You see a very large metal door.
+~
+D0
+~
+~
+0 0 10854
+S
+#10878
+The Deep Tunnel - Junior Operator~
+- S P L A T !  - You're dead.  You have used a faulty teleporter, and are
+now securely stuck in a 'you-shaped' hole in the mountain, severely
+hampering any movement - as well as breathing...  
+~
+0 12 0
+S
+#10879
+The Deep Tunnels - Junior Operator~
+A bright flash blinds you for an instant, and when you are able to see
+again, vision is hardly necessary.  In front of you is a heap of clothes, a
+few scattered pearls, and an incredible smell.  "Mine!  Buggr'ff!"  Yelps
+the heap, and you realize that it's just a Gully Dwarf.  It grabs as many
+pearls as it can reach, and disappears in a cloud of smoke.  
+~
+0 524300 1
+D5
+~
+~
+0 0 10854
+S
+#10880
+Inside Mt. Nevermind~
+Deeper and deeper into the tunnels of this extravagant Mountain you go. 
+Heading west will take you to the gates which lead out of this place and
+going east will take you into the Gnomish lifestyle.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10881
+D3
+~
+~
+0 0 1659
+S
+#10881
+Inside the Mountain~
+Deeper and deeper into the tunnels of this extravagant Mountain you go. 
+Heading west will take you to the gates which lead out of this place and
+going east will take you into the Gnomish lifestyle.  The further you head
+east, the louder the sites and sounds of Gnomes hard at work come to your
+ears.  What appears to be the beginning of a street lies east and to your
+west lies the great Gates of Mt Nevermind.  
+~
+0 262152 5
+D1
+~
+~
+0 0 10882
+D3
+~
+~
+0 0 10880
+S
+#10882
+Intersection of Tinker and Committee Street~
+You have come to an intersection in these vast streets beneath the
+mountain.  Heading north or south will lead you onto Committee street and
+going east will take you down Tinker street.  Going out west will take you
+out of this large, dead Volcano.  One thing that amazes you to no end, is
+how clean these streets are.  To your surprise, they're not littered with
+junk tossed out by Gnomes who had no need for the stuff in creating their
+inventions.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10897
+D1
+~
+~
+0 0 10883
+D2
+~
+~
+0 0 10936
+D3
+~
+~
+0 0 10881
+S
+#10883
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10884
+D3
+~
+~
+0 0 10882
+S
+#10884
+At an intersection on Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets. 
+You also find yourself standing at some sort of intersection.  However,
+looking north and south, all you are able to see are dark alleys instead of
+more, heavily lighted streets.  Better have brought some sort of light
+source if you plan to venture down them, for it could be one wild,
+unforgettable ride.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10945
+D1
+~
+~
+0 0 10885
+D2
+~
+~
+0 0 10948
+D3
+~
+~
+0 0 10883
+S
+#10885
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10886
+D3
+~
+~
+0 0 10884
+S
+#10886
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10887
+D3
+~
+~
+0 0 10885
+S
+#10887
+At an intersection on Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered
+with junk and roaming beggars who do nothing but clutter the streets and
+then ask for a reward of gold just for standing there.  Small torches line
+the large and tall cavernous walls which make up the passage ways for these
+streets.  From both directions of North and South the sounds of merchants
+hustling and bustling can be heard.  Perhaps you should take a gander down
+one of these streets and see what they have to offer.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10951
+D1
+~
+~
+0 0 10888
+D2
+~
+~
+0 0 10954
+D3
+~
+~
+0 0 10886
+S
+#10888
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10889
+D3
+~
+~
+0 0 10887
+S
+#10889
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10890
+D3
+~
+~
+0 0 10888
+S
+#10890
+At an intersection on Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets. 
+You also find yourself standing at some sort of intersection.  However,
+looking north and south, all you are able to see are dark alleys instead of
+more, heavily lighted streets.  Better have brought some sort of light
+source if you plan to venture down them, for it could be one wild,
+unforgettable ride.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10937
+D1
+~
+~
+0 0 10891
+D2
+~
+~
+0 0 10940
+D3
+~
+~
+0 0 10889
+S
+#10891
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10892
+D3
+~
+~
+0 0 10890
+S
+#10892
+Tinker street~
+Down Tinker street you travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets. 
+And looking north, there is a large opening before you, which perhaps is the
+place to go if you wish to travel further UP the mountain, as opposed to
+going down.  Keep your fingers crossed, maybe today the elevator is working
+and you won't have to travel up the long, steep stairwell.  
+~
+0 262152 1
+E
+north~
+It appears to be the way up this large forskaen place.
+~
+D0
+~
+~
+0 0 10967
+D1
+~
+~
+0 0 10893
+D3
+~
+~
+0 0 10891
+S
+#10893
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets. 
+To your north, you see a sign, with a big number one on it.  What could that
+possibly mean?  Perhaps it's the local place of business where all of the
+Gnomes stop to do their banking at.  
+~
+0 262152 1
+E
+north~
+Hey, what do ya know, it's the 1st Financial Bank of Mt Nevermind.
+~
+D0
+~
+~
+0 0 10968
+D1
+~
+~
+0 0 10894
+D3
+~
+~
+0 0 10892
+S
+#10894
+Tinker street~
+Down Tinker street your travel.  The streets are clean, not littered with
+junk and roaming beggars who do nothing but clutter the streets and then ask
+for a reward of gold just for standing there.  Small torches line the large
+and tall cavernous walls which make up the passage ways for these streets.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10895
+D3
+~
+~
+0 0 10893
+S
+#10895
+Intersection at Tinker and Adventure street~
+You find yourself at what has to be, the largest intersection in this
+clean city.  Making quick observations of your surroundings, you can see
+you'll have to go north or south if you wish to travel down Adventure
+street.  Crowds of people can be heard chit chatting to one another.  Going
+west will take you down Tinker street, a well lighted and clean street with
+no beggars standing on the curb trying to squeeze a few gold coins out of
+your purse.  However, if you see any kender, it'd be wise to turn around and
+start walking in the opposite direction.  Immediately to your east, lies a
+large, arched doorway.  The curves appear to be smooth, each side
+symmetrical to each other.  Through the archway, lies the great room of the
+Committee.  A place where Gnomes go to for political matters, but more
+importantly, to be reviewed of their LifeQuests.  It also appears to be a
+place for healing and sacrifices, which are all made in the name of Reorx.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10916
+D1
+~
+~
+0 0 10896
+D2
+~
+~
+0 0 10917
+D3
+~
+~
+0 0 10894
+S
+#10896
+the Committee Room~
+Welcome fellow adventurer.  You have stumbled upon the Committee room,
+where at least three or more Gnomes, discretely chosen, come to review new
+inventions from which have been created by Gnomes fulfilling their
+LifeQuests.  Being here in the presence of these Gnomes is in itself, an
+honor.  Perhaps, if your lucky enough, one day you might actually get to be
+a part of their "Ultimate Plan".  Looking around, you notice that there's
+only three Gnomes running the committee right now.  Perhaps they're short
+handed and might need help, that is if you have what it takes.  There
+appears to be a sign hanging on the south wall which reads, " Newbies may
+proceed here to begin with their LifeQuests ".  Yes, that means if your a
+newbie, you best be high tailing it south!  
+ 
+(* You may go DOWN to Newbie School if level 5 or below. )
+~
+0 263180 5
+E
+south~
+You will only be able to pass if your lower than level 11.
+~
+D2
+~
+~
+0 0 10974
+D3
+~
+~
+0 0 10895
+D5
+~
+~
+0 0 3700
+S
+#10897
+Committee street~
+You find yourself walking down this wide street, named after the
+almighty Committee.  A team of gnomes who've already, by some miracle,
+completed their lifequest, and are now in charge of making the decision as
+to what new inventions are to be build and inspect the ones that are claimed
+to be completed (although they rarely ever get an approval of completion). 
+Heading on north will take you to a corner in the street and going south
+will take you down to main street.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10898
+D2
+~
+~
+0 0 10882
+S
+#10898
+Committee street~
+You find yourself walking down this wide street, named after the almighty
+Committee.  A team of gnomes who've already, by some miracle, completed
+their lifequest, and are now in charge of making the decision as to what
+new inventions are to be build and inspect the ones that are claimed to be
+completed (although they rarely ever get an approval of completion). 
+Heading on north will take you to a corner in the street and going south
+will take you down to main street.  To the east stands a squat building at
+the front of an immense warehouse.  The sign above reads 'Office of the
+Census'.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10899
+D1
+~
+~
+0 0 10969
+D2
+~
+~
+0 0 10897
+S
+#10899
+Committee street~
+You find yourself walking down this wide street, named after the almighty
+Committee.  A team of gnomes who've already, by some miracle, completed
+their lifequest, and are now in charge of making the decision as to what
+new inventions are to be build and inspect the ones that are claimed to be
+completed (although they rarely ever get an approval of completion). 
+Heading on north will take you to a corner in the street and going south
+will take you down to main street.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10900
+D2
+~
+~
+0 0 10898
+S
+#10900
+Corner of Inventor and Committee street~
+You arrive at the corner of Inventor and Committee street.  However, the
+little gadget that’s posted to serve as a street sign, seems to be spinning
+around very fast.  Remembering what street you just came off of, you realize
+that heading east should take you down Inventor street and heading due south
+will take you down Committee street.  Or was it the other way around?  
+~
+0 262152 1
+D1
+~
+~
+0 0 10901
+D2
+~
+~
+0 0 10899
+S
+#10901
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 10900
+S
+#10902
+Inventor street~
+As walk further down Inventor street, you notice that in this particular
+spot, it appears to be a lot more darker, with only one small torch,
+actually a candle, lighting up your path.  Peering hard and intently into
+the darkness, a small alley way can be seen heading south of you.  Perhaps
+it would be a good idea to get some sort of light source before you head
+down there.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10903
+D2
+~
+~
+0 0 10943
+D3
+~
+~
+0 0 10901
+S
+#10903
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10904
+D3
+~
+~
+0 0 10902
+S
+#10904
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10905
+D3
+~
+~
+0 0 10903
+S
+#10905
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the
+hard working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  Suddenly the sounds of busy merchants wheelin' and
+dealin' come to your ears.  It's coming from directly south of you as you
+listen even more closely.  Perhaps you better break out your gold and head
+on down there to see if there's anything of interest you could purchase.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10949
+D3
+~
+~
+0 0 10904
+S
+#10906
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  Directly to the north of you, lies an entrance to loud
+sounding shop.  Sitting here for a while, will give you a chill that runs up
+and down your spine as an ear piercing, sharp sound comes out.  A sign
+hanging over the door reads: " We've got it all, short, fat, skinny and tall
+".  Well, better to see if there might actually be something useful in there
+than to pass it on by, to realize that you DID have to get something they
+sold there, later on down the road.  
+~
+0 262152 1
+E
+north~
+" Thuntal's Pawn Shop "
+~
+D0
+~
+~
+0 0 10964
+D1
+~
+~
+0 0 10907
+D3
+~
+~
+0 0 10905
+S
+#10907
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10908
+D3
+~
+~
+0 0 10906
+S
+#10908
+Inventor street~
+As walk further down Inventor street, you notice that in this particular
+spot, it appears to be a lot more darker, with only one small torch,
+actually a candle, lighting up your path.  Peering hard and intently into
+the darkness, a small alley way can be seen heading south of you.  Perhaps
+it would be a good idea to get some sort of light source before you head
+down there.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10909
+D2
+~
+~
+0 0 10939
+D3
+~
+~
+0 0 10907
+S
+#10909
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10910
+D3
+~
+~
+0 0 10908
+S
+#10910
+Inventor street~
+Walking down Inventor street you go.  As you stop for a moment, you
+notice a small, crude little hole, serving as an entrance to yet another
+unforgettable shop.  The small doorway seems to have an extreme amount of
+light glowing from within the place.  You also realize that there seems to
+be an exceptionally large amount of torches and candles attached to the
+southern wall, all of them mounted on some sort of finely crafted bronze
+holders.  
+~
+0 262152 1
+E
+south~
+It appears to be a light shop.
+~
+D1
+~
+~
+0 0 10911
+D2
+~
+~
+0 0 10970
+D3
+~
+~
+0 0 10909
+S
+#10911
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call home.  
+~
+0 262152 1
+E
+south~
+It's hard to tell, but could it be the Bard Guild?
+~
+D1
+~
+~
+0 0 10912
+D3
+~
+~
+0 0 10910
+S
+#10912
+Inventor street~
+You find yourself walking down Inventor street.  Named after all the hard
+working Gnomes who's lifequest consists of inventing new and improved
+"things".  Other than the occasional Gnome walking by, there isn't much else
+to see except the torches which light up this dug out tunnel that gnomes
+like to call Home.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10913
+D3
+~
+~
+0 0 10911
+S
+#10913
+Corner of Adventure and Inventor street~
+You arrive at a the corner of two major streets, Inventor and Adventure. 
+To your south, lie the heavily crowded areas of Adventure street.  A street
+which gets it's name from the amount of people who just stand around
+huddled up, discussing of past adventures that each one may have had.  To
+your west, lies Inventor street, named after the hard work and dedication
+each and every Gnome has to his or her LifeQuest to create the Ultimate
+Invention the world has seen.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10914
+D3
+~
+~
+0 0 10912
+S
+#10914
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10913
+D2
+~
+~
+0 0 10915
+S
+#10915
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10914
+D2
+~
+~
+0 0 10916
+S
+#10916
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10915
+D2
+~
+~
+0 0 10895
+S
+#10917
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10895
+D2
+~
+~
+0 0 10918
+S
+#10918
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10917
+D2
+~
+~
+0 0 10919
+S
+#10919
+Adventure street~
+Your walking down a fairly wide street, which by the looks of the hard
+clay that makes up the terrain, it seems to have been walked upon the most. 
+Looking around, many crowds of people seem to be standing around chit
+chatting about previous adventures that they may have came across in the
+past.  It almost makes you want to stop and tell them your story, but there
+doesn't appear to be any room anywhere for you to poke your head into.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10918
+D2
+~
+~
+0 0 10920
+S
+#10920
+Corner of Reorx and Adventure street~
+You come to a corner in the streets.  To your west is the fabled Reorx
+Street, a street named after the mighty God of Forging, the God which all
+Gnomes favor and worship ( for he seems to be the only one who can his
+inventions to work the first time ).  To your North, lies the great
+Adventure street, an area of this city where everyone who's anyone can go
+and sit around, discussing their travels with other fellow adventurers.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10919
+D3
+~
+~
+0 0 10921
+S
+#10921
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10920
+D3
+~
+~
+0 0 10922
+S
+#10922
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  Sounds of metal being
+hammered can be heard coming from the north.  There appears to be a small
+doorway, just big enough for you to squeeze through, with a small shield
+hanging over the top.  The Shield department must be through there.  
+~
+0 262152 1
+E
+north~
+A small shield hangs low, above the small entrance.  Peek in, take a look
+around, it couldn't hurt anything now could it?  
+~
+D0
+~
+~
+0 0 10971
+D1
+~
+~
+0 0 10921
+D3
+~
+~
+0 0 10923
+S
+#10923
+Reorx street~
+A street which was named after the mighty God of Forging, the god which
+all Gnomes favor and worship, this small street was carved out of the
+Volcanic mountain.  Looking around, the street continues heading west and
+east and to your north, lies a small Gnomish INN of some sort, perhaps a
+good place for you to retreat to and rest your tootsies.  
+~
+0 262152 1
+E
+north~
+Hrm, could it be an INN of some sort?  A place where you may retire for
+the night to, to rest your tired soul?  
+~
+D0
+~
+~
+0 0 10972
+D1
+~
+~
+0 0 10922
+D3
+~
+~
+0 0 10924
+S
+#10924
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10923
+D3
+~
+~
+0 0 10925
+S
+#10925
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  You almost feel out of
+place, as if your not worthy to step foot on it, however looking around and
+not seeing anyone watching you, you continue on.  Looking around, you notice
+there's a small entrance leading into a dark alley to the north.  Perhaps
+you could jump down there to hide from any guards which maybe looking for
+you.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10942
+D1
+~
+~
+0 0 10924
+D3
+~
+~
+0 0 10926
+S
+#10926
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  Looking around, you can
+make out a small hole, serving as doorway to a small room.  Directly over
+the top of the door is a painting of a multicolored flame, the symbol of
+Sirrion, god of Creativity.  
+~
+0 262152 1
+E
+south~
+It appears to be the Cleric's Guild!
+~
+D1
+~
+~
+0 0 10925
+D2
+~
+~
+0 0 10973
+D3
+~
+~
+0 0 10927
+S
+#10927
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  You almost feel out of
+place, as if your not worthy to step foot on it, however looking around and
+not seeing anyone watching you, you continue on.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10926
+D3
+~
+~
+0 0 10928
+S
+#10928
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  To your north, the sites
+and sounds of merchants conducting their daily business comes to your ears
+and eyes.  Perhaps you should venture north and check it out, there
+might be something of interest for you.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10952
+D1
+~
+~
+0 0 10927
+D3
+~
+~
+0 0 10929
+S
+#10929
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  You almost feel out of
+place, as if your not worthy to step foot on it, however looking around and
+not seeing anyone watching you, you continue on.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10928
+D3
+~
+~
+0 0 10930
+S
+#10930
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  To your south lies a small
+entrance to some sort of room.  Your not quite sure, but by the picture of a
+wand painted on a wooden sign, hanging over the doorway, you'd think it was
+a place for Mages.  Although Gnomes becoming mages is rarely ever heard of,
+perhaps even they have a place to learn their new spells at.  
+~
+0 262152 1
+E
+south~
+It appears to be the Mages Guild!
+~
+D1
+~
+~
+0 0 10929
+D2
+~
+~
+0 0 10958
+D3
+~
+~
+0 0 10931
+S
+#10931
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  You almost feel out of
+place, as if your not worthy to step foot on it, however looking around and
+not seeing anyone watching you, you continue on.  To the north is a dark
+alley, which may provide some sort of cover if your being hunted down for.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10946
+D1
+~
+~
+0 0 10930
+D3
+~
+~
+0 0 10932
+S
+#10932
+Reorx street~
+Your walking down Reorx street.  A street which was named after the
+mighty God of Forging, the god which all Gnomes favor and worship.  Although
+the rest of the city is clean beyond your standards, this particular street
+is gleaming bright, as mechanical figures constantly go up and down,
+ensuring it is properly swept and washed daily.  You almost feel out of
+place, as if your not worthy to step foot on it, however looking around and
+not seeing anyone watching you, you continue on.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10931
+D3
+~
+~
+0 0 10933
+S
+#10933
+Corner of Committee and Reorx street~
+You find yourself at the corner of Committee and Reorx.  Heading north
+will take you up the to the fabled street, named after the Gnomes special
+team of, painstakingly picked, members who have the hardest job of all. 
+Heading east will take you down the street named after the almighty God
+Reorx, the one and only God that gnomes worship and follow.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10934
+D1
+~
+~
+0 0 10932
+S
+#10934
+Committee street~
+You find yourself walking down this wide street, named after the almighty
+Committee.  A team of gnomes who've already, by some miracle, completed
+their lifequest, and are now in charge of making the decision as to what
+new inventions are to be build and inspect the ones that are claimed to be
+completed (although they rarely ever get an approval of completion). 
+Heading north, will take you back to the main street and going south will
+take you down committee, eventually leading to the corner of Committee and
+Reorx.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10935
+D2
+~
+~
+0 0 10933
+S
+#10935
+Committee street~
+You find yourself walking down this wide street, named after the almighty
+Committee.  A team of gnomes who've already, by some miracle, completed
+their lifequest, and are now in charge of making the decision as to what
+new inventions are to be build and inspect the ones that are claimed to be
+completed (although they rarely ever get an approval of completion). 
+Heading north, will take you back to the main street and going south will
+take you down committee, eventually leading to the corner of Committee and
+Reorx.  Before you head out though, an opening to the east is visible.  It
+appears to a place of training, where all races and guild members are
+welcome to increase their knowledge and power.  And by the sounds of people
+screaming coming from within, it seems like they're doing it the hard way. 
+Well, better that than nothing at all.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10936
+D1
+~
+~
+0 0 10957
+D2
+~
+~
+0 0 10934
+S
+#10936
+Committee street~
+You find yourself walking down this wide street, named after the almighty
+Committee.  A team of gnomes who've already, by some miracle, completed
+their lifequest, and are now in charge of making the decision as to what
+new inventions are to be build and inspect the ones that are claimed to be
+completed (although they rarely ever get an approval of completion). 
+Heading north, will take you back to the main street and going south will
+take you down committee, eventually leading to the corner of Committee and
+Reorx.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10882
+D2
+~
+~
+0 0 10935
+S
+#10937
+Down a dark alley~
+You find yourself walking down a dark and narrow alley.  No torches light
+the area to show you the way through.  Perhaps you better off walking at a
+fast pace through here, else you might get mugged, or worse, KILLED.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10938
+D2
+~
+~
+0 0 10890
+S
+#10938
+Down a dark alley~
+You find yourself walking down a dark and narrow alley.  No torches light
+the area to show you the way through.  Perhaps you better off walking at a
+fast pace through here, else you might get mugged, or worse, KILLED.  Barely
+visible through the thickness of the dark shadows, there appears to be a
+small hole, serving as a passageway off to your west.  Directly above the
+entrance, a black mask has been nailed up, with only two small eye holes cut
+out, the sign of the Master Assassin.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10939
+D2
+~
+~
+0 0 10937
+D3
+~
+~
+0 0 10965
+S
+#10939
+Down a dark alley~
+You find yourself walking down a dark and narrow alley.  No torches light
+the area to show you the way through.  Perhaps you better off walking at a
+fast pace through here, else you might get mugged, or worse, KILLED.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10908
+D2
+~
+~
+0 0 10938
+S
+#10940
+Down a dark alley~
+You find yourself walking down a dark alley.  To the north, light can be
+clearly seen and looking south, more darkness lies waiting.  Although dark,
+your source of light still shines through most of the shadows, proving to be
+empty.  However, to your west a door, wide open, can be seen.  A dim light
+shines from within as if what or whomever is in there, only has one small
+torch.  There appears to be some sort of writing scribbled into the wall.  
+~
+0 262153 1
+E
+wall~
+It reads: Forallwholiketoseethingsglowinginthedarkpleasecomein.
+~
+D0
+~
+~
+0 0 10890
+D2
+~
+~
+0 0 10941
+D3
+~
+~
+0 0 10966
+S
+#10941
+Down a dark alley~
+You find yourself walking down a dark and narrow alley.  No torches light
+the area to show you the way through.  Perhaps you better off walking at a
+fast pace through here, else you might get mugged, or worse, KILLED.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10940
+D2
+~
+~
+0 0 10942
+S
+#10942
+Down a dark alley~
+You find yourself walking down a dark and narrow alley.  No torches light
+the area to show you the way through.  Perhaps you better off walking at a
+fast pace through here, else you might get mugged, or worse, KILLED.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10941
+D2
+~
+~
+0 0 10925
+S
+#10943
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  To the north, it
+appears to get a little more brighter and heading south, only points to more
+darkness.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10902
+D2
+~
+~
+0 0 10944
+S
+#10944
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  Not completely
+sure, you think you can make out a small hole to your west.  Perhaps you
+should walk in and find out.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10943
+D2
+~
+~
+0 0 10945
+D3
+~
+~
+0 0 10956
+S
+#10945
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  To the south of
+you, bright light lies ahead welcoming you to it's warmth however, to the
+north it appears that the darkness has taken over.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10944
+D2
+~
+~
+0 0 10884
+S
+#10946
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  Peering south, you
+can vaguely make out the a few lighted torches and the shine emanating from
+the great Reorx street.  Heading north will take you directly into the
+continuing darkness.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10947
+D2
+~
+~
+0 0 10931
+S
+#10947
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10948
+D2
+~
+~
+0 0 10946
+S
+#10948
+A dark alley~
+You find yourself walking down a dark alley.  No torches or glowing moss
+can be seen lying around to give you at least some sort of idea where your
+going at what it is that feels mushy beneath your feet.  Gazing to the
+north, there appears to be light shining forth.  And yet to the south,
+darkness claims victor over all.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10884
+D2
+~
+~
+0 0 10947
+S
+#10949
+Merchant's row~
+Walking down a small alley, Gnomes clutter the streets, passing you by
+with arms full of newly bought items.  A few Merchants can be seen selling
+items of all types.  One particular thing that catches your eyes, is how
+well groomed the streets appear to be.  No beggars coming up to you and
+trying to swindle you out of a few gold coins and no pesky animals pawing at
+your feet to get a few scraps of food.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10905
+D2
+~
+~
+0 0 10950
+S
+#10950
+Merchant's row~
+Walking down a small alley, Gnomes clutter the streets, passing you by
+with arms full of newly bought items.  A few Merchants can be seen selling
+items of all types.  One particular thing that catches your eyes, is how
+well groomed the streets appear to be.  No beggars coming up to you and
+trying to swindle you out of a few gold coins and no pesky animals pawing at
+your feet to get a few scraps of food.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10949
+D2
+~
+~
+0 0 10951
+S
+#10951
+Merchant's row~
+You find yourself walking down an small alley off to the side of the main
+road.  Many Gnomes pass you by, arms filled with newly bought items. 
+Looking to the east, you notice a small passage way leading into a small
+shop with a sign hanging over the door.  Looking west, again, you notice a
+sign hanging over the doorway, leading to another small shop.  
+~
+0 262153 1
+E
+west~
+Gristhle's Clothing Store - The right wear for that tear!
+~
+E
+east~
+WolfsBane's Protection Dept. - Toecaps to helmets, from Teak to Mith!
+~
+D0
+~
+~
+0 0 10950
+D1
+~
+~
+0 0 10961
+D2
+~
+~
+0 0 10887
+D3
+~
+~
+0 0 10962
+S
+#10952
+Merchant's row~
+Walking down a small alley, Gnomes clutter the streets, passing you by
+with arms full of newly bought items.  A few Merchants can be seen selling
+items of all types.  One particular thing that catches your eyes, is how
+well groomed the streets appear to be.  No beggars coming up to you and
+trying to swindle you out of a few gold coins and no pesky animals pawing at
+your feet to get a few scraps of food.  Looking at the gaping wide entrance
+to the west, a large painting of some mechanical devise, gives you the idea
+that perhaps through there lies the Tinkerers' Guild.  
+~
+0 262153 1
+D0
+~
+~
+0 0 10953
+D1
+~
+~
+0 0 10959
+D2
+~
+~
+0 0 10928
+S
+#10953
+Merchant's row~
+Walking down a small alley, Gnomes clutter the streets, passing you by
+with arms full of newly bought items.  A few Merchants can be seen selling
+items of all types.  One particular thing that catches your eyes, is how
+well groomed the streets appear to be.  No beggars coming up to you and
+trying to swindle you out of a few gold coins and no pesky animals pawing at
+your feet to get a few scraps of food.  The distinct smell of a home cooked
+meal comes to play as you wander down this busy street.  There's an oval
+shaped hole directly to the west.  Perhaps you can go in there to get a bite
+to eat.  
+~
+0 262153 1
+E
+west~
+" All you can eat buffet!  Goes while supplies last, so hurry on in and
+grab a chair " 
+~
+D0
+~
+~
+0 0 10954
+D2
+~
+~
+0 0 10952
+D3
+~
+~
+0 0 10960
+S
+#10954
+Merchant's row~
+Walking down a small alley, Gnomes clutter the streets, passing you by
+with arms full of newly bought items.  A few Merchants can be seen selling
+items of all types.  One particular thing that catches your eyes, is how
+well groomed the streets appear to be.  No beggars coming up to you and
+trying to swindle you out of a few gold coins and no pesky animals pawing at
+your feet to get a few scraps of food.  Looking at the large sign hanging
+over the doorway to the west, there's a large painting depicting a worm on a
+hook.  Hrm, now what could that possibly mean?  Perhaps you should run in
+and find out for yourself.  
+~
+0 262153 1
+E
+west~
+Send a thief to catch a thief! Why not rent your own?
+~
+D0
+~
+~
+0 0 10887
+D2
+~
+~
+0 0 10953
+D3
+~
+~
+0 0 1637
+S
+#10955
+A Good for nothing Room~
+This room will have to be burned and pillaged sometime.  Don't have much
+time right now, because a lot has to be done with this item, since the item
+here is in another room, a room which it needs to remain in a NOPURGE
+status.  
+~
+0 266252 1
+S
+#10956
+Inside a dark hole~
+You seemed to have walked into a small, dark hole.  Looking around you
+notice that there seems to be a small amount of light poking through from
+another hole leading down.  There appears to be a ladder of some sort which
+will take you down.  However, not knowing what awaits below, you'd rather
+not dare enter unless of course you are a thief, for this appears to be a
+place for thieves to go for practicing.  
+~
+0 262153 1
+D1
+~
+~
+0 0 10944
+D5
+~
+~
+0 0 1655
+S
+#10957
+Fusoyung's Training Room~
+You appear to have walked into Mt Nevermind's one and only training room. 
+A room filled with an assortment of objects collected from around the world.
+Standing here waiting patiently, is Fusoyung, the master trainer for all of
+Mt Nevermind.  His primary LifeQuest is to aid you in your physical and
+mental abilities, preparing you for your future adventures.  
+~
+0 263176 1
+D3
+~
+~
+0 0 10935
+S
+#10958
+Mages Galore~
+A large sign posted on the wall immediate to your right reads: " Welcome
+Mages of all robes and races ".  Standing here with his hands folded inside
+his white robe is the famed Gnome Mage, Thergin.  As you enter into this
+place of magic, the scent of roses and perfumes fill your nostrils.  Small
+herbs and plants hang of the walls behind him, as well as a few potion
+bottles lying on a large wooden table.  A small wooden desk with a chair
+attached to it appears before you, as you walk towards Thergin for your
+training.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10930
+S
+#10959
+The Bestestspotforinventing!~
+Welcome fellow Tinkerers.  You find yourself in a room filled with tables
+covered with potions, gadgets and an assortment of small little devices
+you've yet to figure out what they do.  Behind one of the desks stands a
+pudgy little Gnome, holding a beaker in one hand and some sort of small
+device held together by nuts, bolts and screws.  As you walk in expecting to
+be immediately seated by some whacky seating invention, your surprised to find
+that there's no place to sit except on the floor.  The Gnome puts his things
+down and stands here waiting patiently to show you your next lesson in
+tinkering with explosives, or so you think.  
+~
+0 262152 1
+D3
+~
+~
+0 0 10952
+S
+#10960
+Rosco's Steak and Waffles~
+There appears to be only one large table, placed directly in the center
+of the room, with one waitress walking at a high pace back and forth from
+the kitchen, bringing plates full of food in and empty plates out.  Looking
+for a place to sit, you finally see one way at the end open up.  However,
+it's quickly taken by a hungry customer before you can even begin to move
+towards it.  Almost like playing musical chairs, you give up on finding a
+place to sit and decide your best off just getting something to go.  The
+already busy waitress walks up and asks what you'd like to order.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10953
+S
+#10961
+Wolfsbane's Protection Dept.~
+You have found your way into a small shop heavily loaded with protective
+items.  The ceiling is low, and only one torch lights the room up, but it's
+enough light for you to still see.  A small Gnomish man stands in the corner
+of the shop, pounding out his latest invention on an anvil.  Looking around
+at the various items on display, it'd be almost worth interrupting him to
+purchase something.  
+~
+0 262152 1
+D3
+~
+~
+0 0 10951
+S
+#10962
+Gristhle's clothing store~
+Large racks of clothes and other miscellaneous furnishings hang all
+around you, as you find yourself standing in the middle of a clothing store.
+A small, middle aged woman is walking around, inspecting each and every
+article of clothing in the store.  Perhaps, if you ask nicely, she may sell
+you something that she may be hiding in the back room, for what’s out here on
+display doesn't seem suitable enough for your specific tastes.  
+~
+0 262152 1
+D1
+~
+~
+0 0 10951
+S
+#10963
+PET STORAGE~
+It holds small pets
+~
+0 32780 1
+S
+#10964
+The Pawn Shop~
+As you walk in, the first thing you notice is the large spider dangling
+from the ceiling.  After closer examination, it appears to be some sort of
+mechanical spider, long since abandoned from use.  Weird objects and devices
+hang all about the room, but being in a Gnome shop, it doesn't come to you
+as a surprise.  There's no desk to be seen, let alone an area that’s not
+cluttered with junk to put one at.  A small door in the back room opens up,
+possibly operated by steam, and out comes a small, stout Gnome from within. 
+Almost immediately detecting your presence, he starts looking around,
+counting each and every object in the room, as if he thinks you may have
+swiped something off his shelves while he wasn't looking.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10906
+S
+#10965
+An Assassin's Hideout~
+You have walked into a dark room, with the slight smell of incense
+burning and a light glow coming from the north-west corner of the room, where
+a little patch of moss grows.  Aside from it's, barely visible source of
+light, your only true means of having the ability to see what lurks around
+you, is the light of which you carry.  Without any warning or notice, a
+fairly tall, thin man is standing before you, with a dagger to your throat. 
+Realizing your not an intruder and have no outstanding contracts on your
+head, he grins and offers you his service of becoming a great master
+assassin like himself.  
+~
+0 8201 0
+D1
+~
+~
+0 0 10938
+S
+#10966
+The Inner Glow~
+You have walked into a small shop, not lit up by one small torch as you
+had previously assumed, but rather covered completely from ceiling to floor,
+wall to wall with some sort of greenish glowing moss.  There's a small Gnome
+standing behind a counter, with the top made of hard wood, and the frame
+filled with an assortment of glowing gems and rocks encased in glass. 
+~
+0 262152 1
+D1
+~
+~
+0 0 10940
+S
+#10967
+Stair room to the upper levels~
+You have stumbled up a set of stairs which lead up, further into the
+Mountains volcanic top.  Somewhere you had heard that these Gnomes use an
+elevator to travel up and down, but for some reason you can't seem to find
+it.  Oh well, guess it's time to find out just how well your legs work. 
+Looking up is just like looking up at the sky, when the Dark Moon, Nuitari
+is at his prime, Black and endless.  
+~
+0 262152 5
+D2
+~
+~
+0 0 10892
+D4
+~
+~
+0 0 1602
+S
+#10968
+Nevermind 1st Financial Bank~
+You have stumbled upon Nevermind's bank, this mountain's only means of
+keeping an accurate account of it's wealth.  You'll rarely find Gnomes
+coming in here, for the need of gold is almost obsolete.  Instead, the
+Gnomes rely on the resources of the Mountain for supplies.  Gold is only
+needed for those rare occasions in which a Gnome must travel outside the
+mountain to obtain crucial information to complete his or her LifeQuest. 
+You may deposit any amount of gold or silver you wish to get of and it shall
+be kept safe, away from any thieving fingers.  
+~
+0 1310728 5
+D2
+~
+~
+0 0 10893
+S
+#10969
+The Census-taker's Office~
+This massive warehouse houses the records of every gnome that has been
+born or died since the founding of Mt.  Nevermind.  A labyrinthine series of
+aisles meander through enough parchment to wallpaper the entire city of
+Palanthas.  Also home to the Genealogy Committee, a mass of gnomes can be
+heard bustling about sorting and resorting records by name, guild,
+Lifequest, and every other category one could think of.  Every so often,
+after sorting things into insensibility, fresh copies are made and the whole
+process begins anew.  At the front of the room, a large stack of
+applications for citizenship stands ready to be filled out in triplicate
+under the watchful eye of the Census-taker.  
+ 
+*A large SIGN has been posted next to the front desk*
+~
+0 262152 1
+E
+sign~
+{x /--\__________________________________/--\
+{x! oo !                                !    !
+{x \__/----------------------------------\__/
+{x    |                                    |
+{x    |        {yWelcome to Mt. Nevermind{x    |
+{x    |                                    |
+{x    |  {rIf you wish to become a Citizen{x   |
+{x    |{rof Mt. Nevermind you must first make{x|
+{x     \  {rSure you have 5,000 steel coins.{x \
+{x      \                                   \
+{x      | {rThen simply tell me you want{x       |
+{x      |     {rto live in Mt. Nevermind{x       |
+{x      |                                    |
+{x      | {r[{GHint{r: Using the SAY cmd, say:]{x    |
+{x      |{yI wish to live in Mt. Nevermind{x     |
+{x      |                                    |
+{x      /--\______________________________/--\
+{x     ! oo !                            !    !
+{x      \__/------------------------------\__/
+~
+D3
+~
+~
+0 0 10898
+S
+#10970
+Shazam's Lighting Fixtures~
+As you walk in, your breath is seems to have been taken away.  Almost
+blinding, the room is cluttered with candles, light staves, lanterns and
+about anything else you can think of that provides a source of light.  The
+room feels very hot with so many candles and shines with the brightness of a
+thousand suns.  Almost impossible to see, as you squint your eyes, a short
+man appears to be lighting yet another candle off in the corner behind a
+desk.  Surely he wouldn't have a problem selling you one of his fabulous
+creations.  
+~
+0 262152 1
+D0
+~
+~
+0 0 10910
+S
+#10971
+Zaggi's Shield Dept.~
+You find yourself standing in some sort of metal shop, surrounded by
+shields and a few pieces or other type of armor.  Standing in the corner of
+this high temperature room, is a short little Gnome forming out a piece of
+raw steel into a shining bright new shield.  After a careful examination of
+some of his displays, your reassured that the shields which he makes exceed
+beyond most knights requirements.  Perhaps it wouldn't be a bad idea to
+purchase one and try it out for yourself.  
+~
+0 262152 1
+D2
+~
+~
+0 0 10922
+S
+#10972
+The Shortguydiditagain Inn~
+A large sign reads: "
+WelcometotheShortguydiditagainInnwewelcomealltocomeandstayforthenightaftera-
+latourcurrentratespernightyoudbeafoolnotoothefeeforonenightisfreethatsright-
+folksfreenowwhileroomslast ".  
+Standing behind a small desk, sits an old Gnome reading a book. There's a
+set of stairs leading up, perhaps you should go up and check to see if
+there's any more available rooms left.
+~
+0 263176 1
+D2
+~
+~
+0 0 10923
+D4
+~
+~
+0 0 1639
+S
+#10973
+Temple of the Living Flame~
+Welcome, fellow clerics!  Before you is a small shrine, lit by an
+ever-burning golden flame, built to honor and pay respects to Sirrion, God
+of Creativity and Passion.  Standing here with her head bowed in prayer is a
+slim, small woman dressed in robes of red and gold.  She looks up and smiles
+at you as you bless her with your presence.  A feeling of warmth and comfort
+overcomes you as make your way further into this room of clerical power. 
+Please, sit down and make yourself at home and if your feeling frisky, the
+healer here will aid you in the training of your special attributes.
+~
+0 8650760 38
+D0
+~
+~
+0 0 10926
+M 200 H 200
+S
+#10974
+Entrance to the Arena~
+You are standing at the entrance to an Arena.  You may proceed through
+while still young, to advance and better train your abilities.  However,
+train them well now, for after you reach maturity, you will no longer be
+allowed to come here and will have to search elsewhere in the world for the
+proper training.  May your travels and adventures come safe and have fun. 
+Kill as much as you like, the blood can never overflow in the Arena.  
+~
+0 131084 5
+D2
+~
+~
+0 0 10975
+S
+#10975
+North-Western wall of the Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10974
+D1
+~
+~
+0 0 10976
+D2
+~
+~
+0 0 10992
+D4
+~
+~
+0 0 10896
+S
+#10976
+Northern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10977
+D3
+~
+~
+0 0 10975
+D4
+~
+~
+0 0 10896
+S
+#10977
+Northern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10978
+D2
+~
+~
+0 0 10994
+D3
+~
+~
+0 0 10976
+D4
+~
+~
+0 0 10896
+S
+#10978
+Northern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10979
+D2
+~
+~
+0 0 10993
+D3
+~
+~
+0 0 10977
+D4
+~
+~
+0 0 10896
+S
+#10979
+Northern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10980
+D3
+~
+~
+0 0 10978
+D4
+~
+~
+0 0 10896
+S
+#10980
+North-eastern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D2
+~
+~
+0 0 10981
+D3
+~
+~
+0 0 10979
+D4
+~
+~
+0 0 10896
+S
+#10981
+Eastern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10980
+D2
+~
+~
+0 0 10982
+D3
+~
+~
+0 0 10993
+D4
+~
+~
+0 0 10896
+S
+#10982
+Eastern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10981
+D2
+~
+~
+0 0 10983
+D3
+~
+~
+0 0 10998
+D4
+~
+~
+0 0 10896
+S
+#10983
+Eastern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10982
+D2
+~
+~
+0 0 10984
+D3
+~
+~
+0 0 10999
+D4
+~
+~
+0 0 10896
+S
+#10984
+Southern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10983
+D3
+~
+~
+0 0 10985
+D4
+~
+~
+0 0 10896
+S
+#10985
+Southern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10999
+D1
+~
+~
+0 0 10984
+D3
+~
+~
+0 0 10986
+D4
+~
+~
+0 0 10896
+S
+#10986
+Southern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10985
+D3
+~
+~
+0 0 10987
+D4
+~
+~
+0 0 10896
+S
+#10987
+Southern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 1600
+D1
+~
+~
+0 0 10986
+D3
+~
+~
+0 0 10988
+D4
+~
+~
+0 0 10896
+S
+#10988
+Southern Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 0
+D1
+~
+~
+0 0 10987
+D3
+~
+~
+0 0 10989
+D4
+~
+~
+0 0 10896
+S
+#10989
+Western Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10990
+D1
+~
+~
+0 0 10988
+D4
+~
+~
+0 0 10896
+S
+#10990
+Western Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10991
+D1
+~
+~
+0 0 1601
+D2
+~
+~
+0 0 10989
+D4
+~
+~
+0 0 10896
+S
+#10991
+Western Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10992
+D1
+~
+~
+0 0 10996
+D2
+~
+~
+0 0 10990
+D4
+~
+~
+0 0 10896
+S
+#10992
+Western wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10975
+D1
+~
+~
+0 0 10995
+D2
+~
+~
+0 0 10991
+D4
+~
+~
+0 0 10896
+S
+#10993
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10978
+D1
+~
+~
+0 0 10981
+D2
+~
+~
+0 0 10998
+D3
+~
+~
+0 0 10994
+D4
+~
+~
+0 0 10896
+S
+#10994
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10977
+D1
+~
+~
+0 0 10993
+D2
+~
+~
+0 0 10997
+D3
+~
+~
+0 0 10995
+D4
+~
+~
+0 0 10896
+S
+#10995
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10994
+D3
+~
+~
+0 0 10992
+D4
+~
+~
+0 0 10896
+S
+#10996
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D1
+~
+~
+0 0 10997
+D3
+~
+~
+0 0 10991
+D4
+~
+~
+0 0 10896
+S
+#10997
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10994
+D1
+~
+~
+0 0 10998
+D2
+~
+~
+0 0 1600
+D3
+~
+~
+0 0 10996
+D4
+~
+~
+0 0 10896
+S
+#10998
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10993
+D1
+~
+~
+0 0 10982
+D2
+~
+~
+0 0 10999
+D3
+~
+~
+0 0 10997
+D4
+~
+~
+0 0 10896
+S
+#10999
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena,
+just go up.  Ceilings can barely be seen in this huge Arena.  You feel as if
+you are being watched by some divine being.  
+~
+0 131080 5
+D0
+~
+~
+0 0 10998
+D1
+~
+~
+0 0 10983
+D2
+~
+~
+0 0 10985
+D3
+~
+~
+0 0 1600
+D4
+~
+~
+0 0 10896
+S
+#0
+
+
+
+#SPECIALS
+M 10809 spec_poison
+M 10810 spec_fido
+M 10811 spec_nasty
+M 10819 spec_guard
+M 10823 spec_breath_any
+M 10887 spec_mayor
+M 10896 spec_cast_adept
+M 10958 spec_cast_mage
+M 10959 spec_cast_adept
+M 10969 spec_hometownchanger
+M 10973 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 10809 3 10801 1
+M 0 10811 6 10804 1
+M 0 10811 6 10807 1
+M 0 10809 3 10809 1
+M 0 10811 6 10811 1
+M 0 10823 2 10817 1
+M 0 10819 4 10819 2
+E 0 10830 0 13
+E 0 10831 0 5
+E 0 10832 0 11
+E 0 10833 0 15
+E 0 10834 0 20
+M 0 10823 2 10823 1
+M 0 10811 6 10827 1
+M 0 10811 6 10834 1
+M 0 10809 3 10836 1
+M 0 10811 6 10839 1
+O 0 10845 0 10845
+M 0 10819 4 10846 2
+E 0 10830 0 13
+E 0 10831 0 5
+E 0 10832 0 11
+E 0 10833 0 15
+E 0 10834 0 20
+O 0 10847 0 10847
+M 0 10854 1 10854 1
+O 0 10854 0 10854
+M 0 10860 1 10860 1
+O 0 10861 0 10861
+O 0 10863 0 10863
+M 0 10864 1 10864 1
+O 0 10849 0 10865
+O 0 10850 0 10866
+O 0 10851 0 10866
+O 0 10852 0 10866
+O 0 10853 0 10866
+M 0 10867 1 10867 1
+O 0 10873 0 10873
+O 0 10870 0 10873
+M 0 10877 1 10877 1
+O 0 10879 0 10879
+M 0 10810 4 10886 1
+G 0 10829 0
+M 0 10887 1 10887 1
+E 0 10835 0 5
+G 0 10836 0
+O 0 10895 0 10895
+M 0 10896 1 10896 1
+M 0 10890 1 10896 1
+M 0 10891 1 10896 1
+O 0 10896 0 10896
+O 0 10955 0 10955
+M 0 10957 1 10957 1
+M 0 10958 1 10958 1
+M 0 10959 1 10959 1
+M 0 10953 1 10960 1
+G 0 10888 0
+G 0 10889 0
+G 0 10990 0
+G 0 10991 0
+G 0 10992 0
+M 0 10961 1 10961 1
+G 0 10962 0
+G 0 10963 0
+G 0 10964 0
+G 0 10965 0
+G 0 10966 0
+G 0 10967 0
+G 0 10968 0
+G 0 10837 0
+M 0 10962 1 10962 1
+G 0 10956 0
+G 0 10957 0
+G 0 10958 0
+G 0 10959 0
+G 0 10960 0
+G 0 10961 0
+M 0 10954 1 10963 1
+M 0 10964 1 10964 1
+G 0 10890 0
+G 0 10891 0
+G 0 10892 0
+G 0 10893 0
+G 0 10894 0
+M 0 10965 1 10965 1
+M 0 10966 1 10966 1
+G 0 10884 0
+G 0 10885 0
+G 0 10886 0
+G 0 10887 0
+M 0 10968 1 10968 1
+M 0 10969 1 10969 1
+M 0 10970 1 10970 1
+G 0 10880 0
+G 0 10881 0
+G 0 10882 0
+G 0 10883 0
+M 0 10971 1 10971 1
+G 0 10974 0
+G 0 10975 0
+G 0 10976 0
+G 0 10977 0
+G 0 10978 0
+M 0 10972 1 10972 1
+M 0 10973 1 10973 1
+O 0 10973 0 10973
+M 0 10984 3 10977 1
+M 0 10986 6 10980 1
+M 0 10983 10 10983 1
+M 0 10984 3 10984 1
+M 0 10986 6 10986 1
+M 0 10983 10 10988 1
+M 0 10983 10 10994 1
+S
+
+
+
+#SHOPS
+10953 0 0 0 0 19 100 100 3 21
+10961 0 0 0 0 9 100 100 0 23
+10962 0 0 0 0 9 100 100 0 23
+10964 0 0 0 0 15 100 100 0 23
+10966 0 0 0 0 32 100 100 0 23
+10970 0 0 0 0 1 100 100 0 23
+10971 0 0 0 0 9 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#10810
+echo You hear strange noises as you make your final blow. KABOOM! The blasted thing actually works and explodes into nothing.
+mob cast 'high explosive' $n
+~
+#10853
+say Payheedtothesignandifyoudidntreadittoobad.
+mob echo $n The Gate guard makes sure you obey the laws.
+mob force $n drop all
+mob echoat $n The Gate guard pushes you into the tunnels.
+mob transfer $n 10855
+~
+#10854
+say Hello
+~
+#10857
+mob transfer $n 10854
+~
+#10858
+if hastarget $i
+say Give me 5 steel coinsssss, and I shall let you live to see another day.
+break
+endif
+~
+#10859
+if isimmort $n
+bow $n
+break
+else
+if level $n <= 101
+say Perhapssssss you shoulddd come back when your strongerrrrr.
+snarl $n
+mob remember $n
+mob delay 2
+break
+endif
+endif
+~
+#10860
+bonk $n
+say Tryagain,withalittlemoreenthusiasimthistimewillya?
+~
+#10861
+emote sings,  'Andbingowashisnamo'.
+mob echoat $n Congratulations, you pulled the levers in the right order.
+handshake $n
+mob transfer $n 10865
+~
+#10862
+say Nope, not that one!
+mob transfer $n 10854
+~
+#10863
+say Wrong, Wrong, Wrong!!!
+bonk $n
+mob echoat $n A stream of hot air blows by, knocking you away.
+mob echoaround $n $n has been blown away by a stream of hot air.
+mob transfer $n 10854
+~
+#10864
+say Wrong answer!!!
+mob echoat $n You have been sent back to the Gatekeeper!
+mob echoaround $n $n hit the wrong levers and disappears.
+mob transfer $n 10854
+~
+#10866
+say Aww....too bad $n.
+mob transfer $n 10869
+~
+#10867
+say Outstanding $n!
+mob transfer $n 10868
+~
+#10877
+if carries $n report senior
+mob echoat $n You already have a report, and do not need another.
+break
+else
+mob oload 10877
+give report $n
+say Donotloosethisreportitisproofthatyouareeligiblefortakingthetest!
+endif
+~
+#10890
+smile $n
+say Nice to meet you but I must get back to work.
+shake
+say So much work, so little time.
+~
+#10891
+say Not now $n! Leave me alone and go bother someone else!
+say I have important paperwork to do and no time for horse play.
+emote puts his head down and continues to work.
+~
+#10958
+if class $n mage
+say Welcome young $n, how may I aid you?
+break
+else
+say I'm sorry, you don't belong here!
+mob echoat $n Thergin utters a few words and you disappear from his site.
+mob echoaround $n Thergin utters a few arcane words and suddenly $n disappears from your site.
+mob trans $n 10930
+endif
+endif
+~
+#10959
+if class $n blacksmith
+say Welcome $n and please don't mind the mess.
+break
+else
+mob transfer $n 10952
+endif
+endif
+~
+#10965
+if class $n assassin
+say Welcome future assassin! I am here to solely to aid you in our art of stealth and technique.
+break
+else
+mob echo The Master Assassin's eyes widen up.
+say Do not come in here again $n, else there will be a price on your head!
+mob echoat $n The Master Assassin pushes you out of his face.
+mob transfer $n 10938
+endif
+endif
+~
+#10972
+if isimmort $n
+mob echo With his head still down in his book....
+say I don't really think you need a place to sleep now do you?
+break
+else
+if level $n <= 101
+mob echoat $n With his head still down in his book...
+say Rooms are free, go to the top of the stairs and grab any available
+   room. The maid will be through in the morning, so please be gone before then.
+endif
+endif
+~
+#10973
+if class $n cleric
+smile
+say Welcome my child. Please, make yourself at home and allow me to help you.
+break
+else
+say I'm sorry, but you do not have Mishakal's blessings.
+mobechoat $n The Cleric shoots forth a beam of light, sending you away        from her presence
+mob echoaround $n The Cleric shoots a beam of light from her palms, sending         $n reeling back out of the room.
+mob trans $n 10926
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

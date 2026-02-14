@@ -1,0 +1,1932 @@
+#AREADATA
+Name Khalkist Mountains~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 14201 14299
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#14264
+aruak draconian~
+an Aurak draconian~
+A large Aurak stands before you, arms crossed in an aggressive manner.
+~
+The most powerful and rarest of Draconians are the Auraks.  Created
+from Gold Dragon eggs, they inherited some of the Gold Dragon's magical
+power.  This particular male specie has bright golden scales, as if polished
+every day to give it that heavy luster.  On his head and back, spines jut
+out.  His eyes are an obsidian color, as dark as evil itself.  He has a very
+short tail and no wings to fly with.  He adorns very few garments, as
+Draconians are very protected by their scales.  
+~
+draconian~
+ABR HOVc -1000 0
+90 90 181d30+1819 90d10+85 30d3+50 magic
+-51 -51 -51 -32
+AEFHN BPQ CEHK 0
+stand stand male 2500
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+F res M
+M DEATH 14264 100~
+#14269
+sivak draconian sivak guard~
+A Sivak Draconian Guard~
+A large Sivak Draconian stands here, guarding the stronghold from intruders.
+~
+These draconians are the largest and most elite of all draconian species. 
+They have large wings, enabling them to fly like a dragon.  Although they
+are large in size, this in no way, lowers their intellect like Ogres.  They
+wear no armor, only bracelets around their limbs and tail for decoration. 
+The only piece of clothing they wear is a long cape around their neck.  
+~
+draconian~
+ABFT OTcd -1000 0
+95 95 191d31+1919 95d10+85 31d3+52 claw
+-54 -54 -54 -35
+DEHKMNO Q BEI 0
+stand stand male 2500
+AHMV ABCDEFGHJKPQUVWX L unknown 0
+F imm P
+F res M
+M DEATH 14269 100~
+#0
+
+
+
+#OBJECTS
+#14223
+sign~
+a sign~
+A large sign has been posted here.~
+unknown~
+trash O 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Neraka---------> North
+Sanction-------> West
+Silvanesti-----> South
+Danger---------> East
+~
+#14257
+decayed marble water fountain~
+a decayed marble water fountain~
+A decayed, moss covered water fountain trickles out a little water.~
+marble~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#14269
+large sivak two handed barbed sword~
+a Sivak two-handed sword~
+A large, two-handed sword with barbed notches on its back edge lies here.~
+steel~
+weapon BJTY 0 ANZ
+sword 8 12 cleave F
+98 10 1000 P
+#14278
+corrupted dark lance~
+a {Ddark{mlance{x~
+A corrupted darklance catches your eye.~
+ebony~
+weapon BEJLSTa 0 ANZ
+polearm 12 10 pierce BD
+100 10 500 P
+A
+18 5
+A
+19 7
+A
+4 -1
+A
+3 -1
+A
+1 -1
+A
+2 -1
+A
+12 20
+A
+13 50
+E
+darklance~
+Darklances are simply Dragonlance corrupted by the same evil that
+corrupted good dragon eggs into Draconians.  Darklances are made in a dark
+ceremony that involves an evil wizard (either black-robe or Thorn Knight)
+and a priest (Skull Knights or clerics of Takhisis).  It is said that
+Darklances cannot be created, but can be corrupted.  The heads of these
+lances are sharpened with a sharp edge, with barbs protruding from the
+sides.  The silver of the Dragonlance appears tarnished, and is awful to
+look upon.  These lances are cold to the touch.
+~
+E
+dark~
+Darklances are simply Dragonlance corrupted by the same evil that
+corrupted good dragon eggs into Draconians.  Darklances are made in a dark
+ceremony that involves an evil wizard (either black-robe or Thorn Knight)
+and a priest (Skull Knights or clerics of Takhisis).  It is said that
+Darklances cannot be created, but can be corrupted.  The heads of these
+lances are sharpened with a sharp edge, with barbs protruding from the
+sides.  The silver of the Dragonlance appears tarnished, and is awful to
+look upon.  These lances are cold to the touch.  
+~
+E
+lance~
+Darklances are simply Dragonlance corrupted by the same evil that
+corrupted good dragon eggs into Draconians.  Darklances are made in a dark
+ceremony that involves an evil wizard (either black-robe or Thorn Knight)
+and a priest (Skull Knights or clerics of Takhisis).  It is said that
+Darklances cannot be created, but can be corrupted.  The heads of these
+lances are sharpened with a sharp edge, with barbs protruding from the
+sides.  The silver of the Dragonlance appears tarnished, and is awful to
+look upon.  These lances are cold to the touch.  
+~
+O GET 14278 100~
+#0
+
+
+
+#ROOMS
+#14201
+Before the Eastern Gates of Sanction~
+The City of Sanction will be coming SOON!  So, some day when you walk
+over here, there will be a great big city in your way.  Please be patient.  
+~
+0 0 2
+D1
+~
+~
+0 0 14202
+D3
+~
+~
+0 0 4878
+S
+#14202
+A Mountain Trail~
+You find yourself in a valley of some sort which runs in between the large
+Khalkist mountain range.  The mountains reach high up into the clouds.  The
+sounds of wild mountain lions can be heard, roaring into the cool mountain
+breeze.  Little vegetation grows around here, just a few blades of tall
+grass growing at the base.  As high up as you can see, the mountain's sides
+appear to be constructed solely of large, sharp rock.  The trail continues on
+to the north narrowly through the rough terrain.  To the west, the city
+gates of Sanction can barely be seen.  
+~
+0 0 5
+D0
+~
+~
+0 0 14203
+D3
+~
+~
+0 0 14201
+S
+#14203
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The trail continues on narrowly to the north and south through the rough
+terrain.  
+~
+0 0 5
+D0
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14202
+S
+#14204
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the south and to the east,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14205
+D2
+~
+~
+0 0 14203
+S
+#14205
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14206
+D3
+~
+~
+0 0 14204
+S
+#14206
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14207
+D3
+~
+~
+0 0 14205
+S
+#14207
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the north and to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14208
+D3
+~
+~
+0 0 14206
+S
+#14208
+A Mountain Trail~
+The Khalkist mountains stretch high up into the clouds on either side of
+you, as you travel through a valley like trail in between them.  The sounds
+of nature fill the cool, crisp air.  Birds chirping, mountain lions roaring,
+and various other wildlife making their own distinct sounds.  The air is
+very clean here, free of the toxic smells produced by large cities.  The
+trail continues on to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14209
+D2
+~
+~
+0 0 14207
+S
+#14209
+A Mountain Trail~
+The Khalkist mountains stretch high up into the clouds on either side of
+you, as you travel through a valley like trail in between them.  The sounds
+of nature fill the cool, crisp air.  Birds chirping, mountain lions roaring,
+and various other wildlife making their own distinct sounds.  The air is
+very clean here, free of the toxic smells produced by large cities.  The
+trail continues on to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14210
+D2
+~
+~
+0 0 14208
+S
+#14210
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14211
+D2
+~
+~
+0 0 14209
+S
+#14211
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14212
+D3
+~
+~
+0 0 14210
+S
+#14212
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the north and to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14211
+S
+#14213
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14214
+D2
+~
+~
+0 0 14212
+S
+#14214
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the north and to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14215
+D3
+~
+~
+0 0 14213
+S
+#14215
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14216
+D2
+~
+~
+0 0 14214
+S
+#14216
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14217
+D3
+~
+~
+0 0 14215
+S
+#14217
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the west and to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14216
+S
+#14218
+A Mountain Trail~
+The Khalkist mountains stretch high up into the clouds on either side of
+you, as you travel through a valley like trail in between them.  The sounds
+of nature fill the cool, crisp air.  Birds chirping, mountain lions roaring,
+and various other wildlife making their own distinct sounds.  The air is
+very clean here, free of the toxic smells produced by large cities.  The
+trail continues on to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14219
+D2
+~
+~
+0 0 14217
+S
+#14219
+A Mountain Trail~
+The Khalkist mountains stretch high up into the clouds on either side of
+you, as you travel through a valley like trail in between them.  The sounds
+of nature fill the cool, crisp air.  Birds chirping, mountain lions roaring,
+and various other wildlife making their own distinct sounds.  The air is
+very clean here, free of the toxic smells produced by large cities.  The
+trail continues on to the north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14220
+D2
+~
+~
+0 0 14218
+S
+#14220
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+the east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14221
+D2
+~
+~
+0 0 14219
+S
+#14221
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14222
+D3
+~
+~
+0 0 14220
+S
+#14222
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14221
+S
+#14223
+Check Point Charlie~
+The mountainous trail splits off into four different directions here.  A
+large sign posted in the soft mossy dirt, can barely be made out.  Mountains
+continue to loom all around you, their steep slopes a for sure sign of
+massiveness.  The tips of the mountains travel so high up, not even the tops
+of them can be seen, as they appear to be hiding in the clouds.  
+~
+0 0 5
+D0
+~
+~
+0 0 14224
+D1
+~
+~
+0 0 14238
+D3
+~
+~
+0 0 14222
+S
+#14224
+A Mountain Trail~
+The trail here appears to widen, as it continues making it's way in
+between the massive Khalkist mountains.  It is rumored that the great evil
+city of Neraka lies to the north.  Very few distinct animal sounds can be
+heard.  It is almost as if goblins inhabit this area, with it being so
+quiet.  The air feels a little heavy, with an awful musky smell to it.  The
+trail continues on to the north and to the south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14225
+D2
+~
+~
+0 0 14223
+S
+#14225
+A Mountain Trail~
+Few sounds can be heard here.  The dead like air is enough to send chills
+down the spine of a rugged barbarian.  Looking up, the sky has an unnatural
+darkness to it, nearly covering up all the mountains, leaving little light
+to even see the remainder of the trail of which you travel upon.  A slight
+wind blows from the north, its odor is that of death and decay, an evil and
+foul smell which could choke an elf to death, and drive a kenders'
+curiosity to near madness.  
+~
+0 0 5
+D0
+~
+~
+0 0 14226
+D2
+~
+~
+0 0 14224
+S
+#14226
+A Mountain Trail~
+Few sounds can be heard here.  The dead like air is enough to send chills
+down the spine of a rugged barbarian.  Looking up, the sky has an unnatural
+darkness to it, nearly covering up all the mountains, leaving little light
+to even see the remainder of the trail of which you travel upon.  A slight
+wind blows from the north, it's odor is that of death and decay, an evil and
+foul smell which could choke an elf to death, and drive a kender’s
+curiosity to near madness.  
+~
+0 0 5
+D0
+~
+~
+0 0 14227
+D2
+~
+~
+0 0 14225
+S
+#14227
+A Mountain Trail~
+The scent of death and decay travels along with the wind, blowing
+steadily from out of the northerly direction.  An unnatural darkness
+surrounds you, leaving little enough light to make heads or tails out of the
+trail of which you travel upon.  Looking down, the appearance of blood
+splattered all over the road gives a horrifying view.  The trail continues
+south and west.  
+~
+0 0 5
+D2
+~
+~
+0 0 14226
+D3
+~
+~
+0 0 14228
+S
+#14228
+A Mountain Trail~
+The scent of death and decay travels along with the wind, blowing
+steadily from out of the northerly direction.  An unnatural darkness
+surrounds you, leaving little enough light to make heads or tails out of the
+trail of which you travel upon.  Looking down, the appearance of blood
+splattered all over the road gives a horrifying view.
+The trail continues north and east.
+~
+0 0 5
+D0
+~
+~
+0 0 14229
+D1
+~
+~
+0 0 14227
+S
+#14229
+A Mountain Trail~
+Few sounds can be heard here.  The dead like air is enough to send chills
+down the spine of a rugged barbarian.  Looking up, the sky has an unnatural
+darkness to it, nearly covering up all the mountains, leaving little light
+to even see the remainder of the trail of which you travel upon.  A slight
+wind blows from the north, it's odor is that of death and decay, an evil and
+foul smell which could choke an elf to death, and drive a kender’s'
+curiosity to near madness.  
+~
+0 0 5
+D0
+~
+~
+0 0 14230
+D2
+~
+~
+0 0 14228
+S
+#14230
+A Mountain Trail~
+Few sounds can be heard here.  The dead like air is enough to send chills
+down the spine of a rugged barbarian.  Looking up, the sky has an unnatural
+darkness to it, nearly covering up all the mountains, leaving little light
+to even see the remainder of the trail of which you travel upon.  A slight
+wind blows from the north, it's odor is that of death and decay, an evil and
+foul smell which could choke an elf to death, and drive a kender’s'
+curiosity to near madness.  
+~
+0 0 5
+D0
+~
+~
+0 0 14231
+D2
+~
+~
+0 0 14229
+S
+#14231
+A Mountain Trail~
+The scent of death and decay travels along with the wind, blowing
+steadily from out of the northerly direction.  An unnatural darkness
+surrounds you, leaving little enough light to make heads or tails out of the
+trail of which you travel upon.  Looking down, the appearance of blood
+splattered all over the road gives a horrifying view.  The trail continues
+on to the east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14232
+D2
+~
+~
+0 0 14230
+S
+#14232
+A Mountain Trail~
+The scent of death and decay travels along with the wind, blowing
+steadily from out of the northerly direction.  An unnatural darkness
+surrounds you, leaving little enough light to make heads or tails out of the
+trail of which you travel upon.  Looking down, the appearance of blood
+splattered all over the road gives a horrifying view.  The trail continues
+north and west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14233
+D3
+~
+~
+0 0 14231
+S
+#14233
+A Mountain Trail~
+The dirt tracks on the ground are covered with blood.  The smell of death
+and decay is overwhelming here, the musky odor being carried by the wind
+from the north, traveling down this narrow trail between the Khalkist
+Mountains.  There isn't any visible living vegetation growing along the sides
+of the trail.  The only noise rustling past your ears is that made from the
+gusts of wind.  The trail continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14234
+D2
+~
+~
+0 0 14232
+S
+#14234
+A Mountain Trail~
+The dirt tracks on the ground are covered with blood.  The smell of death
+and decay is overwhelming here, the musky odor being carried by the wind
+from the north, traveling down this narrow trail between the Khalkist
+Mountains.  There isn't any visible living vegetation growing along the sides
+of the trail.  The only noise rustling past your ears is that made from the
+gusts of wind.  The trail continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14235
+D2
+~
+~
+0 0 14233
+S
+#14235
+A Mountain Trail~
+The dirt tracks on the ground are covered with blood.  The smell of death
+and decay is overwhelming here, the musky odor being carried by the wind
+from the north, traveling down this narrow trail between the Khalkist
+Mountains.  There isn't any visible living vegetation growing along the sides
+of the trail.  The only noise rustling past your ears is that made from the
+gusts of wind.  The trail continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14234
+S
+#14236
+A Mountain Trail~
+The dirt tracks on the ground are covered with blood.  The smell of death
+and decay is overwhelming here, the musky odor being carried by the wind
+from the north, traveling down this narrow trail between the Khalkist
+Mountains.  There isn't any visible living vegetation growing along the sides
+of the trail.  The only noise rustling past your ears is that made from the
+gusts of wind.  The trail continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 14237
+D2
+~
+~
+0 0 14235
+S
+#14237
+Before the Great City of Neraka~
+The smell of something or someone dead fills the air, nearly choking you.
+To the north lies the great evil city of Neraka.  The outer part of the city
+is in crumbles.  It is said to be a graveyard, a hideout for the
+Dragonarmies of Takhisis.  Looking south, the Khalkist mountains tower high
+into the clouds.  A small trail cuts through the middle of them, leading to
+other parts of krynn, away from the evil city of death.  
+~
+0 0 4
+D0
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 14236
+S
+#14238
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+west and to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 14239
+D3
+~
+~
+0 0 14223
+S
+#14239
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+north and to the east.  
+~
+0 0 5
+D0
+~
+~
+0 0 14238
+D1
+~
+~
+0 0 14240
+S
+#14240
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+west and to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 14241
+D3
+~
+~
+0 0 14239
+S
+#14241
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+north and to the east.  
+~
+0 0 5
+D0
+~
+~
+0 0 14240
+D1
+~
+~
+0 0 14242
+S
+#14242
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14243
+D3
+~
+~
+0 0 14241
+S
+#14243
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14244
+D3
+~
+~
+0 0 14242
+S
+#14244
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14245
+D3
+~
+~
+0 0 14243
+S
+#14245
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+north and to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14246
+D3
+~
+~
+0 0 14244
+S
+#14246
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14247
+D2
+~
+~
+0 0 14245
+S
+#14247
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+north and to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 14248
+D3
+~
+~
+0 0 14246
+S
+#14248
+A Mountain Trail~
+Deep in between the Khalkist mountains the trail bends around a sharp
+corner.  An abundance of mountainous wildlife sounds, echo throughout the
+crisp, clean air.  Looking up the steep sides, silvery birches, sugar maples
+and lofty pines scratch the brilliant blue sky.  The trail continues on to
+east and to the south.  
+~
+0 0 5
+D1
+~
+~
+0 0 14249
+D2
+~
+~
+0 0 14247
+S
+#14249
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14250
+D3
+~
+~
+0 0 14248
+S
+#14250
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14251
+D3
+~
+~
+0 0 14249
+S
+#14251
+A Mountain Trail~
+The towering Khalkist mountains loom high up into the clouds on either
+side of you.  It's sharp, rocky sides run nearly straight up and down,
+offering only death to those foolish enough to even attempt to climb it. 
+The rough and narrow trail trudges on to the east and to the west,
+zigzagging through the rough terrain.  
+~
+0 0 5
+D1
+~
+~
+0 0 14252
+D3
+~
+~
+0 0 14250
+S
+#14252
+Before a Draconian Stronghold~
+Build tightly in between these vast mountains, lies a small Draconian
+stronghold.  There appears to even be a small moat surrounding it, however,
+the draw bridge does not appear to be in working condition judging by the
+heavy amounts of corrosion eating through the metal chain links.  Lucky for
+you the bridge is down, allowing passage into the stronghold.  
+~
+0 0 5
+D1
+~
+~
+0 0 14253
+D3
+~
+~
+0 0 14251
+S
+#14253
+Inside a Draconian Stronghold~
+You stand inside a mighty fortress of the Draconians.  At first glance,
+it would almost appear to be uninhabited, however, burning torches set in
+holders bolted to the walls, would prove otherwise.  The walls, in contrast,
+are plain black stone, polished to a glossy sheen which seems to soak up the
+flickering torchlight.  The smooth rock arches up to a perfect semi-circular
+stone ceiling upon which a great battle scene is painted.  Tapestries and
+paintings line the walls, but these have fallen into disrepair at the hands
+of the Draconian occupants.  The exit out lies to the west.  Corridor's lie
+to the north, south and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 14254
+D1
+~
+~
+0 0 14256
+D2
+~
+~
+0 0 14255
+D3
+~
+~
+0 0 14252
+S
+#14254
+Inside a Draconian Stronghold~
+The walls here are lined with paintings of Dragons and battles with
+Dragons.  In the later it always appears the Dragons are winning.  The
+floors are constructed from an obsidian cobblestone, cemented at even
+intervals.  A large ladder rests against the western wall, heading up into a
+guard tower.  The corridor heads north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14273
+D2
+~
+~
+0 0 14253
+D4
+~
+~
+0 0 14275
+S
+#14255
+Inside a Draconian Stronghold~
+The walls here are lined with paintings of Dragons and battles with
+Dragons.  In the later it always appears the Dragons are winning.  The
+floors are constructed from an obsidian cobblestone, cemented at even
+intervals.  A large ladder rests against the western wall, heading up into a
+guard tower.  The corridor heads north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14253
+D2
+~
+~
+0 0 14271
+D4
+~
+~
+0 0 14274
+S
+#14256
+A Wide Corridor~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D1
+~
+~
+0 0 14257
+D3
+~
+~
+0 0 14253
+S
+#14257
+A Wide Corridor~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D1
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14256
+S
+#14258
+Inside a Draconian Stronghold~
+The smooth rock arches up to a perfect semi-circular stone ceiling upon
+which a great battle scene is painted.  Tapestries and paintings line the
+walls, but these have fallen into disrepair at the hands of the Draconian
+occupants.  The floor here appears to be unused, as a thick coat of dust
+completely covers it, no tracks of anyone or anything crossing it.  As if
+hit by lightning, you suddenly realize, your tracks are missing now as well.
+~
+0 8 0
+D0
+~
+~
+0 0 14259
+D2
+~
+~
+0 0 14260
+D3
+~
+~
+0 0 14257
+S
+#14259
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14285
+D2
+~
+~
+0 0 14258
+S
+#14260
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14258
+D2
+~
+~
+0 0 14261
+S
+#14261
+Inside a Draconian Stronghold~
+The smooth rock arches up to a perfect semi-circular stone ceiling upon
+which a great battle scene is painted.  Tapestries and paintings line the
+walls, but these have fallen into disrepair at the hands of the Draconian
+occupants.  The floor here appears to be unused, as a thick coat of dust
+completely covers it, no tracks of anyone or anything crossing it.  As if
+hit by lightning, you suddenly realize, your tracks are missing now as well.
+~
+0 8 0
+D0
+~
+~
+0 0 14260
+D2
+~
+~
+0 0 14262
+D3
+~
+~
+0 0 14263
+S
+#14262
+Inside a Draconian Stronghold~
+A large doorway lies to the west, leading into a weapons room.  The
+arched doorway appears to be crumbling from age and the heavy moisture
+lingering here.  The walls here, in contrast, are plain black stone,
+polished to a glossy sheen which seems to soak up the flickering torchlight.
+The corridor leads on to the north and to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14261
+D2
+~
+~
+0 0 14264
+D3
+~
+~
+0 0 14265
+S
+#14263
+A Wide Corridor~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D1
+~
+~
+0 0 14261
+D3
+~
+~
+0 0 14272
+S
+#14264
+Inside a Draconian Stronghold~
+The walls here are lined with paintings of Dragons and battles with
+Dragons.  In the later it always appears the Dragons are winning.  The
+floors are constructed from an obsidian cobblestone, cemented at even
+intervals.  The hallway bends around a corner, leading north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 14262
+D3
+~
+~
+0 0 14266
+S
+#14265
+The Weapons Room~
+In the center of this huge room lies a massive oak table which would be
+big enough to sit a hundred men.  The high, vaulted stone ceiling gives the
+impression of standing within the yawning mouth of a huge cavern rather than
+being within a barracks, which is what this place really is.  Countless
+weapons and suits of armor line the walls, in every conceivable style
+possible.  On the far north wall of the hall lies an immense fireplace of
+such gigantic proportions that an entire tree could be burned at a time.  
+~
+0 8 0
+D1
+~
+~
+0 0 14262
+S
+#14266
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D1
+~
+~
+0 0 14264
+D3
+~
+~
+0 0 14267
+S
+#14267
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D1
+~
+~
+0 0 14266
+D3
+~
+~
+0 0 14268
+S
+#14268
+Inside a Draconian Stronghold~
+The walls here are lined with paintings of Dragons and battles with
+Dragons.  In the later it always appears the Dragons are winning.  The
+floors are constructed from an obsidian cobblestone, cemented at even
+intervals.  A large ladder rests against the western wall, heading up into a
+guard tower.  The hallway bends around a corner, heading north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 14270
+D1
+~
+~
+0 0 14267
+D4
+~
+~
+0 0 14269
+S
+#14269
+Guard Tower~
+Small windows overlook the Khalkist mountains in every direction. 
+Peering downward from one of the windows to the east, the rooftop of this
+Draconian stronghold can be seen.  It's surface is stained with blood and
+scorched intense heat, as if a dragon had blasted it with a breath weapon,
+then whatever had died spilled it's blood all over the place.  The windows
+do not give much room to see out of, as their sole design was for shooting
+arrows out of them at oncoming enemies at great distances, and still be
+able to protect the shooter.  
+~
+0 8 0
+D5
+~
+~
+0 0 14268
+S
+#14270
+Inside a Draconian Stronghold~
+The vaulted stone ceiling high above you reverberates with even the
+slightest of noises.  On either side of you lie rows of the most realistic
+statues you have ever seen, each one resembling a great dragon of the past. 
+Beneath each statue, inscribed in a long-forgotten tongue, are strange
+words, now so faded with age as to be barely visible.  The corridor
+continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14271
+D2
+~
+~
+0 0 14268
+S
+#14271
+Inside a Draconian Stronghold~
+The vaulted stone ceiling high above you reverberates with even the
+slightest of noises.  On either side of you lie rows of the most realistic
+statues you have ever seen, each one resembling a great dragon of the past. 
+Beneath each statue, inscribed in a long-forgotten tongue, are strange
+words, now so faded with age as to be barely visible.  The corridor
+continues north and south.  A new corridor branches off to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 14255
+D1
+~
+~
+0 0 14272
+D2
+~
+~
+0 0 14270
+S
+#14272
+A Wide Corridor~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  A rotting wooden
+trapdoor with a rusted iron hinge is set into the ground, the nearby foliage
+seeming to have withered away around it.  
+~
+0 8 0
+D1
+~
+~
+0 0 14263
+D3
+~
+~
+0 0 14271
+D5
+~
+~
+1 0 14299
+S
+#14273
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14254
+S
+#14274
+Guard Tower~
+Small windows overlook the Khalkist mountains in every direction. 
+Peering downward from one of the windows to the east, the rooftop of this
+Draconian stronghold can be seen.  It's surface is stained with blood and
+scorched intense heat, as if a dragon had blasted it with a breath weapon,
+then whatever had died spilled it's blood all over the place.  The windows
+do not give much room to see out of, as their sole design was for shooting
+arrows out of them at on-coming enemies at great distances, and still be
+able to protect the shooter.  
+~
+0 8 0
+D5
+~
+~
+0 0 14255
+S
+#14275
+Guard Tower~
+Small windows overlook the Khalkist mountains in every direction. 
+Peering downward from one of the windows to the east, the rooftop of this
+Draconian stronghold can be seen.  It's surface is stained with blood and
+scorched intense heat, as if a dragon had blasted it with a breath weapon,
+then whatever had died spilled it's blood all over the place.  The windows
+do not give much room to see out of, as their sole design was for shooting
+arrows out of them at on-coming enemies at great distances, and still be
+able to protect the shooter.  
+~
+0 8 0
+D5
+~
+~
+0 0 14254
+S
+#14276
+Inside a Draconian Stronghold~
+The walls here are lined with paintings of Dragons and battles with
+Dragons.  In the later it always appears the Dragons are winning.  The
+floors are constructed from an obsidian cobblestone, cemented at even
+intervals.  A large ladder rests against the western wall, heading up into a
+guard tower.  The hallway continues around a corner, heading east and south.
+~
+0 8 0
+D1
+~
+~
+0 0 14278
+D2
+~
+~
+0 0 14273
+D4
+~
+~
+0 0 14277
+S
+#14277
+Guard Tower~
+Small windows overlook the Khalkist mountains in every direction. 
+Peering downward from one of the windows to the east, the rooftop of this
+Draconian stronghold can be seen.  It's surface is stained with blood and
+scorched intense heat, as if a dragon had blasted it with a breath weapon,
+then whatever had died spilled it's blood all over the place.  The windows
+do not give much room to see out of, as their sole design was for shooting
+arrows out of them at on-coming enemies at great distances, and still be
+able to protect the shooter.  
+~
+0 8 0
+D5
+~
+~
+0 0 14276
+S
+#14278
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14279
+D3
+~
+~
+0 0 14276
+S
+#14279
+Inside a Draconian Stronghold~
+You stand inside a mighty fortress of the Draconians.  The vaulted stone
+ceiling high above you reverberates with even the slightest of noises.  On
+either side of you lie rows of the most realistic statues you have ever
+seen, each one resembling a great dragon of the past.  Beneath each statue,
+inscribed in a long-forgotten tongue, are strange words, now so faded with
+age as to be barely visible.  
+~
+0 8 0
+D1
+~
+~
+0 0 14280
+D2
+~
+~
+0 0 14278
+S
+#14280
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14281
+D3
+~
+~
+0 0 14279
+S
+#14281
+Inside a Draconian Stronghold~
+You stand inside a mighty fortress of the Draconians.  The vaulted stone
+ceiling high above you reverberates with even the slightest of noises.  On
+either side of you lie rows of the most realistic statues you have ever
+seen, each one resembling a great dragon of the past.  Beneath each statue,
+inscribed in a long-forgotten tongue, are strange words, now so faded with
+age as to be barely visible.  
+~
+0 8 0
+D1
+~
+~
+0 0 14282
+D2
+~
+~
+0 0 14280
+S
+#14282
+Inside a Draconian Stronghold~
+You stand inside a mighty fortress of the Draconians.  The vaulted stone
+ceiling high above you reverberates with even the slightest of noises.  On
+either side of you lie rows of the most realistic statues you have ever
+seen, each one resembling a great dragon of the past.  Beneath each statue,
+inscribed in a long-forgotten tongue, are strange words, now so faded with
+age as to be barely visible.  
+~
+0 8 0
+D2
+~
+~
+0 0 14283
+D3
+~
+~
+0 0 14281
+S
+#14283
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14282
+D2
+~
+~
+0 0 14284
+S
+#14284
+Inside a Draconian Stronghold~
+Completely inhabiting the stronghold are incredibly long thorns which
+makes it totally impassible, except for a narrow path which leads through at
+this point.  Ivy covers the tall stone fluted columns which go from the
+ground to support the massive pointed stone roof.  This was once a very
+heavily used building.  A huge pair of stone dragons stands to either side of
+the hallway, as though guarding this place from intruders.  
+~
+0 8 0
+D0
+~
+~
+0 0 14283
+D2
+~
+~
+0 0 14285
+S
+#14285
+Before the Draconian Barracks~
+A large doorway lies to the west, leading into a barracks for the
+Draconian warriors.  The arched doorway appears to be crumbling from age and
+the heavy moisture lingering here.  The walls here, in contrast, are plain
+black stone, polished to a glossy sheen which seems to soak up the
+flickering torchlight.  The corridor leads on to the north and to the south.
+~
+0 8 0
+D0
+~
+~
+0 0 14284
+D2
+~
+~
+0 0 14259
+D3
+~
+~
+0 0 14286
+S
+#14286
+Draconian Barracks~
+The walls as well as the ceiling, have definitely seen a better day.  The
+large s tone blocks are beginning to crumble from the moisture, as well as
+age.  In the center of this huge room lies a massive oak table which would
+be big enough to sit a hundred men.  The high, vaulted stone ceiling gives
+the impression of standing within the yawning mouth of a huge cavern rather
+than being within a barracks, which is what this place really is.  The
+actual sleeping chambers lie to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14287
+D1
+~
+~
+0 0 14285
+D2
+~
+~
+0 0 14288
+S
+#14287
+Draconian Barracks~
+The walls here are a simple off-white color with a thin green pattern
+about a third of the way up.  On the polished floor is a large thick rug of
+rich red material, with the pattern of a dragon stitched in the centre. 
+Large and comfortable-looking beds line up against the walls, all of them
+carefully made to be used at a moments notice.  Heading south will take you
+back out into a lobby type room.  
+~
+0 8 0
+D2
+~
+~
+0 0 14286
+S
+#14288
+Draconian Barracks~
+The walls here are a simple off-white color with a thin green pattern
+about a third of the way up.  On the polished floor is a large thick rug of
+rich red material, with the pattern of a dragon stitched in the centre. 
+Large and comfortable-looking beds line up against the walls, all of them
+carefully made to be used at a moments notice.  Heading north will take you
+back out into a lobby type room.  
+~
+0 8 0
+D0
+~
+~
+0 0 14286
+S
+#14299
+{yA Plague Infested Shrine{x~
+Once used as a wine cellar for the stronghold, this dank smelling room
+now reeks of spoiled goods.  Strange poisonous fumes hover near the ground,
+adding to the acrid stench.  At the far end of the cellar sits a pitted
+stone altar.  A goat's skull has been nailed to the wall above the altar,
+where a slab of rancid meat crawls with maggots.  Several rats’ nests litter
+the area; their inhabitants covered in oozing sores.  Here in secret, the
+followers of Morgion gather to worship their dark lord; protected from
+prying eyes by the Draconians above.  
+~
+0 8388621 36
+D4
+~
+~
+1 0 14272
+S
+#0
+
+
+
+#SPECIALS
+M 14264 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 14272 5 1
+D 0 14299 4 1
+O 0 14223 0 14223
+M 0 14269 8 14252 2
+E 0 14269 0 20
+M 0 14269 8 14253 2
+E 0 14269 0 20
+O 0 14257 0 14257
+M 0 14264 4 14258 1
+E 0 14278 0 20
+M 0 14264 4 14264 1
+E 0 14278 0 20
+M 0 14269 8 14269 1
+E 0 14269 0 20
+M 0 14269 8 14274 1
+E 0 14269 0 20
+M 0 14269 8 14275 1
+E 0 14269 0 20
+M 0 14269 8 14277 1
+E 0 14269 0 20
+M 0 14264 4 14278 1
+E 0 14278 0 20
+M 0 14264 4 14282 1
+E 0 14278 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#14264
+mob echo {x
+mob echo The {yAurak{x Violently EXPLODES as it dies, severely INJURING YOU!
+mob echo {x
+mob damage all 300 600
+~
+#14269
+mob echo {x
+mob echo The Sivak Guard violently explodes into {Rflames{x, severely INJURING YOU!
+mob echo {x
+mob damage all 100 300
+~
+#0
+
+#OBJPROGS
+#14269
+mob echo {x
+mob echo The Sivak Guard violently explodes into {RFlames{x, severely INJURING YOU!
+mob echo {x
+mob damage all 100 300
+~
+#14278
+if isgood $n
+obj echoat $n A cold sensation courses through your body, injuring you!
+obj echoat $n You hair begins to turn a little white!
+obj echoaround $n $n's hair turns {Wwhite{x and $s body begins to shiver uncontrollably.
+obj echoaround $n {x
+obj damage $n 100 150
+endif
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

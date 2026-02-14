@@ -1,0 +1,342 @@
+#AREADATA
+Name Mercenary Hall~
+Builders Hiddukel~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 13200 13250
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#13200
+mercenary guard~
+{xA Mercenary Guard~
+A large Mercenary stands here, protecting the Guild from attack.
+~
+A red cloak surrounding his entire body, prohibiting any real good view
+of his armor and weapons, this Mercenary stands guard, protecting the Hall
+of Mercenaries from attacks provoked by outsiders.  The hood of his cloak is
+pulled back however, giving a plain view of his head.  Along his left cheek
+is a deep, long scar.  It would appear that this scar is given to all
+Mercenary Guards to show others in their profession, where their priorities
+stand with the Guild.  
+~
+human~
+ABN DFV 0 0
+85 85 128d28+1547 85d10+85 24d3+33 pound
+-31 -31 -31 -13
+EHN AB D 0
+stand stand male 2300
+AHMV ABCDEFGHIJK M unknown 6
+#13204
+gorik one eye junk dealer~
+It's Gorik, the One-eyed Junk Dealer~
+Gorik the One-Eye'd junk dealer stands behind a desk.
+~
+He appears to be guarding some sort of large chest lying directly behind
+him.  Curiosity strikes you like a kender as to what it's contents may be. 
+Perhaps you'd best be off buying something, rather than trying to pick a
+fight by snooping in his belongings.  
+~
+ogre~
+AB DFJVa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 crush
+-126 -126 -126 -84
+CDEHNS ABCD HI K
+stand stand male 0
+AHMV ABCDEFGHIJK L unknown 0
+#13205
+cleric healer~
+a cleric of healing~
+A Cleric stands here, offering you his refreshing spells.
+~
+He looks back at you and smiles.  A flash of white light shoots out of
+his palms, hitting you, giving you that feeling of refreshment.  
+~
+human~
+ABQVa DFHVZa 0 0
+200 200 401d66+8081 200d10+85 66d3+105 divine
+-126 -126 -126 -84
+EF ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#13200
+potion human control~
+a potion of Human Control~
+A potion of human control lies here.~
+glass~
+potion GST 0 AO
+20 '' 'detect invis' 'detect hidden' ''
+20 1 650 P
+#13201
+potion stammering stuttering~
+a potion of Stammering and Stuttering~
+A potion of stammering and stuttering lies here.~
+glass~
+potion GST 0 AO
+35 'invisibility' 'frenzy' 'haste' ''
+35 1 800 P
+#13202
+potion vitality~
+potion of vitality~
+A potion of vitality lies here.~
+glass~
+potion GST 0 AO
+40 'cure poison' 'cure disease' 'cure blindness' ''
+40 1 1200 P
+#13204
+elixir health~
+an Elixir of Health~
+An elixir of health lies here.~
+glass~
+potion GST 0 AO
+25 'heal' 'refresh' 'reserved' 'reserved'
+25 1 500 P
+#13205
+dagger mercenaries mercenary~
+a dagger of mercenaries~
+A very sharp and menacing looking dagger lies here.~
+steel~
+weapon BY 0 ANc
+dagger 10 12 stab DH
+98 2 900 P
+#13206
+fountain~
+a Large Fountain~
+A Large drinking fountain can barely be seen through the thick darkness.~
+stone~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#13208
+portal~
+a Glowing Portal~
+A portal, leading to the unknown stands off in the back.~
+energy~
+portal AGO 0 0
+0 0 0 ABCDEFHIJL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#13200
+Up a large set of Stairs~
+You find yourself traveling upon a large set of stairs.  Going up will
+take you to the second floor and going down will bring you back to the
+entrance of this place.  
+~
+0 8 22
+D4
+~
+~
+0 0 13202
+D5
+~
+~
+0 0 13201
+S
+#13201
+The Entrance to the Mercenary Hall~
+Welcome fellow Mercenaries!  You seem right at home as you find yourself
+among others you share the same interests and outlook on life in general, as
+you do.  Looking around more in detail, there seems to be a large set of
+stairs going up to the second floor.  There also seems to be a large set of
+stairs which lead down to the basement.  
+~
+0 8 22
+D1
+~
+~
+0 0 13204
+D2
+~
+~
+0 0 13205
+D3
+~
+~
+0 0 5618
+D4
+~
+~
+0 0 13200
+D5
+~
+~
+0 0 13206
+S
+#13202
+On the second floor~
+Your standing at the top of the stairs, up on the second level of this
+place.  Weapons, of all types and materials, seemed to have been placed all
+around the room in some sort of order.  However, you find yourself not able
+to grab any of them, for they seem to be encased in some sort of magical
+glass.  
+~
+0 8 22
+D0
+~
+~
+0 0 13207
+D1
+~
+~
+0 0 13208
+D3
+~
+~
+0 0 13209
+D5
+~
+~
+0 0 13200
+S
+#13203
+Unused~
+~
+0 16388 0
+S
+#13204
+The One-Eye'd Shop~
+Apparently, you have stumbled into some sort of shop.  The smell is
+putrid, so fowl you almost want to take a step back into the nice cool
+breeze of the open hallways.  In the back of the room, rests a large desk
+with a fairly large man standing behind it.  As you take a closer look, you
+realize it's not a man at all, but an Ogre.  Perhaps, although by the smell
+you hardly doubt it, he may have something of interest for you to purchase. 
+~
+0 8 22
+D3
+~
+~
+0 0 13201
+S
+#13205
+A meditation room~
+You have come to a room which seems to be occupied by a cleric of some
+sort.  Perhaps it would be best to sit and take a load off your tootsies,
+while the cleric here does his best to see you walk out fully refreshed.  As
+you sit quietly, the cleric starts to utter strange words unknown to you.  
+~
+0 8388616 39
+D0
+~
+~
+0 0 13201
+S
+#13206
+Down in the Basement~
+You find yourself down in the basement.  The strangest thing that comes
+to mind, is how warm it seems to be down here.  Directly in the center, lies
+a large fountain spurting out water.  If it weren't for the glowing moss,
+which seems to provide you with enough light to look around, you'd probably
+lose your mind to the darkness, as it seems like not even a light from a
+torch could penetrate this dark room.  
+~
+0 8 22
+D4
+~
+~
+0 0 13201
+S
+#13207
+The intelligence room~
+You find yourself in a room filled with maps, weapons and other odd
+papers strewn about randomly the floor.  There seems to be a map of every
+city and maps which show how to get to them.  Looking at some of the odd
+papers on the floor, you notice that they are actually, requests to fulfill
+jobs of all sorts.  Two men stand in the corner, talking to each other in a
+very quiet tone.  Perhaps it'd be best not to make too much noise.  
+~
+0 8 22
+D2
+~
+~
+0 0 13202
+S
+#13208
+The room of transportation~
+On the back wall, stands a portal of some sort.  Perhaps, if and when you
+accept a contract yourself, this portal will take you directly to your
+victim.  Then again, perhaps it will lead you to your own death.  
+~
+0 8 22
+D3
+~
+~
+0 0 13202
+S
+#13209
+An empty room~
+You have walked into an empty room.  The walls seem to hold nothing but a
+few torches to illuminate your surroundings.  The room is clod, with cobble
+stone floors and solid black walls.  A slight cold breeze seems to chill
+your bones, yet you can't see anything that would give away it's source. 
+Perhaps it would be best to leave this dull room as soon as possible.  
+~
+0 8 22
+D1
+~
+~
+0 0 13202
+S
+#0
+
+
+
+#SPECIALS
+M 13200 spec_orgguard
+S
+
+
+
+#RESETS
+M 0 13200 5 13200 1
+E 0 13205 0 20
+M 0 13200 5 13201 1
+E 0 13205 0 20
+M 0 13200 5 13202 1
+E 0 13205 0 20
+M 0 13204 1 13204 1
+G 0 13200 0
+G 0 13201 0
+G 0 13202 0
+G 0 13204 0
+M 0 13205 1 13205 1
+M 0 13200 5 13205 1
+E 0 13205 0 20
+O 0 13206 0 13206
+M 0 13200 5 13206 1
+E 0 13205 0 20
+S
+
+
+
+#SHOPS
+13204 0 0 0 0 10 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

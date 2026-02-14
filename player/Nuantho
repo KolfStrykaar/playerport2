@@ -1,0 +1,449 @@
+#PLAYER
+Name Nuantho~
+Surname Garein~
+MaskedIp ~
+Lokprot ~
+Email sidner_7@hotmail.com~
+Id   1125003802
+LogO 1411212414
+Vers 10
+Act  CDEGHQT
+Desc Your gaze falls upon a male, human so it seems. He seems to be about 60 years old, yet his eyes, his black eyes, seem much older. His hair, black with silver, looks clean but not well kept. His body has the marks of one who used to be fit but has not exercised for a very long time. He has a long beard, also not well kept, same color as his hair.
+On his body he wears mismatching rags, that he seems to have picked up everywhere. A black sash around his waist, seccuring faded brown pants, rudely crafted. On his torso, he wears a sleevless shirt, grey and washed out from wearing and on hist feet a pair of old leather boots.
+Nothing outstands in this human, another human like so many...except for two things. There seems to be a scorch mark on his left shoulder, faded but still visible and, in his forehead, as if stuck there, is a ruby-shaped stone, perfectly carved yet, instead of the bright red so characteristic, it seems blackened, dead.
+~
+Prom %h/%H %m/%M ->%x<- %v %B   {D||%D||{x ~
+Race human~
+Religion 16
+Sex  1
+Cla  12
+Hmtown 2
+Levl 101
+recall_point 15797
+Levscale 30
+Xptolev  1296650
+Sec  0
+Plyd 8391405
+Not  1409834400 1380570408 0 1380154978 1298827134
+Scro 33
+Room 3005
+HMV  2300 2300 1430 1430 725 725
+Steel 5
+Gold 11
+Bank 2598
+Exp  17440200
+AfBy D
+Deaths 47
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 983040
+Comm NOd
+Pos  8
+Save  -1
+Alig  7
+Ethos 1
+ACs 73 63 68 96
+Wimp  702
+Attr 24 29 25 23 28 13
+AMod 0 1 1 0 6 0
+Pass NuGhik/K.kK7.~
+Titl  - The Archwizard of Lunitari~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 1072
+HMVP 2300 1430 725
+Cnd  0 15 15 0
+QuestPnts 26
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias say Nuantho utters in a soft and low voice, {D'~
+Alias clan clan {D~
+Alias ooc '{ROOC:{x~
+Alias -smote smote <Nuantho>~
+Alias / recall hometown~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'cancellation'
+Sk 88 'cause serious'
+Sk 98 'charm person'
+Sk 77 'detect good'
+Sk 100 'detect invis'
+Sk 78 'detect magic'
+Sk 1 'detect poison'
+Sk 100 'dispel magic'
+Sk 82 'earthquake'
+Sk 80 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 77 'farsight'
+Sk 76 'flamestrike'
+Sk 100 'levitate'
+Sk 5 'orb of containment'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'haste'
+Sk 100 'life transfer'
+Sk 100 'mind shatter'
+Sk 85 'heat metal'
+Sk 100 'identify'
+Sk 79 'infravision'
+Sk 100 'invisibility'
+Sk 93 'know alignment'
+Sk 100 'locate object'
+Sk 87 'magic missile'
+Sk 99 'pass door'
+Sk 100 'aid'
+Sk 82 'protection evil'
+Sk 75 'recharge'
+Sk 4 'refresh'
+Sk 100 'sleep'
+Sk 89 'slow'
+Sk 100 'flesh to stone'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 97 'word of recall'
+Sk 92 'flaming shield'
+Sk 90 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 75 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 95 'traject'
+Sk 80 'mount'
+Sk 97 'break enchantment'
+Sk 90 'sympathy'
+Sk 100 'cantrip'
+Sk 80 'feeblemind'
+Sk 86 'binding'
+Sk 100 'brew'
+Sk 97 'scribe'
+Sk 76 'battle tactics'
+Sk 100 'knock'
+Sk 93 'flame rune'
+Sk 80 'frost rune'
+Sk 87 'shocking rune'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 97 'scrolls'
+Sk 81 'staves'
+Sk 85 'wands'
+Sk 53 'recall'
+Sk 82 'seal door'
+Sk 87 'unseal door'
+Sk 100 'attunement'
+Sk 91 'glamour'
+Sk 75 'jab'
+Sk 100 'detect presence'
+Sk 78 'sleepless curse'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 68 'taunt'
+Sk 76 'fumble'
+Sk 100 'empowerment'
+Sk 89 'garble'
+Sk 96 'shallow breath'
+Sk 94 'chaos flux'
+Sk 100 'gravity flux'
+Sk 100 'torment'
+Sk 100 'trance'
+Sk 97 'waterlungs'
+Sk 100 'staff'
+Sk 81 'eyerub'
+Sk 100 'instruct'
+Sk 100 'enlarge'
+Sk 96 'shrink'
+Sk 85 'lock'
+Sk 61 'mark of origin'
+Affc 'detect invis'   0  98  95   0   0          8
+Affc 'empowerment'   0  82   5   3   5          0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Name White Lotus~
+ShD  a {WWhite Lotus{x~
+Desc A beautiful and exotic white flower was dropped here (It is worth the restring of a full set).~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  24 -1 -1 0 0
+End
+
+#O
+Vnum 8
+Nest 0
+Cond 100
+Wear -1
+Lev  49
+Cost 0
+Val  24 -1 -1 0 0
+End
+
+#O
+Vnum 6
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3007
+Nest 0
+Cond 100
+Wear 17
+Cost 3800
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear 1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3353
+Nest 0
+Cond 100
+Wear 5
+Cost 900
+End
+
+#O
+Vnum 3357
+Nest 0
+Cond 100
+Wear 8
+Cost 450
+End
+
+#O
+Vnum 3015
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+Val  100 50 0 1 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#END

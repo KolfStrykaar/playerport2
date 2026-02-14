@@ -1,0 +1,730 @@
+#PLAYER
+Name Heron~
+Surname Chaslor~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1371069308
+LogO 1417926781
+Vers 10
+Act  DEFGT
+Desc The slow dripping sound of water hitting the ground is heard. You notice
+it is coming from a tall, slender, oddly dressed man before you. The
+majority of his torso , shoulders, and back seem to be a dark brown scales
+that resemble a turtle shell, while his sides have slits that sometime
+flex as gills.
+
+Looking more closely, you notice pale skin, dark circles surrounding green
+eyes, topped with a pile of messy blonde hair. It is obvious that he cares
+little for looking good, quiet likely walked out of the ocean and into
+town with little thought of the matter. Behind him, a trail of wattery
+footprints can be seen.
+
+The dripping seems to be coming from a long dagger on his side, which
+resembles a large sharp tooth cradled by an intricate handle inscribed
+with symbols of the Seawolves. His left forearm concretes the fact in your
+mind that he comes from the depths as a small symbol is etched into his
+skin. The symbol is of the temptress Zeboim.
+~
+Prom {RHP:%h/%H {BMP:%m/%M {gMV:%v/%V {PTNL: %X %b%B{x ~
+Race half-elf~
+Org 10
+Devotee 17
+Sex  1
+Cla  9
+Hmtown 0
+Levl 79
+recall_point 3001
+Levscale 30
+Xptolev  231476
+Sec  0
+Plyd 572651
+Not  1388019326 0 0 0 0
+Scro 0
+Room 3098
+HMV  2028 2106 388 388 602 602
+Steel 5221
+Gold 235552
+Bank 132000
+Exp  4485574
+AfBy Jb
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Comm NO
+Pos  8
+Prac 145
+Trai 5
+Save  -8
+Alig  1000
+Ethos 0
+ACs 30 32 16 71
+Wimp  200
+Attr 13 15 13 16 13 16
+AMod 0 4 21 14 14 0
+Pass HeoBhgLM8gf8Q~
+Titl  - The {DWrath{x of the {cTemptress{x~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 155
+HMVP 1911 288 602
+Cnd  0 0 0 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'detect hidden'
+Sk 100 'detect poison'
+Sk 99 'haste'
+Sk 99 'infravision'
+Sk 60 'axe'
+Sk 100 'dagger'
+Sk 80 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 3 'shield block'
+Sk 1 'spear'
+Sk 78 'sword'
+Sk 75 'whip'
+Sk 98 'backstab'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 95 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 100 'kick'
+Sk 1 'trip'
+Sk 100 'second attack'
+Sk 88 'third attack'
+Sk 87 'track'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 100 'dual wield'
+Sk 82 'mount'
+Sk 70 'unholy armor'
+Sk 1 'battle tactics'
+Sk 50 'wear leather'
+Sk 98 'fast healing'
+Sk 33 'haggle'
+Sk 96 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 98 'peek'
+Sk 1 'pick lock'
+Sk 91 'sneak'
+Sk 50 'recall'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 78 'strangle'
+Sk 1 'cutthroat'
+Sk 1 'assassinate'
+Sk 43 'tumble'
+Sk 1 'scout'
+Sk 79 'second backstab'
+Sk 1 'taunt'
+Sk 53 'eavesdrop'
+Sk 1 'staff'
+Sk 70 'unholyrite'
+Sk 1 'eyerub'
+Sk 1 'tonguecut'
+Sk 1 'stalk'
+Sk 100 'instruct'
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  79
+Cost 790
+Val  16 16 16 12 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 3726
+Nest 0
+Name ring symbol bone~
+ShD  Symbol of the {cSeawolf{x~
+Desc A small bone ring lies here, a symbol etched into it.~
+ExtF 1048576
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Name ring bone symbol~
+ShD  Symbol of the {rMaelstrom{x~
+Desc A small bone ring lies here, a symbol etched into it.~
+ExtF 1048576
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 19003
+Nest 0
+Name string teeth shark~
+ShD  a string of Shark Teeth~
+Desc A string of sharp teeth lies here.~
+Cond 100
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 11216
+Nest 0
+Name armor shell depths~
+ShD  Scales of the {gDepths{x~
+Desc A body-shaped shell of scale-like armor lies here.~
+Cond 94
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name anklet charms~
+ShD  an Anklet of {gCharms{x~
+Desc An anklet with many various superstitions 'good luck charms' lies here.~
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name anklet dagger hidden sheath~
+ShD  ({DHidden{x) a Dagger Sheath~
+Desc An anklet with a slit in it, possibly for a small dagger, lies here.~
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 914
+Nest 0
+Name skin blue foot boots~
+ShD  Webbed Skin of the {cLeviathan{x~
+Desc A foot-shaped piece of hard blue skin lies here.~
+Cond 100
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3818
+Nest 0
+Name claws glove leviathan~
+ShD  {rClaws{x of the {cLeviathan{x~
+Desc A set of sharp claws, fitted to a glove, lies here.~
+ExtF 262144
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 10964
+Nest 0
+Name symbol arm maelstrom~
+ShD  Symbol of the {rMaelstrom{x~
+Desc A severed arm lies here, a whirlpool still circling around an imposing symbol.~
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 11247
+Nest 0
+Name tattoo storm~
+ShD  a {rDeadly {gStorm{x~
+Desc A piece of skin with a moving tattoo of a raging storm lies here.~
+Cond 100
+Wear 23
+Cost 2000
+End
+
+#O
+Vnum 14545
+Nest 0
+Name gills zyr~
+ShD  {WBlessed{x Gills of {rZyr{x~
+Desc Gills that magically equip to the wearer's sides lie here.~
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name bag fish scales~
+ShD  ({GIridescent{x) a bag of {cFish {gScales{x~
+Desc A bag made of fish scales lies here.~
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({DShredded{x) ({W3 uses{x) an almost used up {BMake Over{x coupon~
+Desc This coupon was good for 20 restrings... Now it's only good for 3.~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15194
+Nest 1
+Name page crumpled pageone~
+ShD  a crumpled page~
+Desc A crumpled page that has been ripped from a book lies here.~
+Cond 100
+Wear -1
+Cost 195
+ExDe crumpled~ This page has been ripped from some sort of book and thrown to the ground. The handwriting is somewhat messy, but it is legible. It reads:{/ {/ "{WThis is so difficult. If my father didn't want so badly to see me a cleric, I'd just give up now. I don't understand! Why do they continue to scold me as though I'm not even trying to learn?!{X"
+~
+ExDe page~ This page has been ripped from some sort of book and thrown to the ground. The handwriting is somewhat messy, but it is legible. It reads:{/ {/ "{WThis is so difficult. If my father didn't want so badly to see me a cleric, I'd just give up now. I don't understand! Why do they continue to scold me as though I'm not even trying to learn?!{X"
+~
+End
+
+#O
+Vnum 15194
+Nest 1
+Name parchment wrinkled pagetwo~
+ShD  a piece of wrinkled parchment~
+Desc A piece of wrinkled parchment lies here.~
+Cond 100
+Wear -1
+Cost 186
+ExDe wrinkled~ This parchment has seen better days. It seems like someone has scribbled a quick note upon it in messy handwriting. It reads:{/ {/ "{WThey ask me what I think the purpose of prayer is. I answer that Habbakuk doesn't answer prayers, but that Zeboim keeps ships from wrecking. They scold me, but it's true, isn't it?! Okay, maybe Habbakuk bestows some blessings, but sailors, like my father, know better than to ignore Zeboim...{x"
+~
+ExDe parchment~ This parchment has seen better days. It seems like someone has scribbled a quick note upon it in messy handwriting. It reads:{/ {/ "{WThey ask me what I think the purpose of prayer is. I answer that Habbakuk doesn't answer prayers, but that Zeboim keeps ships from wrecking. They scold me, but it's true, isn't it?! Okay, maybe Habbakuk bestows some blessings, but sailors, like my father, know better than to ignore Zeboim...{x"
+~
+End
+
+#O
+Vnum 15194
+Nest 1
+Name sheet paper torn pagethree~
+ShD  a torn sheet of paper~
+Desc A torn sheet of paper lies here, seemingly ripped from a book.~
+Cond 100
+Wear -1
+Cost 195
+ExDe sheet~ This is only half a sheet of paper, torn quickly away from whatever book it originated in. The handwriting is even more difficult to read, as the writer was obviously severely agitated.{/ {/ "{WI got in an argument with the head cleric. I yelled at him and threw my book at him. I don't know what came over me. My father will be so disappointed... I can't face them again. I have to just wait for his ship to come into port...{X" 
+~
+ExDe paper~ This is only half a sheet of paper, torn quickly away from whatever book it originated in. The handwriting is even more difficult to read, as the writer was obviously severely agitated.{/ {/ "{WI got in an argument with the head cleric. I yelled at him and threw my book at him. I don't know what came over me. My father will be so disappointed... I can't face them again. I have to just wait for his ship to come into port...{X" 
+~
+End
+
+#O
+Vnum 1264
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Name light anglerfish fish~
+ShD  the {WLight{x of an Anglerfish~
+Desc A fleshy growth lies here, glowing.~
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16456
+Enchanted
+Nest 0
+Name dagger tooth symbol seawolf~
+ShD  Dagger of the {cSeawolf{x~
+Desc A large tooth dagger lies here, a symbol on the hilt of the Seawolves.~
+ExtF 0
+Cond 95
+Wear -1
+Lev  75
+Cost 0
+Val  2 9 12 1 9
+End
+
+#O
+Vnum 5700
+Nest 0
+Name dagger depths thunder~
+ShD  Dagger of the {cDepths{x~
+Desc A strong dagger, occasionally roaring with the familiar sound of thunder lies here.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 93
+Mat  steel~
+Wear -1
+Lev  51
+Cost 490
+Val  2 7 7 34 81
+Affc 'cultural artistry'   5 100  -1   0   0         16
+End
+
+#O
+Vnum 3724
+Nest 0
+Name windstorm storm tiny~
+ShD  ({WWhirling{x) a tiny {cWind Storm{x~
+Desc A small wind storm spins here, picking up a few grains of sand and tossing them about.~
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 9865
+Nest 0
+Cond 100
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 108
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1800
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 93
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 9832
+Nest 0
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 140 0 0 0
+End
+
+#O
+Vnum 3017
+Nest 0
+Name book journal phoenix~
+ShD  ({CEmbossed{X) a book with a {Bblue phoenix{X crest~
+Desc A leather-bound book lies here, embossed with a blue and silver phoenix.~
+ExtF 262144
+Cond 100
+Wear -1
+Cost 0
+ExDe book~ This leather-bound book looks a bit worse for wear. There are crumpled and ripped pages, and the entirety of the back of the book is wet. The only pages readable are the {Bfirst{x, {Bsecond{x, and {Bthird{x.
+~
+ExDe first~ "{W...known as Abbuku to the sea elves, and the Blue Phoenix in Ergoth and Silvanost... Why does that even matter? Everyone should just call him Habbakuk. {/We must revere him because he is the sole protection from the SeaWitch, Zeboim, who seeks only chaos with her ways... But that doesn't make sense. It says that Habbakuk is unpredictable and feral here. What's the difference...?{x"
+~
+ExDe second~ "{WLive in harmony with nature, respect all living things. Treat animals well, for they are a gift from the gods. Those who live in harmony with nature are most respected by Habbakuk; those who despoil the land are the enemy. {/Does that mean Shinare's followers are evil? Nevermind. {/Always be prepared to fight to protect the land and the creatures in your care. {/Because violence is the only answer, ever! {/Oh, if the head cleric sees this, I'll never hear the end of it..
+~
+ExDe second~ "{WLive in harmony with nature, respect all living things. Treat animals well, for they are a gift from the gods. Those who live in harmony with nature are most respected by Habbakuk; those who despoil the land are the enemy. Does that mean Shinare's followers are evil? Nevermind. {/Always be prepared to fight to protect the land and the creatures in your care. Because violence is the only answer, ever! {/Oh, if the head cleric sees this, I'll never hear the end of it...{x"
+~
+ExDe third~ "{WThere is all of this talk about "hoping for protection" against Zeboim. Doesn't make any sense to me!! If Habbakuk has time to give his clerics a sign that their month- or year-long journeys to prove their faith to him are overwith, then why doesn't he have more energy to devote to protecting those people sailing out upon HIS ocea----{x"
+~
+End
+
+#O
+Vnum 3008
+Nest 0
+ExtF 64
+Cond 100
+Wear 19
+Cost 2600
+End
+
+#O
+Vnum 3008
+Nest 0
+ExtF 64
+Cond 97
+Wear 18
+Cost 2600
+End
+
+#O
+Vnum 5719
+Nest 0
+ExtF 266432
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 19003
+Nest 0
+Name string vial blood~
+ShD  a small vial of {rBlood{x~
+Desc A string with a small vial filled with blood attached to it lies here.~
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill word of recall~
+ShD  a pill of word of recall~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 95 0 0 0
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1417926781
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Heron'.
+~
+Sex  1
+HMV  126 126 150 150 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

@@ -1,0 +1,316 @@
+#PLAYER
+Name Alyssa~
+Surname Ironside~
+MaskedIp ~
+Lokprot ~
+Email firestorm91@verizon.net~
+Id   1395875823
+LogO 1396036612
+Vers 10
+Act  CDGQTe
+Desc Shoulder length {bmidnight black{x hair grazes just over this half elf
+woman shoulders, strands sweeping to the right side of her face. Her hair
+resting on a {ytan{x skinned woman with piercing {Clight blue{x eyes and
+soft pink lips.The woman is a shorter woman standing only at about five
+foot three, a tight {rred{x and {Dblack{x wrapping shirt covers her rather
+well-endowed chest covering only a little of her mid-section and her bust.
+On her hips lies a short cut skirt, the same colors of {rred{x and
+{Dblack{x continuing.  She wears dainty {Dblack{x and {rred{x boots on her
+feet and arm wrappings over her forearms.
+~
+Prom <%hhp %mm %vmv> ~
+Race half-elf~
+Sex  2
+Cla  14
+Hmtown 2
+Levl 10
+recall_point 2659
+Levscale 30
+Xptolev  1653
+Sec  0
+Plyd 20162
+Not  0 0 0 0 0
+Scro 22
+Room 3149
+HMV  136 136 249 249 154 154
+Steel 20
+Gold 0
+Bank 0
+Exp  14497
+AfBy J
+Deaths 1
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1048576
+Comm NO
+Pos  8
+Prac 49
+Trai 7
+Alig  -24
+Ethos 0
+ACs 68 64 51 94
+Attr 13 18 13 13 13 16
+AMod 0 5 12 3 4 0
+Pass AldvasFl7mNUo~
+Titl  the Medium of Magic~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 2
+HMVP 136 209 154
+Cnd  0 16 16 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'control weather'
+Sk 1 'create food'
+Sk 1 'create spring'
+Sk 1 'create water'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'incendiary cloud'
+Sk 1 'glitterdust'
+Sk 1 'orb of containment'
+Sk 1 'gate'
+Sk 1 'life transfer'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'storm of vengeance'
+Sk 1 'magic missile'
+Sk 1 'nexus'
+Sk 1 'aid'
+Sk 1 'dimensional door'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'fire breath'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'lightning breath'
+Sk 48 'dagger'
+Sk 1 'whip'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'envenom'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'convoke swarm'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'wind wall'
+Sk 1 'gust of wind'
+Sk 1 'unseen servant'
+Sk 1 'cantrip'
+Sk 1 'iceblast'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 1 'knock'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 1 'dwarven tongue'
+Sk 1 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'kagonesti tongue'
+Sk 1 'dargonesti tongue'
+Sk 1 'dimernesti tongue'
+Sk 1 'kender tongue'
+Sk 1 'minotaur tongue'
+Sk 1 'ogre tongue'
+Sk 1 'draconian tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'closing weave'
+Sk 1 'jab'
+Sk 1 'detect presence'
+Sk 1 'mooncloak'
+Sk 1 'surge'
+Sk 1 'endure'
+Sk 1 'rabbit summon'
+Sk 1 'thunderclap'
+Sk 1 'trance'
+Sk 1 'alarm'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'lock'
+Sk 1 'mark of origin'
+Sk 1 'conjure food'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 380
+Val  0 0 63 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 99
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 3450
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear -1
+Cost 1150
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#END

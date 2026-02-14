@@ -1,0 +1,2011 @@
+#PLAYER
+Name Evelyn~
+Surname Midnight~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1237508409
+LogO 1408139714
+Vers 10
+Act  CDEGLQT
+Desc {rHere is a woman clearly of a dark path of power and of ambition.  This
+girl appears to be human and seems to be no older then seventeen by human
+age.  She is a petite beauty standing five feet and not possibly weighing
+more then one hundred pounds.  She has crimson red hair tipped in black that
+goes all the way down to her thighs.  Her flesh is creamy white and her eyes
+are a bright and fiery red.
+ 
+The young girl wears a breastplate designed like a corset.  The
+breastplate piece is a small thing, covering only her voluptuously well
+endowed breasts and leaving cleavage and midriff for all to see.  Her arms
+are bare except for adamantine vambraces that bear the mark of Sargonnas,
+God of Destruction.  She wears a pair of tight, form fitting black leather
+pants that show every seductive curve in detail.  A pair of black leather
+boots and gloves can be fond on her hands or feet respectively.
+ 
+To the girl's side and slung over the girl's back are her weapons of
+choice -- sword and shield.  The sword appears to be a bastard sword
+sheathed in a beautifully ornate crimson velvet sheath.  When drawn, the
+sword's blade is also crimson red.  Pitch black runes like the blade on
+either side which seep a viscus ichor like dark red blood.  Her shield is an
+impressive crimson and black bulwark fashioned like a kite shield.  It bears
+on its front the symbol of Sargonnas.{x
+~
+Prom <%hhp %mm %vmv %B %b %X %x> ~
+Race human~
+Org 10
+Religion 13
+Sex  2
+Cla  5
+Hmtown 0
+Levl 100
+recall_point 3001
+Levscale 30
+Xptolev  1194900
+Sec  0
+Plyd 535695
+Not  1390434707 1379434687 0 1380154978 1298827134
+Scro 22
+Room 3054
+HMV  4787 4787 1080 1080 865 865
+Steel 5587
+Gold 139869
+Bank 0
+Exp  16259300
+AfBy GOV
+Deaths 4
+FlagTot 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 458752
+Comm ANOd
+Pos  8
+Save  -39
+Alig  -999
+Ethos 0
+Hit   95
+Dam   92
+ACs -556 -559 -581 -524
+Attr 18 13 13 13 13 13
+AMod 17 3 5 11 8 5
+Pass EvSdZ/EesMabA~
+Titl  - The {WMaiden{x of {rDestruction{x~
+Pretit Praetor{x~
+Pnts 0
+TSex 2
+LLev 3
+HMVP 3502 335 715
+Cnd  0 7 7 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 006
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ad lunge sera~
+Alias ; ; {yWither{x and {DDie{x:~
+Alias af lunge sera~
+Alias aa 'May your vengeance guide my blade to strike thy enemies dead!~
+Sk 100 'frenzy'
+Sk 100 'protection evil'
+Sk 100 'axe'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'deathgrip'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 100 'unholy armor'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 100 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'common'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'recall'
+Sk 100 'bow'
+Sk 100 'gaseous form'
+Sk 100 'dark taint'
+Sk 100 'drain blood'
+Sk 100 'bind wounds'
+Sk 100 'guard'
+Sk 100 'mounted combat'
+Sk 100 'cleave'
+Sk 100 'trammel'
+Sk 100 'flank attack'
+Sk 100 'staff'
+Sk 100 'unholyrite'
+Sk 100 'eyerub'
+Sk 100 'finger break'
+Sk 100 'smother'
+Sk 100 'instruct'
+Sk 100 'heroic demise'
+Sk 100 'joust'
+Sk 100 'polish'
+Sk 100 'shatter shield'
+Sk 100 'company might'
+Sk 100 'company valor'
+Sk 100 'company honor'
+Sk 100 'arrow deflection'
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 17552
+Nest 0
+Name black leather pants~
+ShD  {DBlack Leather{x {rPants{x~
+Desc Here lies a pair of small black leather pants.~
+ExtF 0
+Cond 99
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 1911
+Nest 0
+Name crimson red barrett~
+ShD  a {rCrimson Red{x {DBarrett{x~
+Desc Here lies a beautiful, crimson red barrett.~
+Cond 97
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 1916
+Nest 0
+Name black iron chain~
+ShD  a {DBlack Iron Chain{x~
+Desc Here lies a black iron chain, ment to be worn around the waist.~
+Cond 100
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 11969
+Nest 0
+Name black leather gloves~
+ShD  {DBlack Leather{x {rGloves{x~
+Desc Here lies a pair of black leather gloves.~
+Cond 100
+Wear 12
+Cost 96
+End
+
+#O
+Vnum 9498
+Nest 0
+Name black leather boots~
+ShD  {DBlack Leather{x {rBoots{x~
+Desc Here lies a pair of black leather boots.~
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name small black-lace lace shawl~
+ShD  ({rEmbroidered{x) a Small {DBlack-Lace{x {rShawl{x~
+Desc Here lies a small yet beautiful black-laced shawl.~
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name string black pearls~
+ShD  a string of {DBlack Pearls{x~
+Desc Here lies a string of beautiful black pearls.~
+ExtF 17039360
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name string black pearls~
+ShD  a string of {DBlack Pearls{x~
+Desc Here lies a string of beautiful black pearls.~
+ExtF 17039360
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039425
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9400
+Nest 0
+ExtF 17039425
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 1255
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Name bulwark destruction shield~
+ShD  ({DUnholy{x) a {DBulwark{x of {rDestruction{x~
+Desc Here lies a large kite shield emblazoned with the mark of destruction.~
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name veil unholy sight~
+ShD  a {DVeil{x of {rUnholy Sight{x~
+Desc Here lies a small veil to be worn over a woman's face.~
+ExtF 17039378
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 96
+Mat  leather~
+Wear 7
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 1818
+Nest 0
+Name flames black order~
+ShD  {rFlames{x of the {DBlack Order{x~
+Desc Here burns dark red and black fire of the Black Order.~
+Cond 100
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+Affc 'truefire'   1 100  -1  10  18          0
+Affc 'truefire'   1 100  -1  10  19          0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name robes praetor~
+ShD  ({DUnholy{x) Robes of the {DPraetor{x~
+Desc Here lies religious vestments belonging to the hierarchy of the Black Order.~
+ExtF 262144
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 2651
+Nest 0
+Name black prayer beads~
+ShD  a Strand of Black Prayer Beads~
+Desc Here lies a strand of prayer beads for the Dark Gods.~
+Cond 100
+Wear 21
+Cost 702
+End
+
+#O
+Vnum 16453
+Nest 0
+Name six-pronged pronged circle vengeance destruction~
+ShD  ({rScarred{x) a six-pronged circle of {rVengeance{x and {DDestruction{x~
+Desc A flesh-burned scar of the Dark Gods, primarily Sargonnas, is here.~
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 19002
+Nest 0
+Name black vambraces vengeance~
+ShD  {DBlack Vambraces{x of {rVengeance{x~
+Desc Here lies a apair of black vambraces radiating with hatred.~
+ExtF 524290
+Cond 93
+Wear 13
+Cost 8000
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring immolation~
+ShD  a {DRing{x of {rImmolation{x~
+Desc Resting here is a smoldering, volcanic looking ring.~
+ExtF 16777280
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Name ring destruction~
+ShD  ({DUnholy{x) the {DRing{x of {rDestruction{x~
+Desc A pitch black ring giving off a feeling of hatred is lying here.~
+ExtF 16777280
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer praetorian council~
+ShD  a Bracer of the {DPraetorian Council{x~
+Desc Here lies a bracer of pitch black material with the symbol of the Black Order.~
+ExtF 17039616
+Cond 94
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer praetorian council~
+ShD  a Bracer of the {DPraetorian Council{x~
+Desc Here lies a bracer of pitch black material with the symbol of the Black Order.~
+ExtF 17039616
+Cond 94
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 11970
+Nest 0
+Name crimson breastplate plate~
+ShD  ({rEmblazoned{x) a {rCrimson{x {DBreastplate{x~
+Desc A very revealing woman's breastplate is here.~
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 375
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 243
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 285
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 236
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 219
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 221
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 237
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 156
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 173
+End
+
+#O
+Vnum 2635
+Nest 1
+Cond 100
+Wear -1
+Cost 291
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 100
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9824
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9824
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5700
+Nest 1
+Name rusted spiked leggings~
+ShD  {yRusted{x {DSpiked Leggings{x~
+Desc Here lies a pair of rusted iron greaves, inlaid with spikes for obvious wicked use.~
+ExtF 8
+ExtF2 2
+WeaF 268435489
+Ityp 9
+Wt   3
+Cond 97
+Mat  gold~
+Wear -1
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name rusted iron gauntlets~
+ShD  {yRusted{x {DIron Gauntlets{x~
+Desc Here lies a pair of rusted black iron gauntlets with clawed fingertips.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 97
+Mat  homespun~
+Wear -1
+Lev  110
+Cost 1100
+Val  29 29 29 25 4
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 12267
+Nest 1
+Name rusted barbed hook~
+ShD  a {yRusted{x Barbed {DHook{x~
+Desc Here lies a wickedly curved barbed hook, rusted and forgotten.~
+ExtF 72
+Cond 12
+Wear -1
+Cost 4710
+Val  0 10 14 19 33357
+End
+
+#O
+Vnum 4962
+Nest 1
+Name self-mutilating ring mutilating~
+ShD  ({DSpiked{x) a {DSelf{x-{yMutilating{x Ring~
+Desc Here lies a spiked ring, though the spikes are not on the outer edges of the ring...~
+Cond 99
+Wear -1
+Cost 514
+End
+
+#O
+Vnum 4962
+Nest 1
+Name self-mutilating ring mutilating~
+ShD  ({DSpiked{x) a {DSelf{x-{yMutilating{x Ring~
+Desc Here lies a spiked ring, though the spikes are not on the outer edges of the ring...~
+Cond 99
+Wear -1
+Cost 514
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 12161
+Nest 1
+Name platinum sword lifefury life fury~
+ShD  ({bOrnate{x) a {WPlatinum{x Sword, "{WLifefury{x"~
+Desc Here lies a beautiful platinum sword; on the side are inscribed elven runes, translating to "Lifefury."~
+ExtF 262152
+Cond 35
+Wear -1
+Cost 5180
+Val  1 11 14 3 85
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15211
+Nest 1
+ExtF 17039424
+Cond 100
+Wear -1
+Cost 2525
+End
+
+#O
+Vnum 1673
+Nest 1
+Name Here lies a beautiful ruby gem attached to a black iron necklace.~
+ShD  a {DBlack Iron{x {rRuby Necklace{x~
+ExtF 786432
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1673
+Nest 1
+Name rusted iron collar~
+ShD  a {yRusted{x {DIron Collar{x~
+Desc Here lies a rusted iron collar.~
+ExtF 786432
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  200 200 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  100 100 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a {DDark Pilgrim{x's blood~
+Desc A jar of a {DDark Pilgrim{x's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1755
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 11967
+Nest 1
+Name acidic spiked chain pestilence~
+ShD  an {DAcidic{x Spiked Chain of {yPestilence{x~
+Desc Here lies a long black spiked chain festering in acid and disease.~
+ExtF 16777288
+Cond 73
+Wear -1
+Cost 5180
+Val  1 11 14 31 207
+End
+
+#O
+Vnum 14278
+Nest 1
+Name lance apocalypse~
+ShD  the Lance of the {rApocalypse{x~
+Desc Here lies a hellish lance, to be beared by a rider that shall bring forth the Apocalypse.~
+ExtF 789016
+Cond 79
+Wear -1
+Cost 500
+Val  8 12 14 11 78
+End
+
+#O
+Vnum 3011
+Nest 1
+ShD  A Coupon for a FULL Re-String of all Equip~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name runeblade blade evelyn crimsonwrath wrath~
+ShD  the {WRuneblade{x of Evelyn, "{rCrimsonwrath{x"~
+Desc Here lies a beautifully ornate bastard sword, engraved with runes that seep blood.~
+ExtF 2645
+WeaF 268443649
+Ityp 5
+Wt   8
+Cond 100
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  1 10 16 18 104724
+Affc 'enchant weapon'   0 110  -1  16  18          0
+Affc 'enchant weapon'   0 110  -1  16  19          0
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill aid~
+ShD  a pill of aid~
+Cond 100
+Wear -1
+Lev  50
+Cost 0
+Val  50 75 0 0 0
+Spell 1 'aid'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill immolation~
+ShD  a pill of immolation~
+Cond 100
+Wear -1
+Lev  53
+Cost 0
+Val  53 400 0 0 0
+Spell 1 'immolation'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 11177
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+Spell 1 'protection good'
+Spell 2 'bless'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 3000
+Nest 0
+Name barrel beer water~
+Cond 100
+Wear -1
+Cost 50
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 9405
+Nest 0
+ExtF 134220304
+Cond 99
+Wear 20
+Cost 0
+Val  1 11 11 39 32846
+End
+
+#O
+Vnum 860
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 861
+Nest 0
+Cond 100
+Wear -1
+Cost 800
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1408139714
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Evelyn'.
+~
+Sex  1
+HMV  119 119 142 142 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

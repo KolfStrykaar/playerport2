@@ -1,0 +1,2748 @@
+#AREADATA
+Name Qualinesti Forest~
+Builders Mishakal~
+Continent Qualinesti~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 14300 14399
+Credits Mishakal~
+Security 9
+End
+
+
+
+#MOBILES
+#14300
+elf qualinesti ranger~
+a Qualinesti Ranger~
+A Qualinesti Ranger stands here, looking about cautiously.
+~
+The ranger glances about cautiously, attempting to catch intruders in the
+forest unaware.  
+~
+elf~
+AG JPQ 500 0
+30 30 45d10+274 30d10+85 8d3+15 punch
+-4 -4 -4 1
+F 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK M flesh 0
+#14301
+druid man old~
+a blind druid~
+An {gOld Druid{x rests here, gazing blankly in the forest.
+~
+Blind eyes stare into the forest, attempting to discern its secrets upon
+another plane.  He is old, ancient to the land of Krynn.  Wrinkles cover his
+sun burnt face, and his skin is blotched from time.  His green robes hang to
+his sides, as if new, they are unsoiled.  
+~
+human~
+ABR A 0 0
+50 50 75d16+456 50d10+85 14d3+21 beating
+-14 -14 -14 -4
+0 ABCD 0 0
+rest rest male 500
+AHMV ABCDEFGHIJK M unknown 0
+#14302
+flames keeper oracle fire~
+a keeper of the Oracle~
+A {gKeeper of the Oracle{x stands here amongst {rdancing flames{x.
+~
+Fiery robes swirl in a maelstrom of heat, covering the masked face of the
+keeper.  
+~
+human~
+ABR 0 0 0
+40 40 60d13+365 40d10+85 11d3+18 flame
+-9 -9 -9 -1
+K BI H Y
+stand stand either 0
+AHMV ABCDEFGHIJK M unknown 0
+#14303
+keeper oracle water blue~
+a keeper of the oracle~
+A {gKeeper of the Oracle{x stands here, surrounded by a {bsmall pool{x.
+~
+Watery robes swirl in a maelstrom of mist, covering the masked face of
+the Keeper.  
+~
+elf~
+ABR J 0 0
+50 50 75d16+456 50d10+85 14d3+21 chill
+-14 -14 -14 -4
+K BR BY IZ
+stand stand either 0
+AHMV ABCDEFGHIJK M unknown 0
+#14304
+keeper oracle rocks~
+a keeper of the oracle~
+A {gKeeper of the Oracle{x stands here, surrounded by floating rocks.
+~
+Rocks swirl about in a maelstrom of flying stones, covering the masked
+face of the Keeper.  
+~
+dwarf~
+ABR J 0 0
+50 50 75d16+456 50d10+85 14d3+21 smash
+-14 -14 -14 -4
+K BH LQ KRX
+stand stand either 0
+AHMV ABCDEFGHIJK S unknown 0
+#14305
+keeper oracle winds~
+a keeper of the oracle~
+A {gKeeper of the Oracle{x stands here, controlling the winds.
+~
+Surging winds swirl about, raising dust storms that cover the masked face
+of the keeper.  
+~
+human~
+ABR 0 0 0
+50 50 75d16+456 50d10+85 14d3+21 shock
+-14 -14 -14 -4
+K BK 0 HOT
+stand stand either 0
+AHMV ABCDEFGHIJK M unknown 0
+#14306
+elven wraith ranger~
+an elven wraith~
+The wraith of an elven ranger stands watch over the chest of Kith-Kanan.
+~
+Born from the depths of Chaos, these creatures can wipe all memory and
+life of a person from Krynn.  
+~
+human~
+ABO Bc -500 0
+30 30 45d10+274 30d10+85 8d3+15 chill
+-4 -4 -4 1
+0 BOP HLQ JNY
+stand stand either 300
+AHKMV DK M magic 0
+F par ABCEFGHIJ
+#14307
+fox red~
+a small red fox~
+A small, red fox sniffs the ground in search of food.
+~
+A small, red fox scampers about searching the bushes for prey.  
+~
+fox~
+AG Z 0 0
+10 10 15d3+92 10d10+85 2d5+8 bite
+4 4 4 6
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV S unknown 0
+#14308
+small black bat~
+a bat~
+A bat dangles from the ceiling, sleeping.
+~
+A black bat dangles from the ceiling, its eyes shut as if it were sleeping.  
+~
+bat~
+AG TZ 0 0
+10 10 15d3+92 10d10+85 2d5+8 bite
+4 4 4 6
+FH 0 0 S
+sleep stand either 0
+AGV ACDEFHJKP T unknown 0
+#14309
+bear large brown~
+a large bear~
+A large bear grazes over the bushes, eating berries.
+~
+Masses of brown fur shift as the bear grazes over bushes in search of
+berries to sate its appetite.  Its form is humongous, and under the fur
+muscles abound, shifting slightly, as it raises its head and sniffs the air.
+~
+bear~
+AG 0 0 0
+20 20 30d6+183 20d10+85 5d4+11 slash
+0 0 0 4
+DEO 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV L unknown 0
+#14310
+small bird~
+a small bird~
+A small colorful bird flits about here, chirping happily.
+~
+A colorful array of feathers and sinew, the small bird darts deftly
+through small gaps in the branches and the canopy, swooping about.  
+~
+song bird~
+AG T 0 0
+15 15 23d5+137 15d10+85 4d3+10 peck
+2 2 2 5
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP T unknown 0
+#14311
+owl bird~
+a large, grey owl~
+An owl flies about, in search of prey.
+~
+Flying amongst the branches, the owl circles, its eyes cast about in
+search of small prey.  Its wings beat in an ominous drone, as the gray mass
+of feather and sinew glides about on the wind.  
+
+~
+song bird~
+AG JPT 200 0
+15 15 23d5+137 15d10+85 4d3+10 claw
+2 2 2 5
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP M unknown 0
+#14312
+wild cat feral lynx~
+a lynx~
+A lynx, the feral cat of the woodlands, prowls about.
+~
+Stripes fall down the lynx's hide in  unpredictable patterns, gracing its
+fur from face to tail.  Its ears perk up at the sound of rustling brush,
+and it hunches closer to the ground creeping up upon its prey.  
+~
+cat~
+AG Z -400 0
+18 18 27d6+164 18d10+85 5d3+11 claw
+0 0 0 4
+FH 0 0 0
+stand stand either 50
+AGV ACDEFHJKQUV M unknown 0
+#14313
+small lizard reptile~
+a small lizard~
+A small lizard slowly creeps along a vine.
+~
+The lizard is almost unnoticeable, its green skin nearly matching that of
+the forest around it.  It slowly moves along the vines, traveling among the
+branches, eating smaller insects.  
+~
+lizard~
+AG 0 -100 0
+15 15 23d5+137 15d10+85 4d3+10 bite
+2 2 2 5
+0 0 L I
+stand stand either 20
+AGXc ACDEFHKQV S unknown 0
+#14314
+long centipede worm~
+a long centipede~
+A centipede slithers along the ground, its many legs rustling the leaves.
+~
+Many legs joined by a long sinewy body, it crawls swiftly along the
+leaves upon the forest floor, rustling them as it moves.  A colorful yellow
+
+and red, it is nearly the size of a snake, and nearly as formidable.  
+~
+centipede~
+AG Z -500 0
+10 10 15d3+92 10d10+85 2d5+8 sting
+4 4 4 6
+M 0 FI E
+stand stand either 5
+ABGO ACK T unknown 0
+#14315
+skunk~
+a skunk~
+A skunk scurries along the forest floor.
+~
+Black and white stripes adorn the back of this small, cat-like animal. 
+Its claws are sharp, but the true punishment this creature reaps is it's
+stench.  
+~
+fox~
+AG Z -200 0
+10 10 15d3+92 10d10+85 2d5+8 bite
+4 4 4 6
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV S unknown 0
+#14316
+spider black~
+a black spider~
+An insidious black spider, dangles from its web.
+~
+Adorned only by a foreboding red marking upon its back, the spider sways
+delicately upon a strand of its own webbing.  Its legs are long and agile.
+~
+centipede~
+AG Z 0 0
+13 13 20d4+119 13d10+85 3d4+9 bite
+3 3 3 5
+0 0 FI E
+stand stand either 0
+ABGO ACK T unknown 0
+#14317
+bird duck~
+a duck~
+A duck flies about, gliding just above the brush.
+~
+Gliding above the brush, the duck quacks loudly, its head turning left
+and right in search of forgotten berries and roots.  Its feathers are the
+color of trees, brown mottled with a deep green.  
+~
+water fowl~
+AG Tb 200 0
+14 14 21d4+128 14d10+85 4d3+9 peck
+2 2 2 5
+0 0 R 0
+stand stand either 0
+AGW ACDEFHKP S unknown 0
+#14350
+Ryesa woman~
+Ryesa the trader~
+Ryesa sings happily, minding her wares.
+~
+Smiling she walks about the tent arranging and polishing her wares of
+Qualinesti.  It is unknown how she retrieves the wares from Qualinost, but
+from her attire one could only assume it is worth it.  
+~
+human~
+ABG 0 0 0
+200 200 300d66+7281 200d10+85 57d3+71 slap
+-86 -86 -86 -44
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK M flesh 0
+M GRALL 14350 100~
+#14351
+man old Xerig~
+Xerig, the Innkeep~
+Xerig sits here, gazing blankly into the shadows.
+~
+His clothes tattered and torn, he has faded as much as his Inn, Business
+is slow with the Dragon Armies about wreaking havoc upon Krynn.  His sunken
+eyes, bear a long mourned sadness, nearly void of all life.  
+~
+human~
+ABG 0 -200 0
+200 200 300d66+7281 200d10+85 57d3+71 beating
+-86 -86 -86 -44
+0 ABCD 0 0
+sit stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#14300
+pool pond water~
+a small pool~
+Light shimmers off of a small {cpool{x.~
+unknown~
+fountain O 0 P
+-1 -1 'water' 0 0
+0 0 0 P
+#14301
+quiver elven arrows~
+a quiver of elven arrows~
+A quiver of elven arrows lies here.~
+leather~
+quiver S 0 AKc
+30 3 6 0 0
+30 1 10 P
+#14302
+qualinesti long bow longbow~
+a Qualinesti Longbow~
+A large wooden bow, lies on the ground here.~
+oak~
+weapon S 0 ANZ
+bow 4 8 pierce 0
+30 5 30 P
+#14303
+circle stones rocks~
+a ring of stones~
+A ring of {Wwhite stones{x lies upon the ground here.~
+stone~
+trash A 0 P
+0 0 0 0 0
+0 0 0 P
+#14304
+unused~
+unused~
+None~
+unknown~
+trash 0 0 0
+0 0 0 0 0
+0 1 0 P
+#14305
+rose quartz necklace choker~
+a rose quartz choker~
+A rose quartz necklace of some sort, gathers dust on the ground.~
+rose quartz~
+jewelry SY 0 ACc
+0 0 0 0 0
+20 1 200 P
+A
+20 -1
+A
+27 2
+#14306
+ring ivy~
+a ring of Ivy~
+A golden ring of intertwining ivy, sits upon the ground forgotten.~
+gold~
+jewelry 0 0 ABc
+0 0 0 0 0
+0 0 150 P
+A
+27 1
+#14307
+fine crystal goblet~
+a crystal goblet~
+A crystal goblet, sits here, unwanted and collecting dust.~
+crystal~
+drink S 0 A
+5 3 'water' 0 0
+0 1 150 P
+#14308
+fine silver platter~
+a fine silver platter~
+An engraved silver platter bearing the symbol of Qualinesti, lies on the floor.~
+silver~
+treasure 0 0 AO
+0 0 0 0 0
+0 0 300 P
+#14309
+bracer ivy~
+a {yBracer{x of {gIvy{x~
+A bracer of ivy lies here, rotting away.~
+plant~
+armor AS 0 AMY
+D D D C 0
+30 1 200 P
+#14310
+green qualinesti tunic~
+a {gQualinesti{x tunic~
+A green colored tunic, the color of the trees, sits here.~
+dyed leather~
+armor S 0 ADY
+AC ABC BC A 0
+20 4 100 G
+#14311
+rust glass wine~
+a rusted glass of elven wine~
+A rusty glass, sits upon the ground here.~
+glass~
+drink S 0 A
+3 3 'elvish wine' 0 0
+0 0 30 P
+#14312
+bread moldy~
+moldy bread~
+Moldy bread gathers dust upon the floor.~
+unknown~
+food S 0 A
+B 0 0 0 0
+0 0 20 P
+#14313
+chest iron~
+a large iron chest~
+A large iron chest, sits in the corner, covered in cobwebs.~
+iron~
+container 0 0 P
+0 ABCD 14314 20 0
+0 50 0 P
+#14314
+rusty key~
+a rusty iron key~
+A rusty iron key, bearing the symbol of Kith-Kanan, lies on the floor.~
+iron~
+key 0 0 A
+0 0 0 0 0
+0 1 0 P
+#14315
+qualinesti elven meditation beads~
+some Qualinesti meditation beads~
+A set of elven meditation beads, blessed by the temple, lie here forgotten.~
+smoky quartz~
+jewelry AIKS 0 AC
+0 0 0 0 0
+30 1 1000 P
+A
+3 1
+A
+4 1
+#14316
+fiery red robes~
+{RFiery-red{x robes~
+A set of {Rfiery-red{x robes lay crumpled upon the ground here.~
+silk~
+armor SY 0 AKc
+AD AD AD ABC 0
+40 1 400 P
+#14317
+bed moss~
+a bed of {gmoss{x~
+A luxurious bed of {gmoss{x, soft as silk, sits here.~
+plant~
+furniture 0 0 P
+B DGH DGJ D C
+0 100 0 P
+#14399
+sign large wooden~
+a large wooden sign~
+A large, wooden sign reading "COMING SOON" stands here.~
+wood~
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#14336
+A Path Along a Stream~
+The path trails along a small tree that winds its way through the elven
+forest, eventually returning its waters to the sea.  Small flowers grow
+alongside the rushing waters, their colors reflected in a dazzling moving
+display in the stream as the current flows quickly by.  The path itself
+heads to the north and the south where it narrows, and heads deeper into the
+woodland.  
+~
+0 0 3
+D0
+~
+~
+0 0 14333
+D2
+~
+~
+0 0 14335
+S
+#14337
+A Path Along a Stream~
+Continuing along the stream, the path veers northwards, widening as it
+come to a road and a bridge.  The small pathway turns to the east skirting
+the waters of the stream and heads into the woodland.  A deer dips its mouth
+down to the stream and drinks before turning and dashing off into the
+protection of the trees.  The canopy above sways gently in winds that bring
+the scent of flowers and dew.  Small berry adorned bushes, stand near the
+pathway offering their fruit to the curious traveler, their branches raised
+towards the branches above nearly picked clean by the flighty birds.  
+~
+0 0 3
+D0
+~
+~
+0 0 14338
+D1
+~
+~
+0 0 14334
+S
+#14338
+A Path Along a Stream~
+The stream begins to widen, and rapids become noticeable across its
+surface as waters cascade into foam across large rocks.  To the north is the
+main road, where it approaches a large intricate stone bridge marked by the
+symbol of Qualinost.  To the south, the pathway follows the small stream as
+it separates from the river proper and follows its own path through the
+forest.  A trail marker, barely noticeable to the naked eye, stands just of
+the path, hidden in overgrown brush.  
+~
+0 0 3
+D0
+~
+~
+0 0 14339
+D2
+~
+~
+0 0 14337
+S
+#14339
+Along a Road, Within Qualinesti~
+The road comes to an intersection, heading westward over a large stone
+bridge, and eastward into the forest.  Small game trails veer off to the
+north and the south, showing signs of the prosperity of the woodland.  Birds
+dip in and out of the large branches above, their wings beating to a rhythm
+known only to the trees.  Their calls echo out across the rapidly swirling
+waters beneath the bridge, and sound into the depths of the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 14384
+D1
+~
+~
+0 0 14390
+D2
+~
+~
+0 0 14338
+D3
+~
+~
+0 0 14340
+S
+#14340
+Upon an Intricate Stone Bridge~
+Stones join together her forming a large bridge across the river below. 
+Their make is pure perfection, obviously the work of dwarves, as although
+the bridge is old it is almost like new.  Towards the center of the bridge
+is the keystone, and bears an intricate carving of the elves of Qualinesti. 
+Water rages across the stones below, white foam beating against sharp rocks
+in an endless roar.  The bridge itself is wide enough to accommodate carts,
+as ruts have begun to wear into the bridge's surface.  A road continues both
+to the west and into Qualinost, or to the east into Qualinesti.  
+~
+0 0 3
+D1
+~
+~
+0 0 14339
+D3
+~
+~
+0 0 14341
+S
+#14341
+Along a Road, Within Qualinesti~
+The roads head to the north and eventually reaching the city of the
+Qualinesti, and to the east where it crosses an intricate stone bridge
+bearing the symbol of the keepers of this forest.  The sound of water roars
+beneath the bridge, its current cascading The trees about here are well kept
+and uniform, apparently by the elves, and provide a sense of welcome to
+those who wish no foul actions upon their territory.  Eyes watch from all
+about, casting cautious glares, as they wait to regard all travelers as
+friend or foe.  To the south stands an old shack forgotten, and left to the
+ravages of time.  An old Inn, the only sign reads "Last Way Inn, Last Way
+Out", and juts from long rusted antiquities the haphazardly lay about the
+building."  
+~
+0 0 3
+D0
+~
+~
+0 0 14342
+D1
+~
+~
+0 0 14340
+D2
+~
+~
+0 0 14394
+S
+#14342
+Along a Road, Within Qualinesti~
+Making one of its final bends the road veers to the west, the Southern
+Arched Gate of Qualinost, visible above the tree-line where the sky breaks
+through.  The wagon ruts follow the winding path, finally at their
+destination and seem softer here, as if the hearts of the caravans were
+lifted by the sights of the beautiful elven forest.  Uniform trees surround
+the path, kept neat and pruned to perfection, living statues of the
+Qualinesti's dedication to their homeland.  The road returns to the south
+where it crosses the ancient stone bridge and heads into the forest proper. 
+~
+0 0 3
+D2
+~
+~
+0 0 14341
+D3
+~
+~
+0 0 14343
+S
+#14343
+The Outskirts of Qualinost~
+To the north stands the Southern Arched Gate of Qualinost, the road
+slowly making its way to a sturdy gate of interwoven branches bearing the
+symbol of the Speaker of the Sun.  Elven Rangers stand guard upon the wall,
+their bows at their back as they patrol searching the forest about with keen
+eyes for any signs danger.  In the distance stands the Hall of the Sky, and
+further upon the horizon shines the Tower of the Sun, gracing the sky with
+its glowing presence.  Piercing eyes watch from the guard tower nestled
+along the wall.  The road begins and ends its journey here, entering the
+city of Qualinost, and turning back into the wilds of Qualinesti.  
+~
+0 0 3
+D0
+~
+~
+0 0 8800
+D1
+~
+~
+0 0 14342
+S
+#14344
+The Grand Intersection, Within Qualinesti~
+The road here is very well-traveled and marked by the signs of many
+camps.  Old fire rings sit alongside the path, forgotten ashes left to the
+winds to scatter about the forest.  Wagon ruts head in all directions,
+carved into the road by centuries of use.  Birds chitter happily above,
+stopping to rest upon large over hanging branches, many chopped away for use
+of the fires.  A little ways to the north stands a grandiose purple tent,
+with golden thread interwoven into its rich silk.  To the east sounds the
+call of rushing waters, yet the source remains hidden behind the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 14386
+D2
+~
+~
+0 0 14329
+D3
+~
+~
+0 0 14345
+S
+#14345
+Along a Road Within Qualinesti~
+Here the road widens, showing signs of many wagon tracks and old fire
+sites.  Eastward lies the Grand Intersection of Qualinesti, where caravans
+often stop to rest before entering the city, or leaving the forest.  The
+canopy is no longer as thick as that to the west, allowing light to escape
+through its leaves, casting various rays across the forest floor.  The road
+heads deeper into the domain of the woodland to the west, but loses
+visibility as the forest becomes thicker and darkens under the blanketing
+green sky created by the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 14344
+D3
+~
+~
+0 0 14346
+S
+#14346
+Along a Road, Within Qualinesti~
+A dark path turns northward, heading into the deep brush and bushes. 
+Thorn wielding guardians, they stand watch over the nearly hidden trail
+offering resistance to those whom wish to follow it.  Wagon ruts mar the
+road, and head both deeper into the forest to the west and towards the Grand
+Intersection to the east.  The air here is still, the silence broken by the
+occasional call from within the grasp of the ancient trees, and a deep
+green darkness is cast from the eternal green canopy that extends above.  
+~
+0 0 3
+D0
+~
+~
+0 0 14347
+D1
+~
+~
+0 0 14345
+D3
+~
+~
+0 0 14387
+S
+#14347
+Deep Within Qualinesti~
+The pathway can still not be seen, although it is somewhere in this
+eternal maze of green.  Animals call out deeper in the forest, alerting the
+woodland to their presence.  Thorn wielding bushes block the way, but seem
+thin to both the north and south.  The moss is unmarred by travel, showing
+no signs of life nearby, and the forest here is strangely untouched and
+perhaps unseen to all.  
+~
+0 0 3
+D0
+~
+~
+0 0 14348
+D2
+~
+~
+0 0 14346
+S
+#14348
+Deep Within Qualinesti~
+The trees close in here, providing any view of the trails about.  The
+brush only gets thicker in all directions, intertwining itself along the
+ground and about the trunks of the large trees.  In the distance an owl
+calls to in search of prey.  Only to the north and south is the brush light
+enough to pass through without any trouble, as most of the small branches
+bear formidable thorns.  
+~
+0 0 3
+D0
+~
+~
+0 0 14349
+D2
+~
+~
+0 0 14347
+S
+#14349
+Deep Within Qualinesti~
+The trees and brush provide no room to see the way out of this infernal
+forest, closing in from all directions and blocking any view of nearby paths
+or trail markers.  Birds fly about above, flitting from branch to branch,
+curiously peering about.  The brush is blanketed by thorny branches, like
+dagger wielding hands waiting for the clumsy to stumble into their grasp,
+and block most every direction.  The thorny bushes are thin both to the
+north and south, perhaps they can be passed without too much trouble.  
+~
+0 0 3
+D0
+~
+~
+0 0 14350
+D2
+~
+~
+0 0 14348
+S
+#14350
+A Path Along the River~
+Following the river, the path continues to the west, and separates to the
+south where it enters a large patch of brush and disappears into the bowels
+of the forest.  Vines and moss dangle from low-hanging branches, livened by
+small gusts of winds as they dance in from across the waters to the north. 
+A fox runs southward following the darker trail, and leaps into the bushes
+stalking after some unknown prey.  The water roars from the north, moisture
+wetting the leaves of the trees as the waters slam against the stones
+wearing them away.  
+~
+0 0 3
+D1
+~
+~
+0 0 14351
+D2
+~
+~
+0 0 14349
+D3
+~
+~
+0 0 14380
+S
+#14351
+A Path Along the River~
+The trail skirts its way about the river to the north heading westward,
+where large game tracks are noticeable upon its surface.  To the east lies
+the road, joined through the thick, thorn-wielding to the road that travels
+through the forest.  Waters rush along a predestined route to the north,
+waves cresting along boulders and stone.  Animal tracks mark the way here,
+turning northward to drink from the stream and then into the brush
+southwards.  
+~
+0 0 3
+D1
+~
+~
+0 0 14352
+D3
+~
+~
+0 0 14350
+S
+#14352
+Along a Road, Within Qualinesti~
+Turning to the south the road forges a path through the depths of
+Qualinesti, and to the east as well where it seeks the exit of this green
+darkness.  The wagon ruts turn away from a small game trail to the west,
+where the path is much too narrow to support wagon travel and the brush
+prevents most travel except by foot or mount.  A large river rages to the
+north, its waters occasionally visible through the shifting branches of
+the bushes, sending splashes of white foam into the air as the current slaps
+against stone.  
+~
+0 0 3
+D1
+~
+~
+0 0 14353
+D2
+~
+~
+0 0 14385
+D3
+~
+~
+0 0 14351
+S
+#14353
+Along a Road, Within Qualinesti~
+The road enters into the forest to the west, where trees surround its
+boundaries, their dark green vines dangling down like emerald jewelry.  The
+road also turns northward where it makes its way out of the forest, bending
+through a large grove of trees and flowers.  The road is scarred by the use
+of wagons, two eternal ruts forever present upon its surface, used by those
+wishing to enter the elven city, and to leave to woodland.  Birds cry out,
+singing merrily as they rest their small, delicate wings and sit in the
+branches watching everything in curiosity.  
+~
+0 0 3
+D0
+~
+~
+0 0 14359
+D1
+~
+~
+0 0 14354
+D3
+~
+~
+0 0 14352
+S
+#14354
+Within a Large Grove of Trees~
+The grove begins to close in slowly become smaller as the trees seemingly
+close in about it.  Their branches sway in the winds, a maelstrom of green
+leaves churns above, briefly allowing the sky to be seen and light to break
+through.  Animal calls sound out, and the forest becomes nearly silent once
+more, only the rustle of leaves audible in the distance.  To the north and
+the west, stands the road, its chosen paths taking it into the forest and
+away.  The scent of flowers is strong here, emanating from a large patch of
+irises, their purple hoods cast towards the canopy asking for sunlight.  
+~
+0 0 3
+D0
+~
+~
+0 0 14358
+D1
+~
+~
+0 0 14355
+D3
+~
+~
+0 0 14353
+S
+#14355
+Within a Large Grove of Trees~
+Moss and vines dangle from above turning slightly as the wind changes, no
+longer blowing from the north it comes from the south, from within the
+depths of the forest.  Its brings with it the scent of trees and flowers,
+the feral scents of nature.  Small mushrooms caps surround serpentine roots
+poking from the earth, their shy tips hiding in the grass.  A field mouse
+runs quickly to the base of a tree before seeking safety in a small burrow,
+as the hoot of an owl betrays the presence of its hunter.  To the northwest
+stands the roads that traverses the length of Qualinesti.  
+~
+0 0 3
+D0
+~
+~
+0 0 14357
+D1
+~
+~
+0 0 4241
+D3
+~
+~
+0 0 14354
+S
+#14356
+A Tranquil Meadow~
+A tranquil sense of serenity exists here, light dancing across the canopy
+above, reflected from the surface of a small pool.  The winds brings the
+scent of life and rebirth, shuffling the leaves above, causing the
+shimmering light to dance across the surrounding trees to an inaudible tune.
+A fish jumps, sending rippling waves to the shores of the pool.  Startled by
+the splash, a small frog croaks and jumps into the reeds hoping for safety. 
+Flowers grow all about, their multicolored faces cast towards the sky,
+waiting for light to grace their awakening.  Roots extend from the moss,
+contorted by time and nature, reaching for the water of the pool.  Birds
+play in the air above, swooping low letting the tips of their wings briefly
+disturb the water's surface.  
+~
+0 0 3
+D3
+~
+~
+0 0 14357
+S
+#14357
+Within a Large Grove of Trees~
+The earth is lush and rich here, covered with a soft moss.  Roots poke
+bashfully out of the ground, like brown tendrils searching avidly for
+nutrients.  A large meadow is to the east, graced by the dazzling waters of
+a small pool.  A splash can be heard, as fish leap from its depths.  The
+birds fly around above, one returning to its nest dropping berries to its
+young, their chirps peeping shrilly into the forest air.  The air is marked
+by the scent of flowers and trees, sweet and musty yet completely pure.  
+~
+0 0 3
+D0
+~
+~
+0 0 14362
+D1
+~
+~
+0 0 14356
+D2
+~
+~
+0 0 14355
+D3
+~
+~
+0 0 14358
+S
+#14358
+Along a Road, Within Qualinesti~
+Flowers festoon the ground here, growing about the road, their many
+colored faces cast towards the canopy above.  Bees drone, collecting the
+nectar, and fly away returning to their hives amongst the trees.  The road
+turns westward, skirting the grove, and enters the trees.  Large branches
+stretch overhead, their green arms swaying lightly, and the winds send old
+leaves dancing across the forest floor in a flurry of rustling and
+crackling.  
+~
+0 0 3
+D0
+~
+~
+0 0 14361
+D1
+~
+~
+0 0 14357
+D2
+~
+~
+0 0 14354
+D3
+~
+~
+0 0 14359
+S
+#14359
+Along a Road, Within Qualinesti~
+The road turns here, winding its way through the large grove, turning to
+the east and the south like an unkempt snake.  Large trees stand watch over
+the forest, their duty from birth, as their large branches droop slightly
+from the weight of great vines.  Moss dangles from their ancient bark and
+sways softly in the wind, earth mingling with air.  Wagon ruts mar the path
+showing signs of travel, either to the city of the Qualinesti, or of those
+wishing to exit the woodland.  
+~
+0 0 3
+D0
+~
+~
+0 0 14360
+D1
+~
+~
+0 0 14358
+D2
+~
+~
+0 0 14353
+S
+#14360
+Within a Large Grove of Trees~
+To the east lays the large road that traverses through the forest and
+beyond, eventually arriving at the gates of Qualinost.  Multi-colored
+flowers decorate the forest floor in a wash of color, clashing with the
+green overhead.  Scurrying into the bushes, a family of mice pokes their noses
+about in search of seeds to store in their den.  Snake like vines dangle
+down from the large branches above, swaying softly in the wind, their
+serpentine grasp entangled about the trees.  Birds dance in the winds, their
+wings and calls echoing throughout the vast expanse of trees and brush.  
+~
+0 0 3
+D1
+~
+~
+0 0 14361
+D2
+~
+~
+0 0 14359
+S
+#14361
+Along a Road, Within Qualinesti~
+Trees stand all about, wild grasses growing along side the well traveled
+path through the forest.  Animal calls are heard from all directions, as
+Nature makes its presence here known.  Wagon-ruts scar the surface of the
+road, as it bends and winds its way through the large clearing and into the
+depths of Qualinesti.  The roads heads to the south at the center of the
+grove, and from there enters the forest proper.  
+~
+0 0 3
+D0
+~
+~
+0 0 14399
+D1
+~
+~
+0 0 14362
+D2
+~
+~
+0 0 14358
+D3
+~
+~
+0 0 14360
+S
+#14362
+Within a Large Grove of Trees~
+To the west stands the large road that travels the length of Qualinesti,
+eventually leading to the town of Qualinost.  Flowers grow about the forest
+floor, providing a rest from the blinding green that marks the domain of the
+forest, forming a vast collection of colors no found in the rest of Krynn. 
+A squirrel scurries quickly to the base of a large tree, and leaps up its
+trunk in search of sanctuary from other dangers, it’s chattering ringing from
+the branches above.  Vines dangle down from the overhanging canopy, almost
+like snakes, their rough surfaces covered by thick, gigantic leaves.  
+~
+0 0 3
+D2
+~
+~
+0 0 14357
+D3
+~
+~
+0 0 14361
+S
+#14363
+A Small Path~
+The trees grow stranger here, many are warped and larger than the trees of
+the forest to the east.  Birds still flit about, not caring to mind the
+difference, as they carve intricate designs into the smoke billowing upwards
+to the west.  The stream gurgles as water slides over worn, smooth pebbles,
+being carved by time and water.  The path seems newer, used recently by a
+troupe of travelers, cleared of all brush as if it were created only
+yesterday.  Flowers of all colors grow alongside the path, many strange and
+twisted altered by magics unknown.  The path continues on to the west, and
+crossed the old bridge to the east.  
+~
+0 32768 3
+D3
+~
+~
+0 0 14364
+S
+#14364
+A Small Path~
+The path turns here heading northward, lost in the distance in a dark
+black smoke.  The forest steadily grows darker, red and orange lights
+flickering across the green canopy above.  No plant touches the path, except
+for a stray patches of grass, as if they are protecting themselves from an
+unnatural force.  It is hotter here, steam rises from the ground.  
+~
+0 32768 3
+D0
+~
+~
+0 0 14365
+D1
+~
+~
+0 0 14363
+S
+#14365
+A Small Path~
+The trees are aglow with dancing red lights flickering about across the
+trunks and leaves, dancing through the large clouds of smoke that rise in
+the air.  The forest is afire to the west, flames gracing the path,
+stretching their scorching tongues to the sky, hissing and crackling to be
+fed.  No animal strays here, and no tracks are noticeable in the seemingly
+freshly laid path.  The twittering of birds has stopped, all absent wishing
+to avoid the strange flames.  The black smoke seems lighter to the south,
+perhaps the flames have not yet ventured into that region of the forest.  
+~
+0 32768 3
+D2
+~
+~
+0 0 14364
+D3
+~
+~
+0 0 14367
+S
+#14366
+A Stony Moor~
+The plant life recedes here, giving way to various rocks and boulders.  A
+large boulder shifts, slowly rumbling, telling its story to any who may
+listen.  The winds sweep up small storms of dust and dirt, and dissipate
+allowing its contents to settle upon the ground once more.  The rocks shift,
+and the landscape changes.  Time worn stones bear ancient symbols carved by
+long dead hands.  A mysterious mist rises from the ground, carrying with it
+the pure scent of the earth.  The trees at the border of the moor are larger
+than the rest throughout the forest, the nutrients within the ground here
+are enhanced by arcane magics forgotten to Krynn.  To the west stands a
+large circle of white stones, monoliths of time.  
+~
+0 32768 3
+D3
+~
+~
+0 0 14368
+S
+#14367
+A Fiery Path~
+The path here is surrounded by dancing flames, slowly consuming the
+ground around it.  The flames arc and writhe, attempting to escape the
+strong power of magic here, and to consume the rest of the forest.  The
+trees shudder as their predator sparks and hisses in its confusion.  Smoke
+streams upward, nearly blocking any view of the trees and braches above. 
+Charred stones lay about, blackened by the extreme heat of the flames, and
+are covered with ash.  Winds sweep in from the north, where chanting can be
+heard, and the ashes scatter about the forest like a black snow.  The trail
+is unhindered by the flames to the east, untouched by its burning tongue.  
+~
+0 32768 3
+D0
+~
+~
+0 0 14368
+D1
+~
+~
+0 0 14365
+S
+#14368
+The Circle of Stones~
+A large ring of stones has been laid out upon the forest floor, within it
+sits an old Oracle.  The trees here are ancient, outdating the trees
+throughout the rest of the forest.  Old withered vines, dangle like lifeless
+snakes from the surrounding branches, swaying in the haunting wind.  The
+stones glow briefly, rejuvenating the forest.  The vines snake back to life,
+green once more.  No animals can heard in the distance, only a deathly
+silence fills this part of the woodland.  Light shimmers above, dancing
+within the leafy grasp of the old trees.  The leaves momentarily shudder, as
+if whispering to one another in an arcane language forgotten to the races of
+this world.  
+~
+0 32768 3
+D0
+~
+~
+0 0 14369
+D1
+~
+~
+0 0 14366
+D2
+~
+~
+0 0 14367
+D3
+~
+~
+0 0 14370
+S
+#14369
+A Tranquil Pool~
+Water dampens the ground here, and every movement upon it creates an
+unearthly squishing sound.  The ground gives way to a large pond, fed by
+small waterfalls that seemingly surround it.  Water spouts dance across the
+surface, created by magics known only to those dedicated to the ways of
+nature.  Leaves and lilies slide delicately across the surface of the pond,
+enriched by its ethereal waters.  To the south stands a large ring of white
+stones, monoliths of time forgotten by most races upon Krynn.  Mist rises
+from the water, mingling amongst the trees leaving a trail of dew across the
+green faces of its victims.  
+~
+0 32768 3
+D2
+~
+~
+0 0 14368
+S
+#14370
+A Windy Clearing~
+Winds sweep through here, forever churning in a maelstrom of strong
+gusts.  Birds are wary of this place, as the winds sometime rage across the
+forest, tearing out small trees and plants, ravaging the woodland.  The
+branches groan under the power of the winds, swaying back and forth, begging
+for mercy.  The clearing is void of plants, only grass sways upon the
+ground, becoming a tempestuous sea of green bending to the will of the
+winds.  To the east a large rings of white stones can be seen, and seemingly
+the winds stop there as well, and are held only in this clearing.  
+~
+0 32768 3
+D1
+~
+~
+0 0 14368
+S
+#14371
+Upon a Fallen Tree~
+A fallen oak, sits above the rushing water below, slowly succumbing to
+the powers of decay and rot.  Its surface is sturdy enough to bear the
+weight of travelers.  Old bark crumbles, torn away by the wind and falls
+into the water, and is lost in the consuming foam maelstrom below as surging
+water cascades along large rocks.  Birds fly swiftly across overhead, their
+wings protecting them from having to heed the precarious pathway offered by
+the fallen tree.  Rotted branches crackle and buckle under the strain of
+time, and break from the tree, hanging limply at its side, held only by a
+short strand of life that the tree can offer.  
+~
+0 0 3
+D1
+~
+~
+0 0 14372
+D3
+~
+~
+0 0 14328
+S
+#14372
+A Copse of Overgrown Woodland~
+The woodland here is unhindered by the hands of caravans and travelers,
+the trees stretching almost infinitely towards the hidden sky.  Branches
+block out the sun, yet their cover is thin, and a green glow is cast about
+the trail here.  Mushrooms and roots cower at the base of the trees, gnarled
+yet hungry they cover the forest floor, A mouse pokes it head neatly out of
+a small den within the roots, before returning to its own worries within the
+soil below.  Birds play in the winds as they ride its graceful power
+throughout the scattered branches above, their calls echoing throughout the
+canopy, descending down to the forest floor.  
+~
+0 0 3
+D0
+~
+~
+0 0 14373
+D2
+~
+~
+0 0 14374
+D3
+~
+~
+0 0 14371
+S
+#14373
+A Copse of Overgrown Woodland~
+The brush offers no hindrance to the south or to the east, although it
+is overgrown.  Moss lines the ground creating a soft blanket of small green
+tendrils, that extends all around.  A wolf bays in the distance, making its
+presence known before it searches for food.  Old leaves are caught up in a
+scuffle with the winds, intermingling with the smell of wet earth and the
+trees.  Water rushes to the west, following the current along stone boulders
+as it surges southward.  The road is visible across the river, and it
+scarred surface can be made out just above the concealing brush at the
+riverside.  
+~
+0 0 3
+D1
+~
+~
+0 0 14376
+D2
+~
+~
+0 0 14372
+S
+#14374
+A Copse of Overgrown Woodland~
+The trees surround the meager path, consuming its borders with brush and
+vine.  Birds cal above diving down to catch the insects floating the still
+waters of a small cove made by the river.  Scampering across the path a
+beaver chatters, and dives into the waters in search of its den.  The small
+pathway turns further east into the overgrown copse of trees, heading into
+the distance, and also to the north where it joins with the fallen tree. 
+Masses of old leaves arisen in the wind stream across beds of moss, their
+rustling barely audible above the waters of the river.  
+~
+0 0 3
+D0
+~
+~
+0 0 14372
+D1
+~
+~
+0 0 14375
+S
+#14375
+A Copse of Overgrown Woodland~
+Looming branches droop down across the path, their massive leaves and
+vines nearly blocking any view of the small trail in these green depths. 
+Animal cries sound out in the distance, calling to each other.  Winds sweep
+in and a brief scent of the magical elven woodland brushes its way along the
+path, carrying leaves and birds to unknown destinations.  Light breaks
+through the eternal green canopy that is the heavens here, and dances slowly
+across the floor, illuminating soft beds of moss and stone.  The unkempt
+trail heads both eastwards and westwards.  
+~
+0 0 3
+D1
+~
+~
+0 0 14379
+D3
+~
+~
+0 0 14374
+S
+#14376
+A Copse of Overgrown Woodland~
+The pathway continues onward to the west, where the waters of the river
+flash in the light as they cross large stones, even the white foam can be
+seen crashing upon the shores.  Branches sway above, aroused by gusts of
+perilous winds, carrying with them a plethora of dead leaves and small birds
+riding the draft out of laziness.  Animal tracks dig deeper here as the soil
+grows wet from being close to the river.  Cries echo all about through the
+trees, and a small bush rustles with the life of a family of rabbits, as a
+curious head peers from beneath green clad branches.  
+~
+0 0 3
+D1
+~
+~
+0 0 14377
+D3
+~
+~
+0 0 14373
+S
+#14377
+A Copse of Overgrown Woodland~
+The path widens here, large tracks scarred upon its surface by larger
+animals seeking to drink at the river.  The green blanketing canopy above,
+churns in unseen winds and a snow of large green leaves showers to the
+ground.  Flowers poke from the earth, their rainbow colored faces seeking
+the light of the sun, only to have it elude them through the hungry branches
+of the trees.  The path weaves its away under massive vine entangled
+branches, turning to the west and the south.  A large river is audible in
+the distance, its drumming felt even through the ground here.  
+~
+0 0 3
+D2
+~
+~
+0 0 14378
+D3
+~
+~
+0 0 14376
+S
+#14378
+A Copse of Overgrown Woodland~
+Tracing its way through the trunks of large trees, the trail heads on to
+the north and the south, weaving its way through the green woodland.  Small
+animals skitter about in the leaves wishing to remain unseen as they seek
+out neglected nuts and berries.  The branches part to the north, where the
+trail widens and large game tracks mark its surface.  A semi-fallen tree
+leans to the south, maintaining its grip on the earth with all of its might.
+Birds call about above as they dance in the gusts of winds that rustle the
+trees into a shivering life of sorts.  
+~
+0 0 3
+D0
+~
+~
+0 0 14377
+D2
+~
+~
+0 0 14379
+S
+#14379
+A Copse of Overgrown Woodland~
+A large tree has shifted here, baring a large section of earth and stone
+to the eyes of light.  Roots have torn away massive sections of soil, vines
+and moss draping into a large maw of darkness where the tree once stood. 
+Strange symbols are carved into a large root, in the language of the
+Qualinesti, perhaps and old cache forgotten here by the elves.  The trail
+turns northward, heading deeper into the green depths of the forest, and to
+the west returning to those same confines.  
+~
+0 0 3
+D0
+~
+~
+0 0 14378
+D3
+~
+~
+0 0 14375
+D5
+~
+~
+0 0 14391
+S
+#14380
+A Path Along the River~
+The path skirts the river to the north and continues on to the west and
+the east.  To the east it turns into the forest along a small trail, blocked
+by thick brush.  Birds fly across the canopy their multi-covered wings
+clashing with the green blanket of the trees.  Looming above their branches
+eternally hold the green sky in place, casting an emerald darkness across
+the forest floor, broken only occasionally by light that escapes their
+grasp.  
+~
+0 0 3
+D1
+~
+~
+0 0 14350
+D3
+~
+~
+0 0 14381
+S
+#14381
+A Path Along the River~
+The trail widens a bit here, allowing more of a view of the cascading
+waters of the river, no longer blocked by a concealing screen of trees and
+brush.  Following the river, it goes both to the west and to the east,
+skirting the outer regions forest.  A patch of wild flowers, larger than
+most stands to the side of the path, enhanced by the rich soil and magics of
+the forest.  Birds flit about chirping in tune with each other, as the dip
+across the river in search of easy insect prey.  
+~
+0 0 3
+D1
+~
+~
+0 0 14380
+D3
+~
+~
+0 0 14382
+S
+#14382
+A Path Along the River~
+The trail turns southwards and follows the river as it cascades deeper
+into a small ravine, and continues onward to the east trailing the river
+towards it's source.  The pathway is stonier here, and sharp rocks just from
+the surface of the trail.  The brush thickens to the south, and the trees
+grow more sporadically, opening up to a view of the sky, light beaming down
+upon the falling waters creating a dazzling array of shimmering foam.  A
+bridge is visible above the rising, wet mist to the south where it crosses
+the river.  
+~
+0 0 3
+D1
+~
+~
+0 0 14381
+D2
+~
+~
+0 0 14383
+S
+#14383
+A Path Along the River~
+The ravine to west levels, but the deafening roar of the waters booms
+from the north where it cascades down upon large stones, sending a spray of
+mist and foam into the air.  Trees close in from the west, entangled by
+vines and draped in a fine moss, their white bark barely visible through
+the green adornments.  The trail continues to the north, towards the raging
+falls, and to the south where the road is visible as it approaches the
+bridge before Qualinesti.  
+~
+0 0 3
+D0
+~
+~
+0 0 14382
+D2
+~
+~
+0 0 14384
+S
+#14384
+A Path Along the River~
+Just to the south lies the main road of Qualinesti, as it approaches the
+city of Qualinost.  The waters are calmer now, swirling along their path
+below to the west.  A large stone bridge crosses the gap just to the south,
+one of the many wonders of this forest.  Tress block any view of the forest
+to the east their consuming branches held towards the sky, festooned with
+ever-growing vines and moss.  The wind shifts the grasp and lets through a
+few rays of light, briefly illuminating the green dark that is Qualinesti.  
+~
+0 0 3
+D0
+~
+~
+0 0 14383
+D2
+~
+~
+0 0 14339
+S
+#14385
+Along a Road, Within Qualinesti~
+To the south, the Grand Intersection can be seen, noticeable by the
+numerous trail markers alongside the road here.  The road also continues on
+northward into the forest, large trees looming over the path, like white
+watchmen beneath an ocean of green leaves.  Birdcalls sing merrily across
+the woodland, their small forms barely noticeable as they flit about playing
+within the breezes, riding the small gusts of winds.  Just off the path to
+the south stands a lavish, purple tent, festooned in various decorations of
+the races of Krynn.  
+~
+0 0 3
+D0
+~
+~
+0 0 14352
+D2
+~
+~
+0 0 14386
+S
+#14386
+Along a Road, Within Qualinesti~
+The road continues to the north and the south, making its way through the
+woodland, and eventually reaching the grand city of Qualinost.  A large
+purple tent, festooned in superfluous decorations stands slightly to the
+west off of the side of the path.  A sign sticks up from the soil just next
+to the tent bearing the symbols of trade in every language.  The trees sway
+above in the wind, causing the vast green canopy to briefly surge like a
+green sea, carrying with it the scent of herbs and sap.  To the south stands
+the Grand Intersection where the caravans take a final stop before heading
+to the city or leaving the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 14385
+D2
+~
+~
+0 0 14344
+D3
+~
+~
+0 0 14388
+S
+#14387
+Along a Road, Within Qualinesti~
+The forest thickens here, trees banded together in a barrier of green
+foliage, hiding any view into the woodland about the road.  Bushes and brush
+have been cut back so as not to hinder the travels of the caravans that
+traverse here, yet the path darkens as light is kept by the canopy above.  To
+the east the road continues on through the forest, and a small trail
+branches from it into the deeper confines of Qualinesti.  A trail marker
+stands to the western boundaries of the road, marking it as safe to travel. 
+~
+0 0 3
+D1
+~
+~
+0 0 14346
+D3
+~
+~
+0 0 14389
+S
+#14388
+A Lavish Tent~
+Purple fabric drapes down from finely cut branches, interwoven with an
+exquisite gold thread, bearing symbols from across Krynn.  Strangely the
+tent resists the ravages of the weather and forest, and remains unsoiled. 
+Fantastic wares are displayed all about, glittering in the light cast from
+decorative lamps hanging from above.  Ryesa stands off to the corner, absent
+mindedly polishing a silver sheath, singing to herself in various languages
+to pass the time.  Birds fly about above resting briefly in the folds of the
+tent upon the branches singing with her.  To the east, a doorway has been
+made for wandering travelers to return to the road.  
+~
+0 1032 3
+D1
+~
+~
+0 0 14386
+S
+#14389
+Along a Road, Within Qualinesti~
+The roads becomes more level here, as the mounds of moss slowly dissipate
+back into the forest.  Mushrooms grow along ancient roots, their caps cast
+towards the sky, as they feed upon the dank soil about the trees.  Birds cry
+out, but remain unseen, hidden within the shifting leaves and winds above,
+their shadows dancing across the surface of the road, as they dart to and
+fro.  To the west the road bends and curves following an intricate path
+through the forest, and continues undisturbed to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 14387
+D3
+~
+~
+0 0 14390
+S
+#14390
+Along a Road, Within Qualinesti~
+The road weaves its way through numerous trees and bushes, heading both
+deeper into the forest and westwards towards the sounds of a torrent of
+rushing waters.  Light briefly escapes the green cover above, and drags
+slowly across large mounds of moss and brush, sending small unseen animals
+scampering for cover.  The wagon grooves dig deeper here, as the soil has
+been made soft by the growing plant life over time, following the road to
+its destinations, and bringing wares to and from Qualinost.  
+~
+0 0 3
+D1
+~
+~
+0 0 14389
+D3
+~
+~
+0 0 14339
+S
+#14391
+A Damp Cave~
+Water drips down large roots that dangle from the loose soil above,
+creating small puddles upon the floor of the cave.  Forgotten relics lay
+about the floor, festooning skeletal hands both slowly ruined by the passing
+of the tides of time.  The cave widens to the east and the south, where
+crimson eyes peer intently out of the darkness.  Rats fly across the floor
+intending to stay out of the shady green light cascading from the maw of the
+cave, darting from shadow to shadow.  
+~
+0 9 3
+D1
+~
+~
+0 0 14393
+D2
+~
+~
+0 0 14392
+D4
+~
+~
+0 0 14379
+S
+#14392
+A Damp Cave~
+The remains of a forgotten cache are scattered about on the floor, long
+picked clean by ravaging maggots and slugs.  The smell of decay is strong
+here, the scent of death staining every corner of the small encumbered
+cavern.  A small exquisite chest sits against a dusty stone mural depicting
+the elves of Qualinesti being led to the forest by Kith-Kanan, and bears a
+lock strangely unrusted by the dampness here.  Runes mark the lock and
+chest, protecting it from even the powers of time.  
+~
+0 4194305 3
+D0
+~
+~
+0 0 14391
+S
+#14393
+A Damp Cave~
+The soft screeches of bats echoes throughout the stony corridors, causing
+dirt and soil to shift sending streams of dust into the damp air.  A skull
+sits upon a small stone rising against a stony earthen wall, its eyes
+encrusted in muck and maggots, their little bodies writhing about within the
+eyes, searching for long gone flesh.  The cave narrows to the west and light
+streams in from the entrance of the cave, winds creating a ghostly whine as
+they dip into this forgotten realm and rush about the stones and caverns.  
+~
+0 4194305 3
+D3
+~
+~
+0 0 14391
+S
+#14394
+Last Way Inn, Last Way Out~
+The floors are mottled wood, made decades ago, and are slowly rotting
+from time's ravages.  A large sign hangs above reading in all languages
+"Common Goods, Last Chance Before Qualinesti".  Various items lay about on
+shelves, forgotten and dust-covered.  A counter of sorts, sits in the center
+of the room bearing loaves of stale breads and other foods.  A rat scurries
+about, slipping through a crack in the wall, escaping outside to the
+wilderness.  An older gentleman clad in rags sits quietly in the corner,
+gazing out a dirty half-broken window, rocking in his chair oblivious to the
+world about him.  Rusty armor and weapons is scattered against the far wall,
+a macabre of useless metals, rusted beyond recognition.  
+~
+0 1032 3
+D0
+~
+~
+0 0 14341
+S
+#14395
+Unused~
+~
+0 32772 3
+S
+#14396
+Unused~
+~
+0 32772 3
+S
+#14397
+Unused~
+~
+0 32772 3
+S
+#14398
+Unused~
+~
+0 32772 3
+S
+#14399
+Outskirts of a Vast Woodland~
+To the south stands a large forest, its trees growing to the point where
+they block out the sky in a blanket of greens that stretch to the horizon. 
+Two ancient trees grow side by side, standing guard over a single path that
+enters the forest.  Their bark shows that they are older than the rest of
+the forest, eternal sentinels to protect the leafen wonderland of the elves.
+Their branches intertwine forming a gate created by the feral forces of
+nature, not that of mortals.  Their wide leaves buckle briefly in the wind
+and rustle, spreading forgotten secrets to the apt listeners hidden within
+the blanketing canopy.  The path enters the forest through the gate, and
+continues on southward into a large grove of trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 4285
+D2
+~
+~
+0 0 14361
+S
+#14300
+Before a Great Forest~
+The path continues from the south into a vast expanse of woodland to the
+north.  Ancient trees stretch their branches towards the sky, leaves
+creating a blanketing canopy of dazzling green.  Birds flit about from
+branch to branch, stopping to rest and peer curiously about.  The woodland
+extends to the horizon, slowly climbing the mountains to the east,
+disappearing as they reach the peaks of snow in the distance.  A light
+breeze briefly shakes the branches, sending a flurry of leaves across the
+forest floor, as they dance upon the winds.  With the breeze comes the smell
+of blossoming flowers and timeworn trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 14301
+S
+#14301
+Along a Road, Within Qualinesti~
+Light shimmers through the leaves above, dancing across forgotten beds of
+moss.  An old trail leads deeper into the forest, wagon ruts scarring its
+surface.  A small rabbit emerges from the bushes, before dashing across the
+trail into a hole dug into the roots of a tree.  Bird calls break the
+periodic silence of the forest, ringing about in the tree tops.  Serpentine
+vines dangle from outstretched branches, twining about the trees in their
+search for daylight.  
+~
+0 0 3
+D0
+~
+~
+0 0 14303
+D2
+~
+~
+0 0 14300
+D3
+~
+~
+0 0 14302
+S
+#14302
+Within the Forest of Qualinesti~
+The meandering trail lies to the east, hidden behind sparse bushes.  An
+ancient tree stands here, its roots sporadically carving intricate tunnels
+in the beds of moss.  Gnarled branches extend outwards, half dead and
+showing the wears of time.  A low-hanging branch droops towards the forest
+floor, allowing the adventurous to explore its heights.  Leaves crackle as
+unseen creatures crawl about the time-swept roots in search for food.  A
+game trail opens to the west, marred by indistinguishable tracks heading
+deeper into the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 14301
+D3
+~
+~
+0 0 14311
+D4
+~
+~
+0 0 14320
+S
+#14303
+Along a Road, Within Qualinesti~
+A well-traveled road carves it way further into the forest towards the
+east, wagon ruts set into its surface, marred by the use of caravans.  To
+the south the road meanders back towards the entrance of the forest through
+the ancient gate of trees, that eternally stands watch over Qualinesti.  A
+small trail diverts from the road to the north, entering a large clearing. 
+Lights dance across the waters of what seems to be a large pool.  
+~
+0 0 3
+D0
+~
+~
+0 0 14321
+D1
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14301
+S
+#14304
+Along a Road, Within Qualinesti~
+The road here turns northward, heading deeper into the bowels of the
+forest.  Old leaves crackle at the passing of unseen animals, hidden within
+the brush.  To the west, the road turns southward and exits the confines of
+Qualinesti, and winds its way outside of elven borders.  Birds fly about
+their wings beating delicately, barely audible above the rustle of the
+blanket of leaves above as they embrace the winds.  The scent of sap and dew
+is strong.  The surface of the road is marked by various wagon tracks, the
+scars of caravans and travelers.  
+~
+0 0 3
+D0
+~
+~
+0 0 14305
+D3
+~
+~
+0 0 14303
+S
+#14305
+Along a Road, Within Qualinesti~
+The slope increases here, as the road ascends a small hill.  A gap in the
+leaves above allows light through, its rays fall across the path
+illuminating a small group of mice scurrying into the bushes.  The moss is
+soft, and shows markings of larger game tracks leading into the forest.  The
+road continues on to the north and the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 14306
+D2
+~
+~
+0 0 14304
+D3
+~
+~
+0 0 14321
+S
+#14306
+Along a Road, Within Qualinesti~
+The road slopes back down the hill before turning westward.  The wagon
+ruts are fresh here, recently used by a caravan passing through on its way
+to Qualinost.  Birds flit about above playing happily in the breeze, flying
+from branch to branch.  Winds rustle the branches within the canopy, briefly
+shifting their places sending a shower of light across the forest floor. 
+The road leads to the west and southward, where it crests a small hill.  
+~
+0 0 3
+D2
+~
+~
+0 0 14305
+D3
+~
+~
+0 0 14307
+S
+#14307
+Along a Road, Within Qualinesti~
+Small bushes of berries grow alongside the road, picked clean by the
+scavenging animals of the forest.  The remains of a campfire sit forgotten
+in a small copse of trees just off the side of the road.  The wind picks up
+the still-smoking embers, scattering them about the trees.  Smoke rises,
+drifting slowly into the branches above, mingling within the grasps of the
+trees, seeking the sky.  The road continues on to both the east and the
+west, further into the depths of Qualinesti.
+~
+0 0 3
+D1
+~
+~
+0 0 14306
+D3
+~
+~
+0 0 14308
+S
+#14308
+Along a Road, Within Qualinesti~
+Turning northward, the path meanders through the trees, roots slowly
+digging their way into the road's soil, creating various designs of root and
+earth.  Moss dangles from the trees, gripping the bark and swaying in the
+winds.  The road heads to the north and to the east.  To the west the ground
+shows signs of a small trail, perhaps used by game, yet it seems overgrown
+and forgotten.  
+~
+0 0 3
+D0
+~
+~
+0 0 14310
+D1
+~
+~
+0 0 14307
+D3
+~
+~
+0 0 14309
+S
+#14309
+A Forgotten Path~
+The brush melds with the trees here, covering the remains of an older
+path, now blocked by the ravages of the growth of the forest.  Vines
+intertwine, creating an impenetrable wall preventing all from accessing the
+old path.  The path leads to the east joining the main road, turning to the
+north and further on to the east.  All light is blocked by a large green
+canopy of leaves and branches, almost making this a foreboding place, yet the
+birds sing on unafraid of the overgrown branches and flit about unhindered
+through the gaps above.  
+~
+0 1 3
+D1
+~
+~
+0 0 14308
+S
+#14310
+Along a Road, Within Qualinesti~
+The trees stand watch over the road here, dark green foliage blocking any
+view of the forest and shrouding the woodland to both the east and west. 
+Animal tracks veer away from the tracks of man, heading into the forest to
+the west through large patches of brush covered by ominous thorns.  The
+roads bears no resistance to travel and is unmarred by brush and thorn, it
+offers access to the north and the south as it slowly winds its way through
+the forest of the Qualinesti.  
+~
+0 0 3
+D0
+~
+~
+0 0 14326
+D2
+~
+~
+0 0 14308
+S
+#14311
+A Small, Forgotten Game-Trail~
+Animal tracks mar the surface of an old game trail, heading deeper into
+the woods to the north.  Birds flit about overhead, pausing on large tree
+branches chirping happily.  To the east stands an old, withered tree showing
+signs of disease and decay.  
+~
+0 0 3
+D0
+~
+~
+0 0 14312
+D1
+~
+~
+0 0 14302
+S
+#14312
+A Small, Forgotten Game-Trail~
+The trail continues on to the west, and heads into a copse of trees to
+the north.  Quietly a family of quails surges across the path, avoiding the
+open space of trail, looking for protection in the bushes.  The trees sway
+lightly in the playful breeze, their leaves rustling softly.  Animal tracks
+continue on to the west, carving their way along worn dirt through the
+brush.  
+~
+0 0 3
+D0
+~
+~
+0 0 14313
+D2
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14314
+S
+#14313
+A Copse of Trees~
+The trail ends at a large copse of trees here, the forest completely
+impenetrable to the north.  A squirrel dashes up a tree into a small hole,
+searching for its hidden cache of food.  Rays of light dance along the
+forest floor here, an eerie array of dazzling beams strike the trunks and
+roots.  The moss is soft and inviting here, providing weary hunters rest
+during the day, and offers a comforting seat to those wishing a rest from
+their travels.  
+~
+0 0 3
+D2
+~
+~
+0 0 14312
+S
+#14314
+A Small, Forgotten Game-Trail~
+The trail bends to the north and east, many of the smaller tracks leading
+into the thick brush at the base of the trees.  Small birds cry for their
+mother to return with food on a branch above, their peeps endlessly crying
+out until they are sated.  The trail widens to the north, the brush worn
+away by larger animals of the forest.  A stream can be heard in the
+distance, babbling on to the northwest.  
+~
+0 0 3
+D0
+~
+~
+0 0 14315
+D1
+~
+~
+0 0 14312
+S
+#14315
+A Game-Trail Within Qualinesti~
+As the path widens, footprints become noticeable in recently dried mud. 
+Alongside the footprints are the marks of walking staves, perhaps the trail
+is used for more than hunting.  The leaves rustle above in the wind, as
+birds fly in riding it chirping merrily.  Puddles from a recent storm are
+scattered about, making the trail a bit harder to travel upon, especially to
+those whom to go unnoticed within Qualinesti.  Due to the storm a small
+meadow to the east, has become a bog, flooding the forest floor with dirty
+water.  
+~
+0 0 3
+D0
+~
+~
+0 0 14316
+D2
+~
+~
+0 0 14314
+D3
+~
+~
+0 0 14317
+S
+#14316
+A Game-Trail, Within Qualinesti~
+The trees stand off to the side of the path, their branches set high into
+the air blocking out the natural sky, creating a canopy of shimmering green.
+The trail turns to the west, where an old bridge can be seen in the
+distance.  The stream can be heard to the west, water cresting over small
+stones and rocks, headed towards the sea.  The brush thickens once more, and
+the trail slims down, almost hidden by tall grasses.  Mushrooms sprout up
+against the trunks of the trees, little rings protecting the eternal
+watchmen of the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 14315
+D3
+~
+~
+0 0 14318
+S
+#14317
+A Small Marsh~
+The foliage is thicker here, as running water trickles in from the rest
+of the forest, filling a flooded pond feeding the waters as they extend to
+the west.  Old trees, festooned with hanging mosses and vines, stand watch
+over the small marsh, protecting its tenets from the sunlight above.  A frog
+leaps from the ground into the water, sending a spray of dirty liquid into
+the air.  The insects are thick here, using the stagnant water as a place to
+lay their eggs, amassing into large clods of black buzzing terrors.  A large
+web of some sort, hangs just above the water, many of the insects already
+caught in its sticky grasp.  Be it gloomy, the game trail can be seen to the
+east, continuing onward.  
+~
+0 0 3
+D1
+~
+~
+0 0 14315
+S
+#14318
+A Crossroad at the Stream~
+The trail branches here, heading both to the north and to the west across
+a long forgotten bridge across the stream.  Strangely the animal tracks do
+not head to the west at all, and show signs of the animals being skittish
+about even approaching the bridge.  The waters to west shimmer briefly in
+the light from above, as it heads towards the sea.  A doe in the distance,
+briefly crosses the trail and stops to eat upon the taller grasses, and
+dashes deeper into the forest.  A trail marker sits off to the side of the
+game trail, marking it as a crossroad for travelers.  A few footprints and
+staff prints are barely noticeable in the ground, heading across the bridge.  
+~
+0 0 3
+D0
+~
+~
+0 0 14335
+D1
+~
+~
+0 0 14316
+D3
+~
+~
+0 0 14319
+S
+#14319
+Upon a Weathered Wooden Bridge~
+A small stream passes beneath on old wooden bridge, forgotten here by time.
+The woods rots, and various vines and plants grow through the many holes in
+the bridge.  Ancient designs etched on its surface mark it as a waypoint for
+druids, yet have faded as to exactly where the bridge leads.  Smoke dances
+upon the horizon to the west mingling about in the treetops.  A game trail
+is to the east, where it turns northward heading deeper into the forest of
+Qualinesti.  
+~
+0 0 3
+D1
+~
+~
+0 0 14318
+S
+#14320
+Amongst the Withered Branches~
+Gnarled braches stretch in every direction, shrouded by several vines. 
+Its bark is tattered and peeling, crimson sap slowly leaking from the trees
+wound.  Forgotten nests sit in the various nooks upon the branches,
+weathered by time and awaiting the return of their makers.  A vast sea of
+green leaves spreads across the horizon in all directions, as far as the eye
+can see.  A strange symbol has been branded into the tree, a dark hood with
+two scarlet eyes peering from within.  Seemingly the tree shudders, as if in
+pain, weeping from its depths.  
+
+~
+0 4 3
+D5
+~
+~
+0 0 14302
+S
+#14321
+A Small Clearing~
+A tranquil sense of serenity exists here, light dancing across the canopy
+above, reflected from the surface of a small pool.  The wind brings the
+scent of life and rebirth, shuffling the leaves above, causing the
+shimmering light to dance across the surrounding trees to an inaudible tune.
+A fish jumps, sending rippling waves to the shores of the pool.  Startled by
+the splash, a small frog croaks and jumps into the reeds hoping for safety. 
+Flowers grow all about, their multicolored faces cast towards the sky,
+waiting for light to grace their awakening.  Roots extend from the moss,
+contorted by time and nature, reaching for the water of the pool.  Birds
+play in the air above, swooping low letting the tips of their wings briefly
+disturb the water's surface.  
+~
+0 0 3
+D1
+~
+~
+0 0 14305
+D2
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14322
+S
+#14322
+The Forgotten Trail~
+The path here is forgotten, the brush slowly invading its boundaries. 
+Trees shudder in a brief gust of winds, and the birds cease to sing.  No
+longer are there animal cries in the distance.  Only silence.  The trees
+here are larger and warped, curling branches and large python like vines
+enwrapped about them.  The forgotten trail continues westward into the eerie
+trees, to places unbeknown.  
+~
+0 0 3
+D1
+~
+~
+0 0 14321
+D3
+~
+~
+0 0 14323
+S
+#14323
+The Forgotten Trail~
+The old trail turns to the north, meandering amongst the strange trees,
+intertwining itself between them.  The trees loom above waiting for the
+unwary to forget their bearings, and become lost within the darkness of the
+forest.  The silence continues unbroken, and the leaves above briefly shake
+in an unseen wind, whispering secrets to the rest of the forest.  Eastward,
+lays Qualinesti proper, its trees unhindered by whatever powers consume this
+area of the woodland.  A small pool beckons with shimmering blue waters to
+the east.  
+~
+0 1 3
+D0
+~
+~
+0 0 14324
+D1
+~
+~
+0 0 14322
+S
+#14324
+The Forgotten Trail~
+Warped trees loom in every direction, covered in thick brush.  What seems
+to be a path continues northward, towards a mysterious grove of trees unlike
+the rest of the forest.  Strange calls break the green darkness cast by the
+monstrous behemoths, their branches consuming the light above and casting
+darkness across the path.  In the distance an owl hoots, before launching
+itself into the air in search of food.  Strange flowers grow along the roots
+of the trees, their purple faces looking towards the dark canopy above, dew
+drips from their many thorns.  
+~
+0 1 3
+D0
+~
+~
+0 0 14325
+D2
+~
+~
+0 0 14323
+S
+#14325
+The Forgotten Trail~
+A mysterious mist rises from the ground here, hiding the trees within
+it's grasp.  Branches sway in arcane winds, and eventually fade away, giving
+way to large trees in the north, seemingly planted in a strange uniform way.
+Eerie sounds come from the north, echoing about the trees of the unnatural
+forest, perhaps the trees themselves calling for unwary visitors.  The
+strange trees seem alive, as if trying to surround any individual that steps
+within their confines.  It is a forest created by strong magics, untouched
+by Nature.  A small pathway exits the mysterious woodland and continues
+south into the forest of Qualinesti.  
+~
+0 1 3
+D0
+~
+~
+0 0 15259
+D2
+~
+~
+0 0 14324
+S
+#14326
+{GAlong a Road Within Qualinesti{x~
+The road veers to the east, bending around a grouping of large trees,
+wagon ruts trace across its surface following its whim.  To the west, a
+small trail shows signs of game tracks, those of animals heading into the
+deeper woods of Qualinesti.  The leaves rustle above, mingling with the
+chittering of birds overhead as they play within the canopy of leaves.  
+~
+0 0 3
+D1
+~
+~
+0 0 14327
+D2
+~
+~
+0 0 14310
+D3
+~
+~
+0 0 14330
+S
+#14327
+{GAlong a Road Within Qualinesti{x~
+The road here branches toward the western forest, continuing northward
+around a large copse of ancient trees.  A river dances along to the east,
+its water darting over large rocks creating crests of whitewater.  A fallen
+log provides a crossing over the river to the northwest, its mass extending
+over the river and stretching to the far bank.  Light breaks through the
+trees above illuminating the forest floor, its dancing rays meandering
+through old leaves and moss.  Roots poke their snakelike heads from the
+dirt, intertwined in the soil like earthen sea serpents, bent on crossing
+the path to the rushing waters of the river.  
+~
+0 0 3
+D0
+~
+~
+0 0 14328
+D3
+~
+~
+0 0 14326
+S
+#14328
+{GAlong a Road Within Qualinesti{x~
+The forest is calm, the trees bending to the whims of the breeze as gusts
+of winds that bear the scents of sap and flowers blow through them.  A large
+oak lays fallen, a dying sentinel of the forest across the rushing river to
+the east, crossing the cresting rapids.  The road bends to the west away
+from the river, and to the south where it follows the river.  The rush of
+waters is deafening and blocks the sounds of the forest, and windswept
+leaves trail quickly along its surface, further to the south.  Trees
+surrounded by thick brush and thorns block any entry into the woodland,
+their vine-ensnared branches barring any travel to the north.  
+~
+0 0 3
+D1
+~
+~
+0 0 14371
+D2
+~
+~
+0 0 14327
+D3
+~
+~
+0 0 14329
+S
+#14329
+{GAlong a Road Within Qualinesti{x~
+The wagon ruts bear deeper into the soil, as the ground here gives way to
+lush moss fed by the river to the east.  The ruts head northwards into a
+large intersection, where traders meet before heading onwards to Qualinost. 
+Small animal tracks are carved into the moss, showing trespass across the
+various mounds.  Flowers peer shyly from the shadows cast by the trees in
+search of light, their scent alluring and sweet.  To the east, the road
+skirts a river, where a large tree has fallen across the gap in the
+woodland, allowing travel across the crystalline churning waters.  
+~
+0 0 3
+D0
+~
+~
+0 0 14344
+D1
+~
+~
+0 0 14328
+S
+#14330
+Deep Within Qualinesti~
+The brush thickens, attempting to camouflage the trail, yet tracks are
+still noticeable across its delicate surface, still wet from a recent storm. 
+The road can be seen to the east winding its way through the foliage of
+Qualinesti Forest, eventually meandering its way to the elven city of
+Qualinost.  The game trail extends to the west, where the babbling of a
+stream of sorts is noticeable, water tumbling over worn rocks.  
+~
+0 0 3
+D1
+~
+~
+0 0 14326
+D3
+~
+~
+0 0 14331
+S
+#14331
+Deep Within Qualinesti~
+Thick foliage blocks nearly every direction, the only signs of any travel
+being to the west and the east, where animal tracks betray looming bushes of
+thorns and thistles.  The tracks head to the west, where a stream can be
+heard.  Any view of the road to the east is completely lost in a wall of
+green, as if it never existed.  Bird calls echo throughout the treetops,
+accenting those of the animals of the forest about the trail.  A small
+family of rabbits, skirts the trail and dives into the brush, for fear of
+being discovered.  
+~
+0 0 3
+D1
+~
+~
+0 0 14330
+D3
+~
+~
+0 0 14332
+S
+#14332
+A Path Along a Stream~
+A path veers around the stream to the west, skirting its depths and
+following northward into the distance.  The waters cascade along down
+intricate stones, shifted over time and worn by the passing current.  To the
+east, a small game trail enters a patch of thick brush entering the depths
+of Qualinesti, nearly hidden in a green darkness.  The small pathway extends
+to the south as well, following the rushing waters as they make their way
+towards the sea.  
+~
+0 0 3
+D1
+~
+~
+0 0 14331
+D2
+~
+~
+0 0 14333
+D3
+~
+~
+0 0 14334
+S
+#14333
+A Path Along a Stream~
+The path follows a small babbling stream, and extends to the north and
+the west.  Animal tracks approach the waters, and turn into the forest. 
+This must be a common watering ground for the larger game.  Bird cries echo
+about above, as the small creatures fly curiously from branch to branch
+picking at vines and leaves with small beaks.  The brush to the east
+festoons large trees, their growths of root and branch blocking entrance
+done
+~
+0 0 3
+D0
+~
+~
+0 0 14332
+D2
+~
+~
+0 0 14336
+S
+#14334
+A Path Along a Stream~
+The path turns following a bend in the stream and continues onward to the
+west and the east.  Sticks float serenely along small eddies in the current,
+caught in the grasp of the flowing waters.  To the north the bushes rustle
+and a squirrel darts up a large tree, seeking solace in its branches.  Birds
+dip merrily tracing their delicate, colorful wings across the surface of the
+stream in search of insects to feed upon.  The leaves rustle, moved by a
+slight breeze heading southwards along the waters.  
+~
+0 0 3
+D1
+~
+~
+0 0 14332
+D3
+~
+~
+0 0 14337
+S
+#14335
+A Path Along a Stream~
+The path widens here, becoming easier to discern from the rest of the
+forest.  It meanders alongside the small stream to the west, following it
+northward.  Larger tracks head into the forest, carved amongst the dirt at
+the base of the brush.  Lights flicker across the ever moving waves of the
+babbling stream, breaking through the canopy above.  
+~
+0 0 3
+D0
+~
+~
+0 0 14336
+D2
+~
+~
+0 0 14318
+S
+#0
+
+
+
+#SPECIALS
+M 14302 spec_breath_fire
+M 14303 spec_breath_frost
+M 14304 spec_breath_gas
+M 14305 spec_breath_lightning
+M 14306 spec_ghost
+S
+
+
+
+#RESETS
+M 0 14307 4 14336 4
+M 0 14300 14 14337 14
+E 0 14301 0 14
+E 0 14310 0 5
+E 0 14309 0 18
+E 0 14302 0 20
+M 0 14315 8 14338 1
+M 0 14310 10 14339 10
+M 0 14300 14 14339 14
+E 0 14310 0 5
+E 0 14302 0 20
+E 0 14301 0 14
+E 0 14309 0 18
+M 0 14311 5 14345 1
+M 0 14311 5 14345 1
+M 0 14300 14 14346 14
+E 0 14302 0 20
+E 0 14301 0 14
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14309 4 14347 4
+M 0 14311 5 14348 1
+M 0 14310 10 14348 10
+M 0 14316 6 14348 2
+M 0 14310 10 14349 10
+M 0 14300 14 14352 14
+E 0 14301 0 14
+E 0 14302 0 20
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14307 5 14354 5
+M 0 14315 8 14355 1
+M 0 14317 4 14356 2
+O 0 14300 0 14356
+M 0 14315 8 14359 1
+M 0 14310 10 14360 10
+M 0 14310 10 14362 10
+M 0 14304 1 14366 1
+M 0 14302 1 14367 1
+O 0 14303 0 14368
+M 0 14301 1 14368 1
+M 0 14303 1 14369 1
+M 0 14305 1 14370 1
+M 0 14300 14 14371 14
+E 0 14301 0 14
+E 0 14302 0 20
+E 0 14310 0 5
+M 0 14315 8 14373 1
+M 0 14312 5 14374 1
+M 0 14310 10 14375 10
+M 0 14310 10 14376 10
+M 0 14312 5 14377 1
+M 0 14313 5 14378 1
+M 0 14313 5 14381 1
+M 0 14310 10 14381 10
+M 0 14316 6 14381 2
+M 0 14307 4 14381 4
+M 0 14300 14 14382 14
+E 0 14301 0 14
+E 0 14302 0 20
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14312 5 14383 1
+M 0 14309 4 14383 4
+M 0 14315 8 14385 1
+M 0 14312 5 14386 1
+M 0 14313 5 14386 1
+M 0 14315 8 14387 1
+M 0 14307 4 14387 4
+M 0 14350 1 14388 1
+G 0 14305 0
+G 0 14306 0
+G 0 14307 0
+G 0 14308 0
+M 0 14313 5 14390 1
+M 0 14306 1 14392 1
+G 0 14314 0
+O 0 14313 0 14392
+P 0 14315 1 14313 1
+M 0 14308 4 14393 4
+M 0 14351 1 14394 1
+G 0 14312 0
+G 0 14311 0
+M 0 14300 14 14301 14
+E 0 14301 0 16
+E 0 14302 0 20
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14310 10 14302 10
+M 0 14310 10 14305 10
+M 0 14307 4 14305 4
+M 0 14315 8 14307 1
+M 0 14309 4 14307 4
+M 0 14309 4 14311 4
+M 0 14315 8 14312 1
+O 0 14317 0 14313
+M 0 14312 5 14315 1
+M 0 14313 5 14315 1
+M 0 14300 14 14316 14
+E 0 14301 0 14
+E 0 14302 0 20
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14314 5 14317 5
+M 0 14313 5 14317 1
+O 0 14399 0 14319
+M 0 14317 4 14321 2
+O 0 14300 0 14321
+M 0 14316 6 14323 2
+M 0 14311 5 14324 1
+M 0 14300 14 14326 14
+E 0 14301 0 14
+E 0 14302 0 20
+E 0 14309 0 18
+E 0 14310 0 5
+M 0 14311 5 14328 1
+M 0 14312 5 14334 1
+M 0 14311 5 14334 1
+S
+
+
+
+#SHOPS
+14350 0 0 0 0 0 115 75 7 22
+14351 0 0 0 0 0 130 80 5 23
+0
+
+
+
+#MOBPROGS
+#14350
+say Hello, $n.
+say Please examine my wondrous goods. All stolen... errrr.
+say Smuggled.... No, That's not it.
+say Acquired Qualinesti wares, straight out of Qualinost.
+MOB ECHOAT $n $I smiles at you.
+MOB ECHOAROUND $n $I smiles at $n.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#14391
+~
+#0
+
+#$

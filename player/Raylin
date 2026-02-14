@@ -1,0 +1,1927 @@
+#PLAYER
+Name Raylin~
+Surname Blackbreath~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1111159917
+LogO 1421221532
+Vers 10
+Act  CDGHLTe
+Desc {DA great figure stands before you. He wears a black cloak all around him
+and a black hood over his head. {DFrom the black of his hood you can't see
+anything, but you can scent a strong odor coming from it. {DHis cloak is
+ripped in several places but it covers most of his body till his knees,
+there you can see some features of this great figure. {DStrong scales
+covering his shin, protect his thin limbs, and where you would find feet
+you can see deadly claws. {DFrom those features, an Aurak Draconian stands
+before you by the thin physiognomy.{x
+~
+Prom <%h/%H {b%m/%M {g%v/%V {x%e%B%a{r>{x ~
+Race draconian~
+Religion 10
+Sex  1
+Cla  14
+Hmtown 5
+Levl 100
+recall_point 11962
+Levscale 30
+Xptolev  1193803
+Sec  0
+Plyd 2867369
+Not  1388019326 1382804331 0 1324250438 1298827134
+Scro 88
+Room 11962
+HMV  2826 2826 2355 2355 927 927
+Steel 888
+Gold 158
+Bank 156000
+Exp  16260397
+AfBy BOc
+AfBy2 D
+AfBy3 H
+Deaths 20
+FlagTot 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 655360
+Comm NO
+Pos  8
+Prac 28
+Trai 10
+Save  -109
+Alig  -864
+Ethos 0
+Hit   61
+Dam   59
+ACs -608 -612 -613 -558
+Wimp  585
+Attr 23 29 26 26 27 10
+AMod 17 5 3 13 7 5
+Pass RaZJUD5.srd4s~
+Titl  the High Wizard of Conjuration~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 709
+HMVP 1911 1730 777
+Cnd  0 10 63 0
+QuestPnts 298
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias -say emote speaks with a harsh whisper, {D~
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'detect good'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel magic'
+Sk 100 'incendiary cloud'
+Sk 100 'glitterdust'
+Sk 100 'orb of containment'
+Sk 100 'gate'
+Sk 100 'life transfer'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'storm of vengeance'
+Sk 100 'magic missile'
+Sk 100 'nexus'
+Sk 100 'aid'
+Sk 100 'dimensional door'
+Sk 100 'protection evil'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'dagger'
+Sk 100 'whip'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 100 'convoke swarm'
+Sk 100 'glide'
+Sk 100 'traject'
+Sk 100 'mount'
+Sk 100 'wind wall'
+Sk 100 'gust of wind'
+Sk 100 'unseen servant'
+Sk 100 'cantrip'
+Sk 100 'iceblast'
+Sk 100 'brew'
+Sk 100 'scribe'
+Sk 100 'battle tactics'
+Sk 100 'knock'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 100 'meditation'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 50 'recall'
+Sk 100 'closing weave'
+Sk 100 'jab'
+Sk 100 'detect presence'
+Sk 100 'mooncloak'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 100 'rabbit summon'
+Sk 100 'thunderclap'
+Sk 100 'trance'
+Sk 100 'alarm'
+Sk 100 'staff'
+Sk 100 'eyerub'
+Sk 100 'instruct'
+Sk 100 'lock'
+Sk 1 'mark of origin'
+Sk 100 'conjure food'
+Affc 'invisibility'   0  99 105   0   0          2
+Affc 'instruct'   7 100  23   0   0        128
+End
+
+#O
+Vnum 1249
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 2895
+Nest 0
+Cond 28
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 89
+Wear 4
+Cost 0
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 87
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF 8
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 9
+Lev  102
+Cost 1020
+Val  27 27 27 23 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name homespun gloves~
+ShD  homespun gloves~
+Desc Here lies a pair of carefully homespun gloves.~
+ExtF 8
+ExtF2 2
+WeaF 268435585
+Ityp 9
+Wt   1
+Cond 97
+Mat  homespun~
+Wear 12
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name leather visor~
+ShD  a leather visor~
+Desc A simple but efficient leather visor rests here.~
+ExtF 8
+ExtF2 2
+WeaF 269484033
+Ityp 9
+Wt   1
+Cond 100
+Mat  leather~
+Wear 7
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1  92  -1  -5  25          0
+End
+
+#O
+Vnum 9426
+Nest 0
+Cond 70
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Cond 82
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 61
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 262144
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 5617
+Nest 0
+Cond 46
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Cond 60
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name bloody bag~
+ShD  ({rbloody{x) a bag~
+Desc Here lies a messy bloody bag on the floor.~
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 19008
+Nest 0
+Cond 100
+Wear 5
+Cost 10250
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 100
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 0
+Cond 98
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 1911
+Nest 0
+Cond 100
+Wear 6
+Cost 750000
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Val  70 10 2 157 0
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5823
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'undead disruption'
+End
+
+#O
+Vnum 5422
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'ray of truth'
+End
+
+#O
+Vnum 5422
+Nest 1
+ExtF 262208
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'ray of truth'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 10612
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 3 'chain lightning'
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 3093
+Nest 1
+ShD  {xGuardian Staff of the Aesthetic Order~
+ExtF 17040906
+Cond 100
+Wear -1
+Cost 900
+Val  10 9 15 37 4360
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 16103
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+Spell 3 'pass door'
+End
+
+#O
+Vnum 3093
+Nest 1
+ShD  {xGuardian Staff of the Aesthetic Order~
+ExtF 17039370
+Cond 86
+Wear -1
+Cost 900
+Val  10 9 15 37 4417
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 98
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15195
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 604
+Cond 85
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 9514
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'waterlungs'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll charm person~
+ShD  a scroll of charm person~
+Cond 100
+Wear -1
+Lev  30
+Cost 0
+Val  15 -1 14 0 0
+Spell 2 'charm person'
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12093
+Nest 1
+ExtF 8
+Cond 92
+Wear -1
+Cost 5100
+Val  2 9 16 11 78
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16777226
+Cond 100
+Wear -1
+Cost 900
+Val  2 10 16 2 201
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name dagger~
+ShD  a jagged dagger~
+Desc A dagger with a jagged blade stands upright in the ground.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  2 10 16 11 65
+Affc 'enchant weapon'   0 101  -1   9  18          0
+Affc 'enchant weapon'   1 101  -1   9  19          0
+End
+
+#O
+Vnum 2980
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  100 50 49 92 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 12221
+Nest 1
+ExtF 8
+Cond 100
+Wear -1
+Cost 4830
+Val  0 10 14 38 9
+End
+
+#O
+Vnum 10746
+Nest 1
+ExtF 17301832
+Cond 96
+Wear -1
+Cost 5000
+Val  0 10 14 11 105
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name quarterstaff~
+ShD  a quarterstaff~
+Desc A quarterstaff carved from Ash wood stands against a wall.~
+ExtF 67
+WeaF 8193
+Ityp 5
+Wt   3
+Cond 100
+Mat  ash~
+Wear -1
+Lev  105
+Cost 1050
+Val  10 10 16 27 65
+Affc 'enchant weapon'   0 101  -1   8  18          0
+Affc 'enchant weapon'   1 101  -1   8  19          0
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5721
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 2906
+Nest 1
+Name unholy orb decay~
+ShD  ({DUnholy{x) a {dOrb{x of {yDecay{x~
+Desc a orb is here on the round.~
+ExtF 17039370
+Cond 87
+Wear -1
+Cost 900
+Val  10 9 15 37 4425
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 15194
+Nest 1
+Name fine vellum sheet scroll scroll silence~
+ShD  a scroll of silence~
+Cond 100
+Wear -1
+Lev  49
+Cost 200
+Val  24 147 -1 -1 0
+Spell 1 'silence'
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 1
+Cond 100
+Wear -1
+Cost 250000
+End
+
+#O
+Vnum 500
+Nest 1
+ExtF 294920
+Cond 98
+Wear -1
+Cost 500
+Val  10 9 15 37 65544
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 5422
+Nest 1
+Cond 100
+Wear -1
+Cost 100000
+Spell 3 'ray of truth'
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 0
+Val  27 -1 61 0 0
+Spell 2 'mind shatter'
+End
+
+#O
+Vnum 8
+Nest 1
+Name scroll scroll mind shatter~
+ShD  a scroll of mind shatter~
+Cond 100
+Wear -1
+Lev  54
+Cost 0
+Val  27 -1 61 0 0
+Spell 2 'mind shatter'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17523
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'pass door'
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5421
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5833
+Nest 1
+Name Raylin Black Robes velvet~
+ShD  ({DVelvet{x) {WRaylin's {DBlack Robes{x~
+Desc a black pile lies here.~
+ExtF 262144
+Cond 37
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 5421
+Nest 1
+Name scroll parchment scroll convoke swarm scroll convoke swarm~
+ShD  a scroll of convoke swarm, convoke swarm~
+Cond 100
+Wear -1
+Lev  66
+Cost 100
+Val  33 137 137 -1 0
+Spell 1 'convoke swarm'
+Spell 2 'convoke swarm'
+End
+
+#O
+Vnum 10879
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1626
+Nest 0
+Cond 100
+Wear -1
+Cost 13000
+End
+
+#O
+Vnum 1627
+Nest 0
+Cond 100
+Wear -1
+Cost 15500
+End
+
+#O
+Vnum 1624
+Nest 0
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 1625
+Nest 0
+Cond 100
+Wear -1
+Cost 14500
+End
+
+#O
+Vnum 9825
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 13205
+Nest 0
+Name dragon fang ancient dagger red~
+ShD  ({dAncient{x) a {rRed Dragon{x fang~
+Desc A dragon fang is here, shaped in the form of a dagger.~
+ExtF 16777226
+Cond 81
+Wear 20
+Cost 900
+Val  2 10 16 2 202
+End
+
+#O
+Vnum 17557
+Nest 0
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 890
+Spell 1 'identify'
+End
+
+#END

@@ -1,0 +1,1512 @@
+#AREADATA
+Name Abanasinian Forest~
+Builders Hiddukel~
+Continent Abanasinia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 4250 4400
+Credits Hiddukel~
+Security 9
+End
+
+
+
+#MOBILES
+#4250
+hired mercenary patrol~
+A hired mercenary~
+This mercenary has been hired to patrol the roads.
+~
+A large man is here, bearing many signs of battle.  There are scars across his
+face and armor and holes in his chain mail; he seems to be a seasoned
+warrior.  His eyes are an intense brown.  Signs of old age show in his hair
+and face, but he still has the lustre of battle in his eyes.  This man has an
+air of pride and self-control around him. You cam tell he loves his job; It’s all he has known.  
+~
+human~
+AT 0 0 0
+30 30 61d10+304 30d10+85 10d3+20 none
+-10 -10 -10 -4
+CEIJN 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK M unknown 0
+#4251
+hired assassin~
+a hired {Dassassin{x~
+This assassin is doing the dirty work of rich nobles.
+~
+This woman seems to have been sneaking in the shadows her entire life. 
+She has light brown hair and light brown eyes.  You can see from the anguish
+in her eyes that she does not enjoy her job at all; she has the look of one
+who is losing their grip on sanity.  She is clad in nothing but the darkest
+of greens, to conceal her in the woods and shadows.  
+~
+half-elf~
+A JP -393 0
+40 40 81d13+405 40d10+85 13d3+25 none
+-17 -17 -17 -9
+BCDJ 0 B 0
+stand stand female 50
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4250
+Road to Solace~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+north and south.  Oak, elm, and willow tree boughs shade the path, creating
+a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 2400
+D2
+~
+~
+0 0 4251
+S
+#4251
+Road to Solace~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+north and south.  Oak, elm, and willow tree boughs shade the path, creating
+a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4252
+S
+#4252
+Road to Solace~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+north and south.  Oak, elm, and willow tree boughs shade the path, creating
+a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4253
+S
+#4253
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4254
+S
+#4254
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  To the west, a sense of dark evil overwhelms you.
+The trail leads into Darken Wood, a forest full of chaotic evil.  
+~
+0 0 3
+D0
+~
+~
+0 0 4253
+D2
+~
+~
+0 0 4255
+D3
+~
+~
+0 0 2951
+S
+#4255
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4254
+D2
+~
+~
+0 0 4256
+S
+#4256
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4255
+D2
+~
+~
+0 0 4257
+S
+#4257
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4256
+D2
+~
+~
+0 0 4258
+S
+#4258
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4257
+D2
+~
+~
+0 0 4259
+S
+#4259
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4258
+D2
+~
+~
+0 0 4260
+S
+#4260
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4259
+D2
+~
+~
+0 0 4261
+S
+#4261
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4260
+D2
+~
+~
+0 0 4262
+S
+#4262
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4261
+D2
+~
+~
+0 0 4263
+S
+#4263
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4262
+D2
+~
+~
+0 0 4264
+S
+#4264
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  To the west, a small footpath leads deeper into
+the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 4263
+D2
+~
+~
+0 0 4265
+D3
+~
+~
+0 0 4321
+S
+#4265
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4264
+D2
+~
+~
+0 0 4266
+S
+#4266
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4265
+D2
+~
+~
+0 0 4267
+S
+#4267
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4266
+D2
+~
+~
+0 0 4268
+S
+#4268
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4267
+D2
+~
+~
+0 0 4269
+S
+#4269
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4268
+D2
+~
+~
+0 0 4270
+S
+#4270
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4269
+D2
+~
+~
+0 0 4271
+S
+#4271
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4270
+D2
+~
+~
+0 0 4272
+S
+#4272
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4271
+D2
+~
+~
+0 0 4273
+S
+#4273
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4272
+D2
+~
+~
+0 0 4274
+S
+#4274
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4273
+D2
+~
+~
+0 0 4275
+S
+#4275
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4274
+D2
+~
+~
+0 0 4276
+S
+#4276
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4275
+D2
+~
+~
+0 0 4277
+S
+#4277
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4276
+D2
+~
+~
+0 0 4278
+S
+#4278
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4277
+D2
+~
+~
+0 0 4279
+S
+#4279
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4278
+D2
+~
+~
+0 0 4280
+S
+#4280
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4279
+D2
+~
+~
+0 0 4281
+S
+#4281
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4280
+D2
+~
+~
+0 0 4282
+S
+#4282
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4281
+D2
+~
+~
+0 0 4283
+S
+#4283
+Trail to Qualinesti Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  There are more patches of crushed grass
+to the south.  A more visible path is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 4282
+D2
+~
+~
+0 0 4284
+S
+#4284
+Trail to Qualinesti Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  There are more patches of crushed grass
+to the south.  A more visible path is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 4283
+D2
+~
+~
+0 0 4285
+S
+#4285
+Trail to Qualinesti Forest~
+The path is only distinguishable as a band of crushed grass and broken
+twigs stretching away from you in patches.  Large trees lean over you,
+blocking out much of the light.  A rustling sound comes from the
+undergrowth, but you see nothing.  There are more patches of crushed grass
+to the south.  A more visible path is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 4284
+D2
+~
+~
+0 0 14399
+S
+#4286
+Road to Solace~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the east, you can hear what sounds like a horse
+braying, while to the west the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+east and west.  Oak, elm, and willow tree boughs shade the path, creating a
+pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 4287
+D3
+~
+~
+0 0 2428
+S
+#4287
+Road to Solace~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the east, you can hear what sounds like a horse
+braying, while to the west the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+east and west.  Oak, elm, and willow tree boughs shade the path, creating a
+pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 4288
+D3
+~
+~
+0 0 4286
+S
+#4288
+Outskirts of Abanasinian Forest~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the east, you can hear what sounds like a horse
+braying, while to the west the city of Solace looms larger.  The road here
+is neatly paved with grey cobblestone with white specks, and runs to the
+east and west.  Oak, elm, and willow tree boughs shade the path, creating a
+pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 4289
+D3
+~
+~
+0 0 4287
+S
+#4289
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4290
+D3
+~
+~
+0 0 4288
+S
+#4290
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4291
+D3
+~
+~
+0 0 4289
+S
+#4291
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4292
+D3
+~
+~
+0 0 4290
+S
+#4292
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4293
+D3
+~
+~
+0 0 4291
+S
+#4293
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4294
+D3
+~
+~
+0 0 4292
+S
+#4294
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4295
+D3
+~
+~
+0 0 4293
+S
+#4295
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  To the north, the odor of food wafting down into
+this part of the forest is fairly strong.  Faint sounds of people can be
+heard to the north as well.
+ 
+{x  A large sign has been posted here.
+~
+0 0 3
+E
+sign~
+{x
+{x                     /\
+{x                    /  \
+{x                   |    |
+{x           ======================
+{X           |       NORTH        |
+{x           |      Que-Shu       |
+{x           ======================
+{x                   |    |
+{x                   |    |
+{x  /================|    |==============\
+{x / WEST:           |    |EAST:          \
+{x \  Solace         |    | Xak Tsaroth   /
+{X  \----------------|    |--------------/
+{x                   |    |
+{x                   |    |
+{x                   |    |
+{x                   |    |
+{x                   |    |
+{x                   |    |
+~
+D0
+~
+~
+0 0 17401
+D1
+~
+~
+0 0 4296
+D3
+~
+~
+0 0 4294
+S
+#4296
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4297
+D3
+~
+~
+0 0 4295
+S
+#4297
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4298
+D3
+~
+~
+0 0 4296
+S
+#4298
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4299
+D3
+~
+~
+0 0 4297
+S
+#4299
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4300
+D3
+~
+~
+0 0 4298
+S
+#4300
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4301
+D3
+~
+~
+0 0 4299
+S
+#4301
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4302
+D3
+~
+~
+0 0 4300
+S
+#4302
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D1
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4301
+S
+#4303
+Outer Abanasinian Forest~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the west, you can hear what sounds like a horse
+braying, while to the east the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the east and west.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 4304
+D3
+~
+~
+0 0 4302
+S
+#4304
+Road to Xak Tsaroth~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the west, you can hear what sounds like a horse
+braying, while to the east the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the east and west.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 4305
+D3
+~
+~
+0 0 4303
+S
+#4305
+Road to Xak Tsaroth~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the west, you can hear what sounds like a horse
+braying, while to the east the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the east and west.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D1
+~
+~
+0 0 11336
+D3
+~
+~
+0 0 4304
+S
+#4306
+Road to Xak Tsaroth~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 11276
+D2
+~
+~
+0 0 4307
+S
+#4307
+Road to Xak Tsaroth~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4306
+D2
+~
+~
+0 0 4308
+S
+#4308
+Road to Xak Tsaroth~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the south, you can hear what sounds like a horse
+braying, while to the north the city of Xak-Tsaroth looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4307
+D2
+~
+~
+0 0 4309
+S
+#4309
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4308
+D2
+~
+~
+0 0 4310
+S
+#4310
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4309
+D2
+~
+~
+0 0 4311
+S
+#4311
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4310
+D2
+~
+~
+0 0 4312
+S
+#4312
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4311
+D2
+~
+~
+0 0 4313
+S
+#4313
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4312
+D2
+~
+~
+0 0 4314
+S
+#4314
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4313
+D2
+~
+~
+0 0 4315
+S
+#4315
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4314
+D2
+~
+~
+0 0 4316
+S
+#4316
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4315
+D2
+~
+~
+0 0 4317
+S
+#4317
+Deep in Abanasinian Forest~
+You walk through a forest of intense deep green.  Lush trees and vibrant
+flowers border your trail, their colorful leaves strewn across the path. 
+The melodies of songbirds follow your journey.  Towering elms and stout oaks
+reach for the sky, and crystal clear springs dance down the rolling hills. 
+These woods show the pride of the Abanasinian people, and their dedication
+to the land they so love.  
+~
+0 0 3
+D0
+~
+~
+0 0 4316
+D2
+~
+~
+0 0 4318
+S
+#4318
+Road to Newport~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the north, you can hear what sounds like a horse
+braying, while to the south the bay city of Newport looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4317
+D2
+~
+~
+0 0 4319
+S
+#4319
+Road to Newport~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the north, you can hear what sounds like a horse
+braying, while to the south the bay city of Newport looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4318
+D2
+~
+~
+0 0 4320
+S
+#4320
+Road to Newport~
+You are moving along a broad, well-formed path bordered by neatly groomed
+trees and hedges.  To the north, you can hear what sounds like a horse
+braying, while to the south the bay city of Newport looms larger.  The road
+here is neatly paved with grey cobblestone with white specks, and runs to
+the north and south.  Oak, elm, and willow tree boughs shade the path,
+creating a pleasant walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 9814
+S
+#4321
+A Small Footpath Through the Woods~
+This gently winding footpath leads through the surrounding forest toward
+a large clearing to the west.  Bordering the forests of Qualinesti, the area
+is kept free of wandering bandits by the many elven rangers.  The path
+itself is well traveled; citizens of Qualinesti and visiting members of the
+Foresters offer nods of greeting as you pass.  To the east lies the main
+route between the elven city and the town of Solace.  
+~
+0 0 3
+D1
+~
+~
+0 0 4264
+D3
+~
+~
+0 0 4322
+S
+#4322
+A Forested Shrine of Chislev~
+Small birds flutter among the trees here, the branches forming a canopy
+over this peaceful woodland glade.  A stone garden has been carefully
+arranged to compliment a small brook that winds its way through the area,
+tumbling softly among the rocks before winding its way back through the
+trees.  Animals wander freely throughout the area, seemingly undisturbed by
+the visitors that come to pay homage to the goddess of Nature.  A well worn
+footpath to the east leads back toward the main road through the forest.  
+~
+0 8388608 37
+D1
+~
+~
+0 0 4321
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

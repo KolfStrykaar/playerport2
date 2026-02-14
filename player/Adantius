@@ -1,0 +1,498 @@
+#PLAYER
+Name Adantius~
+Surname Look~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1383387223
+LogO 1383834185
+Vers 10
+Act  CDGQTe
+Desc A powerful looking human stands before you. Long flowing hair of jet black colour and a shaven face that shows a chisled jaw line.
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+Cla  3
+Hmtown 0
+Levl 17
+recall_point 3001
+Levscale 30
+Xptolev  2453
+Sec  0
+Plyd 45018
+Not  0 0 0 0 0
+Scro 22
+Room 3367
+HMV  86 283 135 135 196 196
+Steel 34
+Gold 39
+Bank 0
+Exp  32797
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3604480
+Comm NO
+Pos  8
+Save  -1
+Alig  -101
+Ethos 0
+ACs 26 57 26 98
+Wimp  56
+Attr 18 14 18 13 15 13
+AMod 1 0 0 1 0 0
+Pass AdovfLTG54VQY~
+Titl  the Fencer~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 11
+HMVP 283 135 196
+Cnd  0 55 46 0
+QuestPnts 43
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'frenzy'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 16 'shield block'
+Sk 1 'spear'
+Sk 90 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 8 'dodge'
+Sk 85 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 73 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 71 'second attack'
+Sk 54 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'break weapon'
+Sk 1 'counter'
+Sk 1 'critical strike'
+Sk 1 'sharpen'
+Sk 1 'whirlwind'
+Sk 1 'lunge'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'nerve pinch'
+Sk 1 'caltrops'
+Sk 1 'battle tactics'
+Sk 100 'wear chain'
+Sk 5 'wear leather'
+Sk 1 'wear plate'
+Sk 53 'fast healing'
+Sk 100 'common'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 1 'bind wounds'
+Sk 1 'breakneck'
+Sk 1 'guard'
+Sk 1 'headbutt'
+Sk 1 'mounted combat'
+Sk 1 'impale'
+Sk 1 'cleave'
+Sk 1 'trammel'
+Sk 1 'flank attack'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 1 'finger break'
+Sk 1 'earpunch'
+Sk 1 'tonguecut'
+Sk 1 'smother'
+Sk 100 'instruct'
+Sk 1 'heroic demise'
+Sk 1 'joust'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+End
+
+#O
+Vnum 3771
+Nest 0
+Cond 100
+Wear 21
+Cost 10
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3022
+Nest 0
+Cond 82
+Wear 20
+Cost 610
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 3055
+Nest 0
+Cond 99
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 90
+Wear 19
+Cost 112
+End
+
+#O
+Vnum 3052
+Nest 0
+Cond 90
+Wear 18
+Cost 112
+End
+
+#O
+Vnum 3068
+Nest 0
+Cond 89
+Wear 8
+Cost 220
+End
+
+#O
+Vnum 3054
+Nest 0
+Cond 90
+Wear 17
+Cost 220
+End
+
+#O
+Vnum 3115
+Nest 0
+Cond 100
+Wear 13
+Cost 660
+End
+
+#O
+Vnum 3113
+Nest 0
+Cond 100
+Wear 11
+Cost 660
+End
+
+#O
+Vnum 3111
+Nest 0
+Cond 100
+Wear 6
+Cost 660
+End
+
+#O
+Vnum 3114
+Nest 0
+Cond 100
+Wear 12
+Cost 660
+End
+
+#O
+Vnum 3057
+Nest 0
+Cond 100
+Wear 14
+Cost 700
+End
+
+#O
+Vnum 3116
+Nest 0
+Cond 100
+Wear 15
+Cost 1190
+End
+
+#O
+Vnum 3110
+Nest 0
+Cond 100
+Wear 5
+Cost 1320
+End
+
+#O
+Vnum 3203
+Nest 0
+Cond 100
+Wear 23
+Cost 5000
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 90
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 100
+Wear 0
+Cost 75
+Val  0 0 47 0 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  0 0 15 0 0
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 3030
+Nest 0
+Cond 90
+Wear -1
+Cost 4
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+Val  64 16 0 0 0
+End
+
+#O
+Vnum 3043
+Nest 0
+Cond 100
+Wear 1
+Cost 640
+End
+
+#O
+Vnum 3827
+Nest 0
+Cond 100
+Wear 2
+Cost 1200
+End
+
+#O
+Vnum 3826
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 3152
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3152
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3152
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3152
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 3152
+Nest 0
+Cond 100
+Wear -1
+Cost 14
+End
+
+#O
+Vnum 923
+Nest 0
+Cond 100
+Wear -1
+Cost 1300
+End
+
+#O
+Vnum 923
+Nest 0
+Cond 100
+Wear -1
+Cost 1300
+End
+
+#O
+Vnum 909
+Nest 0
+Cond 100
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 909
+Nest 0
+Cond 100
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 909
+Nest 0
+Cond 100
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 909
+Nest 0
+Cond 100
+Wear -1
+Cost 700
+End
+
+#O
+Vnum 909
+Nest 0
+Cond 100
+Wear -1
+Cost 700
+End
+
+#PET
+Vnum 3094
+Name wolf~
+LogO 1383834185
+Desc The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Adantius'.
+~
+Sex  2
+HMV  114 114 100 100 100 100
+Act  ABIU
+AfBy FSZ
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 80
+Attr 13 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

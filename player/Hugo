@@ -1,0 +1,883 @@
+#PLAYER
+Name Hugo~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1370817274
+LogO 1390626346
+Vers 10
+Act  CDGQTe
+Desc This creature is a rather elderly minotaur. A long, vertical scar mangles
+his dark brown fur at his left eye. The organ has been long since rendered
+calloused and useless, the milky-white color standing in contrast to its
+healthy brown twin. His muscles ripple through his leather clothing, their
+shape toned as of a warrior, though judging by the lack of weapons on his
+person such strength is a relic of a bygone life.
+~
+Prom <%hhp %mm %vmv> ~
+Race minotaur~
+Sex  1
+Cla  15
+Hmtown 0
+Levl 33
+recall_point 3001
+Levscale 30
+Xptolev  8800
+Sec  0
+Plyd 301741
+Not  1379271802 0 0 0 0
+Scro 22
+Room 3354
+HMV  446 446 445 445 292 292
+Steel 4591
+Gold 15
+Bank 0
+Exp  177350
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4259840
+Comm BMNO
+Pos  8
+Prac 45
+Trai 1
+Alig  2
+Ethos 0
+ACs 70 62 66 98
+Attr 19 22 22 10 15 10
+AMod 1 4 12 5 7 0
+Pass Hu7znyeWcikUk~
+Titl  the Novice Engineer~
+Pretit ~
+Pnts 15
+TSex 1
+LLev 81
+HMVP 396 445 292
+Cnd  0 65 65 100
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'bash'
+Sk 1 'hand to hand'
+Sk 1 'sharpen'
+Sk 1 'mount'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 1 'wear plate'
+Sk 1 'fast healing'
+Sk 75 'haggle'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'dwarven tongue'
+Sk 100 'drow tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'dargonesti tongue'
+Sk 100 'dimernesti tongue'
+Sk 100 'kender tongue'
+Sk 100 'minotaur tongue'
+Sk 100 'ogre tongue'
+Sk 100 'draconian tongue'
+Sk 1 'lore'
+Sk 50 'recall'
+Sk 75 'mend'
+Sk 1 'repair shield'
+Sk 1 'leather repair'
+Sk 1 'plate repair'
+Sk 1 'chain repair'
+Sk 1 'weapon repair'
+Sk 76 'deathblade'
+Sk 1 'flameblade'
+Sk 75 'runeblade'
+Sk 1 'fast working'
+Sk 1 'stainless'
+Sk 75 'eversharp'
+Sk 75 'purifying fire'
+Sk 1 'fletching'
+Sk 1 'smith'
+Sk 1 'create furnace'
+Sk 1 'create barrel'
+Sk 1 'create grinder'
+Sk 76 'create anvil'
+Sk 1 'masterwork'
+Sk 77 'create flame'
+Sk 1 'thors hammer'
+Sk 75 'dismantle'
+Sk 1 'eyerub'
+Sk 1 'cultural artistry'
+Sk 100 'instruct'
+Sk 1 'key origin'
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 5710
+Nest 0
+Cond 100
+Wear 20
+Cost 400
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 100
+Wear 6
+Cost 724
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 612
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 338
+End
+
+#O
+Vnum 4811
+Nest 0
+Cond 50
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece leather raw material~
+ShD  a piece of leather material~
+Desc This piece of leather material looks good for raw materials.~
+Cond 100
+Mat  leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece tooled leather raw material~
+ShD  a piece of tooled leather material~
+Desc This piece of tooled leather material looks good for raw materials.~
+Cond 100
+Mat  tooled leather~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece cloth raw material~
+ShD  a piece of cloth material~
+Desc This piece of cloth material looks good for raw materials.~
+Cond 100
+Mat  cloth~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5716
+Nest 0
+Name piece wood raw material~
+ShD  a piece of wood material~
+Desc This piece of wood material looks good for raw materials.~
+Cond 100
+Mat  wood~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3020
+Nest 0
+Cond 90
+Wear -1
+Cost 134
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 56
+Val  300 92 0 0 0
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 704
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 0
+Cond 100
+Wear 21
+Cost 100
+End
+
+#O
+Vnum 1833
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+Val  105 5 0 0 0
+End
+
+#END

@@ -1,0 +1,276 @@
+#AREADATA
+Name Borrower refuge~
+Builders Solinari~
+Continent (null)~
+Sector 0
+VNUMs 4200 4249
+Credits Solinari~
+Security 9
+End
+
+
+
+#MOBILES
+#4200
+marvelous cleric branchy~
+The {MMarvelous{r Cleric{x of{Y Branchala{x~
+The {MMarvelous{r Cleric{x of{Y Branchala{x
+~
+~
+kender~
+ABQa DFJ 0 0
+200 200 401d66+8081 200d10+85 66d3+105 wrath
+-126 -126 -126 -84
+0 ABCD CD L
+stand stand none 0
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#4200
+shimmering portal time~
+the {CShi{cmm{Rer{ring {dTime {MPortal{x~
+The {CShi{cmm{Rer{ring {dTime {MPortal{x~
+energy~
+portal 0 0 0
+0 0 0 ADEFHIJL 0
+0 0 0 P
+#4201
+terraced pit~
+the Borrower Refuge donation pit.~
+The {GTerraced{g P{Ci{Mt{x~
+stone~
+container OY 0 0
+10000 0 0 10000 10000
+0 0 0 P
+#4202
+Spring of life~
+the {gSpring {xof {BLife{x~
+This spring flows through the alcove and its seems to never stop.~
+unknown~
+fountain O 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4200
+{CMagical{D Mystery{g Room{x~
+Few Kender alive know how this room works, and those that do, wont tell
+anyone because they think it might jinx their idea.  For some odd reason,
+Kender just started appearing in this room one day, in the famous Borrower
+Refuge.  
+~
+0 8 0
+D1
+~
+~
+0 0 4201
+S
+#4201
+{CBranchala's {WAlcove of {GWander{Rlust.{x~
+There is a large terraced pit in here, with a large hedge surrounding it,
+except in a spot where there is a doorway cut.  There is a small yard around
+the hedge with small trees scattered sparcely.  Some marble benches look
+like they have been tossed about by a great giant, but, they are placed in
+odd places so the sun doesnt get to the person sitting or sleeping on them. 
+~
+0 8389632 35
+D1
+~
+~
+0 0 4203
+D3
+~
+~
+0 0 4200
+D4
+~
+~
+0 0 4202
+S
+#4202
+Super-Great Time Portal~
+Those Kender think this is a time portal because when you step through
+it, you got into a different place, they are so funny sometimes.  This is
+just a regular small one-room treehouse in this Borrower Refuge, the walls
+are made of regular poplar wood.  Somethings' odd though, there is a
+shimmering hole in the floor, it looks like water but its not reflective,
+this is probably what those Kender were talking about.  
+~
+0 8 0
+D5
+~
+~
+0 0 4201
+S
+#4203
+Under The Canopy of Trees~
+There are several lush poplar trees bent over this path forming
+protection from the sun and unwanted spies.  Though, who would want to spy
+on the kender?  This path is very well-worn, considering that it is used
+everyday by Kender travellers from all over.  
+~
+0 0 3
+D0
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4201
+S
+#4204
+Under The Canopy of Trees~
+There are several lush poplar trees bent over this path forming
+protection from the sun and unwanted spies.  Though, who would want to spy
+on the kender?  This path is very well-worn, considering that it is used
+everyday by Kender travellers from all over.  There is a rope ladder here,
+leading up into a very large treehouse that the kender use to hide in times
+of emergencies.  
+~
+0 0 3
+D0
+~
+~
+0 0 4206
+D1
+~
+~
+0 0 4205
+D2
+~
+~
+0 0 4203
+D4
+~
+~
+0 0 4207
+S
+#4205
+Under The Canopy of Trees~
+There are several lush poplar trees bent over this path forming
+protection from the sun and unwanted spies.  Though, who would want to spy
+on the kender?  This path is very well-worn, considering that it is used
+everyday by Kender travellers from all over.  
+~
+0 0 3
+D3
+~
+~
+0 0 4204
+S
+#4206
+Grand Adventurer's Room~
+This is where the many Grand adventurer's of have stayed when they are at
+the refuge, which is not very often.  There are even tales of uncle
+Trapsringer coming around here every once and a while, to tell stories to
+all of the nearby kender.  
+~
+0 0 0
+D2
+~
+~
+0 0 4204
+S
+#4207
+Going up Into The Tree House!~
+The boards creak as {x Kender walk by, not even stopping to think they
+could fall, oh well, it would be fun, to fall from a tree.  To the east is a
+closed in room where all the Kender get together to trade maps and share
+stories, and have general meetings when they need to talk about something
+important.  
+~
+0 0 0
+D1
+~
+~
+0 0 4208
+D4
+~
+~
+0 0 4209
+D5
+~
+~
+0 0 4204
+S
+#4208
+The Map Room~
+This is where all {x Kender gather at times of meeting, they come here
+sometimes to trade maps, have fun, drink ale, and just have a good time. 
+There is a window looking east showing the massiveness of Kenderwood.  
+~
+0 8 0
+D3
+~
+~
+0 0 4207
+S
+#4209
+Going up Into The Tree House!~
+The boards creak as Kender walk by, not even stopping to think they could
+fall, oh well, it would be fun, to fall from a tree.  To the west is a
+balcony built in a fashion that allows you to look in every direction, it
+looks very oddly built, but then again, we're dealing with Kender here.  
+~
+0 0 0
+D3
+~
+~
+0 0 4210
+D5
+~
+~
+0 0 4207
+S
+#4210
+The Adventurer's lookout.~
+For miles and miles, forest can be seen all about.  This must be the
+Kenderwood.  Lakes and rivers run wild with a few hills and valleys lying
+about here and there over the landscape.  
+~
+0 0 9
+D1
+~
+~
+0 0 4209
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4200 1 4201 1
+O 0 4201 0 4201
+O 0 4202 0 4201
+O 0 4200 0 4202
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

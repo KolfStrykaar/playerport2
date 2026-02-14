@@ -1,0 +1,2079 @@
+#PLAYER
+Name Wolfmoon~
+Surname ~
+MaskedIp ~
+Lokprot off~
+Email none~
+Id   1302687400
+LogO 1422680489
+Vers 10
+Act  CDEFGTe
+Desc As you look around you notice before you is an elf about five feet tall
+and roughly 150 lbs.  He looks well toned and very agile.  He is wearing
+simple traveling clothes and a white robe with a fine hem of silver around
+the collar.  He carries a small pouch at his left.  Tucked into his boot is
+a dagger, he also has a spear and a sword strapped to his back.  He wears
+fingerless gloves on his hands.  His hazel {ybrown{x-{ggreen{x eyes seem to
+watch all that goes on.  As you walk around him you notice that he wears his
+hair in a Mohawk which is raven black and is tied back into a ponytail.  As
+you glance over him he moves slightly and you notice that his left arm is
+blackend as if he had been burned badly.  As he notice you looking at his
+arm he quickly covers it.  
+~
+Prom <%h\%Hhp %m\%Mm %vmv %XTnl>%c<%b %B>%c<%sG %gS>%c~
+Race kagonesti~
+Org 2
+Religion 21
+Sex  1
+Cla  10
+Hmtown 0
+Levl 81
+recall_point 3001
+Levscale 30
+Xptolev  358401
+Sec  0
+Plyd 2225440
+Not  1420281656 1395959842 0 1410808993 1303349578
+Scro 98
+Room 917
+HMV  2050 2050 1041 1041 597 597
+Steel 10000
+Gold 3502
+Bank 2875572
+Exp  5305849
+AfBy JTVc
+AfBy3 H
+Deaths 24
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3080192
+Comm NO
+Pos  8
+Prac 7
+Save  17
+Alig  -689
+Ethos 1
+Hit   11
+Dam   18
+ACs -98 -113 -114 -54
+Wimp  374
+Attr 20 22 24 20 25 18
+AMod 9 9 13 21 5 0
+Pass WoLBuC5EEOIxA~
+Titl  the Seeker of the Unknown~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 608
+HMVP 1735 846 597
+Cnd  0 47 26 0
+QuestPnts 92
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; {G<{WTHE {DLUNE{G>{D~
+Alias gt gt {D<{WHoly {gFilcher{D> {g~
+Alias endd c 'endure disease'~
+Sk 100 'acid blast'
+Sk 70 'change sex'
+Sk 100 'detect hidden'
+Sk 100 'incendiary cloud'
+Sk 100 'levitate'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'haste'
+Sk 100 'mind shatter'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 1 'invisibility'
+Sk 100 'magic missile'
+Sk 100 'shield'
+Sk 100 'weaken'
+Sk 88 'word of recall'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'parry'
+Sk 100 'second attack'
+Sk 1 'circlestab'
+Sk 89 'traject'
+Sk 98 'mount'
+Sk 100 'cantrip'
+Sk 100 'bad luck'
+Sk 1 'mountjack'
+Sk 90 'battle tactics'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 100 'meditation'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 50 'recall'
+Sk 70 'cloak of starlight'
+Sk 100 'luck'
+Sk 100 'scout'
+Sk 100 'surge'
+Sk 100 'endure'
+Sk 100 'taunt'
+Sk 100 'flash'
+Sk 100 'empowerment'
+Sk 100 'eavesdrop'
+Sk 100 'deafness'
+Sk 75 'disarm traps'
+Sk 100 'alarm'
+Sk 100 'gift'
+Sk 100 'staff'
+Sk 75 'eyerub'
+Sk 100 'firetongue'
+Sk 100 'instruct'
+Sk 100 'endure disease'
+Sk 100 'enlarge'
+Sk 100 'lock'
+Affc 'instruct'   7  81  13   0   0        128
+Affc 'regeneration'   0  79  28   0   0  268435456
+Affc 'haste'   0  78  16   4   2    2097152
+Affc 'levitate'   0  75  40   0   0     524288
+End
+
+#O
+Vnum 1271
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 94
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 97
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 100
+Wear 19
+Cost 4406
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 18
+Cost 5984
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 100
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 2563
+Nest 1
+Cond 100
+Wear -1
+Cost 407
+End
+
+#O
+Vnum 3818
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1611
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1620
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1233
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1638
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1197
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1665
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1053
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1674
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1377
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1332
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1449
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1395
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1521
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1332
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 927
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 918
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 1
+Cond 100
+Wear -1
+Cost 1449
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 10964
+Nest 1
+Cond 82
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16306
+Nest 1
+Cond 100
+Wear -1
+Cost 1440
+End
+
+#O
+Vnum 4960
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9866
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect hidden'
+Spell 2 'detect invis'
+End
+
+#O
+Vnum 9882
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Spell 1 'detect good'
+Spell 2 'detect evil'
+Spell 3 'protection good'
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 8700
+End
+
+#O
+Vnum 9830
+Nest 1
+Cond 100
+Wear -1
+Cost 8340
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2898
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2036
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2036
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16322
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'bless'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 16323
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'shield'
+Spell 2 'armor'
+Spell 3 'mass healing'
+End
+
+#O
+Vnum 1206
+Nest 1
+Name material coupon meteorite fragment {Ycopper{x~
+ShD  a {Ymeteorite{x fragment~
+Desc the fragment of a rock that survived the fall from space is here.{/{YI bet it is made out of some cool alien material.{x ~
+Cond 100
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 17547
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 78
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2036
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 2036
+End
+
+#O
+Vnum 9826
+Nest 1
+Cond 100
+Wear -1
+Cost 10020
+End
+
+#O
+Vnum 2912
+Nest 0
+Cond 98
+Wear 14
+Cost 6500
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 64
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 57
+End
+
+#O
+Vnum 15193
+Nest 1
+Name heart stone blue~
+ShD  {BHeart stone{x~
+Desc here lies a blue stone shaped like a heart covered in dust.~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 82
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 79
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 816
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 532
+End
+
+#O
+Vnum 2969
+Nest 0
+Cond 100
+Wear 6
+Cost 500
+End
+
+#O
+Vnum 2972
+Nest 0
+Cond 100
+Wear 13
+Cost 500
+End
+
+#O
+Vnum 1854
+Nest 0
+Cond 100
+Wear 16
+Cost 75000
+End
+
+#O
+Vnum 1626
+Nest 0
+Cond 100
+Wear 11
+Cost 13000
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 10977
+Nest 0
+Cond 100
+Wear 15
+Cost 10000
+End
+
+#O
+Vnum 16233
+Nest 0
+Cond 100
+Wear -1
+Cost 1256
+End
+
+#O
+Vnum 3369
+Enchanted
+Nest 0
+ExtF 65
+Cond 100
+Wear -1
+Lev  46
+Cost 16000
+Val  4 5 10 7 65
+Affc 'enchant weapon'   1  80  -1   4  19          0
+Affc 'enchant weapon'   0  80  -1   4  18          0
+End
+
+#O
+Vnum 1832
+Nest 0
+ExtF 17039361
+Cond 100
+Wear 22
+Cost 7345
+End
+
+#O
+Vnum 3818
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1314
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1692
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1782
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1152
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 990
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1566
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1521
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 945
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1287
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1251
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1188
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1719
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1413
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 963
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1746
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 1791
+Spell 1 'sanctuary'
+Spell 3 'armor'
+End
+
+#O
+Vnum 1627
+Nest 0
+Cond 98
+Wear 20
+Cost 14338
+End
+
+#O
+Vnum 17547
+Nest 0
+Cond 100
+Wear 23
+Cost 250000
+End
+
+#O
+Vnum 15210
+Nest 0
+ExtF 262144
+Cond 85
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 91
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 14545
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16060
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 16061
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16062
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16063
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 16067
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#END

@@ -1,0 +1,1128 @@
+#PLAYER
+Name Lyre~
+Surname Thymes~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1405466993
+LogO 1422395310
+Vers 10
+Act  CDGHQTe
+Desc Deep auburn colored hair has been tightly braided and wrapped around, at
+least twice, this woman's head.  Big, orange amber colored eyes look about
+the area wide-eyed, scanning.  A slender nose compliments her slightly
+squared jaw on her almond shaped face.  A few small arrow markings, red in
+color, are high on her left cheek bone.  A deeply tanned leather vest, laced
+tightly, clings to her upper body, such a dark brown it could mistaken for
+black.  The pants she wears looks to be the same material of vest, along
+with her boots that are laced up to her knees.  A dagger hangs from her
+waist along with a small pouch.  
+~
+Prom {R%h{c%H {R%m{c%M {R%vv {W%Xx {w%gs {y%sg{x %B%c~
+Race kagonesti~
+Devotee 12
+Sex  2
+Cla  10
+Hmtown 0
+Levl 49
+recall_point 3001
+Levscale 30
+Xptolev  19377
+Sec  0
+Plyd 443693
+Not  1418706195 1405967689 0 1410808993 1405967687
+Scro 33
+Room 5717
+HMV  1202 1202 668 668 403 403
+Steel 10720
+Gold 22715
+Bank 90000
+Exp  552023
+AfBy JTb
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3997696
+Comm MNO
+Pos  8
+Prac 36
+Alig  -244
+Ethos 2
+Hit   8
+Dam   5
+ACs 30 17 8 72
+Wimp  200
+Attr 23 24 19 17 29 16
+AMod 9 13 18 4 8 4
+Pass LyFXrEqhiKW4s~
+Titl  the Mistress Shadowcaster~
+Pretit ~
+Pnts 8
+TSex 2
+LLev 118
+HMVP 1102 468 403
+Cnd  0 61 61 0
+QuestPnts 6616
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 100 'acid blast'
+Sk 1 'detect hidden'
+Sk 100 'incendiary cloud'
+Sk 100 'levitate'
+Sk 1 'gate'
+Sk 99 'giant strength'
+Sk 1 'haste'
+Sk 1 'mind shatter'
+Sk 99 'identify'
+Sk 100 'infravision'
+Sk 1 'invisibility'
+Sk 100 'magic missile'
+Sk 100 'shield'
+Sk 100 'weaken'
+Sk 1 'word of recall'
+Sk 100 'dagger'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 78 'backstab'
+Sk 90 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'parry'
+Sk 90 'second attack'
+Sk 1 'circlestab'
+Sk 1 'traject'
+Sk 85 'mount'
+Sk 100 'cantrip'
+Sk 96 'bad luck'
+Sk 1 'mountjack'
+Sk 100 'battle tactics'
+Sk 75 'wear leather'
+Sk 27 'fast healing'
+Sk 23 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'kagonesti tongue'
+Sk 35 'meditation'
+Sk 95 'pick lock'
+Sk 100 'sneak'
+Sk 72 'steal'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 97 'luck'
+Sk 100 'scout'
+Sk 100 'surge'
+Sk 64 'endure'
+Sk 1 'taunt'
+Sk 85 'flash'
+Sk 1 'empowerment'
+Sk 100 'eavesdrop'
+Sk 92 'deafness'
+Sk 1 'disarm traps'
+Sk 96 'alarm'
+Sk 100 'staff'
+Sk 1 'eyerub'
+Sk 1 'firetongue'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'enlarge'
+Sk 100 'lock'
+Affc 'infravision'   0  42  33   0   0        512
+Affc 'empowerment'   0  89  36   3   5          0
+Affc 'attunement'   0  85  37   3   4          0
+Affc 'attunement'   0  85  37   3   3          0
+Affc 'glamour'   0  95  37   4  27          0
+Affc 'waterlungs'   0  85  40   0   0  134217728
+Affc 'giant strength'   0  43  34   4   1          0
+Affc 'luck'   0  49  35   5  18          0
+Affc 'levitate'   0  48  40   0   0     524288
+Affc 'shield'   0  47  50 -20  17          0
+End
+
+#O
+Vnum 1254
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 94
+Wear 4
+Cost 850
+End
+
+#O
+Vnum 16184
+Nest 0
+Cond 88
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16194
+Nest 0
+Cond 100
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 11284
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+Spell 1 'levitate'
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17407
+Nest 1
+Cond 98
+Wear -1
+Lev  41
+Cost 0
+Val  2 6 6 11 73
+End
+
+#O
+Vnum 13702
+Nest 1
+Cond 100
+Wear -1
+Cost 420
+End
+
+#O
+Vnum 3068
+Nest 1
+Cond 90
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 3067
+Nest 1
+Cond 90
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 3066
+Nest 1
+Cond 90
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3070
+Nest 1
+Cond 88
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 3071
+Nest 1
+Cond 90
+Wear -1
+Cost 220
+End
+
+#O
+Vnum 10963
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 94
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Cond 88
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 914
+Nest 0
+Cond 94
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 96
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 91
+Wear 19
+Cost 6575
+End
+
+#O
+Vnum 10892
+Nest 0
+Cond 97
+Wear 18
+Cost 6575
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 16208
+Nest 0
+Cond 94
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 94
+Wear 3
+Cost 850
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 98
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 99
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9582
+Nest 0
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3070
+Nest 0
+Cond 90
+Wear 12
+Cost 220
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11700
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 17713
+Enchanted
+Nest 0
+ExtF 64
+Cond 83
+Wear 20
+Lev  56
+Cost 550
+Val  2 7 8 11 66
+Affc 'enchant weapon'   1 100  -1   1  19          0
+Affc 'enchant weapon'   0 100  -1   1  18          0
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill sanctuary~
+ShD  a pill of sanctuary~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 85 0 0 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  34
+Cost 0
+Val  34 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1835
+Nest 0
+Name magical pill pill heal~
+ShD  a pill of heal~
+Cond 100
+Wear -1
+Lev  33
+Cost 0
+Val  33 59 0 0 0
+Spell 1 'heal'
+End
+
+#END

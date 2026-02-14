@@ -1,0 +1,1297 @@
+#AREADATA
+Name Tower of the High Clerist~
+Builders Kiri~
+Continent (null)~
+Sector 0
+VNUMs 200 299
+Credits Kiri-Jolith~
+Security 9
+End
+
+
+
+#MOBILES
+#200
+crown knight solamnic defender~
+A {cDefender{x of the {yCrown{x~
+A low ranking {cKnight{x of the {yCrown{x is here.
+~
+Wearing plain armor, with only a few trappings attached and nothing
+engraven, this Knight has yet to truly earn his name.  Fresh from the ranks
+of the squires, the Defender of the Crown is the lowest ranking of the Order
+of the Crown.  
+~
+human~
+AT 0 400 0
+20 30 61d10+304 30d10+85 10d3+20 slash
+-10 -10 -10 -4
+ACDEFIKLQTU 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK M unknown 0
+#201
+squire crown~
+A {wsquire{x of the {yCrown{x~
+A {wsquire{x of the {yCrown{x is here, doing his patron's business
+~
+Not even Knights yet, squires of the Crown are not yet even Knights
+proper.  A step above Novices, squires are, however, considered members of
+the Order.  This man wears no mail, only a simple tabard and leather tunic. 
+~
+human~
+AT 0 400 0
+15 25 51d8+253 25d10+85 8d3+17 slash
+-7 -7 -7 -1
+CDEFIKLQTU 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK M unknown 0
+#202
+novice order~
+A novice of the Order~
+A novice of the Order of Knighthood is here.
+~
+Those people who have petitioned for Knighthood but have not yet been
+accepted as squires are considered Novices of the Order.  These people are
+generally high spirited, untrained, proud novice swordmen with something to
+prove.  This man wears no armor, only a tabard with a crown emblazoned upon
+it.  
+~
+human~
+AS 0 351 0
+10 20 41d6+203 20d10+85 6d3+15 slash
+-3 -3 -3 0
+CIKQTU 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK M unknown 0
+#203
+knight crown~
+a {cKnight {wof the {yCrown{x~
+A {cKnight{w of the {yCrown{x is here, ever vigilent.
+~
+Those who have completed training as Defenders of the Crown move on to
+the rank of Knight of Crown.  Knights of Crown are Crown Knights who have
+seperated themselves among the rank-and-file Defenders as those with the
+right to lead a squad of 3-5 Defenders.  This man wears plain platemail,
+with a large round clasp on his gold cape proclaiming him a member of the
+Order of the Crown.  
+~
+human~
+AT 0 450 0
+25 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+CDEFIKQTU 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK M unknown 0
+#204
+sceptre knight~
+A {ySceptre {cKnight{x~
+A {ySceptre{c Knight{x is here, head held high
+~
+Sceptre Knight is the next rank beyond Knight of Crown.  These Knights
+tend to lead units into battle, and occasionally lead small garrisons. 
+Though still rank-and-file, the rank of Sceptre Knight commands respect
+among the other Knights of the Crown.  This Knight wears unadorned full
+plate, save an intricately designed clasp that holds his golden cape on. 
+The clasp bears the emblem of the Order of the Crown, as well as a carving
+of a sceptre, proclaiming the Knight's rank.  
+~
+human~
+AT 0 500 0
+30 40 81d13+405 40d10+85 13d3+25 slash
+-17 -17 -17 -9
+CDEFIKLNQTU 0 0 0
+stand stand male 35
+AHMV ABCDEFGHIJK M unknown 0
+#205
+shield knight crown~
+A {yShield {cKnight{x~
+A {yShield {cKnight{x of the {yCrown{x is here, watching vigilently.
+~
+Sceptre Knights who've proven themselves as strong leaders are often
+rewarded with the rank of Shield Knight.  This designation is an honored
+one, for it means that you have been recognised for not only battle prowess
+and honor, but leadership and intelligence as well.  This Knight wears a
+plain suit of plate mail, with a golden cape held on by the symbol of golden
+crown against a shield.  
+~
+human~
+AT 0 550 0
+35 45 91d15+455 45d10+85 15d3+27 slash
+-21 -21 -21 -11
+CDEFIKLNQTU 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK M unknown 0
+#206
+shield of crown knight~
+A {cShield{x of {yCrown{x~
+A {cShield {xof {yCrown{x is here, standing tall.
+~
+The Shield of Crown is one step above the Shield Knight.  Those who
+achieve this rank normally do so after truly proving themselves though some
+great deed, although it has been offered to Knights who've seen little
+battled, but exemplify the ideals of loyalty and obediance.  This Knight
+wears plain full plate mail, a golden cape, and a clasp upon the cape
+proclaiming him a Knight of the Crown.  
+~
+human~
+AT 0 600 0
+40 50 101d16+506 50d10+85 16d3+30 slash
+-24 -24 -24 -14
+CDEFIKLNQTU 0 0 0
+stand stand male 45
+AHMV ABCDEFGHIJK M unknown 0
+#207
+lord shields knight~
+A {CLord{x of {YShields{x~
+A {CLord{x of {YShields{x is here, looking casual.
+~
+The initial rank of Lordship within the Knighthood, Lords of the Crown
+are the commanding homeguards for the Knighthood.  Generally, the duties of
+a Lord of Shields is the field and garrison general within a garrison,
+although they have been known to hold political power.  This Knight is
+wearing elaborate plate mail etched with the symbol of the Crown upon it, as
+well as a great flowing golden cloak.  
+~
+human~
+AT 0 650 0
+50 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+0 0 0 0
+stand stand male 60
+AHMV ABCDEFGHIJK M unknown 0
+#208
+lord crown knight~
+A {CLord {xof {YCrowns{x~
+A {CLord {xof {YCrowns{x is here, bearing a stern expression.
+~
+A Lord of Crowns is the next step from Lord of Shields in the Order of
+the Crown.  The Lord of the Crown's tasks include maintaining international
+relationships with those nations who's names appear upon the List of
+Loyalty.  It is the Lord of Crown's job to lead those Knights of the Crown
+who've been assigned to foreign nations for military support.  This Knight
+wears highly elaborate armor etched with the symbol of the Crown, and a
+golden cape.  
+~
+human~
+AT 0 700 0
+60 70 141d23+1415 70d10+85 23d3+40 slash
+-37 -37 -37 -22
+0 0 0 0
+stand stand male 70
+AHMV ABCDEFGHIJK M unknown 0
+#209
+master warrior~
+A {YMaster{C Warrior{x~
+A {YMaster{C Warrior{x is here, inspecting defenses{x
+~
+The Master Warrior is exactly that, in most cases.  Few of this position
+exist at any given time.  The role of the Master Warrior is one of
+battlefield leadership.  Head of large military units, the Master Warrior
+must be courageous, loyal, charismatic, and intelligent.  This man wears a
+billowing yellow cape, and intricately carved plate mail bearing the symbols
+of the order.  
+~
+human~
+AT 0 750 0
+70 80 161d26+1617 80d10+85 26d3+45 slash
+-44 -44 -44 -28
+CDEFIKLNQTU 0 0 0
+stand stand male 80
+AHMV ABCDEFGHIJK M unknown 0
+#210
+lord warrior~
+{CLord {YWarrior{x Quintayne~
+{CLord {YWarrior{x Quintayne, {cKnight{x of the {yCrown{x is here, looking quite stern.
+~
+Resplendant in shining silver armor, trimmed with gold and fitted with
+fine jewels, Lord Quintayne shines like the brightest sun.  His heavy gold
+cloak hangs down to his spured leather riding boots, his long, wavy blonde
+hair making him look majestic dispite his cold, stern expression.  
+~
+human~
+AT 0 800 0
+80 90 181d30+1819 90d10+85 30d3+50 slash
+-51 -51 -51 -32
+CDEFIKLNQTU 0 0 0
+stand stand male 90
+AHMV ABCDEFGHIJK M unknown 0
+#211
+Novice sword~
+a {cnovice{x of the {wSword{x~
+A {cNovice{x of the {wSword{x is here, making rounds.
+~
+No armor adorns this Knight, only a simple white tabard proclaiming him a
+Novice of the Sword.  Those Knights who've been accepted to the Order of the
+Sword begin as Novices, as even the most experianced Knight of the Crown is
+only a beginner upon entry into this new, more demanding order.  
+~
+human~
+AT 0 950 0
+25 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+0 0 0 0
+stand stand male 35
+AHMV ABCDEFGHIJK M unknown 0
+#212
+knight sword~
+a {cKnight{x of {wSwords{x~
+A {cKnight {xof {wSwords{x is here, stroking his moustache.
+~
+Knights of the Sword who've completed there initial training as Novices
+attain the rank of Knight of Sword.  This is the rank and file Knight of the
+Sword, much like the Defender of the Crown.  This knight wears a suit of
+full plate mail, a silver cloak, and a brown tabard.  
+~
+human~
+AT 0 1000 0
+30 40 81d13+405 40d10+85 13d3+25 slash
+-17 -17 -17 -9
+0 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK M unknown 0
+#213
+blade knight~
+a {wBlade{c Knight{x~
+A {wBlade {cKnight{x of the Sword is here, ever vigilant.
+~
+The Knight of Swords who has exemplified the values of the Order of the
+Sword, Courage and Heroism, is granted the rank of Blade Knight.  These
+knights serve as squad leaders in groups of 4 or 5 Knights of Sword.  This
+man wears silver colored plate mail, a white cloak, and a brown sash.  A
+symbol of two crossed swords adorns the cloak's clasp.  
+~
+human~
+AT 0 1000 0
+35 45 91d15+455 45d10+85 15d3+27 slash
+-21 -21 -21 -11
+CDEFIKLQTU 0 0 0
+stand stand male 45
+AHMV ABCDEFGHIJK M unknown 0
+#214
+knight clerist~
+a {cKnight {wClerist{x~
+A {cKnight {wClerist{x is here, standing tall.
+~
+The Knight Clerist serves as the group commander of multiple squads.  A
+rank up from Blade Knight, they are generally well trained.  This knight
+wears full plate mail, a white cloak, and a brown tabard with the symbol of
+Kiri-Jolith upon it.  His clasp is adorned with three crossed swords.  
+~
+human~
+AT 0 1000 0
+40 50 101d16+506 50d10+85 16d3+30 slash
+-24 -24 -24 -14
+CDEFIKLQTU 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK M unknown 0
+#215
+abbott swords~
+An {cAbbott{x of {wSwords{x~
+An {cAbbott{x of {wSwords{x is here, looking quite dignified.
+~
+Resplendant in silver plate mail, wearing a brown tabard with the bison's
+head, and a white cloak, the Abbott of Swords is a rank up from Knight
+Clerist.  These Knights are the field commanders of large units, and there
+are few of them.  
+~
+human~
+AT 0 1000 0
+45 55 111d18+1111 55d10+85 18d3+32 slash
+-27 -27 -27 -16
+CDEFIKLQTU 0 0 0
+stand stand male 55
+AHMV ABCDEFGHIJK M unknown 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#200
+{CNest of the Kingfisher{x~
+Eight windows are spaced evenly around this small, circular room.  The
+area is no more than about 35 feet across, the width of the tower itself at
+this level.  There is nothing here whatsoever, as this is simply a lookout
+post.  A single trapdoor is the only exit, lying as it does at the south end
+near the window.  
+~
+0 4 0
+E
+trapdoor~
+The trapdoor is big enough to fit a large man in plate mail.  It is
+wooden, and in good repair.  There is a sliding latch that holds it into
+place.  
+~
+E
+window~
+Eight of them are spaced evenly around the room, facing each of the
+cardinal directions and half-way between each of those.  Each window is
+about 60 centimeters wide, and four times that tall, arched at the top.  The
+one too the north-west over looks the High Clerist Pass, the only overland
+rout between Palanthas and greater Ansalon.  The window facing south-east
+overlooks the Wings of Habbakuk, the plains which lie between the High
+Clerist Tower and Vingaard Keep.  
+~
+D5
+~
+trapdoor~
+1 0 201
+S
+#201
+{cA spiral staircase{x~
+This staircase leads down to the lower levels and up toward a trapdoor
+that is visable from here.  It winds around a series of eight white marble
+support pillars, intricately carved with designs depicting the stem of a
+rose, with hundreds of blooming flowers growing in all directions.  A
+landing lies about 200 down from the trapdoor, with a door leading southward
+out of the stairwell.  
+~
+0 0 0
+E
+door~
+A large silver door stands here.  It seems to be made of pure silver,
+sense no paint or coating could have lasted the centuries sence this place
+was built.  Heavy and large, the door opens inward, a gigantic brass handle
+on the very center.  Carvings of Knights on dragonback fill three small
+murals upon the door, each depicting a Knight of a differant order.  
+~
+E
+pillars~
+Eight intricately carved pillars fill the center of this stairwell.  Made
+of beautiful white marble, each depicts a long, winding stem of a rose bush,
+with hundreds of flowers in various states of blooming branching out from
+the central stem.  
+~
+E
+trapdoor~
+The trapdoor is big enough to fit a large man in plate mail.  It is
+wooden, and in good repair.  There is a sliding latch that holds it into
+place.  
+~
+E
+staircase~
+This staircase winds around eight small pillars.  Each step has the
+marking of the Solamnic Knighthood in gold.  
+~
+D2
+~
+~
+1 0 202
+D4
+~
+trapdoor~
+1 0 200
+D5
+~
+~
+0 0 203
+S
+#202
+{cA balcony{x~
+Rising high above the gatelocks, this balcony offers an excellent view of
+the tower grounds.  The walkway runs completely around the tower, offering
+the observer a view of any point within the fortress' walls.  However, a
+group of eight tapered pillars obscure the view of the distance.  This
+pillars support nothing, and are mearly decorative.  They come to sharp
+points at there apex, and tip smoothly together at the bottom.  
+~
+0 0 0
+E
+door~
+A large silver door stands here.  It seems to be made of pure silver,
+sense no paint or coating could have lasted the centuries sence this place
+was built.  Heavy and large, the door opens inward, a gigantic brass handle
+on the very center.  Carvings of Knights on dragonback fill five small
+murals upon the door, each depicting dragon of a differant color One gold,
+silver, bronze, copper, and brass.  
+~
+E
+gatelocks~
+Far below, the system of gates can be seen.  Inside each gate that opens
+onto the plain is a small area surrounded by walls, and locked off by
+another gate which leads into the dragontraps.  Any would be invader that
+breached the first wall would find himself trapped within the lock, easy
+targets for the conscripted archers upon the battlements.  
+~
+E
+walkway~
+This path runs completely around the tower, offering a view in any
+direction.  Unfortunaly, the view is obstructed by the decorative pillars. 
+The walkway is made of white marble, and is well maintained, although signs
+of wear from weather is apparent.  
+~
+E
+pillars~
+Eight pillars, each 20 feet high, taper toward the sky.  Each is linked
+smoothly by a dip in the battlements, and rises up to a sharp point above.  
+~
+D0
+~
+~
+1 0 201
+S
+#203
+{cA spiral staircase{x~
+The staircase winds down toward the lower levels and further up into the
+Tower.  Eight marble pillars, intricately carved with designs depicting the
+stem of a rose, with hundreds of blooming flowers growing in all directions,
+serve as support beams in the center of the stairwell.  
+~
+0 0 0
+E
+pillar~
+~
+D4
+~
+~
+0 0 201
+D5
+~
+~
+0 0 204
+S
+#204
+{cA stairwell{x~
+Eight pillars rise high into the darkness, around which a spiraling
+staircase winds.  The room is cirular, with the stairs running around the
+outer edge, beginning at the south end.  There are exits to the north,
+south, and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 206
+D1
+~
+~
+0 0 207
+D3
+~
+~
+0 0 205
+D4
+~
+~
+0 0 203
+S
+#205
+{cA short hallway{x~
+A small hallway runs east to west.  A large tapestry hangs from the north
+wall, and a few portrait paintings hang upon the southern one.  The floor is
+immaculately clean, white marble.  
+~
+0 0 0
+D1
+~
+~
+0 0 204
+D3
+~
+~
+0 0 219
+S
+#206
+{cA small domed room{x~
+Delicate fresco paintings cover the high, domed ceiling of the room. 
+Images of two kingfishers stand to either side of a great Knight, flying
+through the heavens dispelling darkness.  The floor is covered by a
+mosiac-tile map of pre-Cataclysmic Ansalon.  Strange shadows are cast on the
+map.  A passage lies both north and south, and a descrete hallway leads east
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 208
+D2
+~
+~
+0 0 204
+S
+#207
+{cA short hallway{x~
+A small hallway runs east to west.  A large tapestry hangs from the north
+wall, and a few portrait paintings hang upon the southern one.  The floor is
+immaculately clean, white marble.  
+~
+0 0 0
+D1
+~
+~
+0 0 211
+D3
+~
+~
+0 0 204
+S
+#208
+{cA narrow hallway{x~
+A small hallway runs east to west.  A large tapestry hangs from the north
+wall, and a few portrait paintings hang upon the southern one.  The floor is
+immaculately clean, white marble.  
+~
+0 0 0
+D1
+~
+~
+0 0 210
+D3
+~
+~
+0 0 206
+S
+#209
+{cLibrary{x~
+Floor-to-ceiling shelves line the walls of the room and stand in ordered
+ranks across the floor.  The shelves are filled with books.  Hundreds of
+books, large and small, old and new.  Some are bound in leather and in good
+repair.  Others are held together by no more than string and the dust they
+carry.  A single exit leads south from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 206
+S
+#210
+{cStaircase landing{x~
+A small hallway runs to the east.  A large tapestry hangs from the north
+wall, and a few portrait paintings hang upon the southern one.  The floor is
+immaculately clean, white marble.  A twisting staircase leads down from
+here.  
+~
+0 0 0
+D3
+~
+~
+0 0 208
+D5
+~
+~
+0 0 227
+S
+#211
+{cAn elegent Hall{x~
+Frescoes cover the ceiling in brilliant detail.  Banners hang stiffly
+from the rafters.  Statues of ancient Knights are found in the hall, whiles
+scenes of their battles are immortalized overhead.  Doors can be seen in
+small culde-sacs to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 212
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 207
+S
+#212
+{cA short hallway{x~
+This small hallway contains nothing save three doors, north, south, and
+east.  To the south, a large hall serves as the entrance to this wing.  
+~
+0 0 0
+D0
+~
+~
+1 0 214
+D1
+~
+~
+1 0 216
+D2
+~
+~
+0 0 211
+D3
+~
+~
+1 0 215
+S
+#213
+{cA short hallway{x~
+This small hallway contains nothing save three doors, south, east, and
+west.  To the north a large hall serves as the entrance to this wing.  
+~
+0 0 0
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 218
+D3
+~
+~
+0 0 217
+S
+#214
+{cElegant Quarters{x~
+Richly-woven rugs cover the floor.  Finely crafted cabinets and shelving
+line the walls and divans.  Chairs are placed about the room.  One door
+leads outward to the south.  
+~
+0 0 0
+D2
+~
+~
+1 0 212
+S
+#215
+{cElegant Quarters{x~
+Richly-woven rugs cover the floor.  Finely crafted cabinets and shelving
+line the walls and divans.  Chairs are placed about the room.  One door
+leads outward to the east.  
+~
+0 0 0
+D1
+~
+~
+1 0 212
+S
+#216
+{cElegant Quarters{x~
+Richly-woven rugs cover the floor.  Finely crafted cabinets and shelving
+line the walls and divans.  Chairs are placed about the room.  One door
+leads outward to the west.  
+~
+0 0 0
+D3
+~
+~
+1 0 212
+S
+#217
+{cElegant Quarters{x~
+Richly-woven rugs cover the floor.  Finely crafted cabinets and shelving
+line the walls and divans.  Chairs are placed about the room.  One door
+leads out toward the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 213
+S
+#218
+{cElegant Quarters~
+Richly-woven rugs cover the floor.  Finely crafted cabinets and shelving
+line the walls and divans.  Chairs are placed about the room.  One door
+leads out toward the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 213
+S
+#219
+{cA Dining Hall{x~
+A great table runs the length of the room beneath dark chandeliers. 
+Delicate porcelain plates grace the silk tablecloth.  Polished silverware
+flanks each setting.  This large room stretches further north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 220
+D1
+~
+~
+0 0 205
+D2
+~
+~
+0 0 221
+S
+#220
+{cNorthern Dining Hall{x~
+A great table runs the length of the room beneath dark chandeliers. 
+Delicate porcelain plates grace the silk tablecloth.  Polished silverware
+flanks each setting.  Two exits exist here, one north and one east.  The
+large room stretches on to the south.  
+~
+0 0 0
+D0
+~
+~
+1 0 225
+D1
+~
+~
+1 0 226
+D2
+~
+~
+0 0 219
+S
+#221
+{cSouthern Dining Hall{x~
+A great table runs the length of the room beneath dark chandeliers. 
+Delicate porcelain plates grace the silk tablecloth.  Polished silverware
+flanks each setting.  A swinging door lies to the south, to the east,
+another door is present.  This large room continues toward the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 219
+D1
+~
+~
+0 0 224
+D2
+~
+~
+0 0 222
+S
+#222
+{cKitchen{x~
+Several large wood blocks stand in the center of the room.  A huge, cold
+stone fireplace fills the western wall.  Great bronze kettles hang from the
+walls alongside cutting knives of every type and description.  A small door
+stands to the south, and an exit is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 221
+D2
+~
+~
+1 0 223
+S
+#223
+{cFood Storage and Pantry{x~
+Huge kegs and bins line the walls of this room.  Grain is scattered
+across the floor.  The bins contain vegetables and fruit.  All of it seems
+to be fresh, but has no aroma.  The exit is to the north.  
+~
+0 0 0
+D0
+~
+~
+1 0 222
+S
+#224
+{cDinnerware storage{x~
+Large, oak racks line the walls of this large closet.  Porcelain plates,
+and utensils of gold, silver, steel, and a mixture of all set neatly in
+small cases below the glass doors of the racks.  A single exit stands to the
+west.  
+~
+0 0 0
+D3
+~
+~
+0 0 221
+S
+#225
+{cHall of Mirrors{x~
+This small area is nothing more than a hallway running in a circle.  It
+seems to have little purpose.  The walls are lined by mirrors.  Everwhere
+one looks, on that is seen is a reflection.  The only exit is south.  
+~
+0 0 0
+D2
+~
+~
+1 0 220
+S
+#226
+{cWeapons Storage{x~
+This room is an armory.  Swords and lances hang upon pins on the walls,
+shields and suits of armor hang on racks in rows through the room.  Silver
+glints from everywhere, making sight difficult.  One one exit is here,
+leading west.  
+~
+0 0 0
+D3
+~
+~
+1 0 220
+S
+#227
+{cLevel 13 landing{x~
+~
+0 0 0
+D3
+~
+~
+0 0 228
+D4
+~
+~
+0 0 210
+S
+#228
+{cA small rotunda{x~
+~
+0 0 0
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 230
+D3
+~
+~
+0 0 229
+S
+#229
+{cLevel 13{x~
+~
+0 0 0
+D1
+~
+~
+0 0 228
+S
+#230
+{cBegining of Level 13, Eternal Halls{x~
+~
+0 0 0
+D0
+~
+~
+0 0 228
+D2
+~
+~
+0 0 231
+S
+#231
+Eternal Halls, 1~
+~
+0 0 0
+D0
+~
+~
+0 0 230
+D1
+~
+~
+0 0 249
+D3
+~
+~
+0 0 233
+S
+#232
+Eternal Halls, 2~
+~
+0 4 0
+S
+#233
+Eternal Halls 3~
+~
+0 0 0
+D1
+~
+~
+0 0 231
+D2
+~
+~
+0 0 240
+D3
+~
+~
+0 0 234
+S
+#234
+Eternal Halls 4~
+~
+0 0 0
+D1
+~
+~
+0 0 233
+D2
+~
+~
+0 0 236
+D3
+~
+~
+0 0 235
+S
+#235
+Eternal Halls 5~
+~
+0 0 0
+D0
+~
+~
+0 0 234
+D1
+~
+~
+0 0 234
+D2
+~
+~
+0 0 236
+S
+#236
+Eternal Halls 6~
+~
+0 0 0
+D0
+~
+~
+0 0 234
+D1
+~
+~
+0 0 240
+D2
+~
+~
+0 0 237
+D3
+~
+~
+0 0 235
+S
+#237
+Eternal Halls 8~
+~
+0 0 0
+D0
+~
+~
+0 0 238
+D1
+~
+~
+0 0 241
+S
+#238
+Eternal Halls 9~
+~
+0 0 0
+D0
+~
+~
+0 0 239
+D1
+~
+~
+0 0 242
+D2
+~
+~
+0 0 237
+S
+#239
+Eternal halls 10~
+~
+0 0 0
+D1
+~
+~
+0 0 243
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 240
+S
+#240
+Eternal Halls 7~
+~
+0 0 0
+D0
+~
+~
+0 0 233
+D1
+~
+~
+0 0 239
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 236
+S
+#241
+Eternal Halls 13~
+~
+0 0 0
+D0
+~
+~
+0 0 242
+D1
+~
+~
+0 0 244
+D3
+~
+~
+0 0 237
+S
+#242
+Eternal halls 12~
+~
+0 0 0
+D0
+~
+~
+0 0 243
+D1
+~
+~
+0 0 244
+D2
+~
+~
+0 0 241
+D3
+~
+~
+0 0 238
+S
+#243
+Eternal halls 11~
+~
+0 0 0
+D0
+~
+~
+0 0 239
+D1
+~
+~
+0 0 245
+D2
+~
+~
+0 0 242
+D3
+~
+~
+0 0 239
+S
+#244
+Eternal Halls 14~
+~
+0 0 0
+D0
+~
+~
+0 0 245
+D1
+~
+~
+0 0 246
+D2
+~
+~
+0 0 241
+D3
+~
+~
+0 0 242
+S
+#245
+Eternal Halls 15~
+~
+0 0 0
+D0
+~
+~
+0 0 250
+D1
+~
+~
+0 0 246
+D2
+~
+~
+0 0 244
+D3
+~
+~
+0 0 243
+S
+#246
+Eternal Halls 16~
+~
+0 0 0
+D0
+~
+~
+0 0 247
+D2
+~
+~
+0 0 244
+D3
+~
+~
+0 0 245
+S
+#247
+Eternal Hall 18~
+~
+0 0 0
+D0
+~
+~
+0 0 248
+D2
+~
+~
+0 0 246
+D3
+~
+~
+0 0 250
+S
+#248
+Eternal Hall 19~
+~
+0 0 0
+D0
+~
+~
+0 0 249
+D2
+~
+~
+0 0 247
+D3
+~
+~
+0 0 249
+S
+#249
+Eternal Hall 2~
+~
+0 0 0
+D0
+~
+~
+0 0 248
+D1
+~
+~
+0 0 248
+D2
+~
+~
+0 0 250
+D3
+~
+~
+0 0 231
+S
+#250
+Eternal Hall 17~
+~
+0 0 0
+D0
+~
+~
+0 0 249
+D1
+~
+~
+0 0 247
+D2
+~
+~
+0 0 245
+S
+#0
+
+
+
+#SPECIALS
+M 200 spec_guard
+M 203 spec_guard
+M 204 spec_guard
+M 205 spec_guard
+M 206 spec_guard
+M 207 spec_guard
+M 208 spec_guard
+M 209 spec_guard
+M 210 spec_executioner
+M 211 spec_cast_cleric
+M 212 spec_cast_cleric
+M 213 spec_cast_cleric
+M 214 spec_cast_cleric
+M 215 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 200 5 1
+D 0 201 2 1
+D 0 201 4 1
+D 0 202 0 1
+D 0 212 0 1
+D 0 212 1 1
+D 0 212 3 1
+D 0 214 2 1
+D 0 215 1 1
+D 0 216 3 1
+D 0 220 0 1
+D 0 220 1 1
+D 0 222 2 1
+D 0 223 0 1
+D 0 225 2 1
+D 0 226 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

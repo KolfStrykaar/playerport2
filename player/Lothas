@@ -1,0 +1,541 @@
+#PLAYER
+Name Lothas~
+Surname Thyanel~
+MaskedIp ~
+Lokprot ~
+Email frankchurchv@gmail.com~
+Id   1390121213
+LogO 1392181647
+Vers 10
+Act  CDEFGQSTe
+Desc This elf is young, and ugly.  Lacking so many basic natural graces that
+his Silvanesti heritage would normally bestow.  Like the runt, of a putrid
+litter, he glides around the peripheral shadow...  As of now, he says
+little, mutters most often to himself, and keeps his hood up...  
+~
+Prom <%hhp %mm %vmv> ~
+Race silvanesti~
+Sex  1
+Cla  2
+Hmtown 1
+Levl 17
+recall_point 5737
+Levscale 30
+Xptolev  3205
+Sec  0
+Plyd 57784
+Not  0 0 0 0 0
+Scro 22
+Room 3035
+HMV  197 258 139 139 246 246
+Steel 804
+Gold 1135
+Bank 0
+Exp  32045
+AfBy J
+Deaths 2
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1507328
+Comm NOQ
+Pos  8
+Alig  -664
+Ethos 2
+ACs 45 30 37 91
+Attr 12 15 20 16 13 16
+AMod 3 2 4 2 6 0
+Pass LoMhD8iC4kQ0c~
+Titl  the Fence~
+Pretit ~
+Pnts 10
+TSex 1
+LLev 12
+HMVP 258 139 196
+Cnd  0 23 55 0
+QuestPnts 7
+QuestNext 2
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 75 'detect poison'
+Sk 41 'infravision'
+Sk 90 'dagger'
+Sk 46 'shield block'
+Sk 14 'sword'
+Sk 1 'whip'
+Sk 83 'backstab'
+Sk 36 'dirt kicking'
+Sk 1 'disarm'
+Sk 62 'dodge'
+Sk 1 'enhanced damage'
+Sk 61 'envenom'
+Sk 1 'hand to hand'
+Sk 34 'kick'
+Sk 1 'trip'
+Sk 23 'second attack'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'demand'
+Sk 1 'circlestab'
+Sk 1 'blackjack'
+Sk 1 'dual wield'
+Sk 1 'mount'
+Sk 1 'pickpocket'
+Sk 1 'mountjack'
+Sk 1 'battle tactics'
+Sk 74 'wear leather'
+Sk 14 'fast healing'
+Sk 76 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 75 'lore'
+Sk 12 'peek'
+Sk 75 'pick lock'
+Sk 77 'sneak'
+Sk 1 'steal'
+Sk 50 'recall'
+Sk 1 'disguise'
+Sk 42 'tumble'
+Sk 62 'scout'
+Sk 1 'second backstab'
+Sk 1 'strip'
+Sk 1 'taunt'
+Sk 1 'eavesdrop'
+Sk 1 'evade'
+Sk 1 'boobytrap'
+Sk 1 'disarm traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'evade spell'
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 98
+Wear 1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 2
+Cost 300
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 97
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear 5
+Cost 144
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 97
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 100
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 94
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 17
+Cost 72
+End
+
+#O
+Vnum 5799
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 21
+Cost 1140
+End
+
+#O
+Vnum 3079
+Nest 0
+Cond 100
+Wear 14
+Cost 145
+End
+
+#O
+Vnum 3078
+Nest 0
+Cond 98
+Wear 7
+Cost 150
+End
+
+#O
+Vnum 3070
+Nest 0
+Cond 90
+Wear 12
+Cost 220
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 5749
+Nest 0
+Cond 100
+Wear 16
+Cost 250
+End
+
+#O
+Vnum 2522
+Nest 0
+Cond 100
+Wear -1
+Cost 222
+Val  5 5 0 0 0
+End
+
+#O
+Vnum 2517
+Nest 0
+Cond 95
+Wear 20
+Cost 600
+End
+
+#O
+Vnum 2563
+Nest 0
+Cond 100
+Wear -1
+Cost 550
+End
+
+#O
+Vnum 2656
+Nest 0
+Cond 100
+Wear -1
+Cost 588
+Spell 1 'haste'
+End
+
+#O
+Vnum 2654
+Nest 0
+Cond 100
+Wear -1
+Time 634
+Cost 900
+Spell 1 'giant strength'
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 212
+End
+
+#O
+Vnum 9573
+Nest 0
+Cond 97
+Wear 15
+Cost 310
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 915
+Nest 0
+Cond 100
+Wear 11
+Cost 999
+End
+
+#O
+Vnum 9571
+Nest 0
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 1207
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 761
+Nest 0
+Cond 100
+Wear -1
+Cost 77
+End
+
+#O
+Vnum 761
+Nest 0
+Cond 100
+Wear 0
+Cost 100
+Val  0 0 190 0 0
+End
+
+#O
+Vnum 712
+Nest 0
+Cond 90
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 3365
+Nest 0
+Cond 100
+Wear -1
+Cost 640
+End
+
+#O
+Vnum 3364
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 3350
+Nest 0
+Cond 100
+Wear -1
+Cost 1280
+End
+
+#O
+Vnum 5767
+Nest 0
+Cond 100
+Wear -1
+Cost 230
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 3058
+Nest 0
+Cond 100
+Wear 9
+Cost 141
+End
+
+#END

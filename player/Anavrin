@@ -1,0 +1,677 @@
+#PLAYER
+Name Anavrin~
+Surname Xanadu~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1304889759
+LogO 1408224912
+Vers 10
+Act  DGT
+Desc Before you is a mighty eagle, muscled from head to toe and has a mighty wingspan. It has dark {ggreen{x eyes that pierce areas even far away, sharp talons, and soft feathers.
+~
+Prom {gHP:%h/%H MP:%m/%M TNL:%X %B%b ~
+Race half-elf~
+Org 8
+Religion 11
+Sex  1
+Cla  8
+Hmtown 0
+Levl 81
+recall_point 927
+Levscale 30
+Xptolev  218511
+Sec  0
+Plyd 753639
+Not  1375547186 1330770530 0 1358380498 1304907218
+Scro 0
+Room 1943
+HMV  2515 2515 681 681 608 608
+Steel 6161
+Gold 153929
+Bank 70000
+Exp  4313039
+AfBy J
+Deaths 3
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Comm NO
+Pos  8
+Prac 14
+Trai 1
+Alig  -101
+Ethos 0
+Hit   11
+Dam   11
+ACs 41 40 25 80
+Wimp  346
+Attr 13 17 13 16 15 16
+AMod 0 6 19 4 12 0
+Pass Ang5hZaVuxKH2~
+Titl  - The Guardian of {GNirvana{x~
+Pretit ~
+Pnts 8
+TSex 1
+LLev 207
+HMVP 2380 561 608
+Cnd  0 0 0 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias ; ; ({WNature{x's {gProtector{x) : {G~
+Sk 25 'detect hidden'
+Sk 100 'forest vision'
+Sk 98 'farsight'
+Sk 41 'orb of containment'
+Sk 44 'frenzy'
+Sk 41 'axe'
+Sk 100 'dagger'
+Sk 41 'flail'
+Sk 27 'mace'
+Sk 45 'polearm'
+Sk 62 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 41 'whip'
+Sk 21 'bash'
+Sk 1 'berserk'
+Sk 100 'camouflage'
+Sk 27 'dirt kicking'
+Sk 61 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 78 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 45 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 88 'fourth attack'
+Sk 100 'track'
+Sk 53 'counter'
+Sk 84 'butcher'
+Sk 100 'dual wield'
+Sk 87 'mount'
+Sk 100 'campfire'
+Sk 97 'search water'
+Sk 40 'bearcall'
+Sk 82 'ambush'
+Sk 21 'herbal discern'
+Sk 44 'battle tactics'
+Sk 97 'trophy'
+Sk 41 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'fast healing'
+Sk 25 'haggle'
+Sk 100 'hide'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 91 'sneak'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 41 'grasping roots'
+Sk 76 'guard'
+Sk 27 'mounted combat'
+Sk 41 'scout'
+Sk 100 'quiet movement'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 76 'disarm traps'
+Sk 75 'set traps'
+Sk 75 'staff'
+Sk 75 'eyerub'
+Sk 100 'instruct'
+Sk 84 'eagle eye'
+Sk 76 'call of the wild'
+Sk 4 'tame'
+Sk 1 'arrow deflection'
+Sk 77 'point-blank shot'
+End
+
+#O
+Vnum 1251
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 736
+Nest 1
+Cond 100
+Wear -1
+Cost 138
+End
+
+#O
+Vnum 735
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 734
+Nest 1
+Cond 100
+Wear -1
+Cost 188
+End
+
+#O
+Vnum 734
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 734
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 16306
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16308
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16462
+Nest 0
+Name anklet fox~
+ShD  ({gSpiritual{X) Anklet of the Fox's {cBlessings{X~
+Desc An ankley of beads lie here, blessed with the fox's cunning.~
+Cond 100
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 16462
+Nest 0
+Name anklet wolf~
+ShD  ({gSpiritual{X) Anklet of the Wolf's {cBlessings{X~
+Desc An anlet of beads lie here, blessed with the wolf's speed~
+Cond 91
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 19003
+Nest 0
+Name bag scents~
+ShD  ({WStrung{X) A Bag of Scents~
+Desc A ranger's bag of scents lies here.~
+Cond 91
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19003
+Nest 0
+Name necklace bait~
+ShD  A Necklace of Bait~
+Desc A necklace with many different baits lies here.~
+Cond 97
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 11216
+Nest 0
+Name leather vine armor~
+ShD  Sturdy {yLeather{X vine-covered armor~
+Desc Two leather slabs lie here, tied together by vines to make a vest.~
+Cond 98
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 16184
+Nest 0
+Name straw hat~
+ShD  A well-made {yStraw{X Hat~
+Desc A high quality straw hat lies here.~
+Cond 96
+Wear 6
+Cost 750
+End
+
+#O
+Vnum 16366
+Nest 0
+Name bare feet~
+ShD  {yDirt{X-Covered Bare Feet~
+Desc A pair of chopped off dirty feet lie here, bleeding.~
+Cond 99
+Wear 11
+Cost 1500
+End
+
+#O
+Vnum 3016
+Nest 0
+Name nature aura~
+ShD  Nature's {WAura{X~
+Desc A garb lies here, resonating with the smells of nature.~
+Cond 97
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16194
+Nest 0
+Name belt vines~
+ShD  A Belt of Vines~
+Desc A belt of vines lies here~
+Cond 94
+Wear 17
+Cost 1150
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 97
+Wear 13
+Cost 1500
+End
+
+#O
+Vnum 10967
+Nest 0
+Cond 98
+Wear 7
+Cost 2500
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 97
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 16308
+Nest 0
+Name firefliies~
+ShD  A group of {YFireflies{X~
+Desc A group of fireflies are here, flying around.~
+Cond 100
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 16208
+Nest 0
+Name nature resolve~
+ShD  Nature's {WResolve{X~
+Desc a Shield lies on the ground, glowing with the resolve of a forester~
+ExtF 262144
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 300 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 172 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 0 0 0 0
+End
+
+#O
+Vnum 4960
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19009
+Nest 0
+Name katana~
+ShD  ({rCurved{X) A short-bladed Katana~
+Desc A short bladed katana with a curved blade and simply hilt lies on the ground.~
+Cond 62
+Wear 24
+Lev  51
+Cost 0
+Val  1 10 10 11 198
+End
+
+#O
+Vnum 737
+Nest 0
+Cond 100
+Wear -1
+Cost 198
+End
+
+#O
+Vnum 5700
+Nest 0
+Name Blessed Bow Forests~
+ShD  {W({CBlessed{W) Bow of the{g Forests{x~
+Desc A bow lies here glowing with a green aura, The mark of Chislev upon the wood.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   5
+Cond 100
+Mat  redwood~
+Wear 20
+Lev  100
+Cost 1000
+Val  9 10 14 37 16384
+Affc 'cultural artistry'   5 103  -1   0   0      16384
+End
+
+#O
+Vnum 500
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 24
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  20 15 0 1 0
+End
+
+#O
+Vnum 1914
+Nest 0
+Name bag Chislev hide~
+ShD  bag made from Chislev's hide~
+Desc A bag of fine Chislev hide catches your eye.~
+ExtF 67108864
+Wt   5
+Cond 25
+Mat  unknown~
+Wear -1
+Lev  18
+Cost 2800
+Val  560 1 -1 100 0
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1281
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 1
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 3092
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'detect invis'
+Spell 2 'detect magic'
+Spell 3 'detect hidden'
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of Dontavius~
+Desc The knocked-out tooth of Dontavius lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of Dontavius~
+Desc The knocked-out tooth of Dontavius lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of Dontavius~
+Desc The knocked-out tooth of Dontavius lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1870
+Nest 0
+ShD  the knocked-out tooth of Dontavius~
+Desc The knocked-out tooth of Dontavius lies on the floor.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#PET
+Vnum 3075
+Name horse~
+LogO 1408224912
+Desc A beautiful brown horse, with a shiny dark mane stands tall before you. 
+He has a saddle strapped to his back for comfortable riding.  
+A neck tag says 'I belong to Anavrin'.
+~
+Sex  1
+HMV  121 121 120 120 100 100
+AfBy SYZd
+AfBy2 0
+AfBy3 0
+Comm UVW
+Pos  8
+ACs  40 40 40 60
+Attr 14 13 13 15 13 13
+AMod 0 0 0 0 0 0
+End
+#END

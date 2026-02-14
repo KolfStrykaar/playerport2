@@ -1,0 +1,1623 @@
+#PLAYER
+Name Aleksei~
+Surname Slavznia~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1142743909
+LogO 1372294359
+Vers 10
+Act  DGHLMQT
+Desc Short black hair, dark as a raven's wing graces the crown of this man. 
+His Silver eyes stare out from a perfectly defined facial structure,
+matching the armor he wears.  Elegant and well crafted, yet ancient in
+style, it is the amor of {CSolamnus{x.  Silver with gold inlay and engraved
+with the {rRose{x {YCrown{x and {CSword{x.  The armor seems almost seamless,
+it's well-crafted beauty perfectly matching the other pieces.  A thick
+warsword is buckled across his back, over a simple {rred{x cloak.  A
+platinum dragon is tattooed in silver ink across the right side of his face,
+starting from forehead and ending at his neck.  A Half-Tabard starts at his
+waist and hangs down to his knees, slit on each side of his leg, making the
+center cloth a type of loincloth over his armor.  A {rRose{x emblazoned on
+the fabric, countering the darkness of the surrounding material.  
+~
+Prom {r<%hhp %mm %vmv {W%g{x{r>{x ~
+Race half-elf~
+Org 3
+Religion 5
+Sex  1
+Cla  3
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1410900
+Sec  0
+Plyd 911037
+Not  1358562361 1330770530 0 1336331778 1298827134
+Scro 22
+Room 3054
+HMV  3844 3844 695 695 709 709
+Steel 29
+Gold 69
+Bank 22257
+Exp  19199400
+AfBy DFJ
+Deaths 16
+FlagTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 983040
+Comm NOQ
+Pos  8
+Prac 13
+Save  -52
+Alig  1000
+Ethos 0
+Hit   57
+Dam   58
+ACs -523 -513 -546 -466
+Yield  200
+Attr 27 19 26 19 28 16
+AMod 15 4 8 11 7 0
+Pass Aly5klPoA0Zc6~
+Titl  - The {rForgotten{c Soldier{x~
+Pretit Lord{x~
+Pnts 8
+TSex 1
+LLev 245
+HMVP 3094 340 709
+Cnd  0 15 15 0
+QuestPnts 3
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias gtell gtell ({WWarriorof{X{YE'li{X)~
+Alias ooc say ({WOO{YC{x)~
+Alias bn breakneck~
+Sk 89 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 80 'flail'
+Sk 95 'mace'
+Sk 75 'polearm'
+Sk 81 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 1 'whip'
+Sk 96 'bash'
+Sk 78 'berserk'
+Sk 98 'dirt kicking'
+Sk 99 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 42 'rescue'
+Sk 92 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 97 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 77 'sharpen'
+Sk 87 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 95 'nerve pinch'
+Sk 90 'caltrops'
+Sk 76 'battle tactics'
+Sk 1 'wear chain'
+Sk 1 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'silvanesti tongue'
+Sk 100 'qualinesti tongue'
+Sk 100 'solamnic tongue'
+Sk 50 'recall'
+Sk 1 'bow'
+Sk 70 'battlecry'
+Sk 82 'bind wounds'
+Sk 92 'breakneck'
+Sk 98 'guard'
+Sk 100 'headbutt'
+Sk 70 'charge'
+Sk 70 'pardon'
+Sk 70 'backup'
+Sk 78 'mounted combat'
+Sk 75 'impale'
+Sk 95 'cleave'
+Sk 75 'trammel'
+Sk 57 'flank attack'
+Sk 70 'riposte'
+Sk 70 'pivot block'
+Sk 100 'staff'
+Sk 77 'eyerub'
+Sk 95 'finger break'
+Sk 79 'earpunch'
+Sk 79 'tonguecut'
+Sk 75 'smother'
+Sk 100 'instruct'
+Sk 75 'heroic demise'
+Sk 75 'joust'
+Sk 75 'shatter shield'
+Sk 75 'arrow deflection'
+End
+
+#O
+Vnum 1239
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 0
+ExtF 16778563
+Cond 96
+Wear -1
+Cost 0
+Val  1 12 11 18 84033
+Affc 'enchant weapon'   1 101  -1   8  19          0
+Affc 'enchant weapon'   0 101  -1   8  18          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name sword grandmaster~
+ShD  {CSword{x of the {rGrandmaster{x~
+Desc a fine sword passed down from Grandmasters past lies here, repelling the elements.~
+ExtF 8
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   1
+Cond 95
+Mat  plant~
+Wear -1
+Lev  100
+Cost 1000
+Val  1 10 14 1 16392
+Affc 'cultural artistry'   5 100  -1   0   0      16384
+End
+
+#O
+Vnum 16456
+Nest 0
+Name elven dagger~
+ShD  ({yAncient{x) an Elven {CDagger{x~
+Desc A dagger with a silver rose engraved in the pommel lies here.~
+ExtF 16777224
+Cond 98
+Wear -1
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 5700
+Nest 0
+Name war axe~
+ShD  a war axe~
+Desc A huge axe which looks like it's seen war lies here.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 96
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  5 10 16 9 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 1971
+Nest 0
+Cond 92
+Wear 20
+Cost 46000
+Val  4 8 18 8 65
+End
+
+#O
+Vnum 16452
+Nest 0
+Name solamnic war tent~
+ShD  a massive {rSolamnic{x War Tent~
+Desc a tent designed to hold many people stands here, Solamnic banners waving.~
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer solamnus~
+ShD  a {CBracer{x of Solamnus~
+Desc an ancient bracer engraved witht he Sword, Crown, and Rose lies here.~
+Cond 100
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+Name bracer solamnus~
+ShD  a {CBracer{x of Solamnus~
+Desc an ancient bracer engraved witht he Sword, Crown, and Rose lies here.~
+Cond 94
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 13790
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 4856
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'teleport'
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1625
+Nest 0
+Name silver visor~
+ShD  a {CSilver{X Visor~
+ExtF 17039435
+Cond 97
+Wear 7
+Cost 14500
+Val  23 23 23 21 0
+End
+
+#O
+Vnum 17552
+Nest 0
+Name silver greaves~
+ShD  a pair of {CSilver{X greaves~
+Cond 100
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 9868
+Nest 0
+Name silver helmet~
+ShD  a {CSilver{X helmet~
+ExtF 1097
+Cond 100
+Wear 6
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name simple cloak~
+ShD  a simple {WCloak{X~
+ExtF 17563977
+Cond 94
+Wear 4
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 1673
+Nest 0
+Name platinum medallion~
+ShD  a {CPlatinum{X Medallion~
+ExtF 17563977
+Cond 99
+Wear 3
+Cost 13000
+Val  30 29 31 29 0
+End
+
+#O
+Vnum 16304
+Nest 0
+Name golden chest~
+ShD  a {YGolden{x Chest~
+Desc a small golden chest, engraved with the traditional symbols of the Solamnic Knights lies here, glittering.~
+Cond 100
+Wear -1
+Cost 350
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3724
+Nest 1
+Cond 97
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 96
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3366
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1895
+Nest 1
+Cond 100
+Wear -1
+Cost 4500000
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill quench~
+ShD  a pill of quench~
+Cond 100
+Wear -1
+Lev  36
+Cost 0
+Val  36 340 0 0 0
+Spell 1 'quench'
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16777288
+Cond 100
+Wear -1
+Cost 5180
+Val  1 11 14 31 203
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 95
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16777290
+Cond 100
+Wear -1
+Cost 0
+Val  1 11 13 3 74
+End
+
+#O
+Vnum 12188
+Nest 1
+ExtF 16777290
+Cond 100
+Wear -1
+Cost 5280
+Val  1 11 16 3 74
+End
+
+#O
+Vnum 12267
+Nest 1
+ExtF 72
+Cond 100
+Wear -1
+Cost 4710
+Val  0 10 14 19 33288
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16777226
+Cond 92
+Wear -1
+Cost 0
+Val  2 10 13 2 136
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 94
+Wear -1
+Cost 7400
+Val  2 9 16 1 8
+End
+
+#O
+Vnum 1835
+Nest 1
+Name magical pill pill clear thoughts~
+ShD  a pill of clear thoughts~
+Cond 100
+Wear -1
+Lev  52
+Cost 0
+Val  52 444 0 0 0
+Spell 1 'clear thoughts'
+End
+
+#O
+Vnum 10511
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 5665
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 495
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 10610
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+Spell 1 'giant strength'
+Spell 2 'frenzy'
+Spell 3 'haste'
+End
+
+#O
+Vnum 11892
+Nest 1
+Cond 100
+Wear -1
+Cost 121
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 8
+Cond 100
+Wear -1
+Cost 5180
+Val  1 11 11 31 203
+End
+
+#O
+Vnum 3005
+Nest 1
+Cond 98
+Wear -1
+Cost 1500000
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  ({cScummy{x) a {BMake Over{x coupon~
+Desc Good for 2 more - Chemosh~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 15195
+Nest 1
+Name glass vial potion potion enlarge~
+ShD  a potion of enlarge~
+Cond 100
+Wear -1
+Lev  50
+Cost 200
+Val  25 440 -1 -1 -1
+Spell 1 'enlarge'
+End
+
+#O
+Vnum 2895
+Nest 1
+Name silverthorn crest~
+ShD  the {CSilverthorn{x Crest~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14510
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 3005
+Enchanted
+Nest 1
+Name ceremonial staff~
+ShD  a {rCeremonial{x {cStaff{x~
+Desc A family heirloom, engraved with the collective history of it's owner lies here. ~
+ExtF 25428299
+Cond 98
+Wear -1
+Cost 1500000
+Affc 'enchant weapon'   1 120  -1  13  19          0
+Affc 'enchant weapon'   1 120  -1  13  18          0
+End
+
+#O
+Vnum 9471
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 5719
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'cure critical'
+End
+
+#O
+Vnum 14004
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'sanctuary'
+Spell 2 'armor'
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 94
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 1916
+Enchanted
+Nest 0
+Name weapon sheath~
+ShD  a {WWeapon{x sheath~
+Desc A white leather belt, carefully fashioned lies here.~
+ExtF 262144
+Cond 100
+Wear 17
+Cost 750000
+Affc 'reserved'   1 110  -1   2   2          0
+Affc 'reserved'   1 110  -1   2   1          0
+Affc 'reserved'   1 110  -1   5  19          0
+Affc 'reserved'   1 110  -1  25  13          0
+End
+
+#O
+Vnum 3048
+Enchanted
+Nest 0
+Name black surcoat silver dragon~
+ShD  a {DBlack{x surcoat with a {CSilver{x dragon~
+Cond 94
+Wear 16
+Cost 0
+Affc 'reserved'   1  90  -1   5  18          0
+Affc 'reserved'   1  90  -1   3  19          0
+Affc 'reserved'   1  90  -1   1   1          0
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1  -2   2          0
+Affc 'reserved'   1  90  -1   3   4          0
+End
+
+#O
+Vnum 11969
+Enchanted
+Nest 0
+Name pair Silver gauntlets~
+ShD  a pair of {CSilver{x gauntlets~
+Desc These gauntlets are made to appear like dragon claws.~
+ExtF 0
+Cond 100
+Wear 12
+Cost 96
+Affc 'reserved'   1 100  -1   1  19          0
+Affc 'reserved'   1 100  -1   3   1          0
+Affc 'reserved'   1 100  -1   4  18          0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name pair plate mail boots~
+ShD  a pair of {CPlate{x mail boots~
+Desc A pair of blue leather boots sit on the ground here.~
+Cond 96
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 12190
+Nest 0
+Name full plate~
+ShD  a Suit of Full {CPlate{X mail~
+Cond 100
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 9471
+Nest 0
+Name silver rose~
+ShD  A {WSilver{X {rRose{X ring~
+ExtF 16777280
+Cond 97
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 97
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name armband~
+ShD  an armband~
+Desc A pair of loose armbands lie unused.~
+ExtF2 2
+WeaF 268435713
+Ityp 9
+Wt   1
+Cond 100
+Mat  wool~
+Wear 13
+Lev  100
+Cost 1000
+Val  21 21 21 17 0
+Affc 'cultural artistry'   1  90  -1  -5  25          0
+End
+
+#O
+Vnum 3000
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  300 236 0 0 0
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 0
+Cond 100
+Wear 21
+Cost 112
+End
+
+#O
+Vnum 13716
+Nest 0
+Cond 100
+Wear 5
+Cost 3500
+End
+
+#END

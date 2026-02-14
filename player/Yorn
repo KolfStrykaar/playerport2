@@ -1,0 +1,706 @@
+#PLAYER
+Name Yorn~
+Surname Daws~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1389075487
+LogO 1395381978
+Vers 10
+Act  CDEFGHLMQTe
+Desc Tall, slender, but taut, like the string of his bow.  He takes measured
+steps, of no wasted movement.  A thick beard hides the most fearsome scar
+across his face, devastating a former eye.  Yet, his step is sure, his
+awareness keen, and his remaining eye....  Well, it twinkles.  
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Devotee 5
+Sex  1
+Cla  8
+Hmtown 2
+Levl 23
+recall_point 2659
+Levscale 30
+Xptolev  3535
+Sec  0
+Plyd 109616
+Not  0 0 0 0 1107953193
+Scro 22
+Room 2414
+HMV  415 454 235 235 154 232
+Steel 15
+Gold 1512
+Bank 0
+Exp  57615
+AfBy2 Ab
+Deaths 4
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3080192
+Comm NOQ
+Pos  8
+Alig  1000
+Ethos 2
+ACs 27 34 12 72
+Attr 15 13 20 17 14 13
+AMod 5 1 1 5 3 0
+Pass Yo.cCqU2dkj26~
+Titl  the Master Tracker~
+Pretit ~
+Pnts 0
+TSex 1
+LLev 29
+HMVP 404 235 232
+Cnd  0 47 50 0
+QuestPnts 144
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'detect hidden'
+Sk 75 'forest vision'
+Sk 61 'farsight'
+Sk 21 'orb of containment'
+Sk 1 'frenzy'
+Sk 21 'axe'
+Sk 40 'dagger'
+Sk 1 'flail'
+Sk 14 'mace'
+Sk 1 'polearm'
+Sk 44 'shield block'
+Sk 21 'spear'
+Sk 63 'sword'
+Sk 21 'whip'
+Sk 24 'bash'
+Sk 9 'berserk'
+Sk 15 'camouflage'
+Sk 1 'dirt kicking'
+Sk 1 'disarm'
+Sk 60 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'envenom'
+Sk 12 'hand to hand'
+Sk 96 'kick'
+Sk 63 'parry'
+Sk 1 'trip'
+Sk 87 'second attack'
+Sk 84 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'track'
+Sk 1 'counter'
+Sk 1 'butcher'
+Sk 1 'dual wield'
+Sk 75 'mount'
+Sk 74 'campfire'
+Sk 1 'search water'
+Sk 41 'bearcall'
+Sk 1 'ambush'
+Sk 9 'herbal discern'
+Sk 21 'battle tactics'
+Sk 1 'trophy'
+Sk 100 'wear chain'
+Sk 75 'wear leather'
+Sk 80 'fast healing'
+Sk 14 'haggle'
+Sk 1 'hide'
+Sk 100 'common'
+Sk 1 'sneak'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 22 'grasping roots'
+Sk 1 'guard'
+Sk 1 'mounted combat'
+Sk 81 'scout'
+Sk 41 'quiet movement'
+Sk 1 'disarm traps'
+Sk 1 'set traps'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'eagle eye'
+Sk 1 'call of the wild'
+Sk 1 'tame'
+Sk 1 'arrow deflection'
+Sk 1 'point-blank shot'
+Affc 'bearcall' -16402  22  15   0   0          0
+Affc 'farsight'   6  21  12   0   0  134217728
+Affc 'forest vision'   6  21  11   0   0          1
+End
+
+#O
+Vnum 1240
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 100
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 19
+Cost 48
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 90
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 14301
+Nest 0
+Cond 100
+Wear 16
+Cost 10
+End
+
+#O
+Vnum 2525
+Nest 0
+Cond 100
+Wear -1
+Cost 350
+End
+
+#O
+Vnum 5799
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3713
+Nest 1
+Cond 100
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 99
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 97
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 3706
+Nest 1
+Cond 94
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3712
+Nest 1
+Cond 94
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 11216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 1
+ExtF 18088001
+Cond 100
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3036
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 8998
+Nest 1
+Cond 100
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 14309
+Nest 0
+Cond 97
+Wear 18
+Cost 200
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 8815
+Nest 0
+Cond 100
+Wear 1
+Cost 400
+End
+
+#O
+Vnum 8815
+Nest 0
+Cond 98
+Wear 2
+Cost 400
+End
+
+#O
+Vnum 2505
+Nest 0
+Cond 99
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 2658
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Spell 1 'armor'
+End
+
+#O
+Vnum 5777
+Nest 0
+Cond 100
+Wear 17
+Cost 390
+End
+
+#O
+Vnum 3725
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 97
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 9011
+Nest 0
+Cond 100
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 9011
+Nest 0
+Cond 100
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 9024
+Nest 0
+Cond 100
+Wear 14
+Cost 210
+End
+
+#O
+Vnum 9021
+Nest 0
+Cond 100
+Wear 7
+Cost 170
+End
+
+#O
+Vnum 9023
+Nest 0
+Cond 100
+Wear 12
+Cost 185
+End
+
+#O
+Vnum 2658
+Nest 0
+Cond 100
+Wear -1
+Cost 470
+Spell 1 'armor'
+End
+
+#O
+Vnum 2658
+Nest 0
+Cond 100
+Wear -1
+Cost 475
+Spell 1 'armor'
+End
+
+#O
+Vnum 2658
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Spell 1 'armor'
+End
+
+#O
+Vnum 4639
+Nest 0
+Cond 100
+Wear -1
+Time 327
+Cost 1500
+Spell 1 'haste'
+Spell 2 'giant strength'
+End
+
+#O
+Vnum 5707
+Nest 0
+Cond 100
+Wear 6
+Cost 6700
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5662
+Nest 0
+Cond 100
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5701
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 740
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 740
+Nest 0
+Cond 100
+Wear -1
+Cost 1400
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 3806
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8998
+Nest 0
+Cond 98
+Wear 20
+Cost 3000
+End
+
+#O
+Vnum 9026
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 9026
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 9026
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 15
+Nest 0
+ShD  the leg of a wild boar~
+Desc The sliced-off leg of a wild boar is lying here.~
+Cond 25
+Wear -1
+Time 1
+Cost 0
+End
+
+#END

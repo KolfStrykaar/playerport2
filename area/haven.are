@@ -1,0 +1,2804 @@
+#AREADATA
+Name Haven~
+Builders Reorx~
+Continent Abanasinia~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 10501 10599
+Credits Reorx~
+Security 9
+End
+
+
+
+#MOBILES
+#10501
+refugee~
+a refugee~
+A scared refugee only wants to be safe.
+~
+This refugee, carrying what little belongings they have, looks tired and full of
+fear.  Always looking over their shoulder for some unseen enemy, they can do
+little more than beg for help.  
+~
+human~
+ACG 0 300 0
+30 30 45d10+274 30d10+85 8d3+15 pound
+-4 -4 -4 1
+0 0 0 0
+stand stand either 300
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10502
+holy guard~
+a holy guard~
+A guard wearing the holy colors of the Seeker order stands here.
+~
+One of the Holy Guard stands here overseeing that order is maintained in
+these crowded streets.  Wearing armor that is polished to a brilliant shine,
+and a sword in a well oiled scabbard, causes some to be wary to catch the
+guards eye.  
+~
+human~
+ABT 0 600 0
+65 65 98d21+1183 65d10+85 18d3+26 none
+-21 -21 -21 -7
+TU 0 0 0
+stand stand male 1400
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10503
+merchant~
+a merchant~
+A merchant walks along counting the money he has made today.
+~
+A merchant dressed in finery, looks well fed and seems to have made a
+profit today.  The merchant walks by, sure that the guards will be around
+to keep the area safe.  The merchant continues to go about, openly counting
+the money in its hands.  
+~
+human~
+AG 0 0 0
+45 45 68d15+410 45d10+85 12d3+20 none
+-12 -12 -12 -2
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK M unknown 0
+#10504
+priest seeker~
+a seeker~
+A priest wearing the colors of the Seeker order stands here.
+~
+A priest wearing the robes of the Seeker order goes about his duties. 
+With robes made of fine silk, and a pouch full of steel, it would seem
+poverty is not something this order embraces.  
+~
+human~
+AGQ 0 500 0
+50 50 75d16+456 50d10+85 14d3+21 none
+-14 -14 -14 -4
+0 0 0 0
+stand stand male 600
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10505
+servant~
+a servant~
+A servant goes about doing her duties.
+~
+A young woman dressed in very revealing clothes, wipes the sweat from her
+eyes.  As a servant, she is responsible for preparing meals, making the beds
+and keeping the hall clean.  Some even attend the Seekers on a personal
+level.  
+~
+human~
+AG 0 0 0
+40 40 60d13+365 40d10+85 11d3+18 none
+-9 -9 -9 -1
+0 0 0 0
+stand stand female 500
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10506
+elite guard~
+an elite guard~
+An elite guardsman glares in your direction.
+~
+One of the Elite Guard stands here seeing that order is maintained in
+these crowded streets.  Wearing armor that is polished to a brilliant shine,
+and a sword in a well oiled scabbard, causes some to be wary to catch the
+guard’s eye.
+~
+human~
+AG 0 500 0
+67 67 101d22+1219 67d10+85 19d3+27 none
+-22 -22 -22 -8
+0 0 0 0
+stand stand male 2000
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10507
+archer~
+an archer~
+An archer for the Holy Guard stands here.
+~
+A lean, strong man with a sharp and piercing gaze holds a longbow with
+an arrow held in place ready for an instant firing.  He stands dressed in a
+quilted jerkin, with a hood over his head.  His quiver is slung over his
+right shoulder, where many feathered arrows can be seen.  
+~
+human~
+AGT 0 0 0
+45 45 68d15+410 45d10+85 12d3+20 none
+-12 -12 -12 -2
+0 0 0 0
+stand stand male 800
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10508
+recruit~
+a recruit~
+A recruit for the Holy Guard stands here ready for action.
+~
+A recruit for the Holy Guard stands here ready to knock some heads in. 
+His eyes gleam with dreams of glory, and he grins as those thoughts play out
+in his mind.  Those with an eye for skill will see this one makes up in
+spirit what he lacks in skill.  
+~
+human~
+AG 0 0 0
+40 40 60d13+365 40d10+85 11d3+18 none
+-9 -9 -9 -1
+0 0 0 0
+stand stand male 400
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10509
+beggar~
+a beggar~
+A hunched over beggar holds a hand out to you for a handout.
+~
+Dressed in tattered clothes, a beggar stands looking for a handout.  From
+his dirty appearance, it is hard to tell just how old he is.  He sticks to
+the shadows and tries to avoid the guards as best he can.  
+~
+human~
+AGS 0 0 0
+35 35 53d11+319 35d10+85 10d3+16 none
+-6 -6 -6 0
+0 0 0 0
+stand stand male 350
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10510
+worker~
+a worker~
+A worker lies under the remains of a crane.
+~
+A worker lays here under the destroyed crane.  A look of horror is
+etched into his young face.  His mouth hangs open in a silent cry for help,
+for death is about to claim his soul.  A piece of timber, a couple of feet
+long has pierced through his chest.  
+~
+human~
+AB 0 0 0
+5 5 8d2+46 5d10+85 1d5+6 none
+6 6 6 8
+0 0 0 0
+rest rest male 50
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10511
+ironsmith~
+an ironsmith~
+One of the Ironsmiths stands here ready for work.
+~
+A stubborn dwarf with orders to only make weapons for the seekers stands
+here.  He is dressed in a leather apron and carries a smithy hammer in his
+hand.  His arms are well muscled and toned from his years at forging
+weapons.  
+~
+dwarf~
+AG 0 0 0
+35 35 53d11+319 35d10+85 10d3+16 pound
+-6 -6 -6 0
+0 0 0 0
+stand stand male 700
+HMV ABCDEFGHIJK S unknown 0
+F aff J
+F res LQ
+F vul R
+F for A
+#10512
+barmaid~
+a barmaid~
+A carefree barmaid balances on her toes.
+~
+A beautiful young lass wearing a low cut dress winks as you pass by.  She
+has lovely auburn hair that reaches halfway down her back.  Her eyes are so
+green that an emerald would be jealous.  She is quick and nimble when it
+comes to dodging unwanted grabs.  
+~
+human~
+AG 0 0 0
+30 30 45d10+274 30d10+85 8d3+15 slap
+-4 -4 -4 1
+0 0 0 0
+stand stand female 400
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10541
+sigun~
+Sigun, barkeep~
+Sigun the barkeeper stands here wiping a glass.
+~
+A dwarf stands behind the bar with a grin on his face and a twinkle in
+his eye.  He makes sure his patrons are all happy as he takes their money
+and cleans the glassware.  He nods to those who enter and frowns slightly
+when others get up to leave.  
+~
+neidar~
+AB 0 350 0
+102 102 153d34+1857 102d10+85 29d3+39 pound
+-38 -38 -38 -17
+0 ABCD 0 0
+stand stand male 5000
+HMV ABCDEFGHIJK S unknown 0
+F aff J
+F vul IR
+F for A
+#10552
+botheve~
+Sir Botheve~
+Botheve the innkeeper greets you with a smile.
+~
+An aging man stands behind the desk with graying hair, a drooping
+mustache and a warm smile on his face.  He is wearing a red and white
+checkered shirt, rawhide pants and black riding boots.  His hat sits on his
+head at a tilt and has the feather of a griffon sticking out of it.  
+~
+human~
+AB 0 600 0
+102 110 165d36+3004 110d10+85 31d3+41 none
+-42 -42 -42 -19
+0 ABCD 0 0
+stand stand male 5000
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10565
+teller sheyne~
+Teller Sheyne~
+Teller Sheyne is ready for your transaction, or to deal with your change.
+~
+Sheyne is cute for a gnome, even though she may talk too fast for
+strangers to understand what she is saying.  She stands on a riser so she
+can greet most of her customers eye to eye.  
+~
+gnome~
+ABde 0 0 0
+120 120 180d40+3277 120d10+85 34d3+45 none
+-47 -47 -47 -22
+0 0 0 0
+stand stand female 1000
+HMV ABCDEFGHIJK S unknown 0
+F res C
+F for A
+#10570
+locar man seeker~
+Seeker Locar~
+A man in his early twenties sits off to your left.
+~
+Even though the man sitting before you is quite young, his hair is
+already graying in places.  The charge of leadership and decision-making
+seems to be taking its toll on his well-being.  His robes are made of the
+finest silks and glitter with gold woven into the sleeves.  
+~
+human~
+AB 0 0 0
+75 75 113d25+1365 75d10+85 21d3+30 none
+-26 -26 -26 -10
+0 0 0 0
+stand stand male 750
+HMV ABCDEFGHIJK M unknown 0
+F for A
+M GRALL 10501 80~
+#10597
+axel shopkeeper~
+Axel the shopkeeper~
+A shopkeeper stands here cleaning a weapon.
+~
+A man with shaggy hair and three day beard, stands here looking over a
+newly purchased weapon.  His hair is coal black, as is the stubble on his
+chin.  He wears a leather apron, and is armed with an oily rag and a devil
+of a smile.  
+~
+human~
+AB 0 0 0
+101 101 152d33+1839 101d10+85 28d3+38 pound
+-38 -38 -38 -17
+0 ABCD 0 0
+stand stand male 5000
+HMV ABCDEFGHIJK M unknown 0
+F for A
+#10598
+twixewr gnome shopkeeper~
+Twixewr the shopkeeper~
+A gnome tallies his current inventory on a piece of slate.
+~
+A gnome walks back and forth, making scribblings on his piece of slate. 
+He has white hair, a short beard, and wears a leather vest with many
+pockets.  He pauses the moment you enter, looks you over and then continues
+with inventory.  
+~
+gnome~
+AB 0 0 0
+101 101 152d33+1839 101d10+85 28d3+38 none
+-38 -38 -38 -17
+0 ABCD C 0
+stand stand male 5000
+HMV ABCDEFGHIJK S unknown 0
+F for A
+#0
+
+
+
+#OBJECTS
+#10501
+broad sword~
+a broad sword~
+A well oiled broad sword lies here.~
+steel~
+weapon 0 0 ANY
+sword 6 10 slash 0
+60 7 600 P
+#10502
+nasty spiked flail~
+a spiked flail~
+A flail with some nasty looking, spiked balls lies here.~
+iron~
+weapon 0 0 ANY
+flail 4 12 pound 0
+45 8 600 P
+#10503
+banded leather chest piece~
+a banded leather chest piece~
+A piece of banded armor that looks similar to a breastplate, lies here.~
+banded leather~
+armor S 0 ADY
+ABCD E E AD A
+60 14 600 P
+#10504
+robes silk~
+fine silk robes~
+A set a finely made silk robes lie here.~
+silk~
+armor S 0 ADc
+ABD ABD ABD BC 0
+45 1 600 P
+#10505
+elm bow~
+an elm bow~
+A bow made of hardened elm lies here.~
+elm~
+weapon S 0 AN
+bow 2 22 pierce 0
+40 2 800 P
+#10506
+hay bale~
+a hay bale~
+A hay bale with a piece of paint cloth sits here.~
+plant~
+trash S 0 0
+0 0 0 0 0
+0 0 0 P
+E
+hay bale~
+A bale of hay, square in shape, sits openly beside the walls.  A piece of
+white cloth is draped over the bale, and painted on that cloth are three
+rings of colors.  The outer ring is blue, the middle ring is yellow and the
+center is painted in red.  
+~
+#10507
+rawhide quiver~
+a rawhide quiver~
+A quiver made of rawhide lies here.~
+leather~
+quiver S 0 AKc
+20 4 8 0 0
+30 3 300 P
+#10508
+quilted jerkin~
+a quilted jerkin~
+A jerkin made of quilted cloth lies here.~
+cloth~
+armor S 0 ADc
+AD ABD AD AC 0
+40 2 400 P
+#10509
+short sword~
+a short sword~
+A sword with a short blade lies on the ground.~
+steel~
+weapon 0 0 ANX
+sword 5 6 thrust 0
+30 4 600 P
+#10510
+short dagger~
+a short dagger~
+A dagger with a short blade lies here.~
+steel~
+weapon 0 0 ANX
+dagger 4 8 pierce 0
+30 3 1500 P
+#10511
+smithy hammer~
+a smithy hammer~
+A hammer used by a smithy lies here.~
+steel~
+bhammer Y 0 ANc
+0 0 0 0 0
+30 3 1500 P
+#10520
+rose bush~
+a {Rrose{x bush~
+A {Rrose{x bush grows here.~
+plant~
+container O 0 0
+10 0 0 3 0
+0 0 0 P
+#10521
+rose blossom~
+a {Rrose{x blossom~
+A {Rrose{x blossom sits here ready to picked.~
+plant~
+jewelry S 0 AE
+0 0 0 0 0
+0 0 0 P
+E
+rose blossom~
+{R@{x{g-->--{x
+~
+#10522
+peach tree~
+a {ypeach{x tree~
+A {ypeach{x tree stands off to the side casting its shade to all.~
+plant~
+container O 0 0
+2 0 0 4 0
+0 0 0 P
+#10523
+peach fruit~
+a {ypeach{x~
+A {ypeach{x sits here, ready to be eaten.~
+plant~
+food S 0 A
+A 0 0 0 0
+0 1 0 P
+#10540
+pint ale~
+a pint of ale~
+A pint of dark ale sits here.~
+glass~
+drink S 0 A
+2 2 'ale' 0 0
+0 1 30 P
+#10541
+pepper steak~
+pepper steak~
+A plate of steaming pepper steak sits here.~
+flesh~
+food S 0 A
+AC 0 0 0 0
+10 1 90 P
+#10552
+keg spring water~
+keg of spring water~
+A keg of sparkling water sits here.~
+oak~
+drink S 0 A
+6 6 'water' 0 0
+5 2 50 P
+#10553
+shepherd pie~
+shepherd's pie~
+A plate of mashed potatoes, beef and cheese sits here.~
+unknown~
+food S 0 A
+AC 0 0 0 0
+0 1 60 P
+#10554
+comfy leather couch~
+({yLeather{x) a comfy couch~
+A soft, comfy couch sits here.~
+leather~
+furniture O 0 0
+B EHI EHK BD BD
+0 0 0 P
+#10569
+stone key~
+a stone key~
+A stone key lies here.~
+stone~
+key SY 0 A
+0 0 0 0 0
+1 0 0 P
+#10590
+chipped sword~
+a chipped sword~
+A sword with an almost flawless edge that is chipped, lies here on the ground.~
+steel~
+weapon 0 0 ANY
+sword 7 10 slash D
+70 4 800 W
+#10591
+rusty red dagger~
+a rusty {rred{x dagger~
+A rusty dagger made of a strange metal that gives it a reddish tint lies here.~
+copper~
+weapon 0 0 ANY
+dagger 2 40 pierce H
+65 2 900 W
+#10592
+two handed sturdy axe~
+a two-handed axe~
+A sturdy, two-handed axe lies here.~
+bronze~
+weapon 0 0 ANa
+axe 6 11 cleave F
+60 13 600 W
+#10593
+dull halberd polearm~
+a halberd~
+A dull halberd splattered in blood lies here.~
+steel~
+weapon 0 0 ANZ
+polearm 7 8 cleave F
+50 14 500 W
+#10594
+chain mail wrist guard~
+a wrist guard of chainmail~
+A piece of chain armor that will protect ones wrist lies here.~
+steel~
+armor 0 0 AMc
+ACD AD CD D B
+55 5 5500 P
+#10595
+plate steel girdle~
+a girdle of plate steel~
+A girdle made of plate steel lies here in the dust.~
+steel~
+armor 0 0 ALc
+BCD CD BE BD C
+65 7 6500 W
+#10596
+chain mail neck guard~
+a neck guard of chainmail~
+A piece of chainmail that will guard ones neck lies here.~
+steel~
+armor 0 0 ACc
+BCD ABD BCD AD B
+60 4 6000 W
+#10597
+plate leggings~
+a set of plate leggings~
+A pair of plate leggings lies here on the ground.~
+steel~
+armor 0 0 AFc
+E BCD CE ABD C
+70 13 7000 P
+#0
+
+
+
+#ROOMS
+#10501
+Entrance into Haven~
+The city of Haven lies before you in all its splendor and glory.  The
+city is surrounded by a low wall that serves as decoration rather than
+defense.  These walls connect the six, thin towers of marble that are dotted
+throughout the city.  Many refugees overcrowd the streets that run to the
+west, east, and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 10577
+D1
+~
+~
+0 0 10502
+D2
+~
+~
+0 0 10533
+D3
+~
+~
+0 0 10532
+S
+#10502
+North Tower~
+A tall narrow tower made from the finest marble is trimmed with gold. 
+The tower has almost flawless seams that would make a dwarven craftsman nod
+at the fine work of a H U M A N.  A short, thin wall made with a combination
+of quartz and granite, connects to the tower to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10503
+D3
+~
+~
+0 0 10501
+S
+#10503
+Along the North Wall~
+Many stacks of cut lumber sit under tarps of oiled cloth.  The framework
+for a rampart, is more like an elevated walkway a few feet above the ground. 
+With the walls only being eight feet high, very little shade is cast upon
+the surrounding buildings.  The walls continue to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10504
+D3
+~
+~
+0 0 10502
+S
+#10504
+Along the North East Wall~
+These walls were constructed to ensure a peace of mind for the citizens
+of Haven.  These walls barely stand eight feet in height but do increase the
+beauty and wealth of the city.  Those versed in the art of war can see that
+a few well placed boulders from a siege weapon would bring this section of
+wall down.  The walls continue to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10503
+D1
+~
+~
+0 0 10505
+S
+#10505
+Along the North East Wall~
+These walls were constructed to ensure a peace of mind for the citizens
+of Haven.  These walls barely stand eight feet in height but do increase the
+beauty and wealth of the city.  The wall is a stripe of colors, for the base
+is made of durable granite, followed by a layer of green marble and then
+topped with spikes made of quartz, trimmed in gold.  These walls are indeed
+a beauty to gaze upon, but those versed in the arts of warfare know these
+walls also bring a false sense of hope.  The wall extends from the west
+and continues to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 10506
+D3
+~
+~
+0 0 10504
+S
+#10506
+Along the North East Wall~
+Not all the citizens seem to respect the sheer beauty of these walls. 
+Someone has scratched images and sayings into the marble finish.  Some are a
+bit rude while others could be funny depending on your parentage.  The whole
+section seems to be a past time for the youths of the city.  As you gaze
+down the length of the wall, you spot a group of youngsters huddled around
+another artist.  The wall continues to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10505
+D1
+~
+~
+0 0 10507
+S
+#10507
+North East Tower~
+A tall narrow tower made from the finest marble and trimmed with gold. 
+The has almost flawless seams that would make a dwarven craftsman nod at the
+fine work of a HUMAN.  A short wall, thin wall made with a combination of
+quartz and granite, connects to the tower to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10508
+D3
+~
+~
+0 0 10506
+S
+#10508
+Along the East Wall~
+Work crews finish building a crane, made with block and tackle, to assist
+in lifting the pieces of granite.  These granite blocks will have their
+centers chiseled out, to make arrow slits for archers.  After all the blocks
+are in place, work will begin on the building of wooden ramparts.  A
+barmaid from a local tavern brings the workers a meal during lunch time.  
+~
+0 0 1
+D0
+~
+~
+0 0 10507
+D2
+~
+~
+0 0 10509
+S
+#10509
+Along the East Wall~
+The sounds of construction flow with the rhythmic chanting coming from the
+west.  The steady pounding of the hammers, and the cutting of the saw
+between the blows from the hammer is soothing.  It is so soothing that many
+of the laborers, lay sleeping on the stacks of wood, with their arms over
+their eyes.  The walls continue to the north and south, while a road lies to
+the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10508
+D2
+~
+~
+0 0 10510
+D3
+~
+~
+0 0 10550
+S
+#10510
+Along the East Wall~
+The construction here has halted for the day.  The workers stand gathered
+around a laborer who has been crushed by a granite block.  He was lucky, for
+it was only his leg that has been crushed, and yet he howls in pain as the
+healers go about hacking off his limb.  The crane lies in splinters, and
+draft horses refuse to get anywhere near the smell of blood.  The wall
+continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 10509
+D2
+~
+~
+0 0 10511
+S
+#10511
+Along the East Wall~
+The ramparts stand empty as carpenters finish their work.  The beauty of
+the wall can still be seen, for only the new rampart has been built.  The
+walls that were constructed for peace of mind of the citizen, now has a
+little more defensive power than before.  The wall continues to the north
+and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10510
+D3
+~
+~
+0 0 10512
+S
+#10512
+Along the South East Wall~
+Even with the rumors of an army to the north, it is here that the Holy
+Guard has chosen to post a watch.  The thud of their boots echoes down the
+street as they pace off their watch, back and forth upon the ramparts.  Some
+of the refugees can be found sleeping under these ramparts that shelter them
+from the weather, with only a few added pieces of oiled skins.  The wall
+continues to the south and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 10511
+D2
+~
+~
+0 0 10513
+S
+#10513
+South East Tower~
+You stand before a tall narrow tower made from the finest marble and
+trimmed with gold.  The tower has almost flawless seams that would make a
+dwarven craftsman nod at the fine work of a human.  A short, thin wall
+made with a combination of quartz and granite, connects to the tower to the
+north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10512
+D3
+~
+~
+0 0 10514
+S
+#10514
+Along the South East Wall~
+The wall here has under gone some reconstruction and now has archer
+slits.  A wooden rampart has been built as well to allow the stationing of
+guardsmen and archers.  Some of the citizens glare at the ugly
+constructions, but those of the Holy Guard ignore them.  Stacks of arrows
+have been piled under the walkway that will supply the archers for a short
+time.  
+~
+0 0 1
+D1
+~
+~
+0 0 10513
+D2
+~
+~
+0 0 10515
+S
+#10515
+Along the South Wall~
+These walls were constructed to ensure a peace of mind for the citizens
+of Haven.  These walls barely stand eight feet in height but do increase the
+beauty and wealth of the city.  The wall is a stripe of colors, for the base
+is made of durable granite, followed by a layer of green marble and then
+topped with spikes made of quartz, trimmed in gold.  These walls are indeed
+a beauty to gaze upon, but those versed in the arts of warfare know these
+walls also bring a false sense of hope. 
+~
+0 0 1
+D0
+~
+~
+0 0 10514
+D3
+~
+~
+0 0 10516
+S
+#10516
+Along the South Wall~
+Guards patrol the walls as servants haul newly made weapons to the area. 
+This area seems to be stockpiling weapons for Seeker use.  There are enough
+arms to supply a small army.  These walls were constructed to ensure a peace
+of mind for the citizens of Haven.  These walls barely stand eight feet in
+height but do increase the beauty and wealth of the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 10515
+D3
+~
+~
+0 0 10517
+S
+#10517
+The South Gate~
+To the south lies the road toward the lands of Qualinesti forest.  The
+gate is new in construction, for it sits amongst a wooden frame, encased
+within these beautiful walls.  The gates themselves are of thick oak with
+iron bands running along its width.  The walls continue to the east and
+west, while the road to the center of Haven lies to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 10560
+D1
+~
+~
+0 0 10516
+D2
+A set of tall, iron banded, oak doors.
+~
+~
+1 0 10599
+D3
+~
+~
+0 0 10518
+S
+#10518
+Along the South Wall~
+To the west stands the South West Tower, a thin piece of work that
+stretches into the sky.  To the east stands the South Gate, once a well
+traveled way to the Qualinesti forest.  Guards patrol these walls, for the
+Seekers have set aside this area for the stockpiling of weapons.  Most of
+these weapons are made from iron, which is quick to dull, heavy, and rusts
+more often than steel.  The walls continue to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10517
+D3
+~
+~
+0 0 10519
+S
+#10519
+South West Tower~
+A tall narrow tower made from the finest marble and trimmed with gold
+stands before you.  The thin, tower has almost flawless seams that would
+make a dwarven craftsman nod at the fine work of a H U M A N.  A short wall,
+thin wall made with a combination of quartz and granite, connects to the
+tower to the east and north.  
+~
+0 0 1
+D0
+~
+~
+0 0 10520
+D1
+~
+~
+0 0 10518
+S
+#10520
+Along the South West Wall~
+With so many recruits joining daily, some of the existing commanders have
+borrowed a section of wall to use as a training ground.  The yells of drill
+sergeants and the cries of the recruits is an ongoing event.  Piles of uncut
+granite have been declared as small mountains, and a great tool for the
+recruits to train on.  The wall continues to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10519
+D3
+~
+~
+0 0 10521
+S
+#10521
+Along the South West Wall~
+Bales of hay, which dot the area around you, are covered in painted
+cloth.  The cloth is painted in an array of colors with a big red dot in the
+center.  Off towards the north, someone is waving at you but they are a long
+way off.  Just as you wonder what they could want, the sky above you
+darkens.  As you look up, your life flashes before your eyes as the heavens
+rain arrows down upon you.  It’s lucky for you, that every arrow hit a bale
+target.  The wall continues to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10522
+D1
+~
+~
+0 0 10520
+S
+#10522
+Along the South West Wall~
+A couple of spotters stands near the southern end of the field, yelling
+out the results from a fired volley.  The recruits who are better suited as
+archers, stand ready to launch their next arrow.  To the south, many tiny
+bales of hay with targets dot the field along the wall.  The spotters send
+runners into the target field, to clear the targets of arrows, before
+signaling the all clear.  The wall runs to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10521
+D3
+~
+~
+0 0 10523
+S
+#10523
+Along the West Wall~
+To the north stands the West Tower, which has been called the Witch's
+Tower.  A mean, old woman was imprisoned there after her medicines killed
+the daughter of the city's mayor some hundred years ago.  Some say that it
+is still haunted by her spirit, and that you can hear her evil cackles when
+the moon is full.  The walls continue to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10524
+D1
+~
+~
+0 0 10522
+S
+#10524
+The Witch's Tower~
+As you near the tower, the wind shifts its direction and blows from the
+west.  The wind sounds almost like the howls of a person gone mad.  The
+citizens hurry about their business and try not to look upon the cursed
+tower.  The walls continue to the north and south, while a road lies to the
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10525
+D1
+~
+~
+0 0 10568
+D2
+~
+~
+0 0 10523
+S
+#10525
+The Gnome Thrower~
+With some help of gnomish engineers, the city is in the process of
+building a giant crossbow.  The odd little workers have worked on their
+project for these past two months and are finally ready for their first test
+run.  Those who are unfamiliar with the workings of Gnomes, gather around to
+watch the men at work.  When all is set, a lever is thrown but nothing
+happens.  The crowds start to lessen as the men bring up a ladder to climb
+up on top to see what the trouble is.  One raises a hammer over his head,
+and swings down with all his might.  The catch releases and the gnome soon
+finds himself flying through the air with the bolt, high over the open
+fields.  The wall continues to the north and south, while a road lies to the
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10526
+D1
+~
+~
+0 0 10540
+D2
+~
+~
+0 0 10524
+S
+#10526
+The Recovery Crew~
+A crew of gnomes armed with ladders, ropes and oiled cloth stand ready as
+the fire team prepares their trial run.  A shout can be heard from the south
+but nothing else happens.  The crew had looked up, but went back to playing
+cards and telling tales.  A movement catches your eye, and you think you see a
+giant crossbow bolt flying through the air, with a gnome holding on.  The
+crew is so excited that they throw their ropes, cloth and ladders over the
+wall, but then wonder how they will get over the wall.  The crew then sits
+down and plans how to scale the wall, now that their climbing and rescue
+gear lay on the other side.  The wall continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 10527
+D2
+~
+~
+0 0 10525
+S
+#10527
+A Failed Experiment~
+The charred remains of a great cross-bow, lay smoldering on the ground. 
+The structure burned for two days, for the gnomes had added something called
+'greek fire' to the tip of their arrows.  Everything was going fine until
+the rains came, and the demon fire lit itself.  No matter how hard it
+rained, or how much water the brigade dumped on it, the fire only increased
+and kept burning.  The gold trim on the walls melted and ran down the sides
+to pool onto the ground.  The walls are a blacked mess as is the path along
+the walls, that run to the east and south.  
+~
+0 0 1
+D1
+~
+~
+0 0 10528
+D2
+~
+~
+0 0 10526
+S
+#10528
+The Holy Gardens~
+The polishing crew is not allowed to polish the walls here, for the
+beauty of the garden takes priority.  Flowers of every color of the rainbow
+are planted here, and are attended to on a regular basis.  The duties of the
+gardeners range anywhere from watering, to weeding, to trimming, or to
+planting new seedlings.  The walls continue to the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10529
+D3
+~
+~
+0 0 10527
+S
+#10529
+North West Tower~
+You stand before a tall narrow tower made from the finest marble and
+trimmed with gold.  The tower has almost flawless seams that would make a
+dwarven craftsman nod at the fine work of a H U M A N.  A short, thin wall
+made with a combination of quartz and granite, connects to the tower to the
+south and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 10530
+D2
+~
+~
+0 0 10528
+S
+#10530
+Along the North West Wall~
+The wall seem to be too low to serve as a useful defense against an army
+taller than kobolds.  Even goblins would pose a problem since they would use
+their own dead as a gruesome bridge up to the top of the walls.  A couple
+dwarfs laugh at the thought of the wall holding under the attack of a Kender
+food fight.  The walls continue to the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10531
+D3
+~
+~
+0 0 10529
+S
+#10531
+Along the North Wall~
+A crew of workers are polishing the scratches out of the surface of the
+walls.  These workers take turns adding wax and buffing the finish to a
+sparkling shine.  Others pull up weeds and hack down any vines that have
+started to creep up the walls surface.  Some even have the task of washing
+the walls clean before the polishing crew can do their job in that section. 
+The wall continues to the east and south.  
+~
+0 0 1
+D1
+~
+~
+0 0 10532
+D2
+~
+~
+0 0 10530
+S
+#10532
+Along the North Wall~
+These walls were constructed to ensure a peace of mind for the citizens
+of Haven.  These walls barely stand eight feet in height but do increase the
+beauty and wealth of the city.  The wall is a stripe of colors, for the base
+is made of durable granite, followed by a layer of green marble and then
+topped with spikes made of quartz, trimmed in gold.  These walls are indeed
+a beauty to gaze upon, but those versed in the arts of warfare know these
+walls also bring a false sense of hope.  The wall continues to the east
+and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10501
+D3
+~
+~
+0 0 10531
+S
+#10533
+Faith Will Bring You Aid~
+Crowds of refugees stand gathered around a Seekers priest.  They listen
+in awe as the priest preaches that faith in the new gods will bring them aid
+and comfort if they truly believe.  The priest calls out to his god and
+before the eyes of the crowd pulls forth loaves of bread from his very
+sleeves.  To the east stands a great smithy operated by the Ironsmiths.  The
+entrance to the city lies to the north, the road continues to the south and
+a side road joins this road to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10534
+D2
+~
+~
+0 0 10545
+D3
+~
+~
+0 0 10535
+S
+#10534
+The Ironsmiths~
+The forge is full of heat and the ringing of hammers.  The smiths gladly
+sell their wares to those that are devout followers of the Seekers.  With
+all this activity, you are almost completely ignored except for a glare or
+two thrown over a shoulder.  
+~
+0 8 1
+D3
+~
+~
+0 0 10533
+S
+#10535
+Spirits Circle~
+People pass by looking well fed and full of spirits, for the path they
+tread tends to weave back and forth.  Even though the refugees seem to
+almost go without, some still seem to better off.  As citizens pass those
+they know, they often praise the strong ale and hot pepper steak they ate
+for their meal.  To the east the sounds of preaching can be heard, while the
+road continues to curve to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 10533
+D2
+~
+~
+0 0 10536
+S
+#10536
+Spirits Circle~
+People pass by looking well fed and full of spirits, for the path they
+tread tends to weave back and forth.  Even though the refugees seem to
+almost go without, some still seem to better off.  As citizens pass those
+they know, they often praise the strong ale and hot pepper steak they ate
+for their meal.  The well paved road curves to the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10535
+D3
+~
+~
+0 0 10537
+S
+#10537
+Spirits Circle~
+People pass by looking well fed and full of spirits, for the path they
+tread tends to weave back and forth.  Even though the refugees seem to
+almost go without, some still seem to better off.  As citizens pass those
+they know, they often praise the strong ale and hot pepper steak they ate
+for their meal.  The well maintained road curves to east and south.  
+~
+0 0 1
+D1
+~
+~
+0 0 10536
+D2
+~
+~
+0 0 10538
+S
+#10538
+Spirits Circle~
+People pass by looking well fed and full of spirits, for the path they
+tread tends to weave back and forth.  Even though the refugees seem to
+almost go without, some still seem to better off.  As citizens pass those
+they know, they often praise the strong ale and hot pepper steak they ate
+for their meal.  The road continues to the north and to the south, the
+sounds of cheering can be heard.  
+~
+0 0 1
+D0
+~
+~
+0 0 10537
+D2
+~
+~
+0 0 10539
+S
+#10539
+The Way to Honor Lays Ahead~
+A column of Holy Guardsmen march down the street to the cheers of the
+gathered populous.  As the guards on duty salute those that file off to
+relieve them, the crowd applauds at the precision of their routine
+movements.  These guards can be found on every street corner keeping the
+peace and over seeing the inflow of refugees.  The cobbled road stretches to
+the west, enters the City Square to the east, and is joined by a well paved
+road to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 10538
+D1
+~
+~
+0 0 10542
+D3
+~
+~
+0 0 10540
+S
+#10540
+The Way to Honor Lays Ahead~
+A column of Holy Guardsmen march down the street to the cheers of the
+gathered populous.  As the guards on duty salute those that file off to
+relieve them, the crowd applauds at the precision of their routine
+movements.  These guards can be found on every street corner keeping the
+peace and over seeing the inflow of refugees.  The cobbled road continues
+toward the east, to the west stands the West Wall, and to the north is the
+King's Royal Cup.  
+~
+0 0 1
+D0
+~
+~
+0 0 10541
+D1
+~
+~
+0 0 10539
+D3
+~
+~
+0 0 10525
+S
+#10541
+The King's Royal Cup~
+As you step inside you are struck with a desire to wipe your feet at the
+door, for the very floor itself is covered with elaborate rugs.  The marbled
+towers in the city pale in the richness that is shown in this tavern. 
+Standing before the west wall is a bar made of {rred{x oak and mounted to that
+wall is a giant, gold trimmed {Cmirror{x.  
+~
+0 1036 1
+E
+red oak bar~
+Taking a closer look, one can see the fine work of a Dwarven master
+craftsman.  It has many runes of dwarvish script, as well as elven
+scribblings.  The bottom panels show screens of a smithy and those of great
+majestic trees.  
+~
+E
+mirror~
+The whole width of the west wall is cover by this gold trimmed mirror. 
+An artisan has etched the images of fair maidens that brings even a hardened
+adventurer to the point of blushing.  The trim around the mirror looks have
+cost a kings ransom, for not only is it solid gold, but it is also encrusted
+with many gems. 
+~
+D2
+~
+~
+0 0 10540
+S
+#10542
+The Western Side of the Town Square~
+The way to the Council Hall is blocked off by a picket line of Holy
+Guards and the crowds of people pushing to get closer.  Over the heads of
+those in front of you, the Council Hall of the Highseeker in all its
+splendor and wonder stand before you to the east.  Its six towers reach for
+the heavens, made of white marble and topped with shimmering gold.  The
+guards stationed here only allow the people to flow to the north, south or
+to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10543
+D2
+~
+~
+0 0 10558
+D3
+~
+~
+0 0 10539
+S
+#10543
+The North Western Corner of Town Square~
+With so many people in the streets, mainly refugees, a few merchants have
+up stalls to sell refreshments to the crowd.  The general clamoring of the
+demanding refugees is for the Seekers to call forth their new gods to
+protect them from the evil creatures amassing in the north.  The marble road
+way continues to the south and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 10544
+D2
+~
+~
+0 0 10542
+S
+#10544
+The North Side of the Town Square~
+The way to the Council Hall is blocked off by a picket line of Holy
+Guards and the crowds of people pushing to get closer.  Over the heads of
+those in front of you, the Council Hall of the Highseeker in all its
+splendor and wonder, stand before you to the south.  Its six towers reach
+for the heavens, made of white marble and topped with shimmering gold.  The
+guards are allowing a few people to enter the Council Hall to the south and
+you are one of them.  
+~
+0 0 1
+D0
+~
+~
+0 0 10545
+D1
+~
+~
+0 0 10555
+D2
+There lies a large door before you.
+~
+~
+1 10569 10569
+D3
+~
+~
+0 0 10543
+S
+#10545
+Faith Will Bring You Aid~
+A servant of the Seekers hands out food and a small amount of coins to
+the refugees gathered here.  The towers here are made of marble, trimmed in
+gold and just make the city seem to sparkle.  The servants bless these
+people in the name of their new god.  The people give thanks to the servant
+and this new, strange god for looking over them.  To the south is the City
+Square, as the road continues to the north, and is also joined by another to
+the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10533
+D1
+~
+~
+0 0 10546
+D2
+~
+~
+0 0 10544
+S
+#10546
+The Ringing of Hammers~
+There is nothing like the sound of a hammer as it soundly strikes an
+anvil.  The Ironsmiths of Haven are said to never stop in their work at the
+forge.  Many of the citizens quietly complain about the endless hammering
+for fear the Seekers will take notice.  After the end of a long shift,
+another crew reports to the forges to continue the work the seekers demand. 
+The road continues on toward the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10547
+D3
+~
+~
+0 0 10545
+S
+#10547
+The Ringing of Hammers~
+There is nothing like the sound of a hammer as it soundly strikes an
+anvil.  The Ironsmiths of Haven are said to never stop in their work at the
+forge.  Many of the citizens quietly complain about the endless hammering
+for fear the Seekers will take notice.  After the end of a long shift,
+another crew reports to the forges to continue the work the seekers demand. 
+The road curves to the west and south.  A new shop has been setup to the
+east, Twixewr's Used Armor and it seems to be attracting many customers.  
+~
+0 0 1
+D1
+~
+~
+0 0 10598
+D2
+~
+~
+0 0 10548
+D3
+~
+~
+0 0 10546
+S
+#10548
+The Ringing of Hammers~
+There is nothing like the sound of a hammer as it soundly strikes an
+anvil.  The Ironsmiths of Haven are said to never stop in their work at the
+forge.  Many of the citizens quietly complain about the endless hammering
+for fear the Seekers will take notice.  After the end of a long shift,
+another crew reports to the forges to continue the work the seekers demand. 
+The road curves to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 10547
+D1
+~
+~
+0 0 10549
+S
+#10549
+The Ringing of Hammers~
+There is nothing like the sound of a hammer as it soundly strikes an
+anvil.  The Ironsmiths of Haven are said to never stop in their work at the
+forge.  Many of the citizens quietly complain about the endless hammering
+for fear the Seekers will take notice.  After the end of a long shift,
+another crew reports to the forges to continue the work the seekers demand. 
+The road curves to the west and south.  
+~
+0 0 1
+D2
+~
+~
+0 0 10550
+D3
+~
+~
+0 0 10548
+S
+#10550
+On the Road to Glory~
+Many disciples of the Seeker cult, praise their new gods openly.  Many
+speak of the glory and praise these gods cast upon their beautiful city. 
+One cannot miss the sheer wealth of the city displayed by these marble
+towers, and one can also see the wealth that almost drips from these so
+called Seekers.  To the north the ringing of hammers echoes down the street,
+to the east stands the East Wall, while the road continues to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 10549
+D1
+~
+~
+0 0 10509
+D3
+~
+~
+0 0 10551
+S
+#10551
+On the Road to Glory~
+Many disciples of the Seeker cult, praise their new gods openly.  Many
+speak of the glory and praise these gods cast upon their beautiful city. 
+One cannot miss the sheer wealth of the city displayed by these marble
+towers, and one can also see the wealth that almost drips from these so
+called Seekers.  To the west lays the City Square, to the south stands The
+Knight's Inn, while the road continues to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 10550
+D2
+~
+~
+0 0 10552
+D3
+~
+~
+0 0 10554
+S
+#10552
+The Knight's Inn~
+The inn has been constructed of vallenwood imported from Solace.  A
+{Wkite shield{x is mounted on the wall over the fireplace that has a low
+fire burning in its pit.  The room has a welcome desk with a ledger for
+those register for a room.  The room also has tables and chairs made of
+cedar by fine elven artisans.  
+~
+0 1036 1
+E
+bronze plate~
+-----------------------------------------
+| Presented to Sir Botheve of Restglen, |
+| for service of the Solamnic Knights,  |
+|         Order of the Crown.           |
+-----------------------------------------
+~
+E
+kite shield~
+A kite shield hangs over the fireplace, with the color of {Bblue{x in the
+background and a flaming {Rred{x claymore in the foreground.  A small
+{ybronze plate{x is mounted to a brick just under the shield.  The shield is
+of an older design, but polished to shine.
+~
+D0
+~
+~
+0 0 10551
+D1
+~
+~
+0 0 10553
+S
+#10553
+The Round Table Lounge~
+A round table sits in the center of the room.  Many shields from various
+knights hang on the walls.  A small plate is under each identifying who it
+belonged to.  Seated around the table are mostly locals telling tales and
+enjoying each other's company.  
+~
+0 8 1
+D3
+~
+~
+0 0 10552
+S
+#10554
+The Eastern Side of the Town Square~
+The way to the Council Hall is blocked off by a picket line of Holy
+Guards and the crowds of people pushing to get closer.  Over the heads of
+those in front of you, the Council Hall of the Highseeker in all its
+splendor and wonder, stand before you to the west.  Its six towers reach for
+the heavens, made of white marble and topped with shimmering gold.  The
+guards stationed here only allow the people to flow to the north, south or
+to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 10555
+D1
+~
+~
+0 0 10551
+D2
+~
+~
+0 0 10556
+S
+#10555
+The North Eastern Corner of Town Square~
+With so many people in the streets, mainly refugees, a few merchants have
+up stalls to sell refreshments to the crowd.  The general clamoring of the
+demanding refugees is for the Seekers to call forth their new gods to
+protect them from the evil creatures amassing in the north.  The marble road
+way continues to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10554
+D3
+~
+~
+0 0 10544
+S
+#10556
+The South Eastern Corner of Town Square~
+With so many people in the streets, mainly refugees, a few merchants have
+up stalls to sell refreshments to the crowd.  The general clamoring of the
+demanding refugees is for the Seekers to call forth their new gods to
+protect them from the evil creatures amassing in the north.  The marble road
+to the west and north.
+~
+0 0 1
+D0
+~
+~
+0 0 10554
+D3
+~
+~
+0 0 10557
+S
+#10557
+The South Side of the Town Square~
+The way to the Council Hall is blocked off by a picket line of Holy
+Guards and the crowds of people pushing to get closer.  Over the heads of
+those in front of you, the Council Hall of the Highseeker in all its
+splendor and wonder, stand before you to the north.  Its six towers reach
+for the heavens, made of white marble and topped with shimmering gold.  The
+guards stationed here only allow the people to flow to the east, west and to
+the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 10556
+D2
+~
+~
+0 0 10559
+D3
+~
+~
+0 0 10558
+S
+#10558
+The South Western Corner of Town Square~
+With so many people in the streets, mainly refugees, a few merchants have
+up stalls to sell refreshments to the crowd.  The general clamoring of the
+demanding refugees is for the Seekers to call forth their new gods to
+protect them from the evil creatures amassing in the north.  The marble road
+way continues to the north and east.
+~
+0 0 1
+D0
+~
+~
+0 0 10542
+D1
+~
+~
+0 0 10557
+S
+#10559
+The Path of Seeking the Truth~
+One can see that the road is over crowded with refugees.  As you pass by,
+bits of conversation can be over heard and the stories are all the same. 
+The rumors speak of families vanishing in the night and great armies massing
+in the north.  As the Holy Guard try to maintain order, priests of the
+Seeker Cult speak soothing words to give these people peace of mind.  To the
+north one can see the city square, to the south the road continues and to
+the west another road flows into this one.  
+~
+0 0 1
+D0
+~
+~
+0 0 10557
+D2
+~
+~
+0 0 10560
+D3
+~
+~
+0 0 10564
+S
+#10560
+The Path of Seeking the Truth~
+One can see that the road is over crowded with refugees.  As you pass by,
+bits of conversation can be over heard and the stories are all the same. 
+The rumors speak of families vanishing in the night and great armies massing
+in the north.  As the Holy Guard try to maintain order, priests of the
+Seeker Cult speak soothing words to give these people peace of mind.  To the
+south one can see the South Wall, to the north the road continues and
+towards the east stands the Holy Guard's Recruitment Office.  
+~
+0 0 1
+D0
+~
+~
+0 0 10559
+D1
+~
+~
+0 0 10563
+D2
+~
+~
+0 0 10517
+S
+#10561
+Holy Guard Training Area~
+As the newly inducted guardsmen get squared away, their training starts
+almost immediately.  There are at least ten instructors who are teaching
+small groups that rotate between groups.  These new guardsmen are learning
+the basics of many different forms of melee combat, and will eventually
+choose one to master.  When these students are on the verge of collapse,
+they are carried off to the north to rest.  
+~
+0 8 1
+D0
+~
+~
+0 0 10562
+D3
+~
+~
+0 0 10563
+S
+#10562
+The Holy Guard Barracks~
+The room is filled almost to the brim with bunks, that are stacked four,
+sometimes five high.  Some of the beds are filled with sleeping men, while
+those who were injured in training, try to rest.  Instead of lockers at the
+foot of the beds, dressers that are six feet tall stand there instead.
+~
+0 8 1
+D2
+~
+~
+0 0 10561
+S
+#10563
+Holy Guard Recruitment Office~
+This room has {yracks{x of equipment lining the walls and a well made
+wooden desk sits in the center of the room.  A recruitment {Yposter{x is
+tacked to the west wall.  A priest conducts the swearing in process and
+soldiers of the Holy Guard issues out equipment to new recruits.  The sounds
+of barked commands and the clanging of weapons comes from the east.  
+~
+0 8 1
+E
+recruitment poster~
+-----------------------------------------
+| JOIN THE HOLY GUARD AND GET PAID TODAY|
+|                                       |
+| No experienced needed, We'll train you|
+|        Served 3 meals a day           |
+|                                       |
+| Starting pay of 1 Steel per day       |
+|                                       |
+| by order of Seeker Locar              |
+-----------------------------------------
+~
+E
+racks~
+Every piece of equipment imaginable lines the racks on the walls. 
+Everything from hard leather armor, to chainmail, and even a few pieces of
+plate.  The general sets of weapons are swords, axes and maces.  All sorts of
+camping gear, rations, cooking gear, sleeping gear and climbing gear is
+handed out.  
+~
+D1
+~
+~
+0 0 10561
+D3
+~
+~
+0 0 10560
+S
+#10564
+Protection of Assets~
+The posted guards have almost doubled in strength as they ensure that
+merchants keep their bulging money pouches safe.  Among the refugees are
+those who openly beg these rich merchants, and even a few clumsy one that
+cannot help but bump into these beings of wealth.  To the south stands the
+Grand National Bank, while the paved road continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10559
+D2
+~
+~
+0 0 10565
+D3
+~
+~
+0 0 10566
+S
+#10565
+The Grand National Bank~
+A counter made of green marble, topped with iron bars stand before you. 
+Incased in the south wall, stands the biggest vault that you have ever seen.
+It stretches from floor to ceiling and has a door at least three feet think,
+made of solid steel.  Nothing short of an earthquake, opening a rift beneath
+this vault would have a chance to move it.  
+~
+0 1048584 1
+D0
+~
+~
+0 0 10564
+S
+#10566
+Protection of Assets~
+The posted guards have almost doubled in strength as they ensure that
+merchants keep their bulging money pouches safe.  Among the refugees are
+those who openly beg these rich merchants, and even a few clumsy one that
+cannot help but bump into these beings of wealth.  The slightly used road
+continues to the north and east.  A new shop has been setup to the west,
+Axel's Used Weapons seems to be drawing a crowd of adventures.  
+~
+0 0 1
+D0
+~
+~
+0 0 10567
+D1
+~
+~
+0 0 10564
+D3
+~
+~
+0 0 10597
+S
+#10567
+Protection of Assets~
+The posted guards have almost doubled in strength as they ensure that
+merchants keep their bulging money pouches safe.  Among the refugees are
+those who openly beg these rich merchants, and even a few clumsy one that
+cannot help but bump into these beings of wealth.  The road turns to the
+south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 10566
+D3
+~
+~
+0 0 10568
+S
+#10568
+Protection of Assets~
+The posted guards have almost doubled in strength as they ensure that
+merchants keep their bulging money pouches safe.  Among the refugees are
+those who openly beg these rich merchants, and even a few clumsy one that
+cannot help but bump into these beings of wealth.  The paved road continues
+to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10567
+D3
+~
+~
+0 0 10524
+S
+#10569
+Council Hall of the High Seekers~
+Great ivory, gem encrusted double doors stand to the north as your eyes
+fall upon the interior of this great hall.  Its sheer size towers over your
+head, causing you to strain your neck in order to see the ceiling.  Guards
+are posted to the south that enters into the council chambers.  The corridor
+also branches to the east and west.  
+~
+0 0 0
+D0
+A set of large doors stands before you.
+~
+~
+1 10569 10544
+D1
+~
+~
+0 0 10574
+D2
+~
+~
+0 0 10570
+D3
+~
+~
+0 0 10571
+S
+#10570
+Meeting of the Seekers~
+The large hall rises to a high ceiling supported by fluted pillars.  The
+table is arranged in a semi-circle facing the door.  Seated around the table
+are nine men wear robes of the Seeker cult.  The high backed chair that sits
+at the center of the arc is empty.  
+~
+0 8 1
+D0
+~
+~
+0 0 10569
+S
+#10571
+A Shrine to the New Gods~
+A small altar sits nestled against the west wall.  Hanging above it on
+the wall is an odd-looking idol.  Many candles of different colors stand
+burning in wooden holders upon the altar.  A red cushion with a wood railing
+rests before the altar, to give comfort to any who come, to kneel and pray
+to these new gods.  The corridor curves from the east and continues to the
+south.  
+~
+0 8 1
+D1
+~
+~
+0 0 10569
+D2
+~
+~
+0 0 10572
+S
+#10572
+A Connecting Hallway ~
+Down this corridor, servants run back and forth to do their master's
+bidding.  No one pays any attention to you as they hurry past, carrying bed
+linens and baskets of laundry.  The high ceiling is supported by smooth
+granite columns that are topped by an arch that connects to an opposite
+column across the hall.  The corridor continues on toward the north and
+south.  The sounds of humming and the splashing of water can be heard coming
+from the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 10571
+D2
+~
+~
+0 0 10573
+D3
+~
+~
+0 0 10596
+S
+#10573
+The Seeker's Living Quarters~
+This room has been set aside for those Seekers who do not wish to find
+housing among the citizens of the city.  The room has been divided into a
+series of luxurious, smaller private rooms.  These rooms would be called
+cells in a monastery, but their size bring the word suite to mind.  Each
+suite has its floor covered with thick carpets; its bed is big enough for
+three, and contains a closet.  The corridor to the main hallway lies to the
+north.  
+~
+0 8 1
+D0
+~
+~
+0 0 10572
+S
+#10574
+The Art Gallery~
+As the corridor angles from the west and turns to the south, one has time
+to gaze upon the many portraits that hang upon the wall.  These portraits
+are of important figures of history, as well as artist renderings of heroes
+of legend.  Each frame is unique in its construction that ranges from
+varnished cherry to gem encrusted to gold trimmed.  
+~
+0 8 1
+D2
+~
+~
+0 0 10575
+D3
+~
+~
+0 0 10569
+S
+#10575
+A Connecting Hallway~
+As you walk down the corridor, servants run back and forth to do their
+master's bidding.  No one pays any attention to you as they hurry past,
+carrying trays of food and ale.  The high ceiling is supported by smooth
+granite columns that are topped by an arch that connects to an opposite
+column across the hall.  The corridor continues on toward the north and
+south.  The smells of food cooking drifts from the east.  
+~
+0 8 1
+D0
+~
+~
+0 0 10574
+D1
+~
+~
+0 0 10595
+D2
+~
+~
+0 0 10576
+S
+#10576
+The Grand Hall of the Seekers~
+In this elegant hall stand many long tables with many chairs that serve
+as a place for the Seekers to take their meals.  The floor is tiled in
+marble with an alternating pattern of pink, red and white.  The walls are
+also white in color, and hold torches in bronzed brackets placed every ten
+feet.  An open hearth that stands eight feet in height, and six feet in width
+has a roaring fire the radiates heat to half the room.  
+~
+0 8 1
+D0
+~
+~
+0 0 10575
+S
+#10577
+The Road to Haven~
+It is like wading through a sea of people, for there are so many refugees
+fleeing all around, begging to gain the safety that is offered behind
+Haven's walls.  The fields have very few farmers available to harvest this
+year's crop.  Many farmers have lost loved ones in the night, vanished
+without a trace.  The road continues to the north and to the south, the
+great city of Haven in all its splendor and glory stands.  
+~
+0 0 2
+D0
+~
+~
+0 0 10578
+D2
+~
+~
+0 0 10501
+S
+#10578
+The Road to Haven~
+The roads are clogged full of refugees fleeing for the safety that is
+offered behind Haven's walls.  Many of the fields here barely have enough
+farmers to harvest a tenth of the crop's total yield.  Many farmers have
+lost loved ones in the night, vanished with out a trace.  The road continues
+to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 10579
+D2
+~
+~
+0 0 10577
+S
+#10579
+Entering Haven's Vale~
+The valley that lays open to you is much like the fields to the south
+with one exception.  These fields actually have people farming them, but
+they only number a handful.  Those near their homes rush inside to hide
+themselves, while those in the field just glare in your direction.  The road
+continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 10580
+D2
+~
+~
+0 0 10578
+S
+#10580
+Traveling Through Haven's Vale~
+The valley that lays open to you is much like the fields to the north
+with one exception.  These fields actually have people farming them, but
+they only number a handful.  Those near their homes rush inside to hide
+themselves, while those in the field just glare in your direction.  The road
+continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 10581
+D2
+~
+~
+0 0 10579
+S
+#10581
+Traveling Through Haven's Vale~
+The valley that lays open to you is much like the fields to the north
+with one exception.  These fields actually have people farming them, but
+they only number a handful.  Those near their homes rush inside to hide
+themselves, while those in the field just glare in your direction.  The road
+continues to the north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 10582
+D2
+~
+~
+0 0 10580
+S
+#10582
+Traveling Through Haven's Vale~
+The valley that lays open to you is much like the fields to the north
+with one exception.  These fields actually have people farming them, but
+they only number a handful.  Those near their homes rush inside to hide
+themselves, while those in the field just glare in your direction.  The road
+continues to the north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 10583
+D2
+~
+~
+0 0 10581
+S
+#10583
+Entering Haven's Vale~
+The valley that lays open to you is much like the fields to the north
+with one exception.  These fields actually have people farming them, but
+they only number a handful.  Those near their homes rush inside to hide
+themselves, while those in the field just glare in your direction.  The road
+continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 10589
+D2
+~
+~
+0 0 10582
+S
+#10584
+Traveling Along New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields.
+To the west the road cuts through the fertile farm land, while to the east,
+even more farmland can be seen.  The birds sing happily, as they stuff
+themselves from the plentiful wheat.
+~
+0 0 2
+D1
+~
+~
+0 0 10585
+D3
+~
+~
+0 0 10594
+S
+#10585
+Traveling Along New Haven Road~
+The fields here have been picked clean, only muddy boot prints and hacked
+down stalks remain.  Hanging in the middle of the field is a {yscarecrow{x
+that seems to do little but attract them.  This quiet stretch of road
+continues to the east and west.  It is almost too quiet, for even the birds
+have stopped in their singing, as the smell of death is carried on a light
+breeze.  
+~
+0 0 2
+E
+scarecrow~
+The crows are doing a little more than just sitting on its shoulder, they
+are actually eating it!  As the wind shifts and blows from where the
+scarecrow hangs, you get the full brunt of the smell of death.  Some poor
+farmer seems to have lost more than just his crops indeed.  
+~
+D1
+~
+~
+0 0 10586
+D3
+~
+~
+0 0 10584
+S
+#10586
+Traveling Along New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields. 
+A burned out farm sits on the hill that looks over the fields.  Birds of
+prey circle high overhead of what might have been a corral.  To the west the
+road cuts through the fertile farmland, while to the east, even more farm
+land can be seen.  The birds sing happily as they stuff themselves from the
+plentiful wheat.  
+~
+0 0 2
+D1
+~
+~
+0 0 10587
+D3
+~
+~
+0 0 10585
+S
+#10587
+Traveling Along New Haven Road~
+The crops here wither away at the stalk.  So much food has been wasted
+that could have been saved a week ago.  To the west the road cuts through the
+fertile farm land, while to the east, even more farmland can be seen.  The
+birds sing happily as they stuff themselves from the forgotten fields.  
+~
+0 0 2
+D1
+~
+~
+0 0 10588
+D3
+~
+~
+0 0 10586
+S
+#10588
+Traveling Along New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields. 
+To the west the road cuts through the fertile farm land, while to the east,
+one can see the Twin Peaks Vale.  The birds sing happily, as they stuff
+themselves from the plentiful wheat.  
+~
+0 0 2
+D1
+~
+~
+0 0 2668
+D3
+~
+~
+0 0 10587
+S
+#10589
+Along the New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields.
+To the north the road cuts through the fertile farm land, while to the
+south, even more farmland can be seen.  The birds sing happily as they
+stuff themselves from the plentiful wheat.  
+~
+0 0 2
+D0
+~
+~
+0 0 10590
+D2
+~
+~
+0 0 10583
+S
+#10590
+Along the New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields.
+To the north the road cuts through the fertile farm land, while to the
+south, even more farmland can be seen.  The birds sing happily as they
+stuff themselves from the plentiful wheat.  
+~
+0 0 2
+D0
+~
+~
+0 0 10591
+D2
+~
+~
+0 0 10589
+S
+#10591
+Along the New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields. 
+To the north the road cuts through the fertile farm land, while to the
+south, even more farmland can be seen.  The birds sing happily, as they
+stuff themselves from the plentiful wheat.  
+~
+0 0 2
+D0
+~
+~
+0 0 10592
+D2
+~
+~
+0 0 10590
+S
+#10592
+Along the New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields.
+To the east the road cuts through the fertile farm land, while to the south,
+even more farmland can be seen.  The birds sing happily, as they stuff
+themselves from the plentiful wheat.
+~
+0 0 2
+D1
+~
+~
+0 0 10593
+D2
+~
+~
+0 0 10591
+S
+#10593
+Along the New Haven Road~
+Fields stand ready to be harvested, but no one is working in the fields.
+To the north the road cuts through the fertile farm land, while to the west,
+even more farmland can be seen.  The birds sing happily, as they stuff
+themselves from the plentiful wheat.
+~
+0 0 2
+D0
+~
+~
+0 0 10594
+D3
+~
+~
+0 0 10592
+S
+#10594
+Along the New Haven Road~
+The remains of a {cwagon{x sits on the side of the road in a ditch.  Many
+of the supplies it was carrying were left where they spilled on to the
+ground.  The road comes from the south and continues to the east.  It shows
+signs that a large amount of people have traveled this way recently.  
+~
+0 0 2
+E
+wagon~
+It is more of a cart than a wagon, for it only has two wheels.  Of course
+that was before the axle broke, pitching the cart over and into the muddy
+ditch.  Of those items on the ground, a spilled barrel of flour, a broken
+lantern, some rope, and a spilled water barrel.  
+~
+D1
+~
+~
+0 0 10584
+D2
+~
+~
+0 0 10593
+S
+#10595
+The Kitchens~
+The temperature is at least twenty degrees warmer in here than in the
+corridor.  Servants are busy preparing meals for the Seekers.  The east wall
+is lined with ovens and stoves cooking anything from stew to spiced rolls. 
+The north wall has a great sink that has a never-ending pile of dishes
+stacked nearby.  In the center of the room, many tables stand where food is
+prepared and fresh baked goods are left to cool.  
+~
+0 8 1
+D3
+~
+~
+0 0 10575
+S
+#10596
+The Laundry Room~
+Servants bend over wash tubs as they scrub away at their wash boards. 
+Lines have been strung across the room for the wash to hang until it dries. 
+As servants enter carrying baskets, they deposit them to the left of the
+doorway, before picking up a basket to the right of the doorway.  Baskets to
+the left of the door are filled with the day's dirty clothes.  To the right,
+the baskets are filled with the cleaned, and folded linens or robes.  
+~
+0 8 1
+D1
+~
+~
+0 0 10572
+S
+#10597
+Axel's Used Weapons~
+Since the newly forged weapons of the city can only be purchased by the
+seekers, it was only a matter of time before someone would try and do
+something about it.  Here weapons that have seen better days, line the
+walls.  Many look to have a little life left to them, but if one need a
+weapon then what else can he do.  
+~
+0 1036 1
+D1
+~
+~
+0 0 10566
+S
+#10598
+Twixewr's Used Armor~
+With the Seekers cornering the market for forged armor, someone has
+finally done something to help the commoner.  The racks and shelves hold
+armor that could of been worn by your grandfather.  The armor is not
+guaranteed to hold up in heavy fighting, but might serve you until you can
+find a replacement.  
+~
+0 1036 1
+D3
+~
+~
+0 0 10547
+S
+#10599
+A Road to Haven~
+To the distant south, this road once lead to a great stone bridge that
+crossed the White-Rage River and into the Qualinesti forest.  With the fear
+of human refugees invading their forest like a swarm of locust, the elves
+destroyed the bridges that crossed the river.  The refugees have few options
+left to them, for they can try and cross the raging river, or they can
+journey to the east and hope to find safety in Gateway.  
+~
+0 4 2
+D0
+~
+~
+1 0 10517
+S
+#0
+
+
+
+#SPECIALS
+M 10504 spec_rloader
+S
+
+
+
+#RESETS
+D 0 10517 2 1
+D 0 10544 2 1
+D 0 10569 0 1
+D 0 10599 0 1
+M 0 10506 10 10501 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10501 8 10501 1
+M 0 10509 10 10502 1
+E 0 10510 0 20
+M 0 10509 10 10504 1
+E 0 10510 0 20
+M 0 10509 10 10507 1
+E 0 10510 0 20
+M 0 10509 10 10509 1
+E 0 10510 0 20
+M 0 10510 1 10510 1
+M 0 10506 10 10511 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10507 10 10512 2
+E 0 10508 0 5
+E 0 10507 0 16
+M 0 10507 10 10514 2
+E 0 10508 0 5
+E 0 10507 0 16
+M 0 10507 10 10516 2
+E 0 10508 0 5
+E 0 10507 0 16
+M 0 10506 10 10517 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10509 10 10518 1
+E 0 10510 0 20
+M 0 10507 10 10519 2
+E 0 10508 0 5
+E 0 10507 0 16
+M 0 10508 10 10520 1
+E 0 10509 0 20
+M 0 10506 10 10520 1
+E 0 10501 0 20
+E 0 10503 0 5
+O 0 10506 0 10521
+M 0 10507 10 10522 2
+E 0 10508 0 5
+E 0 10507 0 16
+M 0 10508 10 10525 1
+E 0 10509 0 20
+M 0 10509 10 10526 1
+E 0 10510 0 20
+M 0 10508 10 10527 1
+E 0 10509 0 20
+M 0 10509 10 10528 1
+E 0 10510 0 20
+M 0 10508 10 10528 1
+E 0 10509 0 20
+O 0 10520 0 10528
+P 0 10521 5 10520 5
+M 0 10509 10 10530 1
+E 0 10510 0 20
+M 0 10509 10 10532 1
+E 0 10510 0 20
+M 0 10504 5 10533 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10511 10 10534 2
+E 0 10511 0 20
+M 0 10512 10 10535 2
+M 0 10501 8 10535 1
+M 0 10502 15 10535 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10512 10 10536 2
+M 0 10512 10 10537 2
+M 0 10512 10 10538 2
+M 0 10502 15 10538 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10506 10 10540 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10541 1 10541 1
+G 0 10540 0
+G 0 10541 0
+M 0 10502 15 10542 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10508 10 10543 1
+E 0 10509 0 20
+M 0 10503 3 10543 1
+M 0 10502 15 10544 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10511 10 10545 2
+E 0 10511 0 20
+M 0 10511 10 10546 2
+E 0 10511 0 20
+M 0 10502 15 10546 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10511 10 10547 2
+E 0 10511 0 20
+M 0 10503 3 10547 1
+M 0 10511 10 10548 2
+E 0 10511 0 20
+M 0 10506 10 10548 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10511 10 10549 2
+E 0 10511 0 20
+M 0 10502 15 10549 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10506 10 10550 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10509 10 10551 1
+E 0 10510 0 20
+M 0 10504 5 10551 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10552 1 10552 1
+G 0 10552 0
+G 0 10553 0
+M 0 10512 10 10553 2
+O 0 10554 0 10553
+M 0 10502 15 10554 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10509 10 10555 1
+E 0 10510 0 20
+M 0 10501 8 10555 1
+M 0 10509 10 10556 1
+E 0 10510 0 20
+M 0 10502 15 10557 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10508 10 10558 1
+E 0 10509 0 20
+M 0 10501 8 10558 1
+M 0 10508 10 10559 1
+E 0 10509 0 20
+M 0 10506 10 10559 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10508 10 10561 2
+E 0 10509 0 20
+M 0 10502 15 10562 2
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10508 10 10563 1
+E 0 10509 0 20
+M 0 10504 5 10563 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10502 15 10563 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10502 15 10564 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10565 1 10565 1
+M 0 10503 3 10566 1
+M 0 10506 10 10567 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10502 15 10568 1
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10506 10 10569 2
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10502 15 10570 2
+E 0 10501 0 20
+E 0 10503 0 5
+M 0 10570 1 10570 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10504 5 10573 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10504 5 10576 1
+E 0 10502 0 20
+E 0 10504 0 5
+M 0 10505 3 10576 1
+M 0 10501 8 10577 2
+M 0 10501 8 10578 2
+O 0 10522 0 10589
+P 0 10523 4 10522 4
+M 0 10505 3 10595 1
+M 0 10505 3 10596 1
+M 0 10597 1 10597 1
+G 0 10590 0
+G 0 10591 0
+G 0 10592 0
+G 0 10593 0
+M 0 10598 1 10598 1
+G 0 10597 0
+G 0 10596 0
+G 0 10595 0
+G 0 10594 0
+S
+
+
+
+#SHOPS
+10541 0 0 0 0 0 110 80 0 23
+10552 0 0 0 0 0 100 70 0 23
+10597 0 0 0 0 0 150 50 0 23
+10598 0 0 0 0 0 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#10501
+say {GGreetings, I am Seeker Locar and I speak for the Highseeker in his absence. If you have news of the Blue Crystal Staff...Tell us what you know{x.
+~
+#10502
+say {GPlease we beg you, take the staff to Xak Tsaroth for this will surely keep the armies to the north from invading Haven{x.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

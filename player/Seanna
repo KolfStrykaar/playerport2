@@ -1,0 +1,528 @@
+#PLAYER
+Name Seanna~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email none~
+Id   1384253557
+LogO 1385570332
+Vers 10
+Act  CDEFGHQTe
+Prom <%hhp %mm %vmv> ~
+Race qualinesti~
+Sex  2
+Cla  1
+Hmtown 0
+Levl 7
+recall_point 3001
+Levscale 30
+Xptolev  1682
+Sec  0
+Plyd 8651
+Not  0 0 0 0 0
+Scro 22
+Room 3054
+HMV  148 148 194 194 136 136
+Steel 20
+Gold 345
+Bank 0
+Exp  11318
+AfBy J
+FlagTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3342336
+Comm NOQ
+Pos  8
+Prac 38
+Trai 1
+Save  -25
+Alig  758
+Ethos 2
+Hit   25
+ACs 45 58 19 92
+Attr 12 15 18 13 15 16
+AMod 0 6 15 2 4 0
+Pass SeeQ84qhSJe7w~
+Titl  the Novice~
+Pretit ~
+Pnts 10
+TSex 2
+LLev 2
+HMVP 98 154 136
+Cnd  0 51 51 0
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Sk 1 'armor'
+Sk 1 'bless'
+Sk 1 'blindness'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 45 'cause light'
+Sk 1 'cause serious'
+Sk 1 'create food'
+Sk 1 'create spring'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 81 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'demonfire'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect invis'
+Sk 1 'detect poison'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'orb of containment'
+Sk 1 'harm'
+Sk 1 'heal'
+Sk 1 'life transfer'
+Sk 1 'holy word'
+Sk 1 'know alignment'
+Sk 1 'mass healing'
+Sk 1 'aid'
+Sk 1 'plague'
+Sk 1 'protection evil'
+Sk 1 'ray of truth'
+Sk 1 'refresh'
+Sk 1 'remove curse'
+Sk 1 'sanctuary'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 1 'flail'
+Sk 41 'mace'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 1 'deathgrip'
+Sk 1 'demand'
+Sk 1 'silence'
+Sk 1 'traject'
+Sk 1 'mount'
+Sk 1 'remove paralysis'
+Sk 1 'undetectable align'
+Sk 1 'repulsion'
+Sk 1 'firestorm'
+Sk 1 'sunbeam'
+Sk 1 'spiritual hammer'
+Sk 1 'pillify'
+Sk 1 'enlightenment'
+Sk 1 'aura cleanse'
+Sk 1 'brew'
+Sk 1 'scribe'
+Sk 1 'battle tactics'
+Sk 19 'wear chain'
+Sk 38 'wear leather'
+Sk 1 'fast healing'
+Sk 100 'common'
+Sk 100 'elven tongue'
+Sk 100 'qualinesti tongue'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'sate'
+Sk 1 'invigorate'
+Sk 1 'purify'
+Sk 1 'taunt'
+Sk 1 'god fire'
+Sk 1 'wrath'
+Sk 1 'regeneration'
+Sk 1 'quench'
+Sk 1 'cure deafness'
+Sk 1 'staff'
+Sk 1 'eyerub'
+Sk 100 'instruct'
+Sk 1 'endure disease'
+Sk 1 'shatter shield'
+Sk 1 'arrow deflection'
+Sk 1 'preach'
+Sk 1 'clear thoughts'
+Sk 1 'black cairn'
+Sk 1 'blessed warmth'
+Sk 1 'blessed watchfulness'
+Sk 1 'relegate'
+Affc 'bless'   0 172  21  25  18          0
+Affc 'bless'   0 166  21 -25  25          0
+End
+
+#O
+Vnum 3775
+Nest 0
+Cond 100
+Wear 21
+Cost 10
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 16196
+Nest 0
+Cond 100
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+ExtF 64
+Cond 97
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 3008
+Nest 0
+ExtF 64
+Cond 97
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 100
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 10702
+Nest 1
+Cond 100
+Wear -1
+Cost 3450
+End
+
+#O
+Vnum 16308
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 16196
+Nest 1
+Cond 100
+Wear -1
+Cost 850
+End
+
+#O
+Vnum 9865
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3725
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 10702
+Nest 0
+Cond 100
+Wear 1
+Cost 3450
+End
+
+#O
+Vnum 11216
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3016
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 16193
+Nest 0
+Cond 100
+Wear 17
+Cost 1200
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 3723
+Nest 1
+Cond 100
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3726
+Nest 1
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 16184
+Nest 1
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 3772
+Nest 1
+Cond 100
+Wear -1
+Cost 5
+Val  0 0 68 0 0
+End
+
+#O
+Vnum 16282
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3724
+Nest 0
+Cond 100
+Wear 22
+Cost 5
+End
+
+#O
+Vnum 16231
+Nest 0
+Cond 99
+Wear 20
+Cost 800
+End
+
+#O
+Vnum 16277
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16281
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 16286
+Nest 0
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 16279
+Nest 0
+Cond 100
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 10965
+Nest 0
+Cond 100
+Wear 8
+Cost 1500
+End
+
+#O
+Vnum 10964
+Nest 0
+Cond 100
+Wear 13
+Cost 1500
+End
+
+#END

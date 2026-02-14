@@ -1,0 +1,2072 @@
+#PLAYER
+Name Pesmerga~
+Surname ~
+MaskedIp ~
+Lokprot ~
+Email jbizarropinho@hotmail.com~
+Id   1069599198
+LogO 1738536673
+Vers 10
+Act  CDGHLQT
+Desc {DA heavily armored figure stands here. He is roughly 9 feet tall but
+there is nothing that can be seen as for his constitution nor for his
+face, as it is covered in thick armor and a full helmet. His body armor is
+black at the front and {Wsilver{D on the sides, and bears a {Wsilver{D
+symbol of a dragon on it. His helmet is black with {Ygolden{D horns and
+completely shut, so his face cannot be seen.{x {DHis shoulders are
+protected by some black shoulder pads that have a big spike on top of them
+a wide {Wsilver{D stripe and are contoured by a thin {Ygolden{D stripe.
+From his shoulder to his forearm he has some {wdark grey{D sleeves and
+from his forearm to his {Dhands he wears some gauntlets, black on his
+foream and {wdark grey{D on his fingers.{x {DAt his waist he has some
+armor, composed of four pieces that reach as far as his knee; two on the
+outer sides of his legs composed by a double layer armor, the bottommost
+being {Wsilver{D while the uppermost being black with a thin {Ygolden{D
+stripe contour, the other two are at the front and the back having only
+one thick layer of thick black armor with a thin {Ygolden{D stripe as a
+contour. {DHis legs are covered in some {wdark grey{D leggings and on his
+feet he wears some knee size black boots that have a big spike at the
+height of his knee. At his back He is wearing a {rred{D cape that reaches
+to his ankle.{x {DHe is also heavily armed. Strapped around the left side
+of his waist there is a long and curved sword and at his right side he has
+a short sword. At his back there can be seen two handles, on the left side
+a shorter handle than on the right.{x
+~
+Prom <%h/%H {b%m/%M {g%v/%V {x%e %B %a{r>{x ~
+Race draconian~
+Org 10
+Religion 16
+Sex  1
+Cla  3
+Hmtown 0
+Levl 101
+recall_point 3001
+Levscale 30
+Xptolev  1282650
+Sec  0
+Plyd 4614412
+Not  1421221326 1395959842 0 1410808993 1298827134
+Scro 58
+Room 3369
+HMV  3307 3307 1051 1051 858 858
+Steel 5101
+Gold 33656
+Bank 43210
+Exp  17454200
+AfBy DFOac
+AfBy2 D
+Deaths 10
+FlagTot 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FParTot 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2621440
+Comm NO
+Pos  8
+Save  -84
+Alig  -1000
+Ethos 0
+Hit   104
+Dam   102
+ACs -318 -320 -335 -245
+Wimp  250
+Attr 26 22 22 18 23 10
+AMod 16 4 5 19 6 5
+Pass PednGGLy4AGH2~
+Titl  - The {DDark{x Warrior of Hatred~
+Pretit Lord Adjudicator{x~
+Pnts 10
+TSex 1
+LLev 715
+HMVP 2432 336 708
+Cnd  0 40 40 0
+QuestPnts 719
+Coloura     007 003 005 001 013
+Colourb     012 002 002 006 006
+Colourc     113 003 003 004 004
+Colourd     012 007 002 007 001
+Coloure     007 007 007 007 014
+Colourf     002 002 002 003 003
+Colourg     003 005 001 013 012
+Alias -prayer cpose is kneeling in front of the statue of the Dark Queen, his cape flowing from his back to the ground. He seems deep in prayer.~
+Sk 100 'frenzy'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 82 'rescue'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'break weapon'
+Sk 100 'counter'
+Sk 100 'critical strike'
+Sk 100 'sharpen'
+Sk 100 'whirlwind'
+Sk 100 'lunge'
+Sk 100 'glide'
+Sk 100 'dual wield'
+Sk 100 'mount'
+Sk 70 'unholy armor'
+Sk 100 'nerve pinch'
+Sk 100 'caltrops'
+Sk 100 'battle tactics'
+Sk 100 'wear chain'
+Sk 100 'wear leather'
+Sk 100 'wear plate'
+Sk 100 'fast healing'
+Sk 100 'common'
+Sk 100 'draconian tongue'
+Sk 50 'recall'
+Sk 100 'bow'
+Sk 70 'gaseous form'
+Sk 70 'dark taint'
+Sk 70 'drain blood'
+Sk 79 'bind wounds'
+Sk 100 'breakneck'
+Sk 100 'guard'
+Sk 100 'headbutt'
+Sk 100 'mounted combat'
+Sk 100 'impale'
+Sk 100 'cleave'
+Sk 100 'trammel'
+Sk 100 'flank attack'
+Sk 100 'staff'
+Sk 70 'unholyrite'
+Sk 100 'eyerub'
+Sk 100 'finger break'
+Sk 100 'earpunch'
+Sk 100 'tonguecut'
+Sk 4 'smother'
+Sk 100 'instruct'
+Sk 71 'heroic demise'
+Sk 100 'joust'
+Sk 100 'shatter shield'
+Sk 71 'arrow deflection'
+Affc 'berserk'   0 101   9  20  18   67108864
+Affc 'berserk'   0 101   9  20  19   67108864
+Affc 'berserk'   0 101   9 200  17   67108864
+End
+
+#O
+Vnum 1261
+Nest 0
+Cond 100
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 9868
+Nest 0
+Name dragon Shadow helmet horned~
+ShD  ({yHorned{x) {DShadow Dragon {xHelmet~
+Desc a black horned helmet sits here.~
+ExtF 8
+Cond 94
+Wear 6
+Cost 90000
+Val  23 23 21 19 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 96
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 9471
+Nest 0
+Cond 90
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 9426
+Nest 0
+Name red dragon cape ~
+ShD  Cape of the {rRed Dragon{x~
+Desc A cape made of red dragon scales is here.~
+Cond 76
+Wear 16
+Cost 0
+Val  10 10 10 10 0
+End
+
+#O
+Vnum 12235
+Enchanted
+Nest 0
+Name dark steel gauntlets~
+ShD  {DDark Steel {wGauntlets{x~
+Desc a pair of dark steel gauntlets lie here.~
+Cond 92
+Wear 12
+Cost 94
+Affc 'reserved'   1  90  -1   2  19          0
+Affc 'reserved'   1  90  -1   3  18          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1   1   2          0
+End
+
+#O
+Vnum 16304
+Nest 0
+Cond 100
+Wear -1
+Cost 500
+Val  500 1 0 500 80
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1209
+Nest 1
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1627
+Nest 1
+Name cursed dagger~
+ShD  ({rStained{x) a {dCursed{x dagger~
+Desc a blade stained with blood lies here.~
+ExtF 17301577
+Cond 93
+Wear -1
+Cost 15500
+Val  2 10 14 33 69
+End
+
+#O
+Vnum 16070
+Nest 1
+ExtF 8
+Cond 100
+Wear -1
+Cost 4000
+Val  4 4 34 37 73
+End
+
+#O
+Vnum 1207
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1209
+Nest 1
+ShD  a {DMake {rOver{x coupon~
+Desc A coupon good for 8 restrings. -Reorx~
+Cond 100
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 861
+Nest 1
+ExtF 2584
+Cond 98
+Wear -1
+Cost 800
+Val  1 8 20 3 16461
+End
+
+#O
+Vnum 1816
+Nest 1
+ExtF 16777226
+Cond 100
+Wear -1
+Cost 800
+Val  2 8 20 2 136
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 2651
+Cond 100
+Wear -1
+Cost 10000
+Val  3 10 14 28 69
+End
+
+#O
+Vnum 2906
+Nest 1
+ExtF 17040906
+Cond 100
+Wear -1
+Cost 900
+Val  10 9 14 37 4360
+End
+
+#O
+Vnum 13205
+Nest 1
+ExtF 16777226
+Cond 64
+Wear -1
+Cost 900
+Val  2 10 16 2 136
+End
+
+#O
+Vnum 2635
+Nest 1
+Name easter egg~
+ShD  An {CEaster{x {MEgg{x~
+Desc A pretty little easter egg lies in a basket.~
+Cond 100
+Wear -1
+Cost 272
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Val  3 9 13 26 221
+End
+
+#O
+Vnum 12160
+Nest 1
+ExtF 16777758
+Cond 100
+Wear -1
+Cost 4790
+Val  1 5 25 1 28
+End
+
+#O
+Vnum 5435
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9826
+Nest 1
+Cond 100
+Wear -1
+Cost 12000
+End
+
+#O
+Vnum 1913
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  5 12 13 21 44
+End
+
+#O
+Vnum 10746
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 17851
+Nest 1
+ExtF 2585
+Cond 70
+Wear -1
+Cost 1000
+Val  1 10 14 34 12
+End
+
+#O
+Vnum 12221
+Nest 1
+ExtF 16779869
+Cond 72
+Wear -1
+Cost 4830
+Val  0 10 14 38 5
+End
+
+#O
+Vnum 10746
+Nest 1
+Name curved scimitar~
+ShD  {BCurved{x Scimitar~
+Desc A sharp curved scimitar lies here, gleaming brightly.~
+ExtF 17563976
+Cond 99
+Wear -1
+Cost 5000
+Val  0 10 13 21 40
+End
+
+#O
+Vnum 5700
+Nest 1
+Name battleaxe~
+ShD  a battleaxe~
+Desc There is a sharp battleaxe lying on the ground.~
+ExtF2 2
+WeaF 268443649
+Ityp 5
+Wt   3
+Cond 100
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  5 10 16 21 131072
+Affc 'cultural artistry'   5 100  -1   0   0     131072
+End
+
+#O
+Vnum 10746
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 12093
+Nest 1
+Cond 95
+Wear -1
+Cost 5100
+End
+
+#O
+Vnum 12234
+Nest 1
+ExtF 2588
+Cond 96
+Wear -1
+Cost 4710
+Val  1 10 14 3 77
+End
+
+#O
+Vnum 10877
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name torture whip~
+ShD  a torture whip~
+Desc This whip looks excellent for use in torture.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   7
+Cond 100
+Mat  leather~
+Wear -1
+Lev  101
+Cost 1010
+Val  7 10 16 4 73
+Affc 'enchant weapon'   1  91  -1   8  19          0
+Affc 'enchant weapon'   0  91  -1   8  18          0
+End
+
+#O
+Vnum 1627
+Nest 1
+ExtF 17301577
+Cond 97
+Wear -1
+Cost 15500
+Val  2 10 14 33 69
+End
+
+#O
+Vnum 12251
+Nest 1
+ExtF 8
+Cond 85
+Wear -1
+Cost 4435
+Val  4 10 12 7 101
+End
+
+#O
+Vnum 5700
+Nest 1
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 262145
+Ityp 9
+Wt   2
+Cond 97
+Mat  brass~
+Wear -1
+Lev  109
+Cost 1090
+Val  28 28 28 24 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 11967
+Nest 1
+ExtF 16779868
+Cond 95
+Wear -1
+Cost 5180
+Val  1 11 14 31 207
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name greatsword~
+ShD  a greatsword~
+Desc A large greatsword sits in the corner of the room.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 100
+Mat  steel~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 27 65
+Affc 'enchant weapon'   0 101  -1   9  18          0
+Affc 'enchant weapon'   1 101  -1   9  19          0
+End
+
+#O
+Vnum 1976
+Nest 1
+ExtF 2576
+Cond 100
+Wear -1
+Cost 100000
+Val  4 16 10 6 110
+End
+
+#O
+Vnum 5700
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 2576
+ExtF2 2
+WeaF 8193
+Ityp 5
+Wt   1
+Cond 95
+Mat  plant~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 1 16461
+Affc 'cultural artistry'   5  71  -1   0   0      16384
+End
+
+#O
+Vnum 861
+Nest 1
+Cond 100
+Wear -1
+Cost 800
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 42
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3158
+Nest 1
+ExtF 10
+Cond 100
+Wear -1
+Cost 500
+Val  1 11 16 3 65544
+End
+
+#O
+Vnum 1913
+Enchanted
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  5 12 13 21 109
+Affc 'reserved'   1 115  -1  50  13          0
+Affc 'reserved'   1 115  -1  15  12          0
+Affc 'reserved'   1 115  -1   1   1          0
+Affc 'enchant weapon'   1 101  -1   7  19          0
+Affc 'enchant weapon'   0 101  -1   7  18          0
+End
+
+#O
+Vnum 3005
+Nest 1
+ExtF 0
+Cond 100
+Wear -1
+Cost 1500000
+Val  10 14 11 7 82025
+End
+
+#O
+Vnum 19006
+Nest 1
+ExtF 17861140
+Cond 100
+Wear -1
+Cost 1200000
+End
+
+#O
+Vnum 16456
+Nest 1
+ExtF 16777224
+Cond 100
+Wear -1
+Cost 7400
+Val  2 9 16 1 73
+End
+
+#O
+Vnum 17851
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3367
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 97
+Mat  iron~
+Wear -1
+Lev  109
+Cost 1090
+Val  28 28 28 24 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 5700
+Nest 1
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 524289
+Ityp 9
+Wt   1
+Cond 94
+Mat  iron~
+Wear -1
+Lev  109
+Cost 1090
+Val  28 28 28 24 0
+Affc 'cultural artistry'   0 100  -1  40  13          0
+End
+
+#O
+Vnum 14545
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5614
+Enchanted
+Nest 1
+ExtF 16777539
+Cond 94
+Wear -1
+Cost 0
+Val  1 12 11 18 84040
+Affc 'enchant weapon'   1 100  -1   8  19          0
+Affc 'enchant weapon'   0 100  -1   8  18          0
+End
+
+#O
+Vnum 12263
+Nest 1
+ExtF 2590
+Cond 93
+Wear -1
+Cost 5145
+Val  1 10 15 3 77
+End
+
+#O
+Vnum 2979
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+Val  3 9 13 26 221
+End
+
+#O
+Vnum 9829
+Nest 1
+ExtF 2651
+Cond 99
+Wear -1
+Cost 10000
+Val  3 10 14 28 69
+End
+
+#O
+Vnum 16102
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 9405
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14278
+Nest 1
+ExtF 67897882
+Cond 100
+Wear -1
+Cost 500
+Val  8 12 14 11 14
+End
+
+#O
+Vnum 9413
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 67
+WeaF 8193
+Ityp 5
+Wt   1
+Cond 64
+Mat  plant~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 1 77
+Affc 'enchant weapon'   1 100  -1  10  19          0
+Affc 'enchant weapon'   0 100  -1  10  18          0
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 11854
+Nest 1
+Cond 100
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 14278
+Nest 1
+ExtF 67897882
+Cond 98
+Wear -1
+Cost 500
+Val  8 12 14 11 74
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name rapier~
+ShD  a small rapier~
+Desc A small rapier lies covered in dust.~
+ExtF 67
+WeaF 268443649
+Ityp 5
+Wt   2
+Cond 96
+Mat  silver~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 11 65
+Affc 'enchant weapon'   0  95  -1   8  18          0
+Affc 'enchant weapon'   1  95  -1   8  19          0
+End
+
+#O
+Vnum 2895
+Nest 1
+Cond 88
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9463
+Nest 1
+Cond 88
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3000
+Nest 1
+Cond 100
+Wear -1
+Cost 75
+Val  300 28 0 0 0
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 97
+Wear 19
+Cost 250000
+End
+
+#O
+Vnum 17558
+Nest 0
+ExtF 17039617
+Cond 97
+Wear 18
+Cost 250000
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 92
+Wear 4
+Cost 13000
+Val  31 31 31 27 0
+End
+
+#O
+Vnum 1673
+Nest 0
+ExtF 17563977
+Cond 95
+Mat  oak~
+Wear 3
+Cost 13000
+Val  31 31 31 27 0
+End
+
+#O
+Vnum 16457
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 16101
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a cleric's blood~
+Desc A jar of a cleric's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  99 99 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of A druid-in-training's blood~
+Desc A jar of A druid-in-training's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  198 198 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Silvanesti guard's blood~
+Desc A jar of a Silvanesti guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  198 198 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Silvanesti guard's blood~
+Desc A jar of a Silvanesti guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 95 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of A Royal Guard's blood~
+Desc A jar of A Royal Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of A Royal Guard's blood~
+Desc A jar of A Royal Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 0 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of city guard's blood~
+Desc A jar of city guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of city guard's blood~
+Desc A jar of city guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of city guard's blood~
+Desc A jar of city guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of city guard's blood~
+Desc A jar of city guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the Port Captain's blood~
+Desc A jar of the Port Captain's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 0
+Name brass pauldron~
+ShD  a set of brass pauldrons~
+Desc A set of brass pauldrons sit here, waiting for use.~
+ExtF 8
+ExtF2 2
+WeaF 268697601
+Ityp 9
+Wt   2
+Cond 100
+Mat  brass~
+Wear 14
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 10
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 9592
+Nest 0
+Cond 91
+Wear 22
+Cost 0
+End
+
+#O
+Vnum 16453
+Nest 0
+Cond 100
+Wear 23
+Cost 300000
+End
+
+#O
+Vnum 12
+Nest 0
+Name head Kaferana~
+ShD  the head of Kaferana~
+Desc The severed head of Kaferana is lying here.~
+ExtF 33554560
+Cond 25
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1916
+Nest 0
+Name girdle~
+ShD  ({yGold Contoured{x) {DDouble {wLayered{x Girdle~
+Desc a black belt with golden Contours is here.~
+Cond 88
+Wear 17
+Cost 750000
+End
+
+#O
+Vnum 1895
+Nest 0
+ShD  ({dAncient{x) Plate of the {DBlack Dragon{x~
+ExtF 17039369
+Cond 99
+Wear 5
+Cost 4500000
+Val  25 22 30 19 4
+End
+
+#O
+Vnum 1625
+Nest 0
+Name visor face~
+ShD  {DDragon Face Shaped{w Visor{x~
+Desc a visor with the shape of dragon's head lies here.~
+ExtF 17039435
+Cond 85
+Wear 7
+Cost 14500
+Val  18 18 18 16 0
+End
+
+#O
+Vnum 9498
+Nest 0
+Name gargoyle boots~
+ShD  {DGargoyle{x Boots~
+Desc a Pair of gargoyle boots are here.~
+ExtF 16777280
+Cond 72
+Wear 11
+Cost 0
+Val  28 28 28 24 0
+End
+
+#O
+Vnum 17552
+Enchanted
+Nest 0
+Name spiked dragon scale Leggings~
+ShD  ({yGold Contoured{x) ({DSpiked{x) {DDragon Scale {xLeggings~
+Desc A dragon scales in the shape of pants lie here.~
+ExtF 0
+Cond 83
+Wear 8
+Cost 0
+Val  15 15 15 10 0
+Affc 'reserved'   1 100  -1   3  18          0
+Affc 'reserved'   1 100  -1   9  19          0
+Affc 'reserved'   1 100  -1  -1  20          0
+Affc 'reserved'   1 100  -1   2   2          0
+End
+
+#O
+Vnum 5700
+Nest 0
+Name spurs~
+ShD  a set of spurs~
+Desc A set of spurs sits here, awaiting to be attatched to your boots.~
+ExtF 8
+ExtF2 2
+WeaF 268959745
+Ityp 9
+Wt   1
+Cond 100
+Mat  iron~
+Wear 9
+Lev  110
+Cost 1100
+Val  29 29 29 25 0
+Affc 'cultural artistry'   1 100  -1  -6  25          0
+End
+
+#O
+Vnum 2912
+Nest 0
+Name spiked shoulder pads~
+ShD  ({DSpiked{x) {DShoulder {wPads{x~
+Desc Some Spiked shoulder pads are here on the ground.~
+Cond 80
+Wear -1
+Cost 6500
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 91
+Wear -1
+Cost 0
+Val  1 10 10 11 14
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 17851
+Nest 1
+ExtF 521
+Cond 91
+Wear -1
+Cost 1000
+Val  1 10 13 3 74
+End
+
+#O
+Vnum 4640
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4640
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4640
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4640
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 2 'pass door'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 16452
+Nest 1
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5700
+Nest 1
+Name greatsword~
+ShD  a greatsword~
+Desc A large greatsword sits in the corner of the room.~
+ExtF 2576
+WeaF 268443649
+Ityp 5
+Wt   6
+Cond 100
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  1 10 16 27 77
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 4637
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'invisibility'
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name leaf-sword~
+ShD  a leaf-sword~
+Desc This leaf-sword looks very light.~
+ExtF 2643
+WeaF 8193
+Ityp 5
+Wt   1
+Cond 100
+Mat  plant~
+Wear -1
+Lev  101
+Cost 1010
+Val  1 10 16 1 77
+Affc 'enchant weapon'   1 100  -1   8  19          0
+Affc 'enchant weapon'   0 100  -1   8  18          0
+End
+
+#O
+Vnum 9468
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'giant strength'
+Spell 3 'armor'
+End
+
+#O
+Vnum 9869
+Nest 1
+Name wyrm slayer~
+ShD  ({cSteel{x) Wyrm Slayer~
+Desc A long spear with a Dragon image engraved on the handle.~
+ExtF 0
+Cond 99
+Wear -1
+Cost 0
+Val  1 5 27 11 74
+End
+
+#O
+Vnum 9405
+Nest 1
+ExtF 0
+Cond 82
+Wear -1
+Cost 0
+Val  1 10 10 11 14
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Delshawen's blood~
+Desc A jar of Delshawen's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Gurdok's blood~
+Desc A jar of Gurdok's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  198 198 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Khisanth the Black Dragon's blood~
+Desc A jar of Khisanth the Black Dragon's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  190 190 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Aerogos's blood~
+Desc A jar of Aerogos's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  170 170 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Vision's blood~
+Desc A jar of a Vision's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The Leviathan's blood~
+Desc A jar of The Leviathan's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Shogum's blood~
+Desc A jar of Shogum's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  5 5 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Tombfyre's blood~
+Desc A jar of Tombfyre's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  190 190 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of an Ice Dragon's blood~
+Desc A jar of an Ice Dragon's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  196 196 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Astinus's blood~
+Desc A jar of Astinus's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Asauder's blood~
+Desc A jar of Asauder's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Shinn's blood~
+Desc A jar of Shinn's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of a Sea Serpent's blood~
+Desc A jar of a Sea Serpent's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 196 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of A Royal Guard's blood~
+Desc A jar of A Royal Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 82 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of Pesmerga's blood~
+Desc A jar of Pesmerga's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of the Executioner's blood~
+Desc A jar of the Executioner's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  101 101 13 0 0
+End
+
+#O
+Vnum 1813
+Nest 1
+ShD  a jar of The Captain of the Solanthus Guard's blood~
+Desc A jar of The Captain of the Solanthus Guard's blood has been forgotten here.~
+Cond 100
+Wear -1
+Cost 50
+Val  202 202 13 1 0
+End
+
+#O
+Vnum 5700
+Enchanted
+Nest 1
+Name unholy vengeance blade sword~
+ShD  {DUnholy{x {RVe{rngean{Rce{x~
+Desc A well-honed blade of obsidian lies here, radiating an unholy power.~
+ExtF 16777301
+WeaF 268443649
+Ityp 5
+Wt   8
+Cond 96
+Mat  steel~
+Wear -1
+Lev  110
+Cost 1100
+Val  1 10 16 9 78
+Affc 'reserved'   0 105  -1  10  18          0
+Affc 'reserved'   0 105  -1  10  19          0
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9825
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 17540
+Nest 1
+Cond 100
+Wear -1
+Cost 25
+Spell 1 'haste'
+End
+
+#O
+Vnum 1895
+Nest 0
+Cond 100
+Wear -1
+Cost 4500000
+End
+
+#O
+Vnum 11967
+Nest 0
+ExtF 16779868
+Cond 89
+Wear 20
+Cost 5180
+Val  1 11 14 31 207
+End
+
+#O
+Vnum 12267
+Nest 0
+ExtF 2652
+Cond 58
+Wear 24
+Cost 4710
+Val  0 10 14 19 33292
+End
+
+#O
+Vnum 17551
+Nest 0
+Name dragon scale sleeves~
+ShD  {DDragon Scale {wSleeves{x~
+Desc A dragon scales sleeves lie here.~
+ExtF 0
+Cond 77
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 19002
+Nest 0
+ExtF 524288
+Cond 100
+Wear 13
+Cost 8000
+End
+
+#END

@@ -1,0 +1,5079 @@
+#AREADATA
+Name Silvanost~
+Builders Morgion~
+Continent (null)~
+Controlby 0~
+Faction 0~
+Sector 0
+VNUMs 17501 17700
+Credits Morgion~
+Security 9
+End
+
+
+
+#MOBILES
+#17501
+Silvanesti Turtlemaster~
+a Silvanesti turtlemaster~
+The Silvanesti turtlemaster is here, directing a giant sea turtle who is pulling a barge.
+~
+This Silvanesti male commands the turtles who ferry those who wish, back
+to the Silvanesti forest.
+~
+silvanesti~
+AB J 0 0
+30 10 10d10+600 30d10+100 6d6+15 punch
+-7 -7 -7 -4
+0 AB B 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+M SPEECH 10105 yes~
+M GREET 10106 100~
+#17502
+inathalas~
+Inathalas~
+Inathalas, the female trainer stands here, looking tough as ever.
+~
+This tall Silvanesti elf prides herself in her many skills as well as
+attributes.  Her gleaning muscles appear loose and relaxed as she directs
+others where to begin to work on their health and other important factors in
+combat and magical abilities.  
+~
+silvanesti~
+ABJ DFJ 1000 0
+120 120 241d40+3637 120d10+85 40d3+65 beating
+-71 -71 -71 -46
+0 ABCD B 0
+stand stand female 0
+AHMV ABCDEFGHIJK M unknown 0
+#17503
+guildmaster~
+the guildmaster~
+The guildmaster for you class stands here, ready to teach you a new skill or spell.
+~
+This old man looks quite experienced in the ways of your class.  He knows
+a lot and you should probably listen to whatever he has to say.  
+~
+silvanesti~
+ABKb DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17504
+alaina~
+Alaina~
+Alaina, the weapons dealer is here.
+~
+This toughed weapons dealer stands here tall and proud, showing off her
+various weapons.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17505
+gunthar armor dealer~
+Gunthar~
+Gunthar, the armor dealer stands behind the counter, waiting for you to buy something.
+~
+This Silvanesti elf is rather uncharacteristic of the rest of the race,
+his is more squat and muscular than most.  His long golden hair is tied
+behind his head and his blue eyes catch your attention.  He smiles and then
+looks at his products.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slash
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17506
+Palid~
+Palid~
+Palid, the potion seller is here, struggling with the key to his safe.
+~
+The old wizened Silvanesti elf wears glasses and is hunched over a safe struggling with a key in the lock. He can't seem to get it open. Perhaps you should help him?
+~
+silvanesti~
+AB J 1000 0
+120 120 241d40+3637 120d10+85 40d3+65 none
+-71 -71 -71 -46
+0 AB 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M GIVE 17505 17532~
+M DELAY 17506 100~
+M GIVE 17505 key~
+#17507
+elena wizard silvanesti~
+Elena~
+Elena the wizard is here, trying desperately to harness her powers as a mage. She gives up and returns to working on simple magic items.
+~
+This temptress of the Silvanesti race has been well known as a harlot
+with her novel magic.  However, she offers a small service for those that
+wish to buy meager items of magic.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17508
+sara owner~
+Sara~
+Sara, the general store owner is here dusting off the counter.
+~
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17509
+mindy baker silvanesti~
+Mindy~
+Mindy the baker is here, bending over seductively while she puts some rolls into the oven behind the counter.
+~
+This cute little baker turns her head and winks at you, then stands and
+turns to help you.  Her face has a little bit of dough clung to it and you
+reach over the counter to rub it off, she giggles tenderly.  Your eyes
+follow her perfect face and you find yourself staring at her cleavage and
+you realize you may have been hungry for something other than food.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 beating
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17510
+palid assistant~
+Palid's assistant~
+Palid's assistant is selling items while his master struggles with the key.
+~
+This young boy laughs at just about anything you say.  He is probably the
+potion seller's son.  
+~
+silvanesti~
+AB J 1000 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+DEHN ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17511
+petmaster~
+the petmaster~
+The petmaster is here, logging purchases and complaints in a book.
+~
+He looks rather busy except he probably has time to sell you a pet.  He
+looks pretty greedy.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 charge
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17512
+pet domesticated wolf~
+a domesticated wolf~
+A domesticated wolf circles the room.
+~
+This large wolf was domesticated by the Silvanesti elves for profit.  It
+is covered with black fur and its red eyes glow in the dark almost.  
+~
+wolf~
+AI Z 0 0
+10 10 21d3+102 10d10+85 3d3+10 bite
+2 2 2 4
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQV M unknown 0
+#17513
+trained brown bear~
+a trained brown bear~
+A trained female brown bear is here.
+~
+This huge brown bear was trained for use in the Silvanesti pet shop to be
+sold for a profit.  
+~
+bear~
+AI 0 0 0
+20 20 41d6+203 20d10+85 6d3+15 charge
+-3 -3 -3 0
+DEO 0 EI 0
+stand stand female 0
+AGV ABCDEFHJKUV L unknown 0
+#17514
+arkil mapmaker~
+Arkil~
+Arkil, the mapmaker is here, busily working on another map.
+~
+A pair of spectacles hangs from this man's nose.  His eyes are red, it
+looks like he hasn't gotten any sleep in a long time.  Hopefully, his maps
+will be better than his health.  
+~
+silvanesti~
+AB J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 thwack
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17515
+tombguard tomb guard~
+The tomb guard~
+A guard stands watch here, scanning the area intently.
+~
+Standing larger and stockier than most Silvanesti elves, this guard looks
+suspiciously upon all that near him.  Dressed in the armor of the Royal
+Guard, he looks a prominent opponent.  Though seemingly out of place, he
+stands guard here from one reason or another.  
+~
+silvanesti~
+ABT DFHJV 1000 0
+95 95 191d31+1919 95d10+85 31d3+52 slash
+-54 -54 -54 -35
+CDEKNT AB CK FHZ
+stand stand male 4500
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M DELAY 17516 100~
+M EXIT 17515 5~
+#17516
+royal guard sithel~
+A Royal Guard~
+A Royal Guard of the Sithel Council stands before the palace, guarding against intruders.
+~
+Adorning the ceremonial armor of the Royal Guard, the guard stands here
+oblivious to the worries of the outer world.  
+~
+silvanesti~
+ABT DFHJNV 1000 0
+100 100 150d33+1821 100d10+85 28d3+38 slash
+-37 -37 -37 -16
+EFHKR AE B F
+stand stand male 3000
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 17600 100~
+#17517
+citizen wander~
+A wandering citizen~
+A citizen wanders the streets, surveying the shops.
+~
+A snooty citizen of Silvanost, this elf wanders the streets, running
+errands for the family.  
+~
+silvanesti~
+AG JY 300 0
+15 15 31d5+152 15d10+85 5d3+12 slap
+0 0 0 2
+N A B GZ
+stand stand male 350
+AHMV ABCDEFGHIJK M unknown 0
+#17518
+healer casoewa woman elderly~
+Casoewa~
+An elderly woman paces about, blessing all visitors.
+~
+Dressed in a set of spotless white robes, this elderly lady wears a
+peaceful expression upon her face.  Wise beyond her years, she spends her
+days in humble service to Paladine, known to the Silvanesti as E'Li.  
+~
+silvanesti~
+ABQa J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 wrath
+-91 -91 -91 -60
+0 ABCDLQ 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17519
+mage young~
+A young mage~
+A young mage studying his spells stands here.
+~
+~
+silvanesti~
+AU J 0 0
+3 3 7d2+31 3d10+85 1d3+6 magic
+7 7 7 7
+0 AB B 0
+stand stand male 200
+AHMV ABCDEFGHIJK M unknown 0
+#17520
+ranger young~
+A young ranger~
+A young ranger perfecting his archery stands here.
+~
+This young ranger is training to someday take his place among the Kirath;
+scouts, trackers and protectors of the Silvanesti woodlands.  He looks up
+briefly as you pass, then returns to his target practice.  
+~
+silvanesti~
+AU J 0 0
+5 5 11d2+51 5d10+85 1d5+7 pierce
+5 5 5 7
+0 A B 0
+stand stand male 350
+AHMV ABCDEFGHIJK M unknown 0
+#17521
+bard young~
+A young bard~
+A young bard learning stories of times forgotten stands here.
+~
+~
+silvanesti~
+AU J 0 0
+7 7 15d2+71 7d10+85 2d3+8 scratch
+4 4 4 6
+0 A B 0
+stand stand female 400
+AHMV ABCDEFGHIJK M unknown 0
+#17522
+cleric young~
+A young cleric~
+A young cleric devoting himself to prayer is kneeling here.
+~
+~
+silvanesti~
+AU J 1000 0
+10 10 21d3+102 10d10+85 3d3+10 magic
+2 2 2 4
+0 AB B 0
+sit stand male 500
+AHMV ABCDEFGHIJK M unknown 0
+#17523
+sylena shopkeeper~
+Sylena~
+A long raven-haired beauty waits to conduct business with you.
+~
+A true beauty, yet full of mystery, Sylena wishes to follow in her
+Masters' footsteps of ink work.  She has hopes of bringing a new form of
+work to the shop when she takes over some time in the future.  
+~
+silvanesti~
+ABG J 0 0
+150 150 301d50+4546 150d10+85 50d3+80 slap
+-91 -91 -91 -60
+0 ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M GREET 17523 100~
+M SPEECH 17524 yes~
+#17524
+maerty~
+Maerty~
+A large bald man, covered in tattoos, watches his apprentice with pride.
+~
+Various artworks cover the body of the stout elder man.
+He is a master at his work and willing to train all apprentices who wish to learn.
+~
+silvanesti~
+AB J 850 0
+101 101 203d33+2041 101d10+85 33d3+55 slice
+-58 -58 -58 -37
+0 AB 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+M GIVE 17525 17542~
+#17525
+silvanoshei questmaster speaker~
+Silvanoshei~
+Silvanoshei, Speaker of the Stars, stands here giving out quests.
+~
+The son of Porthios and Alhana Starbreeze, Silvanoshei was chosen to take
+over the mantle of Speaker of the Stars in place of his father.  He seems
+tired and weary to those who stand before him.  
+~
+silvanesti~
+AB DFJ 0 0
+150 150 301d50+4546 150d10+85 50d3+80 divine
+-91 -91 -91 -60
+0 ABCD 0 0
+sit sit male 50000
+AHMV ABCDEFGHIJK M unknown 0
+F res B
+#17550
+spirit Silvanos~
+the spirit of Silvanos~
+The {Wspirit{x of Silvanos is floating here, moaning.
+~
+The spirit of the once great Silvanos is here, begging for its release
+from its drawn out torment by the god Chemosh who captured it on its way to
+the stars.  
+~
+silvanesti~
+ABO BDFJTUZ 1000 0
+95 95 191d31+1919 95d10+85 31d3+52 wrath
+-54 -54 -54 -35
+EFGHKR ABDILMQR P HNO
+stand stand male 4500
+AHMV 0 M unknown 0
+F res B
+F par ABCDEFGHIJK
+#17600
+silvanesti guard~
+a Silvanesti guard~
+A silvanesti guard stands here looking tall and proud.
+~
+The Silvanesti guard is one of Silvanost's finest.  Be careful not to
+make him mad.  
+~
+silvanesti~
+AGT DJNV 1000 0
+85 85 128d28+1547 85d10+85 24d3+33 punch
+-31 -31 -31 -13
+EFKT 0 ABN 0
+stand stand male 2000
+AHMV ABCDEFGHIJK M unknown 0
+M GRALL 17600 100~
+#0
+
+
+
+#OBJECTS
+#17501
+silvanesti steel blade sword~
+a Silvanesti steel blade~
+A long slender sword made from steel with a Silvanesti insignia lies here.~
+steel~
+weapon A 0 ANc
+sword 5 8 slash 0
+40 6 50000 P
+A
+19 1
+A
+18 1
+#17502
+silvanesti steel mace~
+a Silvanesti steel mace~
+A ball mace made from steel with a Silvanesti insignia lies here.~
+steel~
+weapon A 0 ANc
+mace 2 22 pound 0
+40 5 50000 P
+A
+19 1
+A
+18 1
+#17503
+silvanesti steel dagger~
+a Silvanesti steel dagger~
+A slender steel dagger with a Silvanesti insignia lies here.~
+steel~
+weapon A 0 ANX
+dagger 5 8 pierce 0
+40 2 50000 P
+A
+19 1
+A
+18 1
+#17504
+silvanesti steel breastplate breast plate~
+a Silvanesti steel breastplate~
+A steel breastplate with a Silvanesti insignia lies here.~
+steel~
+armor A 0 ADc
+CD BD AE ABC C
+40 18 50000 P
+A
+19 1
+A
+18 1
+#17505
+silvanesti plate steel bracer~
+a Silvanesti steel bracer~
+A steel bracer lies here with the Silvanesti insignia.~
+steel~
+armor A 0 AMc
+ABD AD E BC C
+40 7 30000 P
+A
+18 1
+A
+19 2
+#17506
+silvanesti plate steel helm~
+a Silvanesti steel helm~
+A steel helm with the Silvanesti insignia lies here.~
+steel~
+armor A 0 AEc
+ABD AD E BC C
+40 10 40000 P
+A
+20 -1
+A
+19 2
+#17507
+silvanesti plate steel leg guard~
+a pair of Silvanesti steel leg guards~
+A pair of steel leg guards with a Silvanesti insignia lie here.~
+steel~
+armor A 0 AFc
+CD BD AE ABC C
+40 11 40000 P
+A
+19 1
+A
+18 1
+A
+2 2
+#17508
+silvanesti plate steel arm guards~
+a pair of Silvanesti steel arm guards~
+A pair of steel arm guards with a Silvanesti insignia lie here.~
+steel~
+armor A 0 AIc
+CD BD AE ABC C
+40 10 40000 P
+A
+19 1
+A
+18 1
+A
+1 1
+#17509
+silvanesti plate steel gauntlets~
+a pair of Silvanesti steel gauntlets~
+A pair of steel gauntlets with a Silvanesti insignia lie here.~
+steel~
+armor A 0 AHc
+BD D ABCD AC C
+40 5 70000 P
+A
+1 2
+A
+19 2
+A
+18 2
+#17510
+silvanesti steel shield~
+a Silvanesti steel shield~
+A steel shield with the Silvanesti insignia lies here.~
+steel~
+armor A 0 AJc
+ACD ACD ACD AD 0
+40 12 60000 P
+A
+20 -1
+A
+19 1
+A
+18 2
+A
+17 -10
+#17511
+silvanesti steel glaive polearm~
+a Silvanesti steel glaive~
+A steel glaive with a Silvanesti insignia lies here.~
+steel~
+weapon A 0 ANZ
+polearm 5 8 slice F
+30 12 50000 P
+A
+19 1
+A
+18 1
+#17512
+steel blade sword~
+a steel blade~
+A steel blade lies here.~
+steel~
+weapon 0 0 ANc
+sword 5 5 slash 0
+30 6 2000 P
+#17513
+steel mace~
+a steel mace~
+A steel mace lies here.~
+steel~
+weapon 0 0 ANc
+mace 5 5 pound 0
+30 6 2000 P
+#17514
+steel dagger~
+a steel dagger~
+A steel dagger lies here.~
+steel~
+weapon 0 0 ANc
+dagger 5 5 pierce 0
+30 2 2000 P
+#17515
+steel bracer~
+a steel bracer~
+A steel bracer lies here.~
+steel~
+armor 0 0 AMc
+ABC AC ABD AB 0
+30 7 500 P
+#17516
+steel helm~
+a steel helm~
+A steel helm lies here.~
+steel~
+armor 0 0 AEc
+ABC AC ABD AB 0
+30 13 1000 P
+#17517
+steel leg guards~
+a pair of steel leg guards~
+A pair of steel leg guards lay here.~
+steel~
+armor A 0 AFc
+D BC CD AB 0
+30 13 1000 P
+A
+2 1
+#17518
+steel arm guards~
+a pair of steel arm guards~
+A pair of steel arm guards lay here.~
+steel~
+armor A 0 AIc
+D BC CD AB 0
+30 10 1000 P
+A
+1 1
+#17519
+steel breastplate breast plate~
+a steel breastplate~
+A steel breastplate lies here.~
+steel~
+armor 0 0 ADc
+D BC CD AB 0
+30 20 2000 P
+#17520
+steel shield~
+a steel shield~
+A steel shield lies here.~
+steel~
+armor A 0 AJc
+CD CD CD AB 0
+30 6 2500 P
+A
+19 1
+#17521
+steel gauntlets~
+a pair of steel gauntlets~
+A pair of steel gauntlets lay here.~
+steel~
+armor A 0 AHc
+ABC AC ABD AB C
+30 7 3000 P
+A
+19 1
+A
+1 1
+#17522
+potion recall~
+a potion of recall~
+A blue potion lies here.~
+glass~
+potion GS 0 A
+101 'word of recall' 'reserved' 'reserved' 'reserved'
+15 1 3000 P
+#17523
+potion pass door~
+a potion of pass door~
+A translucent potion lies here.~
+glass~
+potion GS 0 A
+101 'pass door' 'reserved' 'reserved' 'reserved'
+60 1 5000 P
+#17524
+potion fly flying~
+a potion of flying~
+A white potion lies here.~
+glass~
+potion GS 0 A
+30 'levitate' 'reserved' 'reserved' 'reserved'
+50 1 2500 P
+#17525
+potion armor armoring~
+a potion of armor~
+A grey potion lies here.~
+glass~
+potion GS 0 A
+50 'armor' 'shield' 'reserved' 'reserved'
+70 1 10000 P
+#17526
+potion invisible invisibility invis~
+a potion of invisibility~
+A clear potion lies here.~
+glass~
+potion GS 0 A
+25 'invisibility' 'reserved' 'reserved' 'reserved'
+45 1 2250 P
+#17527
+scroll identify~
+a scroll of identify~
+A scroll of identify lies here.~
+paper~
+scroll GS 0 AO
+101 'identify' 'reserved' 'reserved' 'reserved'
+30 1 800 P
+#17528
+scroll faerie fire~
+a scroll of faerie fire~
+A scroll of faerie fire lies here.~
+paper~
+scroll GS 0 AO
+80 'incendiary cloud' 'reserved' 'reserved' 'reserved'
+40 1 5000 P
+#17529
+silver ring protection~
+a {CSilver{x ring of {Wprotection{x~
+A small silver ring lies here in the dirt.~
+silver~
+armor AGK 0 ABc
+BC BC BC AC 0
+50 1 50000 P
+A
+19 2
+A
+18 1
+A
+20 -1
+#17530
+copper wand of fireballs~
+a wand of fireballs~
+A copper wand lies here.~
+copper~
+wand G 0 AO
+25 5 5 'fireball' 0
+45 3 3000 P
+#17531
+an oil lamp~
+an oil lamp~
+An oil lamp sits here, lighting up the room.~
+brass~
+light A 0 AO
+0 0 CFG 0 0
+0 2 100 P
+#17532
+skeleton key~
+a skeleton key~
+A skeleton key lies here.~
+steel~
+key 0 0 A
+0 0 0 0 0
+50 2 10000 P
+#17533
+small leather backpack~
+a small leather backpack~
+A small leather backpack lies here.~
+leather~
+container S 0 AS
+75 A 0 100 80
+30 10 1000 P
+#17534
+steel canteen~
+a steel canteen~
+A steel canteen lies here.~
+steel~
+drink 0 0 AO
+5 5 'water' 0 0
+0 5 50 P
+#17535
+sleeping bag~
+a sleeping bag~
+A sleeping bag is stretched out on the floor here.~
+cloth~
+furniture S 0 A
+B DFGHIJ BEHL AC AC
+35 8 3000 P
+#17536
+biscuit~
+a biscuit~
+A biscuit lies here.~
+unknown~
+food S 0 A
+AB AB 0 0 0
+0 1 12 P
+#17537
+loaf bread~
+a loaf of bread~
+A loaf of bread lies here.~
+unknown~
+food S 0 A
+AC AB 0 0 0
+0 3 30 P
+#17538
+chunk venison~
+a chunk of venison~
+A chunk of venison lies here.~
+flesh~
+food S 0 A
+D AB 0 0 0
+0 2 40 P
+#17539
+sizzling steak~
+a sizzling steak~
+A sizzling steak lies here.~
+flesh~
+food S 0 A
+BD AC 0 0 0
+0 1 750 P
+#17540
+cinnamon roll~
+a cinnamon roll~
+A cinnamon roll lies here.~
+unknown~
+pill S 0 A
+25 'haste' 'reserved' 'reserved' 'reserved'
+25 1 25 P
+#17541
+solid steel safe~
+a solid steel safe~
+A solid steel safe is set into the wall at shoulder height.~
+steel~
+container O 0 0
+100 ACD 17532 100 100
+0 1000 0 P
+#17542
+tattoo coupon~
+a tattoo coupon~
+A tattoo coupon lies here.~
+paper~
+trash SV 0 A
+0 0 0 0 0
+0 1 0 P
+#17543
+map silvanost~
+a map of Silvanost~
+A neat map printed in silver ink is here.~
+vellum~
+map SU 0 AO
+0 0 0 0 0
+0 1 2000 P
+E
+silvanost~
+*MAP OF SILVANOST*
+
+                          X
+  1 = Armor               |
+  2 = Weapons             |
+  3 = Practice            |
+  4 = Train        +------+------+
+  5 = Maps         |      |      |
+  6 = Pets         |    9-|-10   |
+                   |      |      |
+     +------+------+------+------+------+------+
+     |      |      |      |      |      |      |
+     |      | 7  6 |    +-+-+    |      |    4 |
+     |      | |  | |    | | |    |      |    | |
+ X---+------+------+----+-+-+----+------+------+---X
+     |      | |  | |    | | |    |      | |    |
+     |      | 8  5 |    +-+-+    |      | 3    |
+     |      |      |      |      |      |      |
+     +------+------+------+------+------+------+
+                   |      |      |
+  7 = Potions      |    1-|-2    |
+  8 = Magic Items  |      |      |
+  9 = Bakery       +------+------+
+ 10 = General             |
+                          |
+                          |
+                          X
+~
+E
+map~
+*MAP OF SILVANOST*
+
+                          X
+  1 = Armor               |
+  2 = Weapons             |
+  3 = Practice            |
+  4 = Train        +------+------+
+  5 = Maps         |      |      |
+  6 = Pets         |    9-|-10   |
+                   |      |      |
+     +------+------+------+------+------+------+
+     |      |      |      |      |      |      |
+     |      | 7  6 |    +-+-+    |      |    4 |
+     |      | |  | |    | | |    |      |    | |
+ X---+------+------+----+-+-+----+------+------+---X
+     |      | |  | |    | | |    |      | |    |
+     |      | 8  5 |    +-+-+    |      | 3    |
+     |      |      |      |      |      |      |
+     +------+------+------+------+------+------+
+                   |      |      |
+  7 = Potions      |    1-|-2    |
+  8 = Magic Items  |      |      |
+  9 = Bakery       +------+------+
+ 10 = General             |
+                          |
+                          |
+                          X
+~
+#17544
+beaver tattoo cute~
+a tattoo of a cute {Ybeaver{x~
+The great artwork of a cute short haired little beaver.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+71 0 200000 P
+A
+18 6
+A
+19 6
+A
+13 50
+A
+3 -2
+#17545
+tattoo star~
+a tattoo of {wa shining star{x~
+A blazing star representing the nation of Silvanost.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+80 0 100000 P
+A
+18 3
+A
+19 3
+A
+17 -10
+#17546
+tattoo aspen leaf~
+a tattoo of an {Gaspen leaf{x~
+A vibrant green aspen leaf, symbolizing the long life and unspoken strength of the Silvanesti.~
+ink~
+tattoo MPSUYZ 0 AR
+0 0 0 0 0
+60 0 50000 P
+A
+5 2
+A
+13 20
+A
+1 2
+#17547
+tattoo royal guard sithel~
+a tattoo of the {rRoyal Guard {xof the{r Sithel{x~
+This artwork marks the wearer as an honorary member of the Royal Guard.~
+ink~
+tattoo MSUYZ 0 ARc
+0 0 0 0 0
+60 0 250000 P
+A
+13 100
+A
+18 5
+A
+19 8
+A
+2 3
+A
+20 -3
+#17550
+tarnished silver breast plate~
+a tarnished silver breastplate~
+A tarnished silver breastplate lies here.~
+silver~
+armor AIK 0 ADY
+DE BCE ABDE ABE C
+100 17 100 P
+A
+20 -1
+A
+19 4
+A
+18 4
+#17551
+tarnished silver plate vambraces~
+a pair of tarnished silver vambraces~
+A pair of tarnished silver vambraces lay here.~
+silver~
+armor AIK 0 AIY
+E BCD ABE ABD C
+60 7 100 P
+A
+20 -1
+A
+1 2
+A
+18 2
+A
+19 3
+#17552
+tarnished silver plate greaves~
+a pair of tarnished silver greaves~
+A pair of tarnished silver greaves lay ehre.~
+silver~
+armor AIK 0 AFY
+ABCE ACE BDE ABE C
+100 10 100 P
+A
+2 2
+A
+20 -1
+A
+19 9
+A
+18 3
+#17553
+tarnished silver buckler~
+a tarnished silver buckler~
+A tarnished silver buckler lies here.~
+silver~
+armor AIK 0 AJc
+ACE ACE CE AE C
+90 2 100 P
+A
+18 6
+A
+19 6
+A
+1 1
+A
+20 -1
+#17554
+tarnished silver axe~
+a tarnished silver axe~
+A tarnished silver axe lies here.~
+silver~
+weapon AI 0 ANZ
+axe 9 14 cleave DOR
+90 6 100 P
+#17555
+tarnished silver plate helm~
+a tarnished silver helm~
+A tarnished silver helm lies here.~
+silver~
+armor AIK 0 AEY
+BE E ACE BCD C
+75 10 100 P
+A
+19 4
+A
+18 3
+A
+20 -1
+#17556
+coffin tomb crystal~
+the Crystal Tomb~
+A clear coffin rests in the center of the room.~
+crystal~
+container O 0 P
+1 ABCD 17559 2 100
+100 0 0 P
+#17557
+shroud piece~
+a piece of shroud~
+A piece of ceremonial burial shroud lies here.~
+linen~
+container IKP 0 AO
+2 ABCD 17560 1 75
+100 2 300000 P
+#17558
+sithel council bracer~
+a Bracer of the Sithel Council~
+A bracer representing the Sithel Council lies here.~
+dyed leather~
+armor AIKSY 0 AMY
+ACF BCF BCF DF 0
+115 2 250000 P
+A
+13 200
+A
+24 -10
+A
+18 8
+A
+19 8
+A
+1 3
+A
+12 100
+E
+inside~
+To the wise and all knowing, Silvanos
+ 
+May your wisdom guide our people without flaw.
+~
+#17559
+crystal key~
+a crystal key~
+A crystal key lies here.~
+crystal~
+key AS 0 AO
+0 0 0 0 0
+100 1 1 P
+#17560
+wooden key~
+a small wooden key~
+A small wooden key lies here~
+wood~
+key S 0 A
+0 0 0 0 0
+100 1 0 P
+#17651
+pit~
+a pit of donations~
+A pit of donations.~
+stone~
+container O 0 P
+100000 0 0 100000 50
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#17501
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry those
+within the city back to the forest of Silvanesti.
+~
+0 1024 1
+D0
+~
+~
+0 0 17502
+D2
+~
+~
+0 0 10143
+S
+#17502
+Lorac St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17503
+D2
+~
+~
+0 0 17501
+S
+#17503
+Intersection of Lorac St. and Ironfeld Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17504
+D1
+~
+~
+0 0 17588
+D2
+~
+~
+0 0 17502
+D3
+~
+~
+0 0 17564
+S
+#17504
+Lorac St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17505
+D1
+~
+~
+0 0 17622
+D2
+~
+~
+0 0 17503
+D3
+~
+~
+0 0 17623
+S
+#17505
+Intersection at Lorac St. and Autumn Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17506
+D1
+~
+~
+0 0 17560
+D2
+~
+~
+0 0 17504
+D3
+~
+~
+0 0 17558
+S
+#17506
+Before Quinari Palace~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.
+~
+0 262144 1
+D0
+~
+~
+0 0 17507
+D1
+~
+~
+0 0 17645
+D2
+~
+~
+0 0 17505
+D3
+~
+~
+0 0 17644
+S
+#17507
+South Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.  An arch to
+the north leads into the Palace Courtyard where sun streams down from the
+sky above.  While to the south, an arch rises from the marble tiles, leading
+back outside to the town.  
+~
+0 8 1
+D0
+~
+~
+0 0 17512
+D1
+~
+~
+0 0 17514
+D2
+~
+~
+0 0 17506
+D3
+~
+~
+0 0 17508
+S
+#17508
+Southwest Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.
+~
+0 8 1
+D0
+~
+~
+0 0 17509
+D1
+~
+~
+0 0 17507
+D4
+~
+~
+0 0 17629
+S
+#17509
+West Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.  An arch to
+the east leads into the Palace Courtyard where sun streams down from the sky
+above.  While to the west, an arch rises from the marble tiles, leading back
+outside to the town.  
+~
+0 8 1
+D0
+~
+~
+0 0 17510
+D1
+~
+~
+0 0 17512
+D2
+~
+~
+0 0 17508
+S
+#17510
+Northwest Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.
+~
+0 8 1
+D1
+~
+~
+0 0 17511
+D2
+~
+~
+0 0 17509
+D4
+~
+~
+0 0 17518
+S
+#17511
+North Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.  An arch to
+the south leads into the Palace Courtyard where sun streams down from the
+sky above.  While to the north, an arch rises from the marble tiles, leading
+back outside to the town.  
+~
+0 8 1
+D1
+~
+~
+0 0 17516
+D2
+~
+~
+0 0 17512
+D3
+~
+~
+0 0 17510
+S
+#17512
+Quinari Palace Courtyard~
+The palace courtyard is a splendid sight.  Vines climb up the stone walls
+of the palace.  The many colors create a whirlpool of an artistic
+masterpiece.  Roses surround bushes that take on the appearance of a
+multitude of animals and in the center there is a bush that looks like the
+great leader, Silvanos.  
+~
+0 0 1
+D0
+~
+~
+0 0 17511
+D1
+~
+~
+0 0 17513
+D2
+~
+~
+0 0 17507
+D3
+~
+~
+0 0 17509
+D5
+~
+hatch~
+1 0 17637
+S
+#17513
+East Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.  An arch to
+the west leads into the Palace Courtyard where sun streams down from the sky
+above.  While to the east, an arch rises from the marble tiles, leading back
+outside to the town.  
+~
+0 262152 1
+D0
+~
+~
+0 0 17516
+D2
+~
+~
+0 0 17514
+D3
+~
+~
+0 0 17512
+S
+#17514
+Southeast Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.
+~
+0 8 1
+D0
+~
+~
+0 0 17513
+D3
+~
+~
+0 0 17507
+D4
+~
+~
+0 0 17631
+S
+#17515
+Before Quinari Palace~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.
+~
+0 262144 1
+D0
+~
+~
+0 0 17517
+D1
+~
+~
+0 0 17643
+D3
+~
+~
+0 0 17642
+S
+#17516
+Northeast Quinari Palace, First Floor~
+The vaulted ceiling just about doubles your height and is painted with
+beautiful scenes of Silvanesti history.  You spot one section of the ceiling
+that depicts the scene of Lorac attempting to master the dragon orb.  You see
+another scene depicting the recent destruction of the forest and the efforts
+of the elves to rebuild Silvanesti.  Accompanying the paintings on the
+ceiling are the large colorful murals spanning around the inside walls of
+the palace.  The true beauty of the palace is breathtaking.  Silver
+chandeliers hang down giving light where there was once none.
+~
+0 8 1
+D2
+~
+~
+0 0 17513
+D3
+~
+~
+0 0 17511
+D4
+~
+~
+0 0 17633
+S
+#17517
+Intersection at Lorac St. and Sithel Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17521
+D1
+~
+~
+0 0 17522
+D2
+~
+~
+0 0 17515
+D3
+~
+~
+0 0 17519
+S
+#17518
+Northwest Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.  
+~
+0 8 1
+D1
+~
+~
+0 0 17634
+D2
+~
+~
+0 0 17628
+D5
+~
+~
+0 0 17510
+S
+#17519
+Sithel Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17517
+D2
+~
+~
+0 0 17678
+D3
+~
+~
+0 0 17609
+S
+#17520
+Before Quinari Palace~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.
+~
+0 0 1
+D0
+~
+~
+0 0 17643
+D1
+~
+~
+0 0 17528
+D2
+~
+~
+0 0 17645
+S
+#17521
+Lorac St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17523
+D1
+~
+~
+0 0 17626
+D2
+~
+~
+0 0 17517
+D3
+~
+~
+0 0 17627
+S
+#17522
+Sithel Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D1
+~
+~
+0 0 17549
+D3
+~
+~
+0 0 17517
+S
+#17523
+Intersection at Lorac St. and Kith-Kanan Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17524
+D1
+~
+~
+0 0 17607
+D2
+~
+~
+0 0 17521
+D3
+~
+~
+0 0 17604
+S
+#17524
+Lorac St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17525
+D2
+~
+~
+0 0 17523
+S
+#17525
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry those
+within the city back to the forest of Silvanesti.
+~
+0 1024 1
+D2
+~
+~
+0 0 17524
+S
+#17526
+Intersection at Silvanos St. and Sithas Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17574
+D1
+~
+~
+0 0 17527
+D2
+~
+~
+0 0 17576
+D3
+~
+~
+0 0 17533
+S
+#17527
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17534
+D3
+~
+~
+0 0 17526
+S
+#17528
+Intersection at Silvanos St. and Dalamar Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17566
+D1
+~
+~
+0 0 17529
+D2
+~
+~
+0 0 17568
+D3
+~
+~
+0 0 17520
+S
+#17529
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17530
+D3
+~
+~
+0 0 17528
+S
+#17530
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17531
+D3
+~
+~
+0 0 17529
+S
+#17531
+Intersection at Silvanos St. and Balif Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population. 
+~
+0 262144 1
+D0
+~
+~
+0 0 17570
+D1
+~
+~
+0 0 17532
+D2
+~
+~
+0 0 17572
+D3
+~
+~
+0 0 17530
+S
+#17532
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population. 
+~
+0 262144 1
+D1
+~
+~
+0 0 17533
+D2
+~
+~
+0 0 17621
+D3
+~
+~
+0 0 17531
+S
+#17533
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population. 
+~
+0 262144 1
+D0
+~
+~
+0 0 17620
+D1
+~
+~
+0 0 17526
+D3
+~
+~
+0 0 17532
+S
+#17534
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry those
+within the city back to the forest of Silvanesti.  
+~
+0 1024 1
+D3
+~
+~
+0 0 17527
+S
+#17535
+Before Quinari Palace~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17642
+D2
+~
+~
+0 0 17644
+D3
+~
+~
+0 0 17536
+S
+#17536
+Intersection at Silvanos St. and Porthios Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17555
+D1
+~
+~
+0 0 17535
+D2
+~
+~
+0 0 17556
+D3
+~
+~
+0 0 17537
+S
+#17537
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17639
+D1
+~
+~
+0 0 17536
+D2
+~
+~
+0 0 17641
+D3
+~
+~
+0 0 17538
+S
+#17538
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17624
+D1
+~
+~
+0 0 17537
+D2
+~
+~
+0 0 17625
+D3
+~
+~
+0 0 17539
+S
+#17539
+Intersection at Silvanos St. and Alhana Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17550
+D1
+~
+~
+0 0 17538
+D2
+~
+~
+0 0 17552
+D3
+~
+~
+0 0 17540
+S
+#17540
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17539
+D3
+~
+~
+0 0 17541
+S
+#17541
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17540
+D3
+~
+~
+0 0 17542
+S
+#17542
+Intersection at Silvanos St. and Gilthas Rd.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D0
+~
+~
+0 0 17545
+D1
+~
+~
+0 0 17541
+D2
+~
+~
+0 0 17547
+D3
+~
+~
+0 0 17543
+S
+#17543
+Silvanos St.~
+You push your way through the crowded streets of Silvanost.  The hustle
+and bustle is created by the shops that line the streets.  Magnificently
+decorated and designed buildings rise up from the ground just behind the
+portable shops.  The people here aren't very diverse.  Almost everyone is
+Silvanesti.  Probably due to the restricted access of the other population.
+~
+0 262144 1
+D1
+~
+~
+0 0 17542
+D3
+~
+~
+0 0 17544
+S
+#17544
+A wooden dock~
+A wooden dock juts out from the bank of the river, just where the river
+splits.  A barge harnessed to a sea turtle lies in the water to ferry those
+within the city back to the forest of Silvanesti.
+~
+0 1024 1
+D1
+~
+~
+0 0 17543
+S
+#17545
+Gilthas Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D0
+~
+~
+0 0 17546
+D2
+~
+~
+0 0 17542
+S
+#17546
+Gilthas Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17617
+D2
+~
+~
+0 0 17545
+S
+#17547
+Gilthas Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17542
+D2
+~
+~
+0 0 17548
+S
+#17548
+Gilthas Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17547
+D2
+~
+~
+0 0 17595
+S
+#17549
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17596
+D3
+~
+~
+0 0 17522
+S
+#17550
+Alhana Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17551
+D1
+~
+~
+0 0 17676
+D2
+~
+~
+0 0 17539
+S
+#17551
+Alhana Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17614
+D2
+~
+~
+0 0 17550
+S
+#17552
+Alhana Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17539
+D2
+~
+~
+0 0 17553
+S
+#17553
+Alhana Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17552
+D2
+~
+~
+0 0 17592
+S
+#17554
+Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17610
+D2
+~
+~
+0 0 17555
+S
+#17555
+Porthios Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17554
+D2
+~
+~
+0 0 17536
+S
+#17556
+Porthios Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17536
+D2
+~
+~
+0 0 17557
+S
+#17557
+Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17556
+D2
+~
+~
+0 0 17589
+S
+#17558
+Autumn Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17505
+D3
+~
+~
+0 0 17559
+S
+#17559
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17558
+D3
+~
+~
+0 0 17589
+S
+#17560
+Autumn Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17561
+D3
+~
+~
+0 0 17505
+S
+#17561
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17584
+D3
+~
+~
+0 0 17560
+S
+#17562
+Corner at Ironfeld Rd. and Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17563
+D1
+~
+~
+0 0 17565
+D2
+~
+~
+0 0 17682
+S
+#17563
+Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17589
+D2
+~
+~
+0 0 17562
+S
+#17564
+Ironfeld Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17503
+D3
+~
+~
+0 0 17565
+S
+#17565
+Ironfeld Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17564
+D3
+~
+~
+0 0 17562
+S
+#17566
+Dalamar Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17567
+D2
+~
+~
+0 0 17528
+S
+#17567
+Dalamar Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17596
+D2
+~
+~
+0 0 17566
+S
+#17568
+Dalamar Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses for
+the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17528
+D2
+~
+~
+0 0 17569
+S
+#17569
+{GDalamar Rd.{x~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17568
+D2
+~
+~
+0 0 17584
+D3
+~
+~
+0 0 17680
+S
+#17570
+Balif Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D0
+~
+~
+0 0 17571
+D2
+~
+~
+0 0 17531
+S
+#17571
+Balif Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17599
+D2
+~
+~
+0 0 17570
+S
+#17572
+Balif Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D0
+~
+~
+0 0 17531
+D2
+~
+~
+0 0 17573
+S
+#17573
+Balif Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17572
+D2
+~
+~
+0 0 17581
+S
+#17574
+Sithas Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D0
+~
+~
+0 0 17575
+D2
+~
+~
+0 0 17526
+S
+#17575
+Sithas Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17602
+D1
+~
+~
+0 0 17686
+D2
+~
+~
+0 0 17574
+S
+#17576
+Sithas Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D0
+~
+~
+0 0 17526
+D2
+~
+~
+0 0 17577
+S
+#17577
+Sithas Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17576
+D2
+~
+~
+0 0 17578
+S
+#17578
+Corner at Sithas Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17577
+D3
+~
+~
+0 0 17579
+S
+#17579
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17578
+D3
+~
+~
+0 0 17580
+S
+#17580
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17579
+D3
+~
+~
+0 0 17581
+S
+#17581
+T-Intersection at Balif Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17573
+D1
+~
+~
+0 0 17580
+D3
+~
+~
+0 0 17582
+S
+#17582
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17581
+D3
+~
+~
+0 0 17583
+S
+#17583
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17582
+D3
+~
+~
+0 0 17584
+S
+#17584
+Intersection at Dalamar Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17569
+D1
+~
+~
+0 0 17583
+D2
+~
+~
+0 0 17585
+D3
+~
+~
+0 0 17561
+S
+#17585
+Dalamar Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17584
+D2
+~
+~
+0 0 17586
+S
+#17586
+Corner at Ironfeld Rd. and Dalamar Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17585
+D3
+~
+~
+0 0 17587
+S
+#17587
+Ironfeld Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17586
+D3
+~
+~
+0 0 17588
+S
+#17588
+Ironfeld Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D1
+~
+~
+0 0 17587
+D3
+~
+~
+0 0 17503
+S
+#17589
+Intersection at Porthios Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17557
+D1
+~
+~
+0 0 17559
+D2
+~
+~
+0 0 17563
+D3
+~
+~
+0 0 17590
+S
+#17590
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17589
+D3
+~
+~
+0 0 17591
+S
+#17591
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17590
+D3
+~
+~
+0 0 17592
+S
+#17592
+T-Intersection at Alhana Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17553
+D1
+~
+~
+0 0 17591
+D3
+~
+~
+0 0 17593
+S
+#17593
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17592
+D3
+~
+~
+0 0 17594
+S
+#17594
+Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17593
+D3
+~
+~
+0 0 17595
+S
+#17595
+Corner at Gilthas Rd. and Autumn Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17548
+D1
+~
+~
+0 0 17594
+S
+#17596
+Intersection at Dalamar Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17603
+D1
+~
+~
+0 0 17597
+D2
+~
+~
+0 0 17567
+D3
+~
+~
+0 0 17549
+S
+#17597
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17598
+D3
+~
+~
+0 0 17596
+S
+#17598
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17599
+D3
+~
+~
+0 0 17597
+S
+#17599
+T-Intersection at Balif Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17600
+D2
+~
+~
+0 0 17571
+D3
+~
+~
+0 0 17598
+S
+#17600
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17601
+D3
+~
+~
+0 0 17599
+S
+#17601
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17602
+D3
+~
+~
+0 0 17600
+S
+#17602
+Corner at Sithas Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D2
+~
+~
+0 0 17575
+D3
+~
+~
+0 0 17601
+S
+#17603
+Dalamar Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17605
+D2
+~
+~
+0 0 17596
+S
+#17604
+Kith-Kanan Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D1
+~
+~
+0 0 17523
+D3
+~
+~
+0 0 17608
+S
+#17605
+Corner at Dalamar Rd. and Kith-Kanan Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17684
+D2
+~
+~
+0 0 17603
+D3
+~
+~
+0 0 17606
+S
+#17606
+Kith-Kanan Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17605
+D3
+~
+~
+0 0 17607
+S
+#17607
+Kith-Kanan Rd.~
+You finally managed you push your way through the crowd and make it onto
+a back road.  This street is much easier to maneuver on.  Small houses
+for the Silvanost public lie along these back roads, as well as some bigger
+houses for the richer elves.  You avoid the houses, knowing that the people
+of Silvanost do not like outsiders.  Even if they are Silvanesti.
+~
+0 262144 1
+D1
+~
+~
+0 0 17606
+D3
+~
+~
+0 0 17523
+S
+#17608
+Kith-Kanan~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17604
+D3
+~
+~
+0 0 17613
+S
+#17609
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17519
+D3
+~
+~
+0 0 17610
+S
+#17610
+Intersection at Porthios Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17611
+D1
+~
+~
+0 0 17609
+D2
+~
+~
+0 0 17554
+D3
+~
+~
+0 0 17616
+S
+#17611
+Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17612
+D2
+~
+~
+0 0 17610
+S
+#17612
+Porthios Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D0
+~
+~
+0 0 17613
+D2
+~
+~
+0 0 17611
+S
+#17613
+Corner at Porthios Rd. and Kith-Kanan Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17608
+D2
+~
+~
+0 0 17612
+S
+#17614
+T-Intersection at Alhana Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17615
+D2
+~
+~
+0 0 17551
+D3
+~
+~
+0 0 17619
+S
+#17615
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17616
+D3
+~
+~
+0 0 17614
+S
+#17616
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17610
+D3
+~
+~
+0 0 17615
+S
+#17617
+Corner at Gilthas Rd. and Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17618
+D2
+~
+~
+0 0 17546
+S
+#17618
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17619
+D3
+~
+~
+0 0 17617
+S
+#17619
+Sithel Rd.~
+This street is much easier to maneuver on than the larger streets.  Small
+houses for the Silvanost public lie along these back roads, as well as some
+bigger houses for the richer elves.  You avoid the houses, knowing that the
+people of Silvanost do not like outsiders.  Even if they are Silvanesti.  
+~
+0 262144 1
+D1
+~
+~
+0 0 17614
+D3
+~
+~
+0 0 17618
+S
+#17620
+The training center~
+You see various Silvanesti elves working on their endurance on different
+training machines as well as puzzles and books to increase the power of
+their minds.  You set your mind to what you came here for and approach the
+training master.  
+~
+0 1024 0
+D2
+~
+~
+0 0 17533
+S
+#17621
+The spell and skills arena~
+You walk into a giant arena filled with Silvanesti elves working on
+skills and spells.  They appear hard at work and you realize that’s why you
+came here as well.  You turn to one who looks like the owner of the arena
+and he points you to the trainer for your class.  
+~
+0 1024 0
+D0
+~
+~
+0 0 17532
+S
+#17622
+The weapons shop~
+The shop's walls are covered with assorted weapons made from steel forged
+by Silvanesti weaponsmiths.  The designs are very elegant, much like
+everything else made by the Silvanesti.  They take great pride in whatever
+they do.  
+~
+0 1024 0
+D3
+~
+~
+0 0 17504
+S
+#17623
+The armor shop~
+You walk up to the front counter and take a look at the objects on
+display.  You see various shining steel breastplates, greaves, leg guards,
+vambracers, bracers and other armor.  They all have the Silvanesti design to
+them.  A few rusted pieces of armor rest up against the other side of the
+counter.  Probably someone took these in for repairs.  
+~
+0 1032 0
+D1
+~
+~
+0 0 17504
+S
+#17624
+The potion shop~
+You walk up to the counter and look over the various potions beneath the
+glass covering.  Various bottles of different shapes and sizes hold liquids
+of different colors and consistencies.  Your curiosity tempts you to buy
+each and every one of them, testing them all out.  But instead of being
+foolish, you ask what each potion does.  
+~
+0 8 0
+D2
+~
+~
+0 0 17538
+S
+#17625
+The magic shop~
+You walk up to the counter and see a young woman fussing with a small
+gadget.  She notices you and then goes back to her work.  You notice she is
+still watching you out of the corner of her eye.  Probably best not to try
+and steal anything.  She is a mage, after all.  They are dangerous even when
+inexperienced, possibly even more so.  
+~
+0 1024 0
+D0
+~
+~
+0 0 17538
+S
+#17626
+The general store~
+The stench of lamp oil fills the room and nearly numbs your sense of
+smell.  In a hurry to leave this place, you approach the counter and talk to
+the woman in charge.  
+~
+0 1024 0
+D3
+~
+~
+0 0 17521
+S
+#17627
+The bakery~
+The sweet aroma of cinnamon rolls and other Silvanesti delicacies drew
+you into the bakery.  You realize that you are actually quite hungry, how
+convenient for the baker.  You turn your attention to her ask her how much
+each product costs.  
+~
+0 1024 0
+D1
+~
+~
+0 0 17521
+S
+#17628
+West Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D0
+~
+~
+0 0 17518
+D2
+~
+~
+0 0 17629
+D4
+~
+~
+0 0 17635
+S
+#17629
+Southwest Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D0
+~
+~
+0 0 17628
+D1
+~
+~
+0 0 17630
+D5
+~
+~
+0 0 17508
+S
+#17630
+South Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D1
+~
+~
+0 0 17631
+D3
+~
+~
+0 0 17629
+D4
+~
+~
+0 0 17635
+S
+#17631
+Southeast Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D0
+~
+~
+0 0 17632
+D3
+~
+~
+0 0 17630
+D5
+~
+~
+0 0 17514
+S
+#17632
+East Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.  A soft glow can be seen emanating from an alcove to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 17633
+D2
+~
+~
+0 0 17631
+D3
+~
+~
+0 0 17646
+D4
+~
+~
+0 0 17635
+S
+#17633
+Northeast Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D2
+~
+~
+0 0 17632
+D3
+~
+~
+0 0 17634
+D5
+~
+~
+0 0 17516
+S
+#17634
+North Quinari Palace, Second Floor~
+Slender windows, designed for archers in times of defense, allow soft
+moonlight to illuminate the walkway that lines the wall.  Standing high
+above the tiered dais below, any gathering or ceremony can be watched in
+grand view.  Murals along the walls hold the constellations forever within
+their gaze.
+~
+0 0 0
+D1
+~
+~
+0 0 17633
+D3
+~
+~
+0 0 17518
+D4
+~
+~
+0 0 17635
+S
+#17635
+The Speaker of the Stars' Meeting Room~
+Moonlight brightens the areas of this room that the candles upon the
+walls seem unable to.  The table that adorns the middle of the room is oddly
+shaped, yet fully functional for its purpose.  The table is shaped like the
+crescent moon, with a star connecting the meeting points of the moon.  A
+chair has been set around the moon for each member of the Silveth, or high
+council.  The star is set by 3 chairs, One for the Speaker of the Stars. 
+The others are for upcoming heirs to throne.  Tapestries among the walls show
+the stories of the past speakers.  
+~
+0 0 0
+D4
+~
+~
+1 0 17636
+D5
+~
+~
+0 0 17628
+S
+#17636
+The Speaker of the Stars' Private Room~
+This is the private room of Lorac, Speaker of the Stars.  The room is
+splendidly decorated with paintings, sculptures and silver antiques.  A
+four-post bed constructed from dark oak occupies the center of the room, its
+lacy curtains drooping down just enough to obscure whoever (or whatever)
+would be on the bed.  On the left side of the room is a large dresser. 
+Behind you is the door.  
+~
+0 0 0
+D5
+~
+~
+1 0 17635
+S
+#17637
+The entrance to The Crystal Tomb~
+The pathway leading down, is enshrouded in darkness so as not to draw
+attention to itself.  The walls are incredibly smooth to touch, as if
+polished by an unknown source.  The stairway continues to lead down, to
+where a strange light can be seen at the end of the passage.  
+~
+0 0 0
+D4
+~
+~
+1 0 17512
+D5
+~
+~
+0 0 17638
+S
+#17638
+The Crystal Tomb of Silvanos~
+A strange light, originating from seemingly nowhere, illuminates this
+dark catacomb.  The room is made entirely of crystal clear quartz.  Recesses
+have been carved into the walls to serve as resting places for past
+nobility.  In the center is a large glass tomb, with a plaque labeled across
+it lid, reading, Silvanos.  The tomb is empty of its occupant, yet something
+appears to have remained inside, underneath a ceremonial burial shroud.  
+~
+0 8 0
+D4
+~
+~
+0 0 17637
+S
+#17639
+The pet shop~
+Manure and other types of animal excrement fills the room with an
+unpleasant stench.  Stalls with different animals line the hall and at the
+end of the hall is a small counter where you may purchase an animal to help
+you in your travels.  
+~
+0 5120 0
+D2
+~
+~
+0 0 17537
+S
+#17640
+Silvanesti Pet Shop Loading Room~
+This is the room where the Silvanesti pet shop pets load.  
+~
+0 32772 0
+S
+#17641
+The map shop~
+Maps and charts hang down from the walls.  Guidebooks and brochures fill
+the shelves surrounding you.  The clutter in this room is amazing.  You have
+to shuffle through mounds of paper and parchment just to get to the counter.
+~
+0 1024 0
+D0
+~
+~
+0 0 17537
+S
+#17642
+{GBefore Quinari Palace{x~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.  
+~
+0 0 0
+D1
+~
+~
+0 0 17515
+D2
+~
+~
+0 0 17535
+S
+#17643
+{GBefore Quinari Palace{x~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.  
+~
+0 0 0
+D0
+~
+~
+1 0 17651
+D2
+~
+~
+0 0 17520
+D3
+~
+~
+0 0 17515
+S
+#17644
+{GBefore Quinari Palace{x~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.  
+~
+0 0 0
+D0
+~
+~
+0 0 17535
+D1
+~
+~
+0 0 17506
+D3
+~
+~
+0 0 17650
+S
+#17645
+{GBefore Quinari Palace{x~
+You stand before the magnificent Quinari Palace.  The silver arch in
+front of you allows entrance to the inner part of the palace.  It was built
+by Sithel in memory of his father, Silvanos.  It is said that there is a
+crystal tomb hidden somewhere in the palace.  
+~
+0 0 0
+D0
+~
+~
+0 0 17520
+D3
+~
+~
+0 0 17506
+S
+#17646
+Shrine of the White Moon~
+This softly lit room has been designed to align with the movements of the
+white moon across the sky, capturing and reflecting its silvery beams.  A
+pristine altar of purest white marble sits in the center, humming with the
+essence of white magic.  Here, elven students of magic come to meditate and
+offer their lives and prayers to Solinari.  
+~
+0 8388616 47
+D1
+~
+~
+0 0 17632
+S
+#17650
+The Temple of E'Li~
+The landscaping here is extraordinary.  The center of the temple is
+surrounded by large bushes that have been magically shaped in honor of the
+Gods of Good, as well as those that represent nature.  Among these, stands a
+peaceful looking elderly woman, blessing all who pass by.  Before her is a
+pit of sorts that visitors have placed offerings in for those of need and to
+pay homage to the Gods.  In the center of this temple room, stands a very
+large statue of a platinum Dragon.  
+{x
+( * You may go DOWN to newbie school if level 5 or below * )
+~
+0 8651780 31
+E
+platinum~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+E
+dragon~
+This large statue is of a Dragon, but appears to be slightly different in
+design, than what typical Dragons look like.  The statue is made out of pure
+platinum, to represent the Father of Good, Paladine, as he would appear in
+his Dragon form.  The statue has a slight glow to it, and one could almost
+swear that the statue was peering down at them, smiling ever so elegantly.
+The base of the statue is made from stone, and has some sort of writing
+etched into it.  Upon close examination, it reads...
+{x
+{x             'My devoted children. Repent your sins, and I shall
+{x             grant you divine favor. Speak thy words aloud, and I 
+{x                              shall hear you'
+{x
+{x             Father of Dragons, I repent and ask for forgiveness!
+~
+D1
+~
+~
+0 0 17644
+D5
+~
+~
+0 0 3700
+S
+#17651
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17656
+D1
+~
+~
+0 0 17652
+D2
+~
+~
+1 0 17643
+S
+#17652
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17657
+D1
+~
+~
+0 0 17653
+D3
+~
+~
+0 0 17651
+S
+#17653
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17658
+D1
+~
+~
+0 0 17654
+D3
+~
+~
+0 0 17652
+S
+#17654
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17659
+D1
+~
+~
+0 0 17655
+D3
+~
+~
+0 0 17653
+S
+#17655
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17660
+D3
+~
+~
+0 0 17654
+S
+#17656
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17661
+D1
+~
+~
+0 0 17657
+D2
+~
+~
+0 0 17651
+S
+#17657
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17662
+D1
+~
+~
+0 0 17658
+D2
+~
+~
+0 0 17652
+D3
+~
+~
+0 0 17656
+S
+#17658
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17663
+D1
+~
+~
+0 0 17659
+D2
+~
+~
+0 0 17653
+D3
+~
+~
+0 0 17657
+S
+#17659
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17664
+D1
+~
+~
+0 0 17660
+D2
+~
+~
+0 0 17654
+D3
+~
+~
+0 0 17658
+S
+#17660
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17665
+D2
+~
+~
+0 0 17655
+D3
+~
+~
+0 0 17659
+S
+#17661
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17666
+D1
+~
+~
+0 0 17662
+D2
+~
+~
+0 0 17656
+S
+#17662
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17667
+D1
+~
+~
+0 0 17663
+D2
+~
+~
+0 0 17657
+D3
+~
+~
+0 0 17661
+S
+#17663
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17668
+D1
+~
+~
+0 0 17664
+D2
+~
+~
+0 0 17658
+D3
+~
+~
+0 0 17662
+S
+#17664
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17669
+D1
+~
+~
+0 0 17665
+D2
+~
+~
+0 0 17659
+D3
+~
+~
+0 0 17663
+S
+#17665
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17670
+D2
+~
+~
+0 0 17660
+D3
+~
+~
+0 0 17664
+S
+#17666
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17671
+D1
+~
+~
+0 0 17667
+D2
+~
+~
+0 0 17661
+S
+#17667
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17672
+D1
+~
+~
+0 0 17668
+D2
+~
+~
+0 0 17662
+D3
+~
+~
+0 0 17666
+S
+#17668
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17673
+D1
+~
+~
+0 0 17669
+D2
+~
+~
+0 0 17663
+D3
+~
+~
+0 0 17667
+S
+#17669
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17674
+D1
+~
+~
+0 0 17670
+D2
+~
+~
+0 0 17664
+D3
+~
+~
+0 0 17668
+S
+#17670
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D0
+~
+~
+0 0 17675
+D2
+~
+~
+0 0 17665
+D3
+~
+~
+0 0 17669
+S
+#17671
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D1
+~
+~
+0 0 17672
+D2
+~
+~
+0 0 17666
+S
+#17672
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D1
+~
+~
+0 0 17673
+D2
+~
+~
+0 0 17667
+D3
+~
+~
+0 0 17671
+S
+#17673
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D1
+~
+~
+0 0 17674
+D2
+~
+~
+0 0 17668
+D3
+~
+~
+0 0 17672
+S
+#17674
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D1
+~
+~
+0 0 17675
+D2
+~
+~
+0 0 17669
+D3
+~
+~
+0 0 17673
+S
+#17675
+{GThe Gardens of Education{x~
+The grassy areas about his garden have been designated for training to
+all young elves.  Teachers stand about schooling the Silvanesti children in
+different areas of combat and worldly educations.  The makeshift school is
+used to train all classes in various arts of combat and defense.  
+~
+0 0 0
+D2
+~
+~
+0 0 17670
+D3
+~
+~
+0 0 17674
+S
+#17676
+{GThe Warriors Barracks{x~
+An assortment of weapons and armor line the walls of this building that
+is used as the training grounds for all up and coming Royal Guards.  Several
+bunks are occupied by those members of the guard that are off duty.  Areas
+have been marked off for different forms of combat training amid the
+building.  
+~
+0 8 0
+D1
+~
+~
+0 0 17677
+D3
+~
+~
+0 0 17550
+S
+#17677
+{GThe Warriors Barracks{x~
+An assortment of weapons and armor line the walls of this building that
+is used as the training grounds for all up and coming Royal Guards.  Several
+bunks are occupied by those members of the guard that are off duty.  Areas
+have been marked off for different forms of combat training amid the
+building.  
+~
+0 0 0
+D3
+~
+~
+0 0 17676
+S
+#17678
+{GThe Bard's Inn{x~
+Hearty laughter and loud applauds can be heard among the crowd that
+gathers amongst the inn.  Bands of bards gather here daily to trade verse
+and lore amongst their fellow storytellers in hopes of keeping the tales of
+days long past alive.  Never a dull night is had among the inn's visitors. 
+Stories of heroism and legends of fantasy wait to be passed down to the
+newest of bards that enter the inn in search of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 17519
+D2
+~
+~
+0 0 17679
+S
+#17679
+{GThe Bard's Inn{x~
+Hearty laughter and loud applauds can be heard among the crowd that
+gathers amongst the inn.  Bands of bards gather here daily to trade verse
+and lore amongst their fellow storytellers in hopes of keeping the tales of
+days long past alive.  Never a dull night is had among the inn's visitors. 
+Stories of heroism and legends of fantasy wait to be passed down to the
+newest of bards that enter the inn in search of them.  
+~
+0 0 0
+D0
+~
+~
+0 0 17678
+S
+#17680
+{GThe Mage Guild{x~
+Sanctioned by the Wizards of High Sorcery, this guild is an outpost of
+teaching for any and all who have been blessed by gods with talents of the
+arcane arts.  Spell components and books line the bookshelves that seemingly
+clutter the walls.  Fragrant smells of rose pedals intertwine with the
+pungent odor of things best left unsaid.  Study tables are scattered about
+more as much privacy as the small building will allow.  
+~
+0 0 0
+D1
+~
+~
+0 0 17569
+D2
+~
+~
+0 0 17681
+S
+#17681
+{GThe Mage Guild{x~
+Sanctioned by the Wizards of High Sorcery, this guild is an outpost of
+teaching for any and all who have been blessed by gods with talents of the
+arcane arts.  Spell components and books line the bookshelves that seemingly
+clutter the walls.  Fragrant smells of rose pedals intertwine with the
+pungent odor of things best left unsaid.  Study tables are scattered about
+more as much privacy as the small building will allow.  
+~
+0 0 0
+D0
+~
+~
+0 0 17680
+S
+#17682
+{GThe Ranger Station{x~
+Walls adorned with various bows and swords, give the room the image of
+its true nature.  A training ground for those warriors’ spirits who feel
+compelled to protect the forests.  Various maps of the Silvanesti lands and
+those surrounding are scattered across tabletops.  A few pieces of camping
+gear are piled in the corner for those new recruits that are not yet used to
+the harsh weathers of the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 17562
+D3
+~
+~
+0 0 17683
+S
+#17683
+{GThe Ranger Station{x~
+Walls adorned with various bows and swords, give the room the image of
+its true nature.  A training ground for those warriors’ spirits who feel
+compelled to protect the forests.  Various maps of the Silvanesti lands and
+those surrounding are scattered across tabletops.  A few pieces of camping
+gear are piled in the corner for those new recruits that are not yet used to
+the harsh weathers of the forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 17682
+S
+#17684
+{GThe Dagger Tavern{x~
+Dark shadows consume the room more than the light of the tapers can
+banish.  The patrons of the tavern look upon new visitors as well as each
+other with disdain and distrust.  Recessed upon the boundaries of the city,
+the tavern serves as a gathering point for those that have taken up the
+skills of thievery.  Mercenary and robbers alike can be found here drinking
+away their worries of the authorities.  
+~
+0 0 0
+D1
+~
+~
+0 0 17685
+D2
+~
+~
+0 0 17605
+S
+#17685
+{GThe Dagger Tavern{x~
+Dark shadows consume the room more than the light of the tapers can
+banish.  The patrons of the tavern look upon new visitors as well as each
+other with disdain and distrust.  Recessed upon the boundaries of the city,
+the tavern serves as a gathering point for those that have taken up the
+skills of thievery.  Mercenary and robbers alike can be found here drinking
+away their worries of the authorities.  
+~
+0 0 0
+D3
+~
+~
+0 0 17684
+S
+#17686
+{GInk Rush Tattoo Shop{x~
+Various instruments are scattered about on a nearby table and a lone
+chair sits in the middle of the room.  Artworks from different parts of
+Krynn hang on the wall for customers to choose from.  A gentleman stands
+near the back training his apprentice in the art form of applying tattoos.  
+~
+0 8 0
+D3
+~
+~
+0 0 17575
+S
+#17699
+Unused~
+~
+0 40964 0
+S
+#17700
+Unused~
+~
+0 40964 0
+S
+#0
+
+
+
+#SPECIALS
+M 17516 spec_guard
+M 17518 spec_cast_adept
+M 17525 spec_questmaster
+M 17550 spec_cast_undead
+M 17600 spec_guard
+S
+
+
+
+#RESETS
+D 0 17512 5 1
+D 0 17635 4 2
+D 0 17636 5 2
+D 0 17637 4 1
+D 0 17643 0 1
+D 0 17651 2 1
+M 0 17517 1 17502 1
+M 0 17600 14 17503 1
+E 0 17511 0 20
+M 0 17517 1 17504 1
+M 0 17600 14 17505 1
+E 0 17511 0 20
+M 0 17516 4 17506 1
+M 0 17515 1 17512 1
+E 0 17559 0 21
+M 0 17516 4 17515 1
+M 0 17600 14 17517 1
+E 0 17511 0 20
+M 0 17516 4 17520 1
+M 0 17517 1 17521 1
+M 0 17600 14 17523 1
+E 0 17511 0 20
+M 0 17517 1 17524 1
+M 0 17501 4 17525 1
+E 0 10104 0 21
+M 0 17600 14 17526 1
+E 0 17511 0 20
+M 0 17600 14 17528 1
+E 0 17511 0 20
+M 0 17600 14 17531 1
+E 0 17511 0 20
+M 0 17501 4 17534 1
+E 0 10104 0 21
+M 0 17516 4 17535 1
+M 0 17600 14 17536 1
+E 0 17511 0 20
+M 0 17600 14 17539 1
+E 0 17511 0 20
+M 0 17600 14 17542 1
+E 0 17511 0 20
+M 0 17501 4 17544 1
+E 0 10104 0 21
+M 0 17517 1 17546 1
+M 0 17517 1 17551 1
+M 0 17517 1 17556 1
+M 0 17517 1 17562 1
+M 0 17517 1 17572 1
+M 0 17517 1 17576 1
+M 0 17517 1 17582 1
+M 0 17517 1 17586 1
+M 0 17517 1 17591 1
+M 0 17517 1 17603 1
+M 0 17517 1 17613 1
+M 0 17502 1 17620 1
+M 0 17503 1 17621 1
+M 0 17504 1 17622 1
+G 0 17511 0
+G 0 17501 0
+G 0 17502 0
+G 0 17503 0
+G 0 17514 0
+G 0 17513 0
+G 0 17512 0
+M 0 17505 1 17623 1
+G 0 17509 0
+G 0 17510 0
+G 0 17504 0
+G 0 17508 0
+G 0 17507 0
+G 0 17506 0
+G 0 17505 0
+G 0 17521 0
+G 0 17520 0
+G 0 17519 0
+G 0 17518 0
+G 0 17517 0
+G 0 17516 0
+G 0 17515 0
+M 0 17506 1 17624 1
+M 0 17510 1 17624 1
+G 0 17525 0
+G 0 17523 0
+G 0 17524 0
+G 0 17526 0
+G 0 17522 0
+M 0 17507 1 17625 1
+G 0 17529 0
+G 0 17530 0
+G 0 17528 0
+G 0 17527 0
+M 0 17508 1 17626 1
+G 0 17532 0
+G 0 17535 0
+G 0 17533 0
+G 0 17534 0
+G 0 17531 0
+M 0 17509 1 17627 1
+G 0 17539 0
+G 0 17538 0
+G 0 17537 0
+G 0 17540 0
+G 0 17536 0
+M 0 17525 1 17635 1
+E 0 17560 0 21
+O 0 17556 0 17638
+P 0 17557 1 17556 1
+P 0 17558 1 17557 1
+M 0 17550 1 17638 1
+E 0 17550 0 5
+E 0 17551 0 13
+E 0 17552 0 8
+E 0 17553 0 15
+E 0 17554 0 20
+E 0 17555 0 6
+M 0 17511 1 17639 1
+M 0 17512 1 17640 1
+M 0 17513 1 17640 1
+M 0 17514 1 17641 1
+G 0 17543 0
+O 0 17651 0 17650
+M 0 17518 1 17650 1
+M 0 17519 1 17651 1
+M 0 17520 1 17653 1
+M 0 17519 1 17655 1
+M 0 17519 1 17657 1
+M 0 17519 1 17659 1
+M 0 17520 1 17661 1
+M 0 17522 1 17663 1
+M 0 17520 1 17665 1
+M 0 17521 1 17666 1
+M 0 17519 1 17667 1
+M 0 17519 1 17669 1
+M 0 17521 1 17670 1
+M 0 17519 1 17671 1
+M 0 17520 1 17673 1
+M 0 17519 1 17675 1
+M 0 17523 1 17686 1
+G 0 17545 0
+G 0 17544 0
+G 0 17546 0
+M 0 17524 1 17686 1
+G 0 17547 0
+S
+
+
+
+#SHOPS
+17504 5 0 0 0 5 100 60 8 20
+17505 9 0 0 0 9 100 60 8 20
+17507 0 0 4 10 2 100 60 8 20
+17508 0 0 17 15 1 100 60 8 20
+17509 0 0 0 0 19 100 60 8 20
+17510 0 0 0 8 22 100 60 8 20
+17514 0 0 0 0 28 100 60 8 20
+17523 0 0 0 0 0 150 45 0 23
+0
+
+
+
+#MOBPROGS
+#17501
+if hastarget $i
+   say I warned you!
+   MOB ECHOAT $q $I screams and attacks you!
+   MOB ECHOAROUND $q $I screams and attacks $Q!
+   kill $q
+else
+   MOB FORGET
+endif
+~
+#17502
+if race $n silvanesti
+else
+   MOB REMEMBER $n
+   scowl $q
+   say I don't like outsiders, leave this city now!
+   snarl $q
+   MOB DELAY 5
+   break
+endif
+~
+#17503
+MOB MLOAD 17600
+   MOB OLOAD 17511 20 room
+   MOB FORCE $i get glaive
+   MOB FORCE $i wear glaive
+   MOB ECHO {rAnother guard arrives for backup!{x
+   MOB FORCE $i MOB ASSIST 2.$i
+~
+#17504
+MOB REMOVE $i 17511
+~
+#17505
+say Thanks. I'll try this key out, maybe it'll work.
+MOB ECHO $I goes into the backroom to try the key on the safe.
+MOB GOTO 17699
+MOB REMEMBER $n
+MOB DELAY 5
+~
+#17506
+unlock safe
+open safe
+get coupon safe
+close safe
+lock safe
+MOB JUNK key
+MOB GOTO 17624
+MOB ECHO $I arrives from the backroom.
+if hastarget $i
+else
+say Now where did that nice young person go?
+MOB FORGET
+break
+endif
+if carries $i tattoo
+   say The key worked! Thanks! Here's something for your generosity.
+   give tattoo $q
+   say My brother works in a tattoo parlor, if you find him, give this coupon to him and he'll give you a free tattoo... maybe.
+else
+   say I couldn't get the key to work, it snapped in the keyhole. Sorry.
+endif
+~
+#17515
+if isimmort $n
+bow $n
+say Greetings, $n , it is an honor to be graced with your presence.
+say The master awaits your visit!
+mob echoaround $n $n leaves down.
+mob transfer $n 17637
+else
+if level $n < 90
+say Hey there $N! You are not allowed in there!
+mob echoat $n $I looks at you with a glaring eye.
+mob echoaround $n $I glares at $n.
+mob remember $n
+mob delay 5
+else
+say $n , you shall fell my wrath!
+say In the name of Silvanos!!!
+mob echoat $n $I screams and attacks you!
+mob echoaround $n $I busts a cap in $n's ass!
+mob kill $n
+endif
+endif
+~
+#17516
+if hastarget $i
+say Now you've done it! Come with me!
+mob echoat $q $I marches you out of town!
+mob echoaround $q $I takes $q out of town!
+mob transfer $q 10101
+else
+mob forget
+endif
+~
+#17523
+if sex $n == 1
+say Welcome to the Ink Rush, $n
+say Come in, have a seat!
+say Would you like to see my Beaver?
+else
+if sex $n == 2
+say Welcome to the Ink Rush, $n .
+else
+break
+endif
+endif
+~
+#17524
+if sex $n == 1
+mob echoat $n $i gasps in astonishment at your perverse thoughts!
+mob echoaround $n $i gasps in astonishment at $n dirty mind!
+mob echoat $n $i slaps the taste out of your mouth! OUCH!
+mob echoaround $n $i slaps the taste out of $n's mouth!
+say I was referring to the tattoo on my arm, Pervert!
+else
+break
+endif
+~
+#17525
+if carries $i sithel
+say Ahh, I see you have been to my brother Palid's shop.
+say How is the old man anyways?
+say But I digress, here take this as a token of my appreciation for helping my brother. He seems to be getting most forgetful these days.
+give sithel $n
+say Please come back and see us some time.
+else
+say I'm sorry but we're a bit too busy at this time. Come back at a later date.
+endif
+~
+#17600
+if isevil $n
+say "Begone, foul intruder! Your kind has no place here!"
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$
