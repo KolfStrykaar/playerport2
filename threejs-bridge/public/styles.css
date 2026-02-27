@@ -386,6 +386,88 @@ body {
   gap: 8px;
 }
 
+.room-transition {
+  position: absolute;
+  inset: 0;
+  background: black;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 160ms ease;
+  z-index: 5;
+}
+
+.room-transition.active {
+  opacity: 0.65;
+}
+
+.reconnect-banner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 60, 60, 0.88);
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 1.08rem;
+  letter-spacing: 0.04em;
+  z-index: 100;
+  text-align: center;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  animation: reconnectPulse 1.6s ease-in-out infinite;
+}
+
+.reconnect-banner.hidden {
+  display: none;
+}
+
+@keyframes reconnectPulse {
+  0%, 100% { opacity: 0.88; transform: translate(-50%, -50%) scale(1); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(1.03); }
+}
+
+.touch-joystick {
+  position: absolute;
+  left: 50%;
+  bottom: 220px;
+  transform: translateX(-50%);
+  z-index: 20;
+  pointer-events: auto;
+}
+
+.touch-joystick.hidden {
+  display: none;
+}
+
+.joystick-base {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  border: 2px solid rgba(255, 255, 255, 0.18);
+  position: relative;
+  touch-action: none;
+}
+
+.joystick-thumb {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 153, 64, 0.55);
+  border: 2px solid rgba(255, 153, 64, 0.75);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: background 80ms ease;
+}
+
+.joystick-thumb.active {
+  background: rgba(255, 153, 64, 0.82);
+}
+
 @media (max-width: 860px) {
   .log-panel {
     left: 16px;

@@ -450,12 +450,26 @@ const renderer = new THREE.WebGLRenderer({
 });
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.05;
 
 const hemiLight = new THREE.HemisphereLight(0xaec9e8, 0x181613, 0.75);
 scene.add(hemiLight);
 
 const dirLight = new THREE.DirectionalLight(0xffeecf, 0.82);
 dirLight.position.set(13, 20, 11);
+dirLight.castShadow = true;
+dirLight.shadow.mapSize.width = 1024;
+dirLight.shadow.mapSize.height = 1024;
+dirLight.shadow.camera.near = 0.5;
+dirLight.shadow.camera.far = 80;
+dirLight.shadow.camera.left = -40;
+dirLight.shadow.camera.right = 40;
+dirLight.shadow.camera.top = 40;
+dirLight.shadow.camera.bottom = -40;
+dirLight.shadow.bias = -0.001;
 scene.add(dirLight);
 
 const accentLight = new THREE.PointLight(0xffba72, 0.4, 48, 2);
@@ -464,6 +478,41 @@ scene.add(accentLight);
 
 const roomGroup = new THREE.Group();
 scene.add(roomGroup);
+
+const skyDomeGeometry = new THREE.SphereGeometry(190, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2);
+const skyDomeMaterial = new THREE.ShaderMaterial({
+  uniforms: {
+    topColor: { value: new THREE.Color(0x0a1628) },
+    bottomColor: { value: new THREE.Color(0x1a2532) },
+    offset: { value: 20.0 },
+    exponent: { value: 0.4 },
+  },
+  vertexShader: `
+    varying vec3 vWorldPosition;
+    void main() {
+      vec4 worldPosition = modelMatrix * vec4(position, 1.0);
+      vWorldPosition = worldPosition.xyz;
+      gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+    }
+  `,
+  fragmentShader: `
+    uniform vec3 topColor;
+    uniform vec3 bottomColor;
+    uniform float offset;
+    uniform float exponent;
+    varying vec3 vWorldPosition;
+    void main() {
+      float h = normalize(vWorldPosition + offset).y;
+      gl_FragColor = vec4(mix(bottomColor, topColor, max(pow(max(h, 0.0), exponent), 0.0)), 1.0);
+    }
+  `,
+  side: THREE.BackSide,
+  depthWrite: false,
+});
+const skyDome = new THREE.Mesh(skyDomeGeometry, skyDomeMaterial);
+scene.add(skyDome);
+
+const portalEffects = [];
 
 const minimapScene = new THREE.Scene();
 minimapScene.background = new THREE.Color(0x101725);
@@ -553,6 +602,134 @@ let activeInfoPanelId = null;
 let panelCapture = null;
 let isImmortal = false;
 const panelTextById = Object.create(null);
+
+const roomTransitionEl = document.getElementById("room-transition");
+const reconnectBanner = document.getElementById("reconnect-banner");
+const reconnectText = document.getElementById("reconnect-text");
+const touchJoystickEl = document.getElementById("touch-joystick");
+const joystickThumb = document.getElementById("joystick-thumb");
+
+const isTouchDevice = "ontouchstart" in window || navigator.maxTouchPoints > 0;
+if (isTouchDevice) {
+  touchJoystickEl.classList.remove("hidden");
+}
+
+class AmbientParticleSystem {
+  constructor(count, roomWidth, roomHeight, roomDepth) {
+    this.count = count;
+    this.positions = new Float32Array(count * 3);
+    this.velocities = new Float32Array(count * 3);
+    this.opacities = new Float32Array(count);
+    this.halfWidth = roomWidth / 2;
+    this.halfDepth = roomDepth / 2;
+    this.maxHeight = roomHeight;
+
+    const geometry = new THREE.BufferGeometry();
+    geometry.setAttribute("position", new THREE.BufferAttribute(this.positions, 3));
+
+    this.material = new THREE.PointsMaterial({
+      color: 0xffd8a8,
+      size: 0.35,
+      transparent: true,
+      opacity: 0.55,
+      depthWrite: false,
+      blending: THREE.AdditiveBlending,
+    });
+
+    this.mesh = new THREE.Points(geometry, this.material);
+    this.resetAll();
+  }
+
+  resetAll() {
+    for (let i = 0; i < this.count; i++) {
+      this.resetParticle(i);
+    }
+  }
+
+  resetParticle(i) {
+    const i3 = i * 3;
+    this.positions[i3] = (Math.random() - 0.5) * this.halfWidth * 1.8;
+    this.positions[i3 + 1] = Math.random() * this.maxHeight;
+    this.positions[i3 + 2] = (Math.random() - 0.5) * this.halfDepth * 1.8;
+    this.velocities[i3] = (Math.random() - 0.5) * 0.5;
+    this.velocities[i3 + 1] = 0.15 + Math.random() * 0.4;
+    this.velocities[i3 + 2] = (Math.random() - 0.5) * 0.5;
+    this.opacities[i] = 0.2 + Math.random() * 0.6;
+  }
+
+  update(deltaSeconds) {
+    for (let i = 0; i < this.count; i++) {
+      const i3 = i * 3;
+      this.positions[i3] += this.velocities[i3] * deltaSeconds;
+      this.positions[i3 + 1] += this.velocities[i3 + 1] * deltaSeconds;
+      this.positions[i3 + 2] += this.velocities[i3 + 2] * deltaSeconds;
+
+      if (
+        this.positions[i3 + 1] > this.maxHeight ||
+        Math.abs(this.positions[i3]) > this.halfWidth ||
+        Math.abs(this.positions[i3 + 2]) > this.halfDepth
+      ) {
+        this.resetParticle(i);
+        this.positions[i3 + 1] = 0.2;
+      }
+    }
+    this.mesh.geometry.attributes.position.needsUpdate = true;
+  }
+
+  setColor(hex) {
+    this.material.color.setHex(hex);
+  }
+
+  dispose() {
+    this.mesh.geometry.dispose();
+    this.material.dispose();
+  }
+}
+
+let ambientParticles = null;
+
+function createAmbientParticles(style) {
+  if (ambientParticles) {
+    roomGroup.remove(ambientParticles.mesh);
+    ambientParticles.dispose();
+  }
+  ambientParticles = new AmbientParticleSystem(80, ROOM_WIDTH, ROOM_HEIGHT, ROOM_DEPTH);
+  ambientParticles.setColor(style.accent);
+  roomGroup.add(ambientParticles.mesh);
+}
+
+function createPortalRing(x, y, z, rotation, style) {
+  const ring = new THREE.Mesh(
+    new THREE.TorusGeometry(EXIT_WIDTH * 0.35, 0.18, 12, 36),
+    new THREE.MeshStandardMaterial({
+      color: style.portal,
+      emissive: style.portalEmissive,
+      emissiveIntensity: 0.6,
+      roughness: 0.28,
+      metalness: 0.3,
+      transparent: true,
+      opacity: 0.72,
+    }),
+  );
+  ring.position.set(x, y, z);
+  if (rotation === "y") {
+    ring.rotation.y = Math.PI / 2;
+  }
+  ring.castShadow = false;
+  ring.receiveShadow = false;
+  roomGroup.add(ring);
+
+  const glow = new THREE.PointLight(style.portal, 0.35, 14, 2);
+  glow.position.set(x, y, z);
+  roomGroup.add(glow);
+
+  portalEffects.push({ ring, glow, baseY: y, phase: Math.random() * Math.PI * 2 });
+}
+
+function updateSkyDomeColors(style) {
+  skyDomeMaterial.uniforms.topColor.value.setHex(style.background);
+  skyDomeMaterial.uniforms.bottomColor.value.setHex(style.fog);
+}
 
 const PANEL_CONFIG = {
   room_description: {
@@ -862,6 +1039,7 @@ function capturePanelText(text) {
 
 function clearRoomScene() {
   clearGroup(roomGroup);
+  portalEffects.length = 0;
   actorState.playerRig = null;
   actorState.npcs = [];
   activeWalkableZones = [];
@@ -978,6 +1156,8 @@ function applySceneStyle(style) {
 
   accentLight.color.setHex(style.accent);
   accentLight.intensity = 0.42 + movePulse * 0.35;
+
+  updateSkyDomeColors(style);
 }
 
 function makeStandardMaterial(color, overrides = {}) {
@@ -992,6 +1172,8 @@ function makeStandardMaterial(color, overrides = {}) {
 function addBox(width, height, depth, x, y, z, material) {
   const mesh = new THREE.Mesh(new THREE.BoxGeometry(width, height, depth), material);
   mesh.position.set(x, y, z);
+  mesh.castShadow = true;
+  mesh.receiveShadow = true;
   roomGroup.add(mesh);
   return mesh;
 }
@@ -1126,6 +1308,9 @@ function createHumanoid({
   rightLeg.position.y = -0.8 * scale;
   leftLegPivot.add(leftLeg);
   rightLegPivot.add(rightLeg);
+
+  torso.castShadow = true;
+  head.castShadow = true;
 
   group.add(torso);
   group.add(head);
@@ -1890,6 +2075,22 @@ function buildRoomGeometry(room, styleName, style, roomMapPayload) {
   }
 
   addDescriptionDecor(room, styleName, style);
+
+  const portalY = EXIT_HEIGHT * 0.52;
+  if (isExitAvailable(exits, "north")) {
+    createPortalRing(0, portalY, -ROOM_DEPTH / 2 - EXIT_TRIGGER_DEPTH * 0.3, null, style);
+  }
+  if (isExitAvailable(exits, "south")) {
+    createPortalRing(0, portalY, ROOM_DEPTH / 2 + EXIT_TRIGGER_DEPTH * 0.3, null, style);
+  }
+  if (isExitAvailable(exits, "east")) {
+    createPortalRing(ROOM_WIDTH / 2 + EXIT_TRIGGER_DEPTH * 0.3, portalY, 0, "y", style);
+  }
+  if (isExitAvailable(exits, "west")) {
+    createPortalRing(-ROOM_WIDTH / 2 - EXIT_TRIGGER_DEPTH * 0.3, portalY, 0, "y", style);
+  }
+
+  createAmbientParticles(style);
   spawnRoomActors(room, style, exits);
 }
 
@@ -2135,6 +2336,7 @@ function renderMiniMap(room, roomMapPayload) {
 }
 
 function renderUnknownRoom(roomId) {
+  triggerRoomTransition();
   currentRoom = null;
   clearRoomScene();
   inputState.forward = false;
@@ -2154,12 +2356,21 @@ function renderUnknownRoom(roomId) {
   }
 }
 
+function triggerRoomTransition() {
+  roomTransitionEl.classList.add("active");
+  setTimeout(() => {
+    roomTransitionEl.classList.remove("active");
+  }, 280);
+}
+
 function renderKnownRoom(room, roomMapPayload) {
+  triggerRoomTransition();
   currentRoom = room;
 
   const chosen = chooseRoomStyle(room);
 
   buildRoomGeometry(room, chosen.name, chosen.style, roomMapPayload);
+  updateSkyDomeColors(chosen.style);
   inputState.forward = false;
   inputState.backward = false;
   inputState.left = false;
@@ -2229,6 +2440,19 @@ function animate(now) {
   movePulse = Math.max(0, movePulse - deltaSeconds * 1.75);
 
   accentLight.intensity = 0.4 + movePulse * 0.35;
+
+  if (ambientParticles) {
+    ambientParticles.update(deltaSeconds);
+  }
+
+  for (const portal of portalEffects) {
+    portal.phase += deltaSeconds * 1.8;
+    const pulse = Math.sin(portal.phase) * 0.12;
+    portal.ring.rotation.z += deltaSeconds * 0.6;
+    portal.ring.scale.setScalar(1.0 + pulse);
+    portal.ring.material.emissiveIntensity = 0.45 + pulse * 1.8;
+    portal.glow.intensity = 0.3 + Math.sin(portal.phase * 1.3) * 0.15;
+  }
 
   const mapLerp = 1 - Math.exp(-MAP_TRANSITION_SPEED * deltaSeconds);
   minimapGroup.position.multiplyScalar(1 - mapLerp);
@@ -2332,24 +2556,28 @@ window.addEventListener("resize", () => {
 });
 
 const wsProtocol = window.location.protocol === "https:" ? "wss" : "ws";
-const socket = new WebSocket(`${wsProtocol}://${window.location.host}`);
+const wsUrl = `${wsProtocol}://${window.location.host}`;
 
-socket.addEventListener("open", () => {
-  setConnectionLabel("Bridge Online", "var(--move)");
-  appendLog("[bridge] connected\n");
-});
+const reconnectState = {
+  attempt: 0,
+  maxAttempts: 20,
+  baseDelay: 1000,
+  maxDelay: 16000,
+  timer: null,
+};
 
-socket.addEventListener("close", () => {
-  setConnectionLabel("Disconnected", "var(--hp)");
-  appendLog("[bridge] disconnected\n");
-});
+let socket = null;
 
-socket.addEventListener("error", () => {
-  setConnectionLabel("Error", "var(--hp)");
-  appendLog("[bridge] socket error\n");
-});
+function showReconnectBanner(message) {
+  reconnectText.textContent = message;
+  reconnectBanner.classList.remove("hidden");
+}
 
-socket.addEventListener("message", (event) => {
+function hideReconnectBanner() {
+  reconnectBanner.classList.add("hidden");
+}
+
+function handleMessage(event) {
   let payload;
   try {
     payload = JSON.parse(event.data);
@@ -2387,7 +2615,57 @@ socket.addEventListener("message", (event) => {
     default:
       break;
   }
-});
+}
+
+function scheduleReconnect() {
+  if (reconnectState.attempt >= reconnectState.maxAttempts) {
+    showReconnectBanner("Connection lost. Refresh the page to retry.");
+    return;
+  }
+
+  const delay = Math.min(
+    reconnectState.baseDelay * Math.pow(2, reconnectState.attempt),
+    reconnectState.maxDelay,
+  );
+  reconnectState.attempt += 1;
+  const seconds = Math.round(delay / 1000);
+  showReconnectBanner(`Reconnecting in ${seconds}s... (attempt ${reconnectState.attempt})`);
+  appendLog(`[bridge] reconnecting in ${seconds}s (attempt ${reconnectState.attempt})\n`);
+
+  reconnectState.timer = setTimeout(() => {
+    showReconnectBanner(`Connecting... (attempt ${reconnectState.attempt})`);
+    connectWebSocket();
+  }, delay);
+}
+
+function connectWebSocket() {
+  if (socket && (socket.readyState === WebSocket.OPEN || socket.readyState === WebSocket.CONNECTING)) {
+    return;
+  }
+
+  socket = new WebSocket(wsUrl);
+
+  socket.addEventListener("open", () => {
+    reconnectState.attempt = 0;
+    hideReconnectBanner();
+    setConnectionLabel("Bridge Online", "var(--move)");
+    appendLog("[bridge] connected\n");
+  });
+
+  socket.addEventListener("close", () => {
+    setConnectionLabel("Disconnected", "var(--hp)");
+    appendLog("[bridge] disconnected\n");
+    scheduleReconnect();
+  });
+
+  socket.addEventListener("error", () => {
+    setConnectionLabel("Error", "var(--hp)");
+  });
+
+  socket.addEventListener("message", handleMessage);
+}
+
+connectWebSocket();
 commandForm.addEventListener("submit", (event) => {
   event.preventDefault();
   const command = commandInput.value.trim();
@@ -2493,6 +2771,75 @@ window.addEventListener("keyup", (event) => {
   }
   inputState[localMove] = false;
 });
+
+const joystickState = {
+  active: false,
+  pointerId: -1,
+  centerX: 0,
+  centerY: 0,
+  radius: 40,
+};
+
+const joystickBase = touchJoystickEl?.querySelector(".joystick-base");
+
+if (joystickBase) {
+  joystickBase.addEventListener("pointerdown", (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    joystickState.active = true;
+    joystickState.pointerId = event.pointerId;
+    const rect = joystickBase.getBoundingClientRect();
+    joystickState.centerX = rect.left + rect.width / 2;
+    joystickState.centerY = rect.top + rect.height / 2;
+    joystickBase.setPointerCapture(event.pointerId);
+    joystickThumb.classList.add("active");
+  });
+
+  joystickBase.addEventListener("pointermove", (event) => {
+    if (!joystickState.active || event.pointerId !== joystickState.pointerId) {
+      return;
+    }
+    event.preventDefault();
+
+    const dx = event.clientX - joystickState.centerX;
+    const dy = event.clientY - joystickState.centerY;
+    const dist = Math.sqrt(dx * dx + dy * dy);
+    const clamped = Math.min(dist, joystickState.radius);
+    const angle = Math.atan2(dy, dx);
+    const nx = Math.cos(angle) * clamped;
+    const ny = Math.sin(angle) * clamped;
+
+    joystickThumb.style.transform = `translate(calc(-50% + ${nx}px), calc(-50% + ${ny}px))`;
+
+    const deadZone = 0.25;
+    const normalizedX = nx / joystickState.radius;
+    const normalizedY = ny / joystickState.radius;
+
+    inputState.forward = normalizedY < -deadZone;
+    inputState.backward = normalizedY > deadZone;
+    inputState.left = normalizedX < -deadZone;
+    inputState.right = normalizedX > deadZone;
+    inputState.sprint = dist > joystickState.radius * 0.85;
+  });
+
+  const releaseJoystick = (event) => {
+    if (!joystickState.active || event.pointerId !== joystickState.pointerId) {
+      return;
+    }
+    joystickState.active = false;
+    joystickState.pointerId = -1;
+    joystickThumb.style.transform = "translate(-50%, -50%)";
+    joystickThumb.classList.remove("active");
+    inputState.forward = false;
+    inputState.backward = false;
+    inputState.left = false;
+    inputState.right = false;
+    inputState.sprint = false;
+  };
+
+  joystickBase.addEventListener("pointerup", releaseJoystick);
+  joystickBase.addEventListener("pointercancel", releaseJoystick);
+}
 
 setImmortalState(false);
 updatePanelButtonSelection();
